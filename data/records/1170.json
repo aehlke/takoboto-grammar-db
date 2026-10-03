@@ -1,0 +1,584 @@
+{
+  "schema_version": 2,
+  "id": 1170,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1170/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "がる",
+  "romanized_label": "garu",
+  "alternate_forms": [],
+  "jlpt_level": 4,
+  "credits_raw": "Amatuka",
+  "meaning": "to seems ~ (of somebody else's emotions & desires), to show sign of ~, to appear ~",
+  "meaning_example": "He (looks like) he wants a new car.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1170",
+      "body_text": "to seems ~ (of somebody else's emotions & desires), to show sign of ~, to appear ~ \n He (looks like) he wants a new car.",
+      "body_html": "<span>to seems ~ (of somebody else's emotions &amp; desires), to show sign of ~, to appear ~</span> <br/> <span>He (looks like) he wants a new car.</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1170",
+      "body_text": "い adjective (without い)+がるな adjective+がる",
+      "body_html": "<div><div><div>い adjective (without い)</div></div><div><div>+</div><div>がる</div></div></div><div><div><div>な adjective</div></div><div><div>+</div><div>がる</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "い adjective (without い) + がる",
+    "な adjective + がる"
+  ],
+  "examples": [
+    {
+      "source_id": 713,
+      "position": 0,
+      "japanese": "小川さんはどうも新しい車を欲しがるんですね。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%b0%8f%e5%b7%9d%e3%81%95%e3%82%93%e3%81%af%e3%81%a9%e3%81%86%e3%82%82\"><span>小川さんはどうも</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84\"><span>新しい</span></a><a href=\"https://takoboto.jp/?q=%e8%bb%8a%e3%82%92\"><span>車を</span></a><a href=\"https://takoboto.jp/?q=%e6%ac%b2%e3%81%97\"><span>欲し</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8c%e3%82%8b\"><strong>がる</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%93%e3%81%a7%e3%81%99%e3%81%ad%e3%80%82\"><span>んですね。</span></a>",
+      "segments": [
+        {
+          "text": "小川さんはどうも新しい車を欲し",
+          "grammar_highlight": false
+        },
+        {
+          "text": "がる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "んですね。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おがわさんはどうもあたらしいくるまをほしがるんですね。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Mr. Ogawa really looks like he wants a new car, doesn't he?",
+          "html": "<span>Mr. Ogawa really </span><strong>looks like </strong><span>he wants a new car, doesn't he? </span>",
+          "segments": [
+            {
+              "text": "Mr. Ogawa really ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "looks like ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "he wants a new car, doesn't he? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1573,
+      "position": 1,
+      "japanese": "バカ！放せよ！彼女は苦しがってるじゃない!",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%90%e3%82%ab\"><span>バカ</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%81%e6%94%be%e3%81%9b%e3%82%88\"><span>！放せよ</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%81%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>！彼女は</span></a><a href=\"https://takoboto.jp/?q=%e8%8b%a6%e3%81%97\"><span>苦し</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8c%e3%81%a3%e3%81%a6%e3%82%8b\"><strong>がってる</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%98%e3%82%83%e3%81%aa%e3%81%84!\"><span>じゃない!</span></a>",
+      "segments": [
+        {
+          "text": "バカ！放せよ！彼女は苦し",
+          "grammar_highlight": false
+        },
+        {
+          "text": "がってる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "じゃない!",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "バカ！はなせよ！かのじょはくるしがってるじゃない",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Idiot! Get off her! Can't you see you're choking her? (Lit: ~Doesn't she look like she's suffering.)",
+          "html": "<span>Idiot! Get off her! Can't you see you're choking her? (Lit: ~Doesn't she </span><strong>look like </strong><span>she's suffering.) </span>",
+          "segments": [
+            {
+              "text": "Idiot! Get off her! Can't you see you're choking her? (Lit: ~Doesn't she ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "look like ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "she's suffering.) ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3049,
+      "position": 2,
+      "japanese": "お乳欲しがるあの子がかわい..",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e4%b9%b3\"><span>乳</span></a><a href=\"https://takoboto.jp/?q=%e6%ac%b2%e3%81%97%e3%81%8c%e3%82%8b\"><strong>欲しがる</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae\"><span>あの</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e3%81%8c%e3%81%8b%e3%82%8f%e3%81%84..\"><span>子がかわい..</span></a>",
+      "segments": [
+        {
+          "text": "お乳",
+          "grammar_highlight": false
+        },
+        {
+          "text": "欲しがる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "あの子がかわい..",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おちちほしがるあのこがかわい",
+      "credits_raw": "bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Feel such pity, the baby crying for mother's milk.",
+          "html": "<span>Feel such pity, the baby </span><strong>crying for </strong><span>mother's milk. </span>",
+          "segments": [
+            {
+              "text": "Feel such pity, the baby ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "crying for ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "mother's milk. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3050,
+      "position": 3,
+      "japanese": "そんなに強がるんじゃねえ！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%93%e3%81%aa%e3%81%ab\"><span>そんなに</span></a><a href=\"https://takoboto.jp/?q=%e5%bc%b7%e3%81%8c%e3%82%8b%e3%82%93\"><strong>強がるん</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%98%e3%82%83%e3%81%ad%e3%81%88\"><span>じゃねえ</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%81\"><span>！</span></a>",
+      "segments": [
+        {
+          "text": "そんなに",
+          "grammar_highlight": false
+        },
+        {
+          "text": "強がるん",
+          "grammar_highlight": true
+        },
+        {
+          "text": "じゃねえ！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そんなにつよがるんじゃねえ！",
+      "credits_raw": "bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Don't you act like a tough guy!",
+          "html": "<span>Don't you </span><strong>act like a tough guy! </strong>",
+          "segments": [
+            {
+              "text": "Don't you ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "act like a tough guy! ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7003,
+      "position": 4,
+      "japanese": "怖がっていないで、ジェトコースターに乗ってみて、おもしろいよ！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%80%96\"><span>怖</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8c%e3%81%a3%e3%81%a6\"><strong>がって</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%aa%e3%81%84%e3%81%a7%e3%80%81%e3%82%b8%e3%82%a7%e3%83%88%e3%82%b3%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc%e3%81%ab\"><span>いないで、ジェトコースターに</span></a><a href=\"https://takoboto.jp/?q=%e4%b9%97%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%a6%e3%80%81%e3%81%8a%e3%82%82%e3%81%97%e3%82%8d%e3%81%84%e3%82%88\"><span>乗ってみて、おもしろいよ</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%81\"><span>！</span></a>",
+      "segments": [
+        {
+          "text": "怖",
+          "grammar_highlight": false
+        },
+        {
+          "text": "がって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "いないで、ジェトコースターに乗ってみて、おもしろいよ！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こわがっていないで、にのってみて、おもしろいよ！",
+      "credits_raw": "タン",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Don't be scared, try the roller　coaster, it's fun!",
+          "html": "<span>Don't </span><strong>be scared, </strong><span>try the roller　coaster, it's fun! </span>",
+          "segments": [
+            {
+              "text": "Don't ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "be scared, ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "try the roller　coaster, it's fun! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7004,
+      "position": 5,
+      "japanese": "彼は、彼女と別れてから、いつも悲しがっています。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%80%81\"><span>彼は、</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%a8\"><span>彼女と</span></a><a href=\"https://takoboto.jp/?q=%e5%88%a5%e3%82%8c%e3%81%a6%e3%81%8b%e3%82%89%e3%80%81%e3%81%84%e3%81%a4%e3%82%82\"><span>別れてから、いつも</span></a><a href=\"https://takoboto.jp/?q=%e6%82%b2%e3%81%97\"><span>悲し</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8c%e3%81%a3%e3%81%a6\"><strong>がって</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>います。</span></a>",
+      "segments": [
+        {
+          "text": "彼は、彼女と別れてから、いつも悲し",
+          "grammar_highlight": false
+        },
+        {
+          "text": "がって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "います。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれは、かのじょとわかれてから、いつもかなしがっています。",
+      "credits_raw": "agnestan",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Since he broke up with his girlfriend, he's always seemed so sad.",
+          "html": "<span>Since he broke up with his girlfriend, he's always </span><strong>seemed so sad. </strong>",
+          "segments": [
+            {
+              "text": "Since he broke up with his girlfriend, he's always ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "seemed so sad. ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8165,
+      "position": 6,
+      "japanese": "その吠えている犬をこわがるな。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e5%90%a0%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e7%8a%ac%e3%82%92%e3%81%93%e3%82%8f\"><span>その吠えている犬をこわ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8c%e3%82%8b\"><strong>がる</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%80%82\"><span>な。</span></a>",
+      "segments": [
+        {
+          "text": "その吠えている犬をこわ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "がる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "な。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのほえているいぬをこわがるな。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Don`t be afraid of the barking dog.",
+          "html": "<span>Don`t be afraid of the barking dog. </span>",
+          "segments": [
+            {
+              "text": "Don`t be afraid of the barking dog. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8166,
+      "position": 7,
+      "japanese": "彼女はいやがる子を学校に連れて行った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%81%84%e3%82%84\"><span>彼女はいや</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8c%e3%82%8b\"><strong>がる</strong></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e3%82%92\"><span>子を</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%a6%e6%a0%a1%e3%81%ab\"><span>学校に</span></a><a href=\"https://takoboto.jp/?q=%e9%80%a3%e3%82%8c%e3%81%a6\"><span>連れて</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%80%82\"><span>行った。</span></a>",
+      "segments": [
+        {
+          "text": "彼女はいや",
+          "grammar_highlight": false
+        },
+        {
+          "text": "がる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "子を学校に連れて行った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはいやがるこをがっこうにつれていった。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She took her reluctant child to school.",
+          "html": "<span>She took her reluctant child to school. </span>",
+          "segments": [
+            {
+              "text": "She took her reluctant child to school. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8759,
+      "position": 8,
+      "japanese": "子供は甘いものを食べたがります。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%af\"><span>子供は</span></a><a href=\"https://takoboto.jp/?q=%e7%94%98%e3%81%84%e3%82%82%e3%81%ae%e3%82%92\"><span>甘いものを</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%9f%e3%81%8c%e3%82%8a%e3%81%be%e3%81%99%e3%80%82\"><span>食べたがります。</span></a>",
+      "segments": [
+        {
+          "text": "子供は甘いものを食べたがります。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こどもはあまいものをたべたがります。",
+      "credits_raw": "grafenberg",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Children seem to like sweets.",
+          "html": "<span>Children seem to like sweets. </span>",
+          "segments": [
+            {
+              "text": "Children seem to like sweets. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "- Formed by removing the い from i-adjectives and replacing it with がる \n- がる congugates as a normal Regular Group 1 / godan verb.\n- Formed from adjective base + garu\n\n(Amataku)",
+      "html": "- Formed by removing the い from i-adjectives and replacing it with がる <br/>- がる congugates as a normal Regular Group 1 / godan verb.<br/>- Formed from adjective base + garu<br/><br/>(Amataku)",
+      "credits_raw": "aitri",
+      "content_sha256": "5a01a9975482cd0cf32ec2121180d1acd796c91590ee3734560df53f1a90b577",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Formed by removing the い from i-adjectives and replacing it with がる",
+      "html": "Formed by removing the い from i-adjectives and replacing it with がる",
+      "credits_raw": "Amatuka",
+      "content_sha256": "3fffc0abfc9011d6381810e09d5d7a453b58bee31610ee5d581f830b83be2ce4",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "がる congugates as a normal Regular Group 1 / godan verb.",
+      "html": "がる congugates as a normal Regular Group 1 / godan verb.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "7d5d700f85e3946eb086c8ed7dfcf4825cc01bd25ee1cca9177c912c93f0430b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Try again...\n何か確認したいんです。この「がる」って、第二人称 のことについて使えますか？第三人称だけと思いました。\n能力試験は１２月５日に...",
+      "html": "Try again...<br/>何か確認したいんです。この「がる」って、第二人称 のことについて使えますか？第三人称だけと思いました。<br/>能力試験は１２月５日に...",
+      "credits_raw": "Leslie",
+      "content_sha256": "260a58d9d27f3d17707077983d34881a8190568a0e4a9f6e3d7bbca0010c004a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "yes, that's correct. \n買いたい：　I want to buy\n買いたがっている: He wants to buy. \n\nalthough ex1573 seems a bit out of context...",
+      "html": "yes, that's correct. <br/>買いたい：　I want to buy<br/>買いたがっている: He wants to buy. <br/><br/>although ex1573 seems a bit out of context...",
+      "credits_raw": "dc",
+      "content_sha256": "c599144b4f0ccbb63d3e165908a59ff844b462c3e649155d96e614f18b3b0b5a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "So this conjugates like:\n 欲しがっている\nHe was wanting...",
+      "html": "So this conjugates like:<br/> 欲しがっている<br/>He was wanting...",
+      "credits_raw": "dc",
+      "content_sha256": "b48dfa1899dc28bc56d00dfe501b55e147bac5f7f2df15cce65f8f00945372e0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "In example 2, 苦しがってる is appropriate.苦しがる includes in this case some speculation that she would suffer, but I assume that is not the case here.",
+      "html": "In example 2, 苦しがってる is appropriate.苦しがる includes in this case some speculation that she would suffer, but I assume that is not the case here.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "e9f692310fa5eaafd7aefd68850b0072f3c61b44e494a824238f69c065863307",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "Although this grammar is listed as a JLPT 2 phrase, I've seen it pop up in previous years of JLPT 3...",
+      "html": "Although this grammar is listed as a JLPT 2 phrase, I've seen it pop up in previous years of JLPT 3...",
+      "credits_raw": "awh",
+      "content_sha256": "a6331b4ff1b2e5a82f2dad62231a067e6523993b87a2e59dd05766af611832e9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "i agree, it seems more basic that 2級. changed.",
+      "html": "i agree, it seems more basic that 2級. changed.",
+      "credits_raw": "dc",
+      "content_sha256": "6728f641016717d3bf5387226f08e762cc14df8ce55967a799ae4d09532a2a4b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Formed from adjective base + garu\nAb - Adjective-base",
+      "html": "Formed from adjective base + garu<br/>Ab - Adjective-base",
+      "credits_raw": "Amatuka",
+      "content_sha256": "f8fa4a97c2ebd12424d7940b16ab6ab877d93963436d58c802e6073b8b3909fd",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "ex1573 is a near-idomatic structure (Doesn't she look like, translated as, Can't you see that) and maybe reflects an aspect of the language other than syntax, something like grammatical mood, but I'm not sure...",
+      "html": "ex1573 is a near-idomatic structure (Doesn't she look like, translated as, Can't you see that) and maybe reflects an aspect of the language other than syntax, something like grammatical mood, but I'm not sure...",
+      "credits_raw": "adamstudio",
+      "content_sha256": "a61f1155ead6ae17be4d05be0ba3863177b8ba6a98a28414b6e1983c5186af87",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "I think ex #713 should be 小川さんはどうも新しい車が欲しがるんですね。 Rather than　小川さんはどうも新しい車を欲しがるんですね。\nAm I incorrect?",
+      "html": "I think ex #713 should be 小川さんはどうも新しい車が欲しがるんですね。 Rather than　小川さんはどうも新しい車を欲しがるんですね。<br/>Am I incorrect?",
+      "credits_raw": "UmiLi",
+      "content_sha256": "b5a185b72fef8b4cd3f4d6265c205040bcaa12579a44e5961df8bd450501a643",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "2UmiLi: Grammatically, the use is like 誰かが何々を欲しがる , because it is a transitive verb.\nTherefore, you can find both を欲しがる and が欲しがる in google, but it doesnt mean the same thing.",
+      "html": "2UmiLi: Grammatically, the use is like 誰かが何々を欲しがる , because it is a transitive verb.<br/>Therefore, you can find both を欲しがる and が欲しがる in google, but it doesnt mean the same thing.",
+      "credits_raw": "Iji",
+      "content_sha256": "65150eb5c5bfaa2bfdbcbb5b037b2b8f1b9c170433189f69b5960b53a5262a28",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "In the book I use it is said that for expressing someone's apparent will the progressive form がっている should always be used except for the negative form where がらない can be used. In that case, the first sentence would be incorrect. So is this a total mistake in my book or what ?",
+      "html": "In the book I use it is said that for expressing someone's apparent will the progressive form がっている should always be used except for the negative form where がらない can be used. In that case, the first sentence would be incorrect. So is this a total mistake in my book or what ?",
+      "credits_raw": "TyroneLove",
+      "content_sha256": "efd9972f1eb4538c303bc5beac501af768ca8a66a6572a62adaa746b2c2e006c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "Interesting to note:\n\"The ～がる forms make an assumption about the described person's internal state, whereas the ～そう form is a statement about the person's external appearance. (Maybe a bit like the difference between sympathy and empathy.)\"\nhttps://japanese.stackexchange.com/questions/11420/difference-between-%E3%81%8C%E3%82%8B-and-%EF%BD%9E%E3%81%9D%E3%81%86",
+      "html": "Interesting to note:<br/>\"The ～がる forms make an assumption about the described person's internal state, whereas the ～そう form is a statement about the person's external appearance. (Maybe a bit like the difference between sympathy and empathy.)\"<br/>https://japanese.stackexchange.com/questions/11420/difference-between-%E3%81%8C%E3%82%8B-and-%EF%BD%9E%E3%81%9D%E3%81%86",
+      "credits_raw": "vizoso",
+      "content_sha256": "a4857372b7218240922625b32ccd1eb5522cb3b049d3a1fb9840cd43941a4edf",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 15,
+      "source_id": null,
+      "text": "How about がります where and how to use\nAnd how to translate that",
+      "html": "How about がります where and how to use<br/>And how to translate that",
+      "credits_raw": "K",
+      "content_sha256": "e48cf76433cbc736321b5e6e495dd2f87b356c1aa927449f93188a8327e34183",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 756,
+      "label": "欲しい",
+      "source_url": "https://takoboto.jp/bunpo/756"
+    },
+    {
+      "target_id": 757,
+      "label": "たい",
+      "source_url": "https://takoboto.jp/bunpo/757"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:32:20+00:00",
+  "response_sha256": "b8b0d696b64199afa418c2ca48fd58ad347046671109b760b42685021d78a454",
+  "warnings": []
+}

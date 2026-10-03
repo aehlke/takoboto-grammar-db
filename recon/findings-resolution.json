@@ -1,0 +1,40 @@
+{
+  "resolved_at": "2026-10-03T08:38:26+00:00",
+  "tests_passed": 78,
+  "new_live_requests": 0,
+  "network_disabled": true,
+  "active_dataset": "archive-data",
+  "verification_output": "/Users/alex/Code/manabi/takoboto-grammar-db/smoke/findings-resolution-6ej0ybez",
+  "states_migrated": {
+    "entries": 25,
+    "feeds": 5
+  },
+  "export_ready": true,
+  "independent_current_membership": {
+    "verified_entries": 643,
+    "evidence_sha256": "f0ede151dd9a879c35e32707eeb1c6abc834b74a65f2200e03f7a79d55cca927"
+  },
+  "records_and_raw_caches_unchanged": true,
+  "previous_crawl_and_test_reports_unchanged": true,
+  "sqlite_integrity": "ok",
+  "sqlite_foreign_keys": "ok",
+  "complete_record_roundtrips": {
+    "takoboto": 643,
+    "jgram": 25,
+    "rss": 5
+  },
+  "markdown_files": 674,
+  "pending_historical_labels": 1389,
+  "findings_addressed": [
+    "Legacy records require persistent verification before export",
+    "Active dataset migrated using cached evidence with existing holds preserved",
+    "Historical ID eligibility verified from current captured source pages",
+    "RSS labels independently verified against current or eligible historical sources",
+    "Verification binds exact JSON records as well as raw response hashes",
+    "Newer cached responses prevent migration of stale legacy observations"
+  ],
+  "remaining_limits": [
+    "Unfetched historical labels remain pending",
+    "No contribution dates or contributor identities inferred without source evidence"
+  ]
+}

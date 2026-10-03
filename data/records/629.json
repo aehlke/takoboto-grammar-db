@@ -1,0 +1,496 @@
+{
+  "schema_version": 2,
+  "id": 629,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/629/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "何",
+  "romanized_label": "nani",
+  "alternate_forms": [
+    "なに"
+  ],
+  "jlpt_level": 5,
+  "credits_raw": "Amatuka",
+  "meaning": "What",
+  "meaning_example": "What will you have?",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_629",
+      "body_text": "What \n What will you have?",
+      "body_html": "<span>What</span> <br/> <span>What will you have?</span>",
+      "credits_raw": "Amatuka"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 700,
+      "position": 0,
+      "japanese": "何にしますか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bd%95\"><strong>何</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%e3%80%82\"><span>にしますか。</span></a>",
+      "segments": [
+        {
+          "text": "何",
+          "grammar_highlight": true
+        },
+        {
+          "text": "にしますか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なににしますか。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What will you have?",
+          "html": "<strong>What </strong><span>will you have? </span>",
+          "segments": [
+            {
+              "text": "What ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "will you have? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 701,
+      "position": 1,
+      "japanese": "何の用ですか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bd%95\"><strong>何</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><span>の</span></a><a href=\"https://takoboto.jp/?q=%e7%94%a8%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82\"><span>用ですか。</span></a>",
+      "segments": [
+        {
+          "text": "何",
+          "grammar_highlight": true
+        },
+        {
+          "text": "の用ですか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なにのようですか。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What is your business (here / with me) ?",
+          "html": "<strong>What </strong><span>is your business (here / with me) ? </span>",
+          "segments": [
+            {
+              "text": "What ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "is your business (here / with me) ? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4868,
+      "position": 2,
+      "japanese": "この花は英語で何（なん）と言いますか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e8%8a%b1%e3%81%af\"><span>花は</span></a><a href=\"https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%a7\"><span>英語で</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%ef%bc%88%e3%81%aa%e3%82%93%ef%bc%89\"><strong>何（なん）</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8\"><span>と</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%84%e3%81%be%e3%81%99%e3%81%8b%e3%80%82\"><span>言いますか。</span></a>",
+      "segments": [
+        {
+          "text": "この花は英語で",
+          "grammar_highlight": false
+        },
+        {
+          "text": "何（なん）",
+          "grammar_highlight": true
+        },
+        {
+          "text": "と言いますか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このはなはえいごでなに（なん）といいますか。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What do you call this flower in English?",
+          "html": "<strong>What </strong><span>do you call this flower in English? </span>",
+          "segments": [
+            {
+              "text": "What ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "do you call this flower in English? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4869,
+      "position": 3,
+      "japanese": "この箱の中に何がありますか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e7%ae%b1%e3%81%ae%e4%b8%ad%e3%81%ab\"><span>この箱の中に</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95\"><strong>何</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%81%8b%e3%80%82\"><span>がありますか。</span></a>",
+      "segments": [
+        {
+          "text": "この箱の中に",
+          "grammar_highlight": false
+        },
+        {
+          "text": "何",
+          "grammar_highlight": true
+        },
+        {
+          "text": "がありますか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このはこのなかになにがありますか。",
+      "credits_raw": "Miki, Racooten",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What  is in this box?",
+          "html": "<strong>What </strong><span> is in this box? </span>",
+          "segments": [
+            {
+              "text": "What ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " is in this box? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4870,
+      "position": 4,
+      "japanese": "あなたの好きな食べ物は何ですか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae\"><span>あなたの</span></a><a href=\"https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%aa\"><span>好きな</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9\"><span>食べ</span></a><a href=\"https://takoboto.jp/?q=%e7%89%a9%e3%81%af\"><span>物は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95\"><strong>何</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82\"><span>ですか。</span></a>",
+      "segments": [
+        {
+          "text": "あなたの好きな食べ物は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "何",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ですか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたのすきなたべものはなにですか。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What is your favourite food?",
+          "html": "<strong>What </strong><span>is your favourite food? </span>",
+          "segments": [
+            {
+              "text": "What ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "is your favourite food? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4871,
+      "position": 5,
+      "japanese": "お名前は何ですか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e5%90%8d%e5%89%8d%e3%81%af\"><span>名前は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95\"><strong>何</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82\"><span>ですか。</span></a>",
+      "segments": [
+        {
+          "text": "お名前は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "何",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ですか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おなまえはなにですか。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What is your name?",
+          "html": "<strong>What </strong><span>is your name? </span>",
+          "segments": [
+            {
+              "text": "What ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "is your name? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4872,
+      "position": 6,
+      "japanese": "あれは何ですか?(なん)あれはなんですか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%8c%e3%81%af\"><span>あれは</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95\"><strong>何</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%3f\"><span>ですか?</span></a><a href=\"https://takoboto.jp/?q=(%e3%81%aa%e3%82%93)\"><strong>(なん)</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%8c%e3%81%af%e3%81%aa%e3%82%93%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82\"><span>あれはなんですか。</span></a>",
+      "segments": [
+        {
+          "text": "あれは",
+          "grammar_highlight": false
+        },
+        {
+          "text": "何",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ですか?",
+          "grammar_highlight": false
+        },
+        {
+          "text": "(なん)",
+          "grammar_highlight": true
+        },
+        {
+          "text": "あれはなんですか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あれはなにですかなんあれはなんですか。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What is that?",
+          "html": "<strong>What </strong><span>is that? </span>",
+          "segments": [
+            {
+              "text": "What ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "is that? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4873,
+      "position": 7,
+      "japanese": "あなたが本当に言いたいことは何ですか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c\"><span>あなたが</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ab\"><span>本当に</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%84%e3%81%9f%e3%81%84%e3%81%93%e3%81%a8%e3%81%af\"><span>言いたいことは</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95\"><strong>何</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82\"><span>ですか。</span></a>",
+      "segments": [
+        {
+          "text": "あなたが本当に言いたいことは",
+          "grammar_highlight": false
+        },
+        {
+          "text": "何",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ですか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたがほんとうにいいたいことはなにですか。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What is it that you really want to say?",
+          "html": "<strong>What </strong><span>is it that you really want to say? </span>",
+          "segments": [
+            {
+              "text": "What ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "is it that you really want to say? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8630,
+      "position": 8,
+      "japanese": "何を見ましたか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bd%95\"><strong>何</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%92\"><span>を</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%be%e3%81%97%e3%81%9f%e3%81%8b%e3%80%82\"><span>見ましたか。</span></a>",
+      "segments": [
+        {
+          "text": "何",
+          "grammar_highlight": true
+        },
+        {
+          "text": "を見ましたか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なにをみましたか。",
+      "credits_raw": "Sakuratree",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What did you see?",
+          "html": "<span>What did you see? </span>",
+          "segments": [
+            {
+              "text": "What did you see? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8798,
+      "position": 9,
+      "japanese": "おい！あっちで何をしてるの？",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%84%ef%bc%81%e3%81%82%e3%81%a3%e3%81%a1%e3%81%a7\"><span>おい！あっちで</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95\"><strong>何</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%92%e3%81%97%e3%81%a6%e3%82%8b%e3%81%ae%ef%bc%9f\"><span>をしてるの？</span></a>",
+      "segments": [
+        {
+          "text": "おい！あっちで",
+          "grammar_highlight": false
+        },
+        {
+          "text": "何",
+          "grammar_highlight": true
+        },
+        {
+          "text": "をしてるの？",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おい！あっちでなにをしてるの？",
+      "credits_raw": "貴博",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Hey! What  are you doing there?",
+          "html": "<span>Hey! </span><strong>What </strong><span> are you doing there? </span>",
+          "segments": [
+            {
+              "text": "Hey! ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "What ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " are you doing there? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Use nan before b, p, d, t, n, r, and z. Use nani before all other letters.",
+      "html": "Use nan before b, p, d, t, n, r, and z. Use nani before all other letters.",
+      "credits_raw": "izumichan31",
+      "content_sha256": "f0f73c1a213b50f16c9837234aeb018907cfcee3a0f50cc85b14e30b4d9420a9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Nan and Nani\n\nGenerally nan, or nani is used for which ever flows better.\nHowever, Nani is used when wanting to be more polite and formal.\nOther situations may require getting a feel for using nan versus nani, or memorization.\n\nIn general, if the following word begins with a syllable from the t, n, and d groups. Nan is used.\n\nCommon usages:\nNan is used before particles [no]/の, [de]/で and verb da/desu.\n\nNani is used Before [ka]/か and [ni]/に,\n\nIf nan was used before ka/か, it would sound like the word nanka, which means \"things like\" or \"something like that\" which is also considered rude.\nNanika is instead used. Both nanka and nanika mean \"something\", but nanika is polite.\n\nIf nan was used in the case of ni/に, it would produce nanni なんに. This　sounds similar to nannimo なんにも, which means \"nothing at all\". \nGenerally mo/も、to indicate nothing, or absence. This could confuse a listener, waiting for a [mo] to be uttered.",
+      "html": "<b>Nan and Nani</b><br/><br/>Generally nan, or nani is used for which ever flows better.<br/>However, Nani is used when wanting to be more polite and formal.<br/>Other situations may require getting a feel for using nan versus nani, or memorization.<br/><br/>In general, if the following word begins with a syllable from the t, n, and d groups. Nan is used.<br/><br/>Common usages:<br/>Nan is used before particles [no]/の, [de]/で and verb da/desu.<br/><br/>Nani is used Before [ka]/か and [ni]/に,<br/><br/>If nan was used before ka/か, it would sound like the word nanka, which means \"things like\" or \"something like that\" which is also considered rude.<br/>Nanika is instead used. Both nanka and nanika mean \"something\", but nanika is polite.<br/><br/>If nan was used in the case of ni/に, it would produce nanni なんに. This　sounds similar to nannimo なんにも, which means \"nothing at all\". <br/>Generally mo/も、to indicate nothing, or absence. This could confuse a listener, waiting for a [mo] to be uttered.",
+      "credits_raw": "Rinji_HalfElf",
+      "content_sha256": "4c4d2edb797d3c45881a5ce82f987166ebb9e8aa71def672b247c53e56313751",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Note that 何 will be either なに or なん depending on where it is used.",
+      "html": "Note that 何 will be either なに or なん depending on where it is used.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "9677b528e89362da0ccf780e8f8c38aadcbd0b7febeb44928aa991e0b262c05d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "instead of anatano namae wa nan desuka I think it is more ploite to say onamae wa nandesuka",
+      "html": "instead of anatano namae wa nan desuka I think it is more ploite to say onamae wa nandesuka",
+      "credits_raw": "simbauk",
+      "content_sha256": "cf6a69239a763e67f19aae23110be1bfebba72e3ccc1c5da7a830a16d4e5643c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Ex 4870/71 the use of あなた seems odd to me as it seems to be trying to impose unnecessary and perhaps misleading English style on Japanese but I am not a native J-speaker and am a novice - any comments from native speakers?",
+      "html": "Ex 4870/71 the use of あなた seems odd to me as it seems to be trying to impose unnecessary and perhaps misleading English style on Japanese but I am not a native J-speaker and am a novice - any comments from native speakers?",
+      "credits_raw": "walter",
+      "content_sha256": "3ff2963681dc47dc2ffcb56776df0ddeb5b03dc84a3dbaf1801bb658f86e98b8",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:31:52+00:00",
+  "response_sha256": "bf944c5f334b39aa284c8feb6b5f71e336943a0c553cabc98955b475e5e2e713",
+  "warnings": []
+}

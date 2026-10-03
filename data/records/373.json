@@ -1,0 +1,453 @@
+{
+  "schema_version": 2,
+  "id": 373,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/373/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜につき",
+  "romanized_label": "nitsuki-2",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "due to",
+  "meaning_example": "due to construction, the train is late.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_373",
+      "body_text": "due to \n due to construction, the train is late.",
+      "body_html": "<span>due to</span> <br/> <span>due to construction, the train is late.</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_373",
+      "body_text": "Noun+につき",
+      "body_html": "<div><div><div>Noun</div></div><div><div>+</div><div>につき</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Noun + につき"
+  ],
+  "examples": [
+    {
+      "source_id": 6409,
+      "position": 0,
+      "japanese": "この道は工事中につき、通行止めになっています。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e9%81%93%e3%81%af\"><span>道は</span></a><a href=\"https://takoboto.jp/?q=%e5%b7%a5%e4%ba%8b%e4%b8%ad\"><span>工事中</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a4%e3%81%8d\"><strong>につき</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e9%80%9a%e8%a1%8c%e6%ad%a2%e3%82%81%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>通行止めになっています。</span></a>",
+      "segments": [
+        {
+          "text": "この道は工事中",
+          "grammar_highlight": false
+        },
+        {
+          "text": "につき",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、通行止めになっています。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このみちはこうじちゅうにつき、つうこうどめになっています。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Due to construction, this street is closed to traffic.",
+          "html": "<strong>Due to </strong><span>construction, this street is closed to traffic. </span>",
+          "segments": [
+            {
+              "text": "Due to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "construction, this street is closed to traffic. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6410,
+      "position": 1,
+      "japanese": "冷房中につき、ドアをお閉めてください。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%86%b7%e6%88%bf%e4%b8%ad\"><span>冷房中</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a4%e3%81%8d\"><strong>につき</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%83%89%e3%82%a2%e3%82%92%e3%81%8a\"><span>、ドアをお</span></a><a href=\"https://takoboto.jp/?q=%e9%96%89%e3%82%81%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82\"><span>閉めてください。</span></a>",
+      "segments": [
+        {
+          "text": "冷房中",
+          "grammar_highlight": false
+        },
+        {
+          "text": "につき",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、ドアをお閉めてください。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "れいぼうちゅうにつき、ドアをおしめてください。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Due to the air conditioning, please close the door.",
+          "html": "<strong>Due to </strong><span>the air conditioning, please close the door. </span>",
+          "segments": [
+            {
+              "text": "Due to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the air conditioning, please close the door. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6411,
+      "position": 2,
+      "japanese": "こちらは特売品につき、お一人様一点限りとなっています。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%a1%e3%82%89%e3%81%af\"><span>こちらは</span></a><a href=\"https://takoboto.jp/?q=%e7%89%b9%e5%a3%b2%e5%93%81\"><span>特売品</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a4%e3%81%8d\"><strong>につき</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%8a\"><span>、お</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e4%ba%ba%e6%a7%98%e4%b8%80%e7%82%b9%e9%99%90%e3%82%8a%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>一人様一点限りとなっています。</span></a>",
+      "segments": [
+        {
+          "text": "こちらは特売品",
+          "grammar_highlight": false
+        },
+        {
+          "text": "につき",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、お一人様一点限りとなっています。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こちらはとくばいひんにつき、おいちにんさまいちてんかぎりとなっています。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Since these are bargain items, they are limited to one per person.",
+          "html": "<span>Since these are bargain items, they are limited to one per person. </span>",
+          "segments": [
+            {
+              "text": "Since these are bargain items, they are limited to one per person. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 349,
+      "position": 3,
+      "japanese": "工事につき電車は不通です。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%b7%a5%e4%ba%8b\"><span>工事</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a4%e3%81%8d\"><strong>につき</strong></a><a href=\"https://takoboto.jp/?q=%e9%9b%bb%e8%bb%8a%e3%81%af\"><span>電車は</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8d%e9%80%9a%e3%81%a7%e3%81%99%e3%80%82\"><span>不通です。</span></a>",
+      "segments": [
+        {
+          "text": "工事",
+          "grammar_highlight": false
+        },
+        {
+          "text": "につき",
+          "grammar_highlight": true
+        },
+        {
+          "text": "電車は不通です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こうじにつきでんしゃはふつうです。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "due to construction, trains are cancelled (Lit: not running)",
+          "html": "<strong>due to </strong><span>construction, trains are cancelled (Lit: not running) </span>",
+          "segments": [
+            {
+              "text": "due to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "construction, trains are cancelled (Lit: not running) ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4941,
+      "position": 4,
+      "japanese": "教授の海外出張につき休講。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%95%99%e6%8e%88%e3%81%ae\"><span>教授の</span></a><a href=\"https://takoboto.jp/?q=%e6%b5%b7%e5%a4%96%e5%87%ba%e5%bc%b5\"><span>海外出張</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a4%e3%81%8d\"><strong>につき</strong></a><a href=\"https://takoboto.jp/?q=%e4%bc%91%e8%ac%9b%e3%80%82\"><span>休講。</span></a>",
+      "segments": [
+        {
+          "text": "教授の海外出張",
+          "grammar_highlight": false
+        },
+        {
+          "text": "につき",
+          "grammar_highlight": true
+        },
+        {
+          "text": "休講。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きょうじゅのかいがいしゅっちょうにつききゅうこう。",
+      "credits_raw": "PaulO",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Class cancelled due to the professor's business trip abroad.",
+          "html": "<span>Class cancelled </span><strong>due to </strong><span>the professor's business trip abroad. </span>",
+          "segments": [
+            {
+              "text": "Class cancelled ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "due to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the professor's business trip abroad. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5996,
+      "position": 5,
+      "japanese": "雨天につき、試合は延期いたします。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%9b%a8%e5%a4%a9\"><span>雨天</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a4%e3%81%8d\"><strong>につき</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%a6%e5%90%88%e3%81%af\"><span>試合は</span></a><a href=\"https://takoboto.jp/?q=%e5%bb%b6%e6%9c%9f%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99%e3%80%82\"><span>延期いたします。</span></a>",
+      "segments": [
+        {
+          "text": "雨天",
+          "grammar_highlight": false
+        },
+        {
+          "text": "につき",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、試合は延期いたします。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "うてんにつき、しあいはえんきいたします。",
+      "credits_raw": "khongbietboi",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Due to the rainy weather we postpone the match.",
+          "html": "<strong>Due to </strong><span>the rainy weather we postpone the match. </span>",
+          "segments": [
+            {
+              "text": "Due to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the rainy weather we postpone the match. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6589,
+      "position": 6,
+      "japanese": "この機械はただ今調整中につき、ご使用になれません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e6%a9%9f%e6%a2%b0%e3%81%af%e3%81%9f%e3%81%a0\"><span>機械はただ</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e8%aa%bf%e6%95%b4%e4%b8%ad\"><span>今調整中</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a4%e3%81%8d\"><strong>につき</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%94\"><span>、ご</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%bf%e7%94%a8%e3%81%ab%e3%81%aa%e3%82%8c%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>使用になれません。</span></a>",
+      "segments": [
+        {
+          "text": "この機械はただ今調整中",
+          "grammar_highlight": false
+        },
+        {
+          "text": "につき",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、ご使用になれません。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このきかいはただいまちょうせいちゅうにつき、ごしようになれません。",
+      "credits_raw": "hana",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This machine is currently unavailable due to maintenance.",
+          "html": "<span>This machine is currently unavailable due to maintenance. </span>",
+          "segments": [
+            {
+              "text": "This machine is currently unavailable due to maintenance. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6590,
+      "position": 7,
+      "japanese": "本日は祭日につき、休業させていただきます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%9c%ac%e6%97%a5%e3%81%af\"><span>本日は</span></a><a href=\"https://takoboto.jp/?q=%e7%a5%ad%e6%97%a5\"><span>祭日</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a4%e3%81%8d\"><strong>につき</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%91%e6%a5%ad%e3%81%95%e3%81%9b%e3%81%a6%e3%81%84%e3%81%9f%e3%81%a0%e3%81%8d%e3%81%be%e3%81%99%e3%80%82\"><span>休業させていただきます。</span></a>",
+      "segments": [
+        {
+          "text": "本日は祭日",
+          "grammar_highlight": false
+        },
+        {
+          "text": "につき",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、休業させていただきます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ほんじつはさいじつにつき、きゅうぎょうさせていただきます。",
+      "credits_raw": "hana",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We are closed today due to the holiday",
+          "html": "<span>We are closed today </span><strong>due to </strong><span>the holiday </span>",
+          "segments": [
+            {
+              "text": "We are closed today ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "due to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the holiday ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8070,
+      "position": 8,
+      "japanese": "雨天につき試合は延期いたします。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%9b%a8%e5%a4%a9\"><span>雨天</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a4%e3%81%8d\"><strong>につき</strong></a><a href=\"https://takoboto.jp/?q=%e8%a9%a6%e5%90%88%e3%81%af\"><span>試合は</span></a><a href=\"https://takoboto.jp/?q=%e5%bb%b6%e6%9c%9f%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99%e3%80%82\"><span>延期いたします。</span></a>",
+      "segments": [
+        {
+          "text": "雨天",
+          "grammar_highlight": false
+        },
+        {
+          "text": "につき",
+          "grammar_highlight": true
+        },
+        {
+          "text": "試合は延期いたします。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "うてんにつきしあいはえんきいたします。",
+      "credits_raw": "missshapoooo",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Due to rainy weather we postpone the match.",
+          "html": "<span>Due to rainy weather we postpone the match. </span>",
+          "segments": [
+            {
+              "text": "Due to rainy weather we postpone the match. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "[名]＋につき",
+      "html": "[名]＋につき",
+      "credits_raw": "khongbietboi",
+      "content_sha256": "942f30a62be87f38910994c83620f9b9f712ead1113ab2f4fba97d14d518ce21",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "＊This grammar is used in formal sentences, such as those appearing on bulletins, notices, etc.\n\nFORMATION:\nＮ + につき",
+      "html": "＊This grammar is used in formal sentences, such as those appearing on bulletins, notices, etc.<br/><br/>FORMATION:<br/>Ｎ + につき",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "3940214cef96381ae6991c1fc386a8356cbdb47257394117ff3dff30d4e31359",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "formal version of because - eg \"due to\"",
+      "html": "formal version of because - eg \"due to\"",
+      "credits_raw": "dc",
+      "content_sha256": "85daa7ba5d73813a29f32ec23088bc028a5b81d3c616b4fc3e89dee521eec395",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1248,
+      "label": "なので",
+      "source_url": "https://takoboto.jp/bunpo/1248"
+    },
+    {
+      "target_id": 138,
+      "label": "につき",
+      "source_url": "https://takoboto.jp/bunpo/138"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:38:01+00:00",
+  "response_sha256": "ae408972484fadc2a0467894fc575d541b8d74f0e27f8fc2a51d0b790e8d0efb",
+  "warnings": []
+}

@@ -1,0 +1,649 @@
+{
+  "schema_version": 2,
+  "id": 1350,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1350/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "おく",
+  "romanized_label": "oku",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "to do it in advance OR to leave it in the current state expecting a later change",
+  "meaning_example": "I left the window open",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1350",
+      "body_text": "to do it in advance OR to leave it in the current state expecting a later change \n I left the window open",
+      "body_html": "<span>to do it in advance OR to leave it in the current state expecting a later change</span> <br/> <span>I left the window open</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1350",
+      "body_text": "Verb て-Form+おきますVerb て-Form+おく",
+      "body_html": "<div><div><div>Verb て-Form</div></div><div><div>+</div><div>おきます</div></div></div><div><div><div>Verb て-Form</div></div><div><div>+</div><div>おく</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb て-Form + おきます",
+    "Verb て-Form + おく"
+  ],
+  "examples": [
+    {
+      "source_id": 3302,
+      "position": 0,
+      "japanese": "会議のために、準備しておきました",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bc%9a%e8%ad%b0%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ab%e3%80%81\"><span>会議のために、</span></a><a href=\"https://takoboto.jp/?q=%e6%ba%96%e5%82%99\"><span>準備</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%a6\"><span>して</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f\"><strong>おきました</strong></a>",
+      "segments": [
+        {
+          "text": "会議のために、準備して",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきました",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "かいぎのために、じゅんびしておきました",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I prepared for the meeting in advance",
+          "html": "<span>I prepared for the meeting </span><strong>in advance </strong>",
+          "segments": [
+            {
+              "text": "I prepared for the meeting ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "in advance ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3304,
+      "position": 1,
+      "japanese": "もっと早く検診を受けておけばよかった",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%a3%e3%81%a8\"><span>もっと</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a9%e3%81%8f\"><span>早く</span></a><a href=\"https://takoboto.jp/?q=%e6%a4%9c%e8%a8%ba%e3%82%92\"><span>検診を</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%97%e3%81%91%e3%81%a6\"><span>受けて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%91%e3%81%b0\"><strong>おけば</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f\"><span>よかった</span></a>",
+      "segments": [
+        {
+          "text": "もっと早く検診を受けて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おけば",
+          "grammar_highlight": true
+        },
+        {
+          "text": "よかった",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "もっとはやくけんしんをうけておけばよかった",
+      "credits_raw": "dc, Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I wish I had taken my health check earlier",
+          "html": "<span>I wish I had taken my health check </span><strong>earlier </strong>",
+          "segments": [
+            {
+              "text": "I wish I had taken my health check ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "earlier ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4321,
+      "position": 2,
+      "japanese": "２本も飲めなかったから、１本はあなたに残しておきました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%92%e6%9c%ac%e3%82%82\"><span>２本も</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%b2%e3%82%81%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%8b%e3%82%89%e3%80%81\"><span>飲めなかったから、</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%91%e6%9c%ac%e3%81%af%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab\"><span>１本はあなたに</span></a><a href=\"https://takoboto.jp/?q=%e6%ae%8b%e3%81%97%e3%81%a6\"><span>残して</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f\"><strong>おきました</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "２本も飲めなかったから、１本はあなたに残して",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "２ほんものめなかったから、１ほんはあなたにのこしておきました。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I couldn't drink both bottles, so I left one for you.",
+          "html": "<span>I couldn't drink both bottles, so I left one for you. </span>",
+          "segments": [
+            {
+              "text": "I couldn't drink both bottles, so I left one for you. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4322,
+      "position": 3,
+      "japanese": "あなたの報告書に目を通し、コメントを書いておきました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae\"><span>あなたの</span></a><a href=\"https://takoboto.jp/?q=%e5%a0%b1%e5%91%8a%e6%9b%b8%e3%81%ab\"><span>報告書に</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%ae%e3%82%92\"><span>目を</span></a><a href=\"https://takoboto.jp/?q=%e9%80%9a%e3%81%97%e3%80%81%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%88%e3%82%92\"><span>通し、コメントを</span></a><a href=\"https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%a6\"><span>書いて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f\"><strong>おきました</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "あなたの報告書に目を通し、コメントを書いて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたのほうこくしょにめをとおし、コメントをかいておきました。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I've looked through your report and made some notes on it.",
+          "html": "<span>I've looked through your report and made some notes on it. </span>",
+          "segments": [
+            {
+              "text": "I've looked through your report and made some notes on it. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4323,
+      "position": 4,
+      "japanese": "それは引き出しに入れておきました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af\"><span>それは</span></a><a href=\"https://takoboto.jp/?q=%e5%bc%95%e3%81%8d\"><span>引き</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%ab\"><span>出しに</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e3%82%8c%e3%81%a6\"><span>入れて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f\"><strong>おきました</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "それは引き出しに入れて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "それはひきだしにいれておきました。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I put in the drawer.",
+          "html": "<span>I put in the drawer. </span>",
+          "segments": [
+            {
+              "text": "I put in the drawer. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4324,
+      "position": 5,
+      "japanese": "ボブは彼が集めていた切手をほとんど全部ティナにあげて、ほんのすこしだけ自分のためにとっておきました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%9c%e3%83%96%e3%81%af\"><span>ボブは</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c\"><span>彼が</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%86%e3%82%81%e3%81%a6%e3%81%84%e3%81%9f\"><span>集めていた</span></a><a href=\"https://takoboto.jp/?q=%e5%88%87%e6%89%8b%e3%82%92%e3%81%bb%e3%81%a8%e3%82%93%e3%81%a9\"><span>切手をほとんど</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a8%e9%83%a8%e3%83%86%e3%82%a3%e3%83%8a%e3%81%ab%e3%81%82%e3%81%92%e3%81%a6%e3%80%81%e3%81%bb%e3%82%93%e3%81%ae%e3%81%99%e3%81%93%e3%81%97%e3%81%a0%e3%81%91\"><span>全部ティナにあげて、ほんのすこしだけ</span></a><a href=\"https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><span>自分のためにとって</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f\"><strong>おきました</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "ボブは彼が集めていた切手をほとんど全部ティナにあげて、ほんのすこしだけ自分のためにとって",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ボブはかれがあつめていたきってをほとんどぜんぶにあげて、ほんのすこしだけじぶんのためにとっておきました。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Bob gave Tina almost all the stamps he had collected, and kept only a few for himself.",
+          "html": "<span>Bob gave Tina almost all the stamps he had collected, and kept only a few for himself. </span>",
+          "segments": [
+            {
+              "text": "Bob gave Tina almost all the stamps he had collected, and kept only a few for himself. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4325,
+      "position": 6,
+      "japanese": "君は、窓を開けたままにしておきましたか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%af%e3%80%81\"><span>君は、</span></a><a href=\"https://takoboto.jp/?q=%e7%aa%93%e3%82%92\"><span>窓を</span></a><a href=\"https://takoboto.jp/?q=%e9%96%8b%e3%81%91%e3%81%9f\"><span>開けた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%be%e3%81%be%e3%81%ab%e3%81%97%e3%81%a6\"><span>ままにして</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f\"><strong>おきました</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%80%82\"><span>か。</span></a>",
+      "segments": [
+        {
+          "text": "君は、窓を開けたままにして",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "か。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きみは、まどをあけたままにしておきましたか。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Did you leave the window open?",
+          "html": "<span>Did you </span><strong>leave </strong><span>the window open? </span>",
+          "segments": [
+            {
+              "text": "Did you ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "leave ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the window open? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4326,
+      "position": 7,
+      "japanese": "状況を改善するための提案を付け加えておきました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%8a%b6%e6%b3%81%e3%82%92\"><span>状況を</span></a><a href=\"https://takoboto.jp/?q=%e6%94%b9%e5%96%84%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae\"><span>改善するための</span></a><a href=\"https://takoboto.jp/?q=%e6%8f%90%e6%a1%88%e3%82%92\"><span>提案を</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%98%e3%81%91\"><span>付け</span></a><a href=\"https://takoboto.jp/?q=%e5%8a%a0%e3%81%88%e3%81%a6\"><span>加えて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f\"><strong>おきました</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "状況を改善するための提案を付け加えて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "じょうきょうをかいぜんするためのていあんをつけくわえておきました。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I've added my recommendations to improve the situation.",
+          "html": "<span>I've added my recommendations to improve the situation. </span>",
+          "segments": [
+            {
+              "text": "I've added my recommendations to improve the situation. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4327,
+      "position": 8,
+      "japanese": "彼に君の名を言っておきました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab\"><span>彼に</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%ae\"><span>君の</span></a><a href=\"https://takoboto.jp/?q=%e5%90%8d%e3%82%92\"><span>名を</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6\"><span>言って</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f\"><strong>おきました</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "彼に君の名を言って",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれにきみのなをいっておきました。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I mentioned your name to him.",
+          "html": "<span>I mentioned your name to him. </span>",
+          "segments": [
+            {
+              "text": "I mentioned your name to him. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4328,
+      "position": 9,
+      "japanese": "彼に助言をしておきました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab\"><span>彼に</span></a><a href=\"https://takoboto.jp/?q=%e5%8a%a9%e8%a8%80%e3%82%92%e3%81%97%e3%81%a6\"><span>助言をして</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f\"><strong>おきました</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "彼に助言をして",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれにじょげんをしておきました。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I gave him some helpful advice.",
+          "html": "<span>I gave him some helpful advice. </span>",
+          "segments": [
+            {
+              "text": "I gave him some helpful advice. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4329,
+      "position": 10,
+      "japanese": "彼女は私を２時間もたたせておきました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>彼女は</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%82%92\"><span>私を</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%92%e6%99%82%e9%96%93%e3%82%82%e3%81%9f%e3%81%9f%e3%81%9b%e3%81%a6\"><span>２時間もたたせて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f\"><strong>おきました</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "彼女は私を２時間もたたせて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはわたしを２じかんもたたせておきました。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She left me standing there for two hours.",
+          "html": "<span>She left me standing there for two hours. </span>",
+          "segments": [
+            {
+              "text": "She left me standing there for two hours. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5467,
+      "position": 11,
+      "japanese": "いや。。ちゃんと聞いておこう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%84%e3%82%84%e3%80%82%e3%80%82%e3%81%a1%e3%82%83%e3%82%93%e3%81%a8\"><span>いや。。ちゃんと</span></a><a href=\"https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%a6\"><span>聞いて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%93%e3%81%86%e3%80%82\"><strong>おこう。</strong></a>",
+      "segments": [
+        {
+          "text": "いや。。ちゃんと聞いて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おこう。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "いや。。ちゃんときいておこう。",
+      "credits_raw": "cup",
+      "translations": [
+        {
+          "language": "en",
+          "text": "No, I'd better listen and remember it for later !",
+          "html": "<span>No, I'd better listen and remember it </span><strong>for later </strong><span>! </span>",
+          "segments": [
+            {
+              "text": "No, I'd better listen and remember it ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "for later ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5468,
+      "position": 12,
+      "japanese": "わたしが払っておきます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%8c\"><span>わたしが</span></a><a href=\"https://takoboto.jp/?q=%e6%89%95%e3%81%a3%e3%81%a6\"><span>払って</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%8d%e3%81%be%e3%81%99%e3%80%82\"><strong>おきます。</strong></a>",
+      "segments": [
+        {
+          "text": "わたしが払って",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おきます。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "わたしがはらっておきます。",
+      "credits_raw": "cup",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I’ll pay all for the meantime (...and I’m exepecting something back in the future )",
+          "html": "<span>I’ll pay all for the meantime (...and I’m exepecting something back </span><strong>in the future </strong><span>) </span>",
+          "segments": [
+            {
+              "text": "I’ll pay all for the meantime (...and I’m exepecting something back ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "in the future ",
+              "grammar_highlight": true
+            },
+            {
+              "text": ") ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "\"oku\" and \"-te oku\" always has something expected in the future.\n\nThis is a AuxVerb and is used in by the patterm てーStem + おく\n1) To keep the action’s result.\n2) To continue the action.\n3) Admitting the situation is/will be a certain way and leaving it the way it is.\n4) To do something in advance, and expecting a certain result or happening.\n5) To doing something temporally to get by for the moment.",
+      "html": "\"oku\" and \"-te oku\" always has something expected in the future.<br/><br/>This is a AuxVerb and is used in by the patterm てーStem + おく<br/>1) To keep the action’s result.<br/>2) To continue the action.<br/>3) Admitting the situation is/will be a certain way and leaving it the way it is.<br/>4) To do something in advance, and expecting a certain result or happening.<br/>5) To doing something temporally to get by for the moment.",
+      "credits_raw": "cup",
+      "content_sha256": "f24f83ab4a8dec8e64f33287016c4ffab08e02e493f2b4f0afac193e14333be7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "It seems like 'in advance' is just relative to the time you are speaking to someone. (Before I spoke to you I did X). In that case how is it different from just using \"mae ni\" or \"sakihodo\"? For example\n前に会議の準備をしました ?\n\nOn the other hand, it seems like it can also mean \"made sure to do\" especially when reading example 4322 - 4325? Any help understanding this better would be appreciated.",
+      "html": "It seems like 'in advance' is just relative to the time you are speaking to someone. (Before I spoke to you I did X). In that case how is it different from just using \"mae ni\" or \"sakihodo\"? For example<br/>前に会議の準備をしました ?<br/><br/>On the other hand, it seems like it can also mean \"made sure to do\" especially when reading example 4322 - 4325? Any help understanding this better would be appreciated.",
+      "credits_raw": "nefertiti",
+      "content_sha256": "973d7f152b16a86b461852b56f076fbcafd798deb0a1b25afc4492ff896dc53e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "おく has the primary meaning of \"leave it where it is at\" or \"leave it at its present status.\" The use of おく as indicating \"in advance\" is very limited such as 耳に入れておく. Most of the examples shown here are \"leave it where it is at\" type, and only 3303, 4327 and 4328 would qualify as statements in \"in advance\" category.For other examples, it is incorrect to label them as in \"to do something in advance\" category.",
+      "html": "おく has the primary meaning of \"leave it where it is at\" or \"leave it at its present status.\" The use of おく as indicating \"in advance\" is very limited such as 耳に入れておく. Most of the examples shown here are \"leave it where it is at\" type, and only 3303, 4327 and 4328 would qualify as statements in \"in advance\" category.For other examples, it is incorrect to label them as in \"to do something in advance\" category.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "c1e03d3a0db283002a7db17cc1b3ea61b3f537b573005ea9113e07e4c5eda2c6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "the meaning should be changed then \"to do something in advance\" and \"leave it as it is/leave it where it is at\". but usually おく is paired with ままに to imply the latter meaning.",
+      "html": "the meaning should be changed then \"to do something in advance\" and \"leave it as it is/leave it where it is at\". but usually おく is paired with ままに to imply the latter meaning.",
+      "credits_raw": "infinite_trial",
+      "content_sha256": "1cfa10168908c1ec10f192c8e24d42afab73c2bfd036da9f6ba457cde2a9e148",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "changed. is \"oku:in advance\" a separate grammar usage, or just when used with other auxiliary words, i wonder.",
+      "html": "changed. is \"oku:in advance\" a separate grammar usage, or just when used with other auxiliary words, i wonder.",
+      "credits_raw": "dc",
+      "content_sha256": "807d8b2cf379b4dfeacb7d4bf6764bfbfc07b0e45a687e9e8549c0908c4dd8d1",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "Q: there seems to be two meanings:\nto do in advance\nto put aside",
+      "html": "Q: there seems to be two meanings:<br/>to do in advance<br/>to put aside",
+      "credits_raw": "dc",
+      "content_sha256": "e4822cfff7f89e713b85837e0829f3c7340d0846af702f3d5202b8a6bd47501f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "I think that last example doesn't belong - it is referring to okiru - to get up...",
+      "html": "I think that last example doesn't belong - it is referring to okiru - to get up...",
+      "credits_raw": "anon",
+      "content_sha256": "a3b6793e5f975470b966bd439567ca13673c56960313ed8a44f77f1c1164a47e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "The trick to reading this is to remember that て-Stem means \"ClauseX and then ClauseY\" so you read the sentances as i did/doing/will do ClauseX and I expect some unspecific effect(ClauseY) to happen/happened/be happening...",
+      "html": "The trick to reading this is to remember that て-Stem means \"ClauseX and then ClauseY\" so you read the sentances as i did/doing/will do ClauseX and I expect some unspecific effect(ClauseY) to happen/happened/be happening...",
+      "credits_raw": "cup",
+      "content_sha256": "757cf2185df19a313cb7acc63a088a8b906a764811d3f0a01af8adf7315bf2ae",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "nefertitiさん　Your right about the meaning of 2I made sure to do\" or \"I will make sure to do\"\n\nI use it a lot when I want to say, \"You can count on it\" or \" You can bet I`ll get it done\"\n\nBamboo4さん, I`m not sure why you think the use of \"in advanced\" meaning is very limited, I hear it used all the time. 買っておく、調べておく､聞いておく、etc... from my experiance, it seems to be a case of whether the context is past or future. \n\ninfinite_trialさん 何?　ままに?　そのままの　ままにですか?　I think that to use ままに one needs to have a discription before it. \n\nI.E. そのままに\n You are pointing to something or talking about something that both listener and speaker are familiar with.\n 若まま\n　　　\"so young\" or \"foolish\"\nI have also heard it used to mean selfish, but I`m not sure if its the same 漢字\n　　　壊したままに\n　　　　\"broken\"\n\nIts possible to use this with full sentences, adjectives, etc.. I`m not 100% on the conj rules, but it seems to be used mostly with the past tense.",
+      "html": "nefertitiさん　Your right about the meaning of 2I made sure to do\" or \"I will make sure to do\"<br/><br/>I use it a lot when I want to say, \"You can count on it\" or \" You can bet I`ll get it done\"<br/><br/>Bamboo4さん, I`m not sure why you think the use of \"in advanced\" meaning is very limited, I hear it used all the time. 買っておく、調べておく､聞いておく、etc... from my experiance, it seems to be a case of whether the context is past or future. <br/><br/>infinite_trialさん 何?　ままに?　そのままの　ままにですか?　I think that to use ままに one needs to have a discription before it. <br/><br/>I.E. そのままに<br/> You are pointing to something or talking about something that both listener and speaker are familiar with.<br/> 若まま<br/>　　　\"so young\" or \"foolish\"<br/>I have also heard it used to mean selfish, but I`m not sure if its the same 漢字<br/>　　　壊したままに<br/>　　　　\"broken\"<br/><br/>Its possible to use this with full sentences, adjectives, etc.. I`m not 100% on the conj rules, but it seems to be used mostly with the past tense.",
+      "credits_raw": "tigert",
+      "content_sha256": "6f5ffec53f43c0af62883f13ebe3803b63661e85660dc46702e884f41b8535cf",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Tigert-san, I knew wagamama (selfish) 我が儘;我がままbut 若まま I didn't know ^^",
+      "html": "Tigert-san, I knew wagamama (selfish) 我が儘;我がままbut 若まま I didn't know ^^",
+      "credits_raw": "karekano",
+      "content_sha256": "7982dffc0dd86a5f802cdd41a9bb3500952440cc206831e0b251e146d80ee820",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:37:27+00:00",
+  "response_sha256": "e06f7c8fd0c80531968b25bbfea864afd514e33cb6d25936c89fa5ef1866646c",
+  "warnings": []
+}

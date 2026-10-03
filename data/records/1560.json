@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "id": 1560,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1560/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜てはいられない・〜てばかりはいられない",
+  "romanized_label": "tehairarenai / tebakarihairarenai",
+  "alternate_forms": [],
+  "jlpt_level": 1,
+  "credits_raw": "誠",
+  "meaning": "can't / can't afford 〜(doing something)",
+  "meaning_example": "we can't be relaxing like this drinking tea",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1560",
+      "body_text": "can't / can't afford 〜(doing something) \n we can't be relaxing like this drinking tea",
+      "body_html": "<span>can't / can't afford 〜(doing something)</span> <br/> <span>we can't be relaxing like this drinking tea</span>",
+      "credits_raw": "誠"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 5855,
+      "position": 0,
+      "japanese": "もうすぐ試験なので、遊んでばかりはいられないのです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%86%e3%81%99%e3%81%90\"><span>もうすぐ</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%81%aa%e3%81%ae%e3%81%a7%e3%80%81\"><span>試験なので、</span></a><a href=\"https://takoboto.jp/?q=%e9%81%8a%e3%82%93\"><span>遊ん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%af%e3%81%84%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84\"><strong>でばかりはいられない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82\"><span>のです。</span></a>",
+      "segments": [
+        {
+          "text": "もうすぐ試験なので、遊ん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "でばかりはいられない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "もうすぐしけんなので、あそんでばかりはいられないのです。",
+      "credits_raw": "誠",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Because exam is just around the corner, I can't (afford to) be fooling around.",
+          "html": "<span>Because exam is just around the corner, I </span><strong>can't (afford to) </strong><span>be fooling around. </span>",
+          "segments": [
+            {
+              "text": "Because exam is just around the corner, I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "can't (afford to) ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "be fooling around. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5856,
+      "position": 1,
+      "japanese": "お客様がそろそろお着きになって大変なので、のんびりお茶など飲んではいられない",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%a2%e6%a7%98%e3%81%8c%e3%81%9d%e3%82%8d%e3%81%9d%e3%82%8d%e3%81%8a\"><span>客様がそろそろお</span></a><a href=\"https://takoboto.jp/?q=%e7%9d%80%e3%81%8d%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6\"><span>着きになって</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e5%a4%89%e3%81%aa%e3%81%ae%e3%81%a7%e3%80%81%e3%81%ae%e3%82%93%e3%81%b3%e3%82%8a%e3%81%8a\"><span>大変なので、のんびりお</span></a><a href=\"https://takoboto.jp/?q=%e8%8c%b6%e3%81%aa%e3%81%a9\"><span>茶など</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%b2%e3%82%93\"><span>飲ん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%af%e3%81%84%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84\"><strong>ではいられない</strong></a>",
+      "segments": [
+        {
+          "text": "お客様がそろそろお着きになって大変なので、のんびりお茶など飲ん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ではいられない",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "おきゃくさまがそろそろおつきになってたいへんなので、のんびりおちゃなどのんではいられない",
+      "credits_raw": "誠",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Since the customers will be coming in no time and it will be a hard time, we can't just relaxing around drinking tea.",
+          "html": "<span>Since the customers will be coming in no time and it will be a hard time, we </span><strong>can't just </strong><span>relaxing around drinking tea. </span>",
+          "segments": [
+            {
+              "text": "Since the customers will be coming in no time and it will be a hard time, we ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "can't just ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "relaxing around drinking tea. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "「〜ていることができない」という可能表現ですが、そこから「〜状態を続けられない」という意味が現れます。\n「〜てばかりはいられない」という形は、過度であることを強調する時によく使われます。\n\none can't afford doing or continue doing a certain action because of nervousnes or to meet the demands of that particular situation or moment. 「〜てばかりはいられない」is almost the same as 「〜てはいられない」, only the ばかり emphasizes of \" only just doing .... (action that one should not be doing that moment)\".",
+      "html": "「〜ていることができない」という可能表現ですが、そこから「〜状態を続けられない」という意味が現れます。<br/>「〜てばかりはいられない」という形は、過度であることを強調する時によく使われます。<br/><br/>one can't afford doing or continue doing a certain action because of nervousnes or to meet the demands of that particular situation or moment. 「〜てばかりはいられない」is almost the same as 「〜てはいられない」, only the ばかり emphasizes of \" only just doing .... (action that one should not be doing that moment)\".",
+      "credits_raw": "誠",
+      "content_sha256": "e9286c9e455bd68ac06c53edb4ce8663a25db59a73052b7e8e8b705f6437a602",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "In #5856, \"Since the customers will be coming in no time and it will be a hard time\" is awkward. Should read: \"Since customers will be arriving in no time and we will have more than our fill...\"",
+      "html": "In #5856, \"Since the customers will be coming in no time and it will be a hard time\" is awkward. Should read: \"Since customers will be arriving in no time and we will have more than our fill...\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "a4dd70da4d1022a5b0b39fd29da432980c91bcf19e94b01793fa28a37cea4539",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Sorry if this is too simplistic, but am wondering if I can use this with the negative form as well?\nFor example, can I say \"___ しなくてはいられない\" (Can't afford not to do __)",
+      "html": "Sorry if this is too simplistic, but am wondering if I can use this with the negative form as well?<br/>For example, can I say \"___ しなくてはいられない\" (Can't afford not to do __)",
+      "credits_raw": "wribbit",
+      "content_sha256": "98759584886642341dc5968b777e89a57001a0f8090587db494b7dd5fc6a4925",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "hey wribbit,\n\nIf you want to say you cant afford not to do, you should probably use I must do or have to grammar forms. English and Japanese don`t have the same idiomes, so trying to translate your thoughts exactly will end up in strange Japanese. when you want to say Can`t afford not to do try\n\nしなくではいけない (I must)　or しなくではならない (I have to)\n\nalso if you want to add a hypothetical if to it\nしなければいけない or しなければならない",
+      "html": "hey wribbit,<br/><br/>If you want to say you cant afford not to do, you should probably use I must do or have to grammar forms. English and Japanese don`t have the same idiomes, so trying to translate your thoughts exactly will end up in strange Japanese. when you want to say Can`t afford not to do try<br/><br/>しなくではいけない (I must)　or しなくではならない (I have to)<br/><br/>also if you want to add a hypothetical if to it<br/>しなければいけない or しなければならない",
+      "credits_raw": "tigert",
+      "content_sha256": "d47fe4146f7cb8f1070358f63b6db4de5705d93fcd53b60515d0041f6e047950",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:45:42+00:00",
+  "response_sha256": "ef6e8881e537bc879bd21743ccaaf0efef1d8a8b932f4b31f8334b3551b8f376",
+  "warnings": []
+}

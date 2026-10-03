@@ -1,0 +1,310 @@
+{
+  "schema_version": 2,
+  "id": 1565,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1565/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜ようとする",
+  "romanized_label": "youtosuru",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "ninja_k, Jacob",
+  "meaning": "Try to do something, but the nuance is that it was unsuccessful.",
+  "meaning_example": "I tried to kiss her, but she said no.",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "試してみるだけで結果がともなわないニュアンスがある。",
+      "html": "試してみるだけで結果がともなわないニュアンスがある。"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1565",
+      "body_text": "Try to do something, but the nuance is that it was unsuccessful. \n I tried to kiss her, but she said no. \n 試してみるだけで結果がともなわないニュアンスがある。",
+      "body_html": "<span>Try to do something, but the nuance is that it was unsuccessful.</span> <br/> <span>I tried to kiss her, but she said no.</span> <br/> <span>試してみるだけで結果がともなわないニュアンスがある。</span>",
+      "credits_raw": "ninja_k, Jacob"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1565",
+      "body_text": "よう形+とする",
+      "body_html": "<div><div><div>よう形</div></div><div><div>+</div><div>とする</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "よう形 + とする"
+  ],
+  "examples": [
+    {
+      "source_id": 6739,
+      "position": 0,
+      "japanese": "このコンピューターを使おうとしたが、ダメだった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%92\"><span>このコンピューターを</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%bf%e3%81%8a%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f%e3%81%8c%e3%80%81\"><strong>使おうとしたが、</strong></a><a href=\"https://takoboto.jp/?q=%e3%83%80%e3%83%a1%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82\"><span>ダメだった。</span></a>",
+      "segments": [
+        {
+          "text": "このコンピューターを",
+          "grammar_highlight": false
+        },
+        {
+          "text": "使おうとしたが、",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ダメだった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このコンピューターをつかおうとしたが、ダメだった。",
+      "credits_raw": "nickm758",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I tried to use this computer, but I couldn't.",
+          "html": "<span>I </span><strong>tried to use </strong><span>this computer, but I couldn't. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "tried to use ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "this computer, but I couldn't. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7005,
+      "position": 1,
+      "japanese": "電車に乗ろうとしたら、ドアが閉まってしまいました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%9b%bb%e8%bb%8a%e3%81%ab\"><span>電車に</span></a><a href=\"https://takoboto.jp/?q=%e4%b9%97%e3%82%8d%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f%e3%82%89%e3%80%81\"><strong>乗ろうとしたら、</strong></a><a href=\"https://takoboto.jp/?q=%e3%83%89%e3%82%a2%e3%81%8c\"><span>ドアが</span></a><a href=\"https://takoboto.jp/?q=%e9%96%89%e3%81%be%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>閉まってしまいました。</span></a>",
+      "segments": [
+        {
+          "text": "電車に",
+          "grammar_highlight": false
+        },
+        {
+          "text": "乗ろうとしたら、",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ドアが閉まってしまいました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "でんしゃにのろうとしたら、ドアがしまってしまいました。",
+      "credits_raw": "hua",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I was about to get on the train when the door closed on me.",
+          "html": "<span>I was </span><strong>about to get on </strong><span>the train when the door closed on me. </span>",
+          "segments": [
+            {
+              "text": "I was ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "about to get on ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the train when the door closed on me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7006,
+      "position": 2,
+      "japanese": "彼が彼女にキスしようとした時、,お母さんが 部屋に入って来た（のでキスできなかった）。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c\"><span>彼が</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ab%e3%82%ad%e3%82%b9%e3%81%97\"><span>彼女にキスし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f\"><strong>ようとした</strong></a><a href=\"https://takoboto.jp/?q=%e6%99%82%e3%80%81%2c%e3%81%8a\"><span>時、,お</span></a><a href=\"https://takoboto.jp/?q=%e6%af%8d%e3%81%95%e3%82%93%e3%81%8c+\"><span>母さんが </span></a><a href=\"https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%81%ab\"><span>部屋に</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e3%81%a3%e3%81%a6%e6%9d%a5%e3%81%9f%ef%bc%88%e3%81%ae%e3%81%a7%e3%82%ad%e3%82%b9%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%ef%bc%89%e3%80%82\"><strong>入って来た（のでキスできなかった）。</strong></a>",
+      "segments": [
+        {
+          "text": "彼が彼女にキスし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようとした",
+          "grammar_highlight": true
+        },
+        {
+          "text": "時、,お母さんが 部屋に",
+          "grammar_highlight": false
+        },
+        {
+          "text": "入って来た（のでキスできなかった）。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "かれがかのじょにキスしようとしたとき、おかあさんがへやにはいってきた（のでキスできなかった）。",
+      "credits_raw": "hua",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He was trying to kiss his girlfriend when his mom walked in the room. (so I did not get to kiss her)",
+          "html": "<span>He was trying to kiss his girlfriend when his mom walked in the room. </span><strong>(so I did not get to kiss her) </strong>",
+          "segments": [
+            {
+              "text": "He was trying to kiss his girlfriend when his mom walked in the room. ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "(so I did not get to kiss her) ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8683,
+      "position": 3,
+      "japanese": "私は彼に真実な気持ちを言おうとしたが、彼の携帯電話が鳴ってしまいました。言おうとした",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af\"><span>私は</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab\"><span>彼に</span></a><a href=\"https://takoboto.jp/?q=%e7%9c%9f%e5%ae%9f%e3%81%aa\"><span>真実な</span></a><a href=\"https://takoboto.jp/?q=%e6%b0%97%e6%8c%81%e3%81%a1%e3%82%92\"><span>気持ちを</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%8a%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f%e3%81%8c%e3%80%81\"><span>言おうとしたが、</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae\"><span>彼の</span></a><a href=\"https://takoboto.jp/?q=%e6%90%ba%e5%b8%af%e9%9b%bb%e8%a9%b1%e3%81%8c\"><span>携帯電話が</span></a><a href=\"https://takoboto.jp/?q=%e9%b3%b4%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>鳴ってしまいました。</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%8a%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f\"><strong>言おうとした</strong></a>",
+      "segments": [
+        {
+          "text": "私は彼に真実な気持ちを言おうとしたが、彼の携帯電話が鳴ってしまいました。",
+          "grammar_highlight": false
+        },
+        {
+          "text": "言おうとした",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "わたしはかれにしんじつなきもちをいおうとしたが、かれのけいたいでんわがなってしまいました。いおうとした",
+      "credits_raw": "mousee09",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I tried to tell him how I felt,but his phone rang. Tried",
+          "html": "<span>I tried to tell him how I felt,but his phone rang. </span><strong>Tried </strong>",
+          "segments": [
+            {
+              "text": "I tried to tell him how I felt,but his phone rang. ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "Tried ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8839,
+      "position": 4,
+      "japanese": "人間の寿命は短いって分かっていたのに、なんでもっと知ろうと思わなかったんだろう。 ～フレーレン",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e3%81%ae%e5%af%bf%e5%91%bd%e3%81%af%e7%9f%ad%e3%81%84%e3%81%a3%e3%81%a6%e5%88%86%e3%81%8b%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e3%81%ae%e3%81%ab%e3%80%81%e3%81%aa%e3%82%93%e3%81%a7%e3%82%82%e3%81%a3%e3%81%a8\"><span>人間の寿命は短いって分かっていたのに、なんでもっと</span></a><a href=\"https://takoboto.jp/?q=%e7%9f%a5%e3%82%8d%e3%81%86%e3%81%a8%e6%80%9d%e3%82%8f%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f\"><strong>知ろうと思わなかった</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%93%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82%0d%0a%0d%0a%ef%bd%9e%e3%83%95%e3%83%ac%e3%83%bc%e3%83%ac%e3%83%b3\"><span>んだろう。 ～フレーレン</span></a>",
+      "segments": [
+        {
+          "text": "人間の寿命は短いって分かっていたのに、なんでもっと",
+          "grammar_highlight": false
+        },
+        {
+          "text": "知ろうと思わなかった",
+          "grammar_highlight": true
+        },
+        {
+          "text": "んだろう。 ～フレーレン",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "にんげんのじゅみょうはみじかいってわかっていたのに、なんでもっとしろうとおもわなかったんだろう。～",
+      "credits_raw": "Lelots",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I knew human lives were short. Why didn`t I try to get to know  him better? ーFrieren",
+          "html": "<span>I knew human lives were short. Why didn`t </span><strong>I try to get to know </strong><span> him better? ーFrieren </span>",
+          "segments": [
+            {
+              "text": "I knew human lives were short. Why didn`t ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "I try to get to know ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " him better? ーFrieren ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "過去記事を紹介しようとする気持ちだ",
+      "html": "過去記事を紹介しようとする気持ちだ",
+      "credits_raw": "nagoya1wan",
+      "content_sha256": "8e2df96928edc7ab3652898d8d81bba59741f62abac5e89840489c90ae569267",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "uses the conjectural/hortatory form of the verb",
+      "html": "uses the conjectural/hortatory form of the verb",
+      "credits_raw": "claytonian",
+      "content_sha256": "232ff143fbdcaf53be469abcaac14bf098adf4cf136c6ee84ef10d2eb8703703",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "I'm not sure if this is warranted... but I think so. I'll try to clean it up once I get home tonight :)",
+      "html": "I'm not sure if this is warranted... but I think so. I'll try to clean it up once I get home tonight :)",
+      "credits_raw": "ninja_k",
+      "content_sha256": "dbe20f5688871c8abed1e2e9d36f6ba1ac9fb0bda402ef7ee6bf9f90c41a6b03",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Is 結果が伴わない even grammatical? I'm not sure",
+      "html": "Is 結果が伴わない even grammatical? I'm not sure",
+      "credits_raw": "vizoso",
+      "content_sha256": "20889750dfa1bc62142f2b463f9f16bce9ce432a1c5a182d849922f7245642fa",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:34:44+00:00",
+  "response_sha256": "1fc6928d9008a2cfccb80b8142d3c81216b4d82bc2fe11919010be154d387619",
+  "warnings": []
+}

@@ -1,0 +1,265 @@
+{
+  "schema_version": 2,
+  "id": 1728,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1728/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "~出す",
+  "romanized_label": "verb stem + dasu/dashita",
+  "alternate_forms": [
+    "〜だす"
+  ],
+  "jlpt_level": 3,
+  "credits_raw": "Maru1",
+  "meaning": "(suddenly/immediately) begin/start...",
+  "meaning_example": "Rain started to fall.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1728",
+      "body_text": "(suddenly/immediately) begin/start... \n Rain started to fall.",
+      "body_html": "<span>(suddenly/immediately) begin/start...</span> <br/> <span>Rain started to fall.</span>",
+      "credits_raw": "Maru1"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1728",
+      "body_text": "Verb ます stem+出す",
+      "body_html": "<div><div><div>Verb ます stem</div></div><div><div>+</div><div>出す</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb ます stem + 出す"
+  ],
+  "examples": [
+    {
+      "source_id": 7763,
+      "position": 0,
+      "japanese": "地震が収まると、みんな家を飛び出した",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%9c%b0%e9%9c%87%e3%81%8c\"><span>地震が</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%8e%e3%81%be%e3%82%8b%e3%81%a8%e3%80%81%e3%81%bf%e3%82%93%e3%81%aa\"><span>収まると、みんな</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%b6%e3%82%92\"><span>家を</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9b%e3%81%b3%e5%87%ba%e3%81%97%e3%81%9f\"><strong>飛び出した</strong></a>",
+      "segments": [
+        {
+          "text": "地震が収まると、みんな家を",
+          "grammar_highlight": false
+        },
+        {
+          "text": "飛び出した",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "じしんがおさまると、みんなかをとびだした",
+      "credits_raw": "Maru1",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When the earthquake subsided, everybody started running out of the houses.",
+          "html": "<span>When the earthquake subsided, everybody </span><strong>started running out </strong><span>of the houses. </span>",
+          "segments": [
+            {
+              "text": "When the earthquake subsided, everybody ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "started running out ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "of the houses. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7765,
+      "position": 1,
+      "japanese": "泥棒が警察を見て、突然走り出しました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%b3%a5%e6%a3%92%e3%81%8c\"><span>泥棒が</span></a><a href=\"https://takoboto.jp/?q=%e8%ad%a6%e5%af%9f%e3%82%92\"><span>警察を</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%a6%e3%80%81\"><span>見て、</span></a><a href=\"https://takoboto.jp/?q=%e7%aa%81%e7%84%b6%e8%b5%b0%e3%82%8a\"><span>突然走り</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>出しました。</span></a>",
+      "segments": [
+        {
+          "text": "泥棒が警察を見て、突然走り出しました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "どろぼうがけいさつをみて、とつぜんはしりだしました。",
+      "credits_raw": "Maru1",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When the burglar saw the police he imediately started running.",
+          "html": "<span>When the burglar saw the police he imediately started running. </span>",
+          "segments": [
+            {
+              "text": "When the burglar saw the police he imediately started running. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8212,
+      "position": 2,
+      "japanese": "彼女は笑い出した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e7%ac%91%e3%81%84%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82\"><span>彼女は笑い出した。</span></a>",
+      "segments": [
+        {
+          "text": "彼女は笑い出した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはわらいだした。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She started laughing.",
+          "html": "<span>She started laughing. </span>",
+          "segments": [
+            {
+              "text": "She started laughing. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8213,
+      "position": 3,
+      "japanese": "気圧計は昨夜下がり出したが朝には止まった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%b0%97%e5%9c%a7%e8%a8%88%e3%81%af\"><span>気圧計は</span></a><a href=\"https://takoboto.jp/?q=%e6%98%a8%e5%a4%9c%e4%b8%8b%e3%81%8c%e3%82%8a\"><span>昨夜下がり</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%81%8c\"><span>出したが</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%9d%e3%81%ab%e3%81%af\"><span>朝には</span></a><a href=\"https://takoboto.jp/?q=%e6%ad%a2%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82\"><span>止まった。</span></a>",
+      "segments": [
+        {
+          "text": "気圧計は昨夜下がり出したが朝には止まった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きあつけいはさくやさがりだしたがあさにはとまった。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The barometer started to fall last night but stopped in the morning.",
+          "html": "<span>The barometer started to fall last night but stopped in the morning. </span>",
+          "segments": [
+            {
+              "text": "The barometer started to fall last night but stopped in the morning. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8214,
+      "position": 4,
+      "japanese": "朝から雨が降り出した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%9c%9d%e3%81%8b%e3%82%89\"><span>朝から</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c\"><span>雨が</span></a><a href=\"https://takoboto.jp/?q=%e9%99%8d%e3%82%8a\"><span>降り</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82\"><span>出した。</span></a>",
+      "segments": [
+        {
+          "text": "朝から雨が降り出した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あさからあめがふりだした。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It began to rain this morning.",
+          "html": "<span>It began to rain this morning. </span>",
+          "segments": [
+            {
+              "text": "It began to rain this morning. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8215,
+      "position": 5,
+      "japanese": "先週から疲れを感じ出した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%85%88%e9%80%b1%e3%81%8b%e3%82%89\"><span>先週から</span></a><a href=\"https://takoboto.jp/?q=%e7%96%b2%e3%82%8c%e3%82%92\"><span>疲れを</span></a><a href=\"https://takoboto.jp/?q=%e6%84%9f%e3%81%98\"><span>感じ</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82\"><span>出した。</span></a>",
+      "segments": [
+        {
+          "text": "先週から疲れを感じ出した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "せんしゅうからつかれをかんじだした。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I began to feel tired since last week.",
+          "html": "<span>I began to feel tired since last week. </span>",
+          "segments": [
+            {
+              "text": "I began to feel tired since last week. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Vマス＋だす",
+      "html": "Vマス＋だす",
+      "credits_raw": "Maru1",
+      "content_sha256": "fa78686657277679e4621d1a4a50b0866cc612fcba355522dee9620caef50359",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "This suffix, meaning to start doing something, must be distinguished from a host of compound verbs ending in \"dasu,\" such as 乗り出す(launch), 染出す (dye), 積み出す, (send off), など。I believe it is new Level ３．",
+      "html": "This suffix, meaning to start doing something, must be distinguished from a host of compound verbs ending in \"dasu,\" such as 乗り出す(launch), 染出す (dye), 積み出す, (send off), など。I believe it is new Level ３．",
+      "credits_raw": "american57",
+      "content_sha256": "e0d977fbd32f806cc2f4269f784adcefdd497d077cb3f828bc248436ff5637bb",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "#8212 Correct: She started laughing.",
+      "html": "#8212 Correct: She started laughing.",
+      "credits_raw": "audvix@yahoo.com",
+      "content_sha256": "f3963167821156a3f4f8edd4260781f263bc1cf8621c1dfa5c511620618579f7",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:34:30+00:00",
+  "response_sha256": "1bb4d2c78ccf6ff30bd71acb0deeaf26d1ab150bd696156560a2a7a12c77fd26",
+  "warnings": []
+}

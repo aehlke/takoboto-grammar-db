@@ -1,0 +1,330 @@
+{
+  "schema_version": 2,
+  "id": 1596,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1596/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "くれる (呉れる)",
+  "romanized_label": "kureru",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "Gren",
+  "meaning": "to give me, to do for me, I was given",
+  "meaning_example": "The teacher gave me a book to help me in my studies. // Would you please write this in Kanji for me?",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1596",
+      "body_text": "to give me, to do for me, I was given \n The teacher gave me a book to help me in my studies. // Would you please write this in Kanji for me?",
+      "body_html": "<span>to give me, to do for me, I was given</span> <br/> <span>The teacher gave me a book to help me in my studies. // Would you please write this in Kanji for me?</span>",
+      "credits_raw": "Gren"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1596",
+      "body_text": "Verb (て form)+くれる",
+      "body_html": "<div><div><div>Verb (て form)</div></div><div><div>+</div><div>くれる</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb (て form) + くれる"
+  ],
+  "examples": [
+    {
+      "source_id": 6140,
+      "position": 0,
+      "japanese": "彼女は、「これを　洗って　くれないか　い」と　いった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%80%81%e3%80%8c%e3%81%93%e3%82%8c%e3%82%92%e3%80%80\"><span>彼女は、「これを　</span></a><a href=\"https://takoboto.jp/?q=%e6%b4%97%e3%81%a3%e3%81%a6%e3%80%80%e3%81%8f%e3%82%8c%e3%81%aa%e3%81%84%e3%81%8b%e3%80%80%e3%81%84%e3%80%8d%e3%81%a8%e3%80%80%e3%81%84%e3%81%a3%e3%81%9f%e3%80%82\"><span>洗って　くれないか　い」と　いった。</span></a>",
+      "segments": [
+        {
+          "text": "彼女は、「これを　洗って　くれないか　い」と　いった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょは、「これをあらってくれないかい」といった。",
+      "credits_raw": "Gren",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She said, \"Please wash this for me.\"",
+          "html": "<span>She said, \"Please wash this for me.\" </span>",
+          "segments": [
+            {
+              "text": "She said, \"Please wash this for me.\" ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6141,
+      "position": 1,
+      "japanese": "先生は私に本をくれました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%af%e7%a7%81%e3%81%ab%e6%9c%ac%e3%82%92\"><span>先生は私に本を</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8f%e3%82%8c%e3%81%be%e3%81%97%e3%81%9f\"><strong>くれました</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "先生は私に本を",
+          "grammar_highlight": false
+        },
+        {
+          "text": "くれました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "せんせいはわたしにほんをくれました。",
+      "credits_raw": "Gren",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My teacher gave me  a book.",
+          "html": "<span>My teacher </span><strong>gave me </strong><span> a book. </span>",
+          "segments": [
+            {
+              "text": "My teacher ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "gave me ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " a book. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6150,
+      "position": 2,
+      "japanese": "先生は私に教えてくださいました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%af\"><span>先生は</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ab\"><span>私に</span></a><a href=\"https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>教えてくださいました。</span></a>",
+      "segments": [
+        {
+          "text": "先生は私に教えてくださいました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "せんせいはわたしにおしえてくださいました。",
+      "credits_raw": "eitanbol",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The teacher gave me some help (helped me):",
+          "html": "<span>The teacher gave me some help (helped me): </span>",
+          "segments": [
+            {
+              "text": "The teacher gave me some help (helped me): ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6151,
+      "position": 3,
+      "japanese": "友達は私に本を買ってくれました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%81%af%e7%a7%81%e3%81%ab%e6%9c%ac%e3%82%92%e8%b2%b7%e3%81%a3%e3%81%a6\"><span>友達は私に本を買って</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8f%e3%82%8c%e3%81%be%e3%81%97%e3%81%9f\"><strong>くれました</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "友達は私に本を買って",
+          "grammar_highlight": false
+        },
+        {
+          "text": "くれました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ともだちはわたしにほんをかってくれました。",
+      "credits_raw": "eitanbol",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My friend bought (and) gave me a book.",
+          "html": "<span>My friend bought (and) gave me a book. </span>",
+          "segments": [
+            {
+              "text": "My friend bought (and) gave me a book. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6646,
+      "position": 4,
+      "japanese": "今日、来てくれてありがとうございます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%80%81\"><span>今日、</span></a><a href=\"https://takoboto.jp/?q=%e6%9d%a5%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%a6%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>来てくれてありがとうございます。</span></a>",
+      "segments": [
+        {
+          "text": "今日、来てくれてありがとうございます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きょう、きてくれてありがとうございます。",
+      "credits_raw": "bunbun",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Thankyou for coming today. (more formal)",
+          "html": "<span>Thankyou for coming today. (more formal) </span>",
+          "segments": [
+            {
+              "text": "Thankyou for coming today. (more formal) ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6647,
+      "position": 5,
+      "japanese": "今日、来てくれてありがとう！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%80%81\"><span>今日、</span></a><a href=\"https://takoboto.jp/?q=%e6%9d%a5%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%a6%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86\"><span>来てくれてありがとう</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%81\"><span>！</span></a>",
+      "segments": [
+        {
+          "text": "今日、来てくれてありがとう！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きょう、きてくれてありがとう！",
+      "credits_raw": "bunbun",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Thanks for coming today! (less formal)",
+          "html": "<span>Thanks for coming today! (less formal) </span>",
+          "segments": [
+            {
+              "text": "Thanks for coming today! (less formal) ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6648,
+      "position": 6,
+      "japanese": "手伝ってくれてありがとうございます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%89%8b%e4%bc%9d%e3%81%a3%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%a6%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>手伝ってくれてありがとうございます。</span></a>",
+      "segments": [
+        {
+          "text": "手伝ってくれてありがとうございます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "てつだってくれてありがとうございます。",
+      "credits_raw": "bunbun",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Thankyou for helping me.",
+          "html": "<span>Thankyou for helping me. </span>",
+          "segments": [
+            {
+              "text": "Thankyou for helping me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Hi! If anyone can correct these, I`d appreciate it. I ran into example #6140`s 「くれないか い」form and wondered what in the heck the い is. No one seems to know, however, I do know that it is only used in spoken Japanese.",
+      "html": "Hi! If anyone can correct these, I`d appreciate it. I ran into example #6140`s 「くれないか い」form and wondered what in the heck the い is. No one seems to know, however, I do know that it is only used in spoken Japanese.",
+      "credits_raw": "Gren",
+      "content_sha256": "f78c2779a879171532f63ad61e40ad23d8a3a02bb5800569758da30c617ee6dc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "This entry [kai] may help you.",
+      "html": "This entry [kai] may help you.",
+      "credits_raw": "Miki",
+      "content_sha256": "4ec9fa8f8da190c60ee13affcd577b20e70af3424ab461ed85ae959547aab591",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "This grammar point not correct. くれる means to be given. It cannot mean to give. because くれる　is only used for things you are given or your inner family　(うち) are given. if you wanted to say someone gave someone other than your うち something you would use あげる.\n\nmy teacher taught my friend english.\n僕の先生が僕の友達に英語を教えてあげました.\n\nI gave my neighbor a gift.\n僕は　となりの人にギフトをあげました.\n\nJim loaned me $50.(did the favor of loaning)\nジムさんは　僕に　五十ドルを貸してくれました.\n\nJim loaned lee $50. (Jim did lee the favor of　loaning)\nジムさんはリーさんに五十ドルを貸してあげました.",
+      "html": "This grammar point not correct. くれる means to be given. It cannot mean to give. because くれる　is only used for things you are given or your inner family　(うち) are given. if you wanted to say someone gave someone other than your うち something you would use あげる.<br/><br/>my teacher taught my friend english.<br/>僕の先生が僕の友達に英語を教えてあげました.<br/><br/>I gave my neighbor a gift.<br/>僕は　となりの人にギフトをあげました.<br/><br/>Jim loaned me $50.(did the favor of loaning)<br/>ジムさんは　僕に　五十ドルを貸してくれました.<br/><br/>Jim loaned lee $50. (Jim did lee the favor of　loaning)<br/>ジムさんはリーさんに五十ドルを貸してあげました.",
+      "credits_raw": "tigert",
+      "content_sha256": "70dd3ca7686378897c34e02ee69268bfad4538fee3696349e1e5268227358b8f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "tigert: yes it can mean give, just not from a first-person perspective. My neighbor gives me a Christmas card every year. My teacher gave me a book.\n\n\"I was given\", is the same kind of thing but technically it's different grammar in English (passive tense).\n\nI'm not going to try to give detailed literal translations or compare grammar in the two languages. I'm just saying in some cases you might translate it as \"give\" (but not \"i give\") and in some cases as \"(to be) given\"",
+      "html": "tigert: yes it can mean give, just not from a first-person perspective. My neighbor gives me a Christmas card every year. My teacher gave me a book.<br/><br/>\"I was given\", is the same kind of thing but technically it's different grammar in English (passive tense).<br/><br/>I'm not going to try to give detailed literal translations or compare grammar in the two languages. I'm just saying in some cases you might translate it as \"give\" (but not \"i give\") and in some cases as \"(to be) given\"",
+      "credits_raw": "bgaskin",
+      "content_sha256": "cef1046fe451fa831bae0d0eeb3969df92ed026577965a7406c14dbae9589b30",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "@Gren かいinstead ofか as interrogation means the person asking is expecting a ”yes” or “no”answer,",
+      "html": "@Gren かいinstead ofか as interrogation means the person asking is expecting a ”yes” or “no”answer,",
+      "credits_raw": "Mito",
+      "content_sha256": "649bf4de6ff0fd2566a9cf50e16d4edc5587ba8ddb583736a46ca805a360a52b",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 846,
+      "label": "貰う",
+      "source_url": "https://takoboto.jp/bunpo/846"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:33:27+00:00",
+  "response_sha256": "fca6ffeb400dfda653f72e229cf3ed45ab52dbb7af7f56f70f9acbf288c3d6ac",
+  "warnings": []
+}

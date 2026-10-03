@@ -1,0 +1,803 @@
+{
+  "schema_version": 2,
+  "id": 756,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/756/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "欲しい",
+  "romanized_label": "hoshii",
+  "alternate_forms": [
+    "ほしい"
+  ],
+  "jlpt_level": 4,
+  "credits_raw": "Amatuka",
+  "meaning": "to want something (desirative)",
+  "meaning_example": "I want a car.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_756",
+      "body_text": "to want something (desirative) \n I want a car.",
+      "body_html": "<span>to want something (desirative)</span> <br/> <span>I want a car.</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_756",
+      "body_text": "Verb て-form+ほしいNoun+が+ほしい",
+      "body_html": "<div><div><div>Verb て-form</div></div><div><div>+</div><div>ほしい</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>が</div></div><div><div>+</div><div>ほしい</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb て-form + ほしい",
+    "Noun + が + ほしい"
+  ],
+  "examples": [
+    {
+      "source_id": 893,
+      "position": 0,
+      "japanese": "靴がほしいのです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%9d%b4\"><span>靴</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8c%e3%81%bb%e3%81%97%e3%81%84\"><strong>がほしい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82\"><span>のです。</span></a>",
+      "segments": [
+        {
+          "text": "靴",
+          "grammar_highlight": false
+        },
+        {
+          "text": "がほしい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "くつがほしいのです。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I'd like some shoes.",
+          "html": "<span>I'd </span><strong>like </strong><span>some shoes. </span>",
+          "segments": [
+            {
+              "text": "I'd ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "like ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "some shoes. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4990,
+      "position": 1,
+      "japanese": "「わたしは、妻と子供が欲しいので、家が必要なんだよ。」",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%80%8c%e3%82%8f%e3%81%9f%e3%81%97%e3%81%af%e3%80%81\"><span>「わたしは、</span></a><a href=\"https://takoboto.jp/?q=%e5%a6%bb%e3%81%a8\"><span>妻と</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%8c\"><span>子供が</span></a><a href=\"https://takoboto.jp/?q=%e6%ac%b2%e3%81%97%e3%81%84\"><strong>欲しい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7%e3%80%81\"><span>ので、</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%b6%e3%81%8c\"><span>家が</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%aa%e3%82%93%e3%81%a0%e3%82%88%e3%80%82%e3%80%8d\"><span>必要なんだよ。」</span></a>",
+      "segments": [
+        {
+          "text": "「わたしは、妻と子供が",
+          "grammar_highlight": false
+        },
+        {
+          "text": "欲しい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ので、家が必要なんだよ。」",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "「わたしは、つまとこどもがほしいので、いえがひつようなんだよ。」",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "\"I want a wife and children, and so I need a house.\"",
+          "html": "<span>\"I </span><strong>want </strong><span>a wife and children, and so I need a house.\" </span>",
+          "segments": [
+            {
+              "text": "\"I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "want ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a wife and children, and so I need a house.\" ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4991,
+      "position": 2,
+      "japanese": "だれか話し相手がほしい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%82%8c%e3%81%8b\"><span>だれか</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1%e3%81%97\"><span>話し</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%b8%e6%89%8b%e3%81%8c\"><span>相手が</span></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%97%e3%81%84%e3%80%82\"><strong>ほしい。</strong></a>",
+      "segments": [
+        {
+          "text": "だれか話し相手が",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ほしい。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "だれかはなしあいてがほしい。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I want someone to talk to.",
+          "html": "<span>I </span><strong>want </strong><span>someone to talk to. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "want ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "someone to talk to. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4992,
+      "position": 3,
+      "japanese": "もう一杯ビールがほしいな。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%86\"><span>もう</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e6%9d%af\"><span>一杯</span></a><a href=\"https://takoboto.jp/?q=%e3%83%93%e3%83%bc%e3%83%ab%e3%81%8c\"><span>ビールが</span></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%97%e3%81%84\"><strong>ほしい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%80%82\"><span>な。</span></a>",
+      "segments": [
+        {
+          "text": "もう一杯ビールが",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ほしい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "な。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "もういちはいビールがほしいな。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I feel like another beer.",
+          "html": "<span>I </span><strong>feel like </strong><span>another beer. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "feel like ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "another beer. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4993,
+      "position": 4,
+      "japanese": "デザートにアイスクリームがほしい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%87%e3%82%b6%e3%83%bc%e3%83%88%e3%81%ab\"><span>デザートに</span></a><a href=\"https://takoboto.jp/?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%82%af%e3%83%aa%e3%83%bc%e3%83%a0%e3%81%8c\"><span>アイスクリームが</span></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%97%e3%81%84%e3%80%82\"><strong>ほしい。</strong></a>",
+      "segments": [
+        {
+          "text": "デザートにアイスクリームが",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ほしい。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "デザートにアイスクリームがほしい。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I want ice cream for dessert.",
+          "html": "<span>I </span><strong>want </strong><span>ice cream for dessert. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "want ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "ice cream for dessert. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4994,
+      "position": 5,
+      "japanese": "君は何がほしい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%af\"><span>君は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%8c\"><span>何が</span></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%97%e3%81%84%e3%80%82\"><strong>ほしい。</strong></a>",
+      "segments": [
+        {
+          "text": "君は何が",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ほしい。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "きみはなにがほしい。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What do you want now?",
+          "html": "<span>What do you </span><strong>want </strong><span>now? </span>",
+          "segments": [
+            {
+              "text": "What do you ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "want ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "now? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4995,
+      "position": 6,
+      "japanese": "領収書がほしいのですが。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%a0%98%e5%8f%8e%e6%9b%b8%e3%81%8c\"><span>領収書が</span></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%97%e3%81%84\"><strong>ほしい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8c%e3%80%82\"><span>のですが。</span></a>",
+      "segments": [
+        {
+          "text": "領収書が",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ほしい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のですが。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "りょうしゅうしょがほしいのですが。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I would like a receipt, please.",
+          "html": "<span>I </span><strong>would like </strong><span>a receipt, please. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "would like ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a receipt, please. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6432,
+      "position": 7,
+      "japanese": "欲しい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%ac%b2%e3%81%97%e3%81%84%e3%80%82\"><span>欲しい。</span></a>",
+      "segments": [
+        {
+          "text": "欲しい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ほしい。",
+      "credits_raw": "adamstudio",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I want (you/it). [romantic nuance]",
+          "html": "<span>I want (you/it). [romantic nuance] </span>",
+          "segments": [
+            {
+              "text": "I want (you/it). [romantic nuance] ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6661,
+      "position": 8,
+      "japanese": "僕の宿題をして欲しいですが。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%83%95%e3%81%ae\"><span>僕の</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%bf%e9%a1%8c%e3%82%92\"><span>宿題を</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%a6\"><span>して</span></a><a href=\"https://takoboto.jp/?q=%e6%ac%b2%e3%81%97%e3%81%84\"><strong>欲しい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8c%e3%80%82\"><span>ですが。</span></a>",
+      "segments": [
+        {
+          "text": "僕の宿題をして",
+          "grammar_highlight": false
+        },
+        {
+          "text": "欲しい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ですが。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ぼくのしゅくだいをしてほしいですが。",
+      "credits_raw": "tigert",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I want you to do my homework.",
+          "html": "<strong>I want </strong><span>you to do </span><span>my homework. </span>",
+          "segments": [
+            {
+              "text": "I want ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "you to do my homework. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8868,
+      "position": 9,
+      "japanese": "私のことを忘れないでほしい",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ae%e3%81%93%e3%81%a8%e3%82%92\"><strong>私のことを</strong></a><a href=\"https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%81%aa%e3%81%84%e3%81%a7%e3%81%bb%e3%81%97%e3%81%84\"><span>忘れないでほしい</span></a>",
+      "segments": [
+        {
+          "text": "私のことを",
+          "grammar_highlight": true
+        },
+        {
+          "text": "忘れないでほしい",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしのことをわすれないでほしい",
+      "credits_raw": "N",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Don't forget about me",
+          "html": "<span>Don't forget </span><strong>about me </strong>",
+          "segments": [
+            {
+              "text": "Don't forget ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "about me ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6885,
+      "position": 10,
+      "japanese": "なにがほしいか言ってください。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%ab%e3%81%8c\"><span>なにが</span></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%97%e3%81%84\"><strong>ほしい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8b\"><span>か</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82\"><span>言ってください。</span></a>",
+      "segments": [
+        {
+          "text": "なにが",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ほしい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "か言ってください。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なにがほしいかいってください。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If you want something please ask for it.",
+          "html": "<span>If </span><strong>you want </strong><span>something </span><span>please ask for it. </span>",
+          "segments": [
+            {
+              "text": "If ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "you want ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "something please ask for it. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6886,
+      "position": 11,
+      "japanese": "どんなかばんがほしいですか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%a9%e3%82%93%e3%81%aa\"><span>どんな</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%81%b0%e3%82%93%e3%81%8c\"><span>かばんが</span></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%97%e3%81%84\"><strong>ほしい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82\"><span>ですか。</span></a>",
+      "segments": [
+        {
+          "text": "どんなかばんが",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ほしい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ですか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "どんなかばんがほしいですか。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What sort of portfolio do you want?",
+          "html": "<span>What sort of portfolio do </span><strong>you want? </strong>",
+          "segments": [
+            {
+              "text": "What sort of portfolio do ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "you want? ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6887,
+      "position": 12,
+      "japanese": "わたしがほしいちずはどこにもありませんでした。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%8c\"><span>わたしが</span></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%97%e3%81%84\"><strong>ほしい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a1%e3%81%9a\"><span>ちず</span></a><a href=\"https://takoboto.jp/?q=%e3%81%af%e3%81%a9%e3%81%93%e3%81%ab%e3%82%82%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%81%a7%e3%81%97%e3%81%9f%e3%80%82\"><span>はどこにもありませんでした。</span></a>",
+      "segments": [
+        {
+          "text": "わたしが",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ほしい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ちずはどこにもありませんでした。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしがほしいちずはどこにもありませんでした。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The map I wanted was nowhere to be seen.",
+          "html": "<span>The map I </span><strong>wanted </strong><span>was nowhere to be seen. </span>",
+          "segments": [
+            {
+              "text": "The map I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "wanted ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "was nowhere to be seen. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6888,
+      "position": 13,
+      "japanese": "わたしはもっと小さいテープレコダーがほしいです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%af%e3%82%82%e3%81%a3%e3%81%a8\"><span>わたしはもっと</span></a><a href=\"https://takoboto.jp/?q=%e5%b0%8f%e3%81%95%e3%81%84\"><span>小さい</span></a><a href=\"https://takoboto.jp/?q=%e3%83%86%e3%83%bc%e3%83%97%e3%83%ac%e3%82%b3%e3%83%80%e3%83%bc%e3%81%8c\"><span>テープレコダーが</span></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%97%e3%81%84\"><strong>ほしい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82\"><span>です。</span></a>",
+      "segments": [
+        {
+          "text": "わたしはもっと小さいテープレコダーが",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ほしい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはもっとちいさいがほしいです。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The tape recorder I want is a little smaller.",
+          "html": "<span>The tape recorder </span><strong>I want </strong><span>is a little smaller. </span>",
+          "segments": [
+            {
+              "text": "The tape recorder ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "I want ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "is a little smaller. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6889,
+      "position": 14,
+      "japanese": "あたらしいようふくがほしいです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%9f%e3%82%89%e3%81%97%e3%81%84\"><span>あたらしい</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%b5%e3%81%8f%e3%81%8c\"><span>ようふくが</span></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%97%e3%81%84\"><strong>ほしい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82\"><span>です。</span></a>",
+      "segments": [
+        {
+          "text": "あたらしいようふくが",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ほしい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あたらしいようふくがほしいです。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I want new Western-style clothes.",
+          "html": "<strong>I want </strong><span>new </span><span>Western-style clothes. </span>",
+          "segments": [
+            {
+              "text": "I want ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "new Western-style clothes. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "But how do you express \"don't want\"? I can say \"don't need\" with irimasen, and \"don't intend to\" with tsumori dewa arimasen, but it still seems like there is a better way? Is there no direct opposite to hoshii?",
+      "html": "But how do you express \"don't want\"? I can say \"don't need\" with irimasen, and \"don't intend to\" with tsumori dewa arimasen, but it still seems like there is a better way? Is there no direct opposite to hoshii?",
+      "credits_raw": "euphoriafish",
+      "content_sha256": "f5e74c9249144dfdac8ac522fdf694f930736338a0ddbe2696f73cc205ef85a2",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "the negative of hoshii is hoshikunai\n　行って欲しくない\n I dont want you to go",
+      "html": "the negative of hoshii is hoshikunai<br/>　行って欲しくない<br/> I dont want you to go",
+      "credits_raw": "dc",
+      "content_sha256": "73a64c3682c13f8412fccf10490ea52c3039dce90e159d8f4036b5ac8d21c989",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "You can also use hoshi to express your desire for someone else to do something.\n\n私はキムさんがケーキを食べてほしいですが\nI want kim to eat cake, but ....\n\nfor the most part you can exclude 私は because its implied by the grammar. the person you want to complete the action takes the が　particle and the verb takes the てform followed by the 欲しい statement 欲しいです\n\nthe final が at the end of the sentence means \"but\" and is used to soften the tone of the request.",
+      "html": "You can also use hoshi to express your desire for someone else to do something.<br/><br/>私はキムさんがケーキを食べてほしいですが<br/>I want kim to eat cake, but ....<br/><br/>for the most part you can exclude 私は because its implied by the grammar. the person you want to complete the action takes the が　particle and the verb takes the てform followed by the 欲しい statement 欲しいです<br/><br/>the final が at the end of the sentence means \"but\" and is used to soften the tone of the request.",
+      "credits_raw": "tigert",
+      "content_sha256": "f2f097863397beb15be0baa0ce5deb2c045cebd15cfdf111b276d1a56d74214f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Formed by a noun or noun phrase + ga hoshii.\n(Note that, depending on context, ga may be replaced with the topic / contrast marker ha / wa)\n\nN = noun",
+      "html": "Formed by a noun or noun phrase + ga hoshii.<br/>(Note that, depending on context, ga may be replaced with the topic / contrast marker ha / wa)<br/><br/>N = noun",
+      "credits_raw": "Amatuka",
+      "content_sha256": "ee54c2159d6fdfcb0cd971ca2abe685f92211fe3cafff9b88a3f0307d12f90be",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Darn. Typo on 'differs'.",
+      "html": "Darn. Typo on 'differs'.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "b37fb490a995ceeab5019a23018e53fd7db40adae299b31f34b9041743960705",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "Note that it's commonly spelt 〜欲しい, like in ex #4990",
+      "html": "Note that it's commonly spelt 〜欲しい, like in ex #4990",
+      "credits_raw": "mathrick",
+      "content_sha256": "cf5354f297269618b7a0c50ea776226d53ee655452c8c5a63a56dae1fc66f95b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "I believe you can also use 欲しい with the て-form of the verbs:\n\nEX. 写真を撮って欲しいんですが。\n I want to have a picture taken.\n\nThe difference between 撮って欲しい and 撮りたい is that in the latter, it is I who wishes to take the picture, while in the former, I want someone else to take a picture for me.",
+      "html": "I believe you can also use 欲しい with the て-form of the verbs:<br/><br/>EX. 写真を撮って欲しいんですが。<br/> I want to have a picture taken.<br/><br/>The difference between 撮って欲しい and 撮りたい is that in the latter, it is I who wishes to take the picture, while in the former, I want someone else to take a picture for me.",
+      "credits_raw": "sutashu",
+      "content_sha256": "a6937ff0683ea4f8492f28621da11ddf663f39cd227d1253fbea4f65cdc212b6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "I read somewhere that you can also add のが欲しい to the end of a verb (not as a conjugation) to make it say, for instance, \"I want to have a picture taken.\" It'd sort of be like \"I want the thing of taking a picture.\" (の making 'to take a picture' a noun clause?)",
+      "html": "I read somewhere that you can also add のが欲しい to the end of a verb (not as a conjugation) to make it say, for instance, \"I want to have a picture taken.\" It'd sort of be like \"I want the thing of taking a picture.\" (の making 'to take a picture' a noun clause?)",
+      "credits_raw": "Saralynne",
+      "content_sha256": "de7f9d5b2569fedbc58bf5753a6abe4319ee04a7d64e17726ebb5e0b0d6d41c2",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "hoishi is always used in the case of nouns... means when we want some noun.. that could be a book... car... camera.. anything.\nwhere as tai is also a want but it concern with some action or verb u want to do.. example: shigoto o shitai desu.\none more..\nexample in both the case.... make out the difference\nexample of hoishi..\nwatashi wa kuruma ga hoishi desu..\nexample of tai..\nwatashi wa kuruma o kaitai desu.\n\nI hope.... u all got this ...........\ndomo",
+      "html": "hoishi is always used in the case of nouns... means when we want some noun.. that could be a book... car... camera.. anything.<br/>where as tai is also a want but it concern with some action or verb u want to do.. example: shigoto o shitai desu.<br/>one more..<br/>example in both the case.... make out the difference<br/>example of hoishi..<br/>watashi wa kuruma ga hoishi desu..<br/>example of tai..<br/>watashi wa kuruma o kaitai desu.<br/><br/>I hope.... u all got this ...........<br/>domo",
+      "credits_raw": "prachi",
+      "content_sha256": "d708fb71b9424c13b1b97dcb0529c75ec164f0263f3d8184207b524dd52db694",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "I give some examples of JPLT4 to show that this entry is level 4 rather than level 3.",
+      "html": "I give some examples of JPLT4 to show that this entry is level 4 rather than level 3.",
+      "credits_raw": "赤毛",
+      "content_sha256": "b086ae1a334d0bd582e8085eb2e78422a4665c9ffff12d1422433196d2f4b4ae",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "Good point Saralynne, \n\nIts important to remember that although some grammar constructions can only be used in combination with a noun, In Japanese turning a verb into a noun is rather simple. こと、の、or just slap a noun right after the dict-form of a verb and you can use it with any construction you want. \n\nHey prachi, \n Hoshi isn`t always used with nouns its also used with verbs to express that you want others do do something for you. して欲しい",
+      "html": "Good point Saralynne, <br/><br/>Its important to remember that although some grammar constructions can only be used in combination with a noun, In Japanese turning a verb into a noun is rather simple. こと、の、or just slap a noun right after the dict-form of a verb and you can use it with any construction you want. <br/><br/>Hey prachi, <br/> Hoshi isn`t always used with nouns its also used with verbs to express that you want others do do something for you. して欲しい",
+      "credits_raw": "tigert",
+      "content_sha256": "57ce77b7e42388b47007f87b0249588a14eff457731beff6ec0fbd6ca92d7ff9",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 757,
+      "label": "たい",
+      "source_url": "https://takoboto.jp/bunpo/757"
+    },
+    {
+      "target_id": 1170,
+      "label": "がる",
+      "source_url": "https://takoboto.jp/bunpo/1170"
+    },
+    {
+      "target_id": 1141,
+      "label": "頂く",
+      "source_url": "https://takoboto.jp/bunpo/1141"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:32:45+00:00",
+  "response_sha256": "ad94533ebd372df0ed4158d4438ad4f55d69887ed07bac14d706694bc83648b9",
+  "warnings": []
+}

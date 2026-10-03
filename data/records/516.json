@@ -1,0 +1,909 @@
+{
+  "schema_version": 2,
+  "id": 516,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/516/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "とは限らない",
+  "romanized_label": "tohakagiranai",
+  "alternate_forms": [
+    "とはかぎらない"
+  ],
+  "jlpt_level": 3,
+  "credits_raw": "dc",
+  "meaning": "not always, not necessarily",
+  "meaning_example": "expensive things are not always better",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_516",
+      "body_text": "not always, not necessarily \n expensive things are not always better",
+      "body_html": "<span>not always, not necessarily</span> <br/> <span>expensive things are not always better</span>",
+      "credits_raw": "dc"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 813,
+      "position": 0,
+      "japanese": "高い物が必ずしも安いものより良いとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%ab%98%e3%81%84\"><span>高い</span></a><a href=\"https://takoboto.jp/?q=%e7%89%a9\"><span>物</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8c\"><span>が</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82\"><strong>必ずしも</strong></a><a href=\"https://takoboto.jp/?q=%e5%ae%89%e3%81%84%e3%82%82%e3%81%ae%e3%82%88%e3%82%8a\"><span>安いものより</span></a><a href=\"https://takoboto.jp/?q=%e8%89%af%e3%81%84\"><span>良い</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84%e3%80%82\"><strong>とは限らない。</strong></a>",
+      "segments": [
+        {
+          "text": "高い物が",
+          "grammar_highlight": false
+        },
+        {
+          "text": "必ずしも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "安いものより良い",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "たかいものがかならずしもやすいものよりよいとはかぎらない。",
+      "credits_raw": "Amatuka, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Expensive things are not always better than cheap things.",
+          "html": "<span>Expensive things </span><strong>are not always </strong><span>better than cheap things. </span>",
+          "segments": [
+            {
+              "text": "Expensive things ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "are not always ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "better than cheap things. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3834,
+      "position": 1,
+      "japanese": "いつでも自分の思い通りにできるとは限らないよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%a4%e3%81%a7%e3%82%82\"><span>いつでも</span></a><a href=\"https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae\"><span>自分の</span></a><a href=\"https://takoboto.jp/?q=%e6%80%9d%e3%81%84\"><span>思い</span></a><a href=\"https://takoboto.jp/?q=%e9%80%9a%e3%82%8a%e3%81%ab%e3%81%a7%e3%81%8d%e3%82%8b\"><span>通りにできる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%80%82\"><span>よ。</span></a>",
+      "segments": [
+        {
+          "text": "いつでも自分の思い通りにできる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "よ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いつでもじぶんのおもいどおりにできるとはかぎらないよ。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You cannot always have your own way.",
+          "html": "<span>You cannot always have your own way. </span>",
+          "segments": [
+            {
+              "text": "You cannot always have your own way. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3835,
+      "position": 2,
+      "japanese": "うまい冗談を言うことはいつもたやすいとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%86%e3%81%be%e3%81%84\"><span>うまい</span></a><a href=\"https://takoboto.jp/?q=%e5%86%97%e8%ab%87%e3%82%92\"><span>冗談を</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%93%e3%81%a8%e3%81%af%e3%81%84%e3%81%a4%e3%82%82%e3%81%9f%e3%82%84%e3%81%99%e3%81%84\"><span>言うことはいつもたやすい</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "うまい冗談を言うことはいつもたやすい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "うまいじょうだんをいうことはいつもたやすいとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It is not always easy to make a good joke.",
+          "html": "<span>It is not always easy to make a good joke. </span>",
+          "segments": [
+            {
+              "text": "It is not always easy to make a good joke. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3836,
+      "position": 3,
+      "japanese": "おいしそうに見える食べ物が必ずしもおいしいとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%84%e3%81%97%e3%81%9d%e3%81%86%e3%81%ab\"><span>おいしそうに</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%88%e3%82%8b\"><span>見える</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9\"><span>食べ</span></a><a href=\"https://takoboto.jp/?q=%e7%89%a9%e3%81%8c\"><span>物が</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82%e3%81%8a%e3%81%84%e3%81%97%e3%81%84\"><span>必ずしもおいしい</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "おいしそうに見える食べ物が必ずしもおいしい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おいしそうにみえるたべものがかならずしもおいしいとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Delicious looking food doesn't necessarily taste good.",
+          "html": "<span>Delicious looking food </span><strong>doesn't necessarily </strong><span>taste good. </span>",
+          "segments": [
+            {
+              "text": "Delicious looking food ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "doesn't necessarily ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "taste good. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3837,
+      "position": 4,
+      "japanese": "お金が幸福をもたらすとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e3%81%8c\"><span>金が</span></a><a href=\"https://takoboto.jp/?q=%e5%b9%b8%e7%a6%8f%e3%82%92%e3%82%82%e3%81%9f%e3%82%89%e3%81%99\"><span>幸福をもたらす</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "お金が幸福をもたらす",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おかねがこうふくをもたらすとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Money does not always bring happiness.",
+          "html": "<span>Money does not always bring happiness. </span>",
+          "segments": [
+            {
+              "text": "Money does not always bring happiness. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3838,
+      "position": 5,
+      "japanese": "お金持ちが必ずしも幸せとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e6%8c%81%e3%81%a1%e3%81%8c\"><span>金持ちが</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82\"><span>必ずしも</span></a><a href=\"https://takoboto.jp/?q=%e5%b9%b8%e3%81%9b\"><span>幸せ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "お金持ちが必ずしも幸せ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おかねもちがかならずしもしあわせとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The rich are not always happy.",
+          "html": "<span>The rich are not always happy. </span>",
+          "segments": [
+            {
+              "text": "The rich are not always happy. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3839,
+      "position": 6,
+      "japanese": "この法則はすべての場合に適用されるとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e6%b3%95%e5%89%87%e3%81%af%e3%81%99%e3%81%b9%e3%81%a6%e3%81%ae\"><span>法則はすべての</span></a><a href=\"https://takoboto.jp/?q=%e5%a0%b4%e5%90%88%e3%81%ab\"><span>場合に</span></a><a href=\"https://takoboto.jp/?q=%e9%81%a9%e7%94%a8%e3%81%95%e3%82%8c%e3%82%8b\"><span>適用される</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "この法則はすべての場合に適用される",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このほうそくはすべてのばあいにてきようされるとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This rule cannot be applied in every case.",
+          "html": "<span>This rule cannot be applied in every case. </span>",
+          "segments": [
+            {
+              "text": "This rule cannot be applied in every case. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3840,
+      "position": 7,
+      "japanese": "たとえ自分の思い通りにしたとしても、必ずしも成功するとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%81%a8%e3%81%88\"><span>たとえ</span></a><a href=\"https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae\"><span>自分の</span></a><a href=\"https://takoboto.jp/?q=%e6%80%9d%e3%81%84\"><span>思い</span></a><a href=\"https://takoboto.jp/?q=%e9%80%9a%e3%82%8a%e3%81%ab%e3%81%97%e3%81%9f%e3%81%a8%e3%81%97%e3%81%a6%e3%82%82%e3%80%81\"><span>通りにしたとしても、</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82\"><span>必ずしも</span></a><a href=\"https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%99%e3%82%8b\"><span>成功する</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "たとえ自分の思い通りにしたとしても、必ずしも成功する",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "たとえじぶんのおもいどおりにしたとしても、かならずしもせいこうするとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even if you have your own way, you will not always be successful.",
+          "html": "<span>Even if you have your own way, you will not always be successful. </span>",
+          "segments": [
+            {
+              "text": "Even if you have your own way, you will not always be successful. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3841,
+      "position": 8,
+      "japanese": "われわれは必ずしもあの星を肉眼で見られるとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%8f%e3%82%8c%e3%82%8f%e3%82%8c%e3%81%af\"><span>われわれは</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82%e3%81%82%e3%81%ae\"><span>必ずしもあの</span></a><a href=\"https://takoboto.jp/?q=%e6%98%9f%e3%82%92\"><span>星を</span></a><a href=\"https://takoboto.jp/?q=%e8%82%89%e7%9c%bc%e3%81%a7\"><span>肉眼で</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%82%89%e3%82%8c%e3%82%8b\"><span>見られる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "われわれは必ずしもあの星を肉眼で見られる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "われわれはかならずしもあのほしをにくがんでみられるとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We cannot necessarily see the star with the naked eye.",
+          "html": "<span>We cannot necessarily see the star with the naked eye. </span>",
+          "segments": [
+            {
+              "text": "We cannot necessarily see the star with the naked eye. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3842,
+      "position": 9,
+      "japanese": "偉大な学者が必ずしも良い先生であるとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%81%89%e5%a4%a7%e3%81%aa\"><span>偉大な</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%a6%e8%80%85%e3%81%8c\"><span>学者が</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82\"><span>必ずしも</span></a><a href=\"https://takoboto.jp/?q=%e8%89%af%e3%81%84\"><span>良い</span></a><a href=\"https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%a7%e3%81%82%e3%82%8b\"><span>先生である</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "偉大な学者が必ずしも良い先生である",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いだいながくしゃがかならずしもよいせんせいであるとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "A great scholar is not necessarily a good teacher.",
+          "html": "<span>A great scholar is not necessarily a good teacher. </span>",
+          "segments": [
+            {
+              "text": "A great scholar is not necessarily a good teacher. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3843,
+      "position": 10,
+      "japanese": "科学の進歩は必ずしも人類に利益をもたらすとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%91%e5%ad%a6%e3%81%ae\"><span>科学の</span></a><a href=\"https://takoboto.jp/?q=%e9%80%b2%e6%ad%a9%e3%81%af\"><span>進歩は</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82\"><span>必ずしも</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e9%a1%9e%e3%81%ab\"><span>人類に</span></a><a href=\"https://takoboto.jp/?q=%e5%88%a9%e7%9b%8a%e3%82%92%e3%82%82%e3%81%9f%e3%82%89%e3%81%99\"><span>利益をもたらす</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "科学の進歩は必ずしも人類に利益をもたらす",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かがくのしんぽはかならずしもじんるいにりえきをもたらすとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Advances in science don't always benefit humanity.",
+          "html": "<span>Advances in science don't always benefit humanity. </span>",
+          "segments": [
+            {
+              "text": "Advances in science don't always benefit humanity. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3844,
+      "position": 11,
+      "japanese": "科学の進歩は必ずしも人類に利益を与えるとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%91%e5%ad%a6%e3%81%ae\"><span>科学の</span></a><a href=\"https://takoboto.jp/?q=%e9%80%b2%e6%ad%a9%e3%81%af\"><span>進歩は</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82\"><span>必ずしも</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e9%a1%9e%e3%81%ab\"><span>人類に</span></a><a href=\"https://takoboto.jp/?q=%e5%88%a9%e7%9b%8a%e3%82%92\"><span>利益を</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8e%e3%81%88%e3%82%8b\"><span>与える</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "科学の進歩は必ずしも人類に利益を与える",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かがくのしんぽはかならずしもじんるいにりえきをあたえるとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Advances in science don't always benefit humanity.",
+          "html": "<span>Advances in science don't always benefit humanity. </span>",
+          "segments": [
+            {
+              "text": "Advances in science don't always benefit humanity. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3845,
+      "position": 12,
+      "japanese": "科学技術が必要な物を何でも与えてくれるとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%91%e5%ad%a6%e6%8a%80%e8%a1%93%e3%81%8c\"><span>科学技術が</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%aa\"><span>必要な</span></a><a href=\"https://takoboto.jp/?q=%e7%89%a9%e3%82%92\"><span>物を</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%a7%e3%82%82\"><span>何でも</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8e%e3%81%88%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8b\"><span>与えてくれる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "科学技術が必要な物を何でも与えてくれる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かがくぎじゅつがひつようなものをなにでもあたえてくれるとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I don't think that technology provides us with everything we need.",
+          "html": "<span>I don't think that technology provides us with everything we need. </span>",
+          "segments": [
+            {
+              "text": "I don't think that technology provides us with everything we need. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3846,
+      "position": 13,
+      "japanese": "科学上の発見が、世の中を今までよりも良い場所にするとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%91%e5%ad%a6%e4%b8%8a%e3%81%ae\"><span>科学上の</span></a><a href=\"https://takoboto.jp/?q=%e7%99%ba%e8%a6%8b%e3%81%8c%e3%80%81\"><span>発見が、</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%96%e3%81%ae\"><span>世の</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%ad%e3%82%92\"><span>中を</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%81%be%e3%81%a7%e3%82%88%e3%82%8a%e3%82%82\"><span>今までよりも</span></a><a href=\"https://takoboto.jp/?q=%e8%89%af%e3%81%84\"><span>良い</span></a><a href=\"https://takoboto.jp/?q=%e5%a0%b4%e6%89%80%e3%81%ab%e3%81%99%e3%82%8b\"><span>場所にする</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "科学上の発見が、世の中を今までよりも良い場所にする",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かがくじょうのはっけんが、よのなかをいままでよりもよいばしょにするとはかぎらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Scientific discoveries don't always make the world a better place.",
+          "html": "<span>Scientific discoveries don't always make the world a better place. </span>",
+          "segments": [
+            {
+              "text": "Scientific discoveries don't always make the world a better place. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3847,
+      "position": 14,
+      "japanese": "近ごろでは、結婚の動機は必ずしも純粋とは限らない。例えばジェニファーを見てごらんよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%bf%91%e3%81%94%e3%82%8d%e3%81%a7%e3%81%af%e3%80%81\"><span>近ごろでは、</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%90%e5%a9%9a%e3%81%ae\"><span>結婚の</span></a><a href=\"https://takoboto.jp/?q=%e5%8b%95%e6%a9%9f%e3%81%af\"><span>動機は</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82\"><span>必ずしも</span></a><a href=\"https://takoboto.jp/?q=%e7%b4%94%e7%b2%8b\"><span>純粋</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a><a href=\"https://takoboto.jp/?q=%e4%be%8b%e3%81%88%e3%81%b0%e3%82%b8%e3%82%a7%e3%83%8b%e3%83%95%e3%82%a1%e3%83%bc%e3%82%92\"><span>例えばジェニファーを</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%a6%e3%81%94%e3%82%89%e3%82%93%e3%82%88%e3%80%82\"><span>見てごらんよ。</span></a>",
+      "segments": [
+        {
+          "text": "近ごろでは、結婚の動機は必ずしも純粋",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。例えばジェニファーを見てごらんよ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ちかごろでは、けっこんのどうきはかならずしもじゅんすいとはかぎらない。たとえばをみてごらんよ。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "These days, the motive for marriage is not necessarily pure. Take Jennifer for example.",
+          "html": "<span>These days, the motive for marriage is not necessarily pure. Take Jennifer for example. </span>",
+          "segments": [
+            {
+              "text": "These days, the motive for marriage is not necessarily pure. Take Jennifer for example. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8481,
+      "position": 15,
+      "japanese": "どの子供もリンゴが好きだとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%a9%e3%81%ae\"><span>どの</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%82%82%e3%83%aa%e3%83%b3%e3%82%b4%e3%81%8c\"><span>子供もリンゴが</span></a><a href=\"https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a0\"><span>好きだ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "どの子供もリンゴが好きだ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "どのこどももリンゴがすきだとはかぎらない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Not all children like apples.",
+          "html": "<span>Not all children like apples. </span>",
+          "segments": [
+            {
+              "text": "Not all children like apples. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8482,
+      "position": 16,
+      "japanese": "金はそれ自体では必ずしも幸福をもたらすとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%87%91%e3%81%af%e3%81%9d%e3%82%8c\"><span>金はそれ</span></a><a href=\"https://takoboto.jp/?q=%e8%87%aa%e4%bd%93%e3%81%a7%e3%81%af\"><span>自体では</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82\"><span>必ずしも</span></a><a href=\"https://takoboto.jp/?q=%e5%b9%b8%e7%a6%8f%e3%82%92%e3%82%82%e3%81%9f%e3%82%89%e3%81%99\"><span>幸福をもたらす</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "金はそれ自体では必ずしも幸福をもたらす",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きんはそれじたいではかならずしもこうふくをもたらすとはかぎらない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Money, as such, does not always bring happiness.",
+          "html": "<span>Money, as such, does not always bring happiness. </span>",
+          "segments": [
+            {
+              "text": "Money, as such, does not always bring happiness. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8483,
+      "position": 17,
+      "japanese": "金持ちは必ずしも幸福とは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%87%91%e6%8c%81%e3%81%a1%e3%81%af\"><span>金持ちは</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82\"><span>必ずしも</span></a><a href=\"https://takoboto.jp/?q=%e5%b9%b8%e7%a6%8f\"><span>幸福</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "金持ちは必ずしも幸福",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かねもちはかならずしもこうふくとはかぎらない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The rich are not necessarily happy.",
+          "html": "<span>The rich are not necessarily happy. </span>",
+          "segments": [
+            {
+              "text": "The rich are not necessarily happy. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8853,
+      "position": 18,
+      "japanese": "賢い人は正直であるとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%b3%a2%e3%81%84%e4%ba%ba%e3%81%af%e6%ad%a3%e7%9b%b4%e3%81%a7%e3%81%82%e3%82%8b\"><span>賢い人は正直である</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "賢い人は正直である",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かしこいひとはしょうじきであるとはかぎらない。",
+      "credits_raw": "#3834 veer",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Wise person not necessarily  is honest.",
+          "html": "<span>Wise person </span><strong>not necessarily </strong><span> is honest. </span>",
+          "segments": [
+            {
+              "text": "Wise person ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "not necessarily ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " is honest. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3833,
+      "position": 19,
+      "japanese": "あらゆる真実がいつでも語られるとは限らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%89%e3%82%86%e3%82%8b\"><span>あらゆる</span></a><a href=\"https://takoboto.jp/?q=%e7%9c%9f%e5%ae%9f%e3%81%8c%e3%81%84%e3%81%a4%e3%81%a7%e3%82%82\"><span>真実がいつでも</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%9e%e3%82%89%e3%82%8c%e3%82%8b\"><span>語られる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84\"><strong>とは限らない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "あらゆる真実がいつでも語られる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とは限らない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あらゆるしんじつがいつでもかたられるとはかぎらない。",
+      "credits_raw": "dbx, bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "All the truth is not to be told at all time.",
+          "html": "<span>All the truth is not to be told at all time. </span>",
+          "segments": [
+            {
+              "text": "All the truth is not to be told at all time. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "seems to be used in a couple of ways:\n\nwith [kanarazushimo]\nA ga kanarazushimo B yori (adjective) tohakagiranai\n高い物が[必ずしも]安いものより良いとは限らない。\nExpensive things are not always better than cheap things.\n\nお金持ちが必ずしも幸せとは限らない。\n\nalso with a verb\n\nお金が幸福をもたらすとは限らない。\nMoney does not always bring happiness. \n\n いつでも自分の思い通りにできるとは限らないよ。 \nYou cannot always have your own way.",
+      "html": "seems to be used in a couple of ways:<br/><br/>with [kanarazushimo]<br/>A ga kanarazushimo B yori (adjective) tohakagiranai<br/>高い物が[必ずしも]安いものより良いとは限らない。<br/>Expensive things are not always better than cheap things.<br/><br/>お金持ちが必ずしも幸せとは限らない。<br/><br/>also with a verb<br/><br/>お金が幸福を<b>もたらす</b>とは限らない。<br/>Money does not always bring happiness. <br/><br/> いつでも自分の思い通りに<b>できる</b>とは限らないよ。 <br/>You cannot always have your own way.",
+      "credits_raw": "dc",
+      "content_sha256": "ac7653b27d6f25e83f2cd33c324b1849dbdcc1dcff553112ef88561f2fcf698c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "高い物_が_ is more natural in context.",
+      "html": "高い物_が_ is more natural in context.",
+      "credits_raw": "Miki",
+      "content_sha256": "d0f95596ab54311cabcbdd79200e877c3f734398fdc3bf90cc4f1f85f18275ed",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Lit : Not limited to being [...]",
+      "html": "Lit : Not limited to being [...]",
+      "credits_raw": "Amatuka",
+      "content_sha256": "29da34218bf7be645ae8842ccb8977ff86c12e58f02031dd6db63eaa68060943",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Is this like ...というわけではない [wakedehanai]？",
+      "html": "Is this like ...というわけではない [wakedehanai]？",
+      "credits_raw": "yookoso",
+      "content_sha256": "ee2d47ffb069b9b1ea930a1d859798e8435090a74190401a756c975f81cbbef0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Yes. とは限らない can be reaplced by (という）わけではない.",
+      "html": "Yes. とは限らない can be reaplced by (という）わけではない.",
+      "credits_raw": "Miki",
+      "content_sha256": "b42c73d97413e6b0bb13331e061787ae6102be675627d63f73ead9573ba10196",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "Frequently appears with 必ずしも.\n\n(Question: Could this be applied to nouns in this way: (これは鉛筆として使うとは限らない、マーカーとしても使えますよ。)? It isn't limited to the function of a pencil, it can also (perform the function of) a marker.\nSomething that isn't limited to one single use or function.)",
+      "html": "Frequently appears with 必ずしも.<br/><br/>(Question: Could this be applied to nouns in this way: (これは鉛筆として使うとは限らない、マーカーとしても使えますよ。)? It isn't limited to the function of a pencil, it can also (perform the function of) a marker.<br/>Something that isn't limited to one single use or function.)",
+      "credits_raw": "LittleFish",
+      "content_sha256": "87ed70097666f208023fa8ee8a21619d7c8a973c36858231b7dcf79134b5b475",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "It's grammatically correct. 鉛筆 used also as マーカー…. If you mean a mechanical pencil, it should be シャーペン.",
+      "html": "It's grammatically correct. 鉛筆 used also as マーカー…. If you mean a mechanical pencil, it should be シャーペン.",
+      "credits_raw": "Miki",
+      "content_sha256": "5bf3377406a93c759f559bb4672278bec1c75330dbc9e54ee210ad59f06ba2db",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "ex #3836 - おいしそうに見える食べ物 could simply be　おいしそうな食べ物?\n\nI'm more asking than correcting",
+      "html": "ex #3836 - おいしそうに見える食べ物 could simply be　おいしそうな食べ物?<br/><br/>I'm more asking than correcting",
+      "credits_raw": "geishaboy",
+      "content_sha256": "c14ef823385984331e9080b7ec7e2fd460dc72871c597420ed0fa0c4539ab1fd",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "Can we use V-た before とはかぎらない？",
+      "html": "Can we use V-た before とはかぎらない？",
+      "credits_raw": "Chan",
+      "content_sha256": "50d9cc8b8ecc01bf01e120741b927384bfeb00f33db0d21396c0609c0e4b9697",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 618,
+      "label": "必ずしも・・・でない",
+      "source_url": "https://takoboto.jp/bunpo/618"
+    },
+    {
+      "target_id": 380,
+      "label": "に限らず",
+      "source_url": "https://takoboto.jp/bunpo/380"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:35:50+00:00",
+  "response_sha256": "a64925b5095eb842ce6dbd5e805e7031fd5d6be3596e80166a0647c6c1c87b6e",
+  "warnings": []
+}

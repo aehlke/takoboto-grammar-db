@@ -1,0 +1,495 @@
+{
+  "schema_version": 2,
+  "id": 644,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/644/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "たび、たびに",
+  "romanized_label": "tabi, tabini",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "each time, every time, whenever",
+  "meaning_example": "Whenever I go overseas, I realize the merits of my own country.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_644",
+      "body_text": "each time, every time, whenever \n Whenever I go overseas, I realize the merits of my own country.",
+      "body_html": "<span>each time, every time, whenever</span> <br/> <span>Whenever I go overseas, I realize the merits of my own country.</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_644",
+      "body_text": "Noun+の+たび+にVerb (dictionary form)+たび+に",
+      "body_html": "<div><div><div>Noun</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>たび</div></div><div><div>+</div><div>に</div></div></div><div><div><div>Verb (dictionary form)</div></div><div><div>+</div><div>たび</div></div><div><div>+</div><div>に</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Noun + の + たび + に",
+    "Verb (dictionary form) + たび + に"
+  ],
+  "examples": [
+    {
+      "source_id": 5745,
+      "position": 0,
+      "japanese": "彼女は会うたびににきれいになる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>彼女は</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9a%e3%81%86\"><span>会う</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%81%b3%e3%81%ab\"><strong>たびに</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8d%e3%82%8c%e3%81%84%e3%81%ab%e3%81%aa%e3%82%8b%e3%80%82\"><span>にきれいになる。</span></a>",
+      "segments": [
+        {
+          "text": "彼女は会う",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たびに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "にきれいになる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはあうたびににきれいになる。",
+      "credits_raw": "devking64",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Every time I meet her, she is always beautiful. Every time",
+          "html": "<span>Every time I meet her, she is always beautiful. </span><strong>Every time </strong>",
+          "segments": [
+            {
+              "text": "Every time I meet her, she is always beautiful. ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "Every time ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 731,
+      "position": 1,
+      "japanese": "Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=Windows+Messenger+%e3%81%ab\"><span>Windows Messenger に</span></a><a href=\"https://takoboto.jp/?q=%e3%82%b5%e3%82%a4%e3%83%b3%e3%82%a4%e3%83%b3%e3%81%99%e3%82%8b\"><span>サインインする</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%81%b3%e3%81%ab\"><strong>たびに</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0%e3%82%92%e3%82%a2%e3%83%83%e3%83%97%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%89%e3%81%99%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab\"><span>、プログラムをアップグレードするように</span></a><a href=\"https://takoboto.jp/?q=%e6%b1%82%e3%82%81%e3%82%89%e3%82%8c%e3%81%be%e3%81%99%e3%80%82\"><span>求められます。</span></a>",
+      "segments": [
+        {
+          "text": "Windows Messenger にサインインする",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たびに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、プログラムをアップグレードするように求められます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "にするたびに、プログラムをアップグレードするようにもとめられます。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Whenever I sign in to Windows Messenger it wants me to upgrade the program.",
+          "html": "<strong>Whenever </strong><span>I sign in to Windows Messenger it wants me to upgrade the program. </span>",
+          "segments": [
+            {
+              "text": "Whenever ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I sign in to Windows Messenger it wants me to upgrade the program. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 733,
+      "position": 2,
+      "japanese": "東京に行くたびに言っている気がする",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%9d%b1%e4%ba%ac%e3%81%ab\"><span>東京に</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f\"><span>行く</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%81%b3%e3%81%ab\"><strong>たびに</strong></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b\"><span>言っている</span></a><a href=\"https://takoboto.jp/?q=%e6%b0%97%e3%81%8c%e3%81%99%e3%82%8b\"><span>気がする</span></a>",
+      "segments": [
+        {
+          "text": "東京に行く",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たびに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "言っている気がする",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "とうきょうにいくたびにいっているきがする",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I get the feeling I say that whenever I go to Tokyo.",
+          "html": "<span>I get the feeling I say that </span><strong>whenever </strong><span>I go to Tokyo. </span>",
+          "segments": [
+            {
+              "text": "I get the feeling I say that ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "whenever ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I go to Tokyo. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6205,
+      "position": 3,
+      "japanese": "課長は出張のたびに、みんなにお土産を買ってくる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%aa%b2%e9%95%b7%e3%81%af\"><span>課長は</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e5%bc%b5%e3%81%ae\"><span>出張の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%81%b3%e3%81%ab\"><strong>たびに</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ab%e3%81%8a\"><span>、みんなにお</span></a><a href=\"https://takoboto.jp/?q=%e5%9c%9f%e7%94%a3%e3%82%92\"><span>土産を</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%a6%e3%81%8f%e3%82%8b%e3%80%82\"><span>買ってくる。</span></a>",
+      "segments": [
+        {
+          "text": "課長は出張の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たびに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、みんなにお土産を買ってくる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かちょうはしゅっちょうのたびに、みんなにおみやげをかってくる。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Whenever the section manager goes on a business trip, he brings back souvenirs for everyone.",
+          "html": "<strong>Whenever </strong><span>the section manager goes on a business trip, he brings back souvenirs for everyone. </span>",
+          "segments": [
+            {
+              "text": "Whenever ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the section manager goes on a business trip, he brings back souvenirs for everyone. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8455,
+      "position": 4,
+      "japanese": "彼女はやるたびに失敗した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%82%84%e3%82%8b%e3%81%9f%e3%81%b3%e3%81%ab\"><span>彼女はやるたびに</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%b1%e6%95%97%e3%81%97%e3%81%9f%e3%80%82\"><span>失敗した。</span></a>",
+      "segments": [
+        {
+          "text": "彼女はやるたびに失敗した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはやるたびにしっぱいした。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "As often as she tried, she failed.",
+          "html": "<span>As often as she tried, she failed. </span>",
+          "segments": [
+            {
+              "text": "As often as she tried, she failed. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8456,
+      "position": 5,
+      "japanese": "会いに行くたびに彼女は留守だった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bc%9a%e3%81%84%e3%81%ab\"><span>会いに</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f%e3%81%9f%e3%81%b3%e3%81%ab\"><span>行くたびに</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>彼女は</span></a><a href=\"https://takoboto.jp/?q=%e7%95%99%e5%ae%88%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82\"><span>留守だった。</span></a>",
+      "segments": [
+        {
+          "text": "会いに行くたびに彼女は留守だった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あいにいくたびにかのじょはるすだった。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Every time　I went to see her, she was not at home.",
+          "html": "<span>Every time　I went to see her, she was not at home. </span>",
+          "segments": [
+            {
+              "text": "Every time　I went to see her, she was not at home. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8589,
+      "position": 6,
+      "japanese": "私は旅行のたびに、絵葉書を買います",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af\"><span>私は</span></a><a href=\"https://takoboto.jp/?q=%e6%97%85%e8%a1%8c%e3%81%ae%e3%81%9f%e3%81%b3%e3%81%ab%e3%80%81\"><span>旅行のたびに、</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%b5%e8%91%89%e6%9b%b8%e3%82%92\"><span>絵葉書を</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%b7%e3%81%84%e3%81%be%e3%81%99\"><span>買います</span></a>",
+      "segments": [
+        {
+          "text": "私は旅行のたびに、絵葉書を買います",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはりょこうのたびに、えはがきをかいます",
+      "credits_raw": "thokyo",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Every time I travel, I buy a postcard",
+          "html": "<span>Every time I travel, I buy a postcard </span>",
+          "segments": [
+            {
+              "text": "Every time I travel, I buy a postcard ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8872,
+      "position": 7,
+      "japanese": "彼とデートをするたびに一段とかわいくなる",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%a8%e3%83%87%e3%83%bc%e3%83%88%e3%82%92%e3%81%99%e3%82%8b\"><span>彼とデートをする</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%81%b3%e3%81%ab\"><strong>たびに</strong></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e6%ae%b5%e3%81%a8%e3%81%8b%e3%82%8f%e3%81%84%e3%81%8f%e3%81%aa%e3%82%8b\"><span>一段とかわいくなる</span></a>",
+      "segments": [
+        {
+          "text": "彼とデートをする",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たびに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "一段とかわいくなる",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれとデートをするたびにいちだんとかわいくなる",
+      "credits_raw": "ヒム",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Every time  I go on a date with him, he gets even cuter.",
+          "html": "<strong>Every time </strong><span> I go on a date with him, he gets even cuter. </span>",
+          "segments": [
+            {
+              "text": "Every time ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " I go on a date with him, he gets even cuter. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "As far as I know, たび, means \"every time\". i.e. every time I get together we have a good time.",
+      "html": "As far as I know, たび, means \"every time\". i.e. every time I get together we have a good time.",
+      "credits_raw": "bob",
+      "content_sha256": "34b6e4d8efa40d90ac15c84d1eccafc32a7c5e7004f0dfcf9cb73d88d6bdef0a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "This grammar can use past and non・past verbs in front of it. The translation is therefore slightly different: \"Whenever I go\" versus \"Whenever I went.\"\n\nV(plain form) + たび・たびに\nN + の + たび・たびに",
+      "html": "This grammar can use past and non・past verbs in front of it. The translation is therefore slightly different: \"Whenever I go\" versus \"Whenever I went.\"<br/><br/>V(plain form) + たび・たびに<br/>N + の + たび・たびに",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "4857484f382d8f462259f9394bc3ef8cbc8476f47976247cede831703844f65a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "perhaps 勉強たびに is incorrect, but how about 勉強のたびに and サインインのたび？",
+      "html": "perhaps 勉強たびに is incorrect, but how about 勉強のたびに and サインインのたび？",
+      "credits_raw": "sagittarius",
+      "content_sha256": "2f917f70cb5ede183e4ddb37531a99c35f5953dc724519cc3438298dca20f7d9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "勉強のたびに and サインインのたびに are correct.",
+      "html": "勉強のたびに and サインインのたびに are correct.",
+      "credits_raw": "Miki",
+      "content_sha256": "c23b85c50398a72da0d4e228e3939883e6fc75044c5bde2bd47611f149b326df",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "I read in the Dictionary of Intermediate Japanese grammar that the formation for (n,vs) type verbs like 勉強するshould be 勉強度に . In that case, サインインする度に in example #731 should be サインイン度に, shouldn't it? Please verify.",
+      "html": "I read in the Dictionary of Intermediate Japanese grammar that the formation for (n,vs) type verbs like 勉強するshould be 勉強度に . In that case, サインインする度に in example #731 should be サインイン度に, shouldn't it? Please verify.",
+      "credits_raw": "zep3xvii",
+      "content_sha256": "66211ffaf5384f5abf97726b6c01283ea77764823de0e7302f06919c67671bfb",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "Generally たびに, kanji is 度",
+      "html": "Generally たびに, kanji is 度",
+      "credits_raw": "Amatuka",
+      "content_sha256": "7a52855587a767adcff692cc16f1dad95dde7b0195fa4fe2bce1d3e4b5bfeb39",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "I don't think anybody disagrees that 行った度に is bad.",
+      "html": "I don't think anybody disagrees that 行った度に is bad.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "edcd3ee74be87e9eaba148fd392b27c5c2f3119a3c28dc1420c2f723e7149753",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "I don't think the first one is translated reasonably. It algo so implys \"each time\". \nこれはどうですか？ \nI get the feeling I say that whenever I go to Tokyo.",
+      "html": "I don't think the first one is translated reasonably. It algo so implys \"each time\". <br/>これはどうですか？ <br/>I get the feeling I say that whenever I go to Tokyo.",
+      "credits_raw": "Miki",
+      "content_sha256": "876f3d825abd25a75c00beedb3d52113f43bde567431e4a90b5c0a4c217e0300",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "Aha. So I'll clear that up change this to -1 from -3.",
+      "html": "Aha. So I'll clear that up change this to -1 from -3.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "80c245c5ac2a92ce593df39f78bf93f6f43db90fef7eef30cfbed3f89b4024d5",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "ありがとう、みきさん。",
+      "html": "ありがとう、みきさん。",
+      "credits_raw": "Amatuka",
+      "content_sha256": "aa3fb19b9904961ef16d39857bf2d54ac008a6ae728933a2e5f01a90fe9af0de",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "zep3xvii, I don't think 勉強度に is correct. 勉強する度に is correct. Therefore, サインインする度に is correct.",
+      "html": "zep3xvii, I don't think 勉強度に is correct. 勉強する度に is correct. Therefore, サインインする度に is correct.",
+      "credits_raw": "Miki",
+      "content_sha256": "b778c6ce8694c346b85ca72b89e55a035878aa81a340e971578c66cb95d18349",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "Since tense is not an important part of Japanese, you would use 行く度に(and you do not use 行った度に) and 行く度に has a strong implication that you did that in the past. How else can you say, 行く度に you did something? The sentence 日本に行く度に温泉に行きます therefore indicates that every time you visit Japan, you go to hot spring spas and you have done so in the past.",
+      "html": "Since tense is not an important part of Japanese, you would use 行く度に(and you do not use 行った度に) and 行く度に has a strong implication that you did that in the past. How else can you say, 行く度に you did something? The sentence 日本に行く度に温泉に行きます therefore indicates that every time you visit Japan, you go to hot spring spas and you have done so in the past.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "8a46ff43cd3e79fa8742229e48c9f0d739e30f0fc4def7b472f78169cd26db64",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "I added [nitsuke] as a see also. Anyone care to explain the difference?",
+      "html": "I added [nitsuke] as a see also. Anyone care to explain the difference?",
+      "credits_raw": "yookoso",
+      "content_sha256": "3621b73ac1fa89205011ac8c2284f9e0459718139810d8cf862deea1906ec130",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "The particle \"ni\" in tabi ni can't be dropped then i wonder why this grammer pattern is added as[tabi,tabi ni] .",
+      "html": "The particle \"ni\" in tabi ni can't be dropped then i wonder why this grammer pattern is added as[tabi,tabi ni] .",
+      "credits_raw": "ichigo_venky",
+      "content_sha256": "f51aee7947335fea4a9db34ca47f4858ffc59673d72a695809804730b66ad365",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 509,
+      "label": "〜時",
+      "source_url": "https://takoboto.jp/bunpo/509"
+    },
+    {
+      "target_id": 480,
+      "label": "〜につけ",
+      "source_url": "https://takoboto.jp/bunpo/480"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:38:19+00:00",
+  "response_sha256": "4c59e8cb8b8222fc24f17020106cfc87a50b27d3283a849d58ae85986f83d157",
+  "warnings": []
+}

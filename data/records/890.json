@@ -1,0 +1,488 @@
+{
+  "schema_version": 2,
+  "id": 890,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/890/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "をはじめ",
+  "romanized_label": "wohajime",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "not only, but also. starting with.",
+  "meaning_example": "not only french, but also german, spanish etc...",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_890",
+      "body_text": "not only, but also. starting with. \n not only french, but also german, spanish etc...",
+      "body_html": "<span>not only, but also. starting with.</span> <br/> <span>not only french, but also german, spanish etc...</span>",
+      "credits_raw": "dc"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 1055,
+      "position": 0,
+      "japanese": "歌手は最新のヒット曲をはじめ２５の新曲を歌った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%ad%8c%e6%89%8b%e3%81%af\"><span>歌手は</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%80%e6%96%b0%e3%81%ae%e3%83%92%e3%83%83%e3%83%88\"><span>最新のヒット</span></a><a href=\"https://takoboto.jp/?q=%e6%9b%b2\"><span>曲</span></a><a href=\"https://takoboto.jp/?q=%e3%82%92%e3%81%af%e3%81%98%e3%82%81\"><strong>をはじめ</strong></a><a href=\"https://takoboto.jp/?q=%ef%bc%92%ef%bc%95%e3%81%ae\"><span>２５の</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b0%e6%9b%b2%e3%82%92\"><span>新曲を</span></a><a href=\"https://takoboto.jp/?q=%e6%ad%8c%e3%81%a3%e3%81%9f%e3%80%82\"><span>歌った。</span></a>",
+      "segments": [
+        {
+          "text": "歌手は最新のヒット曲",
+          "grammar_highlight": false
+        },
+        {
+          "text": "をはじめ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "２５の新曲を歌った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かしゅはさいしんのヒットきょくをはじめ２５のしんきょくをうたった。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The singer started with a recent hit, and then sang 25 other new songs.",
+          "html": "<span>The singer </span><strong>started with </strong><span>a recent hit, and then sang 25 other new songs. </span>",
+          "segments": [
+            {
+              "text": "The singer ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "started with ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a recent hit, and then sang 25 other new songs. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1145,
+      "position": 1,
+      "japanese": "本日、退社することになりました社長を初め皆様には本当にお世話になりました",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%9c%ac%e6%97%a5%e3%80%81\"><span>本日、</span></a><a href=\"https://takoboto.jp/?q=%e9%80%80%e7%a4%be%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f\"><span>退社することになりました</span></a><a href=\"https://takoboto.jp/?q=%e7%a4%be%e9%95%b7\"><span>社長</span></a><a href=\"https://takoboto.jp/?q=%e3%82%92%e5%88%9d%e3%82%81\"><strong>を初め</strong></a><a href=\"https://takoboto.jp/?q=%e7%9a%86%e6%a7%98%e3%81%ab%e3%81%af\"><span>皆様には</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ab%e3%81%8a\"><span>本当にお</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%96%e8%a9%b1%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f\"><span>世話になりました</span></a>",
+      "segments": [
+        {
+          "text": "本日、退社することになりました社長",
+          "grammar_highlight": false
+        },
+        {
+          "text": "を初め",
+          "grammar_highlight": true
+        },
+        {
+          "text": "皆様には本当にお世話になりました",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ほんじつ、たいしゃすることになりましたしゃちょうをはじめみなさまにはほんとうにおせわになりました",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Today I am leaving the company, and I would like to thank not only the President, but everybody.",
+          "html": "<span>Today I am leaving the company, and I would like to thank </span><strong>not only </strong><span>the President, but everybody. </span>",
+          "segments": [
+            {
+              "text": "Today I am leaving the company, and I would like to thank ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "not only ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the President, but everybody. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3261,
+      "position": 2,
+      "japanese": "メルセデスベンツをはじめとして、輸入車を販売しています。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%a1%e3%83%ab%e3%82%bb%e3%83%87%e3%82%b9%e3%83%99%e3%83%b3%e3%83%84%e3%82%92\"><span>メルセデスベンツを</span></a><a href=\"https://takoboto.jp/?q=%e3%81%af%e3%81%98%e3%82%81%e3%81%a8%e3%81%97%e3%81%a6%e3%80%81\"><strong>はじめとして、</strong></a><a href=\"https://takoboto.jp/?q=%e8%bc%b8%e5%85%a5%e8%bb%8a%e3%82%92\"><span>輸入車を</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%a9%e5%a3%b2%e3%81%97%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>販売しています。</span></a>",
+      "segments": [
+        {
+          "text": "メルセデスベンツを",
+          "grammar_highlight": false
+        },
+        {
+          "text": "はじめとして、",
+          "grammar_highlight": true
+        },
+        {
+          "text": "輸入車を販売しています。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "をはじめとして、ゆにゅうしゃをはんばいしています。",
+      "credits_raw": "Miki, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Starting with Mercedes, we sell (implied: other types of) imported cars.",
+          "html": "<strong>Starting with </strong><span>Mercedes, we sell (implied: other types of) imported cars. </span>",
+          "segments": [
+            {
+              "text": "Starting with ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "Mercedes, we sell (implied: other types of) imported cars. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4466,
+      "position": 3,
+      "japanese": "携帯電話をはじめ、あらゆる組み込み機器のUIをFlashにより実現する。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%90%ba%e5%b8%af%e9%9b%bb%e8%a9%b1\"><span>携帯電話</span></a><a href=\"https://takoboto.jp/?q=%e3%82%92%e3%81%af%e3%81%98%e3%82%81\"><strong>をはじめ</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%82%e3%82%89%e3%82%86%e3%82%8b\"><span>、あらゆる</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%84%e3%81%bf\"><span>組み</span></a><a href=\"https://takoboto.jp/?q=%e8%be%bc%e3%81%bf\"><span>込み</span></a><a href=\"https://takoboto.jp/?q=%e6%a9%9f%e5%99%a8%e3%81%aeUI%e3%82%92Flash%e3%81%ab%e3%82%88%e3%82%8a\"><span>機器のUIをFlashにより</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%9f%e7%8f%be%e3%81%99%e3%82%8b%e3%80%82\"><span>実現する。</span></a>",
+      "segments": [
+        {
+          "text": "携帯電話",
+          "grammar_highlight": false
+        },
+        {
+          "text": "をはじめ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、あらゆる組み込み機器のUIをFlashにより実現する。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "けいたいでんわをはじめ、あらゆるくみこみききのをによりじつげんする。",
+      "credits_raw": "dc, Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "not only mobile phones, but all kinds of appliances, we intend to implement a flash interface on.",
+          "html": "<span>not only mobile phones, but all kinds of appliances, we intend to implement a flash interface on. </span>",
+          "segments": [
+            {
+              "text": "not only mobile phones, but all kinds of appliances, we intend to implement a flash interface on. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7169,
+      "position": 4,
+      "japanese": "山本さんが難しい試験に合格した。ご両親をはじめ、先生が喜んでいらっしゃる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%b1%b1%e6%9c%ac%e3%81%95%e3%82%93%e3%81%8c\"><span>山本さんが</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a3%e3%81%97%e3%81%84\"><span>難しい</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%81%ab\"><span>試験に</span></a><a href=\"https://takoboto.jp/?q=%e5%90%88%e6%a0%bc%e3%81%97%e3%81%9f%e3%80%82%e3%81%94\"><span>合格した。ご</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%a1%e8%a6%aa\"><span>両親</span></a><a href=\"https://takoboto.jp/?q=%e3%82%92%e3%81%af%e3%81%98%e3%82%81%e3%80%81\"><strong>をはじめ、</strong></a><a href=\"https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%8c\"><span>先生が</span></a><a href=\"https://takoboto.jp/?q=%e5%96%9c%e3%82%93%e3%81%a7%e3%81%84%e3%82%89%e3%81%a3%e3%81%97%e3%82%83%e3%82%8b%e3%80%82\"><span>喜んでいらっしゃる。</span></a>",
+      "segments": [
+        {
+          "text": "山本さんが難しい試験に合格した。ご両親",
+          "grammar_highlight": false
+        },
+        {
+          "text": "をはじめ、",
+          "grammar_highlight": true
+        },
+        {
+          "text": "先生が喜んでいらっしゃる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "やまもとさんがむずかしいしけんにごうかくした。ごりょうしんをはじめ、せんせいがよろこんでいらっしゃる。",
+      "credits_raw": "sureshnihon",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Yamahon passed the difficult exam, which pleased both his parents and teachers.",
+          "html": "<span>Yamahon passed the difficult exam, which pleased </span><strong>both </strong><span>his parents and teachers. </span>",
+          "segments": [
+            {
+              "text": "Yamahon passed the difficult exam, which pleased ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "both ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "his parents and teachers. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8525,
+      "position": 5,
+      "japanese": "その詩を初めから終わりまで暗記する。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%a9%e3%82%92\"><span>詩を</span></a><a href=\"https://takoboto.jp/?q=%e5%88%9d%e3%82%81%e3%81%8b%e3%82%89\"><span>初めから</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%82%8a%e3%81%be%e3%81%a7\"><span>終わりまで</span></a><a href=\"https://takoboto.jp/?q=%e6%9a%97%e8%a8%98%e3%81%99%e3%82%8b%e3%80%82\"><span>暗記する。</span></a>",
+      "segments": [
+        {
+          "text": "その詩を初めから終わりまで暗記する。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのしをはじめからおわりまであんきする。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Commit the whole poem to memory.",
+          "html": "<span>Commit the whole poem to memory. </span>",
+          "segments": [
+            {
+              "text": "Commit the whole poem to memory. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6814,
+      "position": 6,
+      "japanese": "今日の祝賀会には首相をはじめ多くの政界人が出席した",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%ae\"><span>今日の</span></a><a href=\"https://takoboto.jp/?q=%e7%a5%9d%e8%b3%80%e4%bc%9a%e3%81%ab%e3%81%af\"><span>祝賀会には</span></a><a href=\"https://takoboto.jp/?q=%e9%a6%96%e7%9b%b8\"><span>首相</span></a><a href=\"https://takoboto.jp/?q=%e3%82%92%e3%81%af%e3%81%98%e3%82%81\"><strong>をはじめ</strong></a><a href=\"https://takoboto.jp/?q=%e5%a4%9a%e3%81%8f%e3%81%ae\"><span>多くの</span></a><a href=\"https://takoboto.jp/?q=%e6%94%bf%e7%95%8c%e4%ba%ba%e3%81%8c\"><span>政界人が</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e5%b8%ad%e3%81%97%e3%81%9f\"><span>出席した</span></a>",
+      "segments": [
+        {
+          "text": "今日の祝賀会には首相",
+          "grammar_highlight": false
+        },
+        {
+          "text": "をはじめ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "多くの政界人が出席した",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きょうのしゅくがかいにはしゅしょうをはじめおおくのせいかいじんがしゅっせきした",
+      "credits_raw": "duck_duckone",
+      "translations": [
+        {
+          "language": "en",
+          "text": "at today's celebration, not only the Prime Minister but also lots of politicians are here",
+          "html": "<span>at today's celebration, not only the Prime Minister but also lots of politicians are here </span>",
+          "segments": [
+            {
+              "text": "at today's celebration, not only the Prime Minister but also lots of politicians are here ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "<b>を始め</b> is used to preface a list of items, and also to emphasize the first one.\n\nA をはじめ、B, C ...\n\nEnglish equivalents might be <b>not only, but also</b> \nNot only A, but also B and C\nEspecially A, but also B and C\n\nsimilar to [karashite] which is mostly used for negative things.\n\nかれの下品の言い方<b>からして</b>、すごく嫌な人です\nI really dislike him, <b>especially</b> because of his foul mouth.",
+      "html": "&lt;b&gt;を始め&lt;/b&gt; is used to preface a list of items, and also to emphasize the first one.<br/><br/>A をはじめ、B, C ...<br/><br/>English equivalents might be &lt;b&gt;not only, but also&lt;/b&gt; <br/>Not only A, but also B and C<br/>Especially A, but also B and C<br/><br/>similar to [karashite] which is mostly used for negative things.<br/><br/>かれの下品の言い方&lt;b&gt;からして&lt;/b&gt;、すごく嫌な人です<br/>I really dislike him, &lt;b&gt;especially&lt;/b&gt; because of his foul mouth.",
+      "credits_raw": "dc",
+      "content_sha256": "80d6b5f00c9a6752fdcaa8ab8a67de153450f9c9059ade1b23339f22570ff06b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "used when giving a list of things, the first example being X",
+      "html": "used when giving a list of things, the first example being X",
+      "credits_raw": "dc",
+      "content_sha256": "b690bc9cf4d697fde7d906af3587270e8c79171a455005b61646b3dfb31c4ff6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "This puts emphasis on the first item strongly\n\"First and foremost X, and also ... \"",
+      "html": "This puts emphasis on the first item strongly<br/>\"First and foremost X, and also ... \"",
+      "credits_raw": "dc",
+      "content_sha256": "d620b5a96771026c30252ce0d34cb64badeb2e1310d8f5cc5075f550025b7169",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "can this be used with a verb?\n　歌えるを始め、踊りました\n first singing, but also dancing",
+      "html": "can this be used with a verb?<br/>　歌えるを始め、踊りました<br/> first singing, but also dancing",
+      "credits_raw": "dc",
+      "content_sha256": "036df0bcbcef7e08313be7a2b0d37889e4d4779aecbc5cabdd51050bce754cc6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "It is weird to be used with a verb. I cannot think of any good eamples using a verb using 始め.\n歌うことから始め、踊りもした。",
+      "html": "It is weird to be used with a verb. I cannot think of any good eamples using a verb using 始め.<br/>歌うことから始め、踊りもした。",
+      "credits_raw": "Miki",
+      "content_sha256": "9971fb63976166971f554f1e8ed14fa8829893013f46066a6d3abc449744cb39",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "歌うことから始め\nso that is turning the verb into a noun.. \nafter singing , dancing...",
+      "html": "歌うことから始め<br/>so that is turning the verb into a noun.. <br/>after singing , dancing...",
+      "credits_raw": "dc",
+      "content_sha256": "5a78504b6b5a983708f93832d3cbf928358e442b2bc4eb10297dd20dfb1dc6ac",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "を始め does not necessairly mean \"to start with\" but the means of enumeration. 彼は英語を始め、フランス語とロシア語にも堪能だ only serves as the means of enumeration. \"He is conversant not only in English but also in French and Russian.\"",
+      "html": "を始め does not necessairly mean \"to start with\" but the means of enumeration. 彼は英語を始め、フランス語とロシア語にも堪能だ only serves as the means of enumeration. \"He is conversant not only in English but also in French and Russian.\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "6ae09079307330b2a080e4ea4f497378218e02dcd78e538d8774b83fb3210619",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "but it might also mean especially, as in this example:\n\n田中先生をはじめ、この学校の皆さんのお世話になりました。\n（たなかせんせいをはじめ、このがっこうのみなさんのおせわになりました。）\nI Have been helped by everyone in this school, but especially by Mr. Tanaka.",
+      "html": "but it might also mean especially, as in this example:<br/><br/>田中先生をはじめ、この学校の皆さんのお世話になりました。<br/>（たなかせんせいをはじめ、このがっこうのみなさんのおせわになりました。）<br/>I Have been helped by everyone in this school, but especially by Mr. Tanaka.",
+      "credits_raw": "dc",
+      "content_sha256": "6ceee8b6afa0279a81cf95486f95f0d5ee70aa8ee62caaf8f29530e0d76ff39b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "but it might also mean especially, as in this example:\n\n田中先生をはじめ、この学校の皆さんのお世話になりました。\n（たなかせんせいをはじめ、このがっこうのみなさんのおせわになりました。）\nI Have been helped by everyone in this school, but especially by Mr. Tanaka. \n\nfrom here",
+      "html": "but it might also mean especially, as in this example:<br/><br/>田中先生をはじめ、この学校の皆さんのお世話になりました。<br/>（たなかせんせいをはじめ、このがっこうのみなさんのおせわになりました。）<br/>I Have been helped by everyone in this school, but especially by Mr. Tanaka. <br/><br/>from here",
+      "credits_raw": "dc",
+      "content_sha256": "8eb1cd731075d3c11f52e72dd7df7dd006048f3357492d562999dbfc4fcefa29",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Yeah, but even then, はじめ still has the connotation of first enumeration, among the others, and does not suggest \"started with\" as used in the first example.",
+      "html": "Yeah, but even then, はじめ still has the connotation of first enumeration, among the others, and does not suggest \"started with\" as used in the first example.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "c99b2a7d666fc88e4f0ae1920c030c887874cf3bfe729dee0e6e51faad5d8cec",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "を is used to mark a noun or noun phrase.\n\nN = noun.",
+      "html": "を is used to mark a noun or noun phrase.<br/><br/>N = noun.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "3914a79fd4514186a0c9f217f373f0e5f1c64fecaa465493f9d5a198269a991e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "note this is wohajime and not wohajimeTE - i often confuse.",
+      "html": "note this is wohajime and not wohajimeTE - i often confuse.",
+      "credits_raw": "dc",
+      "content_sha256": "e2d6081c5969f85f47d7c60d3ec5d22afdb84a2c032ff8332c6235deff6b8cfa",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "could somebody explain the difference btw をはじめ & をはじめとする if any\n\ni know that the formation is N+をはじめ & N1+をはじめとする+N2",
+      "html": "could somebody explain the difference btw をはじめ &amp; をはじめとする if any<br/><br/>i know that the formation is N+をはじめ &amp; N1+をはじめとする+N2",
+      "credits_raw": "frenkly",
+      "content_sha256": "2f9b433fd3e95e30e4d6cb421aeec50915c2a2660cf503c796f462c9a76e158f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "In some cases it can also mean \"such as...\" or \"like...\"\n\n上野動物園にはパンダをはじめ、 子供達に人気がある動物がたくさんいます。\nThere are a lot of animals at Ueno Zoo that are popular with children, such as pandas.",
+      "html": "In some cases it can also mean \"such as...\" or \"like...\"<br/><br/>上野動物園にはパンダをはじめ、 子供達に人気がある動物がたくさんいます。<br/>There are a lot of animals at Ueno Zoo that are popular with children, such as pandas.",
+      "credits_raw": "Monte Cristo",
+      "content_sha256": "6cbbf0415aeb7280a325c3e86d984eb520e867410e32d3c82065f781af1568d7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "+1 monte cristo\n\nanother meaning can be \"such as\"\n\n新宿には都庁をはじめ、多くの高層ビルが立ち並んでいる。\nThere are a lot of tall buildings standing up in shinjuku such as the Tokyo Government Office.",
+      "html": "+1 monte cristo<br/><br/>another meaning can be \"such as\"<br/><br/>新宿には都庁をはじめ、多くの高層ビルが立ち並んでいる。<br/>There are a lot of tall buildings standing up in shinjuku such as the Tokyo Government Office.",
+      "credits_raw": "ぴえーる",
+      "content_sha256": "32c2be0f203e5c4f436e7f14ca5fc863776d57ea498c490c61d1b3cea9db1138",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 152,
+      "label": "はもとより",
+      "source_url": "https://takoboto.jp/bunpo/152"
+    },
+    {
+      "target_id": 502,
+      "label": "からして",
+      "source_url": "https://takoboto.jp/bunpo/502"
+    },
+    {
+      "target_id": 143,
+      "label": "に限って",
+      "source_url": "https://takoboto.jp/bunpo/143"
+    },
+    {
+      "target_id": 209,
+      "label": "のみならず",
+      "source_url": "https://takoboto.jp/bunpo/209"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:42:40+00:00",
+  "response_sha256": "744ddfa51fb5a08c7a7b3049c5db789aedae38ae2ceaf5933821da3dce554c99",
+  "warnings": []
+}

@@ -1,0 +1,207 @@
+{
+  "schema_version": 2,
+  "id": 1638,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1638/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "ないばかりか",
+  "romanized_label": "naibakarika",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "makara",
+  "meaning": "Not only not X, but also not Y. Both can be good things, or both bad.",
+  "meaning_example": "Not only is that route not difficult to navigate, (but) it is also not bumpy.",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "ないだけでなく",
+      "html": "ないだけでなく"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1638",
+      "body_text": "Not only not X, but also not Y. Both can be good things, or both bad. \n Not only is that route not difficult to navigate, (but) it is also not bumpy. \n ないだけでなく",
+      "body_html": "<span>Not only not X, but also not Y. Both can be good things, or both bad.</span> <br/> <span>Not only is that route not difficult to navigate, (but) it is also not bumpy.</span> <br/> <span>ないだけでなく</span>",
+      "credits_raw": "makara"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 6550,
+      "position": 0,
+      "japanese": "彼は会社へ来ても仕事をしないばかりか,女性社員としゃべってばかりいる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%b8\"><span>会社へ</span></a><a href=\"https://takoboto.jp/?q=%e6%9d%a5%e3%81%a6%e3%82%82\"><span>来ても</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%82%92%e3%81%97%e3%81%aa%e3%81%84%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%8b%2c\"><strong>仕事をしないばかりか,</strong></a><a href=\"https://takoboto.jp/?q=%e5%a5%b3%e6%80%a7%e7%a4%be%e5%93%a1%e3%81%a8%e3%81%97%e3%82%83%e3%81%b9%e3%81%a3%e3%81%a6%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%84%e3%82%8b%e3%80%82\"><span>女性社員としゃべってばかりいる。</span></a>",
+      "segments": [
+        {
+          "text": "彼は会社へ来ても",
+          "grammar_highlight": false
+        },
+        {
+          "text": "仕事をしないばかりか,",
+          "grammar_highlight": true
+        },
+        {
+          "text": "女性社員としゃべってばかりいる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはかいしゃへきてもしごとをしないばかりかじょせいしゃいんとしゃべってばかりいる。",
+      "credits_raw": "makara",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Although he has come to the company, not only does he not work, but about all he's doing is chatting with the female employees",
+          "html": "<span>Although he has come to the company, </span><strong>not only does he not work, </strong><span>but about all he's doing is chatting with the female employees </span>",
+          "segments": [
+            {
+              "text": "Although he has come to the company, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "not only does he not work, ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "but about all he's doing is chatting with the female employees ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6810,
+      "position": 1,
+      "japanese": "彼女は歌をよく歌えないばかりかピアノも弾けないなあ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>彼女は</span></a><a href=\"https://takoboto.jp/?q=%e6%ad%8c%e3%82%92%e3%82%88%e3%81%8f%e6%ad%8c%e3%81%88%e3%81%aa%e3%81%84%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%8b\"><strong>歌をよく歌えないばかりか</strong></a><a href=\"https://takoboto.jp/?q=%e3%83%94%e3%82%a2%e3%83%8e%e3%82%82\"><span>ピアノも</span></a><a href=\"https://takoboto.jp/?q=%e5%bc%be%e3%81%91%e3%81%aa%e3%81%84%e3%81%aa%e3%81%82%e3%80%82\"><span>弾けないなあ。</span></a>",
+      "segments": [
+        {
+          "text": "彼女は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "歌をよく歌えないばかりか",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ピアノも弾けないなあ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはうたをよくうたえないばかりかピアノもひけないなあ。",
+      "credits_raw": "anna.kendall",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Not only is she not able to sing songs well, but she can't play the piano, either.",
+          "html": "<span>Not only is she </span><strong>not able to sing songs well, </strong><span>but she can't play the piano, either. </span>",
+          "segments": [
+            {
+              "text": "Not only is she ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "not able to sing songs well, ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "but she can't play the piano, either. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8699,
+      "position": 2,
+      "japanese": "このペーパータオルはお値段が高くないばかりか何度も使うことができ、重宝します。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%9a%e3%83%bc%e3%83%91%e3%83%bc%e3%82%bf%e3%82%aa%e3%83%ab%e3%81%af%e3%81%8a%e5%80%a4%e6%ae%b5%e3%81%8c%e9%ab%98%e3%81%8f%e3%81%aa%e3%81%84%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%8b\"><strong>このペーパータオルはお値段が高くないばかりか</strong></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e5%ba%a6%e3%82%82\"><span>何度も</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%bf%e3%81%86%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%80%81\"><span>使うことができ、</span></a><a href=\"https://takoboto.jp/?q=%e9%87%8d%e5%ae%9d%e3%81%97%e3%81%be%e3%81%99%e3%80%82\"><span>重宝します。</span></a>",
+      "segments": [
+        {
+          "text": "このペーパータオルはお値段が高くないばかりか",
+          "grammar_highlight": true
+        },
+        {
+          "text": "何度も使うことができ、重宝します。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このペーパータオルはおねだんがたかくないばかりかなんどもつかうことができ、ちょうほうします。",
+      "credits_raw": "american57",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Not only is this paper towel not expensive, but I can use it a number of times, and it is handy.",
+          "html": "<strong>Not only is this paper towel not expensive, </strong><span>but I can use it a number of times, and it is handy. </span>",
+          "segments": [
+            {
+              "text": "Not only is this paper towel not expensive, ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "but I can use it a number of times, and it is handy. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Because this is \"...nai bakari ka\", the first clause must be translated in the negative, not the affirmative. \"Not only is it not attractive, it isn't even safe.\" \"Not only is it not expensive, (but) it doesn't take up much space, either!\" A close relative is \"dake de naku,\" which tends to have the first clause in the affirmative.",
+      "html": "Because this is \"...nai bakari ka\", the first clause must be translated in the negative, not the affirmative. \"Not only is it not attractive, it isn't even safe.\" \"Not only is it not expensive, (but) it doesn't take up much space, either!\" A close relative is \"dake de naku,\" which tends to have the first clause in the affirmative.",
+      "credits_raw": "american57",
+      "content_sha256": "cef4df8fa03a8d3554e2748def413ae8178c2623fc8fa9fbe640f527f382c667",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Is this entry active? \"Meaning\" doesn't look correct. neg + neg\nex#6550 Japanese make sense. \nex#6810 Japanese does not make sense. suggestion1: 彼女はうまく歌えないばかりかピアノもよく弾けません。",
+      "html": "Is this entry active? \"Meaning\" doesn't look correct. neg + neg<br/>ex#6550 Japanese make sense. <br/>ex#6810 Japanese does not make sense. suggestion1: 彼女はうまく歌えないばかりかピアノもよく弾けません。",
+      "credits_raw": "Miki",
+      "content_sha256": "75b23325aec5761f86e673807afa3f751cce260a7c6216566a48590208d13eda",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Completely agree with MikiSan.\nLet me give another suggestion.\n彼女は歌をよく歌うにもまして、ピアノもっとよく弾けます。\nMikiSan please review my suggestion.",
+      "html": "Completely agree with MikiSan.<br/>Let me give another suggestion.<br/>彼女は歌をよく歌うにもまして、ピアノもっとよく弾けます。<br/>MikiSan please review my suggestion.",
+      "credits_raw": "ppmohapatra",
+      "content_sha256": "d892a1a6f77d63342685047fb2b2196045f6c18c7c6db5c4e619e2dcad98de24",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 303,
+      "label": "ばかりか",
+      "source_url": "https://takoboto.jp/bunpo/303"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:40:02+00:00",
+  "response_sha256": "5f5ee2928e73dd18cbde7253370712b95d3263be9d85e264feb3b36b3f4efd62",
+  "warnings": []
+}

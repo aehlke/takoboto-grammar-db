@@ -1,0 +1,800 @@
+{
+  "schema_version": 2,
+  "id": 563,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/563/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "恐れがある",
+  "romanized_label": "osoregaaru",
+  "alternate_forms": [
+    "おそれがある"
+  ],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "worry about, there is a possibility, there is fear that",
+  "meaning_example": "i worry this illness might be contagious",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_563",
+      "body_text": "worry about, there is a possibility, there is fear that \n i worry this illness might be contagious",
+      "body_html": "<span>worry about, there is a possibility, there is fear that</span> <br/> <span>i worry this illness might be contagious</span>",
+      "credits_raw": "dc"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 1209,
+      "position": 0,
+      "japanese": "戦争になるおそれがある",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%88%a6%e4%ba%89%e3%81%ab\"><span>戦争に</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%82%8b\"><span>なる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b\"><strong>おそれがある</strong></a>",
+      "segments": [
+        {
+          "text": "戦争になる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "せんそうになるおそれがある",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "There is the likelihood of a war.",
+          "html": "<strong>There is the likelihood </strong><span>of a war. </span>",
+          "segments": [
+            {
+              "text": "There is the likelihood ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "of a war. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1277,
+      "position": 1,
+      "japanese": "この販売方法は独禁法に触れるおそれがある",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%a9%e5%a3%b2%e6%96%b9%e6%b3%95%e3%81%af\"><span>販売方法は</span></a><a href=\"https://takoboto.jp/?q=%e7%8b%ac%e7%a6%81%e6%b3%95%e3%81%ab\"><span>独禁法に</span></a><a href=\"https://takoboto.jp/?q=%e8%a7%a6%e3%82%8c%e3%82%8b\"><span>触れる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b\"><strong>おそれがある</strong></a>",
+      "segments": [
+        {
+          "text": "この販売方法は独禁法に触れる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "このはんばいほうほうはどっきんほうにふれるおそれがある",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This method of sale has the likelihood of violating the Antitrust Law.",
+          "html": "<span>This method of sale has </span><strong>the likelihood of </strong><span>violating the Antitrust Law. </span>",
+          "segments": [
+            {
+              "text": "This method of sale has ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "the likelihood of ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "violating the Antitrust Law. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3293,
+      "position": 2,
+      "japanese": "日本産のトキは絶滅のおそれがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e7%94%a3%e3%81%ae%e3%83%88%e3%82%ad%e3%81%af\"><span>日本産のトキは</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%b6%e6%bb%85%e3%81%ae\"><span>絶滅の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82\"><strong>おそれがある。</strong></a>",
+      "segments": [
+        {
+          "text": "日本産のトキは絶滅の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "にほんさんのトキはぜつめつのおそれがある。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Nipponia Nippon (bird) is in danger of extinction.",
+          "html": "<span>Nipponia Nippon (bird) </span><strong>is in danger of </strong><span>extinction. </span>",
+          "segments": [
+            {
+              "text": "Nipponia Nippon (bird) ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "is in danger of ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "extinction. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3294,
+      "position": 3,
+      "japanese": "この車は、予算より高いおそれがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e8%bb%8a%e3%81%af%e3%80%81\"><span>車は、</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%88%e7%ae%97%e3%82%88%e3%82%8a\"><span>予算より</span></a><a href=\"https://takoboto.jp/?q=%e9%ab%98%e3%81%84\"><span>高い</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82\"><strong>おそれがある。</strong></a>",
+      "segments": [
+        {
+          "text": "この車は、予算より高い",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "このくるまは、よさんよりたかいおそれがある。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I worry that this car may be more expensive than my budget.",
+          "html": "<span>I </span><strong>worry </strong><span>that this car may be more expensive than my budget. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "worry ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "that this car may be more expensive than my budget. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3295,
+      "position": 4,
+      "japanese": "気が付いたときには遅すぎるおそれがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%b0%97%e3%81%8c\"><span>気が</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%98%e3%81%84%e3%81%9f%e3%81%a8%e3%81%8d%e3%81%ab%e3%81%af\"><span>付いたときには</span></a><a href=\"https://takoboto.jp/?q=%e9%81%85%e3%81%99%e3%81%8e%e3%82%8b\"><span>遅すぎる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82\"><strong>おそれがある。</strong></a>",
+      "segments": [
+        {
+          "text": "気が付いたときには遅すぎる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "きがついたときにはおそすぎるおそれがある。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I'm afraid that it may be too late when you realize it.",
+          "html": "<strong>I'm afraid that </strong><span>it may be too late when you realize it. </span>",
+          "segments": [
+            {
+              "text": "I'm afraid that ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "it may be too late when you realize it. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4744,
+      "position": 5,
+      "japanese": "この小屋は倒壊のおそれがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e5%b0%8f%e5%b1%8b%e3%81%af\"><span>小屋は</span></a><a href=\"https://takoboto.jp/?q=%e5%80%92%e5%a3%8a%e3%81%ae\"><span>倒壊の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b\"><strong>おそれがある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "この小屋は倒壊の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このこやはとうかいのおそれがある。",
+      "credits_raw": "dc4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This hut is in danger of falling down.",
+          "html": "<span>This hut is in danger of falling down. </span>",
+          "segments": [
+            {
+              "text": "This hut is in danger of falling down. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4745,
+      "position": 6,
+      "japanese": "そういう事故は再発するおそれがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%86%e3%81%84%e3%81%86\"><span>そういう</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%8b%e6%95%85%e3%81%af\"><span>事故は</span></a><a href=\"https://takoboto.jp/?q=%e5%86%8d%e7%99%ba%e3%81%99%e3%82%8b\"><span>再発する</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b\"><strong>おそれがある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "そういう事故は再発する",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そういうじこはさいはつするおそれがある。",
+      "credits_raw": "dc4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Such an accident is likely to happen again.",
+          "html": "<span>Such an accident is likely to happen again. </span>",
+          "segments": [
+            {
+              "text": "Such an accident is likely to happen again. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5739,
+      "position": 7,
+      "japanese": "すごく重くなるおそれがあるけど、試してみたい",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%94%e3%81%8f\"><span>すごく</span></a><a href=\"https://takoboto.jp/?q=%e9%87%8d%e3%81%8f%e3%81%aa%e3%82%8b\"><span>重くなる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b\"><strong>おそれがある</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%91%e3%81%a9%e3%80%81\"><span>けど、</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84\"><span>試してみたい</span></a>",
+      "segments": [
+        {
+          "text": "すごく重くなる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "けど、試してみたい",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "すごくおもくなるおそれがあるけど、ためしてみたい",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I worry it will be really heavy, but id like to try it",
+          "html": "<span>I worry it will be really heavy, but id like to try it </span>",
+          "segments": [
+            {
+              "text": "I worry it will be really heavy, but id like to try it ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6832,
+      "position": 8,
+      "japanese": "そのプランでは、失敗するおそれがありますよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%83%97%e3%83%a9%e3%83%b3%e3%81%a7%e3%81%af%e3%80%81\"><span>そのプランでは、</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%b1%e6%95%97%e3%81%99%e3%82%8b\"><span>失敗する</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99\"><strong>おそれがあります</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%80%82\"><span>よ。</span></a>",
+      "segments": [
+        {
+          "text": "そのプランでは、失敗する",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがあります",
+          "grammar_highlight": true
+        },
+        {
+          "text": "よ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのプランでは、しっぱいするおそれがありますよ。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I fear that that plan may fail.",
+          "html": "<strong>I fear that </strong><span>that plan </span><span>may fail. </span>",
+          "segments": [
+            {
+              "text": "I fear that ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "that plan may fail. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7180,
+      "position": 9,
+      "japanese": "早く手術じゃないと手遅れになる恐れがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%97%a9%e3%81%8f\"><span>早く</span></a><a href=\"https://takoboto.jp/?q=%e6%89%8b%e8%a1%93%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%a8\"><span>手術じゃないと</span></a><a href=\"https://takoboto.jp/?q=%e6%89%8b%e9%81%85%e3%82%8c%e3%81%ab%e3%81%aa%e3%82%8b\"><span>手遅れになる</span></a><a href=\"https://takoboto.jp/?q=%e6%81%90%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b\"><strong>恐れがある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "早く手術じゃないと手遅れになる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "恐れがある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "はやくしゅじゅつじゃないとておくれになるおそれがある。",
+      "credits_raw": "sureshnihon",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I'm afraid that if we do not do surgery soon it will be too late.",
+          "html": "<span>I'm </span><strong>afraid that </strong><span>if we do not do surgery soon it will be too late. </span>",
+          "segments": [
+            {
+              "text": "I'm ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "afraid that ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "if we do not do surgery soon it will be too late. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7181,
+      "position": 10,
+      "japanese": "この病気は伝染の恐れがありません.",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e7%97%85%e6%b0%97%e3%81%af\"><span>病気は</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9d%e6%9f%93%e3%81%ae\"><span>伝染の</span></a><a href=\"https://takoboto.jp/?q=%e6%81%90%e3%82%8c%e3%81%8c\"><strong>恐れが</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93.\"><span>ありません.</span></a>",
+      "segments": [
+        {
+          "text": "この病気は伝染の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "恐れが",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ありません.",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このびょうきはでんせんのおそれがありません",
+      "credits_raw": "sureshnihon",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This sickness doesn't have the fear of infection.",
+          "html": "<span>This sickness </span><strong>doesn't have the fear </strong><span>of infection. </span>",
+          "segments": [
+            {
+              "text": "This sickness ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "doesn't have the fear ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "of infection. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8395,
+      "position": 11,
+      "japanese": "地震による津波が沿岸を襲う恐れがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%9c%b0%e9%9c%87%e3%81%ab%e3%82%88%e3%82%8b\"><span>地震による</span></a><a href=\"https://takoboto.jp/?q=%e6%b4%a5%e6%b3%a2%e3%81%8c\"><span>津波が</span></a><a href=\"https://takoboto.jp/?q=%e6%b2%bf%e5%b2%b8%e3%82%92\"><span>沿岸を</span></a><a href=\"https://takoboto.jp/?q=%e8%a5%b2%e3%81%86\"><span>襲う</span></a><a href=\"https://takoboto.jp/?q=%e6%81%90%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b\"><strong>恐れがある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "地震による津波が沿岸を襲う",
+          "grammar_highlight": false
+        },
+        {
+          "text": "恐れがある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "じしんによるつなみがえんがんをおそうおそれがある。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "There is a possibility that a tsunami cause by the earthquake will strike the coast.",
+          "html": "<span>There is a possibility that a tsunami cause by the earthquake will strike the coast. </span>",
+          "segments": [
+            {
+              "text": "There is a possibility that a tsunami cause by the earthquake will strike the coast. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8396,
+      "position": 12,
+      "japanese": "ここにいれば雨にぬれる恐れがありません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%ab%e3%81%84%e3%82%8c%e3%81%b0\"><span>ここにいれば</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%ab%e3%81%ac%e3%82%8c%e3%82%8b\"><span>雨にぬれる</span></a><a href=\"https://takoboto.jp/?q=%e6%81%90%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>恐れがありません。</span></a>",
+      "segments": [
+        {
+          "text": "ここにいれば雨にぬれる恐れがありません。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ここにいればあめにぬれるおそれがありません。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We are safe from the rain here.",
+          "html": "<span>We are safe from the rain here. </span>",
+          "segments": [
+            {
+              "text": "We are safe from the rain here. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6829,
+      "position": 13,
+      "japanese": "今、対策をたてないと大事故につながるおそれがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%80%81\"><span>今、</span></a><a href=\"https://takoboto.jp/?q=%e5%af%be%e7%ad%96%e3%82%92%e3%81%9f%e3%81%a6%e3%81%aa%e3%81%84%e3%81%a8\"><span>対策をたてないと</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e4%ba%8b%e6%95%85%e3%81%ab%e3%81%a4%e3%81%aa%e3%81%8c%e3%82%8b\"><span>大事故につながる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b\"><strong>おそれがある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "今、対策をたてないと大事故につながる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いま、たいさくをたてないとだいじこにつながるおそれがある。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I am afraid that this big accident is related with the fact that counter-measure have not been taken immediately.",
+          "html": "<strong>I am afraid that </strong><span>this big accident is related </span><span>with the fact that counter-measure have not been taken immediately. </span>",
+          "segments": [
+            {
+              "text": "I am afraid that ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "this big accident is related with the fact that counter-measure have not been taken immediately. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6830,
+      "position": 14,
+      "japanese": "知人の会社は経営が相当苦しそうで、このままではつぶれるおそれがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%9f%a5%e4%ba%ba%e3%81%ae\"><span>知人の</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%af\"><span>会社は</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%8c%e5%96%b6%e3%81%8c\"><span>経営が</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%b8%e5%bd%93%e8%8b%a6%e3%81%97%e3%81%9d%e3%81%86%e3%81%a7%e3%80%81%e3%81%93%e3%81%ae%e3%81%be%e3%81%be%e3%81%a7%e3%81%af\"><span>相当苦しそうで、このままでは</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a4%e3%81%b6%e3%82%8c%e3%82%8b\"><span>つぶれる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b\"><strong>おそれがある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "知人の会社は経営が相当苦しそうで、このままではつぶれる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ちじんのかいしゃはけいえいがそうとうくるしそうで、このままではつぶれるおそれがある。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I worry that the society of my friend, because the management seems extremely difficult, go to bankrupt if it stays as it is.",
+          "html": "<span>I </span><strong>worry </strong><span>that the society of my friend, because the management seems extremely difficult, </span><strong>go to bankrupt </strong><span>if it stays as it is. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "worry ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "that the society of my friend, because the management seems extremely difficult, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "go to bankrupt ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "if it stays as it is. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6831,
+      "position": 15,
+      "japanese": "雨が降っている夜には、できるだけ運転しない方がいい。事故を起こすおそれがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c\"><span>雨が</span></a><a href=\"https://takoboto.jp/?q=%e9%99%8d%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b\"><span>降っている</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%9c%e3%81%ab%e3%81%af%e3%80%81%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%a0%e3%81%91\"><span>夜には、できるだけ</span></a><a href=\"https://takoboto.jp/?q=%e9%81%8b%e8%bb%a2%e3%81%97%e3%81%aa%e3%81%84\"><span>運転しない</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84%e3%80%82\"><span>方がいい。</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%8b%e6%95%85%e3%82%92\"><span>事故を</span></a><a href=\"https://takoboto.jp/?q=%e8%b5%b7%e3%81%93%e3%81%99\"><span>起こす</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b\"><strong>おそれがある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "雨が降っている夜には、できるだけ運転しない方がいい。事故を起こす",
+          "grammar_highlight": false
+        },
+        {
+          "text": "おそれがある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あめがふっているよるには、できるだけうんてんしないほうがいい。じこをおこすおそれがある。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When it rains at night, if at all possible, I prefer not drive. I am afraid about causing an accident.",
+          "html": "<span>When it rains at night, if at all possible, I prefer not drive. </span><strong>I am afraid about </strong><span>causing an accident. </span>",
+          "segments": [
+            {
+              "text": "When it rains at night, if at all possible, I prefer not drive. ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "I am afraid about ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "causing an accident. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "V辞書形　＋　恐れがある\nNOUN ＋ の ＋ 恐れがある",
+      "html": "V辞書形　＋　恐れがある<br/>NOUN ＋ の ＋ 恐れがある",
+      "credits_raw": "ztsubasa",
+      "content_sha256": "fd0af47e008328e6ab84c6fc0dd8efa4bb1358d3d4f70dd63d5eaadc40323255",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "戦争に なる おそれがある literally means \"There is the likelihood of a war breaking out\" and does not mean \"I worry there might be a war.\"\nI also added an example.",
+      "html": "戦争に なる おそれがある literally means \"There is the likelihood of a war breaking out\" and does not mean \"I worry there might be a war.\"<br/>I also added an example.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "117d77d5afb7ad6d5aa10099b70aa3b576dfff8cebf0f9025b177c980a45acfc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Q: can this be used with adjectives, or just verb-plain?\n\nこの車は高いおそれがある\nI worry that this car is expensive.\n〜高すぎるおそれがある\n~ too expensive",
+      "html": "Q: can this be used with adjectives, or just verb-plain?<br/><br/>この車は高いおそれがある<br/>I worry that this car is expensive.<br/>〜高すぎるおそれがある<br/>~ too expensive",
+      "credits_raw": "dc",
+      "content_sha256": "ea9fa5154ed0f25868ea0aea562d15715ac39da0ca5488cf15d877e2a18dce1c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Is this always used for things that have a negative outcome?",
+      "html": "Is this always used for things that have a negative outcome?",
+      "credits_raw": "dc",
+      "content_sha256": "3754b46faa7897cbae72c57018a129c69d3f5fa0918563368c7a2193dc7429ab",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Yes, おそれ is related to \"fear\" so that the expression generally relate to those that have a negative consequence.",
+      "html": "Yes, おそれ is related to \"fear\" so that the expression generally relate to those that have a negative consequence.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "22b8c25bea79f34e784273530de725bc956ed04b6e4716db9d8abf551088d58f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "この車は高いおそれがある is awkward and not normally used. \n〜高すぎるおそれがある is okay but still somewhat awkward. \n恐らくこの車は高すぎる may be acceptable..",
+      "html": "この車は高いおそれがある is awkward and not normally used. <br/>〜高すぎるおそれがある is okay but still somewhat awkward. <br/>恐らくこの車は高すぎる may be acceptable..",
+      "credits_raw": "bamboo4",
+      "content_sha256": "ef2ee3685a93f07c920baba2efaa6b60866141fe61e2da91d9e9ce5e08d2953b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "I ran these examples past a native speaker (a teacher of English). From what he said, if it refers to something physically happening (a war starting, a house collapsing, etc) then おそれがある is natural. If it refers to a situation (as in 3294) then だろう is natural sounding.",
+      "html": "I ran these examples past a native speaker (a teacher of English). From what he said, if it refers to something physically happening (a war starting, a house collapsing, etc) then おそれがある is natural. If it refers to a situation (as in 3294) then だろう is natural sounding.",
+      "credits_raw": "MM",
+      "content_sha256": "1c78e69096342d604d9aa4328dd806e73233d5b25a0af3dbebcf75479e991953",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "I should add that he said that all the examples were gramatically acceptable - only that some didn't sound entirely natural.",
+      "html": "I should add that he said that all the examples were gramatically acceptable - only that some didn't sound entirely natural.",
+      "credits_raw": "MM",
+      "content_sha256": "39ec42f898e8ac52becd30d38f42ea7330857002c7ea5124f5b06c42da44a307",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "恐れ おそれ (n) fear/ horror/ (P) (WWWJDIC)\nQ: is the kanji ever used in this contruction?",
+      "html": "恐れ おそれ (n) fear/ horror/ (P) (WWWJDIC)<br/>Q: is the kanji ever used in this contruction?",
+      "credits_raw": "leslie",
+      "content_sha256": "1858b23e783f96d4f6b4503f5f00dc0365a82d5f4573a691a282602168145b7d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "懼れ or 虞",
+      "html": "懼れ or 虞",
+      "credits_raw": "bamboo4",
+      "content_sha256": "afac54d1367965bf22ec0f02aacebddc7303bf4bfd97fd154472a2184868baca",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "#7181 - Is this sentence correct? It sounds more like is should say: There is no fear of this illness being contagious.",
+      "html": "#7181 - Is this sentence correct? It sounds more like is should say: There is no fear of this illness being contagious.",
+      "credits_raw": "melty",
+      "content_sha256": "268d814aac638f0b2bbbc8f7376d18efff969bf3fcde65320a4234ce1a013787",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1543,
+      "label": "きらいがある",
+      "source_url": "https://takoboto.jp/bunpo/1543"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:41:17+00:00",
+  "response_sha256": "8e28a0d64d96311c0dc7c70404dd9724f504cb30b3ade4cc2b8186c5be179f12",
+  "warnings": []
+}

@@ -1,0 +1,459 @@
+{
+  "schema_version": 2,
+  "id": 509,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/509/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜時",
+  "romanized_label": "toki",
+  "alternate_forms": [
+    "〜とき"
+  ],
+  "jlpt_level": 4,
+  "credits_raw": "dc",
+  "meaning": "when",
+  "meaning_example": "when i was in japan",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_509",
+      "body_text": "when \n when i was in japan",
+      "body_html": "<span>when</span> <br/> <span>when i was in japan</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_509",
+      "body_text": "Verb (casual)+時+(に)+(は)い-adjective+時+(に)+(は)な-adjective+な+時+(に)+(は)Noun+の+時+(に)+(は)",
+      "body_html": "<div><div><div>Verb (casual)</div></div><div><div>+</div><div>時</div></div><div><div>+</div><div>(に)</div></div><div><div>+</div><div>(は)</div></div></div><div><div><div>い-adjective</div></div><div><div>+</div><div>時</div></div><div><div>+</div><div>(に)</div></div><div><div>+</div><div>(は)</div></div></div><div><div><div>な-adjective</div></div><div><div>+</div><div>な</div></div><div><div>+</div><div>時</div></div><div><div>+</div><div>(に)</div></div><div><div>+</div><div>(は)</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>時</div></div><div><div>+</div><div>(に)</div></div><div><div>+</div><div>(は)</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb (casual) + 時 + (に) + (は)",
+    "い-adjective + 時 + (に) + (は)",
+    "な-adjective + な + 時 + (に) + (は)",
+    "Noun + の + 時 + (に) + (は)"
+  ],
+  "examples": [
+    {
+      "source_id": 531,
+      "position": 0,
+      "japanese": "私は日本に行った時日本語を勉強した",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e6%97%a5%e6%9c%ac%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%9f\"><span>私は日本に行った</span></a><a href=\"https://takoboto.jp/?q=%e6%99%82\"><strong>時</strong></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%82%92%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%9f\"><span>日本語を勉強した</span></a>",
+      "segments": [
+        {
+          "text": "私は日本に行った",
+          "grammar_highlight": false
+        },
+        {
+          "text": "時",
+          "grammar_highlight": true
+        },
+        {
+          "text": "日本語を勉強した",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはにほんにいったときにほんごをべんきょうした",
+      "credits_raw": "dc, spurrymoses",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When  I was in Japan, I studied Japanese.",
+          "html": "<strong>When </strong><span> I was in Japan, I studied Japanese. </span>",
+          "segments": [
+            {
+              "text": "When ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " I was in Japan, I studied Japanese. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3141,
+      "position": 1,
+      "japanese": "いつでも都合のいい時にお金を返してください。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%a4%e3%81%a7%e3%82%82\"><span>いつでも</span></a><a href=\"https://takoboto.jp/?q=%e9%83%bd%e5%90%88%e3%81%ae\"><span>都合の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%84\"><span>いい</span></a><a href=\"https://takoboto.jp/?q=%e6%99%82%e3%81%ab\"><strong>時に</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e3%82%92\"><span>金を</span></a><a href=\"https://takoboto.jp/?q=%e8%bf%94%e3%81%97%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82\"><span>返してください。</span></a>",
+      "segments": [
+        {
+          "text": "いつでも都合のいい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "お金を返してください。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いつでもつごうのいいときにおかねをかえしてください。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Pay me back when it's convenient.",
+          "html": "<span>Pay me back </span><strong>when </strong><span>it's convenient. </span>",
+          "segments": [
+            {
+              "text": "Pay me back ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "when ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "it's convenient. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3142,
+      "position": 2,
+      "japanese": "何というときに出てきたんだ！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%a8%e3%81%84%e3%81%86\"><span>何という</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%8d%e3%81%ab\"><strong>ときに</strong></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%93%e3%81%a0\"><span>出てきたんだ</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%81\"><span>！</span></a>",
+      "segments": [
+        {
+          "text": "何という",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ときに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "出てきたんだ！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なにというときにでてきたんだ！",
+      "credits_raw": "bamboo4, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "How on earth could you make your appearance at a crucial time like this!",
+          "html": "<span>How on earth could you make your appearance </span><strong>at a crucial time </strong><span>like this! </span>",
+          "segments": [
+            {
+              "text": "How on earth could you make your appearance ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "at a crucial time ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "like this! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8854,
+      "position": 3,
+      "japanese": "危険なとき",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8d%b1%e9%99%ba\"><span>危険</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%a8%e3%81%8d\"><strong>なとき</strong></a>",
+      "segments": [
+        {
+          "text": "危険",
+          "grammar_highlight": false
+        },
+        {
+          "text": "なとき",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "きけんなとき",
+      "credits_raw": "beno",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When in danger",
+          "html": "<span>When in danger </span>",
+          "segments": [
+            {
+              "text": "When in danger ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8855,
+      "position": 4,
+      "japanese": "会議の時",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bc%9a%e8%ad%b0\"><span>会議</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e6%99%82\"><strong>の時</strong></a>",
+      "segments": [
+        {
+          "text": "会議",
+          "grammar_highlight": false
+        },
+        {
+          "text": "の時",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "かいぎのとき",
+      "credits_raw": "Rasya XI 9",
+      "translations": [
+        {
+          "language": "en",
+          "text": "During the meeting",
+          "html": "<span>During the meeting </span>",
+          "segments": [
+            {
+              "text": "During the meeting ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8865,
+      "position": 5,
+      "japanese": "子どもの時",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%ad%90%e3%81%a9%e3%82%82%e3%81%ae\"><span>子どもの</span></a><a href=\"https://takoboto.jp/?q=%e6%99%82\"><strong>時</strong></a>",
+      "segments": [
+        {
+          "text": "子どもの",
+          "grammar_highlight": false
+        },
+        {
+          "text": "時",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "こどものとき",
+      "credits_raw": "beno",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When I was a child...",
+          "html": "<span>When I was a child... </span>",
+          "segments": [
+            {
+              "text": "When I was a child... ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8866,
+      "position": 6,
+      "japanese": "何か覚えるときちゃんと勉強しなければなりません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%8b%e8%a6%9a%e3%81%88%e3%82%8b\"><span>何か覚える</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%8d\"><strong>とき</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a1%e3%82%83%e3%82%93%e3%81%a8%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>ちゃんと勉強しなければなりません。</span></a>",
+      "segments": [
+        {
+          "text": "何か覚える",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とき",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ちゃんと勉強しなければなりません。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なにかおぼえるときちゃんとべんきょうしなければなりません。",
+      "credits_raw": "ヒム",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When  you want to remember something, you have to study properly.",
+          "html": "<strong>When </strong><span> you want to remember something, you have to study properly. </span>",
+          "segments": [
+            {
+              "text": "When ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " you want to remember something, you have to study properly. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "This kanji can also be read as [ji] in compounds.",
+      "html": "This kanji can also be read as [ji] in compounds.",
+      "credits_raw": "andyc",
+      "content_sha256": "167f4602710bedd1376b252f328b73274a064dca0116abb4535bda724cc32132",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "ex#531 I feel the Japanese is not natural. It would be 私は日本にいた時日本語を勉強した。or the second user comment 私は日本に行った時に日本語を勉強した。",
+      "html": "ex#531 I feel the Japanese is not natural. It would be 私は日本にいた時日本語を勉強した。or the second user comment 私は日本に行った時に日本語を勉強した。",
+      "credits_raw": "Miki",
+      "content_sha256": "6ed763decfb7c249ab7bc3e8a59a89729f19ab46c607252fc1c90e957f908e0a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "I see noting wrong with 行った時.Adding に would provide emphasis, such as \"I studied Japanese when I went to Japan\" (with an implication that happened at no othe time.)",
+      "html": "I see noting wrong with 行った時.Adding に would provide emphasis, such as \"I studied Japanese when I went to Japan\" (with an implication that happened at no othe time.)",
+      "credits_raw": "bamboo4",
+      "content_sha256": "9955b41e028bf6a5caa75b30625389da2d1e3c674a65f00bf93a7d4874094519",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "I believe that example one is incorrect. I believe it should be:\n私は、日本に行った時に(は)、日本語を勉強した。\nYou can add or leave out the は depending on how you wish to say it.",
+      "html": "I believe that example one is incorrect. I believe it should be:<br/>私は、日本に行った時に(は)、日本語を勉強した。<br/>You can add or leave out the は depending on how you wish to say it.",
+      "credits_raw": "your name",
+      "content_sha256": "2e8c9fdbb78eaa6ece6039cba42412510242e35582d0665b1841627937adb970",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Is this usually toki+ni?",
+      "html": "Is this usually toki+ni?",
+      "credits_raw": "dc",
+      "content_sha256": "dda49ccc41196540f2337784f8acea8c67680eea99af75f98f1e18426ed50da5",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "You can dispense with either に or は or には, which I think is nore conventional.",
+      "html": "You can dispense with either に or は or には, which I think is nore conventional.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "ede1ac3ef395094cc0cd775b49a3e90dabc1072cbee787ec2efbb3dc1bc3bd90",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "tabi i think is often used for repeating things. more like \"each time i go to japan\" than \"when i went to japan\".",
+      "html": "tabi i think is often used for repeating things. more like \"each time i go to japan\" than \"when i went to japan\".",
+      "credits_raw": "dc",
+      "content_sha256": "82b6c93af7393753d745467d0aa27d82b9b54f4807bf16fbafc85fd9f40f9029",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "is there some rules to observed as to use ta-form or impolite form for the preceding clause before the toki under certain conditions? Arigatoo.",
+      "html": "is there some rules to observed as to use ta-form or impolite form for the preceding clause before the toki under certain conditions? Arigatoo.",
+      "credits_raw": "natsumi",
+      "content_sha256": "58aa3d46d39a4f0e03799a9bb7f93ffe830ce4b7edd32cb2c2e4bdbe39703fea",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "#531\n私は、日本にいた時、日本語を勉強した。Good job, Miki.",
+      "html": "#531<br/>私は、日本にいた時、日本語を勉強した。Good job, Miki.",
+      "credits_raw": "Nick",
+      "content_sha256": "69370b8b4f890f3a05a8a19d586a3106db1870b5e3aee94f322b4e012904b752",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "it helps me to think of に as crosshairs. It zeros in on a specific time. \"At\" covers this function nicely in English. It's not correct to use it if there is no specific time. 一時に \"at 1 o'clock\" and 明日 \"tommorow\" as we don't say \"at tommorow\". This metaphor can be used for indirect object に as well.",
+      "html": "it helps me to think of に as crosshairs. It zeros in on a specific time. \"At\" covers this function nicely in English. It's not correct to use it if there is no specific time. 一時に \"at 1 o'clock\" and 明日 \"tommorow\" as we don't say \"at tommorow\". This metaphor can be used for indirect object に as well.",
+      "credits_raw": "sw",
+      "content_sha256": "9df30298c5f016f24467ceca3574b6e34b495bf55aa018152799466003e78e1e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "But we say 明日(あした）には, meaning by tommorow.\"",
+      "html": "But we say 明日(あした）には, meaning by tommorow.\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "3cd39b0b1c3956be4a8ea8f2224dcbdbc64a93fed91d4ab998d37cbd610d4161",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "To me it sounds like without に, the sentence might be more like \"When in Japan, I studied Japanese.\" and adding に would be somewhat like \"When I was in Japan, I studied Japanese.\" The first one would put more emphasis on studying Japanese (but happen to state where) and the second would be saying what one did in Japan (which was studying).\n\nI think I pretty much just reworded what everyone else was saying, in a way, right?",
+      "html": "To me it sounds like without に, the sentence might be more like \"When in Japan, I studied Japanese.\" and adding に would be somewhat like \"When I was in Japan, I studied Japanese.\" The first one would put more emphasis on studying Japanese (but happen to state where) and the second would be saying what one did in Japan (which was studying).<br/><br/>I think I pretty much just reworded what everyone else was saying, in a way, right?",
+      "credits_raw": "Saralynne",
+      "content_sha256": "734a514d1e86e39ca536ca41186fe9f0cc899ed391399267b7b9b2e82029e195",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 506,
+      "label": "に当たって; に当たり",
+      "source_url": "https://takoboto.jp/bunpo/506"
+    },
+    {
+      "target_id": 644,
+      "label": "たび、たびに",
+      "source_url": "https://takoboto.jp/bunpo/644"
+    },
+    {
+      "target_id": 256,
+      "label": "〜際",
+      "source_url": "https://takoboto.jp/bunpo/256"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T00:49:03+00:00",
+  "response_sha256": "e37c556afefb11526f2aa8e25ccc568e7925f777deab422519f3bb24e511994e",
+  "warnings": []
+}

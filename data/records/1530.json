@@ -1,0 +1,704 @@
+{
+  "schema_version": 2,
+  "id": 1530,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1530/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "っぽい",
+  "romanized_label": "ppoi",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "bi-ru",
+  "meaning": "-like",
+  "meaning_example": "It is a child-like expression.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1530",
+      "body_text": "-like \n It is a child-like expression.",
+      "body_html": "<span>-like</span> <br/> <span>It is a child-like expression.</span>",
+      "credits_raw": "bi-ru"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1530",
+      "body_text": "Verb stem+っぽいNoun+っぽい",
+      "body_html": "<div><div><div>Verb stem</div></div><div><div>+</div><div>っぽい</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>っぽい</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb stem + っぽい",
+    "Noun + っぽい"
+  ],
+  "examples": [
+    {
+      "source_id": 6219,
+      "position": 0,
+      "japanese": "ジョンは怒りっぽい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%81%af\"><span>ジョンは</span></a><a href=\"https://takoboto.jp/?q=%e6%80%92%e3%82%8a\"><span>怒り</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "ジョンは怒り",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ジョンはいかりっぽい。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "John gets angry easily.",
+          "html": "<span>John gets angry easily. </span>",
+          "segments": [
+            {
+              "text": "John gets angry easily. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5537,
+      "position": 1,
+      "japanese": "子どもっぽい表現だという印象があります",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%ad%90%e3%81%a9%e3%82%82\"><span>子ども</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e8%a1%a8%e7%8f%be%e3%81%a0%e3%81%a8%e3%81%84%e3%81%86\"><span>表現だという</span></a><a href=\"https://takoboto.jp/?q=%e5%8d%b0%e8%b1%a1%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99\"><span>印象があります</span></a>",
+      "segments": [
+        {
+          "text": "子ども",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "表現だという印象があります",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こどもっぽいひょうげんだといういんしょうがあります",
+      "credits_raw": "bi-ru",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The expression has a childish ring to it",
+          "html": "<span>The expression has </span><strong>a childish </strong><span>ring to it </span>",
+          "segments": [
+            {
+              "text": "The expression has ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "a childish ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "ring to it ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5729,
+      "position": 2,
+      "japanese": "かわいいっぽい上原さん。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84\"><span>かわいい</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e4%b8%8a%e5%8e%9f%e3%81%95%e3%82%93%e3%80%82\"><span>上原さん。</span></a>",
+      "segments": [
+        {
+          "text": "かわいい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "上原さん。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かわいいっぽいうえはらさん。",
+      "credits_raw": "cdo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Ms. Uehara, how cute-ish you look.",
+          "html": "<span>Ms. Uehara, how cute-ish you look. </span>",
+          "segments": [
+            {
+              "text": "Ms. Uehara, how cute-ish you look. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5730,
+      "position": 3,
+      "japanese": "なにっぽいって！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%ab\"><span>なに</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%a6\"><span>って</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%81\"><span>！</span></a>",
+      "segments": [
+        {
+          "text": "なに",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "って！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なにっぽいって！",
+      "credits_raw": "cdo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What do you mean, -ish!",
+          "html": "<span>What do you mean, -ish! </span>",
+          "segments": [
+            {
+              "text": "What do you mean, -ish! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5737,
+      "position": 4,
+      "japanese": "ローラちゃんは色っぽいよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%ad%e3%83%bc%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93%e3%81%af\"><span>ローラちゃんは</span></a><a href=\"https://takoboto.jp/?q=%e8%89%b2\"><span>色</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%80%82\"><span>よ。</span></a>",
+      "segments": [
+        {
+          "text": "ローラちゃんは色",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "よ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ローラちゃんはいろっぽいよ。",
+      "credits_raw": "Tantei",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Laura is sexy!",
+          "html": "<span>Laura is </span><strong>sexy! </strong>",
+          "segments": [
+            {
+              "text": "Laura is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "sexy! ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5821,
+      "position": 5,
+      "japanese": "あの黒っぽい服を着た人はだれですか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae\"><span>あの</span></a><a href=\"https://takoboto.jp/?q=%e9%bb%92\"><span>黒</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e6%9c%8d%e3%82%92\"><span>服を</span></a><a href=\"https://takoboto.jp/?q=%e7%9d%80%e3%81%9f\"><span>着た</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%af%e3%81%a0%e3%82%8c%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82\"><span>人はだれですか。</span></a>",
+      "segments": [
+        {
+          "text": "あの黒",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "服を着た人はだれですか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あのくろっぽいふくをきたひとはだれですか。",
+      "credits_raw": "Meghana",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Who is that person in blackish clothes?",
+          "html": "<span>Who is that person in blackish clothes? </span>",
+          "segments": [
+            {
+              "text": "Who is that person in blackish clothes? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6220,
+      "position": 6,
+      "japanese": "彼女は、飽きっぽい性格で、今までに職場を何回か変えている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%80%81\"><span>彼女は、</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%bd%e3%81%8d\"><span>飽き</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e6%80%a7%e6%a0%bc%e3%81%a7%e3%80%81\"><span>性格で、</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%81%be%e3%81%a7%e3%81%ab\"><span>今までに</span></a><a href=\"https://takoboto.jp/?q=%e8%81%b7%e5%a0%b4%e3%82%92\"><span>職場を</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e5%9b%9e%e3%81%8b\"><span>何回か</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%89%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>変えている。</span></a>",
+      "segments": [
+        {
+          "text": "彼女は、飽き",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "性格で、今までに職場を何回か変えている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょは、あきっぽいせいかくで、いままでにしょくばをなんかいかかえている。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "With an easily bored personality, she has changed jobs countless times up to now.",
+          "html": "<span>With an easily bored personality, she has changed jobs countless times up to now. </span>",
+          "segments": [
+            {
+              "text": "With an easily bored personality, she has changed jobs countless times up to now. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6221,
+      "position": 7,
+      "japanese": "怒りっぽい人は、友達が少ない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%80%92%e3%82%8a\"><span>怒り</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%af%e3%80%81\"><span>人は、</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%81%8c\"><span>友達が</span></a><a href=\"https://takoboto.jp/?q=%e5%b0%91%e3%81%aa%e3%81%84%e3%80%82\"><span>少ない。</span></a>",
+      "segments": [
+        {
+          "text": "怒り",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "人は、友達が少ない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いかりっぽいひとは、ともだちがすくない。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "An easily angered person has few friends.",
+          "html": "<span>An easily angered person has few friends. </span>",
+          "segments": [
+            {
+              "text": "An easily angered person has few friends. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6558,
+      "position": 8,
+      "japanese": "あの子供は、大人っぽい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae\"><span>あの</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%af%e3%80%81\"><span>子供は、</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e4%ba%ba\"><span>大人</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "あの子供は、大人",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あのこどもは、おとなっぽい。",
+      "credits_raw": "hana",
+      "translations": [
+        {
+          "language": "en",
+          "text": "That child acts very adult-like.",
+          "html": "<span>That child acts very adult-like. </span>",
+          "segments": [
+            {
+              "text": "That child acts very adult-like. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6559,
+      "position": 9,
+      "japanese": "年を取ると、忘れっぽくなる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%b9%b4%e3%82%92%e5%8f%96%e3%82%8b%e3%81%a8%e3%80%81%e5%bf%98%e3%82%8c\"><span>年を取ると、忘れ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%8f\"><strong>っぽく</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%82%8b%e3%80%82\"><span>なる。</span></a>",
+      "segments": [
+        {
+          "text": "年を取ると、忘れ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽく",
+          "grammar_highlight": true
+        },
+        {
+          "text": "なる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "としをとると、わすれっぽくなる。",
+      "credits_raw": "hana",
+      "translations": [
+        {
+          "language": "en",
+          "text": "As you get older, you start to become forgetful.",
+          "html": "<span>As you get older, you start to become forgetful. </span>",
+          "segments": [
+            {
+              "text": "As you get older, you start to become forgetful. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8397,
+      "position": 10,
+      "japanese": "熱っぽい状態で",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%86%b1\"><span>熱</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e7%8a%b6%e6%85%8b%e3%81%a7\"><span>状態で</span></a>",
+      "segments": [
+        {
+          "text": "熱",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "状態で",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ねつっぽいじょうたいで",
+      "credits_raw": "karekano, Ren",
+      "translations": [
+        {
+          "language": "en",
+          "text": "In a feverish state/condition",
+          "html": "<span>In a feverish state/condition </span>",
+          "segments": [
+            {
+              "text": "In a feverish state/condition ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8398,
+      "position": 11,
+      "japanese": "君の欠点は忘れっぽいことだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%ae\"><span>君の</span></a><a href=\"https://takoboto.jp/?q=%e6%ac%a0%e7%82%b9%e3%81%af\"><span>欠点は</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%98%e3%82%8c\"><span>忘れ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0%e3%80%82\"><span>ことだ。</span></a>",
+      "segments": [
+        {
+          "text": "君の欠点は忘れ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ことだ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きみのけってんはわすれっぽいことだ。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The trouble with you is that you are forgetful",
+          "html": "<span>The trouble with you is that you are forgetful </span>",
+          "segments": [
+            {
+              "text": "The trouble with you is that you are forgetful ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8399,
+      "position": 12,
+      "japanese": "いたずらっぽい微笑",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%9f%e3%81%9a%e3%82%89\"><span>いたずら</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e5%be%ae%e7%ac%91\"><span>微笑</span></a>",
+      "segments": [
+        {
+          "text": "いたずら",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "微笑",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いたずらっぽいびしょう",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "A wicked smile",
+          "html": "<span>A wicked smile </span>",
+          "segments": [
+            {
+              "text": "A wicked smile ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8400,
+      "position": 13,
+      "japanese": "あの話は嘘っぽい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae%e8%a9%b1%e3%81%af%e5%98%98\"><span>あの話は嘘</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a3%e3%81%bd%e3%81%84\"><strong>っぽい</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "あの話は嘘",
+          "grammar_highlight": false
+        },
+        {
+          "text": "っぽい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あのはなしはうそっぽい。",
+      "credits_raw": "karekano, Ren",
+      "translations": [
+        {
+          "language": "en",
+          "text": "That story sounds like a lie.",
+          "html": "<span>That story sounds like a lie. </span>",
+          "segments": [
+            {
+              "text": "That story sounds like a lie. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "The following is a subject of debate among native speakers: っぽい (っぽ) can only be used for comparisons to what the speaker considers commonly accepted knowledge. Young people hold no such restrictions, but the older generation does (>_",
+      "html": "The following is a subject of debate among native speakers: っぽい (っぽ) can only be used for comparisons to what the speaker considers commonly accepted knowledge. Young people hold no such restrictions, but the older generation does (&gt;_",
+      "credits_raw": "ninja_k",
+      "content_sha256": "4c843fea832fedae6e39d990e6a0e40207b7bcc7980b30aca2b0ea7d6d1d97d4",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "＊How to use this grammar as an adjective or adverb (works just like an い adjective): 「〜っぽい + Ｎ」 or 「〜っぽく + Ｖ」.\nExample: 子供っぽい人 [a childish person] \n子供っぽく見える [look childish]\n\nFORMATION:\nＶ(minus ます) + っぽい\nいＡ(minus い) + っぽい\nＮ + っぽい",
+      "html": "＊How to use this grammar as an adjective or adverb (works just like an い adjective): 「〜っぽい + Ｎ」 or 「〜っぽく + Ｖ」.<br/>Example: 子供っぽい人 [a childish person] <br/>子供っぽく見える [look childish]<br/><br/>FORMATION:<br/>Ｖ(minus ます) + っぽい<br/>いＡ(minus い) + っぽい<br/>Ｎ + っぽい",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "9e2889727938ee6c1d648e8c9de4d0a81af1569eb7bce1674ca805ce7a4b1e73",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "#5729 and #5730 are a dialogue taken from the TV show \"London Hearts.\" The host calls one of the girls \"cute-ish\" and she snaps back at him with #5730.",
+      "html": "#5729 and #5730 are a dialogue taken from the TV show \"London Hearts.\" The host calls one of the girls \"cute-ish\" and she snaps back at him with #5730.",
+      "credits_raw": "cdo4",
+      "content_sha256": "ae19f1ee50fabdab12e615b4fc4a609384cbac638019e557d99ac392098c6de4",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "その話しは、うそっぽい The story is too goo to be true.\n愚痴っぽい、飽きっぽい、熱っぽい、忘れっぽい、理屈っぽい　いかにも＊＊＊＊という感じ\nかわいいっぽい might be created recently.",
+      "html": "その話しは、うそっぽい The story is too goo to be true.<br/>愚痴っぽい、飽きっぽい、熱っぽい、忘れっぽい、理屈っぽい　いかにも＊＊＊＊という感じ<br/>かわいいっぽい might be created recently.",
+      "credits_raw": "Miki",
+      "content_sha256": "73711993270d81e3985cce2b7cd15ba0aec7f2aafc95604dd48fcd68cc3500cd",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "I never really knew why people say 風邪気味 and 熱っぽい. I used to always make the mistake of saying \"風邪っぽい\".",
+      "html": "I never really knew why people say 風邪気味 and 熱っぽい. I used to always make the mistake of saying \"風邪っぽい\".",
+      "credits_raw": "blabby",
+      "content_sha256": "25cf4e9e86334cc6ab5be8bb15839c72c51dd86cba116ce430f902a3a8821015",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "\"風邪っぽい\" might be wrong but people including me use the expression.",
+      "html": "\"風邪っぽい\" might be wrong but people including me use the expression.",
+      "credits_raw": "Miki",
+      "content_sha256": "6987ace9e28cbec772800519460b654f7a2973a49ad29c7669e81a529dd4dc40",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "This is in my JLPT 2-kyuu grammar book but it is not listed as 2-kyuu grammar on this site.",
+      "html": "This is in my JLPT 2-kyuu grammar book but it is not listed as 2-kyuu grammar on this site.",
+      "credits_raw": "The General",
+      "content_sha256": "51fd275649e526132da5f6bc0a85df858b69cc4b615ab00d47ba2dd14ba794ab",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "Isn't かわいいっぽい (ex #5729) wrong? From the notes at the top of this page: \"いＡ(minus い) + っぽい\". So it should be かわいっぽい, right?",
+      "html": "Isn't かわいいっぽい (ex #5729) wrong? From the notes at the top of this page: \"いＡ(minus い) + っぽい\". So it should be かわいっぽい, right?",
+      "credits_raw": "Nihonjin",
+      "content_sha256": "fe1740f5b133c7c1116eab3802a0f5faf0d1d47ea1002f16a7620fe17c5d13ff",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "Somebody knows the meaning of あぶらっぽい?",
+      "html": "Somebody knows the meaning of あぶらっぽい?",
+      "credits_raw": "sky",
+      "content_sha256": "a153fff8b4c6e336b6cbd11446a5ac90f1bb03dbbd86c5a3ef4ceb642b0db564",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "あぶら is fat or oil... っぽい is an -ish kind of meaning... so あぶらっぽい is fatty or greasy (often used to describe food)",
+      "html": "あぶら is fat or oil... っぽい is an -ish kind of meaning... so あぶらっぽい is fatty or greasy (often used to describe food)",
+      "credits_raw": "KWhazit",
+      "content_sha256": "91f7127a11b5f49af9d923344295d8c89ae99a0754e4b2b0e9b18e4e741ffcac",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "かわいいっぽい is not really correct although it could be heard used by young people in informal speech. かわいらしい is better.\nI can't think of a construction with adjectives but in modern informal speech young people may attach っぽい to anything without following formation described above.",
+      "html": "かわいいっぽい is not really correct although it could be heard used by young people in informal speech. かわいらしい is better.<br/>I can't think of a construction with adjectives but in modern informal speech young people may attach っぽい to anything without following formation described above.",
+      "credits_raw": "beno",
+      "content_sha256": "ae3ffa0707c3464165ff3c965bf265f462e550536694c1ced53a60a0c678697e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "What are the differences between kodomoppoi,kodomorashi, kodomomitai",
+      "html": "What are the differences between kodomoppoi,kodomorashi, kodomomitai",
+      "credits_raw": "Rojana",
+      "content_sha256": "1142c06ec02107f3dab9f800f5eda8d421d0dee82db1b8c24d93d8acde1dce11",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 670,
+      "label": "気味",
+      "source_url": "https://takoboto.jp/bunpo/670"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:33:15+00:00",
+  "response_sha256": "6d72fa6ac3ff50ffdf76a8222d179ac9e55b83185d2f021b2d2c8c5332f2d856",
+  "warnings": []
+}

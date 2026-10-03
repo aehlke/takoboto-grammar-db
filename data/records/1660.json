@@ -1,0 +1,963 @@
+{
+  "schema_version": 2,
+  "id": 1660,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1660/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "余り",
+  "romanized_label": "amari",
+  "alternate_forms": [
+    "あまり"
+  ],
+  "jlpt_level": 2,
+  "credits_raw": "赤毛",
+  "meaning": "not much, too much",
+  "meaning_example": "あまり面白くない => not very interesting / あまり遅い => too late",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1660",
+      "body_text": "not much, too much \n あまり面白くない => not very interesting / あまり遅い => too late",
+      "body_html": "<span>not much, too much</span> <br/> <span>あまり面白くない =&gt; not very interesting / あまり遅い =&gt; too late</span>",
+      "credits_raw": "赤毛"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 6790,
+      "position": 0,
+      "japanese": "この話は本当にしてはあまりにもうますぎる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1%e3%81%af\"><span>話は</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><span>本当にしては</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%82%e3%81%86%e3%81%be%e3%81%99%e3%81%8e%e3%82%8b%e3%80%82\"><span>にもうますぎる。</span></a>",
+      "segments": [
+        {
+          "text": "この話は本当にしては",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "にもうますぎる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このはなしはほんとうにしてはあまりにもうますぎる。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This is too good to be true.",
+          "html": "<span>This is </span><strong>too </strong><span>good to be true. </span>",
+          "segments": [
+            {
+              "text": "This is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "good to be true. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6791,
+      "position": 1,
+      "japanese": "あなたのいらっしゃるのがあまり遅いので、今電話をするところでした。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e3%81%84%e3%82%89%e3%81%a3%e3%81%97%e3%82%83%e3%82%8b%e3%81%ae%e3%81%8c\"><span>あなたのいらっしゃるのが</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e9%81%85%e3%81%84\"><span>遅い</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7%e3%80%81\"><span>ので、</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e9%9b%bb%e8%a9%b1%e3%82%92%e3%81%99%e3%82%8b%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7%e3%81%97%e3%81%9f%e3%80%82\"><span>今電話をするところでした。</span></a>",
+      "segments": [
+        {
+          "text": "あなたのいらっしゃるのが",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "遅いので、今電話をするところでした。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたのいらっしゃるのがあまりおそいので、こんでんわをするところでした。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You were so late in coming that I was just about to telephone you.",
+          "html": "<span>You were </span><strong>so </strong><span>late </span><span>in coming that I was just about to telephone you. </span>",
+          "segments": [
+            {
+              "text": "You were ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "so ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "late in coming that I was just about to telephone you. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6792,
+      "position": 2,
+      "japanese": "あなたはあまりにも素早すぎる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af\"><span>あなたは</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%82\"><span>にも</span></a><a href=\"https://takoboto.jp/?q=%e7%b4%a0%e6%97%a9%e3%81%99%e3%81%8e%e3%82%8b%e3%80%82\"><span>素早すぎる。</span></a>",
+      "segments": [
+        {
+          "text": "あなたは",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "にも素早すぎる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたはあまりにもすばやすぎる。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You are all too quick.",
+          "html": "<span>You are </span><strong>all </strong><span>too quick. </span>",
+          "segments": [
+            {
+              "text": "You are ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "all ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "too quick. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6793,
+      "position": 3,
+      "japanese": "あなたはあまり夜更かしをしない方がいい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af\"><span>あなたは</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e5%a4%9c%e6%9b%b4%e3%81%8b%e3%81%97%e3%82%92%e3%81%97%e3%81%aa%e3%81%84\"><span>夜更かしをしない</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84%e3%80%82\"><span>方がいい。</span></a>",
+      "segments": [
+        {
+          "text": "あなたは",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "夜更かしをしない方がいい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたはあまりよるふかしをしないほうがいい。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You had better not sit up so late at night.",
+          "html": "<span>You had better not sit up </span><strong>so </strong><span>late at night. </span>",
+          "segments": [
+            {
+              "text": "You had better not sit up ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "so ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "late at night. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6794,
+      "position": 4,
+      "japanese": "あの人はあまり先が長くない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae\"><span>あの</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%af\"><span>人は</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e5%85%88%e3%81%8c\"><span>先が</span></a><a href=\"https://takoboto.jp/?q=%e9%95%b7%e3%81%8f%e3%81%aa%e3%81%84%e3%80%82\"><span>長くない。</span></a>",
+      "segments": [
+        {
+          "text": "あの人は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "先が長くない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あのひとはあまりさきがながくない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He doesn't have much longer to live.",
+          "html": "<span>He doesn't have </span><strong>much </strong><span>longer to live. </span>",
+          "segments": [
+            {
+              "text": "He doesn't have ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "much ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "longer to live. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6998,
+      "position": 5,
+      "japanese": "英語は余り難しすぎて私には分かりません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%af\"><span>英語は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e9%9b%a3%e3%81%97%e3%81%99%e3%81%8e%e3%81%a6\"><span>難しすぎて</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ab%e3%81%af\"><span>私には</span></a><a href=\"https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>分かりません。</span></a>",
+      "segments": [
+        {
+          "text": "英語は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "難しすぎて私には分かりません。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "えいごはあまりむずかしすぎてわたしにはわかりません。",
+      "credits_raw": "frankieforfingaz",
+      "translations": [
+        {
+          "language": "en",
+          "text": "English is way too difficult for me to understand.",
+          "html": "<span>English is </span><strong>way </strong><span>too difficult for me to understand. </span>",
+          "segments": [
+            {
+              "text": "English is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "way ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "too difficult for me to understand. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7185,
+      "position": 6,
+      "japanese": "驚きの余り声もでなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%a9%9a%e3%81%8d%e3%81%ae%e4%bd%99%e3%82%8a\"><strong>驚きの余り</strong></a><a href=\"https://takoboto.jp/?q=%e5%a3%b0%e3%82%82%e3%81%a7%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82\"><span>声もでなかった。</span></a>",
+      "segments": [
+        {
+          "text": "驚きの余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "声もでなかった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おどろきのあまりごえもでなかった。",
+      "credits_raw": "sureshnihon",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I was so surprised that I couldn't speak",
+          "html": "<strong>I was so surprised that </strong><span>I couldn't speak </span>",
+          "segments": [
+            {
+              "text": "I was so surprised that ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I couldn't speak ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8096,
+      "position": 7,
+      "japanese": "彼女にあまり期待をかけすぎるな。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ab\"><span>彼女に</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e6%9c%9f%e5%be%85%e3%82%92%e3%81%8b%e3%81%91%e3%81%99%e3%81%8e%e3%82%8b%e3%81%aa%e3%80%82\"><span>期待をかけすぎるな。</span></a>",
+      "segments": [
+        {
+          "text": "彼女に",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "期待をかけすぎるな。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょにあまりきたいをかけすぎるな。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Don`t expect too much of her.",
+          "html": "<span>Don`t expect </span><strong>too much </strong><span>of her. </span>",
+          "segments": [
+            {
+              "text": "Don`t expect ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too much ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "of her. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8097,
+      "position": 8,
+      "japanese": "自分を余りまじめに考えすぎてはいけない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%82%92\"><span>自分を</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%be%e3%81%98%e3%82%81%e3%81%ab\"><span>まじめに</span></a><a href=\"https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%99%e3%81%8e%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%e3%80%82\"><span>考えすぎてはいけない。</span></a>",
+      "segments": [
+        {
+          "text": "自分を",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "まじめに考えすぎてはいけない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "じぶんをあまりまじめにかんがえすぎてはいけない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "One must not take oneself too seriously.",
+          "html": "<span>One must not take oneself too seriously. </span>",
+          "segments": [
+            {
+              "text": "One must not take oneself too seriously. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8098,
+      "position": 9,
+      "japanese": "「その女性は年をとっていますか」「いいえ、余り。」",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%80%8c%e3%81%9d%e3%81%ae\"><span>「その</span></a><a href=\"https://takoboto.jp/?q=%e5%a5%b3%e6%80%a7%e3%81%af\"><span>女性は</span></a><a href=\"https://takoboto.jp/?q=%e5%b9%b4%e3%82%92%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%81%8b%e3%80%8d%e3%80%8c%e3%81%84%e3%81%84%e3%81%88%e3%80%81\"><span>年をとっていますか」「いいえ、</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82%e3%80%8d\"><span>。」</span></a>",
+      "segments": [
+        {
+          "text": "「その女性は年をとっていますか」「いいえ、",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。」",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "「そのじょせいはとしをとっていますか」「いいえ、あまり。」",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "”Is she old?”. ”No, not very \".",
+          "html": "<span>”Is she old?”. ”No, not </span><strong>very </strong><span>\". </span>",
+          "segments": [
+            {
+              "text": "”Is she old?”. ”No, not ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "very ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "\". ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8099,
+      "position": 10,
+      "japanese": "私は水泳は余りうまくない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af\"><span>私は</span></a><a href=\"https://takoboto.jp/?q=%e6%b0%b4%e6%b3%b3%e3%81%af\"><span>水泳は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%86%e3%81%be%e3%81%8f%e3%81%aa%e3%81%84%e3%80%82\"><span>うまくない。</span></a>",
+      "segments": [
+        {
+          "text": "私は水泳は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "うまくない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはすいえいはあまりうまくない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I`m not very good at swimming.",
+          "html": "<span>I`m not very good at swimming. </span>",
+          "segments": [
+            {
+              "text": "I`m not very good at swimming. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8100,
+      "position": 11,
+      "japanese": "余り遠くなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e9%81%a0%e3%81%8f%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82\"><span>遠くなかった。</span></a>",
+      "segments": [
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "遠くなかった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あまりとおくなかった。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It wasn`t very far away.",
+          "html": "<span>It wasn`t very far away. </span>",
+          "segments": [
+            {
+              "text": "It wasn`t very far away. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8101,
+      "position": 12,
+      "japanese": "余りそれは気に入らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af\"><span>それは</span></a><a href=\"https://takoboto.jp/?q=%e6%b0%97%e3%81%ab\"><span>気に</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e3%82%89%e3%81%aa%e3%81%84%e3%80%82\"><span>入らない。</span></a>",
+      "segments": [
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "それは気に入らない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あまりそれはきにいらない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I don`t like it too much.",
+          "html": "<span>I don`t like it too much. </span>",
+          "segments": [
+            {
+              "text": "I don`t like it too much. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8102,
+      "position": 13,
+      "japanese": "彼は余り背が高くない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e8%83%8c%e3%81%8c\"><span>背が</span></a><a href=\"https://takoboto.jp/?q=%e9%ab%98%e3%81%8f%e3%81%aa%e3%81%84%e3%80%82\"><span>高くない。</span></a>",
+      "segments": [
+        {
+          "text": "彼は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "背が高くない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはあまりせがたかくない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He is not too tall.",
+          "html": "<span>He is not too tall. </span>",
+          "segments": [
+            {
+              "text": "He is not too tall. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8103,
+      "position": 14,
+      "japanese": "彼は余り金持ちじゃない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e6%8c%81%e3%81%a1%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%80%82\"><span>金持ちじゃない。</span></a>",
+      "segments": [
+        {
+          "text": "彼は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "金持ちじゃない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはあまりかねもちじゃない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He isn`t (all) that rich.",
+          "html": "<span>He isn`t (all) that rich. </span>",
+          "segments": [
+            {
+              "text": "He isn`t (all) that rich. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8104,
+      "position": 15,
+      "japanese": "そこに着いたのは余り早くなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%93%e3%81%ab\"><span>そこに</span></a><a href=\"https://takoboto.jp/?q=%e7%9d%80%e3%81%84%e3%81%9f%e3%81%ae%e3%81%af\"><span>着いたのは</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e6%97%a9%e3%81%8f%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82\"><span>早くなかった。</span></a>",
+      "segments": [
+        {
+          "text": "そこに着いたのは",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "早くなかった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そこについたのはあまりはやくなかった。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We got there none too soon.",
+          "html": "<span>We got there none too soon. </span>",
+          "segments": [
+            {
+              "text": "We got there none too soon. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8105,
+      "position": 16,
+      "japanese": "余り寒くないですよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e5%af%92%e3%81%8f%e3%81%aa%e3%81%84%e3%81%a7%e3%81%99%e3%82%88%e3%80%82\"><span>寒くないですよ。</span></a>",
+      "segments": [
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "寒くないですよ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あまりさむくないですよ。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It`s not quite cold.",
+          "html": "<span>It`s not quite cold. </span>",
+          "segments": [
+            {
+              "text": "It`s not quite cold. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8106,
+      "position": 17,
+      "japanese": "その案は余り感心しない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e6%a1%88%e3%81%af\"><span>案は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e6%84%9f%e5%bf%83%e3%81%97%e3%81%aa%e3%81%84%e3%80%82\"><span>感心しない。</span></a>",
+      "segments": [
+        {
+          "text": "その案は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "感心しない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのあんはあまりかんしんしない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The proposition is not overly exciting to me.",
+          "html": "<span>The proposition is not overly exciting to me. </span>",
+          "segments": [
+            {
+              "text": "The proposition is not overly exciting to me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8107,
+      "position": 18,
+      "japanese": "雨の心配は余りない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%ae\"><span>雨の</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%83%e9%85%8d%e3%81%af\"><span>心配は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%80%82\"><span>ない。</span></a>",
+      "segments": [
+        {
+          "text": "雨の心配は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あめのしんぱいはあまりない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "There`s not much fear of rain.",
+          "html": "<span>There`s not much fear of rain. </span>",
+          "segments": [
+            {
+              "text": "There`s not much fear of rain. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8108,
+      "position": 19,
+      "japanese": "「本はどれくらい持っていますか」「余りありません。」",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%80%8c\"><span>「</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e3%81%af%e3%81%a9%e3%82%8c%e3%81%8f%e3%82%89%e3%81%84\"><span>本はどれくらい</span></a><a href=\"https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%81%8b%e3%80%8d%e3%80%8c\"><span>持っていますか」「</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82%e3%80%8d\"><span>ありません。」</span></a>",
+      "segments": [
+        {
+          "text": "「本はどれくらい持っていますか」「",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ありません。」",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "「ほんはどれくらいもっていますか」「あまりありません。」",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "”How many books do you have?\" \"Not many \".",
+          "html": "<span>”How many books do you have?\" \"Not </span><strong>many </strong><span>\". </span>",
+          "segments": [
+            {
+              "text": "”How many books do you have?\" \"Not ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "many ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "\". ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8109,
+      "position": 20,
+      "japanese": "僕はおばさんを訪問する機会が余りない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%83%95%e3%81%af%e3%81%8a%e3%81%b0%e3%81%95%e3%82%93%e3%82%92\"><span>僕はおばさんを</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%aa%e5%95%8f%e3%81%99%e3%82%8b\"><span>訪問する</span></a><a href=\"https://takoboto.jp/?q=%e6%a9%9f%e4%bc%9a%e3%81%8c\"><span>機会が</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%99%e3%82%8a\"><strong>余り</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%80%82\"><span>ない。</span></a>",
+      "segments": [
+        {
+          "text": "僕はおばさんを訪問する機会が",
+          "grammar_highlight": false
+        },
+        {
+          "text": "余り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ぼくはおばさんをほうもんするきかいがあまりない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I have little (not much) opportunity to visit my　aunt.",
+          "html": "<span>I have little (not much) opportunity to visit my　aunt. </span>",
+          "segments": [
+            {
+              "text": "I have little (not much) opportunity to visit my　aunt. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "とても..から　(x)　\nとても...ので (x)\n...しすぎるので (x)\nExpresses that a lot of or too much of (something) was the reason for (x)\n\n(Dictionary form) verb + あまり\nNoun　＋の＋あまり \nEG.痛さのあまり、涙が出てきた。\nその会社では働きすぎたあまり、病気で倒れる社員が増えている。",
+      "html": "とても..から　(x)　<br/>とても...ので (x)<br/>...しすぎるので (x)<br/>Expresses that a lot of or too much of (something) was the reason for (x)<br/><br/>(Dictionary form) verb + あまり<br/>Noun　＋の＋あまり <br/>EG.痛さのあまり、涙が出てきた。<br/>その会社では働きすぎたあまり、病気で倒れる社員が増えている。",
+      "credits_raw": "bluntcrayon",
+      "content_sha256": "176b0d19290c7aab13127b798b1fea0cdfe333d1e414efdf959bad4bad5a33dd",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "I moved here the examples of previous [amari] entry which was mainly [noamari] and didn't fit in the [noamari] when I rename it.",
+      "html": "I moved here the examples of previous [amari] entry which was mainly [noamari] and didn't fit in the [noamari] when I rename it.",
+      "credits_raw": "赤毛",
+      "content_sha256": "8da10e0faeef7daad0ef606a6c527a737cac43fbf1750b66cf8d19c3eedd2acb",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "How about an explanation/example of あまりにも ?",
+      "html": "How about an explanation/example of あまりにも ?",
+      "credits_raw": "nickm758",
+      "content_sha256": "869c5b38b0a5577be92b4da78e020b800c9e80170a00c977a8e2140f399d70a0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "not much?? too much?? this is kind'a confusing.",
+      "html": "not much?? too much?? this is kind'a confusing.",
+      "credits_raw": "mhykx",
+      "content_sha256": "1281453b332b852fc505529f1dbf201fbf008a05188c679a9fcc51b8157ff846",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "あまり just means too much. But if it's used with a negative ない, then it means not too much.",
+      "html": "あまり just means too much. But if it's used with a negative ない, then it means not too much.",
+      "credits_raw": "benky",
+      "content_sha256": "13a358c3723bdd0a953bb71164cd8591248f2a4b991f70f8369818e43ba93904",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "I think the JLPT 2 version of this has been confused with the lower forms. JLPT 2 form means \"too much, in an unusual or unexpected way\"\n\nex. 驚き　の　あまり、声も　出なかった。\nHis surprise was so great, he couldn't even shout out.",
+      "html": "I think the JLPT 2 version of this has been confused with the lower forms. JLPT 2 form means \"too much, in an unusual or unexpected way\"<br/><br/>ex. 驚き　の　あまり、声も　出なかった。<br/>His surprise was so great, he couldn't even shout out.",
+      "credits_raw": "jmadsen",
+      "content_sha256": "37f88854d537cbbb8457553c0d111850644d5bf161a5e98d6cad57052b1e39ae",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "Ex #7185 could be translated as: \"It was so surprising that (his/her) voice couldn't come out\" too?",
+      "html": "Ex #7185 could be translated as: \"It was so surprising that (his/her) voice couldn't come out\" too?",
+      "credits_raw": "karekano",
+      "content_sha256": "59abeab6499dbcf7a387bcd45a6899dfa7ab3872094b5a5caf8d26250460a5be",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "kyou wa nandesuka",
+      "html": "kyou wa nandesuka",
+      "credits_raw": "machupapa",
+      "content_sha256": "1b3b148e205b8b261e3d6a96614d4b0da76a198c4d85363d5fc2a22c72b6395c",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1369,
+      "label": "の余り",
+      "source_url": "https://takoboto.jp/bunpo/1369"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:36:55+00:00",
+  "response_sha256": "65abb0f9b3ee1b6c41f20a3b20f70a6fe8de0cf80ab12fac0fb442e7eae39d45",
+  "warnings": []
+}

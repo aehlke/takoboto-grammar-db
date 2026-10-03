@@ -1,0 +1,785 @@
+{
+  "schema_version": 2,
+  "id": 729,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/729/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "たら",
+  "romanized_label": "tara",
+  "alternate_forms": [],
+  "jlpt_level": 4,
+  "credits_raw": "Amatuka",
+  "meaning": "if, when (verb form)",
+  "meaning_example": "When I wake up",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_729",
+      "body_text": "if, when (verb form) \n When I wake up",
+      "body_html": "<span>if, when (verb form)</span> <br/> <span>When I wake up</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_729",
+      "body_text": "Verb past た-form+ら",
+      "body_html": "<div><div><div>Verb past た-form</div></div><div><div>+</div><div>ら</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb past た-form + ら"
+  ],
+  "examples": [
+    {
+      "source_id": 875,
+      "position": 0,
+      "japanese": "その夜半に目覚めたら呼吸が酷く不規則で苦しくなっていました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%9c%e5%8d%8a%e3%81%ab\"><span>夜半に</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%ae%e8%a6%9a%e3%82%81\"><span>目覚め</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%82%89\"><strong>たら</strong></a><a href=\"https://takoboto.jp/?q=%e5%91%bc%e5%90%b8%e3%81%8c\"><span>呼吸が</span></a><a href=\"https://takoboto.jp/?q=%e9%85%b7%e3%81%8f\"><span>酷く</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8d%e8%a6%8f%e5%89%87%e3%81%a7\"><span>不規則で</span></a><a href=\"https://takoboto.jp/?q=%e8%8b%a6%e3%81%97%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>苦しくなっていました。</span></a>",
+      "segments": [
+        {
+          "text": "その夜半に目覚め",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "呼吸が酷く不規則で苦しくなっていました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのやはんにめざめたらこきゅうがひどくふきそくでくるしくなっていました。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When (I) woke up late that night (my) breathing had become horribly irregular and difficult.",
+          "html": "<strong>When </strong><span>(I) woke up late that night (my) breathing had become horribly irregular and difficult. </span>",
+          "segments": [
+            {
+              "text": "When ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "(I) woke up late that night (my) breathing had become horribly irregular and difficult. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 876,
+      "position": 1,
+      "japanese": "私ももし、イギリスに行ったらそうなるのか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%82%82%e3%82%82%e3%81%97%e3%80%81%e3%82%a4%e3%82%ae%e3%83%aa%e3%82%b9%e3%81%ab\"><span>私ももし、イギリスに</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3\"><span>行っ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%82%89\"><strong>たら</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%86%e3%81%aa%e3%82%8b%e3%81%ae%e3%81%8b%e3%80%82\"><span>そうなるのか。</span></a>",
+      "segments": [
+        {
+          "text": "私ももし、イギリスに行っ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "そうなるのか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしももし、イギリスにいったらそうなるのか。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If I go to England will it be like that for me as well?",
+          "html": "<strong>If </strong><span>I go to England will it be like that for me as well? </span>",
+          "segments": [
+            {
+              "text": "If ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I go to England will it be like that for me as well? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5254,
+      "position": 2,
+      "japanese": "まず説明書を読んだらＩＫＥＡの家具のパックが作れる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%be%e3%81%9a\"><span>まず</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%ac%e6%98%8e%e6%9b%b8%e3%82%92\"><span>説明書を</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%ad%e3%82%93\"><span>読ん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%82%89\"><strong>だら</strong></a><a href=\"https://takoboto.jp/?q=%ef%bc%a9%ef%bc%ab%ef%bc%a5%ef%bc%a1%e3%81%ae\"><span>ＩＫＥＡの</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%b6%e5%85%b7%e3%81%ae%e3%83%91%e3%83%83%e3%82%af%e3%81%8c\"><span>家具のパックが</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%9c%e3%82%8c%e3%82%8b%e3%80%82\"><span>作れる。</span></a>",
+      "segments": [
+        {
+          "text": "まず説明書を読ん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ＩＫＥＡの家具のパックが作れる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "まずせつめいしょをよんだらのかぐのパックがつくれる。",
+      "credits_raw": "brsdjbd",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If you read the instructions first then you can make an IKEA flat furniture pack.",
+          "html": "<span>If you read the instructions first then you can make an IKEA flat furniture pack. </span>",
+          "segments": [
+            {
+              "text": "If you read the instructions first then you can make an IKEA flat furniture pack. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5259,
+      "position": 3,
+      "japanese": "「あなたに何かあげられたらなぁ…」",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%80%8c%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab\"><span>「あなたに</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%8b\"><span>何か</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%92%e3%82%89%e3%82%8c\"><span>あげられ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%82%89\"><strong>たら</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%81%e2%80%a6%e3%80%8d\"><span>なぁ…」</span></a>",
+      "segments": [
+        {
+          "text": "「あなたに何かあげられ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "なぁ…」",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "「あなたになにかあげられたらなぁ…」",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "\"I wish that I could give you something... \"",
+          "html": "<span>\"I wish that I </span><strong>could </strong><span>give you something... \" </span>",
+          "segments": [
+            {
+              "text": "\"I wish that I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "could ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "give you something... \" ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5260,
+      "position": 4,
+      "japanese": "１００万円獲得したら、どうしますか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%91%ef%bc%90%ef%bc%90%e4%b8%87%e5%86%86\"><span>１００万円</span></a><a href=\"https://takoboto.jp/?q=%e7%8d%b2%e5%be%97%e3%81%97\"><span>獲得し</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%82%89\"><strong>たら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%a9%e3%81%86%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%e3%80%82\"><span>、どうしますか。</span></a>",
+      "segments": [
+        {
+          "text": "１００万円獲得し",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、どうしますか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "１００まんえんかくとくしたら、どうしますか。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If you won a million yen, what would you do?",
+          "html": "<strong>If </strong><span>you won a million yen, what would you do? </span>",
+          "segments": [
+            {
+              "text": "If ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "you won a million yen, what would you do? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5261,
+      "position": 5,
+      "japanese": "あなたが済んだらその新聞を僕に読ませてください。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c\"><span>あなたが</span></a><a href=\"https://takoboto.jp/?q=%e6%b8%88%e3%82%93\"><span>済ん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%82%89\"><strong>だら</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b0%e8%81%9e%e3%82%92\"><span>新聞を</span></a><a href=\"https://takoboto.jp/?q=%e5%83%95%e3%81%ab\"><span>僕に</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%ad%e3%81%be%e3%81%9b%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82\"><span>読ませてください。</span></a>",
+      "segments": [
+        {
+          "text": "あなたが済ん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "その新聞を僕に読ませてください。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたがすんだらそのしんぶんをぼくによませてください。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Let me read the paper when you have done with it. [M]",
+          "html": "<span>Let me read the paper </span><strong>when </strong><span>you have done with it. [M] </span>",
+          "segments": [
+            {
+              "text": "Let me read the paper ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "when ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "you have done with it. [M] ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5262,
+      "position": 6,
+      "japanese": "このにわか雨がやんだら、私たちは出かけるつもりです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%81%ab%e3%82%8f%e3%81%8b\"><span>このにわか</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c\"><span>雨が</span></a><a href=\"https://takoboto.jp/?q=%e3%82%84%e3%82%93\"><span>やん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%82%89\"><strong>だら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%9f%e3%81%a1%e3%81%af\"><span>私たちは</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%8b%e3%81%91%e3%82%8b%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a7%e3%81%99%e3%80%82\"><span>出かけるつもりです。</span></a>",
+      "segments": [
+        {
+          "text": "このにわか雨がやん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、私たちは出かけるつもりです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このにわかあめがやんだら、わたしたちはでかけるつもりです。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We'll go out when this shower is over.",
+          "html": "<span>We'll go out </span><strong>when </strong><span>this shower is over. </span>",
+          "segments": [
+            {
+              "text": "We'll go out ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "when ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "this shower is over. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5263,
+      "position": 7,
+      "japanese": "この仕事がすんだらたっぷり休める。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%8c\"><span>仕事が</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%82%93\"><span>すん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%82%89\"><strong>だら</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%81%a3%e3%81%b7%e3%82%8a\"><span>たっぷり</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%91%e3%82%81%e3%82%8b%e3%80%82\"><span>休める。</span></a>",
+      "segments": [
+        {
+          "text": "この仕事がすん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "たっぷり休める。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このしごとがすんだらたっぷりやすめる。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I can take a good long rest when this work is finished.",
+          "html": "<span>I can take a good long rest </span><strong>when </strong><span>this work is finished. </span>",
+          "segments": [
+            {
+              "text": "I can take a good long rest ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "when ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "this work is finished. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5264,
+      "position": 8,
+      "japanese": "もし子供が毒を飲んだら、病院に急いで連れて行きなさい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%97\"><span>もし</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%8c\"><span>子供が</span></a><a href=\"https://takoboto.jp/?q=%e6%af%92%e3%82%92\"><span>毒を</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%b2%e3%82%93\"><span>飲ん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%82%89\"><strong>だら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e7%97%85%e9%99%a2%e3%81%ab\"><span>病院に</span></a><a href=\"https://takoboto.jp/?q=%e6%80%a5%e3%81%84%e3%81%a7\"><span>急いで</span></a><a href=\"https://takoboto.jp/?q=%e9%80%a3%e3%82%8c%e3%81%a6\"><span>連れて</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d%e3%81%aa%e3%81%95%e3%81%84%e3%80%82\"><span>行きなさい。</span></a>",
+      "segments": [
+        {
+          "text": "もし子供が毒を飲ん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、病院に急いで連れて行きなさい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "もしこどもがどくをのんだら、びょういんにいそいでつれていきなさい。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If your child drinks poison, rush him to the hospital.",
+          "html": "<strong>If </strong><span>your child drinks poison, rush him to the hospital. </span>",
+          "segments": [
+            {
+              "text": "If ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "your child drinks poison, rush him to the hospital. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5265,
+      "position": 9,
+      "japanese": "もし彼が休んだら、日本語のテストはないでしょう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%97\"><span>もし</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c\"><span>彼が</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%91%e3%82%93\"><span>休ん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%82%89\"><strong>だら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%ae%e3%83%86%e3%82%b9%e3%83%88%e3%81%af%e3%81%aa%e3%81%84%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%80%82\"><span>日本語のテストはないでしょう。</span></a>",
+      "segments": [
+        {
+          "text": "もし彼が休ん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、日本語のテストはないでしょう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "もしかれがやすんだら、にほんごのテストはないでしょう。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If he is absent, we will not have a Japanese test.",
+          "html": "<strong>If </strong><span>he is absent, we will not have a Japanese test. </span>",
+          "segments": [
+            {
+              "text": "If ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "he is absent, we will not have a Japanese test. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5266,
+      "position": 10,
+      "japanese": "飲んだら運転してはならない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%a3%b2%e3%82%93\"><span>飲ん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%82%89\"><strong>だら</strong></a><a href=\"https://takoboto.jp/?q=%e9%81%8b%e8%bb%a2%e3%81%97%e3%81%a6%e3%81%af%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%80%82\"><span>運転してはならない。</span></a>",
+      "segments": [
+        {
+          "text": "飲ん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "運転してはならない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "のんだらうんてんしてはならない。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If you're drunk don't drive.",
+          "html": "<strong>If </strong><span>you're drunk don't drive. </span>",
+          "segments": [
+            {
+              "text": "If ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "you're drunk don't drive. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5267,
+      "position": 11,
+      "japanese": "君がもう一度彼に頼んだら、彼も気が変わるかもしれない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%8c%e3%82%82%e3%81%86\"><span>君がもう</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e5%ba%a6%e5%bd%bc%e3%81%ab\"><span>一度彼に</span></a><a href=\"https://takoboto.jp/?q=%e9%a0%bc%e3%82%93\"><span>頼ん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%82%89\"><strong>だら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%82%82\"><span>彼も</span></a><a href=\"https://takoboto.jp/?q=%e6%b0%97%e3%81%8c\"><span>気が</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%89%e3%82%8f%e3%82%8b%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82\"><span>変わるかもしれない。</span></a>",
+      "segments": [
+        {
+          "text": "君がもう一度彼に頼ん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、彼も気が変わるかもしれない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きみがもういちどかれにたのんだら、かれもきがかわるかもしれない。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If you ask him again, he may change his mind.",
+          "html": "<strong>If </strong><span>you ask him again, he may change his mind. </span>",
+          "segments": [
+            {
+              "text": "If ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "you ask him again, he may change his mind. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5897,
+      "position": 12,
+      "japanese": "私が鳥だったら、一日中空を飛び回りたい",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%8c\"><span>私が</span></a><a href=\"https://takoboto.jp/?q=%e9%b3%a5%e3%81%a0%e3%81%a3\"><span>鳥だっ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%82%89\"><strong>たら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e6%97%a5%e4%b8%ad%e7%a9%ba%e3%82%92\"><span>一日中空を</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9b%e3%81%b3\"><span>飛び</span></a><a href=\"https://takoboto.jp/?q=%e5%9b%9e%e3%82%8a%e3%81%9f%e3%81%84\"><span>回りたい</span></a>",
+      "segments": [
+        {
+          "text": "私が鳥だっ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、一日中空を飛び回りたい",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしがとりだったら、いちにちなかぞらをとびまわりたい",
+      "credits_raw": "誠",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If I was a bird, I would like to fly around in the sky for the whole day long.",
+          "html": "<strong>If </strong><span>I </span><strong>was </strong><span>a bird, I would like to fly around in the sky for the whole day long. </span>",
+          "segments": [
+            {
+              "text": "If ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "was ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a bird, I would like to fly around in the sky for the whole day long. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8599,
+      "position": 13,
+      "japanese": "食堂へ行ったら、マリーさんに会いました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%a3%9f%e5%a0%82%e3%81%b8\"><span>食堂へ</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3\"><span>行っ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%82%89\"><strong>たら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%83%9e%e3%83%aa%e3%83%bc%e3%81%95%e3%82%93%e3%81%ab\"><span>、マリーさんに</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9a%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>会いました。</span></a>",
+      "segments": [
+        {
+          "text": "食堂へ行っ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、マリーさんに会いました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "しょくどうへいったら、マリーさんにあいました。",
+      "credits_raw": "starsandsea",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When I went to the cafeteria, I unintentionally saw Mary.",
+          "html": "<span>When I went to the cafeteria, I unintentionally saw Mary. </span>",
+          "segments": [
+            {
+              "text": "When I went to the cafeteria, I unintentionally saw Mary. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8600,
+      "position": 14,
+      "japanese": "アリスさんが朝起きたら、雨が降っていました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%a2%e3%83%aa%e3%82%b9%e3%81%95%e3%82%93%e3%81%8c\"><span>アリスさんが</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%9d%e8%b5%b7%e3%81%8d\"><span>朝起き</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%82%89\"><strong>たら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c\"><span>雨が</span></a><a href=\"https://takoboto.jp/?q=%e9%99%8d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>降っていました。</span></a>",
+      "segments": [
+        {
+          "text": "アリスさんが朝起き",
+          "grammar_highlight": false
+        },
+        {
+          "text": "たら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、雨が降っていました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "アリスさんがあさおきたら、あめがふっていました。",
+      "credits_raw": "starsandsea",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When Alice got up in the morning, she found that it was raining.",
+          "html": "<span>When Alice got up in the morning, she found that it was raining. </span>",
+          "segments": [
+            {
+              "text": "When Alice got up in the morning, she found that it was raining. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "〜たら use for：\n１．もし(if)\n２．〜た後、〜てから、〜たとき(When.../ After...)\n３．本当ではないのこと (If (I) was/could/would...., )\n４．勧め(advice/suggestions) (Why don't (you/we)...)",
+      "html": "〜たら use for：<br/>１．もし(if)<br/>２．〜た後、〜てから、〜たとき(When.../ After...)<br/>３．本当ではないのこと (If (I) was/could/would...., )<br/>４．勧め(advice/suggestions) (Why don't (you/we)...)",
+      "credits_raw": "誠",
+      "content_sha256": "394e656b6308ab6303351e11d67dd00410b54683e05551ac892c637392e7e5fe",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Formed like the plain past -ta form with ra added.\n目覚める (mezameru) -> 目覚めたら (mezametara)",
+      "html": "Formed like the plain past -ta form with ra added.<br/>目覚める (mezameru) -&gt; 目覚めたら (mezametara)",
+      "credits_raw": "Amatuka",
+      "content_sha256": "6e426b7c475ca6a0a4bc092df5e185eb9c2ca802b45f5f506f538f1b725bac20",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "'If' type words like もし can be used to make the if/when distinction clear.",
+      "html": "'If' type words like もし can be used to make the if/when distinction clear.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "9a3159b54003f769f3e1fffc40b45deda6b9f1b86303880a4d219da907c65c29",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "#5254 もしまず here is wordy. Also, it is always 読んだら、not 読んたら、.\nまず説明書を読んだら、／もし説明書を読んだら、would be better.",
+      "html": "#5254 もしまず here is wordy. Also, it is always 読んだら、not 読んたら、.<br/>まず説明書を読んだら、／もし説明書を読んだら、would be better.",
+      "credits_raw": "Miki",
+      "content_sha256": "6c8e169f5424033c034b6883de4c1c47c8844acb4a653cb5d878c872a49bc69c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Note that it is unnatural to use -tara in circumstances in the past, where a volitional element is present. For example, if you wanted to say 'I stayed in an old ryokan when I went to Kyouto':\n\n京都に行ったら、古い旅館に泊まりました\n\nThis sentence is unnatural. Using ~tara in the past would only be used for states or circumstances, e.g.\n\n教室に入ったら、小さなネコがいた",
+      "html": "Note that it is unnatural to use -tara in circumstances in the past, where a volitional element is present. For example, if you wanted to say 'I stayed in an old ryokan when I went to Kyouto':<br/><br/>京都に行ったら、古い旅館に泊まりました<br/><br/>This sentence is unnatural. Using ~tara in the past would only be used for states or circumstances, e.g.<br/><br/>教室に入ったら、小さなネコがいた",
+      "credits_raw": "bi-ru",
+      "content_sha256": "9bae5d59b31c09163546965fba8a86d5674f0ce8d4ab7d6084f2496300c4d506",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "Maybe the following would be more natural:\n「京都に行ったとき、古い旅館に泊まりました。」\n「教室に入ったとき、小さなネコがいた。」",
+      "html": "Maybe the following would be more natural:<br/>「京都に行ったとき、古い旅館に泊まりました。」<br/>「教室に入ったとき、小さなネコがいた。」",
+      "credits_raw": "誠",
+      "content_sha256": "6f8d5044bba6bd84f80647499a0fc00b7d782888adb9a64a07b5b72fb9c58c98",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "教室に入ったら、小さな猫がいた。is fine enough. You cannot say which is more natural.",
+      "html": "教室に入ったら、小さな猫がいた。is fine enough. You cannot say which is more natural.",
+      "credits_raw": "Miki",
+      "content_sha256": "5634cd70891bd9c289430d265bc133793e0bf374ef303c7e35559e5dd1b79f12",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "[#5897} Should use the subjunctive mood, not simple past: \"If I were a bird...\"",
+      "html": "[#5897} Should use the subjunctive mood, not simple past: \"If I were a bird...\"",
+      "credits_raw": "cacepi",
+      "content_sha256": "cb55977c9cd9ce66d0dd9e58c68b37bf455b93ad21e281c2a6d4a2c034668218",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "そうそう。確か高校の時に、そう習いました。",
+      "html": "そうそう。確か高校の時に、そう習いました。",
+      "credits_raw": "Miki",
+      "content_sha256": "5189a97002cd56f52debfda192ad550115ce543cbb2d836997fed8bd6a95aeb3",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Actually, the past tense usage of たら is okay, as long as the second phrase shows an uncontrollable situation.\n(BAD) 京都に行ったら、古い旅館に泊まりました。\n(GOOD) 先生の説明を聞いたら、すぐ分かった。",
+      "html": "Actually, the past tense usage of たら is okay, as long as the second phrase shows an uncontrollable situation.<br/>(BAD) 京都に行ったら、古い旅館に泊まりました。<br/>(GOOD) 先生の説明を聞いたら、すぐ分かった。",
+      "credits_raw": "Mukade",
+      "content_sha256": "b55d47d1ff50b8801ec54bdcf58e65d0ac53670dbb293795bae9dfeba9d0a87a",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 732,
+      "label": "条件形",
+      "source_url": "https://takoboto.jp/bunpo/732"
+    },
+    {
+      "target_id": 780,
+      "label": "なら",
+      "source_url": "https://takoboto.jp/bunpo/780"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:32:13+00:00",
+  "response_sha256": "8df8db672244abe2705da178c2fa1fbd4659e6daebbeaa08d69567e8b9def92b",
+  "warnings": []
+}

@@ -1,0 +1,644 @@
+{
+  "schema_version": 2,
+  "id": 974,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/974/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "によると",
+  "romanized_label": "niyoruto",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "dc",
+  "meaning": "according to",
+  "meaning_example": "according to the news",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_974",
+      "body_text": "according to \n according to the news",
+      "body_html": "<span>according to</span> <br/> <span>according to the news</span>",
+      "credits_raw": "dc"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 3344,
+      "position": 0,
+      "japanese": "彼は自分の成功を、良い教育を受けたことによると考えた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae\"><span>自分の</span></a><a href=\"https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%82%92%e3%80%81\"><span>成功を、</span></a><a href=\"https://takoboto.jp/?q=%e8%89%af%e3%81%84\"><span>良い</span></a><a href=\"https://takoboto.jp/?q=%e6%95%99%e8%82%b2%e3%82%92\"><span>教育を</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%97%e3%81%91%e3%81%9f%e3%81%93%e3%81%a8\"><span>受けたこと</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8\"><strong>によると</strong></a><a href=\"https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%9f%e3%80%82\"><span>考えた。</span></a>",
+      "segments": [
+        {
+          "text": "彼は自分の成功を、良い教育を受けたこと",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "考えた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはじぶんのせいこうを、よいきょういくをうけたことによるとかんがえた。",
+      "credits_raw": "dc3",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He attributed his success to the good teaching he had received.",
+          "html": "<span>He </span><strong>attributed </strong><span>his success </span><strong>to </strong><span>the good teaching he had received. </span>",
+          "segments": [
+            {
+              "text": "He ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "attributed ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "his success ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the good teaching he had received. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 50,
+      "position": 1,
+      "japanese": "友達の話しによればあの映画はとても面白いということです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%81%ae\"><span>友達の</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1%e3%81%97\"><span>話し</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8c%e3%81%b0\"><strong>によれば</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae\"><span>あの</span></a><a href=\"https://takoboto.jp/?q=%e6%98%a0%e7%94%bb%e3%81%af%e3%81%a8%e3%81%a6%e3%82%82\"><span>映画はとても</span></a><a href=\"https://takoboto.jp/?q=%e9%9d%a2%e7%99%bd%e3%81%84%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99%e3%80%82\"><span>面白いということです。</span></a>",
+      "segments": [
+        {
+          "text": "友達の話し",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によれば",
+          "grammar_highlight": true
+        },
+        {
+          "text": "あの映画はとても面白いということです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ともだちのはなしによればあのえいがはとてもおもしろいということです。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "According to what my friend said, that movie is very interesting.",
+          "html": "<strong>According to </strong><span>what my friend said, that movie is very interesting. </span>",
+          "segments": [
+            {
+              "text": "According to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "what my friend said, that movie is very interesting. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1204,
+      "position": 2,
+      "japanese": "米国NBC News、ロイターなどの報道によると、ブッシュ米大統領が、新しい宇宙探査計画の発表を準備しているとのことだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%b1%b3%e5%9b%bdNBC+News%e3%80%81%e3%83%ad%e3%82%a4%e3%82%bf%e3%83%bc%e3%81%aa%e3%81%a9%e3%81%ae\"><span>米国NBC News、ロイターなどの</span></a><a href=\"https://takoboto.jp/?q=%e5%a0%b1%e9%81%93\"><span>報道</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8\"><strong>によると</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%83%96%e3%83%83%e3%82%b7%e3%83%a5\"><span>、ブッシュ</span></a><a href=\"https://takoboto.jp/?q=%e7%b1%b3%e5%a4%a7%e7%b5%b1%e9%a0%98%e3%81%8c%e3%80%81\"><span>米大統領が、</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84\"><span>新しい</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%87%e5%ae%99%e6%8e%a2%e6%9f%bb%e8%a8%88%e7%94%bb%e3%81%ae\"><span>宇宙探査計画の</span></a><a href=\"https://takoboto.jp/?q=%e7%99%ba%e8%a1%a8%e3%82%92\"><span>発表を</span></a><a href=\"https://takoboto.jp/?q=%e6%ba%96%e5%82%99%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%a8%e3%81%ae%e3%81%93%e3%81%a8%e3%81%a0%e3%80%82\"><span>準備しているとのことだ。</span></a>",
+      "segments": [
+        {
+          "text": "米国NBC News、ロイターなどの報道",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、ブッシュ米大統領が、新しい宇宙探査計画の発表を準備しているとのことだ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "べいこく、ロイターなどのほうどうによると、ブッシュべいだいとうりょうが、あたらしいうちゅうたんさけいかくのはっぴょうをじゅんびしているとのことだ。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "According to America's NBC News, Reuters and such news agencies US President Bush is in the process of preparing an anouncement of a new plan for space exploration",
+          "html": "<strong>According to </strong><span>America's NBC News, Reuters and such news agencies US President Bush is in the process of preparing an anouncement of a new plan for space exploration </span>",
+          "segments": [
+            {
+              "text": "According to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "America's NBC News, Reuters and such news agencies US President Bush is in the process of preparing an anouncement of a new plan for space exploration ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3342,
+      "position": 3,
+      "japanese": "電灯の発明はエジソンによるとされている。によるとされている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%9b%bb%e7%81%af%e3%81%ae\"><span>電灯の</span></a><a href=\"https://takoboto.jp/?q=%e7%99%ba%e6%98%8e%e3%81%af%e3%82%a8%e3%82%b8%e3%82%bd%e3%83%b3%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8%e3%81%95%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>発明はエジソンによるとされている。</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8\"><strong>によると</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%95%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>されている。</span></a>",
+      "segments": [
+        {
+          "text": "電灯の発明はエジソンによるとされている。",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "されている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "でんとうのはつめいはによるとされている。によるとされている。",
+      "credits_raw": "dc3",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The invention of electric light is accredited to Edison.",
+          "html": "<span>The invention of electric light is accredited to Edison. </span>",
+          "segments": [
+            {
+              "text": "The invention of electric light is accredited to Edison. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3343,
+      "position": 4,
+      "japanese": "彼の概算によると家の新築費用は３０００万円です。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae\"><span>彼の</span></a><a href=\"https://takoboto.jp/?q=%e6%a6%82%e7%ae%97\"><span>概算</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8\"><strong>によると</strong></a><a href=\"https://takoboto.jp/?q=%e5%ae%b6%e3%81%ae\"><span>家の</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b0%e7%af%89%e8%b2%bb%e7%94%a8%e3%81%af\"><span>新築費用は</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%93%ef%bc%90%ef%bc%90%ef%bc%90%e4%b8%87%e5%86%86%e3%81%a7%e3%81%99%e3%80%82\"><span>３０００万円です。</span></a>",
+      "segments": [
+        {
+          "text": "彼の概算",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "家の新築費用は３０００万円です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれのがいさんによるといえのしんちくひようは３０００まんえんです。",
+      "credits_raw": "dc3",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He estimates that the new house will cost roughly thirty million yen.",
+          "html": "<span>He estimates that the new house will cost roughly thirty million yen. </span>",
+          "segments": [
+            {
+              "text": "He estimates that the new house will cost roughly thirty million yen. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3345,
+      "position": 5,
+      "japanese": "彼らが行った調査によると、アメリカ人は日本に興味を持っていないことがわかる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%82%89%e3%81%8c\"><span>彼らが</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f\"><span>行った</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%bf%e6%9f%bb\"><span>調査</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8\"><strong>によると</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab\"><span>、アメリカ</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%af\"><span>人は</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ab\"><span>日本に</span></a><a href=\"https://takoboto.jp/?q=%e8%88%88%e5%91%b3%e3%82%92\"><span>興味を</span></a><a href=\"https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%8c%e3%82%8f%e3%81%8b%e3%82%8b%e3%80%82\"><span>持っていないことがわかる。</span></a>",
+      "segments": [
+        {
+          "text": "彼らが行った調査",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、アメリカ人は日本に興味を持っていないことがわかる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれらがおこなったちょうさによると、アメリカじんはにほんにきょうみをもっていないことがわかる。",
+      "credits_raw": "dc3",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The research done by them shows that Americans are not interested in Japan.",
+          "html": "<span>The research done by them shows that Americans are not interested in Japan. </span>",
+          "segments": [
+            {
+              "text": "The research done by them shows that Americans are not interested in Japan. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3346,
+      "position": 6,
+      "japanese": "彼らの話によると、あの男の子は歌がうまいらしい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%82%89%e3%81%ae\"><span>彼らの</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1\"><span>話</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8\"><strong>によると</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%82%e3%81%ae\"><span>、あの</span></a><a href=\"https://takoboto.jp/?q=%e7%94%b7%e3%81%ae\"><span>男の</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e3%81%af\"><span>子は</span></a><a href=\"https://takoboto.jp/?q=%e6%ad%8c%e3%81%8c%e3%81%86%e3%81%be%e3%81%84%e3%82%89%e3%81%97%e3%81%84%e3%80%82\"><span>歌がうまいらしい。</span></a>",
+      "segments": [
+        {
+          "text": "彼らの話",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、あの男の子は歌がうまいらしい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれらのはなしによると、あのおとこのこはうたがうまいらしい。",
+      "credits_raw": "dc3",
+      "translations": [
+        {
+          "language": "en",
+          "text": "According to their opinions, that boy is a very good singer",
+          "html": "<span>According to their opinions, that boy is a very good singer </span>",
+          "segments": [
+            {
+              "text": "According to their opinions, that boy is a very good singer ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3347,
+      "position": 7,
+      "japanese": "副社長によると、会社はいまだに外国の会社から契約をもらっていない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%89%af%e7%a4%be%e9%95%b7\"><span>副社長</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8\"><strong>によると</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%af%e3%81%84%e3%81%be%e3%81%a0%e3%81%ab\"><span>会社はいまだに</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%96%e5%9b%bd%e3%81%ae\"><span>外国の</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%8b%e3%82%89\"><span>会社から</span></a><a href=\"https://takoboto.jp/?q=%e5%a5%91%e7%b4%84%e3%82%92%e3%82%82%e3%82%89%e3%81%a3%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%80%82\"><span>契約をもらっていない。</span></a>",
+      "segments": [
+        {
+          "text": "副社長",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、会社はいまだに外国の会社から契約をもらっていない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ふくしゃちょうによると、かいしゃはいまだにがいこくのかいしゃからけいやくをもらっていない。",
+      "credits_raw": "dc3",
+      "translations": [
+        {
+          "language": "en",
+          "text": "According to the vice president, the company has yet to receive a contract from a foreign company.",
+          "html": "<span>According to the vice president, the company has yet to receive a contract from a foreign company. </span>",
+          "segments": [
+            {
+              "text": "According to the vice president, the company has yet to receive a contract from a foreign company. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3348,
+      "position": 8,
+      "japanese": "聞いたところによると彼らの結婚は破綻をきたしているらしいよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%9f%e3%81%a8%e3%81%93%e3%82%8d\"><span>聞いたところ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8\"><strong>によると</strong></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%82%89%e3%81%ae\"><span>彼らの</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%90%e5%a9%9a%e3%81%af\"><span>結婚は</span></a><a href=\"https://takoboto.jp/?q=%e7%a0%b4%e7%b6%bb%e3%82%92%e3%81%8d%e3%81%9f%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%82%89%e3%81%97%e3%81%84%e3%82%88%e3%80%82\"><span>破綻をきたしているらしいよ。</span></a>",
+      "segments": [
+        {
+          "text": "聞いたところ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "彼らの結婚は破綻をきたしているらしいよ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きいたところによるとかれらのけっこんははたんをきたしているらしいよ。",
+      "credits_raw": "dc3",
+      "translations": [
+        {
+          "language": "en",
+          "text": "From what I've heard, their marriage is on the rocks.",
+          "html": "<span>From what I've heard, their marriage is on the rocks. </span>",
+          "segments": [
+            {
+              "text": "From what I've heard, their marriage is on the rocks. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6742,
+      "position": 9,
+      "japanese": "医者の話によると、この病気はすぐによくなるというものではないらしい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8c%bb%e8%80%85%e3%81%ae\"><span>医者の</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1\"><span>話</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8\"><strong>によると</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%93%e3%81%ae\"><span>、この</span></a><a href=\"https://takoboto.jp/?q=%e7%97%85%e6%b0%97%e3%81%af%e3%81%99%e3%81%90%e3%81%ab%e3%82%88%e3%81%8f%e3%81%aa%e3%82%8b%e3%81%a8%e3%81%84%e3%81%86%e3%82%82%e3%81%ae%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%82%89%e3%81%97%e3%81%84%e3%80%82\"><span>病気はすぐによくなるというものではないらしい。</span></a>",
+      "segments": [
+        {
+          "text": "医者の話",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、この病気はすぐによくなるというものではないらしい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いしゃのはなしによると、このびょうきはすぐによくなるというものではないらしい。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "According to what the doctor said, this illness doesn't seem to be one you can recover from quickly.",
+          "html": "<strong>According to </strong><span>what the doctor said, </span><span>this illness doesn't seem to be one you can recover from quickly. </span>",
+          "segments": [
+            {
+              "text": "According to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "what the doctor said, this illness doesn't seem to be one you can recover from quickly. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8542,
+      "position": 10,
+      "japanese": "報告書によると、この病院の患者の３分の１は１２歳以下だった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a0%b1%e5%91%8a%e6%9b%b8\"><span>報告書</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8\"><strong>によると</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%93%e3%81%ae\"><span>、この</span></a><a href=\"https://takoboto.jp/?q=%e7%97%85%e9%99%a2%e3%81%ae\"><span>病院の</span></a><a href=\"https://takoboto.jp/?q=%e6%82%a3%e8%80%85%e3%81%ae\"><span>患者の</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%93%e5%88%86%e3%81%ae\"><span>３分の</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%91%e3%81%af\"><span>１は</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%91%ef%bc%92%e6%ad%b3%e4%bb%a5%e4%b8%8b%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82\"><span>１２歳以下だった。</span></a>",
+      "segments": [
+        {
+          "text": "報告書",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、この病院の患者の３分の１は１２歳以下だった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ほうこくしょによると、このびょういんのかんじゃの３ぶんの１は１２さいいかだった。",
+      "credits_raw": "pimbimsys",
+      "translations": [
+        {
+          "language": "en",
+          "text": "According to the report, a third of the patients in this hospital were under 12 years of age.",
+          "html": "<span>According to the report, a third of the patients in this hospital were under 12 years of age. </span>",
+          "segments": [
+            {
+              "text": "According to the report, a third of the patients in this hospital were under 12 years of age. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "(person/source) によると (information)\naccording to (person), (information)\n\n彼によると、明日は雨\nAccording to him, it will rain tomorrow\n\n---\nDon't get confused with によります [niyotte-2] which means depending on.\n\n天気によっては来る\ndepending on the weather, I will come\n\n天気予報によると、明日は雨\naccording to the weather report, it will rain tomorrow",
+      "html": "(person/source) によると (information)<br/>according to (person), (information)<br/><br/>彼によると、明日は雨<br/>According to him, it will rain tomorrow<br/><br/>---<br/>Don't get confused with によります [niyotte-2] which means depending on.<br/><br/>天気によっては来る<br/>depending on the weather, I will come<br/><br/>天気予報によると、明日は雨<br/>according to the weather report, it will rain tomorrow",
+      "credits_raw": "dc",
+      "content_sha256": "7958ad39916a7cba6e26b38838d08bf873e359178339bf66524cee5f95bd090f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "how about:\n\n?　niyoruto =\n \"according to..\" (eg a person who said something) \n\n?　nioujite =\n according to a certain condition (eg according to how strong you feel... do X or Y). Guess this is more like \"depending on/according to (your mood)\"\n\ncan niyoruto be used for the same second meaning?\n体力 によると、運動をして下さい。\nexercise [according to] your strength",
+      "html": "how about:<br/><br/>?　niyoruto =<br/> \"according to..\" (eg a person who said something) <br/><br/>?　nioujite =<br/> according to a certain condition (eg according to how strong you feel... do X or Y). Guess this is more like \"depending on/according to (your mood)\"<br/><br/>can niyoruto be used for the same second meaning?<br/>体力 によると、運動をして下さい。<br/>exercise [according to] your strength",
+      "credits_raw": "dc",
+      "content_sha256": "74cabaad9ded3948b6554fda1f4e896368856d968a4576d3e90a648604d102ad",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "体力によると、is weird.",
+      "html": "体力によると、is weird.",
+      "credits_raw": "Miki",
+      "content_sha256": "a89516a75b36581b90af9e504f32187dedc182a5204530985ae29f529c9fc5ce",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "I don't think 'nioujite' is that close in meaning.",
+      "html": "I don't think 'nioujite' is that close in meaning.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "e776a1a44593c3d1169bc356be01bd64860b17d2a8d2e2ec30562401014811fc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "I agree with Amatuka.",
+      "html": "I agree with Amatuka.",
+      "credits_raw": "Miki",
+      "content_sha256": "d446092ae9a7406d0e51abb81d19cff2aac5bbdb2533bbcc1ae2614939d33ef6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "in response to that tairyoku ni yoruto;\nhow about 体力の限界の内に、どんどん運動をして下さい",
+      "html": "in response to that tairyoku ni yoruto;<br/>how about 体力の限界の内に、どんどん運動をして下さい",
+      "credits_raw": "Snake",
+      "content_sha256": "7d0899545b0e85573b55bea4eb6705982db187c9dfaea3307c9acf901b6382fb",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "The Japanese is not natural. This would be slight difference but would be better. 体力の限度内（げんどない）で、どんどん運動してください。or できるだけ運動をして下さい。This would be used when a doctor advise a patient how to recover faster.",
+      "html": "The Japanese is not natural. This would be slight difference but would be better. 体力の限度内（げんどない）で、どんどん運動してください。or できるだけ運動をして下さい。This would be used when a doctor advise a patient how to recover faster.",
+      "credits_raw": "Miki",
+      "content_sha256": "f574aeccb23256db166066d35f72660fff3ce714a9fa7513635f60191940a20c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "First example : によれば is used much as によると, but obviously doesn't have quite the same kana ;-)",
+      "html": "First example : によれば is used much as によると, but obviously doesn't have quite the same kana ;-)",
+      "credits_raw": "Amatuka",
+      "content_sha256": "0273ac1185743ade7d22c2b7a81e02f4c4bcb817223078ebc70d08fc5d60a624",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "hmm, maybe \nniyoruto: according to a persons statement\n\"according to fred/the news/your mum...\"\n\nnioujite: according to a condition, or situation\n\"according to your certificate/the rules/whats written here...\"",
+      "html": "hmm, maybe <br/>niyoruto: according to a persons statement<br/>\"according to fred/the news/your mum...\"<br/><br/>nioujite: according to a condition, or situation<br/>\"according to your certificate/the rules/whats written here...\"",
+      "credits_raw": "dc",
+      "content_sha256": "bda9271563c34d511d4746fd47a7a0818f21fe9e22cb270bafdf164a83ad30cd",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "maybe nioujite is more used for measurable items that vary. \n(your age | air pressure | time of day) nioujite\n\nand niyoruto is more reports/information\n(your friend | the news | that report) ni yoruto\n\n... ?",
+      "html": "maybe nioujite is more used for measurable items that vary. <br/>(your age | air pressure | time of day) nioujite<br/><br/>and niyoruto is more reports/information<br/>(your friend | the news | that report) ni yoruto<br/><br/>... ?",
+      "credits_raw": "dc",
+      "content_sha256": "034327e87bca10c628abacaaf42989543af3569e9920b841ec953b2ce760d981",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "に応じて means \"in step with\" or \"in response to\" and that is quite different from によると, which simply denotes what you are describing is a hearsay.",
+      "html": "に応じて means \"in step with\" or \"in response to\" and that is quite different from によると, which simply denotes what you are describing is a hearsay.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "453300f985cba497bedf01b1792d2efe19d9eb142a9fa30353b2c742e1ab6f9d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "i would like to ask about the structure of the sentence in which \"によると”has the meaning\"according to\". In vietnam school, i studied its tag is \"そうです”or \"ようです”and i seached in this webpage but i cann't find it. please explain it to me. thank you very much.",
+      "html": "i would like to ask about the structure of the sentence in which \"によると”has the meaning\"according to\". In vietnam school, i studied its tag is \"そうです”or \"ようです”and i seached in this webpage but i cann't find it. please explain it to me. thank you very much.",
+      "credits_raw": "uyen",
+      "content_sha256": "eae3bb768f24ff84cfef05532972ac81b10103204da314e106c8e46c51fccefc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "ex#3342 (by), #3344 (based on) these によると are not \"accodring to\".",
+      "html": "ex#3342 (by), #3344 (based on) these によると are not \"accodring to\".",
+      "credits_raw": "Miki",
+      "content_sha256": "e0da0493c5630a3d07ae16f48ff0defa83b74e5194bb6133550a8d0a994e0ad5",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "uyen eg #50 you can also say 友だちの話によれば、あの映画はとても面白いそうです。",
+      "html": "uyen eg #50 you can also say 友だちの話によれば、あの映画はとても面白いそうです。",
+      "credits_raw": "Miki",
+      "content_sha256": "61ed9d888f143a1a3e72bb52715cc58becdc56c5c030416e1b490da1f3ec1938",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "Is it ok to add によれば under the notes/examples as well? (There's currently no entry for it).",
+      "html": "Is it ok to add によれば under the notes/examples as well? (There's currently no entry for it).",
+      "credits_raw": "nadine",
+      "content_sha256": "cc816985b0d6d39f5e35ace8da7a3a506fdbe57087f27effcb8425912d86dc31",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 15,
+      "source_id": null,
+      "text": "One thing which I've learnt, but never really understood is that:\n先生の話によると is correct, but \n先生によると is wrong.\nMay I ask if there's any explanation for this?",
+      "html": "One thing which I've learnt, but never really understood is that:<br/>先生の話によると is correct, but <br/>先生によると is wrong.<br/>May I ask if there's any explanation for this?",
+      "credits_raw": "wribbit",
+      "content_sha256": "f84b43ee0f7587675b3102cb1cbb8a9e9c91f6b4f6d80a3871cea122ae297b63",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 975,
+      "label": "に応じて、に応じた",
+      "source_url": "https://takoboto.jp/bunpo/975"
+    },
+    {
+      "target_id": 1249,
+      "label": "によって",
+      "source_url": "https://takoboto.jp/bunpo/1249"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:33:31+00:00",
+  "response_sha256": "7cd89a730b9aa561f1de1e18e143fdba7bf774add6ffe586b9e3ae6efe706e89",
+  "warnings": []
+}

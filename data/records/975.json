@@ -1,0 +1,498 @@
+{
+  "schema_version": 2,
+  "id": 975,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/975/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "に応じて、に応じた",
+  "romanized_label": "nioujite",
+  "alternate_forms": [
+    "におうじて"
+  ],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "commensurate with, accordance with, depending on",
+  "meaning_example": "exercise according to your fitness level",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_975",
+      "body_text": "commensurate with, accordance with, depending on \n exercise according to your fitness level",
+      "body_html": "<span>commensurate with, accordance with, depending on</span> <br/> <span>exercise according to your fitness level</span>",
+      "credits_raw": "dc"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 479,
+      "position": 0,
+      "japanese": "世の中のお金の量であるマネーサプライは、経済活動の大きさに応じて伸び縮みします。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%b8%96%e3%81%ae\"><span>世の</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%ad%e3%81%ae%e3%81%8a\"><span>中のお</span></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e3%81%ae\"><span>金の</span></a><a href=\"https://takoboto.jp/?q=%e9%87%8f%e3%81%a7%e3%81%82%e3%82%8b%e3%83%9e%e3%83%8d%e3%83%bc%e3%82%b5%e3%83%97%e3%83%a9%e3%82%a4%e3%81%af%e3%80%81\"><span>量であるマネーサプライは、</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%8c%e6%b8%88%e6%b4%bb%e5%8b%95%e3%81%ae\"><span>経済活動の</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e3%81%8d%e3%81%95\"><span>大きさ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e5%bf%9c%e3%81%98%e3%81%a6\"><strong>に応じて</strong></a><a href=\"https://takoboto.jp/?q=%e4%bc%b8%e3%81%b3\"><span>伸び</span></a><a href=\"https://takoboto.jp/?q=%e7%b8%ae%e3%81%bf%e3%81%97%e3%81%be%e3%81%99%e3%80%82\"><span>縮みします。</span></a>",
+      "segments": [
+        {
+          "text": "世の中のお金の量であるマネーサプライは、経済活動の大きさ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に応じて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "伸び縮みします。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "よのなかのおかねのりょうであるマネーサプライは、けいざいかつどうのおおきさにおうじてのびちぢみします。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Money supply - the volume of money in the world - will, dependent on the size of economic activity, grow and shrink.",
+          "html": "<span>Money supply - the volume of money in the world - will, </span><strong>dependent on </strong><span>the size of economic activity, grow and shrink. </span>",
+          "segments": [
+            {
+              "text": "Money supply - the volume of money in the world - will, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "dependent on ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the size of economic activity, grow and shrink. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1205,
+      "position": 1,
+      "japanese": "車の速さに応じてガソリンの消費量が変わる",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%bb%8a%e3%81%ae\"><span>車の</span></a><a href=\"https://takoboto.jp/?q=%e9%80%9f%e3%81%95\"><span>速さ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e5%bf%9c%e3%81%98%e3%81%a6\"><strong>に応じて</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%ac%e3%82%bd%e3%83%aa%e3%83%b3%e3%81%ae\"><span>ガソリンの</span></a><a href=\"https://takoboto.jp/?q=%e6%b6%88%e8%b2%bb%e9%87%8f%e3%81%8c\"><span>消費量が</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%89%e3%82%8f%e3%82%8b\"><span>変わる</span></a>",
+      "segments": [
+        {
+          "text": "車の速さ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に応じて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ガソリンの消費量が変わる",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "くるまのはやさにおうじてガソリンのしょうひりょうがかわる",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The consumption of petrol is dependent on your driving speed.",
+          "html": "<span>The consumption of petrol </span><strong>is dependent </strong><span>on your driving speed. </span>",
+          "segments": [
+            {
+              "text": "The consumption of petrol ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "is dependent ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "on your driving speed. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8341,
+      "position": 2,
+      "japanese": "彼の招待に応じてそのディナーへ出席した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae\"><span>彼の</span></a><a href=\"https://takoboto.jp/?q=%e6%8b%9b%e5%be%85%e3%81%ab\"><span>招待に</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%9c%e3%81%98%e3%81%a6%e3%81%9d%e3%81%ae%e3%83%87%e3%82%a3%e3%83%8a%e3%83%bc%e3%81%b8\"><span>応じてそのディナーへ</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e5%b8%ad%e3%81%97%e3%81%9f%e3%80%82\"><span>出席した。</span></a>",
+      "segments": [
+        {
+          "text": "彼の招待に応じてそのディナーへ出席した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれのしょうたいにおうじてそのディナーへしゅっせきした。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I attended the dinner at his invitation.",
+          "html": "<span>I attended the dinner at his invitation. </span>",
+          "segments": [
+            {
+              "text": "I attended the dinner at his invitation. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8342,
+      "position": 3,
+      "japanese": "君がする仕事の量に応じて給料を払おう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%8c%e3%81%99%e3%82%8b\"><span>君がする</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%ae\"><span>仕事の</span></a><a href=\"https://takoboto.jp/?q=%e9%87%8f%e3%81%ab\"><span>量に</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%9c%e3%81%98%e3%81%a6\"><span>応じて</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%a6%e6%96%99%e3%82%92\"><span>給料を</span></a><a href=\"https://takoboto.jp/?q=%e6%89%95%e3%81%8a%e3%81%86%e3%80%82\"><span>払おう。</span></a>",
+      "segments": [
+        {
+          "text": "君がする仕事の量に応じて給料を払おう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きみがするしごとのりょうにおうじてきゅうりょうをはらおう。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We will pay you according to the amount of work you do.",
+          "html": "<span>We will pay you according to the amount of work you do. </span>",
+          "segments": [
+            {
+              "text": "We will pay you according to the amount of work you do. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8343,
+      "position": 4,
+      "japanese": "彼らはリンゴを大きさと形に応じて等級づけした。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%82%89%e3%81%af%e3%83%aa%e3%83%b3%e3%82%b4%e3%82%92\"><span>彼らはリンゴを</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e3%81%8d%e3%81%95%e3%81%a8\"><span>大きさと</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%a2%e3%81%ab\"><span>形に</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%9c%e3%81%98%e3%81%a6\"><span>応じて</span></a><a href=\"https://takoboto.jp/?q=%e7%ad%89%e7%b4%9a%e3%81%a5%e3%81%91%e3%81%97%e3%81%9f%e3%80%82\"><span>等級づけした。</span></a>",
+      "segments": [
+        {
+          "text": "彼らはリンゴを大きさと形に応じて等級づけした。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれらはリンゴをおおきさとかたちにおうじてとうきゅうづけした。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "They graded the apples as to size a shape.",
+          "html": "<span>They graded the apples as to size a shape. </span>",
+          "segments": [
+            {
+              "text": "They graded the apples as to size a shape. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6735,
+      "position": 5,
+      "japanese": "みなさんのご希望におうじて商品を生産していくつもりです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%bf%e3%81%aa%e3%81%95%e3%82%93%e3%81%ae\"><span>みなさんの</span></a><a href=\"https://takoboto.jp/?q=%e3%81%94\"><span>ご</span></a><a href=\"https://takoboto.jp/?q=%e5%b8%8c%e6%9c%9b\"><span>希望</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%86%e3%81%98%e3%81%a6\"><strong>におうじて</strong></a><a href=\"https://takoboto.jp/?q=%e5%95%86%e5%93%81%e3%82%92\"><span>商品を</span></a><a href=\"https://takoboto.jp/?q=%e7%94%9f%e7%94%a3%e3%81%97%e3%81%a6%e3%81%84%e3%81%8f%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a7%e3%81%99%e3%80%82\"><span>生産していくつもりです。</span></a>",
+      "segments": [
+        {
+          "text": "みなさんのご希望",
+          "grammar_highlight": false
+        },
+        {
+          "text": "におうじて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "商品を生産していくつもりです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "みなさんのごきぼうにおうじてしょうひんをせいさんしていくつもりです。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We serve how many goods we produce depending on the demand of all the people.",
+          "html": "<span>We serve how many goods we produce </span><strong>depending on </strong><span>the demand </span><span>of all the people. </span>",
+          "segments": [
+            {
+              "text": "We serve how many goods we produce ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "depending on ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the demand of all the people. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "に応じて]has these meanings,\n[depending on], [in accordance with], [in answer to].\n\n体力に応じて（depending on）\n（ex）あなたの体力に応じて走るスピードを変えましょう。\n Depending on your physical fitness,change your running speed.\n\n\n命令に応じて（in accordance with）\n（ex）上司の命令に応じてその計画を変更した。\n We changed the plan in accordance with boss's instructions.\n\n質問に応じて(in answer to)\n（ex）彼の質問に応じて、彼女はこう言った。\n She said that in answer to his question.\n 「応」＝「答」",
+      "html": "に応じて]has these meanings,<br/>[depending on], [in accordance with], [in answer to].<br/><br/>体力に応じて（depending on）<br/>（ex）あなたの体力に応じて走るスピードを変えましょう。<br/> Depending on your physical fitness,change your running speed.<br/><br/><br/>命令に応じて（in accordance with）<br/>（ex）上司の命令に応じてその計画を変更した。<br/> We changed the plan in accordance with boss's instructions.<br/><br/>質問に応じて(in answer to)<br/>（ex）彼の質問に応じて、彼女はこう言った。<br/> She said that in answer to his question.<br/> 「応」＝「答」",
+      "credits_raw": "dc",
+      "content_sha256": "79900229218fc4127203233054255218280e575ffb9fb85a8f77cdcd97c7a768",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "usage\n\nnoun + nioujite \n体力に応じて\n命令に応じて\n\nwhen with adjectives, you add -sa after the adjective to turn it into a type of noun.\neg \n 高い high\n→高さ high-ness/height\n\n高<b>さ</b>に応じて depending on your height\n速<b>さ</b>に応じて depending on your speed\n\nThis is for true adjectives, which are mostly \"na\" adjectives. for \"-i\" adjectives, you often can't use -sa as they dont turn into nouns.\n\nSee <a href=http://www.timwerx.net/language/jpadj/lesson1.htm>this page</a> for an explanation on true/quasi na/i adjectives.",
+      "html": "usage<br/><br/>noun + nioujite <br/>体力に応じて<br/>命令に応じて<br/><br/>when with adjectives, you add -sa after the adjective to turn it into a type of noun.<br/>eg <br/> 高い high<br/>→高さ high-ness/height<br/><br/>高&lt;b&gt;さ&lt;/b&gt;に応じて depending on your height<br/>速&lt;b&gt;さ&lt;/b&gt;に応じて depending on your speed<br/><br/>This is for true adjectives, which are mostly \"na\" adjectives. for \"-i\" adjectives, you often can't use -sa as they dont turn into nouns.<br/><br/>See &lt;a href=http://www.timwerx.net/language/jpadj/lesson1.htm&gt;this page&lt;/a&gt; for an explanation on true/quasi na/i adjectives.",
+      "credits_raw": "dc",
+      "content_sha256": "d3a9c7cd721b1729195b66915a32baae804fb9d15ab3f3a36f48ba1114794de0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "に応じて is for things that vary\n\ndepending on (noun/variable item), \nchange (verb)\n\ndepending on (your strength),\nchange (the way you you exercise)\n\ndepending on (your driving speed),\nit will change (your gas consumption)\n\nof course being japanese the sentence order is backward\n\n(noun/variable) ni oujite, (verb) \n(体力) に応じて (運動する）",
+      "html": "に応じて is for things that vary<br/><br/>depending on (noun/variable item), <br/>change (verb)<br/><br/>depending on (your strength),<br/>change (the way you you exercise)<br/><br/>depending on (your driving speed),<br/>it will change (your gas consumption)<br/><br/>of course being japanese the sentence order is backward<br/><br/>(noun/variable) ni oujite, (verb) <br/>(体力) に応じて (運動する）",
+      "credits_raw": "dc",
+      "content_sha256": "50e71b9f7b8bea41adae3686fc4622f94d29903429d607fe111371556a671cbe",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "As far as I can see the questions are \n1. Should に応じた have a separate entry?\n2. Is there a significant difference in meaning between に応じた and に応じて?\nDoes anybody have anything to add on those points?\nI'm tempted to say 'No, and No' for an easy life ;-)",
+      "html": "As far as I can see the questions are <br/>1. Should に応じた have a separate entry?<br/>2. Is there a significant difference in meaning between に応じた and に応じて?<br/>Does anybody have anything to add on those points?<br/>I'm tempted to say 'No, and No' for an easy life ;-)",
+      "credits_raw": "Amatuka",
+      "content_sha256": "3c18f36054e7e614c8876209813b86b28acc9e5abd56226a08c3d34c85f23da5",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "残った質問は二つだと思います。\n１．「に応じた」は別のページにあるべきですか。\n２．「に応じた」と「に応じて」の違いは少なくじゃありませんか。\n誰かがその点に意見がありますか。",
+      "html": "残った質問は二つだと思います。<br/>１．「に応じた」は別のページにあるべきですか。<br/>２．「に応じた」と「に応じて」の違いは少なくじゃありませんか。<br/>誰かがその点に意見がありますか。",
+      "credits_raw": "Amatuka",
+      "content_sha256": "b24de958451d2e218781c40db2d435e096bdce9ce84a6de6b42892fa7cb14399",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "When 「に応じた」and 「に応じて」are reaplced by each, the examples are still correct Japanese and mean almost the same.",
+      "html": "When 「に応じた」and 「に応じて」are reaplced by each, the examples are still correct Japanese and mean almost the same.",
+      "credits_raw": "Miki",
+      "content_sha256": "86ed42e2c58dbaf9efbd49affcbd50f2a9a6abf2645c5b4bdbdad89f8fdf3a6f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "OK, I'm changing this to just -1 (from -3) as there doesn't seem to be any real problem here.",
+      "html": "OK, I'm changing this to just -1 (from -3) as there doesn't seem to be any real problem here.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "72ed323ea30bb48c0b11c2be36b38ac6a97169826d1e805c350db061857fd317",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "When using に応じた it modifies the following noun. E.g. The literal translation of the second example would be...\n\"Don't over exert yourself, do the exercise that is commensurate to your physical strength.\"\n(e.g. 'exercise' (noun) is modified by (commensurate to your physical strength)).\nThis would probably be clearer with a different example.",
+      "html": "When using に応じた it modifies the following noun. E.g. The literal translation of the second example would be...<br/>\"Don't over exert yourself, do the exercise that is commensurate to your physical strength.\"<br/>(e.g. 'exercise' (noun) is modified by (commensurate to your physical strength)).<br/>This would probably be clearer with a different example.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "aee2d35f571e141172a51a632be58c6b0fa9ee09be44a192a40096ebd22b2484",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "Sometimes a better translation of 応じて could be \"commensurate with.\"",
+      "html": "Sometimes a better translation of 応じて could be \"commensurate with.\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "886b7236bc94152504a94b9ae9c913bc90da6a1ffc20c44810676a797c4fc76e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "I'll go along with that. It's a better match to the verb tense に応じた for the second example.",
+      "html": "I'll go along with that. It's a better match to the verb tense に応じた for the second example.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "adb4d7090733959aeeee655b43310936c4baa1a16326ed0d72cddf7fad725536",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "wow. thats a long english word too! maybe it makes it more memorable for this grammar example...",
+      "html": "wow. thats a long english word too! maybe it makes it more memorable for this grammar example...",
+      "credits_raw": "dc",
+      "content_sha256": "710608abda1f4943c60d9629edab7f7cec3fdd23190ca8cda1683ed21a4bfa89",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "Shouldn't the verb in the last example (#1205) be 縲悟､峨ｏ繧九?絞nstead of 縲御ｻ｣繧上ｋ縲??",
+      "html": "Shouldn't the verb in the last example (#1205) be 縲悟､峨ｏ繧九?絞nstead of 縲御ｻ｣繧上ｋ縲??",
+      "credits_raw": "Adam",
+      "content_sha256": "baf95b7532326e7bf9bd16713356849585ae393cac00c1e14c9d6d76c3348db6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "That turned out weird on my screen. What I meant to say was... In example #1205, shouldn't the verb be 「変わる」 Instead of 「代わる」？？",
+      "html": "That turned out weird on my screen. What I meant to say was... In example #1205, shouldn't the verb be 「変わる」 Instead of 「代わる」？？",
+      "credits_raw": "Adam",
+      "content_sha256": "8c918f8a17c228750472749cb9f6e2566de947e1cb0267f7729bf014359e82ef",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "I agree.",
+      "html": "I agree.",
+      "credits_raw": "Miki",
+      "content_sha256": "87debc50af7bee4b3b546152efee971d2c54bb9adc19849f6c93fa5b52aa63d7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "changed... btw anyone can edit the examples, so please do. (unless we have a bug, in which case let us know)",
+      "html": "changed... btw anyone can edit the examples, so please do. (unless we have a bug, in which case let us know)",
+      "credits_raw": "dc",
+      "content_sha256": "6e241f183c01e62725a1a2c3e0c3a9dc132c436061c81a2c845acea08c44c5f8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 15,
+      "source_id": null,
+      "text": "Is there a difference between に応じて and によって? Would I be able to say:\n特許のバリュウーに応じて、調査します。\n特許のバリュウーによって、調査します。\n[We'll]Investigate the patent depending on it's value.",
+      "html": "Is there a difference between に応じて and によって? Would I be able to say:<br/>特許のバリュウーに応じて、調査します。<br/>特許のバリュウーによって、調査します。<br/>[We'll]Investigate the patent depending on it's value.",
+      "credits_raw": "Nadine",
+      "content_sha256": "f8384fcea89b46537a8d40340bcc336e5fc6c7391efdc2fd62f7182b3495b735",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 16,
+      "source_id": null,
+      "text": "応じて has the connotation that the speaker has the discretion of applying his yardstick as to the value, whereas によって has the connotation of taking the value that has been set.",
+      "html": "応じて has the connotation that the speaker has the discretion of applying his yardstick as to the value, whereas によって has the connotation of taking the value that has been set.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "7cec7827b4c865452b3e5315b6ea7761447477580211858e10a822d2665d4f48",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 17,
+      "source_id": null,
+      "text": "I don`t want to sound like a redneck or anything, but I have spoken english my whole life and this is the first time I have seen commensurate. I`m sure its meaning matches very well with you examples, but using uncommon english is just as good as translating english in to archaic Japanese. even if you know what your saying no one else will.",
+      "html": "I don`t want to sound like a redneck or anything, but I have spoken english my whole life and this is the first time I have seen commensurate. I`m sure its meaning matches very well with you examples, but using uncommon english is just as good as translating english in to archaic Japanese. even if you know what your saying no one else will.",
+      "credits_raw": "tigert",
+      "content_sha256": "adbe3a74b5f28bb45d391ca2773244deccac4ae53845f96fbef374ff42c8031f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 18,
+      "source_id": null,
+      "text": "Well, I'm sure the second time you saw it, after having looked it up, you understood. Better to raise the bar for yourself than lower it for those who can't understand \"archaic\" English. ;)\n\n1. having the same measure; of equal extent or duration. \n2. corresponding in amount, magnitude, or degree: Your paycheck should be commensurate with the amount of time worked. \n3. proportionate; adequate. \n4. having a common measure; commensurable. \n\nIt's not just the meaning of the word, but also its usage. Just as you might not find commensurate in English vernacular, you won't find に応じて flying out of the mouth of a high school kid in Japan.",
+      "html": "Well, I'm sure the second time you saw it, after having looked it up, you understood. Better to raise the bar for yourself than lower it for those who can't understand \"archaic\" English. ;)<br/><br/>1. having the same measure; of equal extent or duration. <br/>2. corresponding in amount, magnitude, or degree: Your paycheck should be commensurate with the amount of time worked. <br/>3. proportionate; adequate. <br/>4. having a common measure; commensurable. <br/><br/>It's not just the meaning of the word, but also its usage. Just as you might not find commensurate in English vernacular, you won't find に応じて flying out of the mouth of a high school kid in Japan.",
+      "credits_raw": "Dekirukana",
+      "content_sha256": "ad246f73b8d0c2cee3395bff6fc2a927139088d9f8a35cc015392d6d4c116c5b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 19,
+      "source_id": null,
+      "text": "I disagree - に応じて is as common with the high school kids in Japan as \"according to\" or \"depending on\" is with kids in the good old U.S of A.\n\n\"raise the bar\" for what - so japs using this site can become frustrated when nobody understands what they are talking about. \n\ntigert is correct, you should delete \"commensurate\" and replace it with \"according to\".",
+      "html": "I disagree - に応じて is as common with the high school kids in Japan as \"according to\" or \"depending on\" is with kids in the good old U.S of A.<br/><br/>\"raise the bar\" for what - so japs using this site can become frustrated when nobody understands what they are talking about. <br/><br/>tigert is correct, you should delete \"commensurate\" and replace it with \"according to\".",
+      "credits_raw": "slopethisway",
+      "content_sha256": "3ada3502311139e39635f60298a166d4311381c16fc7f35bc8ce9b3638db8af5",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 20,
+      "source_id": null,
+      "text": "I can't speak for the US, but 'commensurate with' is fairly common in British/Irish English, particularly in job advertisements/interviews. In fact, I use it in the latter to dodge naming a figure when asked about salary expectations! Saying \"I'd expect a salary commensurate with my experience\" makes you sound intelligent too, another bonus in that situation!",
+      "html": "I can't speak for the US, but 'commensurate with' is fairly common in British/Irish English, particularly in job advertisements/interviews. In fact, I use it in the latter to dodge naming a figure when asked about salary expectations! Saying \"I'd expect a salary commensurate with my experience\" makes you sound intelligent too, another bonus in that situation!",
+      "credits_raw": "bullet1001",
+      "content_sha256": "5255cc98717dbd880a5217879d72083bbf18f8aa8a481c15d32d250ed85ed0b2",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 21,
+      "source_id": null,
+      "text": "I'm not even a native English speaker and I've seen \"commensurate\" a lot in job advertisements/contracts.",
+      "html": "I'm not even a native English speaker and I've seen \"commensurate\" a lot in job advertisements/contracts.",
+      "credits_raw": "thoakun",
+      "content_sha256": "d458d8235f7af734ee0273dc26e994c930a09f6a96159541e5e34c666d89c72c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 22,
+      "source_id": null,
+      "text": "Nobody uses \"commensurate\" it is more confusing.\nAlso don't over complicate this grammar point, *should be according to N ~ varies.*",
+      "html": "Nobody uses \"commensurate\" it is more confusing.<br/>Also don't over complicate this grammar point, *should be according to N ~ varies.*",
+      "credits_raw": "Stefan",
+      "content_sha256": "0e6a7cbe0227eb51ec8e00cdbb9f131a112fa041704ba3db519e02902438028a",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 974,
+      "label": "によると",
+      "source_url": "https://takoboto.jp/bunpo/974"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:42:13+00:00",
+  "response_sha256": "06be562fc4039fd261f821918c869096c6114ecef2a03f525de6f13f969c46b1",
+  "warnings": []
+}

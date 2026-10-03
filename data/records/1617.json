@@ -1,0 +1,648 @@
+{
+  "schema_version": 2,
+  "id": 1617,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1617/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "と同時に",
+  "romanized_label": "todoujini",
+  "alternate_forms": [
+    "とどうじに"
+  ],
+  "jlpt_level": 2,
+  "credits_raw": "kadoka66",
+  "meaning": "and at the same time",
+  "meaning_example": "He came in, and at the same time the bell rang. / 彼が入ってきた、それと同時にベルが鳴った。",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "ほぼ同時に",
+      "html": "ほぼ同時に"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1617",
+      "body_text": "and at the same time \n He came in, and at the same time the bell rang. / 彼が入ってきた、それと同時にベルが鳴った。 \n ほぼ同時に",
+      "body_html": "<span>and at the same time</span> <br/> <span>He came in, and at the same time the bell rang. / 彼が入ってきた、それと同時にベルが鳴った。</span> <br/> <span>ほぼ同時に</span>",
+      "credits_raw": "kadoka66"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 6377,
+      "position": 0,
+      "japanese": "彼は厳しいと同時に優しい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e5%8e%b3%e3%81%97%e3%81%84\"><span>厳しい</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e5%84%aa%e3%81%97%e3%81%84%e3%80%82\"><span>優しい。</span></a>",
+      "segments": [
+        {
+          "text": "彼は厳しい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "優しい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはきびしいとどうじにやさしい。",
+      "credits_raw": "kadoka66",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He is at once stern and tender.",
+          "html": "<span>He is </span><strong>at once </strong><span>stern </span><span>and tender. </span>",
+          "segments": [
+            {
+              "text": "He is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "at once ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "stern and tender. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6378,
+      "position": 1,
+      "japanese": "私たちがプラットホームに着くのと同時に電車が出てしまった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%9f%e3%81%a1%e3%81%8c%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%9b%e3%83%bc%e3%83%a0%e3%81%ab\"><span>私たちがプラットホームに</span></a><a href=\"https://takoboto.jp/?q=%e7%9d%80%e3%81%8f%e3%81%ae\"><span>着くの</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e9%9b%bb%e8%bb%8a%e3%81%8c\"><span>電車が</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82\"><span>出てしまった。</span></a>",
+      "segments": [
+        {
+          "text": "私たちがプラットホームに着くの",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "電車が出てしまった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしたちがプラットホームにつくのとどうじにでんしゃがでてしまった。",
+      "credits_raw": "kadoka66",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The train left just as we arrived at the platform.",
+          "html": "<span>The train left </span><strong>just as </strong><span>we </span><strong>arrived </strong><span>at the platform. </span>",
+          "segments": [
+            {
+              "text": "The train left ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "just as ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "we ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "arrived ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "at the platform. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6379,
+      "position": 2,
+      "japanese": "彼は科学者であると同時に音楽家でもある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e7%a7%91%e5%ad%a6%e8%80%85%e3%81%a7%e3%81%82%e3%82%8b\"><span>彼は科学者である</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e9%9f%b3%e6%a5%bd%e5%ae%b6%e3%81%a7%e3%82%82%e3%81%82%e3%82%8b%e3%80%82\"><span>音楽家でもある。</span></a>",
+      "segments": [
+        {
+          "text": "彼は科学者である",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "音楽家でもある。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはかがくしゃであるとどうじにおんがくかでもある。",
+      "credits_raw": "kadoka66",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He is a scientist and  musician.",
+          "html": "<span>He is a scientist </span><strong>and </strong><span> musician. </span>",
+          "segments": [
+            {
+              "text": "He is a scientist ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "and ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " musician. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6926,
+      "position": 3,
+      "japanese": "彼らは笑うと同時に泣いた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%82%89%e3%81%af\"><span>彼らは</span></a><a href=\"https://takoboto.jp/?q=%e7%ac%91%e3%81%86\"><span>笑う</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e6%b3%a3%e3%81%84%e3%81%9f%e3%80%82\"><span>泣いた。</span></a>",
+      "segments": [
+        {
+          "text": "彼らは笑う",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "泣いた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれらはわらうとどうじにないた。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "They laughed and cried at the same time.",
+          "html": "<span>They laughed </span><strong>and </strong><span>cried </span><strong>at the same time. </strong>",
+          "segments": [
+            {
+              "text": "They laughed ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "and ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "cried ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "at the same time. ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6928,
+      "position": 4,
+      "japanese": "生まれると同時に死は始まる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%94%9f%e3%81%be%e3%82%8c%e3%82%8b\"><span>生まれる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e6%ad%bb%e3%81%af\"><span>死は</span></a><a href=\"https://takoboto.jp/?q=%e5%a7%8b%e3%81%be%e3%82%8b%e3%80%82\"><span>始まる。</span></a>",
+      "segments": [
+        {
+          "text": "生まれる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "死は始まる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "うまれるとどうじにしははじまる。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "As soon as man is born, he begins to die.",
+          "html": "<strong>As soon as </strong><span>man </span><strong>is born, </strong><span>he begins to die. </span>",
+          "segments": [
+            {
+              "text": "As soon as ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "man ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "is born, ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "he begins to die. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6929,
+      "position": 5,
+      "japanese": "スポーツの逆説はスポーツが（人を）分けると同時に結びつけることだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%81%ae\"><span>スポーツの</span></a><a href=\"https://takoboto.jp/?q=%e9%80%86%e8%aa%ac%e3%81%af%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%81%8c\"><span>逆説はスポーツが</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%88%e4%ba%ba%e3%82%92\"><span>（人を</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%89\"><span>）</span></a><a href=\"https://takoboto.jp/?q=%e5%88%86%e3%81%91%e3%82%8b\"><span>分ける</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e7%b5%90%e3%81%b3%e3%81%a4%e3%81%91%e3%82%8b%e3%81%93%e3%81%a8%e3%81%a0%e3%80%82\"><span>結びつけることだ。</span></a>",
+      "segments": [
+        {
+          "text": "スポーツの逆説はスポーツが（人を）分ける",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "結びつけることだ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "スポーツのぎゃくせつはスポーツが（ひとを）わけるとどうじにむすびつけることだ。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The paradox of sport is that it bonds as it divides.",
+          "html": "<span>The paradox of sport is that it bonds </span><strong>as </strong><span>it divides. </span>",
+          "segments": [
+            {
+              "text": "The paradox of sport is that it bonds ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "as ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "it divides. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6930,
+      "position": 6,
+      "japanese": "知識は力であるが、それは善を行う力であるのと同時に、それと全く同じ程度に悪を行う力でもある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%9f%a5%e8%ad%98%e3%81%af\"><span>知識は</span></a><a href=\"https://takoboto.jp/?q=%e5%8a%9b%e3%81%a7%e3%81%82%e3%82%8b%e3%81%8c%e3%80%81%e3%81%9d%e3%82%8c%e3%81%af\"><span>力であるが、それは</span></a><a href=\"https://takoboto.jp/?q=%e5%96%84%e3%82%92\"><span>善を</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%86\"><span>行う</span></a><a href=\"https://takoboto.jp/?q=%e5%8a%9b%e3%81%a7%e3%81%82%e3%82%8b%e3%81%ae\"><span>力であるの</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%82%8c%e3%81%a8\"><span>、それと</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a8%e3%81%8f\"><span>全く</span></a><a href=\"https://takoboto.jp/?q=%e5%90%8c%e3%81%98\"><span>同じ</span></a><a href=\"https://takoboto.jp/?q=%e7%a8%8b%e5%ba%a6%e3%81%ab\"><span>程度に</span></a><a href=\"https://takoboto.jp/?q=%e6%82%aa%e3%82%92\"><span>悪を</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%86\"><span>行う</span></a><a href=\"https://takoboto.jp/?q=%e5%8a%9b%e3%81%a7%e3%82%82%e3%81%82%e3%82%8b%e3%80%82\"><span>力でもある。</span></a>",
+      "segments": [
+        {
+          "text": "知識は力であるが、それは善を行う力であるの",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、それと全く同じ程度に悪を行う力でもある。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ちしきはちからであるが、それはぜんをおこなうちからであるのとどうじに、それとまったくおなじていどにあくをおこなうちからでもある。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Knowledge is power, but it is power for evil just as much as for good.",
+          "html": "<span>Knowledge is power, but it is power for evil </span><strong>just as much as </strong><span>for good. </span>",
+          "segments": [
+            {
+              "text": "Knowledge is power, but it is power for evil ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "just as much as ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "for good. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8478,
+      "position": 7,
+      "japanese": "彼女の長所を認めるが、それと同時に欠点も目につく。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae\"><span>彼女の</span></a><a href=\"https://takoboto.jp/?q=%e9%95%b7%e6%89%80%e3%82%92\"><span>長所を</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%8d%e3%82%81%e3%82%8b%e3%81%8c%e3%80%81%e3%81%9d%e3%82%8c\"><span>認めるが、それ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e6%ac%a0%e7%82%b9%e3%82%82\"><span>欠点も</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%ae%e3%81%ab%e3%81%a4%e3%81%8f%e3%80%82\"><span>目につく。</span></a>",
+      "segments": [
+        {
+          "text": "彼女の長所を認めるが、それ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "欠点も目につく。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょのちょうしょをみとめるが、それとどうじにけってんもめにつく。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "While I admit her good points, I can see her bad.",
+          "html": "<span>While I admit her good points, I can see her bad. </span>",
+          "segments": [
+            {
+              "text": "While I admit her good points, I can see her bad. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8479,
+      "position": 8,
+      "japanese": "地震と同時に火事が発生した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%9c%b0%e9%9c%87\"><span>地震</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e7%81%ab%e4%ba%8b%e3%81%8c\"><span>火事が</span></a><a href=\"https://takoboto.jp/?q=%e7%99%ba%e7%94%9f%e3%81%97%e3%81%9f%e3%80%82\"><span>発生した。</span></a>",
+      "segments": [
+        {
+          "text": "地震",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "火事が発生した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "じしんとどうじにかじがはっせいした。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "A fire broke out along with the earthquake.",
+          "html": "<span>A fire broke out along with the earthquake. </span>",
+          "segments": [
+            {
+              "text": "A fire broke out along with the earthquake. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8480,
+      "position": 9,
+      "japanese": "彼らはチャイムが鳴ると同時に席を立った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%82%89%e3%81%af%e3%83%81%e3%83%a3%e3%82%a4%e3%83%a0%e3%81%8c\"><span>彼らはチャイムが</span></a><a href=\"https://takoboto.jp/?q=%e9%b3%b4%e3%82%8b\"><span>鳴る</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e5%b8%ad%e3%82%92\"><span>席を</span></a><a href=\"https://takoboto.jp/?q=%e7%ab%8b%e3%81%a3%e3%81%9f%e3%80%82\"><span>立った。</span></a>",
+      "segments": [
+        {
+          "text": "彼らはチャイムが鳴る",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "席を立った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれらはチャイムがなるとどうじにせきをたった。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The moment the chimes rang they got up from their seats.",
+          "html": "<span>The moment the chimes rang they got up from their seats. </span>",
+          "segments": [
+            {
+              "text": "The moment the chimes rang they got up from their seats. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6927,
+      "position": 10,
+      "japanese": "駅に着くと同時に彼女は母に電話した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%a7%85%e3%81%ab\"><span>駅に</span></a><a href=\"https://takoboto.jp/?q=%e7%9d%80%e3%81%8f\"><span>着く</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>彼女は</span></a><a href=\"https://takoboto.jp/?q=%e6%af%8d%e3%81%ab\"><span>母に</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%97%e3%81%9f%e3%80%82\"><span>電話した。</span></a>",
+      "segments": [
+        {
+          "text": "駅に着く",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "彼女は母に電話した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "えきにつくとどうじにかのじょはははにでんわした。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The moment she arrived at the station, she phoned her mother.",
+          "html": "<strong>The moment </strong><span>she arrived </span><span>at the station, she phoned her mother. </span>",
+          "segments": [
+            {
+              "text": "The moment ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "she arrived at the station, she phoned her mother. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6931,
+      "position": 11,
+      "japanese": "自分の意見も言うと同時にほかの人の考えもよく聞くことが大切だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae\"><span>自分の</span></a><a href=\"https://takoboto.jp/?q=%e6%84%8f%e8%a6%8b%e3%82%82\"><span>意見も</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%86\"><span>言う</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab\"><strong>と同時に</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%8b%e3%81%ae\"><span>ほかの</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%ae\"><span>人の</span></a><a href=\"https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%82%e3%82%88%e3%81%8f\"><span>考えもよく</span></a><a href=\"https://takoboto.jp/?q=%e8%81%9e%e3%81%8f%e3%81%93%e3%81%a8%e3%81%8c\"><span>聞くことが</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e5%88%87%e3%81%a0%e3%80%82\"><span>大切だ。</span></a>",
+      "segments": [
+        {
+          "text": "自分の意見も言う",
+          "grammar_highlight": false
+        },
+        {
+          "text": "と同時に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ほかの人の考えもよく聞くことが大切だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "じぶんのいけんもいうとどうじにほかのひとのかんがえもよくきくことがたいせつだ。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "To tell his own opinion and to listen to other people thoughts are both important.",
+          "html": "<span>To tell his own opinion </span><strong>and </strong><span>to listen to other people thoughts </span><strong>are both </strong><span>important. </span>",
+          "segments": [
+            {
+              "text": "To tell his own opinion ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "and ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "to listen to other people thoughts ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "are both ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "important. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "This grammar also gives the sense that X was not sure if action A had or hadn't occurred/started/finished before the subsequent action B commenced.",
+      "html": "This grammar also gives the sense that X was not sure if action A had or hadn't occurred/started/finished before the subsequent action B commenced.",
+      "credits_raw": "Groove",
+      "content_sha256": "b8e6807f8877b2163fe6c4b87707ce2e5a542ca6953c5bdd3fcceced5e14c514",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "This entry already exists at [kanaikanouchini]. We should move the examples to that entry and delete this one...",
+      "html": "This entry already exists at [kanaikanouchini]. We should move the examples to that entry and delete this one...",
+      "credits_raw": "yookoso",
+      "content_sha256": "a043de78f074e51f4ecd4c3245041a36062792a2b881654c59481fcbebf6e41e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Done. I give a second life to this repeated entry \n〜か〜ないかのうちに ([〜か〜ないかのうちに] )(ka nai ka no uchi ni)\n Meaning: No sooner had, ほぼ同時に\n Example: No sooner had the bell rung the students were in the classroom\n JLPT Level: 2\n Category: grammar\n Author: kadoka66\nchanging it to と同時に.",
+      "html": "Done. I give a second life to this repeated entry <br/>〜か〜ないかのうちに ([〜か〜ないかのうちに] )(ka nai ka no uchi ni)<br/> Meaning: No sooner had, ほぼ同時に<br/> Example: No sooner had the bell rung the students were in the classroom<br/> JLPT Level: 2<br/> Category: grammar<br/> Author: kadoka66<br/>changing it to と同時に.",
+      "credits_raw": "赤毛",
+      "content_sha256": "b51d6b2bb9693df929fedbc7cb26aa695b52a052467270c93a1acdbeda884044",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Can you say past tense casual verb +と同時に or is it strictly present casual verb form + と同時に? If so does the verb at the end dictate whether the sentence is past or present? Thanks in advance!",
+      "html": "Can you say past tense casual verb +と同時に or is it strictly present casual verb form + と同時に? If so does the verb at the end dictate whether the sentence is past or present? Thanks in advance!",
+      "credits_raw": "Lang_learner",
+      "content_sha256": "c5e84e8c9897368a532ba0c4a4825d43b5ca0814392bb856c00d91bfb82e1833",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1303,
+      "label": "や否や",
+      "source_url": "https://takoboto.jp/bunpo/1303"
+    },
+    {
+      "target_id": 543,
+      "label": "途端（に）",
+      "source_url": "https://takoboto.jp/bunpo/543"
+    },
+    {
+      "target_id": 816,
+      "label": "かどうかのうちに",
+      "source_url": "https://takoboto.jp/bunpo/816"
+    },
+    {
+      "target_id": 1309,
+      "label": "次第",
+      "source_url": "https://takoboto.jp/bunpo/1309"
+    },
+    {
+      "target_id": 1526,
+      "label": "なり",
+      "source_url": "https://takoboto.jp/bunpo/1526"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:41:43+00:00",
+  "response_sha256": "55c948639743964fada9752a470ef402eed2ae4926add3579e85bb6b3e412dfb",
+  "warnings": []
+}

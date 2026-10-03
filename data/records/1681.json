@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "id": 1681,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1681/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜ひいては",
+  "romanized_label": "hiitewa",
+  "alternate_forms": [],
+  "jlpt_level": null,
+  "credits_raw": "ZekkDistor",
+  "meaning": "which in turn",
+  "meaning_example": "This is good for [subject], which in turn is good for [subject]",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1681",
+      "body_text": "which in turn \n This is good for [subject], which in turn is good for [subject]",
+      "body_html": "<span>which in turn</span> <br/> <span>This is good for [subject], which in turn is good for [subject]</span>",
+      "credits_raw": "ZekkDistor"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 7077,
+      "position": 0,
+      "japanese": "それは母体に良く、ひいてはお腹の赤ちゃんにも良い。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af\"><span>それは</span></a><a href=\"https://takoboto.jp/?q=%e6%af%8d%e4%bd%93%e3%81%ab\"><span>母体に</span></a><a href=\"https://takoboto.jp/?q=%e8%89%af%e3%81%8f%e3%80%81\"><span>良く、</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b2%e3%81%84%e3%81%a6%e3%81%af\"><strong>ひいては</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e8%85%b9%e3%81%ae\"><span>腹の</span></a><a href=\"https://takoboto.jp/?q=%e8%b5%a4%e3%81%a1%e3%82%83%e3%82%93%e3%81%ab%e3%82%82\"><span>赤ちゃんにも</span></a><a href=\"https://takoboto.jp/?q=%e8%89%af%e3%81%84%e3%80%82\"><span>良い。</span></a>",
+      "segments": [
+        {
+          "text": "それは母体に良く、",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ひいては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "お腹の赤ちゃんにも良い。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "それはぼたいによく、ひいてはおなかのあかちゃんにもよい。",
+      "credits_raw": "ZekkDistor",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It is good for the mother's body, which in turn is good for her coming baby.",
+          "html": "<span>It is good for the mother's body, which in turn is good for her coming baby. </span>",
+          "segments": [
+            {
+              "text": "It is good for the mother's body, which in turn is good for her coming baby. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8832,
+      "position": 1,
+      "japanese": "ひいては国際化に繋がるのだ ろうか?",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%b2%e3%81%84%e3%81%a6%e3%81%af%e5%9b%bd%e9%9a%9b%e5%8c%96%e3%81%ab%e7%b9%8b%e3%81%8c%e3%82%8b%e3%81%ae%e3%81%a0+%e3%82%8d%e3%81%86%e3%81%8b%3f\"><span>ひいては国際化に繋がるのだ ろうか?</span></a>",
+      "segments": [
+        {
+          "text": "ひいては国際化に繋がるのだ ろうか?",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ひいてはこくさいかにつながるのだろうか",
+      "credits_raw": "BBJO",
+      "translations": [
+        {
+          "language": "en",
+          "text": "ENG Will this in turn lead to internationalization?",
+          "html": "<span>ENG Will this in turn lead to internationalization? </span>",
+          "segments": [
+            {
+              "text": "ENG Will this in turn lead to internationalization? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "probably 1kyu; I've never noted it before",
+      "html": "probably 1kyu; I've never noted it before",
+      "credits_raw": "claytonian",
+      "content_sha256": "759b2424670d050a3163b4e7bf413331203258e41db4d28c5d841b3a93932f47",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:47:14+00:00",
+  "response_sha256": "478d5d742a39eee324b7339e7a8f1af6e98d47ec4daa2fa38060909a4b47bd46",
+  "warnings": []
+}

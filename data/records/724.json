@@ -1,0 +1,378 @@
+{
+  "schema_version": 2,
+  "id": 724,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/724/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "けれども",
+  "romanized_label": "keredomo",
+  "alternate_forms": [],
+  "jlpt_level": 4,
+  "credits_raw": "Amatuka",
+  "meaning": "but, however",
+  "meaning_example": "It rained, but everybody enjoyed themselves.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_724",
+      "body_text": "but, however \n It rained, but everybody enjoyed themselves.",
+      "body_html": "<span>but, however</span> <br/> <span>It rained, but everybody enjoyed themselves.</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_724",
+      "body_text": "Sentence 1+けれども+Sentence 2",
+      "body_html": "<div><div><div>Sentence 1</div></div><div><div>+</div><div>けれども</div></div><div><div>+</div><div>Sentence 2</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Sentence 1 + けれども + Sentence 2"
+  ],
+  "examples": [
+    {
+      "source_id": 862,
+      "position": 0,
+      "japanese": "雨が降っていたけれども、みんなは楽しい時を過ごした。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c\"><span>雨が</span></a><a href=\"https://takoboto.jp/?q=%e9%99%8d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f\"><span>降っていた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%91%e3%82%8c%e3%81%a9%e3%82%82\"><strong>けれども</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%bf%e3%82%93%e3%81%aa%e3%81%af\"><span>、みんなは</span></a><a href=\"https://takoboto.jp/?q=%e6%a5%bd%e3%81%97%e3%81%84\"><span>楽しい</span></a><a href=\"https://takoboto.jp/?q=%e6%99%82%e3%82%92\"><span>時を</span></a><a href=\"https://takoboto.jp/?q=%e9%81%8e%e3%81%94%e3%81%97%e3%81%9f%e3%80%82+\"><span>過ごした。 </span></a>",
+      "segments": [
+        {
+          "text": "雨が降っていた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "けれども",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、みんなは楽しい時を過ごした。 ",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あめがふっていたけれども、みんなはたのしいときをすごした。",
+      "credits_raw": "Amatuka, Omar",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Although it rained, everyone had a good time.",
+          "html": "<strong>Although </strong><span>it rained, everyone had a good time. </span>",
+          "segments": [
+            {
+              "text": "Although ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "it rained, everyone had a good time. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 863,
+      "position": 1,
+      "japanese": "お引き受けしたいんですけれど・・・",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e5%bc%95%e3%81%8d\"><span>引き</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%97%e3%81%91%e3%81%97%e3%81%9f%e3%81%84%e3%82%93\"><span>受けしたいん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99\"><span>です</span></a><a href=\"https://takoboto.jp/?q=%e3%81%91%e3%82%8c%e3%81%a9\"><strong>けれど</strong></a><a href=\"https://takoboto.jp/?q=%e3%83%bb%e3%83%bb%e3%83%bb+\"><span>・・・ </span></a>",
+      "segments": [
+        {
+          "text": "お引き受けしたいんです",
+          "grammar_highlight": false
+        },
+        {
+          "text": "けれど",
+          "grammar_highlight": true
+        },
+        {
+          "text": "・・・ ",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おひきうけしたいんですけれど・・・",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I'd like to say yes, but ...",
+          "html": "<span>I'd like to say yes, </span><strong>but </strong><span>... </span>",
+          "segments": [
+            {
+              "text": "I'd like to say yes, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "but ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "... ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 864,
+      "position": 2,
+      "japanese": "彼は１６歳だけれど、両親から独立しています。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%91%ef%bc%96%e6%ad%b3\"><span>１６歳</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0\"><span>だ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%91%e3%82%8c%e3%81%a9\"><strong>けれど</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%a1%e8%a6%aa%e3%81%8b%e3%82%89\"><span>両親から</span></a><a href=\"https://takoboto.jp/?q=%e7%8b%ac%e7%ab%8b%e3%81%97%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>独立しています。</span></a>",
+      "segments": [
+        {
+          "text": "彼は１６歳だ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "けれど",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、両親から独立しています。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれは１６さいだけれど、りょうしんからどくりつしています。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Though only 16, he is independent of his parents.",
+          "html": "<strong>Though </strong><span>only 16, he is independent of his parents. </span>",
+          "segments": [
+            {
+              "text": "Though ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "only 16, he is independent of his parents. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6573,
+      "position": 3,
+      "japanese": "彼はあまり勉強しないけれども、成績がいい",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%82%e3%81%be%e3%82%8a\"><span>彼はあまり</span></a><a href=\"https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%aa%e3%81%84\"><span>勉強しない</span></a><a href=\"https://takoboto.jp/?q=%e3%81%91%e3%82%8c%e3%81%a9%e3%82%82\"><strong>けれども</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e6%88%90%e7%b8%be%e3%81%8c%e3%81%84%e3%81%84\"><span>成績がいい</span></a>",
+      "segments": [
+        {
+          "text": "彼はあまり勉強しない",
+          "grammar_highlight": false
+        },
+        {
+          "text": "けれども",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、成績がいい",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはあまりべんきょうしないけれども、せいせきがいい",
+      "credits_raw": "blurp76",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Although he doesn't study hard, he gets good marks",
+          "html": "<span>Although he doesn't study hard, he gets good marks </span>",
+          "segments": [
+            {
+              "text": "Although he doesn't study hard, he gets good marks ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8809,
+      "position": 4,
+      "japanese": "遅く起きたけれども、授業に間に合えた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%81%85%e3%81%8f%e8%b5%b7%e3%81%8d%e3%81%9f\"><span>遅く起きた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%91%e3%82%8c%e3%81%a9%e3%82%82\"><strong>けれども</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e6%8e%88%e6%a5%ad%e3%81%ab%e9%96%93%e3%81%ab%e5%90%88%e3%81%88%e3%81%9f%e3%80%82\"><span>、授業に間に合えた。</span></a>",
+      "segments": [
+        {
+          "text": "遅く起きた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "けれども",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、授業に間に合えた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おそくおきたけれども、じゅぎょうにまにあえた。",
+      "credits_raw": "貴博",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even though I woke up late, I could make it to the class on time.",
+          "html": "<strong>Even though </strong><span>I woke up late, I could make it to the class on time. </span>",
+          "segments": [
+            {
+              "text": "Even though ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I woke up late, I could make it to the class on time. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Just a typo. In ex #864, in the romanized text appears 'daderedo' and should be 'dakeredo', isn't it?",
+      "html": "Just a typo. In ex #864, in the romanized text appears 'daderedo' and should be 'dakeredo', isn't it?",
+      "credits_raw": "raph",
+      "content_sha256": "1acf3318c86cd9df23dbdedcae22b1eef672813796a85fafc4beed386b6b957e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "raph - fixed. you can edit the examples ya know!",
+      "html": "raph - fixed. you can edit the examples ya know!",
+      "credits_raw": "dc",
+      "content_sha256": "550332dcc8e6d10ee9c099eceffa254476acf1f22842801cff44029f79aa5c6f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Used to join two sentences.\nけれども (most formal) →けれど→けど (least formal)\nけど used in speech, not when writing.\nUsing けれども etc to start a sentence is frowned upon. But, like using 'but' to start a sentence in English, is sometimes done anyway.",
+      "html": "Used to join two sentences.<br/>けれども (most formal) →けれど→けど (least formal)<br/>けど used in speech, not when writing.<br/>Using けれども etc to start a sentence is frowned upon. But, like using 'but' to start a sentence in English, is sometimes done anyway.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "d61ad5e83fbc4525ac21189c4c0054f642fda011b65c0200b965ef5d865999c6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Verb, i-adjective or the copula should be before けれども.\n\ne.g. 彼は１６歳だけれど、両親から独立しています。",
+      "html": "Verb, i-adjective or the copula should be before けれども.<br/><br/>e.g. 彼は１６歳だけれど、両親から独立しています。",
+      "credits_raw": "Amatuka",
+      "content_sha256": "13ef0aa83714a6b657826815f70adb1c8b4139aac1b1079d93cc17a8b409c93a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "In polite/formal use \nsentence-A [-masu] けれども sentence-B [-masu] can be used, but \nsentence-A [plain] けれど(も) sentence-B [-masu]\nis also possible.",
+      "html": "In polite/formal use <br/>sentence-A [-masu] けれども sentence-B [-masu] can be used, but <br/>sentence-A [plain] けれど(も) sentence-B [-masu]<br/>is also possible.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "46a8caf74bf2dc277a988da9dc81bc7cefeea2fc54497bc07ea066a07e9c6c33",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "Compare & contrast with が (ga) and でも (demo)",
+      "html": "Compare &amp; contrast with が (ga) and でも (demo)",
+      "credits_raw": "Amatuka",
+      "content_sha256": "7c4863daa344fcb5cbbb89bb2234ef6e5e3f4e774a0509a8a468c4c8eb56424f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "#862\n#863\n#864\nThese are all well-written.\n\n#863\nI would say \"お引き受けしたいのですが・・・。\"",
+      "html": "#862<br/>#863<br/>#864<br/>These are all well-written.<br/><br/>#863<br/>I would say \"お引き受けしたいのですが・・・。\"",
+      "credits_raw": "Nick",
+      "content_sha256": "81ce9677952665c1cb976aac9bcbcaf77c239e2f1fe84ebbc3cea6db52f69d90",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "I would like to express my displeasure in seeing wa/ha o/wo in Romaji. We are all supposed to know what they mean, so why write them as they don't sound? Why write \"ha\" when we all know it really sounds like \"wa?\" Why write \"wo\" when we know it really sounds like \"o\"? Why don't you write it like it sounds?",
+      "html": "I would like to express my displeasure in seeing wa/ha o/wo in Romaji. We are all supposed to know what they mean, so why write them as they don't sound? Why write \"ha\" when we all know it really sounds like \"wa?\" Why write \"wo\" when we know it really sounds like \"o\"? Why don't you write it like it sounds?",
+      "credits_raw": "feralkat",
+      "content_sha256": "d405ad3d656b47a72e47dcc31afa722dbfa8fb44463113432257dd8ef132387c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "feralkat, it makes more sense to use the hiragana key strokes for these characters. even if its in romanji. if you write wa and o in your letter to a japanese person it would look very gaijin poi. so despite your displeasure, its the correct way to do it.",
+      "html": "feralkat, it makes more sense to use the hiragana key strokes for these characters. even if its in romanji. if you write wa and o in your letter to a japanese person it would look very gaijin poi. so despite your displeasure, its the correct way to do it.",
+      "credits_raw": "tigert",
+      "content_sha256": "8d6532e7fa1e635671294f68866bfdf1306160275f1d0d0fb479dfbfb9621896",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Very nice examples, but けど not used in writing? It depends on the writing.",
+      "html": "Very nice examples, but けど not used in writing? It depends on the writing.",
+      "credits_raw": "jung-won",
+      "content_sha256": "121bd5a1f8ea84ad2d72bfb18d2a8b4704932c26462dfe2d0299f15daf4ff92a",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1178,
+      "label": "〜ものの",
+      "source_url": "https://takoboto.jp/bunpo/1178"
+    },
+    {
+      "target_id": 726,
+      "label": "でも",
+      "source_url": "https://takoboto.jp/bunpo/726"
+    },
+    {
+      "target_id": 725,
+      "label": "〜が",
+      "source_url": "https://takoboto.jp/bunpo/725"
+    },
+    {
+      "target_id": 727,
+      "label": "しかし (然し・併し)",
+      "source_url": "https://takoboto.jp/bunpo/727"
+    },
+    {
+      "target_id": 411,
+      "label": "といっても",
+      "source_url": "https://takoboto.jp/bunpo/411"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:32:33+00:00",
+  "response_sha256": "2bf9edf0a2b2793b6ef101d3a262b9b591c31f311eb832df0e2e8bdaa48897cd",
+  "warnings": []
+}

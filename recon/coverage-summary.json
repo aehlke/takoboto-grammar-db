@@ -1,0 +1,146 @@
+{
+  "observed_at_utc": "2026-10-03",
+  "current_source": {
+    "coverage_verified": true,
+    "counts": {
+      "examples": 5334,
+      "comments": 4546,
+      "translations": 5324,
+      "meaning_notes": 150,
+      "formations": 360,
+      "alternate_forms": 211,
+      "relationships": 788,
+      "entries": 643
+    }
+  },
+  "historical_source": {
+    "cdx_complete": true,
+    "indexed_labels": 1414,
+    "indexed_captures": 43686,
+    "parsed_records_verified": true,
+    "historical_coverage_complete": false,
+    "counts": {
+      "notes": 40,
+      "comments": 115,
+      "examples": 146,
+      "relationships": 45,
+      "entries": 25
+    },
+    "categories": {
+      "lesson": 13,
+      "grammar": 11,
+      "unclassified; verified current ID": 1
+    },
+    "pending_label_count": 1389,
+    "additional_original_ids": [
+      [
+        610,
+        "Verb Groups I"
+      ],
+      [
+        615,
+        "Verb Groups"
+      ],
+      [
+        912,
+        "kotoni-group"
+      ],
+      [
+        924,
+        "looks/seems/heard-group"
+      ],
+      [
+        926,
+        "simultaneous-actions-group"
+      ],
+      [
+        928,
+        "kawaru-group"
+      ],
+      [
+        955,
+        "viewpoint-group"
+      ],
+      [
+        957,
+        "evaluation-group"
+      ],
+      [
+        958,
+        "basis-of-action-group"
+      ],
+      [
+        962,
+        "depend-correspond-group"
+      ],
+      [
+        964,
+        "unrelated-group"
+      ],
+      [
+        1153,
+        "since/because-group"
+      ],
+      [
+        1225,
+        "at-the-time-group"
+      ],
+      [
+        1393,
+        "Group 1 Verb Exceptions"
+      ]
+    ],
+    "license_review_required": [
+      {
+        "label": "HonorificAndHumbleForms",
+        "reason": "Additional or conflicting license on historical page; retain response for review",
+        "archive_url": "https://web.archive.org/web/20051226011836id_/http://jgram.org:80/pages/viewOne.php?tagE=HonorificAndHumbleForms"
+      },
+      {
+        "label": "Introduction",
+        "reason": "Additional or conflicting license on historical page; retain response for review",
+        "archive_url": "https://web.archive.org/web/20051226012251id_/http://jgram.org:80/pages/viewOne.php?tagE=Introduction"
+      }
+    ],
+    "rss": {
+      "captured_feeds": 5,
+      "items": 4,
+      "publication_events": [
+        {
+          "label": "madashimo",
+          "pub_date_raw": "Wed, 20 Nov 2019 01:04:01 PST"
+        },
+        {
+          "label": "gatai",
+          "pub_date_raw": "Wed, 20 Nov 2019 01:06:01 PST"
+        },
+        {
+          "label": "wake",
+          "pub_date_raw": "Wed, 20 Nov 2019 01:08:02 PST"
+        },
+        {
+          "label": "he",
+          "pub_date_raw": "Wed, 20 Nov 2019 01:10:01 PST"
+        }
+      ],
+      "errors": [],
+      "captured_records_verified": true
+    }
+  },
+  "sqlite_tables": {
+    "entries": 643,
+    "examples": 5334,
+    "translations": 5324,
+    "comments": 4546,
+    "meaning_notes": 150,
+    "archive_entries": 25,
+    "archive_notes": 40,
+    "archive_examples": 146,
+    "archive_comments": 115,
+    "archive_relationships": 45,
+    "archive_feeds": 5,
+    "archive_feed_items": 4
+  },
+  "sqlite_sha256": "f5188bf9f1219be4428cec8bb06a35b60cac27d704e614611e1d95b81aa6772a",
+  "tests_passed": 27
+}

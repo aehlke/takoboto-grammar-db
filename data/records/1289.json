@@ -1,0 +1,1043 @@
+{
+  "schema_version": 2,
+  "id": 1289,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1289/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜にしては",
+  "romanized_label": "nishiteha",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "dc",
+  "meaning": "even though (it is) ; for",
+  "meaning_example": "its a cold day for June",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1289",
+      "body_text": "even though (it is) ; for \n its a cold day for June",
+      "body_html": "<span>even though (it is) ; for</span> <br/> <span>its a cold day for June</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1289",
+      "body_text": "Verb Plain form+に してはNoun+に しては",
+      "body_html": "<div><div><div>Verb Plain form</div></div><div><div>+</div><div>に しては</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>に しては</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb Plain form + に しては",
+    "Noun + に しては"
+  ],
+  "examples": [
+    {
+      "source_id": 355,
+      "position": 0,
+      "japanese": "年寄りにしては若く見える。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%b9%b4%e5%af%84%e3%82%8a\"><span>年寄り</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e8%8b%a5%e3%81%8f\"><span>若く</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%88%e3%82%8b%e3%80%82\"><span>見える。</span></a>",
+      "segments": [
+        {
+          "text": "年寄り",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "若く見える。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "としよりにしてはわかくみえる。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even though he's old, he looks young.",
+          "html": "<strong>Even though </strong><span>he's old, he looks young. </span>",
+          "segments": [
+            {
+              "text": "Even though ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "he's old, he looks young. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 359,
+      "position": 1,
+      "japanese": "お金持ちにしては古い車に乗っている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e6%8c%81%e3%81%a1\"><span>金持ち</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e5%8f%a4%e3%81%84\"><span>古い</span></a><a href=\"https://takoboto.jp/?q=%e8%bb%8a%e3%81%ab\"><span>車に</span></a><a href=\"https://takoboto.jp/?q=%e4%b9%97%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b\"><span>乗っている</span></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "お金持ち",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "古い車に乗っている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おかねもちにしてはふるいくるまにのっている。",
+      "credits_raw": "dc, Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "For (eg: even though he is) a rich person, he drives an old car.",
+          "html": "<strong>For (eg: even though he is) </strong><span>a rich person, he drives an old car. </span>",
+          "segments": [
+            {
+              "text": "For (eg: even though he is) ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a rich person, he drives an old car. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3515,
+      "position": 2,
+      "japanese": "６月にしては寒い朝だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%96%e6%9c%88\"><span>６月</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e5%af%92%e3%81%84\"><span>寒い</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%9d%e3%81%a0%e3%80%82\"><span>朝だ。</span></a>",
+      "segments": [
+        {
+          "text": "６月",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "寒い朝だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ろくがつにしてはさむいあさだ。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It is a cold morning for June.",
+          "html": "<span>It is a cold morning for June. </span>",
+          "segments": [
+            {
+              "text": "It is a cold morning for June. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3516,
+      "position": 3,
+      "japanese": "７０歳にしては、彼はいまだに驚くほど元気である。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%97%ef%bc%90%e6%ad%b3\"><span>７０歳</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%84%e3%81%be%e3%81%a0%e3%81%ab\"><span>彼はいまだに</span></a><a href=\"https://takoboto.jp/?q=%e9%a9%9a%e3%81%8f%e3%81%bb%e3%81%a9\"><span>驚くほど</span></a><a href=\"https://takoboto.jp/?q=%e5%85%83%e6%b0%97%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82\"><span>元気である。</span></a>",
+      "segments": [
+        {
+          "text": "７０歳",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、彼はいまだに驚くほど元気である。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "７０さいにしては、かれはいまだにおどろくほどげんきである。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "For a man of seventy he still has surprising vigour.",
+          "html": "<span>For a man of seventy he still has surprising vigour. </span>",
+          "segments": [
+            {
+              "text": "For a man of seventy he still has surprising vigour. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3517,
+      "position": 4,
+      "japanese": "このホテルはこの町にしては比較的高い。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%9b%e3%83%86%e3%83%ab%e3%81%af%e3%81%93%e3%81%ae\"><span>このホテルはこの</span></a><a href=\"https://takoboto.jp/?q=%e7%94%ba\"><span>町</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e6%af%94%e8%bc%83%e7%9a%84%e9%ab%98%e3%81%84%e3%80%82\"><span>比較的高い。</span></a>",
+      "segments": [
+        {
+          "text": "このホテルはこの町",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "比較的高い。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このホテルはこのまちにしてはひかくてきたかい。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This hotel is relatively expensive for this town.",
+          "html": "<span>This hotel is relatively expensive for this town. </span>",
+          "segments": [
+            {
+              "text": "This hotel is relatively expensive for this town. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3518,
+      "position": 5,
+      "japanese": "こんな暖かい陽気は２月にしては異常だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa\"><span>こんな</span></a><a href=\"https://takoboto.jp/?q=%e6%9a%96%e3%81%8b%e3%81%84\"><span>暖かい</span></a><a href=\"https://takoboto.jp/?q=%e9%99%bd%e6%b0%97%e3%81%af\"><span>陽気は</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%92%e6%9c%88\"><span>２月</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e7%95%b0%e5%b8%b8%e3%81%a0%e3%80%82\"><span>異常だ。</span></a>",
+      "segments": [
+        {
+          "text": "こんな暖かい陽気は２月",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "異常だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こんなあたたかいようきはにがつにしてはいじょうだ。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This warm weather is abnormal for February.",
+          "html": "<span>This warm weather is abnormal for February. </span>",
+          "segments": [
+            {
+              "text": "This warm weather is abnormal for February. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3520,
+      "position": 6,
+      "japanese": "そんなに乱暴ふるまうなんて、クリスにしては普通ではありませんでした。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%93%e3%81%aa%e3%81%ab\"><span>そんなに</span></a><a href=\"https://takoboto.jp/?q=%e4%b9%b1%e6%9a%b4%e3%81%b5%e3%82%8b%e3%81%be%e3%81%86%e3%81%aa%e3%82%93%e3%81%a6%e3%80%81%e3%82%af%e3%83%aa%e3%82%b9\"><span>乱暴ふるまうなんて、クリス</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e6%99%ae%e9%80%9a%e3%81%a7%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%81%a7%e3%81%97%e3%81%9f%e3%80%82\"><span>普通ではありませんでした。</span></a>",
+      "segments": [
+        {
+          "text": "そんなに乱暴ふるまうなんて、クリス",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "普通ではありませんでした。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そんなにらんぼうふるまうなんて、クリスにしてはふつうではありませんでした。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It was out of the ordinary for Chris to behave so roughly.",
+          "html": "<span>It was </span><strong>out of the ordinary </strong><span>for Chris to behave so roughly. </span>",
+          "segments": [
+            {
+              "text": "It was ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "out of the ordinary ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "for Chris to behave so roughly. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3521,
+      "position": 7,
+      "japanese": "ほかの人の助けを当てにしてはいけない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%8b%e3%81%ae\"><span>ほかの</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%ae\"><span>人の</span></a><a href=\"https://takoboto.jp/?q=%e5%8a%a9%e3%81%91%e3%82%92\"><span>助けを</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%93%e3%81%a6\"><span>当て</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%e3%80%82\"><span>いけない。</span></a>",
+      "segments": [
+        {
+          "text": "ほかの人の助けを当て",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "いけない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ほかのひとのたすけをあてにしてはいけない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You shouldn't count on others for help.",
+          "html": "<span>You shouldn't count on others for help. </span>",
+          "segments": [
+            {
+              "text": "You shouldn't count on others for help. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3523,
+      "position": 8,
+      "japanese": "ビリーは彼の年にしてはとても背が高い。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%93%e3%83%aa%e3%83%bc%e3%81%af\"><span>ビリーは</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae\"><span>彼の</span></a><a href=\"https://takoboto.jp/?q=%e5%b9%b4\"><span>年</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%a6%e3%82%82\"><span>とても</span></a><a href=\"https://takoboto.jp/?q=%e8%83%8c%e3%81%8c\"><span>背が</span></a><a href=\"https://takoboto.jp/?q=%e9%ab%98%e3%81%84%e3%80%82\"><span>高い。</span></a>",
+      "segments": [
+        {
+          "text": "ビリーは彼の年",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "とても背が高い。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ビリーはかれのとしにしてはとてもせがたかい。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Billy is very tall for his age.",
+          "html": "<span>Billy is very tall for his age. </span>",
+          "segments": [
+            {
+              "text": "Billy is very tall for his age. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3524,
+      "position": 9,
+      "japanese": "外見はあまり当てにしてはいけない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%96%e8%a6%8b%e3%81%af%e3%81%82%e3%81%be%e3%82%8a\"><span>外見はあまり</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%93%e3%81%a6\"><span>当て</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%e3%80%82\"><span>いけない。</span></a>",
+      "segments": [
+        {
+          "text": "外見はあまり当て",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "いけない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "がいけんはあまりあてにしてはいけない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You must not rely too much on appearance.",
+          "html": "<span>You must not rely too much on appearance. </span>",
+          "segments": [
+            {
+              "text": "You must not rely too much on appearance. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3526,
+      "position": 10,
+      "japanese": "駆け出しの新聞記者にしては腕がいい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%a7%86%e3%81%91\"><span>駆け</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%ae\"><span>出しの</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b0%e8%81%9e%e8%a8%98%e8%80%85\"><span>新聞記者</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e8%85%95%e3%81%8c%e3%81%84%e3%81%84%e3%80%82\"><span>腕がいい。</span></a>",
+      "segments": [
+        {
+          "text": "駆け出しの新聞記者",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "腕がいい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かけだしのしんぶんきしゃにしてはうでがいい。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You are doing well for a cub reporter.",
+          "html": "<span>You are doing well for a cub reporter. </span>",
+          "segments": [
+            {
+              "text": "You are doing well for a cub reporter. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3528,
+      "position": 11,
+      "japanese": "君は物事を中途半端にしてはいけないよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%af\"><span>君は</span></a><a href=\"https://takoboto.jp/?q=%e7%89%a9%e4%ba%8b%e3%82%92\"><span>物事を</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%ad%e9%80%94%e5%8d%8a%e7%ab%af\"><span>中途半端</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%e3%82%88%e3%80%82\"><span>いけないよ。</span></a>",
+      "segments": [
+        {
+          "text": "君は物事を中途半端",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "いけないよ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きみはものごとをちゅうとはんぱにしてはいけないよ。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You shouldn't do things by halves.",
+          "html": "<span>You shouldn't do things by halves. </span>",
+          "segments": [
+            {
+              "text": "You shouldn't do things by halves. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3529,
+      "position": 12,
+      "japanese": "言うまでもないことだがローマは１日にしては成らず。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%be%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%a0%e3%81%8c%e3%83%ad%e3%83%bc%e3%83%9e%e3%81%af\"><span>言うまでもないことだがローマは</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%91%e6%97%a5\"><span>１日</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e6%88%90%e3%82%89%e3%81%9a%e3%80%82\"><span>成らず。</span></a>",
+      "segments": [
+        {
+          "text": "言うまでもないことだがローマは１日",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "成らず。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いうまでもないことだがローマは１にちにしてはならず。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It goes without saying that Rome was not built in a day.",
+          "html": "<span>It goes without saying that Rome was not built in a day. </span>",
+          "segments": [
+            {
+              "text": "It goes without saying that Rome was not built in a day. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3531,
+      "position": 13,
+      "japanese": "今日はこれでおしまいにしてはどうでしょう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%af%e3%81%93%e3%82%8c%e3%81%a7%e3%81%8a%e3%81%97%e3%81%be%e3%81%84\"><span>今日はこれでおしまい</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%80%82\"><span>どうでしょう。</span></a>",
+      "segments": [
+        {
+          "text": "今日はこれでおしまい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "どうでしょう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きょうはこれでおしまいにしてはどうでしょう。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What do you say calling it a day.",
+          "html": "<span>What do you say calling it a day. </span>",
+          "segments": [
+            {
+              "text": "What do you say calling it a day. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6074,
+      "position": 14,
+      "japanese": "中古車にしては、値段が幾分高い。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%b8%ad%e5%8f%a4%e8%bb%8a\"><span>中古車</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e5%80%a4%e6%ae%b5%e3%81%8c\"><span>値段が</span></a><a href=\"https://takoboto.jp/?q=%e5%b9%be%e5%88%86%e9%ab%98%e3%81%84%e3%80%82\"><span>幾分高い。</span></a>",
+      "segments": [
+        {
+          "text": "中古車",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、値段が幾分高い。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ちゅうこしゃにしては、ねだんがいくぶんたかい。",
+      "credits_raw": "maky",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The price is kind of high for a used car.",
+          "html": "<span>The price is kind of high for a used car. </span>",
+          "segments": [
+            {
+              "text": "The price is kind of high for a used car. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6580,
+      "position": 15,
+      "japanese": "外国人にしては日本語が上手だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%96%e5%9b%bd%e4%ba%ba\"><span>外国人</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%8c\"><span>日本語が</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%a0%e3%80%82\"><span>上手だ。</span></a>",
+      "segments": [
+        {
+          "text": "外国人",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "日本語が上手だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "がいこくじんにしてはにほんごがじょうずだ。",
+      "credits_raw": "hana",
+      "translations": [
+        {
+          "language": "en",
+          "text": "For a foreigner, his Japanese is very good.",
+          "html": "<span>For a foreigner, his Japanese is very good. </span>",
+          "segments": [
+            {
+              "text": "For a foreigner, his Japanese is very good. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6581,
+      "position": 16,
+      "japanese": "洗ったの？　それにしてはきれいじゃないね。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%b4%97%e3%81%a3%e3%81%9f%e3%81%ae\"><span>洗ったの</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%9f%e3%80%80%e3%81%9d%e3%82%8c\"><span>？　それ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8d%e3%82%8c%e3%81%84%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%ad%e3%80%82\"><span>きれいじゃないね。</span></a>",
+      "segments": [
+        {
+          "text": "洗ったの？　それ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "きれいじゃないね。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あらったの？それにしてはきれいじゃないね。",
+      "credits_raw": "hana",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You washed it? Even still, it's not clean, is it?",
+          "html": "<span>You washed it? Even still, it's not clean, is it? </span>",
+          "segments": [
+            {
+              "text": "You washed it? Even still, it's not clean, is it? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8706,
+      "position": 17,
+      "japanese": "大して練習しなかったにしては、なかなかよくできたと思う。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%a7%e3%81%97%e3%81%a6\"><span>大して</span></a><a href=\"https://takoboto.jp/?q=%e7%b7%b4%e7%bf%92%e3%81%97%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f\"><span>練習しなかった</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%aa%e3%81%8b%e3%81%aa%e3%81%8b%e3%82%88%e3%81%8f%e3%81%a7%e3%81%8d%e3%81%9f%e3%81%a8\"><span>、なかなかよくできたと</span></a><a href=\"https://takoboto.jp/?q=%e6%80%9d%e3%81%86%e3%80%82\"><span>思う。</span></a>",
+      "segments": [
+        {
+          "text": "大して練習しなかった",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、なかなかよくできたと思う。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "たいしてれんしゅうしなかったにしては、なかなかよくできたとおもう。",
+      "credits_raw": "masakitenchi",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Without much practice, I think I can still do it well.",
+          "html": "<span>Without much practice, I think I can still do it well. </span>",
+          "segments": [
+            {
+              "text": "Without much practice, I think I can still do it well. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3519,
+      "position": 18,
+      "japanese": "彼は、タクシーの運転手にしては道を知らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%80%81\"><span>彼は、</span></a><a href=\"https://takoboto.jp/?q=%e3%82%bf%e3%82%af%e3%82%b7%e3%83%bc%e3%81%ae\"><span>タクシーの</span></a><a href=\"https://takoboto.jp/?q=%e9%81%8b%e8%bb%a2%e6%89%8b\"><span>運転手</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e9%81%93%e3%82%92\"><span>道を</span></a><a href=\"https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%81%aa%e3%81%84%e3%80%82\"><span>知らない。</span></a>",
+      "segments": [
+        {
+          "text": "彼は、タクシーの運転手",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "道を知らない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれは、タクシーのうんてんしゅにしてはみちをしらない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Despite being a taxi driver , he doesn't even know the way.",
+          "html": "<strong>Despite </strong><span>being a taxi driver </span><span>, he doesn't even know the way. </span>",
+          "segments": [
+            {
+              "text": "Despite ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "being a taxi driver , he doesn't even know the way. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3522,
+      "position": 19,
+      "japanese": "初めてケーキを作ったにしては、上手にできましたね。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%88%9d%e3%82%81%e3%81%a6%e3%82%b1%e3%83%bc%e3%82%ad%e3%82%92\"><span>初めてケーキを</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%9c%e3%81%a3%e3%81%9f\"><span>作った</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%ab%e3%81%a7%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%e3%81%ad%e3%80%82\"><span>上手にできましたね。</span></a>",
+      "segments": [
+        {
+          "text": "初めてケーキを作った",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、上手にできましたね。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "はじめてケーキをつくったにしては、じょうずにできましたね。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "For somebody which makes cakes for the fist time, she did it very well.",
+          "html": "<strong>For somebody </strong><span>which makes </span><span>cakes for the fist time, she did it very well. </span>",
+          "segments": [
+            {
+              "text": "For somebody ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "which makes cakes for the fist time, she did it very well. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3525,
+      "position": 20,
+      "japanese": "この子は小学生にしてはずいぶんしっかりしている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e3%81%af\"><span>子は</span></a><a href=\"https://takoboto.jp/?q=%e5%b0%8f%e5%ad%a6%e7%94%9f\"><span>小学生</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9a%e3%81%84%e3%81%b6%e3%82%93%e3%81%97%e3%81%a3%e3%81%8b%e3%82%8a%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>ずいぶんしっかりしている。</span></a>",
+      "segments": [
+        {
+          "text": "この子は小学生",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ずいぶんしっかりしている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このこはしょうがくせいにしてはずいぶんしっかりしている。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Despite being in primary school , this child is studying really good.",
+          "html": "<strong>Despite being </strong><span>in primary school </span><span>, this child is studying really good. </span>",
+          "segments": [
+            {
+              "text": "Despite being ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "in primary school , this child is studying really good. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3527,
+      "position": 21,
+      "japanese": "彼は２０代にしては、ふけてるな。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%92%ef%bc%90%e4%bb%a3\"><span>２０代</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%b5%e3%81%91%e3%81%a6%e3%82%8b%e3%81%aa%e3%80%82\"><span>、ふけてるな。</span></a>",
+      "segments": [
+        {
+          "text": "彼は２０代",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、ふけてるな。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれは２０だいにしては、ふけてるな。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He looks surprisingly old for someone in his 20s.",
+          "html": "<span>He looks </span><strong>surprisingly </strong><span>old </span><strong>for someone </strong><span>in his 20s. </span>",
+          "segments": [
+            {
+              "text": "He looks ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "surprisingly ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "old ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "for someone ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "in his 20s. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3530,
+      "position": 22,
+      "japanese": "今ごろにしては暖かい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%81%94%e3%82%8d\"><span>今ごろ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af\"><strong>にしては</strong></a><a href=\"https://takoboto.jp/?q=%e6%9a%96%e3%81%8b%e3%81%84%e3%80%82\"><span>暖かい。</span></a>",
+      "segments": [
+        {
+          "text": "今ごろ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にしては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "暖かい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いまごろにしてはあたたかい。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It's a warm day for this jogging for an hour 。",
+          "html": "<span>It's a warm day for this jogging for an hour </span><strong>。 </strong>",
+          "segments": [
+            {
+              "text": "It's a warm day for this jogging for an hour ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "。 ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Formation:\n\nV/i/na/N[普通形] + にしては\nそれにしては\n\n意外な気持ち - An unexpected feeling",
+      "html": "Formation:<br/><br/>V/i/na/N[普通形] + にしては<br/>それにしては<br/><br/>意外な気持ち - An unexpected feeling",
+      "credits_raw": "hana",
+      "content_sha256": "332852cd005ac6250e85bd657f694c86f0a1ee6ff30e729da5347c9340379d60",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "I created the entry [tehaikenai] for the にしてはいけない examples sentences. I moved Ex #3519, #3521, #3522, #3524, #3525, #3527 and #3528 to this new entry. They became #6770, #6771, #6772, #6773, #6774, #6775 and #6776 respectively. I found the way to conserve Dbxさん as author in the new entry. I changed Ex #3519, #3522, #3525 and #3527 to fit the [nishiteha] entry. Is it too much contribution?",
+      "html": "I created the entry [tehaikenai] for the にしてはいけない examples sentences. I moved Ex #3519, #3521, #3522, #3524, #3525, #3527 and #3528 to this new entry. They became #6770, #6771, #6772, #6773, #6774, #6775 and #6776 respectively. I found the way to conserve Dbxさん as author in the new entry. I changed Ex #3519, #3522, #3525 and #3527 to fit the [nishiteha] entry. Is it too much contribution?",
+      "credits_raw": "赤毛",
+      "content_sha256": "44b64400f1c3a6e4d667b931f274b433a17020dd337d0b99a54d99690bff0eeb",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "X にしてはいけない must mean, \"Even though you are doing X, that's not okay.\"",
+      "html": "X にしてはいけない must mean, \"Even though you are doing X, that's not okay.\"",
+      "credits_raw": "adamstudio",
+      "content_sha256": "d32b7a4598d8893000459a1e8ef23bd5e95a74947b2cea0ab1d4be2682ff4e85",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "I think there are two types of にしては mixed up in these examples.",
+      "html": "I think there are two types of にしては mixed up in these examples.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "c19b84a0e5b146ee8abc41dd7a070b7c05ed74644d840c14a963c18f188f2fda",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "closer to \"wari ni\" than \"nimokakawarazu\"",
+      "html": "closer to \"wari ni\" than \"nimokakawarazu\"",
+      "credits_raw": "dc",
+      "content_sha256": "754431ff00ba086f8b08d8191151c402cb509f56aef1c19f1d8065adcd4af548",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "I think the にしてはいけない examples sentences don't belong here.",
+      "html": "I think the にしてはいけない examples sentences don't belong here.",
+      "credits_raw": "halx",
+      "content_sha256": "460f8479b60b59892d8271c8acb58926c075eb893120b2d87e311253439645ec",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "Meaning: contrary to one's (natural) expectation",
+      "html": "Meaning: contrary to one's (natural) expectation",
+      "credits_raw": "halx",
+      "content_sha256": "9bb906f77e773586d2d070233b405bf9e4eb51a170521b3c268b5e0f2070c24a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "I also agree that the にしてはいけない examples should be moved.",
+      "html": "I also agree that the にしてはいけない examples should be moved.",
+      "credits_raw": "hana",
+      "content_sha256": "872ba71c6b945a14707bed96d6c01188a4167f0dc2b76dc3f671be05648b423e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "I don't understand \"乱魔ﾉ\" in [ex #3520]. Perhaps it means \"乱麻の\"?\nI don't understand the English translation of [ex #3530] and [ex #3531]. \nPerhaps an alternative translation for にしては is despite (Ex: despite being a foreigner, his Japanese is very good. ).",
+      "html": "I don't understand \"乱魔ﾉ\" in [ex #3520]. Perhaps it means \"乱麻の\"?<br/>I don't understand the English translation of [ex #3530] and [ex #3531]. <br/>Perhaps an alternative translation for にしては is despite (Ex: despite being a foreigner, his Japanese is very good. ).",
+      "credits_raw": "赤毛",
+      "content_sha256": "9d1f410d7d8aa08cd06ed5f066cb969539359f274853b375f27b5698709548eb",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1493,
+      "label": "〜なのに",
+      "source_url": "https://takoboto.jp/bunpo/1493"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:35:49+00:00",
+  "response_sha256": "a5577cccf99d9d4b60655a10b3061acd43961935c76f3b4f5daa9da35c62752c",
+  "warnings": []
+}

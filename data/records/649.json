@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "id": 649,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/649/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "にする",
+  "romanized_label": "nisuru-2",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "Amatuka",
+  "meaning": "To decide on, to choose",
+  "meaning_example": "Let's make it Sunday.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_649",
+      "body_text": "To decide on, to choose \n Let's make it Sunday.",
+      "body_html": "<span>To decide on, to choose</span> <br/> <span>Let's make it Sunday.</span>",
+      "credits_raw": "Amatuka"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 742,
+      "position": 0,
+      "japanese": "うちは毎年９月末の日曜日にすると決まっているのです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%af\"><span>うちは</span></a><a href=\"https://takoboto.jp/?q=%e6%af%8e%e5%b9%b4\"><span>毎年</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%99%e6%9c%88%e6%9c%ab%e3%81%ae\"><span>９月末の</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9b%9c%e6%97%a5\"><span>日曜日</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%99%e3%82%8b\"><strong>にする</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8\"><span>と</span></a><a href=\"https://takoboto.jp/?q=%e6%b1%ba%e3%81%be%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82\"><span>決まっているのです。</span></a>",
+      "segments": [
+        {
+          "text": "うちは毎年９月末の日曜日",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にする",
+          "grammar_highlight": true
+        },
+        {
+          "text": "と決まっているのです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "うちはまいとしくがつまつのにちようびにするときまっているのです。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It's our rule to make it the last Sunday of September every year.",
+          "html": "<span>It's our rule to </span><strong>make it </strong><span>the last Sunday of September every year. </span>",
+          "segments": [
+            {
+              "text": "It's our rule to ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "make it ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the last Sunday of September every year. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3073,
+      "position": 1,
+      "japanese": "そのようにすると後で困らない？",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab\"><span>そのように</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%82%8b%e3%81%a8\"><strong>すると</strong></a><a href=\"https://takoboto.jp/?q=%e5%be%8c%e3%81%a7%e5%9b%b0%e3%82%89%e3%81%aa%e3%81%84%ef%bc%9f\"><span>後で困らない？</span></a>",
+      "segments": [
+        {
+          "text": "そのように",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すると",
+          "grammar_highlight": true
+        },
+        {
+          "text": "後で困らない？",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのようにするとあとでこまらない？",
+      "credits_raw": "bamboo4, srishti",
+      "translations": [
+        {
+          "language": "en",
+          "text": "if you do it this way, won't you be troubled later on?",
+          "html": "<span>if you do it this way, won't you be troubled later on? </span>",
+          "segments": [
+            {
+              "text": "if you do it this way, won't you be troubled later on? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Dictionary of Basic Japanese Grammar p. 310",
+      "html": "Dictionary of Basic Japanese Grammar p. 310",
+      "credits_raw": "anon",
+      "content_sha256": "ef89e461e715649ae15112d44f56004ef0ab1daf5801aa92305fe62c11d045bc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "The Japanese is not natural from the context. It should be 毎年9月の最終日曜日.\nFor example, if the Sunday was 26th, we don't say 9月末（９がつすえ）。\nちなみに、月末（げつまつ） is at the end of month. 下旬（げじゅん） is end of month.",
+      "html": "The Japanese is not natural from the context. It should be 毎年9月の最終日曜日.<br/>For example, if the Sunday was 26th, we don't say 9月末（９がつすえ）。<br/>ちなみに、月末（げつまつ） is at the end of month. 下旬（げじゅん） is end of month.",
+      "credits_raw": "Miki",
+      "content_sha256": "aeef31449f8dd2386935635154508c96d81e4a98aee165253e1d7e6806e3b476",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "9月末 is read ９がつまつ.\nhmm but I found some sites 毎年○月末の▲曜日…。",
+      "html": "9月末 is read ９がつまつ.<br/>hmm but I found some sites 毎年○月末の▲曜日…。",
+      "credits_raw": "Miki",
+      "content_sha256": "a7045035e0cc28c5022b2c6728c2bd53558edfbf4c267de70b892fa9e9c11810",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "I agree with Miki. It sounds more natural. If you don't like 最終日曜日、you can say 最後の日曜日.",
+      "html": "I agree with Miki. It sounds more natural. If you don't like 最終日曜日、you can say 最後の日曜日.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "e25ab344fbd7a576d7241e9d36b55d37b1d6e0f4347e8db8a6c8af0816fc7226",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 449,
+      "label": "にする",
+      "source_url": "https://takoboto.jp/bunpo/449"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:35:26+00:00",
+  "response_sha256": "bb9a41aad077c83f8251a0ba86235ddc82f50cb5ed78a14d01f299b866535043",
+  "warnings": []
+}

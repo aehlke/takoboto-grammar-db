@@ -1,0 +1,593 @@
+{
+  "schema_version": 2,
+  "id": 824,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/824/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜末に",
+  "romanized_label": "sueni",
+  "alternate_forms": [
+    "〜すえに"
+  ],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "in the end, result",
+  "meaning_example": null,
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_824",
+      "body_text": "in the end, result",
+      "body_html": "<span>in the end, result</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_824",
+      "body_text": "Verb past (~た)+末+(に)Noun+末+(に)末+の+Noun",
+      "body_html": "<div><div><div>Verb past (~た)</div></div><div><div>+</div><div>末</div></div><div><div>+</div><div>(に)</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>末</div></div><div><div>+</div><div>(に)</div></div></div><div><div><div>末</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>Noun</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb past (~た) + 末 + (に)",
+    "Noun + 末 + (に)",
+    "末 + の + Noun"
+  ],
+  "examples": [
+    {
+      "source_id": 3203,
+      "position": 0,
+      "japanese": "いろいろ考えた末に、会社を辞めることにした。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d\"><span>いろいろ</span></a><a href=\"https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%9f\"><span>考えた</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ab%e3%81%ab%e3%80%81\"><strong>末に、</strong></a><a href=\"https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%82%92\"><span>会社を</span></a><a href=\"https://takoboto.jp/?q=%e8%be%9e%e3%82%81%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%81%9f%e3%80%82\"><span>辞めることにした。</span></a>",
+      "segments": [
+        {
+          "text": "いろいろ考えた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "末に、",
+          "grammar_highlight": true
+        },
+        {
+          "text": "会社を辞めることにした。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いろいろかんがえたすえに、かいしゃをやめることにした。",
+      "credits_raw": "newt, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "After thinking about various things for a long time, I decided to leave the company.",
+          "html": "<strong>After </strong><span>thinking about various things </span><strong>for a long time, </strong><span>I decided to leave the company. </span>",
+          "segments": [
+            {
+              "text": "After ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "thinking about various things ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "for a long time, ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I decided to leave the company. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 959,
+      "position": 1,
+      "japanese": "アップダウンの末に手に入れた安定感。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%a2%e3%83%83%e3%83%97%e3%83%80%e3%82%a6%e3%83%b3\"><span>アップダウン</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e6%9c%ab%e3%81%ab\"><strong>の末に</strong></a><a href=\"https://takoboto.jp/?q=%e6%89%8b%e3%81%ab\"><span>手に</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e3%82%8c%e3%81%9f\"><span>入れた</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%89%e5%ae%9a%e6%84%9f%e3%80%82\"><span>安定感。</span></a>",
+      "segments": [
+        {
+          "text": "アップダウン",
+          "grammar_highlight": false
+        },
+        {
+          "text": "の末に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "手に入れた安定感。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "アップダウンのすえにてにいれたあんていかん。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "After the ups and downs, finally get the feeling of security.",
+          "html": "<strong>After the </strong><span>ups and downs, </span><strong>finally </strong><span>get the feeling of security. </span>",
+          "segments": [
+            {
+              "text": "After the ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "ups and downs, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "finally ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "get the feeling of security. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1005,
+      "position": 2,
+      "japanese": "一晩中書いた末に、エッセイを終えた。　　←終わった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%b8%80%e6%99%a9%e4%b8%ad\"><span>一晩中</span></a><a href=\"https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%9f\"><span>書いた</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ab%e3%81%ab%e3%80%81\"><strong>末に、</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%a8%e3%83%83%e3%82%bb%e3%82%a4%e3%82%92\"><span>エッセイを</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%82%e3%81%88%e3%81%9f%e3%80%82%e3%80%80%e3%80%80%e2%86%90\"><span>終えた。　　←</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f%e3%80%82\"><span>終わった。</span></a>",
+      "segments": [
+        {
+          "text": "一晩中書いた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "末に、",
+          "grammar_highlight": true
+        },
+        {
+          "text": "エッセイを終えた。　　←終わった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いちばんちゅうかいたすえに、エッセイをおえた。←おわった。",
+      "credits_raw": "d4, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "After studying all night, I finished my essay",
+          "html": "<span>After </span><strong>studying all night, I finished my essay </strong>",
+          "segments": [
+            {
+              "text": "After ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "studying all night, I finished my essay ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3204,
+      "position": 3,
+      "japanese": "苦労した末の成功は、何よりもうれしいものです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%8b%a6%e5%8a%b4%e3%81%97%e3%81%9f\"><span>苦労した</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ab%e3%81%ae\"><strong>末の</strong></a><a href=\"https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%af%e3%80%81\"><span>成功は、</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%82%88%e3%82%8a%e3%82%82%e3%81%86%e3%82%8c%e3%81%97%e3%81%84%e3%82%82%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82\"><span>何よりもうれしいものです。</span></a>",
+      "segments": [
+        {
+          "text": "苦労した",
+          "grammar_highlight": false
+        },
+        {
+          "text": "末の",
+          "grammar_highlight": true
+        },
+        {
+          "text": "成功は、何よりもうれしいものです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "くろうしたすえのせいこうは、なによりもうれしいものです。",
+      "credits_raw": "newt, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "After a long time of hardship there is nothing more delightful than success",
+          "html": "<strong>After a long time of </strong><span>hardship </span><span>there is nothing more delightful than success </span>",
+          "segments": [
+            {
+              "text": "After a long time of ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "hardship there is nothing more delightful than success ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4358,
+      "position": 4,
+      "japanese": "一週間熟考した末に新しい計画を考えついた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%b8%80%e9%80%b1%e9%96%93\"><span>一週間</span></a><a href=\"https://takoboto.jp/?q=%e7%86%9f%e8%80%83%e3%81%97%e3%81%9f\"><span>熟考した</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ab%e3%81%ab\"><strong>末に</strong></a><a href=\"https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84\"><span>新しい</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%82%92\"><span>計画を</span></a><a href=\"https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%a4%e3%81%84%e3%81%9f%e3%80%82\"><span>考えついた。</span></a>",
+      "segments": [
+        {
+          "text": "一週間熟考した",
+          "grammar_highlight": false
+        },
+        {
+          "text": "末に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "新しい計画を考えついた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いちしゅうかんじゅっこうしたすえにあたらしいけいかくをかんがえついた。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "A week's reflection led to a new plan.",
+          "html": "<span>A week's reflection led to a new plan. </span>",
+          "segments": [
+            {
+              "text": "A week's reflection led to a new plan. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4359,
+      "position": 5,
+      "japanese": "長々と協議した末に、売り手と買い手は結局折り合った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%95%b7%e3%80%85%e3%81%a8\"><span>長々と</span></a><a href=\"https://takoboto.jp/?q=%e5%8d%94%e8%ad%b0%e3%81%97%e3%81%9f\"><span>協議した</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ab%e3%81%ab%e3%80%81\"><strong>末に、</strong></a><a href=\"https://takoboto.jp/?q=%e5%a3%b2%e3%82%8a\"><span>売り</span></a><a href=\"https://takoboto.jp/?q=%e6%89%8b%e3%81%a8\"><span>手と</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%b7%e3%81%84\"><span>買い</span></a><a href=\"https://takoboto.jp/?q=%e6%89%8b%e3%81%af\"><span>手は</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%90%e5%b1%80%e6%8a%98%e3%82%8a\"><span>結局折り</span></a><a href=\"https://takoboto.jp/?q=%e5%90%88%e3%81%a3%e3%81%9f%e3%80%82\"><span>合った。</span></a>",
+      "segments": [
+        {
+          "text": "長々と協議した",
+          "grammar_highlight": false
+        },
+        {
+          "text": "末に、",
+          "grammar_highlight": true
+        },
+        {
+          "text": "売り手と買い手は結局折り合った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ながながときょうぎしたすえに、うりてとかいてはけっきょくおりあった。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "After considerable argument, the buyer and the seller finally came to terms.",
+          "html": "<span>After considerable argument, the buyer and the seller finally came to terms. </span>",
+          "segments": [
+            {
+              "text": "After considerable argument, the buyer and the seller finally came to terms. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4360,
+      "position": 6,
+      "japanese": "ジョージは、最近３時間の格闘の末に釣った重さ３０ポンドのバスの話をしていた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%b8%e3%83%a7%e3%83%bc%e3%82%b8%e3%81%af%e3%80%81\"><span>ジョージは、</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%80%e8%bf%91%ef%bc%93%e6%99%82%e9%96%93%e3%81%ae\"><span>最近３時間の</span></a><a href=\"https://takoboto.jp/?q=%e6%a0%bc%e9%97%98%e3%81%ae\"><span>格闘の</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ab%e3%81%ab\"><strong>末に</strong></a><a href=\"https://takoboto.jp/?q=%e9%87%a3%e3%81%a3%e3%81%9f\"><span>釣った</span></a><a href=\"https://takoboto.jp/?q=%e9%87%8d%e3%81%95\"><span>重さ</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%93%ef%bc%90%e3%83%9d%e3%83%b3%e3%83%89%e3%81%ae%e3%83%90%e3%82%b9%e3%81%ae\"><span>３０ポンドのバスの</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%81%9f%e3%80%82\"><span>話をしていた。</span></a>",
+      "segments": [
+        {
+          "text": "ジョージは、最近３時間の格闘の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "末に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "釣った重さ３０ポンドのバスの話をしていた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ジョージは、さいきん３じかんのかくとうのすえにつったおもさ３０ポンドのバスのはなしをしていた。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "George was describing a 30 pound bass he'd caught recently after fighting it for three hours.",
+          "html": "<span>George was describing a 30 pound bass he'd caught recently after fighting it for three hours. </span>",
+          "segments": [
+            {
+              "text": "George was describing a 30 pound bass he'd caught recently after fighting it for three hours. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4361,
+      "position": 7,
+      "japanese": "山の方では、４月の末になって初めて地面から雪が消える。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%b1%b1%e3%81%ae\"><span>山の</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b9%e3%81%a7%e3%81%af%e3%80%81\"><span>方では、</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%94%e6%9c%88%e3%81%ae\"><span>４月の</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ab%e3%81%ab\"><strong>末に</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%a3%e3%81%a6\"><span>なって</span></a><a href=\"https://takoboto.jp/?q=%e5%88%9d%e3%82%81%e3%81%a6\"><span>初めて</span></a><a href=\"https://takoboto.jp/?q=%e5%9c%b0%e9%9d%a2%e3%81%8b%e3%82%89\"><span>地面から</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%aa%e3%81%8c\"><span>雪が</span></a><a href=\"https://takoboto.jp/?q=%e6%b6%88%e3%81%88%e3%82%8b%e3%80%82\"><span>消える。</span></a>",
+      "segments": [
+        {
+          "text": "山の方では、４月の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "末に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "なって初めて地面から雪が消える。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "やまのほうでは、しがつのすえになってはじめてじめんからゆきがきえる。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "In the mountains it is not until the end of April that the snow disappears completely from the ground.",
+          "html": "<span>In the mountains it is not until the end of April that the snow disappears completely from the ground. </span>",
+          "segments": [
+            {
+              "text": "In the mountains it is not until the end of April that the snow disappears completely from the ground. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7196,
+      "position": 8,
+      "japanese": "苦労した末の成功は，何よりもうれしいものだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%8b%a6%e5%8a%b4%e3%81%97%e3%81%9f\"><span>苦労した</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ab%e3%81%ae\"><span>末の</span></a><a href=\"https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%af\"><span>成功は</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%8c%e4%bd%95%e3%82%88%e3%82%8a%e3%82%82%e3%81%86%e3%82%8c%e3%81%97%e3%81%84%e3%82%82%e3%81%ae%e3%81%a0%e3%80%82\"><span>，何よりもうれしいものだ。</span></a>",
+      "segments": [
+        {
+          "text": "苦労した末の成功は，何よりもうれしいものだ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "くろうしたすえのせいこうは，なによりもうれしいものだ。",
+      "credits_raw": "sureshnihon",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The success in the end in which it has a hard time is glad in above all.",
+          "html": "<span>The success in the end in which it has a hard time is glad in above all. </span>",
+          "segments": [
+            {
+              "text": "The success in the end in which it has a hard time is glad in above all. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8453,
+      "position": 9,
+      "japanese": "夏の末に咲くバラもある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%8f%e3%81%ae\"><span>夏の</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ab%e3%81%ab\"><strong>末に</strong></a><a href=\"https://takoboto.jp/?q=%e5%92%b2%e3%81%8f%e3%83%90%e3%83%a9%e3%82%82%e3%81%82%e3%82%8b%e3%80%82\"><span>咲くバラもある。</span></a>",
+      "segments": [
+        {
+          "text": "夏の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "末に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "咲くバラもある。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なつのすえにさくバラもある。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Some roses flower late in summer.",
+          "html": "<span>Some roses flower late in summer. </span>",
+          "segments": [
+            {
+              "text": "Some roses flower late in summer. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8454,
+      "position": 10,
+      "japanese": "接戦の末に彼女が当選した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%8e%a5%e6%88%a6%e3%81%ae\"><span>接戦の</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ab%e3%81%ab\"><strong>末に</strong></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c\"><span>彼女が</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%93%e9%81%b8%e3%81%97%e3%81%9f%e3%80%82\"><span>当選した。</span></a>",
+      "segments": [
+        {
+          "text": "接戦の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "末に",
+          "grammar_highlight": true
+        },
+        {
+          "text": "彼女が当選した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "せっせんのすえにかのじょがとうせんした。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She won the election as a result of the hard-fought campaign.",
+          "html": "<span>She won the election as a result of the hard-fought campaign. </span>",
+          "segments": [
+            {
+              "text": "She won the election as a result of the hard-fought campaign. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6826,
+      "position": 11,
+      "japanese": "何もおっしゃらないでください。私なりによく考えたすえに出した結論なのです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%82%82%e3%81%8a%e3%81%a3%e3%81%97%e3%82%83%e3%82%89%e3%81%aa%e3%81%84%e3%81%a7%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82\"><span>何もおっしゃらないでください。</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%aa%e3%82%8a%e3%81%ab%e3%82%88%e3%81%8f\"><span>私なりによく</span></a><a href=\"https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%9f\"><span>考えた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%88%e3%81%ab\"><strong>すえに</strong></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f\"><span>出した</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%90%e8%ab%96%e3%81%aa%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82\"><span>結論なのです。</span></a>",
+      "segments": [
+        {
+          "text": "何もおっしゃらないでください。私なりによく考えた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すえに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "出した結論なのです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なにもおっしゃらないでください。わたしなりによくかんがえたすえにだしたけつろんなのです。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Please don't say nothing. In your place, after thinking it well, I wouldn't have led to any conclusion.",
+          "html": "<span>Please don't say nothing. In your place, </span><strong>after </strong><span>thinking </span><span>it well, I wouldn't have led to any conclusion. </span>",
+          "segments": [
+            {
+              "text": "Please don't say nothing. In your place, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "after ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "thinking it well, I wouldn't have led to any conclusion. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "〜た末（に）〜\n意味：長い間〜をした後で",
+      "html": "〜た末（に）〜<br/>意味：長い間〜をした後で",
+      "credits_raw": "sureshnihon",
+      "content_sha256": "15face2249fdf7b03b50c4cf65e9d1e6378bcf91fa054ba54f8efbbbff51e14f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Noun + の 末に　\n　　成長の末に - after the growth\n\nVerb-た 末に 　\n 勉強した末に - after studying",
+      "html": "Noun + の 末に　<br/>　　成長の末に - after the growth<br/><br/>Verb-た 末に 　<br/> 勉強した末に - after studying",
+      "credits_raw": "dc",
+      "content_sha256": "8f648a33ccb881e267c3c7fd869c290c2f69f881493723d8b08f1f5833b18c15",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Why is it when I search for すえに, I cannot find this entry? I had to romanize it, which, to be frank, shouldn't be necessary.",
+      "html": "Why is it when I search for すえに, I cannot find this entry? I had to romanize it, which, to be frank, shouldn't be necessary.",
+      "credits_raw": "ljfurlong",
+      "content_sha256": "4f5bc510104b0c0e98f2313b0ca519b2d791bf24558ca7163cb628b8bd8a5af8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "this entry had only the kanji as it's primary Japanese database entry which is why you couldn't find it with a hiragana search. There is a hiragana database field which wasn't being included in the search. I have now included it and your search will work from now on. Thanks for pointing out the issue.",
+      "html": "this entry had only the kanji as it's primary Japanese database entry which is why you couldn't find it with a hiragana search. There is a hiragana database field which wasn't being included in the search. I have now included it and your search will work from now on. Thanks for pointing out the issue.",
+      "credits_raw": "yookoso",
+      "content_sha256": "6036e0a7417502dbf57b9c5851af43862ee67f461f148131e96d202ec04aca13",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "I think this is for JPLT1 rather than JPLT2.",
+      "html": "I think this is for JPLT1 rather than JPLT2.",
+      "credits_raw": "赤毛",
+      "content_sha256": "a2168769fe3a3a7be550a0f64f2c1b0867701b0d3ebd496f56d9aaab78936c00",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "末に appears on my JLPT2 lists",
+      "html": "末に appears on my JLPT2 lists",
+      "credits_raw": "DrJones",
+      "content_sha256": "a85800e4b66470194b9888b0dd943906843f0e5032146cbdc878b877ced0a8ec",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 978,
+      "label": "挙げ句",
+      "source_url": "https://takoboto.jp/bunpo/978"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:41:42+00:00",
+  "response_sha256": "5341d10b753b3f4562b2eceef0006713725be8c9999aae1060828520021dab9d",
+  "warnings": []
+}

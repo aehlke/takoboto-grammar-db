@@ -1,0 +1,640 @@
+{
+  "schema_version": 2,
+  "id": 319,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/319/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "てならない",
+  "romanized_label": "tenaranai",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "Cannot help -ing; Unbearably; Irresistibly",
+  "meaning_example": "I cannot help feeling anxious.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_319",
+      "body_text": "Cannot help -ing; Unbearably; Irresistibly \n I cannot help feeling anxious.",
+      "body_html": "<span>Cannot help -ing; Unbearably; Irresistibly</span> <br/> <span>I cannot help feeling anxious.</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_319",
+      "body_text": "V（て形）+ならないな ADJ+で+ならないい ADJ+くて+ならない＊Must omit い when using with い ADJ (Before くて）",
+      "body_html": "<div><div><div>V（て形）</div></div><div><div>+</div><div>ならない</div></div></div><div><div><div>な ADJ</div></div><div><div>+</div><div>で</div></div><div><div>+</div><div>ならない</div></div></div><div><div><div>い ADJ</div></div><div><div>+</div><div>くて</div></div><div><div>+</div><div>ならない</div></div></div><div><div><div>＊Must omit い when using with い ADJ (Before くて）</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "V（て形） + ならない",
+    "な ADJ + で + ならない",
+    "い ADJ + くて + ならない",
+    "＊Must omit い when using with い ADJ (Before くて）"
+  ],
+  "examples": [
+    {
+      "source_id": 6229,
+      "position": 0,
+      "japanese": "日本の歴史をもっと深く知りたくてならない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ae\"><span>日本の</span></a><a href=\"https://takoboto.jp/?q=%e6%ad%b4%e5%8f%b2%e3%82%92%e3%82%82%e3%81%a3%e3%81%a8\"><span>歴史をもっと</span></a><a href=\"https://takoboto.jp/?q=%e6%b7%b1%e3%81%8f\"><span>深く</span></a><a href=\"https://takoboto.jp/?q=%e7%9f%a5%e3%82%8a%e3%81%9f%e3%81%8f\"><span>知りたく</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a6%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84\"><strong>てならない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "日本の歴史をもっと深く知りたく",
+          "grammar_highlight": false
+        },
+        {
+          "text": "てならない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "にほんのれきしをもっとふかくしりたくてならない。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I'm dying to know Japanese history more deeply.",
+          "html": "<span>I'm dying to know Japanese history more deeply. </span>",
+          "segments": [
+            {
+              "text": "I'm dying to know Japanese history more deeply. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6230,
+      "position": 1,
+      "japanese": "夫が単身赴任しているので、寂しくてなりません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%ab%e3%81%8c\"><span>夫が</span></a><a href=\"https://takoboto.jp/?q=%e5%8d%98%e8%ba%ab%e8%b5%b4%e4%bb%bb%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a7%e3%80%81\"><span>単身赴任しているので、</span></a><a href=\"https://takoboto.jp/?q=%e5%af%82%e3%81%97%e3%81%8f%e3%81%a6%e3%81%aa%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>寂しくてなりません。</span></a>",
+      "segments": [
+        {
+          "text": "夫が単身赴任しているので、寂しくてなりません。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おっとがたんしんふにんしているので、さびしくてなりません。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My husband has gone alone for work, and I cannot help feeling lonely.",
+          "html": "<span>My husband has gone alone for work, and I cannot help feeling lonely. </span>",
+          "segments": [
+            {
+              "text": "My husband has gone alone for work, and I cannot help feeling lonely. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6231,
+      "position": 2,
+      "japanese": "東京の夏は暑くてならない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%9d%b1%e4%ba%ac%e3%81%ae\"><span>東京の</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%8f%e3%81%af\"><span>夏は</span></a><a href=\"https://takoboto.jp/?q=%e6%9a%91%e3%81%8f\"><span>暑く</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a6%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84\"><strong>てならない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "東京の夏は暑く",
+          "grammar_highlight": false
+        },
+        {
+          "text": "てならない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "とうきょうのなつはあつくてならない。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The summer in Tokyo is awfully hot.",
+          "html": "<span>The summer in Tokyo is awfully hot. </span>",
+          "segments": [
+            {
+              "text": "The summer in Tokyo is awfully hot. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 847,
+      "position": 3,
+      "japanese": "彼は全然仕事をしていないのに、どうしてあんなに金回りがいいのか不思議に思えてならない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a8%e7%84%b6%e4%bb%95%e4%ba%8b%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e3%80%81%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6%e3%81%82%e3%82%93%e3%81%aa%e3%81%ab\"><span>全然仕事をしていないのに、どうしてあんなに</span></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e5%9b%9e%e3%82%8a%e3%81%8c%e3%81%84%e3%81%84%e3%81%ae%e3%81%8b\"><span>金回りがいいのか</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8d%e6%80%9d%e8%ad%b0%e3%81%ab\"><span>不思議に</span></a><a href=\"https://takoboto.jp/?q=%e6%80%9d%e3%81%88%e3%81%a6\"><span>思えて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84\"><strong>ならない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "彼は全然仕事をしていないのに、どうしてあんなに金回りがいいのか不思議に思えて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ならない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはぜんぜんしごとをしていないのに、どうしてあんなにかねまわりがいいのかふしぎにおもえてならない。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You can't help but think it strange - he does no work at all yet he's still so well off.",
+          "html": "<span>You </span><strong>can't help but </strong><span>think it strange - he does no work at all yet he's still so well off. </span>",
+          "segments": [
+            {
+              "text": "You ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "can't help but ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "think it strange - he does no work at all yet he's still so well off. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 848,
+      "position": 4,
+      "japanese": "毎日が楽しくはずなのに、気分が滅入ってならない",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%af%8e%e6%97%a5%e3%81%8c\"><span>毎日が</span></a><a href=\"https://takoboto.jp/?q=%e6%a5%bd%e3%81%97%e3%81%8f%e3%81%af%e3%81%9a%e3%81%aa%e3%81%ae%e3%81%ab%e3%80%81\"><span>楽しくはずなのに、</span></a><a href=\"https://takoboto.jp/?q=%e6%b0%97%e5%88%86%e3%81%8c\"><span>気分が</span></a><a href=\"https://takoboto.jp/?q=%e6%bb%85%e5%85%a5%e3%81%a3\"><span>滅入っ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a6%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84\"><strong>てならない</strong></a>",
+      "segments": [
+        {
+          "text": "毎日が楽しくはずなのに、気分が滅入っ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "てならない",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "まいにちがたのしくはずなのに、きぶんがめいってならない",
+      "credits_raw": "Amatuka, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even though (I) should be expect every day to be enjoyable I can't stop getting depressed.",
+          "html": "<span>Even though (I) should be expect every day to be enjoyable I </span><strong>can't stop getting </strong><span>depressed. </span>",
+          "segments": [
+            {
+              "text": "Even though (I) should be expect every day to be enjoyable I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "can't stop getting ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "depressed. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 849,
+      "position": 5,
+      "japanese": "明日のプレゼンのことが心配でならない。眠れないよ〜。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%98%8e%e6%97%a5%e3%81%ae%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%81%ae%e3%81%93%e3%81%a8%e3%81%8c\"><span>明日のプレゼンのことが</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%83%e9%85%8d\"><span>心配</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84\"><strong>でならない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a><a href=\"https://takoboto.jp/?q=%e7%9c%a0%e3%82%8c%e3%81%aa%e3%81%84%e3%82%88%e3%80%9c%e3%80%82\"><span>眠れないよ〜。</span></a>",
+      "segments": [
+        {
+          "text": "明日のプレゼンのことが心配",
+          "grammar_highlight": false
+        },
+        {
+          "text": "でならない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。眠れないよ〜。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あしたのプレゼンのことがしんぱいでならない。ねむれないよ",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I can't stop worrying about tomorrow's presentation. I can't sleep!",
+          "html": "<span>I </span><strong>can't stop </strong><span>worrying about tomorrow's presentation. I can't sleep! </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "can't stop ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "worrying about tomorrow's presentation. I can't sleep! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3644,
+      "position": 6,
+      "japanese": "私には父がまだ生きていると思えてならない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ab%e3%81%af\"><span>私には</span></a><a href=\"https://takoboto.jp/?q=%e7%88%b6%e3%81%8c%e3%81%be%e3%81%a0\"><span>父がまだ</span></a><a href=\"https://takoboto.jp/?q=%e7%94%9f%e3%81%8d%e3%81%a6%e3%81%84%e3%82%8b%e3%81%a8\"><span>生きていると</span></a><a href=\"https://takoboto.jp/?q=%e6%80%9d%e3%81%88\"><span>思え</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a6%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84\"><strong>てならない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "私には父がまだ生きていると思え",
+          "grammar_highlight": false
+        },
+        {
+          "text": "てならない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしにはちちがまだいきているとおもえてならない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I can't help thinking Father is still alive.",
+          "html": "<span>I can't help thinking Father is still alive. </span>",
+          "segments": [
+            {
+              "text": "I can't help thinking Father is still alive. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8474,
+      "position": 7,
+      "japanese": "彼のいびきにはまったく我慢ならない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae%e3%81%84%e3%81%b3%e3%81%8d%e3%81%ab%e3%81%af%e3%81%be%e3%81%a3%e3%81%9f%e3%81%8f\"><span>彼のいびきにはまったく</span></a><a href=\"https://takoboto.jp/?q=%e6%88%91%e6%85%a2%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%80%82\"><span>我慢ならない。</span></a>",
+      "segments": [
+        {
+          "text": "彼のいびきにはまったく我慢ならない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれのいびきにはまったくがまんならない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I just can`t stand his snoring.",
+          "html": "<span>I just can`t stand his snoring. </span>",
+          "segments": [
+            {
+              "text": "I just can`t stand his snoring. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8475,
+      "position": 8,
+      "japanese": "彼女がなぜあんなことを言ったのか不思議でならない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c%e3%81%aa%e3%81%9c%e3%81%82%e3%82%93%e3%81%aa%e3%81%93%e3%81%a8%e3%82%92\"><span>彼女がなぜあんなことを</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%8b\"><span>言ったのか</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8d%e6%80%9d%e8%ad%b0%e3%81%a7%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%80%82\"><span>不思議でならない。</span></a>",
+      "segments": [
+        {
+          "text": "彼女がなぜあんなことを言ったのか不思議でならない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょがなぜあんなことをいったのかふしぎでならない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It`s a complete mystery to me why she said such a thing.",
+          "html": "<span>It`s a complete mystery to me why she said such a thing. </span>",
+          "segments": [
+            {
+              "text": "It`s a complete mystery to me why she said such a thing. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 682,
+      "position": 9,
+      "japanese": "戦争が始まるかもしれない。国民は不安でならない様子だ",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%88%a6%e4%ba%89%e3%81%8c\"><span>戦争が</span></a><a href=\"https://takoboto.jp/?q=%e5%a7%8b%e3%81%be%e3%82%8b%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82\"><span>始まるかもしれない。</span></a><a href=\"https://takoboto.jp/?q=%e5%9b%bd%e6%b0%91%e3%81%af\"><span>国民は</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8d%e5%ae%89\"><span>不安</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84\"><strong>でならない</strong></a><a href=\"https://takoboto.jp/?q=%e6%a7%98%e5%ad%90%e3%81%a0\"><span>様子だ</span></a>",
+      "segments": [
+        {
+          "text": "戦争が始まるかもしれない。国民は不安",
+          "grammar_highlight": false
+        },
+        {
+          "text": "でならない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "様子だ",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "せんそうがはじまるかもしれない。こくみんはふあんでならないようすだ",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "A war may start. The people can't help but feel uneasy (is the outlook?)",
+          "html": "<span>A war may start. The people </span><strong>can't help but feel </strong><span>uneasy (is the outlook?) </span>",
+          "segments": [
+            {
+              "text": "A war may start. The people ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "can't help but feel ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "uneasy (is the outlook?) ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "verb-te\n実家が思い出されてならない\nCan't help but being reminded of hometown\n\ni-adj -kute\n嬉しくてならない\nCan't help being happy\n\nna-adj -de\n不安でならない\nCan't help worrying",
+      "html": "verb-te<br/>実家が思い出されてならない<br/>Can't help but being reminded of hometown<br/><br/>i-adj -kute<br/>嬉しくてならない<br/>Can't help being happy<br/><br/>na-adj -de<br/>不安でならない<br/>Can't help worrying",
+      "credits_raw": "dc",
+      "content_sha256": "949b11130dad27920aff2845d1a006da68dbdddabc772289f0f3920ff513dd99",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "very similar to [-tetamaranai] but slightly more modern",
+      "html": "very similar to [-tetamaranai] but slightly more modern",
+      "credits_raw": "dc",
+      "content_sha256": "ddb8112770736e7bf3c088d0d6165689ab0b7bca1b05dc76bee54c7bf085c31f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "＊This expression is meant to describe insurmountable psychological or physiological feelings.\n・If the preceding adjective does not describe psychological or physiological feelings, ならない cannot be used. Also, there are a couple of adjectives describing psychological or physiological feelings that cannot be used; they are merely exceptions. For example: 痛い、嫌い、好き.\n・When a verb is connected with ならない, it is usually an idiomatic phrase of psychological feelings, and NOT of physiological feeling. The following sentence would be UNGRAMMATICAL unless ならない is replaced with たまらない:\n朝飯を食べて来なかったので、腹が減ってならない。\n(I came here without eating my breakfast, so I am awfully hungry.)\nThis is the correct sentence:\n朝飯を食べて来なかったので、腹が減ってたまらない。\n\nFORMATION:\nＶ・いＡ(て forms) + ならない\nなＡ + で + ならない",
+      "html": "＊This expression is meant to describe insurmountable psychological or physiological feelings.<br/>・If the preceding adjective does not describe psychological or physiological feelings, ならない cannot be used. Also, there are a couple of adjectives describing psychological or physiological feelings that cannot be used; they are merely exceptions. For example: 痛い、嫌い、好き.<br/>・When a verb is connected with ならない, it is usually an idiomatic phrase of psychological feelings, and NOT of physiological feeling. The following sentence would be UNGRAMMATICAL unless ならない is replaced with たまらない:<br/>朝飯を食べて来なかったので、腹が減ってならない。<br/>(I came here without eating my breakfast, so I am awfully hungry.)<br/>This is the correct sentence:<br/>朝飯を食べて来なかったので、腹が減ってたまらない。<br/><br/>FORMATION:<br/>Ｖ・いＡ(て forms) + ならない<br/>なＡ + で + ならない",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "b56cec6226ee743ebbde8b65b3f35a4ea9e41d17a6f71f9b96a02ce338741e59",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "\"The people are in a state where they can't help but be anxious\" doesn't cut it. \"The people can't help but being ill at ease or bereft with anxiety\" may not very good but better than \"be anxious.\" \"a war will start\" should perhaps be \"a war may start.\"",
+      "html": "\"The people are in a state where they can't help but be anxious\" doesn't cut it. \"The people can't help but being ill at ease or bereft with anxiety\" may not very good but better than \"be anxious.\" \"a war will start\" should perhaps be \"a war may start.\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "6dcb94fb93c110be266993b67f076f4369ab349a0b7eed1cae38353dd28dd73c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "tx, changed... \"feel uneasy\" is easier to say than ill at ease.",
+      "html": "tx, changed... \"feel uneasy\" is easier to say than ill at ease.",
+      "credits_raw": "dc",
+      "content_sha256": "d8aac745205d3e16fbe4fd87b9f2e51d5a09f272a60411d5162ca300b5ebd50a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "I am still not sure how to translate the end component tho: 様子だ : aspect, state, appearance\n= \"is the outlook\" ? of the people or the overlying situation?",
+      "html": "I am still not sure how to translate the end component tho: 様子だ : aspect, state, appearance<br/>= \"is the outlook\" ? of the people or the overlying situation?",
+      "credits_raw": "dc",
+      "content_sha256": "5facc1e21aafba77973256df9d28483aa6e0f1cddd97ebba81eef6321edf75a0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "Fair enough with the 'anxious' (I'm not sure that bit was mine in the first place) but I still don't know that that (is the outlook?) is doing lurking at the end. I'm sure 'condition' or similar could be worked into a reasonably natural English sentence.",
+      "html": "Fair enough with the 'anxious' (I'm not sure that bit was mine in the first place) but I still don't know that that (is the outlook?) is doing lurking at the end. I'm sure 'condition' or similar could be worked into a reasonably natural English sentence.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "4aeffc923060bfc083741ec1b3e52d86afbd7752df3bca3aed046da1572a7fce",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "V なる >> ならない : …てならない means そのことを禁じえない",
+      "html": "V なる &gt;&gt; ならない : …てならない means そのことを禁じえない",
+      "credits_raw": "Miki",
+      "content_sha256": "9e64bc345de2844d8cee4ebbc480f88c8e09cdf68445f4f0e4eb92d297cac281",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "彼は全然仕事をしていないのに、どうしてあんなに金回りがいいのか不思議に思えてならない。\n毎日が楽しくはずなのに、気分が滅入ってならない。\n明日のプレゼンのことが心配でならない。眠れないよ〜。",
+      "html": "彼は全然仕事をしていないのに、どうしてあんなに金回りがいいのか不思議に思えてならない。<br/>毎日が楽しくはずなのに、気分が滅入ってならない。<br/>明日のプレゼンのことが心配でならない。眠れないよ〜。",
+      "credits_raw": "Miki",
+      "content_sha256": "7b24fd8cb7aac54511d9b5230b07e07b128f040bb293843ba2b76f17dd54ddef",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Whew, thanks for all those Miki.\n翻訳が正しいといいですね。",
+      "html": "Whew, thanks for all those Miki.<br/>翻訳が正しいといいですね。",
+      "credits_raw": "Amatuka",
+      "content_sha256": "b8ac3d52f87cd72252b21a6b4390492e3da639c6b0e7f0dc18e4017a839995fa",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "How about \"A circumstance wherein the people cannot help but feel uneasy.\"",
+      "html": "How about \"A circumstance wherein the people cannot help but feel uneasy.\"",
+      "credits_raw": "Amatuka",
+      "content_sha256": "b22b4e104a531d8163816eb5f4f951287e8c56d7cc6d9bee9f9746c09bae2a5e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "Still -2 check : Should get some more examples for this one.",
+      "html": "Still -2 check : Should get some more examples for this one.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "803539c48e713d06ecc70f01e0a37c833581ee4182686b3248330b409aa68942",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "Amatsuka, thanks for the translation.;) Please delete this comment for me after you read this.",
+      "html": "Amatsuka, thanks for the translation.;) Please delete this comment for me after you read this.",
+      "credits_raw": "Miki",
+      "content_sha256": "8654280d3ea8524e877a2c3d38e6c30b786a5cf4cdfdc69e19dd5add813eaec5",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "様子だ can be \"It appears.....\"",
+      "html": "様子だ can be \"It appears.....\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "a19fe744fb998c4547e9f557e5345e1d5eabce003a8bce43fd7a6d18b6017f44",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "This is a difficult construction - the following have nearly opposite meanings:\n\nたぶん、来週は忙しくてならない。\nたぶん、来週は忙しくならない。",
+      "html": "This is a difficult construction - the following have nearly opposite meanings:<br/><br/>たぶん、来週は忙しくてならない。<br/>たぶん、来週は忙しくならない。",
+      "credits_raw": "PaulO",
+      "content_sha256": "8b2db3a4a60e8f3f31ea227b88973cb5d7a1994bd63d6db95f6d8d2f3066e9d8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 15,
+      "source_id": null,
+      "text": "For example #682, here's my idea for a translation: \"A war might break out. The people seem unbearably uneasy.\"\nI looked up lots of examples of 様子 in a sentence, and it is usually translates as \"looks\" or \"seems.\"",
+      "html": "For example #682, here's my idea for a translation: \"A war might break out. The people seem unbearably uneasy.\"<br/>I looked up lots of examples of 様子 in a sentence, and it is usually translates as \"looks\" or \"seems.\"",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "148adb0b6e71363d8349c976ac2657e2068490e98f1f180a963caca61aa521e8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 16,
+      "source_id": null,
+      "text": "Someone kindly explain this to me.I am not able to understand these lines......\nWhen a verb is connected with ならない, it is usually an idiomatic phrase of psychological feelings, and NOT of physiological feeling. The following sentence would be UNGRAMMATICAL unless ならない is replaced with たまらない:\n朝飯を食べて来なかったので、腹が減ってならない。\n(I came here without eating my breakfast, so I am awfully hungry.)\nThis is the correct sentence:\n朝飯を食べて来なかったので、腹が減ってたまらない。",
+      "html": "Someone kindly explain this to me.I am not able to understand these lines......<br/>When a verb is connected with ならない, it is usually an idiomatic phrase of psychological feelings, and NOT of physiological feeling. The following sentence would be UNGRAMMATICAL unless ならない is replaced with たまらない:<br/>朝飯を食べて来なかったので、腹が減ってならない。<br/>(I came here without eating my breakfast, so I am awfully hungry.)<br/>This is the correct sentence:<br/>朝飯を食べて来なかったので、腹が減ってたまらない。",
+      "credits_raw": "jayati",
+      "content_sha256": "7d697bf7af43dc9a3e347dc9f1ec492db459c95f079df0fa5a771df73c3d1a78",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 17,
+      "source_id": null,
+      "text": "In ex #682 could it be: \"War may begin. People seem to be anxious\"?",
+      "html": "In ex #682 could it be: \"War may begin. People seem to be anxious\"?",
+      "credits_raw": "karekano",
+      "content_sha256": "0f814cbff8111dd4c4acc6e10d6442ddb7093562e9acec34a324889921d336cc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 18,
+      "source_id": null,
+      "text": "I have lots of examples to add but they are て＋は＋ならない and I`m not sure if the particle changes the meaning... That may be a silly question of course...",
+      "html": "I have lots of examples to add but they are て＋は＋ならない and I`m not sure if the particle changes the meaning... That may be a silly question of course...",
+      "credits_raw": "karekano",
+      "content_sha256": "bcb1aa9e9adc8f2038c8b40cfe8a3901e890000464a0d9eb468547d5fc9b4165",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1590,
+      "label": "たまらない",
+      "source_url": "https://takoboto.jp/bunpo/1590"
+    },
+    {
+      "target_id": 535,
+      "label": "ないではいられない",
+      "source_url": "https://takoboto.jp/bunpo/535"
+    },
+    {
+      "target_id": 1315,
+      "label": "〜ずにはいられない",
+      "source_url": "https://takoboto.jp/bunpo/1315"
+    },
+    {
+      "target_id": 540,
+      "label": "てしょうがない; てたまらない",
+      "source_url": "https://takoboto.jp/bunpo/540"
+    },
+    {
+      "target_id": 832,
+      "label": "てたまらない",
+      "source_url": "https://takoboto.jp/bunpo/832"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:42:37+00:00",
+  "response_sha256": "5a8113cec901c7210262f97144a8e1494961f06e45446b58b4035b628f65db9a",
+  "warnings": []
+}

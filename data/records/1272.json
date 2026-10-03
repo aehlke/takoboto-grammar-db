@@ -1,0 +1,663 @@
+{
+  "schema_version": 2,
+  "id": 1272,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1272/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "通り",
+  "romanized_label": "toori",
+  "alternate_forms": [
+    "とおり"
+  ],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "in that way",
+  "meaning_example": "Didn't it turn out the way I said?",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1272",
+      "body_text": "in that way \n Didn't it turn out the way I said?",
+      "body_html": "<span>in that way</span> <br/> <span>Didn't it turn out the way I said?</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1272",
+      "body_text": "Verb+の+とおり/どおり+(に)Noun+の+とおり/どおり+(に)Noun+とおり/どおり+(に)",
+      "body_html": "<div><div><div>Verb</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>とおり/どおり</div></div><div><div>+</div><div>(に)</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>とおり/どおり</div></div><div><div>+</div><div>(に)</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>とおり/どおり</div></div><div><div>+</div><div>(に)</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb + の + とおり/どおり + (に)",
+    "Noun + の + とおり/どおり + (に)",
+    "Noun + とおり/どおり + (に)"
+  ],
+  "examples": [
+    {
+      "source_id": 6256,
+      "position": 0,
+      "japanese": "大丈夫。マニュアルに書いてあるとおりにすれば、うまくいきます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%a7%e4%b8%88%e5%a4%ab%e3%80%82%e3%83%9e%e3%83%8b%e3%83%a5%e3%82%a2%e3%83%ab%e3%81%ab\"><span>大丈夫。マニュアルに</span></a><a href=\"https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%a6%e3%81%82%e3%82%8b%e3%81%a8%e3%81%8a%e3%82%8a%e3%81%ab%e3%81%99%e3%82%8c%e3%81%b0%e3%80%81%e3%81%86%e3%81%be%e3%81%8f%e3%81%84%e3%81%8d%e3%81%be%e3%81%99%e3%80%82\"><span>書いてあるとおりにすれば、うまくいきます。</span></a>",
+      "segments": [
+        {
+          "text": "大丈夫。マニュアルに書いてあるとおりにすれば、うまくいきます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "だいじょうぶ。マニュアルにかいてあるとおりにすれば、うまくいきます。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It's okay. If you do it just like the manual says, it'll work.",
+          "html": "<span>It's okay. If you do it just like the manual says, it'll work. </span>",
+          "segments": [
+            {
+              "text": "It's okay. If you do it just like the manual says, it'll work. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6259,
+      "position": 1,
+      "japanese": "医者の指示どおり、毎日運動をすることにした。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8c%bb%e8%80%85%e3%81%ae\"><span>医者の</span></a><a href=\"https://takoboto.jp/?q=%e6%8c%87%e7%a4%ba%e3%81%a9%e3%81%8a%e3%82%8a%e3%80%81\"><span>指示どおり、</span></a><a href=\"https://takoboto.jp/?q=%e6%af%8e%e6%97%a5%e9%81%8b%e5%8b%95%e3%82%92%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%81%9f%e3%80%82\"><span>毎日運動をすることにした。</span></a>",
+      "segments": [
+        {
+          "text": "医者の指示どおり、毎日運動をすることにした。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いしゃのしじどおり、まいにちうんどうをすることにした。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Just as my doctor instructed, I decided to exercise every day.",
+          "html": "<span>Just as my doctor instructed, I decided to exercise every day. </span>",
+          "segments": [
+            {
+              "text": "Just as my doctor instructed, I decided to exercise every day. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 79,
+      "position": 2,
+      "japanese": "予想通り日本チームが優勝した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%ba%88%e6%83%b3\"><span>予想</span></a><a href=\"https://takoboto.jp/?q=%e9%80%9a%e3%82%8a\"><strong>通り</strong></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%83%81%e3%83%bc%e3%83%a0%e3%81%8c\"><span>日本チームが</span></a><a href=\"https://takoboto.jp/?q=%e5%84%aa%e5%8b%9d%e3%81%97%e3%81%9f%e3%80%82\"><span>優勝した。</span></a>",
+      "segments": [
+        {
+          "text": "予想",
+          "grammar_highlight": false
+        },
+        {
+          "text": "通り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "日本チームが優勝した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "よそうどおりにほんチームがゆうしょうした。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Just like the prediction, the Japan team won.",
+          "html": "<strong>Just like </strong><span>the prediction, the Japan team won. </span>",
+          "segments": [
+            {
+              "text": "Just like ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the prediction, the Japan team won. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 381,
+      "position": 3,
+      "japanese": "彼女はもと通り元気になった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>彼女は</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%a8\"><span>もと</span></a><a href=\"https://takoboto.jp/?q=%e9%80%9a%e3%82%8a\"><strong>通り</strong></a><a href=\"https://takoboto.jp/?q=%e5%85%83%e6%b0%97%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f\"><span>元気になった</span></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "彼女はもと",
+          "grammar_highlight": false
+        },
+        {
+          "text": "通り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "元気になった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはもとどおりげんきになった。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She's back to her original energetic self.",
+          "html": "<span>She's back to her </span><strong>original </strong><span>energetic self. </span>",
+          "segments": [
+            {
+              "text": "She's back to her ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "original ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "energetic self. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 814,
+      "position": 4,
+      "japanese": "私が言った通りになったでしょう！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%8c\"><span>私が</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f\"><span>言った</span></a><a href=\"https://takoboto.jp/?q=%e9%80%9a%e3%82%8a\"><strong>通り</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%81%a7%e3%81%97%e3%82%87%e3%81%86\"><span>になったでしょう</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%81\"><span>！</span></a>",
+      "segments": [
+        {
+          "text": "私が言った",
+          "grammar_highlight": false
+        },
+        {
+          "text": "通り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "になったでしょう！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしがいったとおりになったでしょう！",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Didn't it come out to be the way I said?",
+          "html": "<span>Didn't it come out to be </span><strong>the way </strong><span>I said? </span>",
+          "segments": [
+            {
+              "text": "Didn't it come out to be ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "the way ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I said? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3128,
+      "position": 5,
+      "japanese": "その通り！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e9%80%9a%e3%82%8a\"><strong>通り</strong></a><a href=\"https://takoboto.jp/?q=%ef%bc%81\"><span>！</span></a>",
+      "segments": [
+        {
+          "text": "その",
+          "grammar_highlight": false
+        },
+        {
+          "text": "通り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのとおり！",
+      "credits_raw": "bi-ru",
+      "translations": [
+        {
+          "language": "en",
+          "text": "That's right !",
+          "html": "<span>That's </span><strong>right </strong><span>! </span>",
+          "segments": [
+            {
+              "text": "That's ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "right ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3145,
+      "position": 6,
+      "japanese": "その問題には三通りの答えがあります。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%ab%e3%81%af\"><span>問題には</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%89%e9%80%9a%e3%82%8a%e3%81%ae\"><strong>三通りの</strong></a><a href=\"https://takoboto.jp/?q=%e7%ad%94%e3%81%88%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%80%82\"><span>答えがあります。</span></a>",
+      "segments": [
+        {
+          "text": "その問題には",
+          "grammar_highlight": false
+        },
+        {
+          "text": "三通りの",
+          "grammar_highlight": true
+        },
+        {
+          "text": "答えがあります。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのもんだいにはさんとおりのこたえがあります。",
+      "credits_raw": "bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "That question has answers in three ways.",
+          "html": "<span>That question has answers in </span><strong>three ways. </strong>",
+          "segments": [
+            {
+              "text": "That question has answers in ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "three ways. ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3146,
+      "position": 7,
+      "japanese": "先ず一通り見せて頂けますか？",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%85%88%e3%81%9a\"><span>先ず</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e9%80%9a%e3%82%8a\"><strong>一通り</strong></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%9b%e3%81%a6\"><span>見せて</span></a><a href=\"https://takoboto.jp/?q=%e9%a0%82%e3%81%91%e3%81%be%e3%81%99%e3%81%8b\"><span>頂けますか</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%9f\"><span>？</span></a>",
+      "segments": [
+        {
+          "text": "先ず",
+          "grammar_highlight": false
+        },
+        {
+          "text": "一通り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "見せて頂けますか？",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "まずいちとおりみせていただけますか？",
+      "credits_raw": "bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Would you mind if I browse through them first?",
+          "html": "<span>Would you mind if I </span><strong>browse through them </strong><span>first? </span>",
+          "segments": [
+            {
+              "text": "Would you mind if I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "browse through them ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "first? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6257,
+      "position": 8,
+      "japanese": "昨日のサッカーの試合は、期待されたとおりにＡ国が勝った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%98%a8%e6%97%a5%e3%81%ae%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e3%81%ae\"><span>昨日のサッカーの</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%a6%e5%90%88%e3%81%af%e3%80%81\"><span>試合は、</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%9f%e5%be%85%e3%81%95%e3%82%8c%e3%81%9f\"><span>期待された</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%8a%e3%82%8a%e3%81%ab\"><strong>とおりに</strong></a><a href=\"https://takoboto.jp/?q=%ef%bc%a1%e5%9b%bd%e3%81%8c\"><span>Ａ国が</span></a><a href=\"https://takoboto.jp/?q=%e5%8b%9d%e3%81%a3%e3%81%9f%e3%80%82\"><span>勝った。</span></a>",
+      "segments": [
+        {
+          "text": "昨日のサッカーの試合は、期待された",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とおりに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "Ａ国が勝った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きのうのサッカーのしあいは、きたいされたとおりにえいこくがかった。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "At yesterday's soccer game, Country A won just as expected .",
+          "html": "<span>At yesterday's soccer game, Country A won </span><strong>just as expected </strong><span>. </span>",
+          "segments": [
+            {
+              "text": "At yesterday's soccer game, Country A won ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "just as expected ",
+              "grammar_highlight": true
+            },
+            {
+              "text": ". ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6258,
+      "position": 9,
+      "japanese": "天気予報とおり、午後から雨になった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%a9%e6%b0%97%e4%ba%88%e5%a0%b1\"><span>天気予報</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%8a%e3%82%8a\"><strong>とおり</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e5%8d%88%e5%be%8c%e3%81%8b%e3%82%89\"><span>午後から</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82\"><span>雨になった。</span></a>",
+      "segments": [
+        {
+          "text": "天気予報",
+          "grammar_highlight": false
+        },
+        {
+          "text": "とおり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、午後から雨になった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "てんきよほうとおり、ごごからあめになった。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Just as predicted , it started raining in the afternoon.",
+          "html": "<strong>Just as predicted </strong><span>, it started raining in the afternoon. </span>",
+          "segments": [
+            {
+              "text": "Just as predicted ",
+              "grammar_highlight": true
+            },
+            {
+              "text": ", it started raining in the afternoon. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8489,
+      "position": 10,
+      "japanese": "その規則は数通りに解釈できる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8f%e5%89%87%e3%81%af\"><span>規則は</span></a><a href=\"https://takoboto.jp/?q=%e6%95%b0\"><span>数</span></a><a href=\"https://takoboto.jp/?q=%e9%80%9a%e3%82%8a\"><strong>通り</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab\"><span>に</span></a><a href=\"https://takoboto.jp/?q=%e8%a7%a3%e9%87%88%e3%81%a7%e3%81%8d%e3%82%8b%e3%80%82\"><span>解釈できる。</span></a>",
+      "segments": [
+        {
+          "text": "その規則は数",
+          "grammar_highlight": false
+        },
+        {
+          "text": "通り",
+          "grammar_highlight": true
+        },
+        {
+          "text": "に解釈できる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのきそくはすうとおりにかいしゃくできる。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The rule can be read several ways.",
+          "html": "<span>The rule can be read several ways. </span>",
+          "segments": [
+            {
+              "text": "The rule can be read several ways. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8788,
+      "position": 11,
+      "japanese": "私が今から言うのとおりにやってください。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%8c%e4%bb%8a%e3%81%8b%e3%82%89%e8%a8%80%e3%81%86%e3%81%ae%e3%81%a8%e3%81%8a%e3%82%8a%e3%81%ab%e3%82%84%e3%81%a3%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82\"><span>私が今から言うのとおりにやってください。</span></a>",
+      "segments": [
+        {
+          "text": "私が今から言うのとおりにやってください。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしがいまからいうのとおりにやってください。",
+      "credits_raw": "バラティ",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Please do as I tell you now.",
+          "html": "<span>Please do as I tell you now. </span>",
+          "segments": [
+            {
+              "text": "Please do as I tell you now. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "see [basis-of-action-group] for similar items and comparisons.",
+      "html": "see [basis-of-action-group] for similar items and comparisons.",
+      "credits_raw": "dc",
+      "content_sha256": "9e7419b5d2fc3c68dca237f4ac084933aac6e1e70103b4f102844cdcf7d34fd9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "FORMATION:\nＶ(dict. form/たform/ているform) + とおり(に)\nＮ + の + とおり(に)\nＮ + どおり(に)",
+      "html": "FORMATION:<br/>Ｖ(dict. form/たform/ているform) + とおり(に)<br/>Ｎ + の + とおり(に)<br/>Ｎ + どおり(に)",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "039eecd29bd150e3ed1c20f36223a38cc1575cd2f6574bc1ace2f123dc3a77c9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "私が言った通りになったでしょう！\nwatashi ga itta _toori_ ni natta deshou!",
+      "html": "私が言った通りになったでしょう！<br/>watashi ga itta _toori_ ni natta deshou!",
+      "credits_raw": "Miki",
+      "content_sha256": "7c6d2fda5a9f0f8a1be933d809c65ca01f81017eba5109c0cffd137aa488c0c1",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Formed from (plain) verb + toori or\nnoun + toori.\nNote that a euphonic change to doori is possible depending on what it follows.\n\nV = Verb\nN = Noun",
+      "html": "Formed from (plain) verb + toori or<br/>noun + toori.<br/>Note that a euphonic change to doori is possible depending on what it follows.<br/><br/>V = Verb<br/>N = Noun",
+      "credits_raw": "Amatuka",
+      "content_sha256": "0d922c125e2667d7886ac06810fc4f29d83f02611475670b448966d170b50f9b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "when does it have に after?\n私が教えた通りに、、",
+      "html": "when does it have に after?<br/>私が教えた通りに、、",
+      "credits_raw": "dc",
+      "content_sha256": "f6a18abbae484f98becbc9887da8b4b8348d819debe49167f6bb045929a171f6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "You can also say \n予想 通りに 日本チームが優勝した。\n彼女は もと 通りに 元気になった。",
+      "html": "You can also say <br/>予想 通りに 日本チームが優勝した。<br/>彼女は もと 通りに 元気になった。",
+      "credits_raw": "Miki",
+      "content_sha256": "857b3830cd7b5a588a837bcb1ecd19f5aa7ca78fc3cefd30f3d5f664f89bd3cd",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "The example is actually 'doori'. 予想通り 【よそうどおり】 (exp) as expected (neutral and negative events); as feared",
+      "html": "The example is actually 'doori'. 予想通り 【よそうどおり】 (exp) as expected (neutral and negative events); as feared",
+      "credits_raw": "Amatuka",
+      "content_sha256": "1292c545a9d16c3f993e57218a1f3cc79e71d0b2c858a8f5bb8ec91356a6eca9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "Many '通り' 'toori' examples are actually a literal 'way' as in street.",
+      "html": "Many '通り' 'toori' examples are actually a literal 'way' as in street.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "1239ea69c71486c6fa8567b6141048f8d51078915f18a0200931f3798508238b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "chizu no toori ni mairimashta kara, zenzen mayoimasen deshta.",
+      "html": "chizu no toori ni mairimashta kara, zenzen mayoimasen deshta.",
+      "credits_raw": "prachi_saurabh",
+      "content_sha256": "244da80f8feadc8b49ef7f4ae7ed67f9faeb41a463c51f49951bc4feccd88db1",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "toori ni.... expreses the idea that something takes place in the same way as something... or it could be negative also.. means doesn't take place..",
+      "html": "toori ni.... expreses the idea that something takes place in the same way as something... or it could be negative also.. means doesn't take place..",
+      "credits_raw": "prachi_saurabh",
+      "content_sha256": "76e264df1fa3192d7b8a95b5831db2f389df9a78e30e2fc93d536cb73e36086f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "\"expreses the idea that something takes place in the same way as something\" does not make any sense at all.",
+      "html": "\"expreses the idea that something takes place in the same way as something\" does not make any sense at all.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "3d8353653831e3f10d9a22f86ffd3e2e194fe1ad850a052c55d52df10e021819",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "I have always thought of　\n「〜 通りに」　as ”like 〜”\n\nand \n「〜通り」as \"same way as 〜\" \n\nローマにいる間、ローマ人の通りにします｡\nwhile in rome, do like the romans do.\n\nローマにいる間、ローマ人の通りします｡\nwhile in rome, do things the way romans do.\n\nthe meaning doesn`t change much, but thinking of it like this makes translation less complicated.",
+      "html": "I have always thought of　<br/>「〜 通りに」　as ”like 〜”<br/><br/>and <br/>「〜通り」as \"same way as 〜\" <br/><br/>ローマにいる間、ローマ人の通りにします｡<br/>while in rome, do like the romans do.<br/><br/>ローマにいる間、ローマ人の通りします｡<br/>while in rome, do things the way romans do.<br/><br/>the meaning doesn`t change much, but thinking of it like this makes translation less complicated.",
+      "credits_raw": "tigert",
+      "content_sha256": "faf378752d3fe660f09cd962a701bc833d231dc39057e8f9d4647176ca8964d6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "In ex #6257, I don't understand \"卵z\". So instead of \"Checked\" I changed it to \"suspicious\"...",
+      "html": "In ex #6257, I don't understand \"卵z\". So instead of \"Checked\" I changed it to \"suspicious\"...",
+      "credits_raw": "赤毛",
+      "content_sha256": "6396d01dfe085f0aa6e5dd6065bbc553a6263cd6004c3f3a5b2ff660c8887f34",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "私が今から考えているのとおりに起こっています。\nIt's happening exactly as I think it is.",
+      "html": "私が今から考えているのとおりに起こっています。<br/>It's happening exactly as I think it is.",
+      "credits_raw": "バラティ",
+      "content_sha256": "d78bc5915ef8b9c72fef65396f1bd02d26f75517828704cc1000c9c7c457d97e",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:37:36+00:00",
+  "response_sha256": "4edebcadd9be4e616ca6f3b52e0638a11e1c26a7a1c00fc9ee8aeb06eaab0c93",
+  "warnings": []
+}

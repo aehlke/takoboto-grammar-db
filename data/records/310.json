@@ -1,0 +1,830 @@
+{
+  "schema_version": 2,
+  "id": 310,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/310/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜ものなら",
+  "romanized_label": "mononara",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "if .. is possible, then...",
+  "meaning_example": "if i can go",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_310",
+      "body_text": "if .. is possible, then... \n if i can go",
+      "body_html": "<span>if .. is possible, then...</span> <br/> <span>if i can go</span>",
+      "credits_raw": "dc"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 3228,
+      "position": 0,
+      "japanese": "父は、たいへん厳しいんです。夜遅く帰ろうものなら、家に入れてもらえません",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%88%b6%e3%81%af%e3%80%81%e3%81%9f%e3%81%84%e3%81%b8%e3%82%93\"><span>父は、たいへん</span></a><a href=\"https://takoboto.jp/?q=%e5%8e%b3%e3%81%97%e3%81%84%e3%82%93%e3%81%a7%e3%81%99%e3%80%82\"><span>厳しいんです。</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%9c%e9%81%85%e3%81%8f\"><span>夜遅く</span></a><a href=\"https://takoboto.jp/?q=%e5%b8%b0%e3%82%8d%e3%81%86\"><span>帰ろう</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%b6%e3%81%ab\"><span>家に</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e3%82%8c%e3%81%a6%e3%82%82%e3%82%89%e3%81%88%e3%81%be%e3%81%9b%e3%82%93\"><span>入れてもらえません</span></a>",
+      "segments": [
+        {
+          "text": "父は、たいへん厳しいんです。夜遅く帰ろう",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、家に入れてもらえません",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ちちは、たいへんきびしいんです。よるおそくかえろうものなら、いえにいれてもらえません",
+      "credits_raw": "kankun, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My father is very strict. If I come home late, he won't let me in.",
+          "html": "<span>My father is very strict. If I come home late, he won't let me in. </span>",
+          "segments": [
+            {
+              "text": "My father is very strict. If I come home late, he won't let me in. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 265,
+      "position": 1,
+      "japanese": "行けるものならヨーロッパ へ（に） 行って見たい。でも、僕お金ないし、無理かな。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%91%e3%82%8b\"><span>行ける</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%83%a8%e3%83%bc%e3%83%ad%e3%83%83%e3%83%91+%e3%81%b8\"><span>ヨーロッパ へ</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%88%e3%81%ab\"><span>（に</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%89+\"><span>） </span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%a6\"><span>行って</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%9f%e3%81%84%e3%80%82%e3%81%a7%e3%82%82%e3%80%81\"><span>見たい。でも、</span></a><a href=\"https://takoboto.jp/?q=%e5%83%95%e3%81%8a\"><span>僕お</span></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e3%81%aa%e3%81%84%e3%81%97%e3%80%81\"><span>金ないし、</span></a><a href=\"https://takoboto.jp/?q=%e7%84%a1%e7%90%86%e3%81%8b%e3%81%aa%e3%80%82\"><span>無理かな。</span></a>",
+      "segments": [
+        {
+          "text": "行ける",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ヨーロッパ へ（に） 行って見たい。でも、僕お金ないし、無理かな。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いけるものならヨーロッパへ（に）おこなってみたい。でも、ぼくおかねないし、むりかな。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If I can go, I'd like to go to europe. But I've got no money, so it's impossible ya know.",
+          "html": "<strong>If </strong><span>I can go, I'd like to go to europe. But I've got no money, so it's impossible ya know. </span>",
+          "segments": [
+            {
+              "text": "If ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I can go, I'd like to go to europe. But I've got no money, so it's impossible ya know. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3715,
+      "position": 2,
+      "japanese": "そうすれば目にみえるものならなんだって。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%86%e3%81%99%e3%82%8c%e3%81%b0\"><span>そうすれば</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%ae%e3%81%ab%e3%81%bf%e3%81%88%e3%82%8b\"><span>目にみえる</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a0%e3%81%a3%e3%81%a6%e3%80%82\"><span>なんだって。</span></a>",
+      "segments": [
+        {
+          "text": "そうすれば目にみえる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "なんだって。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そうすればめにみえるものならなんだって。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Well you can indicate everything you see.",
+          "html": "<span>Well you can indicate everything you see. </span>",
+          "segments": [
+            {
+              "text": "Well you can indicate everything you see. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3716,
+      "position": 3,
+      "japanese": "その伝言が重要なものなら彼に電話しなさい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9d%e8%a8%80%e3%81%8c\"><span>伝言が</span></a><a href=\"https://takoboto.jp/?q=%e9%87%8d%e8%a6%81%e3%81%aa\"><span>重要な</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab\"><span>彼に</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%97%e3%81%aa%e3%81%95%e3%81%84%e3%80%82\"><span>電話しなさい。</span></a>",
+      "segments": [
+        {
+          "text": "その伝言が重要な",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "彼に電話しなさい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのでんごんがじゅうようなものならかれにでんわしなさい。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Telephone him if the message is important.",
+          "html": "<span>Telephone him if the message is important. </span>",
+          "segments": [
+            {
+              "text": "Telephone him if the message is important. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3717,
+      "position": 4,
+      "japanese": "意志の弱い人は批判の的になる。だから友達でさえも、その欠点を直せるものならとおもってかれをいじめようとするだろう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%84%8f%e5%bf%97%e3%81%ae\"><span>意志の</span></a><a href=\"https://takoboto.jp/?q=%e5%bc%b1%e3%81%84\"><span>弱い</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%af\"><span>人は</span></a><a href=\"https://takoboto.jp/?q=%e6%89%b9%e5%88%a4%e3%81%ae\"><span>批判の</span></a><a href=\"https://takoboto.jp/?q=%e7%9a%84%e3%81%ab%e3%81%aa%e3%82%8b%e3%80%82%e3%81%a0%e3%81%8b%e3%82%89\"><span>的になる。だから</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%81%a7%e3%81%95%e3%81%88%e3%82%82%e3%80%81%e3%81%9d%e3%81%ae\"><span>友達でさえも、その</span></a><a href=\"https://takoboto.jp/?q=%e6%ac%a0%e7%82%b9%e3%82%92\"><span>欠点を</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%b4%e3%81%9b%e3%82%8b\"><span>直せる</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%8a%e3%82%82%e3%81%a3%e3%81%a6%e3%81%8b%e3%82%8c%e3%82%92%e3%81%84%e3%81%98%e3%82%81%e3%82%88%e3%81%86%e3%81%a8%e3%81%99%e3%82%8b%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82\"><span>とおもってかれをいじめようとするだろう。</span></a>",
+      "segments": [
+        {
+          "text": "意志の弱い人は批判の的になる。だから友達でさえも、その欠点を直せる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "とおもってかれをいじめようとするだろう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いしのよわいひとはひはんのまとになる。だからともだちでさえも、そのけってんをなおせるものならとおもってかれをいじめようとするだろう。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "A man of weak will is the target of criticism; even his friends would badger him into correcting his defects.",
+          "html": "<span>A man of weak will is the target of criticism; even his friends would badger him into correcting his defects. </span>",
+          "segments": [
+            {
+              "text": "A man of weak will is the target of criticism; even his friends would badger him into correcting his defects. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3718,
+      "position": 5,
+      "japanese": "意思の弱い人は批判の的になる。だから友だちでさえも、その欠点を直せるものならとおもってかれをいじめようとするだろう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%84%8f%e6%80%9d%e3%81%ae\"><span>意思の</span></a><a href=\"https://takoboto.jp/?q=%e5%bc%b1%e3%81%84\"><span>弱い</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%af\"><span>人は</span></a><a href=\"https://takoboto.jp/?q=%e6%89%b9%e5%88%a4%e3%81%ae\"><span>批判の</span></a><a href=\"https://takoboto.jp/?q=%e7%9a%84%e3%81%ab%e3%81%aa%e3%82%8b%e3%80%82%e3%81%a0%e3%81%8b%e3%82%89\"><span>的になる。だから</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%8b%e3%81%a0%e3%81%a1%e3%81%a7%e3%81%95%e3%81%88%e3%82%82%e3%80%81%e3%81%9d%e3%81%ae\"><span>友だちでさえも、その</span></a><a href=\"https://takoboto.jp/?q=%e6%ac%a0%e7%82%b9%e3%82%92\"><span>欠点を</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%b4%e3%81%9b%e3%82%8b\"><span>直せる</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%8a%e3%82%82%e3%81%a3%e3%81%a6%e3%81%8b%e3%82%8c%e3%82%92%e3%81%84%e3%81%98%e3%82%81%e3%82%88%e3%81%86%e3%81%a8%e3%81%99%e3%82%8b%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82\"><span>とおもってかれをいじめようとするだろう。</span></a>",
+      "segments": [
+        {
+          "text": "意思の弱い人は批判の的になる。だから友だちでさえも、その欠点を直せる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "とおもってかれをいじめようとするだろう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いしのよわいひとはひはんのまとになる。だからともだちでさえも、そのけってんをなおせるものならとおもってかれをいじめようとするだろう。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "A man of weak will is the target of criticism; even his friends would badger him into correcting his defects.",
+          "html": "<span>A man of weak will is the target of criticism; even his friends would badger him into correcting his defects. </span>",
+          "segments": [
+            {
+              "text": "A man of weak will is the target of criticism; even his friends would badger him into correcting his defects. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3719,
+      "position": 6,
+      "japanese": "仮にも為す価値があるものならば何でも良く為す価値がある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%ae%e3%81%ab%e3%82%82\"><span>仮にも</span></a><a href=\"https://takoboto.jp/?q=%e7%82%ba%e3%81%99\"><span>為す</span></a><a href=\"https://takoboto.jp/?q=%e4%be%a1%e5%80%a4%e3%81%8c%e3%81%82%e3%82%8b\"><span>価値がある</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%b0\"><span>ば</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%a7%e3%82%82\"><span>何でも</span></a><a href=\"https://takoboto.jp/?q=%e8%89%af%e3%81%8f\"><span>良く</span></a><a href=\"https://takoboto.jp/?q=%e7%82%ba%e3%81%99\"><span>為す</span></a><a href=\"https://takoboto.jp/?q=%e4%be%a1%e5%80%a4%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82\"><span>価値がある。</span></a>",
+      "segments": [
+        {
+          "text": "仮にも為す価値がある",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ば何でも良く為す価値がある。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かりにもなすかちがあるものならばなんでもよくなすかちがある。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Whatever is worth doing at all, is worth doing well.",
+          "html": "<span>Whatever is worth doing at all, is worth doing well. </span>",
+          "segments": [
+            {
+              "text": "Whatever is worth doing at all, is worth doing well. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3720,
+      "position": 7,
+      "japanese": "自分のものならガチョウも白鳥に見える。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae\"><span>自分の</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%ac%e3%83%81%e3%83%a7%e3%82%a6%e3%82%82\"><span>ガチョウも</span></a><a href=\"https://takoboto.jp/?q=%e7%99%bd%e9%b3%a5%e3%81%ab\"><span>白鳥に</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%88%e3%82%8b%e3%80%82\"><span>見える。</span></a>",
+      "segments": [
+        {
+          "text": "自分の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ガチョウも白鳥に見える。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "じぶんのものならガチョウもはくちょうにみえる。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "All his geese are swans.[Aphorism]",
+          "html": "<span>All his geese are swans.[Aphorism] </span>",
+          "segments": [
+            {
+              "text": "All his geese are swans.[Aphorism] ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3721,
+      "position": 8,
+      "japanese": "自分のものなら何でも最高。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae\"><span>自分の</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%a7%e3%82%82%e6%9c%80%e9%ab%98%e3%80%82\"><span>何でも最高。</span></a>",
+      "segments": [
+        {
+          "text": "自分の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "何でも最高。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "じぶんのものならなんでもさいこう。",
+      "credits_raw": "dbx, パラス",
+      "translations": [
+        {
+          "language": "en",
+          "text": "For me, everything is wonderful.",
+          "html": "<span>For me, everything is wonderful. </span>",
+          "segments": [
+            {
+              "text": "For me, everything is wonderful. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3722,
+      "position": 9,
+      "japanese": "選んでいただいたものなら何でも結構です。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%81%b8%e3%82%93%e3%81%a7%e3%81%84%e3%81%9f%e3%81%a0%e3%81%84%e3%81%9f\"><span>選んでいただいた</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%a7%e3%82%82\"><span>何でも</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%90%e6%a7%8b%e3%81%a7%e3%81%99%e3%80%82\"><span>結構です。</span></a>",
+      "segments": [
+        {
+          "text": "選んでいただいた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "何でも結構です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "えらんでいただいたものならなにでもけっこうです。",
+      "credits_raw": "dbx, Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Whatever you pick is fine.",
+          "html": "<span>Whatever you pick is fine. </span>",
+          "segments": [
+            {
+              "text": "Whatever you pick is fine. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3723,
+      "position": 10,
+      "japanese": "彼はちょっと面白いものなら何でもとびつきます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8\"><span>彼はちょっと</span></a><a href=\"https://takoboto.jp/?q=%e9%9d%a2%e7%99%bd%e3%81%84\"><span>面白い</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%a7%e3%82%82%e3%81%a8%e3%81%b3%e3%81%a4%e3%81%8d%e3%81%be%e3%81%99%e3%80%82\"><span>何でもとびつきます。</span></a>",
+      "segments": [
+        {
+          "text": "彼はちょっと面白い",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "何でもとびつきます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはちょっとおもしろいものならなにでもとびつきます。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He goes in for whatever he finds interesting at the moment.",
+          "html": "<span>He goes in for whatever he finds interesting at the moment. </span>",
+          "segments": [
+            {
+              "text": "He goes in for whatever he finds interesting at the moment. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3724,
+      "position": 11,
+      "japanese": "彼は甘いものならなんでも好きです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e7%94%98%e3%81%84\"><span>甘い</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a7%e3%82%82\"><span>なんでも</span></a><a href=\"https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a7%e3%81%99%e3%80%82\"><span>好きです。</span></a>",
+      "segments": [
+        {
+          "text": "彼は甘い",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "なんでも好きです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはあまいものならなんでもすきです。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He likes anything sweet.",
+          "html": "<span>He likes anything sweet. </span>",
+          "segments": [
+            {
+              "text": "He likes anything sweet. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5895,
+      "position": 12,
+      "japanese": "楽しかった子供のころに、戻れるものなら戻りたい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%a5%bd%e3%81%97%e3%81%8b%e3%81%a3%e3%81%9f\"><span>楽しかった</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%ae%e3%81%93%e3%82%8d%e3%81%ab%e3%80%81\"><span>子供のころに、</span></a><a href=\"https://takoboto.jp/?q=%e6%88%bb%e3%82%8c%e3%82%8b\"><span>戻れる</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e6%88%bb%e3%82%8a%e3%81%9f%e3%81%84%e3%80%82\"><span>戻りたい。</span></a>",
+      "segments": [
+        {
+          "text": "楽しかった子供のころに、戻れる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "戻りたい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "たのしかったこどものころに、もどれるものならもどりたい。",
+      "credits_raw": "誠",
+      "translations": [
+        {
+          "language": "en",
+          "text": "if it is possible that/if only I could go back to the fun days of my childhood, I would.",
+          "html": "<strong>if it is possible that/if only </strong><span>I could go back to the fun days of my childhood, I would. </span>",
+          "segments": [
+            {
+              "text": "if it is possible that/if only ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I could go back to the fun days of my childhood, I would. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5896,
+      "position": 13,
+      "japanese": "彼女に秘密を教えようものなら、すぐ皆に知られてしまう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ab\"><span>彼女に</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%98%e5%af%86%e3%82%92\"><span>秘密を</span></a><a href=\"https://takoboto.jp/?q=%e6%95%99%e3%81%88\"><span>教え</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ようものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%99%e3%81%90\"><span>、すぐ</span></a><a href=\"https://takoboto.jp/?q=%e7%9a%86%e3%81%ab\"><span>皆に</span></a><a href=\"https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%82%8c%e3%81%a6%e3%81%97%e3%81%be%e3%81%86%e3%80%82\"><span>知られてしまう。</span></a>",
+      "segments": [
+        {
+          "text": "彼女に秘密を教え",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、すぐ皆に知られてしまう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょにひみつをおしえようものなら、すぐみんなにしられてしまう。",
+      "credits_raw": "誠",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If you happen to tell her a secret, everyone will know your secret in no time .",
+          "html": "<span>If you </span><strong>happen to </strong><span>tell her a secret, everyone will know your secret </span><strong>in no time </strong><span>. </span>",
+          "segments": [
+            {
+              "text": "If you ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "happen to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "tell her a secret, everyone will know your secret ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "in no time ",
+              "grammar_highlight": true
+            },
+            {
+              "text": ". ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6578,
+      "position": 14,
+      "japanese": "帰れるものなら、今すぐ国へ帰りたい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%b8%b0%e3%82%8c%e3%82%8b\"><span>帰れる</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%81%99%e3%81%90\"><span>今すぐ</span></a><a href=\"https://takoboto.jp/?q=%e5%9b%bd%e3%81%b8\"><span>国へ</span></a><a href=\"https://takoboto.jp/?q=%e5%b8%b0%e3%82%8a%e3%81%9f%e3%81%84%e3%80%82\"><span>帰りたい。</span></a>",
+      "segments": [
+        {
+          "text": "帰れる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、今すぐ国へ帰りたい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かえれるものなら、いますぐくにへかえりたい。",
+      "credits_raw": "hana",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If I could, I'd like to go back to my country right now.",
+          "html": "<span>If I could, I'd like to go back to my country right now. </span>",
+          "segments": [
+            {
+              "text": "If I could, I'd like to go back to my country right now. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6579,
+      "position": 15,
+      "japanese": "やれるもんなら、やってみろ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%84%e3%82%8c%e3%82%8b%e3%82%82%e3%82%93%e3%81%aa%e3%82%89%e3%80%81%e3%82%84%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8d%e3%80%82\"><span>やれるもんなら、やってみろ。</span></a>",
+      "segments": [
+        {
+          "text": "やれるもんなら、やってみろ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "やれるもんなら、やってみろ。",
+      "credits_raw": "hana",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If you can do it, then let's see you try.",
+          "html": "<span>If you can do it, then let's see you try. </span>",
+          "segments": [
+            {
+              "text": "If you can do it, then let's see you try. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6947,
+      "position": 16,
+      "japanese": "「変な格好」をしている若者が何か失敗でもしようものなら、その外見ゆえになにかと後ろ指を差される。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%80%8c\"><span>「</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%89%e3%81%aa\"><span>変な</span></a><a href=\"https://takoboto.jp/?q=%e6%a0%bc%e5%a5%bd%e3%80%8d%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b\"><span>格好」をしている</span></a><a href=\"https://takoboto.jp/?q=%e8%8b%a5%e8%80%85%e3%81%8c\"><span>若者が</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%8b\"><span>何か</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%b1%e6%95%97%e3%81%a7%e3%82%82%e3%81%97\"><span>失敗でもし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89\"><strong>ようものなら</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%81%ae\"><span>、その</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%96%e8%a6%8b%e3%82%86%e3%81%88%e3%81%ab%e3%81%aa%e3%81%ab%e3%81%8b%e3%81%a8\"><span>外見ゆえになにかと</span></a><a href=\"https://takoboto.jp/?q=%e5%be%8c%e3%82%8d\"><span>後ろ</span></a><a href=\"https://takoboto.jp/?q=%e6%8c%87%e3%82%92\"><span>指を</span></a><a href=\"https://takoboto.jp/?q=%e5%b7%ae%e3%81%95%e3%82%8c%e3%82%8b%e3%80%82\"><span>差される。</span></a>",
+      "segments": [
+        {
+          "text": "「変な格好」をしている若者が何か失敗でもし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようものなら",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、その外見ゆえになにかと後ろ指を差される。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "「へんなかっこう」をしているわかものがなにかしっぱいでもしようものなら、そのがいけんゆえになにかとうしろゆびをさされる。",
+      "credits_raw": "jaystarkey",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If youngsters who wear \"odd clothes\" ever screw up, people blame it on their outward appearance.",
+          "html": "<span>If youngsters who wear \"odd clothes\" </span><strong>ever </strong><span>screw up, people blame it on their outward appearance. </span>",
+          "segments": [
+            {
+              "text": "If youngsters who wear \"odd clothes\" ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "ever ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "screw up, people blame it on their outward appearance. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8618,
+      "position": 17,
+      "japanese": "君とは渋谷に遊びに行けるものなら行きたい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%a8%e3%81%af%e6%b8%8b%e8%b0%b7%e3%81%ab%e9%81%8a%e3%81%b3%e3%81%ab%e8%a1%8c%e3%81%91%e3%82%8b%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89%e8%a1%8c%e3%81%8d%e3%81%9f%e3%81%84%e3%80%82\"><strong>君とは渋谷に遊びに行けるものなら行きたい。</strong></a>",
+      "segments": [
+        {
+          "text": "君とは渋谷に遊びに行けるものなら行きたい。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "きみとはしぶやにあそびにいけるものならいきたい。",
+      "credits_raw": "dev123",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If I could go to Shibuya with you to hang out, I would.",
+          "html": "<strong>If I could go to Shibuya with you to hang out, I would. </strong>",
+          "segments": [
+            {
+              "text": "If I could go to Shibuya with you to hang out, I would. ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "動詞可能形　＋　〜ものなら：　〜ことが可能なら　（実現が難しいことについて言うことが多い）\n \"If only I could/may...,\" \n\n〜う／ようものなら： もし〜ようなことをしたら．．．（大変なことになる） Once if (one) happen to ... , then (bad consequence).\"",
+      "html": "動詞可能形　＋　〜ものなら：　〜ことが可能なら　（実現が難しいことについて言うことが多い）<br/> \"If only I could/may...,\" <br/><br/>〜う／ようものなら： もし〜ようなことをしたら．．．（大変なことになる） Once if (one) happen to ... , then (bad consequence).\"",
+      "credits_raw": "誠",
+      "content_sha256": "8b1d61084db9d5cb1fb248bee0137b04d0e24c0aba077f493fcbf70e8be7a532",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Used when one wishes to do something difficult.\nUsually used together with the potential form.",
+      "html": "Used when one wishes to do something difficult.<br/>Usually used together with the potential form.",
+      "credits_raw": "halx",
+      "content_sha256": "12c0307e03cefed2f8fc7fa54304cdb674de77b5ec29c6a67810d37ed547271a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "\"if\" does not quite get you there. For example, \"If I come home late, he won't let me in\" should perhaps be \"Would I come home late, he won't let me in the house.\"\nものなら is not iffy.",
+      "html": "\"if\" does not quite get you there. For example, \"If I come home late, he won't let me in\" should perhaps be \"Would I come home late, he won't let me in the house.\"<br/>ものなら is not iffy.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "2ead92c4dd7b7dad4e00907271d365fea5853eb847911e1b1ad8d7f438a501d1",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "ex #3724 has nothing to do with this grammar point.\n甘いもの (= sweets) just happens to be suffixed with なら (group 3)",
+      "html": "ex #3724 has nothing to do with this grammar point.<br/>甘いもの (= sweets) just happens to be suffixed with なら (group 3)",
+      "credits_raw": "halx",
+      "content_sha256": "2c5cf433ac854439f9f97f4e4acf722841d45fd1f9d2c5e1e27946d58c31bf16",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Shouldn't ex #3722 be better translated as: \"Whatever you pick for me is fine\"?",
+      "html": "Shouldn't ex #3722 be better translated as: \"Whatever you pick for me is fine\"?",
+      "credits_raw": "halx",
+      "content_sha256": "d16434c41e0cea3f8b4131c968a7532ce5b1b2bfed9011513c4518b12cc47621",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "-ようものなら is quite iffy. it denotes a hypothetical condition. [if i came home late, he wouldn't let me in]",
+      "html": "-ようものなら is quite iffy. it denotes a hypothetical condition. [if i came home late, he wouldn't let me in]",
+      "credits_raw": "mk",
+      "content_sha256": "c431cbc6e775d58ebaf6f39c23952ae05c7f058b20160737f8d9420e1822169f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "ex #3719 is 〜もの(thing)　＋　ならば, and therefore does not belong to the usage of 〜ものなら .\nFrom ex#3719 to ex#3724, it doesn't give the meaning or correct usage of 〜ものなら, therefore treat it as 〜もの　＋　なら。 \n〜ものなら always follow the 可能形 potential form. and used to indicate something difficult to realize, or some ideal thinking of the writer,e.g. : \"If only i was still a child, ....\"",
+      "html": "ex #3719 is 〜もの(thing)　＋　ならば, and therefore does not belong to the usage of 〜ものなら .<br/>From ex#3719 to ex#3724, it doesn't give the meaning or correct usage of 〜ものなら, therefore treat it as 〜もの　＋　なら。 <br/>〜ものなら always follow the 可能形 potential form. and used to indicate something difficult to realize, or some ideal thinking of the writer,e.g. : \"If only i was still a child, ....\"",
+      "credits_raw": "誠",
+      "content_sha256": "ec7f114087610f8215c33e76bd685b3d58b5f68051874e32aad90db0e41e323c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "ex #3228 belongs to 〜う／ようものなら:\nMy father is very strict. Once if I happen to come home late, my dad won't let me in.",
+      "html": "ex #3228 belongs to 〜う／ようものなら:<br/>My father is very strict. Once if I happen to come home late, my dad won't let me in.",
+      "credits_raw": "誠",
+      "content_sha256": "5975e834fa9ee26be450eaddbdde8d124ed00f352fac1342fd5fb29de7d634ba",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "〜ものなら： \"If only I could/may.....\", \"If only it was possible to ....\", \"If only it was possible that...\"",
+      "html": "〜ものなら： \"If only I could/may.....\", \"If only it was possible to ....\", \"If only it was possible that...\"",
+      "credits_raw": "誠",
+      "content_sha256": "39bed1837c0965d3d126dd8a066bec6db9a749a6298d72ca511a5e85b35b3b7e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Added ex #5896 for 〜ようものなら",
+      "html": "Added ex #5896 for 〜ようものなら",
+      "credits_raw": "誠",
+      "content_sha256": "03888e12b4af00f4869a1d36fa3f6f555b0e9d739a701eb2fc6d500a1b5628ca",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "Do we need both #3717 and #3718? I don't see why the same sentence is listed twice because of one kanji...",
+      "html": "Do we need both #3717 and #3718? I don't see why the same sentence is listed twice because of one kanji...",
+      "credits_raw": "petra",
+      "content_sha256": "13e523a782e0923729f3c956b24f6028c314e1f10a7c7e487d2bbf3adb16021a",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:36:58+00:00",
+  "response_sha256": "7885ae74543f33e5c0cd31e577aa875c2e0d8fc7f666d0c426959ac9c7944ccc",
+  "warnings": []
+}

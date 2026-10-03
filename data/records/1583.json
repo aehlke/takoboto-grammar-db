@@ -1,0 +1,679 @@
+{
+  "schema_version": 2,
+  "id": 1583,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1583/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "せいで",
+  "romanized_label": "seide",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "ziaz",
+  "meaning": "because of, due to (indicates only negative meaning)",
+  "meaning_example": "Due to lack of sleep, I have a headache today",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "he died because~, he lost his fortune because~,...",
+      "html": "he died because~, he lost his fortune because~,..."
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1583",
+      "body_text": "because of, due to (indicates only negative meaning) \n Due to lack of sleep, I have a headache today \n he died because~, he lost his fortune because~,...",
+      "body_html": "<span>because of, due to (indicates only negative meaning)</span> <br/> <span>Due to lack of sleep, I have a headache today</span> <br/> <span>he died because~, he lost his fortune because~,...</span>",
+      "credits_raw": "ziaz"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1583",
+      "body_text": "Verb casual form+せいでNoun+の+せいでい-adjective+せいでな-adjective+な+せいで",
+      "body_html": "<div><div><div>Verb casual form</div></div><div><div>+</div><div>せいで</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>せいで</div></div></div><div><div><div>い-adjective</div></div><div><div>+</div><div>せいで</div></div></div><div><div><div>な-adjective</div></div><div><div>+</div><div>な</div></div><div><div>+</div><div>せいで</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb casual form + せいで",
+    "Noun + の + せいで",
+    "い-adjective + せいで",
+    "な-adjective + な + せいで"
+  ],
+  "examples": [
+    {
+      "source_id": 5966,
+      "position": 0,
+      "japanese": "寝不足のせいで、今日は頭がぼんやりしている",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%af%9d%e4%b8%8d%e8%b6%b3%e3%81%ae\"><span>寝不足の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%a7\"><strong>せいで</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%af\"><span>今日は</span></a><a href=\"https://takoboto.jp/?q=%e9%a0%ad%e3%81%8c%e3%81%bc%e3%82%93%e3%82%84%e3%82%8a%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b\"><span>頭がぼんやりしている</span></a>",
+      "segments": [
+        {
+          "text": "寝不足の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "せいで",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、今日は頭がぼんやりしている",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ねぶそくのせいで、きょうはあたまがぼんやりしている",
+      "credits_raw": "ziaz",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Due to lack of sleep, today I'm absent minded.",
+          "html": "<strong>Due to </strong><span>lack of sleep, today I'm absent minded. </span>",
+          "segments": [
+            {
+              "text": "Due to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "lack of sleep, today I'm absent minded. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5990,
+      "position": 1,
+      "japanese": "あいつのせいで、先生に叱られた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%84%e3%81%a4%e3%81%ae\"><span>あいつの</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%a7\"><strong>せいで</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%ab\"><span>先生に</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%b1%e3%82%89%e3%82%8c%e3%81%9f%e3%80%82\"><span>叱られた。</span></a>",
+      "segments": [
+        {
+          "text": "あいつの",
+          "grammar_highlight": false
+        },
+        {
+          "text": "せいで",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、先生に叱られた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あいつのせいで、せんせいにしかられた。",
+      "credits_raw": "motodrift",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Because of him, I was scolded by my teacher.",
+          "html": "<span>Because of him, I was scolded by my teacher. </span>",
+          "segments": [
+            {
+              "text": "Because of him, I was scolded by my teacher. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6429,
+      "position": 2,
+      "japanese": "私は失敗したのは、彼のせいだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af\"><span>私は</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%b1%e6%95%97%e3%81%97%e3%81%9f%e3%81%ae%e3%81%af%e3%80%81\"><span>失敗したのは、</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae\"><span>彼の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9b%e3%81%84\"><strong>せい</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%80%82\"><span>だ。</span></a>",
+      "segments": [
+        {
+          "text": "私は失敗したのは、彼の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "せい",
+          "grammar_highlight": true
+        },
+        {
+          "text": "だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはしっぱいしたのは、かれのせいだ。",
+      "credits_raw": "hadv",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Because of him, I failed.",
+          "html": "<strong>Because of </strong><span>him, I failed. </span>",
+          "segments": [
+            {
+              "text": "Because of ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "him, I failed. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6430,
+      "position": 3,
+      "japanese": "電車が遅れたせいで、遅刻した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%9b%bb%e8%bb%8a%e3%81%8c\"><span>電車が</span></a><a href=\"https://takoboto.jp/?q=%e9%81%85%e3%82%8c%e3%81%9f\"><span>遅れた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%a7\"><strong>せいで</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e9%81%85%e5%88%bb%e3%81%97%e3%81%9f%e3%80%82\"><span>遅刻した。</span></a>",
+      "segments": [
+        {
+          "text": "電車が遅れた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "せいで",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、遅刻した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "でんしゃがおくれたせいで、ちこくした。",
+      "credits_raw": "hadv",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I was late because the train was late.",
+          "html": "<span>I was late </span><strong>because </strong><span>the train was late. </span>",
+          "segments": [
+            {
+              "text": "I was late ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "because ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the train was late. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6431,
+      "position": 4,
+      "japanese": "暑いせいか、食欲がない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%9a%91%e3%81%84\"><span>暑い</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%8b\"><strong>せいか</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e6%ac%b2%e3%81%8c%e3%81%aa%e3%81%84%e3%80%82\"><span>食欲がない。</span></a>",
+      "segments": [
+        {
+          "text": "暑い",
+          "grammar_highlight": false
+        },
+        {
+          "text": "せいか",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、食欲がない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あついせいか、しょくよくがない。",
+      "credits_raw": "hadv",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Since it's hot, I have no appetite.",
+          "html": "<strong>Since </strong><span>it's hot, I have no appetite. </span>",
+          "segments": [
+            {
+              "text": "Since ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "it's hot, I have no appetite. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6953,
+      "position": 5,
+      "japanese": "台風のせいで、旅行にいけなかったんです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8f%b0%e9%a2%a8%e3%81%ae\"><span>台風の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%a7\"><strong>せいで</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e6%97%85%e8%a1%8c%e3%81%ab%e3%81%84%e3%81%91%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%93%e3%81%a7%e3%81%99%e3%80%82\"><span>旅行にいけなかったんです。</span></a>",
+      "segments": [
+        {
+          "text": "台風の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "せいで",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、旅行にいけなかったんです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "たいふうのせいで、りょこうにいけなかったんです。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We did not go on the trip because of the typhoon.",
+          "html": "<span>We did not go on the trip </span><strong>because of </strong><span>the typhoon. </span>",
+          "segments": [
+            {
+              "text": "We did not go on the trip ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "because of ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the typhoon. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7096,
+      "position": 6,
+      "japanese": "天気のせいか、気分が悪い。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%a9%e6%b0%97%e3%81%ae%e3%81%9b%e3%81%84%e3%81%8b%e3%80%81\"><span>天気のせいか、</span></a><a href=\"https://takoboto.jp/?q=%e6%b0%97%e5%88%86%e3%81%8c\"><span>気分が</span></a><a href=\"https://takoboto.jp/?q=%e6%82%aa%e3%81%84%e3%80%82\"><span>悪い。</span></a>",
+      "segments": [
+        {
+          "text": "天気のせいか、気分が悪い。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "てんきのせいか、きぶんがわるい。",
+      "credits_raw": "Izumi19",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It's the weather's fault that I don't feel good.",
+          "html": "<span>It's the weather's fault that I don't feel good. </span>",
+          "segments": [
+            {
+              "text": "It's the weather's fault that I don't feel good. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7097,
+      "position": 7,
+      "japanese": "学生が上手にならないのは、教え方が下手なせいかもしれない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%ad%a6%e7%94%9f%e3%81%8c\"><span>学生が</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%ab%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%81%ae%e3%81%af%e3%80%81\"><span>上手にならないのは、</span></a><a href=\"https://takoboto.jp/?q=%e6%95%99%e3%81%88\"><span>教え</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b9%e3%81%8c\"><span>方が</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8b%e6%89%8b%e3%81%aa%e3%81%9b%e3%81%84%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82\"><span>下手なせいかもしれない。</span></a>",
+      "segments": [
+        {
+          "text": "学生が上手にならないのは、教え方が下手なせいかもしれない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "がくせいがじょうずにならないのは、おしえかたがへたなせいかもしれない。",
+      "credits_raw": "Izumi19",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Maybe the student is not becoming good because of the poor way of teaching.",
+          "html": "<span>Maybe the student is not becoming good because of the poor way of teaching. </span>",
+          "segments": [
+            {
+              "text": "Maybe the student is not becoming good because of the poor way of teaching. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7154,
+      "position": 8,
+      "japanese": "熱があるせいで何を食べてもおいしくない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%86%b1%e3%81%8c%e3%81%82%e3%82%8b\"><span>熱がある</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%a7\"><strong>せいで</strong></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%82%92\"><span>何を</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%a6%e3%82%82%e3%81%8a%e3%81%84%e3%81%97%e3%81%8f%e3%81%aa%e3%81%84%e3%80%82\"><span>食べてもおいしくない。</span></a>",
+      "segments": [
+        {
+          "text": "熱がある",
+          "grammar_highlight": false
+        },
+        {
+          "text": "せいで",
+          "grammar_highlight": true
+        },
+        {
+          "text": "何を食べてもおいしくない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ねつがあるせいでなにをたべてもおいしくない。",
+      "credits_raw": "sureshnihon",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Those food all not taste to me because of i feel fever.",
+          "html": "<span>Those food all not taste to me </span><strong>because of </strong><span>i feel fever. </span>",
+          "segments": [
+            {
+              "text": "Those food all not taste to me ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "because of ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "i feel fever. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8415,
+      "position": 9,
+      "japanese": "彼女がパーティーに来なかったのは病気のせいだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc%e3%81%ab\"><span>彼女がパーティーに</span></a><a href=\"https://takoboto.jp/?q=%e6%9d%a5%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%af\"><span>来なかったのは</span></a><a href=\"https://takoboto.jp/?q=%e7%97%85%e6%b0%97%e3%81%ae%e3%81%9b%e3%81%84%e3%81%a0%e3%80%82\"><span>病気のせいだ。</span></a>",
+      "segments": [
+        {
+          "text": "彼女がパーティーに来なかったのは病気のせいだ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょがパーティーにこなかったのはびょうきのせいだ。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It was because she was ill that she didn't come to the party.",
+          "html": "<span>It was because she was ill that she didn't come to the party. </span>",
+          "segments": [
+            {
+              "text": "It was because she was ill that she didn't come to the party. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8416,
+      "position": 10,
+      "japanese": "私が失敗したのは怠惰のせいだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%8c\"><span>私が</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%b1%e6%95%97%e3%81%97%e3%81%9f%e3%81%ae%e3%81%af\"><span>失敗したのは</span></a><a href=\"https://takoboto.jp/?q=%e6%80%a0%e6%83%b0%e3%81%ae%e3%81%9b%e3%81%84%e3%81%a0%e3%80%82\"><span>怠惰のせいだ。</span></a>",
+      "segments": [
+        {
+          "text": "私が失敗したのは怠惰のせいだ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしがしっぱいしたのはたいだのせいだ。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My failure is due to the fact that I was lazy.",
+          "html": "<span>My failure is due to the fact that I was lazy. </span>",
+          "segments": [
+            {
+              "text": "My failure is due to the fact that I was lazy. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8417,
+      "position": 11,
+      "japanese": "彼らの到着が遅れたのは雨のせいだった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%82%89%e3%81%ae\"><span>彼らの</span></a><a href=\"https://takoboto.jp/?q=%e5%88%b0%e7%9d%80%e3%81%8c\"><span>到着が</span></a><a href=\"https://takoboto.jp/?q=%e9%81%85%e3%82%8c%e3%81%9f%e3%81%ae%e3%81%af\"><span>遅れたのは</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%ae%e3%81%9b%e3%81%84%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82\"><span>雨のせいだった。</span></a>",
+      "segments": [
+        {
+          "text": "彼らの到着が遅れたのは雨のせいだった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれらのとうちゃくがおくれたのはあめのせいだった。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Their late arrival was owing to the rain.",
+          "html": "<span>Their late arrival was owing to the rain. </span>",
+          "segments": [
+            {
+              "text": "Their late arrival was owing to the rain. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8418,
+      "position": 12,
+      "japanese": "彼女の美貌は年のせいで衰えた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae\"><span>彼女の</span></a><a href=\"https://takoboto.jp/?q=%e7%be%8e%e8%b2%8c%e3%81%af\"><span>美貌は</span></a><a href=\"https://takoboto.jp/?q=%e5%b9%b4%e3%81%ae\"><span>年の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%a7\"><strong>せいで</strong></a><a href=\"https://takoboto.jp/?q=%e8%a1%b0%e3%81%88%e3%81%9f%e3%80%82\"><span>衰えた。</span></a>",
+      "segments": [
+        {
+          "text": "彼女の美貌は年の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "せいで",
+          "grammar_highlight": true
+        },
+        {
+          "text": "衰えた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょのびぼうはとしのせいでおとろえた。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Her beauty withered with age.",
+          "html": "<span>Her beauty withered with age. </span>",
+          "segments": [
+            {
+              "text": "Her beauty withered with age. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6428,
+      "position": 13,
+      "japanese": "気のせいか、彼は今日は何となく元気がなく感じられた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%b0%97%e3%81%ae\"><span>気の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%8b\"><strong>せいか</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%af\"><span>今日は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%a8%e3%81%aa%e3%81%8f\"><span>何となく</span></a><a href=\"https://takoboto.jp/?q=%e5%85%83%e6%b0%97%e3%81%8c%e3%81%aa%e3%81%8f\"><span>元気がなく</span></a><a href=\"https://takoboto.jp/?q=%e6%84%9f%e3%81%98%e3%82%89%e3%82%8c%e3%81%9f%e3%80%82\"><span>感じられた。</span></a>",
+      "segments": [
+        {
+          "text": "気の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "せいか",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、彼は今日は何となく元気がなく感じられた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きのせいか、かれはきょうはなんとなくげんきがなくかんじられた。",
+      "credits_raw": "hadv",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Is it my impression? He seems to be not feeling well.",
+          "html": "<span>Is it my impression? He </span><strong>seems to be </strong><span>not feeling well. </span>",
+          "segments": [
+            {
+              "text": "Is it my impression? He ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "seems to be ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "not feeling well. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "せいで;のせいだ;せいで;せいか",
+      "html": "せいで;のせいだ;せいで;せいか",
+      "credits_raw": "ziaz",
+      "content_sha256": "1ec5ad3d31a826c6d13a9d12be8ad7115d63d9ca358dd3d111c8e324391ad80c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "所為 (せい) (n) cause/ reason/ fault (from WWWJDIC) Using the Kanji in this grammatical construction is likely very rare, however.",
+      "html": "所為 (せい) (n) cause/ reason/ fault (from WWWJDIC) Using the Kanji in this grammatical construction is likely very rare, however.",
+      "credits_raw": "leslie",
+      "content_sha256": "641c136a3ed260bcaa7270921892c93a722b9998af37c797fa532792b77aa87e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "What happened to the English verisons of ex #6428,ex #6429,ex #6430 and ex #6431?",
+      "html": "What happened to the English verisons of ex #6428,ex #6429,ex #6430 and ex #6431?",
+      "credits_raw": "bamboo4",
+      "content_sha256": "6443ce01836487e22086faffd2b054149a8b24825a2a3259cb017062bffd0e36",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Ex 6429 The translation should be..Because of him,I failed.",
+      "html": "Ex 6429 The translation should be..Because of him,I failed.",
+      "credits_raw": "gahoangdai",
+      "content_sha256": "58fe060aa0a575ba4c86371028f835bd60da800105cbf217adef83588cc87067",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "About the Ex 6430．。。The Translation should be...Because of the late train,So I came late!",
+      "html": "About the Ex 6430．。。The Translation should be...Because of the late train,So I came late!",
+      "credits_raw": "gahoangdai",
+      "content_sha256": "ce53a3c18e91f29892cdad4b6bba1110077aabbbe8516868388ad45d660fc28d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "What's with the か after せい、and how do you know when to use か、で, or nothing at all after the せい？",
+      "html": "What's with the か after せい、and how do you know when to use か、で, or nothing at all after the せい？",
+      "credits_raw": "Izumi19",
+      "content_sha256": "5b089472b378e836f844f49b2786e38e2ad850b8b01d3e89ef196f83e6b6d508",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "Ex. 6430 should be translated as \"I was late because the train was late (or delayed).",
+      "html": "Ex. 6430 should be translated as \"I was late because the train was late (or delayed).",
+      "credits_raw": "lucinda lohmanoota",
+      "content_sha256": "e7e7f375abb40b7c4c03c662c9f1af40c6e0cf5adee3f4c46a50352539f68cfe",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "I came to hear, that せいか can also have positive results. Can someone approve of that?",
+      "html": "I came to hear, that せいか can also have positive results. Can someone approve of that?",
+      "credits_raw": "Cyrus",
+      "content_sha256": "a68c204bec6552b299a77725314c5cc261d20f8117fa6fc182c8ec8057938df0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "@Cyrus: Yes seika is used whether the result is desirable/undesirable\nEx: Jp:Kanojo ga iru seika shigoto ga yoku dekiru.\n Eng:I think it is because she is here that i can do a lot of work.",
+      "html": "@Cyrus: Yes seika is used whether the result is desirable/undesirable<br/>Ex: Jp:Kanojo ga iru seika shigoto ga yoku dekiru.<br/> Eng:I think it is because she is here that i can do a lot of work.",
+      "credits_raw": "ichigo_venky",
+      "content_sha256": "5124b69c2a4c6bec5a5dc5dcea7a9d936f6dad74ef10a73b14dd153d3cf2aaee",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 55,
+      "label": "おかげで",
+      "source_url": "https://takoboto.jp/bunpo/55"
+    },
+    {
+      "target_id": 835,
+      "label": "ばかりに",
+      "source_url": "https://takoboto.jp/bunpo/835"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:35:58+00:00",
+  "response_sha256": "76652ae03db55cbae21b021057a3320bccb841fc24bf71ad83b0830abbea4398",
+  "warnings": []
+}

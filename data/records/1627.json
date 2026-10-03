@@ -1,0 +1,415 @@
+{
+  "schema_version": 2,
+  "id": 1627,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1627/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "あまり",
+  "romanized_label": "amari-2",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "pingpongpaddle",
+  "meaning": "not really",
+  "meaning_example": "彼女はあまりきれいじゃない。　She isn't very pretty.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1627",
+      "body_text": "not really \n 彼女はあまりきれいじゃない。　She isn't very pretty.",
+      "body_html": "<span>not really</span> <br/> <span>彼女はあまりきれいじゃない。　She isn't very pretty.</span>",
+      "credits_raw": "pingpongpaddle"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 6797,
+      "position": 0,
+      "japanese": "シャンハイ（上海）はあまり寒くないです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%83%8f%e3%82%a4\"><span>シャンハイ</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%88%e4%b8%8a%e6%b5%b7%ef%bc%89%e3%81%af\"><span>（上海）は</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e5%af%92\"><span>寒</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8f%e3%81%aa%e3%81%84\"><strong>くない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82\"><span>です。</span></a>",
+      "segments": [
+        {
+          "text": "シャンハイ（上海）は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "寒",
+          "grammar_highlight": false
+        },
+        {
+          "text": "くない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "シャンハイ（しゃんはい）はあまりさむくないです。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The weather is not very cold in Shanghai.",
+          "html": "<span>The weather </span><strong>is not very </strong><span>cold </span><span>in Shanghai. </span>",
+          "segments": [
+            {
+              "text": "The weather ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "is not very ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "cold in Shanghai. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6511,
+      "position": 1,
+      "japanese": "彼女はあまりきれいじゃない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>彼女は</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8d%e3%82%8c%e3%81%84\"><span>きれい</span></a><a href=\"https://takoboto.jp/?q=%e3%81%98%e3%82%83%e3%81%aa%e3%81%84\"><strong>じゃない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "彼女は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "きれい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "じゃない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはあまりきれいじゃない。",
+      "credits_raw": "pingpongpaddle",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She is not very pretty.",
+          "html": "<span>She is </span><strong>not very </strong><span>pretty. </span>",
+          "segments": [
+            {
+              "text": "She is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "not very ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "pretty. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6512,
+      "position": 2,
+      "japanese": "彼はあまり優しくないです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e5%84%aa%e3%81%97\"><span>優し</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8f%e3%81%aa%e3%81%84\"><strong>くない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82\"><span>です。</span></a>",
+      "segments": [
+        {
+          "text": "彼は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "優し",
+          "grammar_highlight": false
+        },
+        {
+          "text": "くない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはあまりやさしくないです。",
+      "credits_raw": "pingpongpaddle",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He is not very nice.",
+          "html": "<span>He is </span><strong>not very </strong><span>nice. </span>",
+          "segments": [
+            {
+              "text": "He is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "not very ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "nice. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8642,
+      "position": 3,
+      "japanese": "彼女はあまり魚を食べません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>彼女は</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e9%ad%9a%e3%82%92\"><span>魚を</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>食べません。</span></a>",
+      "segments": [
+        {
+          "text": "彼女は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "魚を食べません。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはあまりさかなをたべません。",
+      "credits_raw": "Sakuratree",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She doesn't eat a lot of fish.",
+          "html": "<span>She doesn't eat a lot of fish. </span>",
+          "segments": [
+            {
+              "text": "She doesn't eat a lot of fish. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6798,
+      "position": 4,
+      "japanese": "桜大学はあまり有名な大学じゃありません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%a1%9c%e5%a4%a7%e5%ad%a6%e3%81%af\"><span>桜大学は</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e6%9c%89%e5%90%8d%e3%81%aa\"><span>有名な</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6\"><span>大学</span></a><a href=\"https://takoboto.jp/?q=%e3%81%98%e3%82%83%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93\"><strong>じゃありません</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "桜大学は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "有名な大学",
+          "grammar_highlight": false
+        },
+        {
+          "text": "じゃありません",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "さくらだいがくはあまりゆうめいなだいがくじゃありません。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Sakura University is not very famous.",
+          "html": "<span>Sakura University </span><strong>is not very </strong><span>famous. </span>",
+          "segments": [
+            {
+              "text": "Sakura University ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "is not very ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "famous. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6800,
+      "position": 5,
+      "japanese": "「琵琶湖の水はきれいですか。」「いいえ、あまりきれいではありません。」",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%80%8c\"><span>「</span></a><a href=\"https://takoboto.jp/?q=%e7%90%b5%e7%90%b6%e6%b9%96%e3%81%ae\"><span>琵琶湖の</span></a><a href=\"https://takoboto.jp/?q=%e6%b0%b4%e3%81%af%e3%81%8d%e3%82%8c%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82%e3%80%8d%e3%80%8c%e3%81%84%e3%81%84%e3%81%88%e3%80%81\"><span>水はきれいですか。」「いいえ、</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8d%e3%82%8c%e3%81%84\"><span>きれい</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93\"><strong>ではありません</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82%e3%80%8d\"><span>。」</span></a>",
+      "segments": [
+        {
+          "text": "「琵琶湖の水はきれいですか。」「いいえ、",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "きれい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ではありません",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。」",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "「びわこのみずはきれいですか。」「いいえ、あまりきれいではありません。」",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "\"Is the water of Lake Biwa clean?\" \"No, not very much.\"",
+          "html": "<span>\"Is the water of Lake Biwa clean?\" \"No, </span><strong>not very much.\" </strong>",
+          "segments": [
+            {
+              "text": "\"Is the water of Lake Biwa clean?\" \"No, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "not very much.\" ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6801,
+      "position": 6,
+      "japanese": "「その辞書はいいですか。」「いいえ、あまりよくないです。」",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%80%8c%e3%81%9d%e3%81%ae\"><span>「その</span></a><a href=\"https://takoboto.jp/?q=%e8%be%9e%e6%9b%b8%e3%81%af%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82%e3%80%8d%e3%80%8c%e3%81%84%e3%81%84%e3%81%88%e3%80%81\"><span>辞書はいいですか。」「いいえ、</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a\"><strong>あまり</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%88\"><span>よ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8f%e3%81%aa%e3%81%84\"><strong>くない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82%e3%80%8d\"><span>です。」</span></a>",
+      "segments": [
+        {
+          "text": "「その辞書はいいですか。」「いいえ、",
+          "grammar_highlight": false
+        },
+        {
+          "text": "あまり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "よ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "くない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "です。」",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "「そのじしょはいいですか。」「いいえ、あまりよくないです。」",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "\"Is this dictionary good?\" \"No, not very much\".",
+          "html": "<span>\"Is this dictionary good?\" \"No, </span><strong>not very much\". </strong>",
+          "segments": [
+            {
+              "text": "\"Is this dictionary good?\" \"No, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "not very much\". ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "noun + amari + neg adj. + [desu]\n\n私は あまり つよくない です。(watashiha amari tsuyokunai desu) I'm not that strong.",
+      "html": "noun + amari + neg adj. + [desu]<br/><br/>私は あまり つよくない です。(watashiha amari tsuyokunai desu) I'm not that strong.",
+      "credits_raw": "pingpongpaddle",
+      "content_sha256": "fa1658fe62115b5af40669b5199f330b2e16a24d2a471d3500e1d5a5020f49b4",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "このページはあまり必要ないです。 How about using the page for あまり that already exists. その上、入れた例文はあまり「あまり」を利用しないんです。。。",
+      "html": "このページはあまり必要ないです。 How about using the page for あまり that already exists. その上、入れた例文はあまり「あまり」を利用しないんです。。。",
+      "credits_raw": "adnim",
+      "content_sha256": "d3d8901f1b72529e7ab74b6d08c50203d3d0460b610c5b5648eebbdc7ef0c83f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "I fixed the alert of Adnimさん here above.\nPerhaps we can use [amari] for the positive sense (too much) which is for JPLT2, [amari-2] for the negative sense (not much) which is for JPLT3, except for the case of verbs, which are treated in [amari-nai]?",
+      "html": "I fixed the alert of Adnimさん here above.<br/>Perhaps we can use [amari] for the positive sense (too much) which is for JPLT2, [amari-2] for the negative sense (not much) which is for JPLT3, except for the case of verbs, which are treated in [amari-nai]?",
+      "credits_raw": "赤毛",
+      "content_sha256": "93c2871fa3bed3c53ec8645a2269aa956a79ff4ede19bd3dcb6828b7d2c39da7",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:36:22+00:00",
+  "response_sha256": "ef1d6cf2a90b7ee8730dba54481d8406c612bdd648cb3df99b1353033e3ca1c8",
+  "warnings": []
+}

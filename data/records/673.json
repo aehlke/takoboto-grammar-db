@@ -1,0 +1,961 @@
+{
+  "schema_version": 2,
+  "id": 673,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/673/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "以上",
+  "romanized_label": "ijou-2",
+  "alternate_forms": [
+    "いじょう"
+  ],
+  "jlpt_level": 4,
+  "credits_raw": "Amatuka",
+  "meaning": "exceeding, above",
+  "meaning_example": "More than two hours",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_673",
+      "body_text": "exceeding, above \n More than two hours",
+      "body_html": "<span>exceeding, above</span> <br/> <span>More than two hours</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_673",
+      "body_text": "Noun (quantity)+以上",
+      "body_html": "<div><div><div>Noun (quantity)</div></div><div><div>+</div><div>以上</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Noun (quantity) + 以上"
+  ],
+  "examples": [
+    {
+      "source_id": 4564,
+      "position": 0,
+      "japanese": "あなたは必要以上のカロリーを摂っている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af\"><span>あなたは</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e8%a6%81\"><span>必要</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%82%ab%e3%83%ad%e3%83%aa%e3%83%bc%e3%82%92\"><span>のカロリーを</span></a><a href=\"https://takoboto.jp/?q=%e6%91%82%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>摂っている。</span></a>",
+      "segments": [
+        {
+          "text": "あなたは必要",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のカロリーを摂っている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたはひつよういじょうのカロリーをとっている。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You take more calories than necessary.",
+          "html": "<span>You take </span><strong>more </strong><span>calories </span><strong>than </strong><span>necessary. </span>",
+          "segments": [
+            {
+              "text": "You take ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "more ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "calories ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "than ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "necessary. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 478,
+      "position": 1,
+      "japanese": "私は二時間以上も待った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af\"><span>私は</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%8c%e6%99%82%e9%96%93\"><span>二時間</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%82\"><span>も</span></a><a href=\"https://takoboto.jp/?q=%e5%be%85%e3%81%a3%e3%81%9f%e3%80%82\"><span>待った。</span></a>",
+      "segments": [
+        {
+          "text": "私は二時間",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "も待った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはにじかんいじょうもまった。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I waited more than two hours.",
+          "html": "<span>I waited </span><strong>more than </strong><span>two hours. </span>",
+          "segments": [
+            {
+              "text": "I waited ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "more than ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "two hours. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4557,
+      "position": 2,
+      "japanese": "１０００銘柄以上の株が取引所に上場されている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%91%ef%bc%90%ef%bc%90%ef%bc%90%e9%8a%98%e6%9f%84\"><span>１０００銘柄</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><span>の</span></a><a href=\"https://takoboto.jp/?q=%e6%a0%aa%e3%81%8c\"><span>株が</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%96%e5%bc%95%e6%89%80%e3%81%ab\"><span>取引所に</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8a%e5%a0%b4%e3%81%95%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>上場されている。</span></a>",
+      "segments": [
+        {
+          "text": "１０００銘柄",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "の株が取引所に上場されている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "１０００めいがらいじょうのかぶがとりひきしょにじょうじょうされている。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "More than 1000 issues are listed on the stock exchange.",
+          "html": "<span>More than 1000 issues are listed on the stock exchange. </span>",
+          "segments": [
+            {
+              "text": "More than 1000 issues are listed on the stock exchange. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4558,
+      "position": 3,
+      "japanese": "１０ドル以上は使いたくありません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%91%ef%bc%90%e3%83%89%e3%83%ab\"><span>１０ドル</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%af\"><span>は</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%bf%e3%81%84%e3%81%9f%e3%81%8f%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>使いたくありません。</span></a>",
+      "segments": [
+        {
+          "text": "１０ドル",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "は使いたくありません。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "１０ドルいじょうはつかいたくありません。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I don't want to spend more than $10.",
+          "html": "<span>I don't want to spend more than $10. </span>",
+          "segments": [
+            {
+              "text": "I don't want to spend more than $10. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4559,
+      "position": 4,
+      "japanese": "１５種類以上のパイをご用意しています。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%91%ef%bc%95%e7%a8%ae%e9%a1%9e\"><span>１５種類</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%83%91%e3%82%a4%e3%82%92%e3%81%94\"><span>のパイをご</span></a><a href=\"https://takoboto.jp/?q=%e7%94%a8%e6%84%8f%e3%81%97%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>用意しています。</span></a>",
+      "segments": [
+        {
+          "text": "１５種類",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のパイをご用意しています。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "１５しゅるいいじょうのパイをごよういしています。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "There are over 15 different kinds of pies.",
+          "html": "<span>There are over 15 different kinds of pies. </span>",
+          "segments": [
+            {
+              "text": "There are over 15 different kinds of pies. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4560,
+      "position": 5,
+      "japanese": "１８２０年から１９７３年の間に合衆国は、４６００万人以上の移民を受け入れた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%91%ef%bc%98%ef%bc%92%ef%bc%90%e5%b9%b4%e3%81%8b%e3%82%89\"><span>１８２０年から</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%91%ef%bc%99%ef%bc%97%ef%bc%93%e5%b9%b4%e3%81%ae\"><span>１９７３年の</span></a><a href=\"https://takoboto.jp/?q=%e9%96%93%e3%81%ab\"><span>間に</span></a><a href=\"https://takoboto.jp/?q=%e5%90%88%e8%a1%86%e5%9b%bd%e3%81%af%e3%80%81\"><span>合衆国は、</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%94%ef%bc%96%ef%bc%90%ef%bc%90%e4%b8%87%e4%ba%ba\"><span>４６００万人</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><span>の</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%bb%e6%b0%91%e3%82%92\"><span>移民を</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%97%e3%81%91\"><span>受け</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e3%82%8c%e3%81%9f%e3%80%82\"><span>入れた。</span></a>",
+      "segments": [
+        {
+          "text": "１８２０年から１９７３年の間に合衆国は、４６００万人",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "の移民を受け入れた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "１８２０ねんから１９７３ねんのまにがっしゅうこくは、４６００まんにんいじょうのいみんをうけいれた。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Between 1820 and 1973, the United States admitted more than 46 million immigrants.",
+          "html": "<span>Between 1820 and 1973, the United States admitted more than 46 million immigrants. </span>",
+          "segments": [
+            {
+              "text": "Between 1820 and 1973, the United States admitted more than 46 million immigrants. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4561,
+      "position": 6,
+      "japanese": "１８歳以上の者はだれでも大人としてみなされる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%91%ef%bc%98%e6%ad%b3\"><span>１８歳</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><span>の</span></a><a href=\"https://takoboto.jp/?q=%e8%80%85%e3%81%af%e3%81%a0%e3%82%8c%e3%81%a7%e3%82%82\"><span>者はだれでも</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e4%ba%ba%e3%81%a8%e3%81%97%e3%81%a6%e3%81%bf%e3%81%aa%e3%81%95%e3%82%8c%e3%82%8b%e3%80%82\"><span>大人としてみなされる。</span></a>",
+      "segments": [
+        {
+          "text": "１８歳",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "の者はだれでも大人としてみなされる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "１８さいいじょうのものはだれでもおとなとしてみなされる。",
+      "credits_raw": "Miki, bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Anyone eighteen years of age and over counts as an adult.",
+          "html": "<span>Anyone eighteen years of age and over counts as an adult. </span>",
+          "segments": [
+            {
+              "text": "Anyone eighteen years of age and over counts as an adult. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4562,
+      "position": 7,
+      "japanese": "20人以上の人",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=20\"><span>20</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba\"><span>人</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><span>の</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba\"><span>人</span></a>",
+      "segments": [
+        {
+          "text": "20人",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "の人",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "にんいじょうのひと",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Better than twenty people.",
+          "html": "<span>Better than twenty people. </span>",
+          "segments": [
+            {
+              "text": "Better than twenty people. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4563,
+      "position": 8,
+      "japanese": "あなたのことを友達以上には考えられないの。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e3%81%93%e3%81%a8%e3%82%92\"><span>あなたのことを</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%8b%e9%81%94\"><span>友達</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%af\"><span>には</span></a><a href=\"https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84%e3%81%ae%e3%80%82\"><span>考えられないの。</span></a>",
+      "segments": [
+        {
+          "text": "あなたのことを友達",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "には考えられないの。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたのことをともだちいじょうにはかんがえられないの。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I can't think of you as more than a friend.[F]",
+          "html": "<span>I can't think of you as more than a friend.[F] </span>",
+          "segments": [
+            {
+              "text": "I can't think of you as more than a friend.[F] ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4565,
+      "position": 9,
+      "japanese": "あの音にはもうこれ以上我慢できない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae\"><span>あの</span></a><a href=\"https://takoboto.jp/?q=%e9%9f%b3%e3%81%ab%e3%81%af%e3%82%82%e3%81%86\"><span>音にはもう</span></a><a href=\"https://takoboto.jp/?q=%e3%81%93%e3%82%8c\"><span>これ</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e6%88%91%e6%85%a2%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%82\"><span>我慢できない。</span></a>",
+      "segments": [
+        {
+          "text": "あの音にはもうこれ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "我慢できない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あのおとにはもうこれいじょうがまんできない。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I can't put up with that noise any longer.",
+          "html": "<span>I can't put up with that noise any longer. </span>",
+          "segments": [
+            {
+              "text": "I can't put up with that noise any longer. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4566,
+      "position": 10,
+      "japanese": "あらゆる事を考慮に入れれば、結果は私の期待以上だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%89%e3%82%86%e3%82%8b\"><span>あらゆる</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%8b%e3%82%92\"><span>事を</span></a><a href=\"https://takoboto.jp/?q=%e8%80%83%e6%85%ae%e3%81%ab\"><span>考慮に</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e3%82%8c%e3%82%8c%e3%81%b0%e3%80%81\"><span>入れれば、</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%90%e6%9e%9c%e3%81%af\"><span>結果は</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ae\"><span>私の</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%9f%e5%be%85\"><span>期待</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%80%82\"><span>だ。</span></a>",
+      "segments": [
+        {
+          "text": "あらゆる事を考慮に入れれば、結果は私の期待",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あらゆることをこうりょにいれれば、けっかはわたしのきたいいじょうだ。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Taking everything into consideration, the result is better than I expected.",
+          "html": "<span>Taking everything into consideration, the result is better than I expected. </span>",
+          "segments": [
+            {
+              "text": "Taking everything into consideration, the result is better than I expected. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4567,
+      "position": 11,
+      "japanese": "この計画以上にすぐれたものはまず作れない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%88%e7%94%bb\"><span>計画</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%99%e3%81%90%e3%82%8c%e3%81%9f%e3%82%82%e3%81%ae%e3%81%af%e3%81%be%e3%81%9a\"><span>にすぐれたものはまず</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%9c%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82\"><span>作れない。</span></a>",
+      "segments": [
+        {
+          "text": "この計画",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "にすぐれたものはまず作れない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このけいかくいじょうにすぐれたものはまずつくれない。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This plan can hardly be improved upon.",
+          "html": "<span>This plan can hardly be improved upon. </span>",
+          "segments": [
+            {
+              "text": "This plan can hardly be improved upon. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4569,
+      "position": 12,
+      "japanese": "これ以上まけられませんか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%82%8c\"><span>これ</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%be%e3%81%91%e3%82%89%e3%82%8c%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b%e3%80%82\"><span>まけられませんか。</span></a>",
+      "segments": [
+        {
+          "text": "これ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "まけられませんか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "これいじょうまけられませんか。",
+      "credits_raw": "Miki, bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Is this the best price you can offer?",
+          "html": "<span>Is this the best price you can offer? </span>",
+          "segments": [
+            {
+              "text": "Is this the best price you can offer? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8185,
+      "position": 13,
+      "japanese": "彼は期待以上のことをなしとげた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%9f%e5%be%85\"><span>期待</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%93%e3%81%a8%e3%82%92%e3%81%aa%e3%81%97%e3%81%a8%e3%81%92%e3%81%9f%e3%80%82\"><span>のことをなしとげた。</span></a>",
+      "segments": [
+        {
+          "text": "彼は期待",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のことをなしとげた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはきたいいじょうのことをなしとげた。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He accomplished more than what was expected of him.",
+          "html": "<span>He accomplished more than what was expected of him. </span>",
+          "segments": [
+            {
+              "text": "He accomplished more than what was expected of him. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8186,
+      "position": 14,
+      "japanese": "彼の負債は支払い限度以上に達している。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae\"><span>彼の</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%a0%e5%82%b5%e3%81%af\"><span>負債は</span></a><a href=\"https://takoboto.jp/?q=%e6%94%af%e6%89%95%e3%81%84\"><span>支払い</span></a><a href=\"https://takoboto.jp/?q=%e9%99%90%e5%ba%a6\"><span>限度</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab\"><span>に</span></a><a href=\"https://takoboto.jp/?q=%e9%81%94%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>達している。</span></a>",
+      "segments": [
+        {
+          "text": "彼の負債は支払い限度",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "に達している。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれのふさいはしはらいげんどいじょうにたっしている。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "His debts amount to more than he can pay.",
+          "html": "<span>His debts amount to more than he can pay. </span>",
+          "segments": [
+            {
+              "text": "His debts amount to more than he can pay. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8187,
+      "position": 15,
+      "japanese": "彼は名誉を富以上のものと見ている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e5%90%8d%e8%aa%89%e3%82%92\"><span>名誉を</span></a><a href=\"https://takoboto.jp/?q=%e5%af%8c\"><span>富</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%82%82%e3%81%ae%e3%81%a8\"><span>のものと</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>見ている。</span></a>",
+      "segments": [
+        {
+          "text": "彼は名誉を富",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のものと見ている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはめいよをとみいじょうのものとみている。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He values honor above wealth.",
+          "html": "<span>He values honor above wealth. </span>",
+          "segments": [
+            {
+              "text": "He values honor above wealth. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8661,
+      "position": 16,
+      "japanese": "二年以上前この写真を撮ったんです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%ba%8c%e5%b9%b4\"><span>二年</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e5%89%8d%e3%81%93%e3%81%ae\"><span>前この</span></a><a href=\"https://takoboto.jp/?q=%e5%86%99%e7%9c%9f%e3%82%92\"><span>写真を</span></a><a href=\"https://takoboto.jp/?q=%e6%92%ae%e3%81%a3%e3%81%9f%e3%82%93%e3%81%a7%e3%81%99%e3%80%82\"><span>撮ったんです。</span></a>",
+      "segments": [
+        {
+          "text": "二年",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "前この写真を撮ったんです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "にねんいじょうまえこのしゃしんをとったんです。",
+      "credits_raw": "Sakuratree",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I took this picture more than 2 years ago.",
+          "html": "<span>I took this picture more than 2 years ago. </span>",
+          "segments": [
+            {
+              "text": "I took this picture more than 2 years ago. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8820,
+      "position": 17,
+      "japanese": "五十万円以上が必要だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%ba%94%e5%8d%81%e4%b8%87%e5%86%86\"><span>五十万円</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8c%e5%bf%85%e8%a6%81%e3%81%a0%e3%80%82\"><span>が必要だ。</span></a>",
+      "segments": [
+        {
+          "text": "五十万円",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "が必要だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ごじゅうまんえんいじょうがひつようだ。",
+      "credits_raw": "貴博",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I need more than 500.000 yen.",
+          "html": "<span>I need </span><strong>more than </strong><span>500.000 yen. </span>",
+          "segments": [
+            {
+              "text": "I need ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "more than ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "500.000 yen. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4572,
+      "position": 18,
+      "japanese": "君が私を愛している以上に私は君を愛している。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%8c\"><span>君が</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%82%92\"><span>私を</span></a><a href=\"https://takoboto.jp/?q=%e6%84%9b%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b\"><span>愛している</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab\"><span>に</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af\"><span>私は</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%82%92\"><span>君を</span></a><a href=\"https://takoboto.jp/?q=%e6%84%9b%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>愛している。</span></a>",
+      "segments": [
+        {
+          "text": "君が私を愛している",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "に私は君を愛している。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きみがわたしをあいしているいじょうにわたしはきみをあいしている。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I love you more than you love me.",
+          "html": "<span>I love you more than you love me. </span>",
+          "segments": [
+            {
+              "text": "I love you more than you love me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4573,
+      "position": 19,
+      "japanese": "私の祖母は私が欲しがる以上のものをくれた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ae\"><span>私の</span></a><a href=\"https://takoboto.jp/?q=%e7%a5%96%e6%af%8d%e3%81%af\"><span>祖母は</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%8c\"><span>私が</span></a><a href=\"https://takoboto.jp/?q=%e6%ac%b2%e3%81%97%e3%81%8c%e3%82%8b\"><span>欲しがる</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%82%82%e3%81%ae%e3%82%92%e3%81%8f%e3%82%8c%e3%81%9f%e3%80%82\"><span>のものをくれた。</span></a>",
+      "segments": [
+        {
+          "text": "私の祖母は私が欲しがる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のものをくれた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしのそぼはわたしがほしがるいじょうのものをくれた。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My grandmother gave me more than I wanted.",
+          "html": "<span>My grandmother gave me more than I wanted. </span>",
+          "segments": [
+            {
+              "text": "My grandmother gave me more than I wanted. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4574,
+      "position": 20,
+      "japanese": "人生には目に見える以上のものがある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%ba%ba%e7%94%9f%e3%81%ab%e3%81%af\"><span>人生には</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%ae%e3%81%ab\"><span>目に</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%88%e3%82%8b\"><span>見える</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%82%82%e3%81%ae%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82\"><span>のものがある。</span></a>",
+      "segments": [
+        {
+          "text": "人生には目に見える",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のものがある。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "じんせいにはめにみえるいじょうのものがある。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "There is more in life than meets the eye.",
+          "html": "<span>There is more in life than meets the eye. </span>",
+          "segments": [
+            {
+              "text": "There is more in life than meets the eye. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4575,
+      "position": 21,
+      "japanese": "動物も植物も、一般に考えられている以上に日光を必要とする。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8b%95%e7%89%a9%e3%82%82\"><span>動物も</span></a><a href=\"https://takoboto.jp/?q=%e6%a4%8d%e7%89%a9%e3%82%82%e3%80%81\"><span>植物も、</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e8%88%ac%e3%81%ab\"><span>一般に</span></a><a href=\"https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%89%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b\"><span>考えられている</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a\"><strong>以上</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ab\"><span>に</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e5%85%89%e3%82%92\"><span>日光を</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%a8%e3%81%99%e3%82%8b%e3%80%82\"><span>必要とする。</span></a>",
+      "segments": [
+        {
+          "text": "動物も植物も、一般に考えられている",
+          "grammar_highlight": false
+        },
+        {
+          "text": "以上",
+          "grammar_highlight": true
+        },
+        {
+          "text": "に日光を必要とする。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "どうぶつもしょくぶつも、いっぱんにかんがえられているいじょうににっこうをひつようとする。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Plants and animals require more sunshine than is generally supposed.",
+          "html": "<span>Plants and animals require more sunshine than is generally supposed. </span>",
+          "segments": [
+            {
+              "text": "Plants and animals require more sunshine than is generally supposed. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "500g以上 : 500 grams and over\n500g未満 : less than 500 grams\n500g以下 : 500 grams and below",
+      "html": "500g以上 : 500 grams and over<br/>500g未満 : less than 500 grams<br/>500g以下 : 500 grams and below",
+      "credits_raw": "Miki",
+      "content_sha256": "73cec7e803dcd562d50318562bf1d1f9f34891571cd5d3bebf2af52afc3b0c19",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "ex4572-4575 Please move or delete the examples if these are not fit. These are not fit to [ijou].",
+      "html": "ex4572-4575 Please move or delete the examples if these are not fit. These are not fit to [ijou].",
+      "credits_raw": "Miki",
+      "content_sha256": "2e14aa953c707a90bb36ea297c859c9ef7ac773266f386f0889e341e375548c5",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Technically, X以上 includes X, but in normal usage people often use it to mean \"more than.\"",
+      "html": "Technically, X以上 includes X, but in normal usage people often use it to mean \"more than.\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "585f635fc9dd4100ec6869dd9e87cf1fc20af086328542e84a22326fd3ad2fa3",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Formed from noun (or noun phrase?) + ijou\nN = noun",
+      "html": "Formed from noun (or noun phrase?) + ijou<br/>N = noun",
+      "credits_raw": "Amatuka",
+      "content_sha256": "bed4bcb6be4c93c75c40e94a340565eb6b563c70d9d706c90d898aad258f0116",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Ex 4564: It should be \" You take more(not move) calories than necessary\".",
+      "html": "Ex 4564: It should be \" You take more(not move) calories than necessary\".",
+      "credits_raw": "prahlad",
+      "content_sha256": "30c5ae97a8dd7d34d541f98844b54ed3cc7852ba7a62a1f0348160f55fa02db8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "ex #4564 fixed!",
+      "html": "ex #4564 fixed!",
+      "credits_raw": "Miki",
+      "content_sha256": "dfcd09cd47312454e2e0e9f07fa4ea8e22b81d1a8c7c84dfd1774c5ed174c48e",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 671,
+      "label": "以上",
+      "source_url": "https://takoboto.jp/bunpo/671"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:32:51+00:00",
+  "response_sha256": "abb247fa31d15c8a7d69632d0e48d76ad1d7aef81bb5392675317bfd44ed1e24",
+  "warnings": []
+}

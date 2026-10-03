@@ -1,0 +1,222 @@
+{
+  "schema_version": 2,
+  "id": 783,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/783/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "て形+いる (て居る)",
+  "romanized_label": "teiru",
+  "alternate_forms": [
+    "〜ている"
+  ],
+  "jlpt_level": 3,
+  "credits_raw": "Amatuka",
+  "meaning": "Vte (Continuing states, experience, repetative events)/ doing currently",
+  "meaning_example": "The window is open.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_783",
+      "body_text": "Vte (Continuing states, experience, repetative events)/ doing currently \n The window is open.",
+      "body_html": "<span>Vte (Continuing states, experience, repetative events)/ doing currently</span> <br/> <span>The window is open.</span>",
+      "credits_raw": "Amatuka"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 5210,
+      "position": 0,
+      "japanese": "私 は 食べている",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81++%e3%81%af++\"><span>私 は </span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9\"><span>食べ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a6%e3%81%84%e3%82%8b\"><strong>ている</strong></a>",
+      "segments": [
+        {
+          "text": "私 は 食べ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ている",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "わたしはたべている",
+      "credits_raw": "ichidandoushi",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I am eating now",
+          "html": "<span>I am eating now </span>",
+          "segments": [
+            {
+              "text": "I am eating now ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5211,
+      "position": 1,
+      "japanese": "あなた は 見ている",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f++%e3%81%af++\"><span>あなた は </span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b\"><span>見</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a6%e3%81%84%e3%82%8b\"><strong>ている</strong></a>",
+      "segments": [
+        {
+          "text": "あなた は 見",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ている",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "あなたはみている",
+      "credits_raw": "ichidandoushi",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You are looking now",
+          "html": "<span>You are looking now </span>",
+          "segments": [
+            {
+              "text": "You are looking now ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Useful Japanese page on this is here",
+      "html": "Useful Japanese page on this is here",
+      "credits_raw": "Amatuka",
+      "content_sha256": "7fbdb00361ccdd1b668d8b77b0e6d797590c92cede687aefe1e8ce9272430bd3",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Formed from -te form verb + iru (e.g. 行く → 行っている)\n\nVte = -te form verb.",
+      "html": "Formed from -te form verb + iru (e.g. 行く → 行っている)<br/><br/>Vte = -te form verb.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "f276d082f1bba977a04afafccb75a9353d120921db4fa90a0ddc3f13f50a69b9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Dropping the い [i] is a common abbreviation.\n(e.g. 行っている -> 行ってる [itteiru → itteru])",
+      "html": "Dropping the い [i] is a common abbreviation.<br/>(e.g. 行っている -&gt; 行ってる [itteiru → itteru])",
+      "credits_raw": "Amatuka",
+      "content_sha256": "f157ea410d1b3e54cfd2c1e45a302452583ca73bf6f8d1438d3b424bf740b6d3",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "There are quite a few differrent usages of this form,\n1. Ongoing action\n公園で子どもが遊んでいる。 [kouen de kodomo ga asondeiru.]\n(The) children are playing at the park.\n2. Ongoing state (result of an action)\nエアコンがついている。[eakon ga tsuiteiru.]\nThe airconditioner is on.\n3. (as negative) Action not yet taken.\nまだ昼ご飯を食べていない。[mada hirugohan wo tabeteinai.]\nI haven't had lunch yet.\n(Note this is different from 昼ご飯を食べない。[hirugohan wo tabenai.] I'm not going to eat lunch.\n4. Experience\n本を書いてる。[hon wo kaiteru.] I've written a book.\n5. Repetative actions.\n僕はよく映画館に行っている。[boku ha yoku eigakan ni itteiru.]\nI often go to the cinema.\n6. Condition\n彼は太っている。[kare ha futotteiru.]\nHe's fat.",
+      "html": "There are quite a few differrent usages of this form,<br/>1. Ongoing action<br/>公園で子どもが遊んでいる。 [kouen de kodomo ga asondeiru.]<br/>(The) children are playing at the park.<br/>2. Ongoing state (result of an action)<br/>エアコンがついている。[eakon ga tsuiteiru.]<br/>The airconditioner is on.<br/>3. (as negative) Action not yet taken.<br/>まだ昼ご飯を食べていない。[mada hirugohan wo tabeteinai.]<br/>I haven't had lunch yet.<br/>(Note this is different from 昼ご飯を食べない。[hirugohan wo tabenai.] I'm not going to eat lunch.<br/>4. Experience<br/>本を書いてる。[hon wo kaiteru.] I've written a book.<br/>5. Repetative actions.<br/>僕はよく映画館に行っている。[boku ha yoku eigakan ni itteiru.]<br/>I often go to the cinema.<br/>6. Condition<br/>彼は太っている。[kare ha futotteiru.]<br/>He's fat.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "39d24b60c57a07ca1b2163f885bcad5b241efd64b91d9a6c0c6a0032cda8f399",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "ている [teiru] can't be used with the verbs of existance (e.g. ある [aru] and いる [iru])",
+      "html": "ている [teiru] can't be used with the verbs of existance (e.g. ある [aru] and いる [iru])",
+      "credits_raw": "Amatuka",
+      "content_sha256": "69167550ae22e1a56d25b83d53bad6b14e2ae60b0fafd509e8d6d7d07fbb875f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "2. Ongoing state (result of an action)\n エアコンがついている。[eakon ga tsuiteiru.]\n The airconditioner is on.\nNote that this use is only with intransitive verbs. If it were the transitive form of this verb (tsukeru, rather than tsuku), it would be -tearu (eakon ga tsuketearu).",
+      "html": "2. Ongoing state (result of an action)<br/> エアコンがついている。[eakon ga tsuiteiru.]<br/> The airconditioner is on.<br/>Note that this use is only with intransitive verbs. If it were the transitive form of this verb (tsukeru, rather than tsuku), it would be -tearu (eakon ga tsuketearu).",
+      "credits_raw": "tataku",
+      "content_sha256": "9d5fa01d109f06a0f03ca4b92f08814f14f0e2b2a5f797c4edf6826e051341bd",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "One of the things of this grammar point that normally confuses me is the usage of \n待って　and 待ってて. \n\nI am guessing that 待って implies \"Wait a moment\" and that 待ってて implies something like \"Wait(and continue waiting for a while)\"\nCan anyone clarify?",
+      "html": "One of the things of this grammar point that normally confuses me is the usage of <br/>待って　and 待ってて. <br/><br/>I am guessing that 待って implies \"Wait a moment\" and that 待ってて implies something like \"Wait(and continue waiting for a while)\"<br/>Can anyone clarify?",
+      "credits_raw": "ミサ坊",
+      "content_sha256": "9f04ff5d2d0edf74f110f9f1ec178820032d07d182852aa29dc4136f6b3008f7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "If 本を書いてる。= \"I've written a book,\" and you wished to say \"I'm writing a book,\" how would this form change?",
+      "html": "If 本を書いてる。= \"I've written a book,\" and you wished to say \"I'm writing a book,\" how would this form change?",
+      "credits_raw": "bshock",
+      "content_sha256": "541c0fa7913a460029ff1831ac50caac8db9b45ec3cb2bdf6bfb9720cb020e78",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "To bshock, I probably translate \"I'm writing a book\" as \"本を書いている。”？",
+      "html": "To bshock, I probably translate \"I'm writing a book\" as \"本を書いている。”？",
+      "credits_raw": "koueihou",
+      "content_sha256": "25a0cad2e9f5e82d9ba93a671d1c8e5108d83de83a7c16cc109ca9524312e717",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Hey ミサ, I asked my coworker what the diffrence is and he confirmed your guess. \n\n待って　is something that is currently being done and 待ってて is something that will be started after the completion of something else. \n\nIE if your teacher askes for your homework and you have to dig in your backpack to get it, 待ってください\n\nif you are in the middle of completing your homework. 待っててください。\n\nI give you 10 points for posting this question. I have always used both interchangable (not a problem if you do) but its always good to learn a little more about the smaller meanings within the words.",
+      "html": "Hey ミサ, I asked my coworker what the diffrence is and he confirmed your guess. <br/><br/>待って　is something that is currently being done and 待ってて is something that will be started after the completion of something else. <br/><br/>IE if your teacher askes for your homework and you have to dig in your backpack to get it, 待ってください<br/><br/>if you are in the middle of completing your homework. 待っててください。<br/><br/>I give you 10 points for posting this question. I have always used both interchangable (not a problem if you do) but its always good to learn a little more about the smaller meanings within the words.",
+      "credits_raw": "tigert",
+      "content_sha256": "a85ed650d73aa7c0a1f9a5d1d42b369ab678f68bf3df5b7f967e9d9c0000f5f7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "I'm still not sure when it's appropriate to use this form in the past tense ていた. For example, if I wanted to say \"Yesterday we talked/ate a lot, didn't we?\" would it be:\n\n昨日よく話してたなぁ 昨日よく食べてたなぁ\nor: 昨日よく話したなぁ 昨日よく食べたなぁ\n\nI used to use the second (non ていた) form exclusively as is the general useage pattern in English, despite the fact in the present tense you'd generally say 話している as talking is a continuous action, but recently I've noticed that the ていた form is used quite a lot too. Anyone have any idea what the exact difference between these two forms is?\n\nOther examples might include:\n\n昨日よく寝てた -> seems to be more commonly used\nand: 昨日よく寝た\n\nAlso, to bshock above - surely \"I've written a book\" is also better translated in this past tense version of ている:\n\n本を書いてた (i.e. I wrote a book, and I'm still in that state)",
+      "html": "I'm still not sure when it's appropriate to use this form in the past tense ていた. For example, if I wanted to say \"Yesterday we talked/ate a lot, didn't we?\" would it be:<br/><br/>昨日よく話してたなぁ 昨日よく食べてたなぁ<br/>or: 昨日よく話したなぁ 昨日よく食べたなぁ<br/><br/>I used to use the second (non ていた) form exclusively as is the general useage pattern in English, despite the fact in the present tense you'd generally say 話している as talking is a continuous action, but recently I've noticed that the ていた form is used quite a lot too. Anyone have any idea what the exact difference between these two forms is?<br/><br/>Other examples might include:<br/><br/>昨日よく寝てた -&gt; seems to be more commonly used<br/>and: 昨日よく寝た<br/><br/>Also, to bshock above - surely \"I've written a book\" is also better translated in this past tense version of ている:<br/><br/>本を書いてた (i.e. I wrote a book, and I'm still in that state)",
+      "credits_raw": "ken274",
+      "content_sha256": "27725b7be65b16f64341e5523508d21e6da4b6183144349457048e6196a0e131",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 784,
+      "label": "て形+ある (て在る・て有る)",
+      "source_url": "https://takoboto.jp/bunpo/784"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:35:27+00:00",
+  "response_sha256": "7b6c4a304ef678abd0bad6810a44c3a182312c85b22b73d4cae3d7b29968a4f0",
+  "warnings": []
+}

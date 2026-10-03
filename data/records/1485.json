@@ -1,0 +1,834 @@
+{
+  "schema_version": 2,
+  "id": 1485,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1485/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "ばかり",
+  "romanized_label": "bakari-2",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "dc",
+  "meaning": "just (just recently) / nothing but",
+  "meaning_example": "I just bought it / you do nothing but play around",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1485",
+      "body_text": "just (just recently) / nothing but \n I just bought it / you do nothing but play around",
+      "body_html": "<span>just (just recently) / nothing but</span> <br/> <span>I just bought it / you do nothing but play around</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1485",
+      "body_text": "Verb casual past た-form+ばかりVerb て-form+ばかりVerb dictionary form+ばかりNoun+ばかり",
+      "body_html": "<div><div><div>Verb casual past た-form</div></div><div><div>+</div><div>ばかり</div></div></div><div><div><div>Verb て-form</div></div><div><div>+</div><div>ばかり</div></div></div><div><div><div>Verb dictionary form</div></div><div><div>+</div><div>ばかり</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>ばかり</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb casual past た-form + ばかり",
+    "Verb て-form + ばかり",
+    "Verb dictionary form + ばかり",
+    "Noun + ばかり"
+  ],
+  "examples": [
+    {
+      "source_id": 5018,
+      "position": 0,
+      "japanese": "その本を買ったばかりだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e3%82%92\"><span>本を</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%9f\"><span>買った</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%80%82\"><span>だ。</span></a>",
+      "segments": [
+        {
+          "text": "その本を買った",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのほんをかったばかりだ。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I just bought that book",
+          "html": "<span>I </span><strong>just </strong><span>bought that book </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "just ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "bought that book ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5019,
+      "position": 1,
+      "japanese": "昨日アメリカから帰ってきたばかりなんです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%98%a8%e6%97%a5%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%8b%e3%82%89%e5%b8%b0%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f\"><span>昨日アメリカから帰ってきた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a7%e3%81%99%e3%80%82\"><span>なんです。</span></a>",
+      "segments": [
+        {
+          "text": "昨日アメリカから帰ってきた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "なんです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きのうアメリカからかえってきたばかりなんです。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I just  got back from America yesterday.",
+          "html": "<span>I </span><strong>just </strong><span> got back from America yesterday. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "just ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " got back from America yesterday. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5020,
+      "position": 2,
+      "japanese": "５０００円ばかりもっている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%95%ef%bc%90%ef%bc%90%ef%bc%90%e5%86%86\"><span>５０００円</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>もっている。</span></a>",
+      "segments": [
+        {
+          "text": "５０００円",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "もっている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "５０００えんばかりもっている。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I have just 5,000 yen.",
+          "html": "<span>I have just 5,000 yen. </span>",
+          "segments": [
+            {
+              "text": "I have just 5,000 yen. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5021,
+      "position": 3,
+      "japanese": "あなたはいつも私のあら捜しばかりしている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%84%e3%81%a4%e3%82%82\"><span>あなたはいつも</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ae%e3%81%82%e3%82%89\"><span>私のあら</span></a><a href=\"https://takoboto.jp/?q=%e6%8d%9c%e3%81%97\"><span>捜し</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>している。</span></a>",
+      "segments": [
+        {
+          "text": "あなたはいつも私のあら捜し",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "している。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたはいつもわたしのあらさがしばかりしている。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You do nothing but find fault with me.",
+          "html": "<span>You do nothing but find fault with me. </span>",
+          "segments": [
+            {
+              "text": "You do nothing but find fault with me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5022,
+      "position": 4,
+      "japanese": "あなたは何度も同じ誤りばかりしている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af\"><span>あなたは</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e5%ba%a6%e3%82%82\"><span>何度も</span></a><a href=\"https://takoboto.jp/?q=%e5%90%8c%e3%81%98\"><span>同じ</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%a4%e3%82%8a\"><span>誤り</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>している。</span></a>",
+      "segments": [
+        {
+          "text": "あなたは何度も同じ誤り",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "している。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたはなんどもおなじあやまりばかりしている。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You're just making the same mistake time after time.",
+          "html": "<span>You're just making the same mistake time after time. </span>",
+          "segments": [
+            {
+              "text": "You're just making the same mistake time after time. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5023,
+      "position": 5,
+      "japanese": "あの人は自分の分担の仕事をしないことにいつもいいわけばかりしている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae%e4%ba%ba%e3%81%af%e8%87%aa%e5%88%86%e3%81%ae%e5%88%86%e6%8b%85%e3%81%ae%e4%bb%95%e4%ba%8b%e3%82%92%e3%81%97%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%ab%e3%81%84%e3%81%a4%e3%82%82%e3%81%84%e3%81%84%e3%82%8f%e3%81%91\"><span>あの人は自分の分担の仕事をしないことにいつもいいわけ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>している。</span></a>",
+      "segments": [
+        {
+          "text": "あの人は自分の分担の仕事をしないことにいつもいいわけ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "している。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あのひとはじぶんのぶんたんのしごとをしないことにいつもいいわけばかりしている。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "That person does nothing but  make excuses for not doing his share of the work.",
+          "html": "<span>That person does </span><strong>nothing but </strong><span> make excuses for not doing his share of the work. </span>",
+          "segments": [
+            {
+              "text": "That person does ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "nothing but ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " make excuses for not doing his share of the work. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5024,
+      "position": 6,
+      "japanese": "あなたばかりでなく私もまちがっている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f\"><span>あなた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%aa%e3%81%8f\"><span>でなく</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%82%82%e3%81%be%e3%81%a1%e3%81%8c%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>私もまちがっている。</span></a>",
+      "segments": [
+        {
+          "text": "あなた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "でなく私もまちがっている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたばかりでなくわたしもまちがっている。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Not only you but also I am wrong.",
+          "html": "<span>Not </span><strong>only </strong><span>you but also I am wrong. </span>",
+          "segments": [
+            {
+              "text": "Not ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "only ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "you but also I am wrong. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5025,
+      "position": 7,
+      "japanese": "うちの息子は遊んでばかりいる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ae\"><span>うちの</span></a><a href=\"https://takoboto.jp/?q=%e6%81%af%e5%ad%90%e3%81%af\"><span>息子は</span></a><a href=\"https://takoboto.jp/?q=%e9%81%8a%e3%82%93%e3%81%a7\"><span>遊んで</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%84%e3%82%8b%e3%80%82\"><span>いる。</span></a>",
+      "segments": [
+        {
+          "text": "うちの息子は遊んで",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "いる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "うちのむすこはあそんでばかりいる。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My son does nothing but play around",
+          "html": "<span>My son does nothing but play around </span>",
+          "segments": [
+            {
+              "text": "My son does nothing but play around ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5026,
+      "position": 8,
+      "japanese": "お母さんはいつも私の不平ばかり言っている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e6%af%8d%e3%81%95%e3%82%93%e3%81%af%e3%81%84%e3%81%a4%e3%82%82\"><span>母さんはいつも</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ae\"><span>私の</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8d%e5%b9%b3\"><span>不平</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>言っている。</span></a>",
+      "segments": [
+        {
+          "text": "お母さんはいつも私の不平",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "言っている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おかあさんはいつもわたしのふへいばかりいっている。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My mother does nothing but complain about me.",
+          "html": "<span>My mother does nothing but complain about me. </span>",
+          "segments": [
+            {
+              "text": "My mother does nothing but complain about me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5027,
+      "position": 9,
+      "japanese": "かれはさくやここに到着したばかりです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%8c%e3%81%af%e3%81%95%e3%81%8f%e3%82%84%e3%81%93%e3%81%93%e3%81%ab\"><span>かれはさくやここに</span></a><a href=\"https://takoboto.jp/?q=%e5%88%b0%e7%9d%80%e3%81%97%e3%81%9f\"><span>到着した</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82\"><span>です。</span></a>",
+      "segments": [
+        {
+          "text": "かれはさくやここに到着した",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはさくやここにとうちゃくしたばかりです。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He arrived here just last night.",
+          "html": "<span>He arrived here just last night. </span>",
+          "segments": [
+            {
+              "text": "He arrived here just last night. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5028,
+      "position": 10,
+      "japanese": "かわいそうにその少女は一日中泣いてばかりだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%81%84%e3%81%9d%e3%81%86%e3%81%ab%e3%81%9d%e3%81%ae\"><span>かわいそうにその</span></a><a href=\"https://takoboto.jp/?q=%e5%b0%91%e5%a5%b3%e3%81%af\"><span>少女は</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e6%97%a5%e4%b8%ad%e6%b3%a3%e3%81%84%e3%81%a6\"><span>一日中泣いて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%80%82\"><span>だ。</span></a>",
+      "segments": [
+        {
+          "text": "かわいそうにその少女は一日中泣いて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かわいそうにそのしょうじょはいちにちちゅうないてばかりだ。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The poor little girl did nothing but sob all day.",
+          "html": "<span>The poor little girl did nothing but sob all day. </span>",
+          "segments": [
+            {
+              "text": "The poor little girl did nothing but sob all day. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5029,
+      "position": 11,
+      "japanese": "このポンコツ車はえんこばかりしている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%9d%e3%83%b3%e3%82%b3%e3%83%84\"><span>このポンコツ</span></a><a href=\"https://takoboto.jp/?q=%e8%bb%8a%e3%81%af%e3%81%88%e3%82%93%e3%81%93\"><span>車はえんこ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>している。</span></a>",
+      "segments": [
+        {
+          "text": "このポンコツ車はえんこ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "している。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このしゃはえんこばかりしている。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This old car breaks down all the time.",
+          "html": "<span>This old car breaks down all the time. </span>",
+          "segments": [
+            {
+              "text": "This old car breaks down all the time. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5030,
+      "position": 12,
+      "japanese": "この子は泣いてばかりいる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e3%81%af\"><span>子は</span></a><a href=\"https://takoboto.jp/?q=%e6%b3%a3%e3%81%84%e3%81%a6\"><span>泣いて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%84%e3%82%8b%e3%80%82\"><span>いる。</span></a>",
+      "segments": [
+        {
+          "text": "この子は泣いて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "いる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このこはないてばかりいる。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This child does nothing but cry.",
+          "html": "<span>This child does nothing but cry. </span>",
+          "segments": [
+            {
+              "text": "This child does nothing but cry. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5031,
+      "position": 13,
+      "japanese": "この車は近ごろ故障ばかりしている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e8%bb%8a%e3%81%af\"><span>車は</span></a><a href=\"https://takoboto.jp/?q=%e8%bf%91%e3%81%94%e3%82%8d\"><span>近ごろ</span></a><a href=\"https://takoboto.jp/?q=%e6%95%85%e9%9a%9c\"><span>故障</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>している。</span></a>",
+      "segments": [
+        {
+          "text": "この車は近ごろ故障",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "している。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このくるまはちかごろこしょうばかりしている。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This car does nothing but break down lately.",
+          "html": "<span>This car does nothing but break down lately. </span>",
+          "segments": [
+            {
+              "text": "This car does nothing but break down lately. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5032,
+      "position": 14,
+      "japanese": "この組織は幹部ばかり名を連ねているのではたして決定を下せるのかあやしいものだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%84%e7%b9%94%e3%81%af\"><span>組織は</span></a><a href=\"https://takoboto.jp/?q=%e5%b9%b9%e9%83%a8\"><span>幹部</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e5%90%8d%e3%82%92\"><span>名を</span></a><a href=\"https://takoboto.jp/?q=%e9%80%a3%e3%81%ad%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a7%e3%81%af%e3%81%9f%e3%81%97%e3%81%a6\"><span>連ねているのではたして</span></a><a href=\"https://takoboto.jp/?q=%e6%b1%ba%e5%ae%9a%e3%82%92\"><span>決定を</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8b%e3%81%9b%e3%82%8b%e3%81%ae%e3%81%8b%e3%81%82%e3%82%84%e3%81%97%e3%81%84%e3%82%82%e3%81%ae%e3%81%a0%e3%80%82\"><span>下せるのかあやしいものだ。</span></a>",
+      "segments": [
+        {
+          "text": "この組織は幹部",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "名を連ねているのではたして決定を下せるのかあやしいものだ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このそしきはかんぶばかりなをつらねているのではたしてけっていをくだせるのかあやしいものだ。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Since in this organization they're all chiefs and no Indians, it's a wonder any decisions get made.",
+          "html": "<span>Since in this organization they're all chiefs and no Indians, it's a wonder any decisions get made. </span>",
+          "segments": [
+            {
+              "text": "Since in this organization they're all chiefs and no Indians, it's a wonder any decisions get made. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5033,
+      "position": 15,
+      "japanese": "この本はあの本に比べて、ためになるばかりでなくおもしろい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e3%81%af%e3%81%82%e3%81%ae\"><span>本はあの</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e3%81%ab\"><span>本に</span></a><a href=\"https://takoboto.jp/?q=%e6%af%94%e3%81%b9%e3%81%a6%e3%80%81%e3%81%9f%e3%82%81%e3%81%ab%e3%81%aa%e3%82%8b\"><span>比べて、ためになる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%aa%e3%81%8f%e3%81%8a%e3%82%82%e3%81%97%e3%82%8d%e3%81%84%e3%80%82\"><span>でなくおもしろい。</span></a>",
+      "segments": [
+        {
+          "text": "この本はあの本に比べて、ためになる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "でなくおもしろい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このほんはあのほんにくらべて、ためになるばかりでなくおもしろい。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This book is not only more instructive but more interesting than that book.",
+          "html": "<span>This book is not only more instructive but more interesting than that book. </span>",
+          "segments": [
+            {
+              "text": "This book is not only more instructive but more interesting than that book. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5034,
+      "position": 16,
+      "japanese": "この本は出版されたばかりだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e3%81%af\"><span>本は</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e7%89%88%e3%81%95%e3%82%8c%e3%81%9f\"><span>出版された</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%80%82\"><span>だ。</span></a>",
+      "segments": [
+        {
+          "text": "この本は出版された",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このほんはしゅっぱんされたばかりだ。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This book is hot off from the press.",
+          "html": "<span>This book is hot off from the press. </span>",
+          "segments": [
+            {
+              "text": "This book is hot off from the press. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5035,
+      "position": 17,
+      "japanese": "ご兄弟のことはカンザス州から問い合わせを受けたばかりです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%94\"><span>ご</span></a><a href=\"https://takoboto.jp/?q=%e5%85%84%e5%bc%9f%e3%81%ae%e3%81%93%e3%81%a8%e3%81%af%e3%82%ab%e3%83%b3%e3%82%b6%e3%82%b9\"><span>兄弟のことはカンザス</span></a><a href=\"https://takoboto.jp/?q=%e5%b7%9e%e3%81%8b%e3%82%89\"><span>州から</span></a><a href=\"https://takoboto.jp/?q=%e5%95%8f%e3%81%84\"><span>問い</span></a><a href=\"https://takoboto.jp/?q=%e5%90%88%e3%82%8f%e3%81%9b%e3%82%92\"><span>合わせを</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%97%e3%81%91%e3%81%9f\"><span>受けた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%b0%e3%81%8b%e3%82%8a\"><strong>ばかり</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82\"><span>です。</span></a>",
+      "segments": [
+        {
+          "text": "ご兄弟のことはカンザス州から問い合わせを受けた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ばかり",
+          "grammar_highlight": true
+        },
+        {
+          "text": "です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ごきょうだいのことはカンザスしゅうからといあわせをうけたばかりです。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We have just received an inquiry from Kansas concerning your brother.",
+          "html": "<span>We have just received an inquiry from Kansas concerning your brother. </span>",
+          "segments": [
+            {
+              "text": "We have just received an inquiry from Kansas concerning your brother. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "ta form + bakari",
+      "html": "ta form + bakari",
+      "credits_raw": "han-na_bae",
+      "content_sha256": "ad0760861cebf10b9f985f762d5a3f88dc05d2f1b7700d94d1be7e3811c47d76",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "bakari is a \"completed fullness\", for instance that's all you got because with that you didn't need any more.\ndake means that's all you got, but more would be better/ok/possible/,,,",
+      "html": "bakari is a \"completed fullness\", for instance that's all you got because with that you didn't need any more.<br/>dake means that's all you got, but more would be better/ok/possible/,,,",
+      "credits_raw": "duncane",
+      "content_sha256": "4d68c1f0c5df829776b78c890f49387fc2334c9fc213ab139f68d546d3042788",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "I second KWhazit's comment: there are most definitely two separate entries here. \nAlso need to beware: depending on meaning (\"just happened\"/\"nothing but\"), placement is different:\n\n食べたばかり -> I just ate (moments ago).\nばかり食べた -> All I/we/etc did was eating (and nothing else).\n\nFurthermore, I believe pronunciation/spelling: ばっかり is also valid (very often heard in speech).",
+      "html": "I second KWhazit's comment: there are most definitely two separate entries here. <br/>Also need to beware: depending on meaning (\"just happened\"/\"nothing but\"), placement is different:<br/><br/>食べたばかり -&gt; I just ate (moments ago).<br/>ばかり食べた -&gt; All I/we/etc did was eating (and nothing else).<br/><br/>Furthermore, I believe pronunciation/spelling: ばっかり is also valid (very often heard in speech).",
+      "credits_raw": "drdave",
+      "content_sha256": "58171f80c604e69e256f07b0c5175c78c886611299d58bba1ffbee461856f2f8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "#5018\nその本を買ったばかりです。 \n\n#5019\n昨日アメリカから帰ってきたばかりです。\nI just got back from the US yesterday.\n\n#5027 Use kanji.\n彼は昨夜ここに到着したばかりです。\n\n#5028\nかわいそうにその少女は一日中泣いてばかりいました。\n\n#5029\nこの古い車はいつも壊れてばかりです。\n\n#5032\nPut \"、\" right after \"〜いるので.\"",
+      "html": "#5018<br/>その本を買ったばかりです。 <br/><br/>#5019<br/>昨日アメリカから帰ってきたばかりです。<br/>I just got back from the US yesterday.<br/><br/>#5027 Use kanji.<br/>彼は昨夜ここに到着したばかりです。<br/><br/>#5028<br/>かわいそうにその少女は一日中泣いてばかりいました。<br/><br/>#5029<br/>この古い車はいつも壊れてばかりです。<br/><br/>#5032<br/>Put \"、\" right after \"〜いるので.\"",
+      "credits_raw": "Nick",
+      "content_sha256": "92bb4f20f4ee574085339f55fdfdf6e8dfe17373c3b5ce42d1ad5dfea9f768f9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "How is this different from 'dake' or 'tada'?",
+      "html": "How is this different from 'dake' or 'tada'?",
+      "credits_raw": "Jarret",
+      "content_sha256": "466995a02c85d63574c8ca3bd4f703a5e0ecae2d97f7fde021aa8f05fa1c5061",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "I think this needs to be split into two separate entries.\n\nばかり (after a past-tense verb) in [#5018], [#5027], [#5034], and others, means that something has only just happened\n\nばかり (after a noun, -te form verb, etc.) in many of the other examples ([#5021], [#5028], [#5031], etc.) is more of a \"nothing but\", \"all it ever does is\", or \"all that's there is\" feeling.",
+      "html": "I think this needs to be split into two separate entries.<br/><br/>ばかり (after a past-tense verb) in [#5018], [#5027], [#5034], and others, means that something has only just happened<br/><br/>ばかり (after a noun, -te form verb, etc.) in many of the other examples ([#5021], [#5028], [#5031], etc.) is more of a \"nothing but\", \"all it ever does is\", or \"all that's there is\" feeling.",
+      "credits_raw": "KWhazit",
+      "content_sha256": "a746f7e689567e8f529340a7b1da7d9ae18a12d779e13333abc509c4a5e1b3e9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "１．正しいことばかり選べないそれくらいわかってる。\nMeaning something like I can't make but the wrong choice.\n~ばかり\n~てばかり\n\n２．着いたばかり。\nI just arrived.\n~たばかり",
+      "html": "１．正しいことばかり選べないそれくらいわかってる。<br/>Meaning something like I can't make but the wrong choice.<br/>~ばかり<br/>~てばかり<br/><br/>２．着いたばかり。<br/>I just arrived.<br/>~たばかり",
+      "credits_raw": "UmiLi",
+      "content_sha256": "fd56c976e9f9ae43485eb143af0b86fdcf9b74b3690c419bb21c09d177af3235",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "KWhazit, good point!",
+      "html": "KWhazit, good point!",
+      "credits_raw": "chieko",
+      "content_sha256": "2efdc6cd174173c2cab6a0714259388c406bd8e0c9ebc513f920b024089921bb",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 835,
+      "label": "ばかりに",
+      "source_url": "https://takoboto.jp/bunpo/835"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:33:07+00:00",
+  "response_sha256": "691d486e5016196834a9d8b8362a296162ee4c3e89b534d98d8ff607915c442b",
+  "warnings": []
+}

@@ -1,0 +1,437 @@
+{
+  "schema_version": 2,
+  "id": 976,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/976/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "によって",
+  "romanized_label": "niyotte-2",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "dc",
+  "meaning": "depending on",
+  "meaning_example": "depending on the weather, I will come",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_976",
+      "body_text": "depending on \n depending on the weather, I will come",
+      "body_html": "<span>depending on</span> <br/> <span>depending on the weather, I will come</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_976",
+      "body_text": "Noun+によって",
+      "body_html": "<div><div><div>Noun</div></div><div><div>+</div><div>によって</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Noun + によって"
+  ],
+  "examples": [
+    {
+      "source_id": 1310,
+      "position": 0,
+      "japanese": "結果によっては採用しないことがあります。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%b5%90%e6%9e%9c\"><span>結果</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e3%81%af\"><strong>によっては</strong></a><a href=\"https://takoboto.jp/?q=%e6%8e%a1%e7%94%a8%e3%81%97%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%80%82\"><span>採用しないことがあります。</span></a>",
+      "segments": [
+        {
+          "text": "結果",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によっては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "採用しないことがあります。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "けっかによってはさいようしないことがあります。",
+      "credits_raw": "dc, bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Depending upon the outcome, you may not be hired.",
+          "html": "<strong>Depending upon </strong><span>the outcome, you may not be hired. </span>",
+          "segments": [
+            {
+              "text": "Depending upon ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the outcome, you may not be hired. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1311,
+      "position": 1,
+      "japanese": "天気によっては中止することがあります。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%a9%e6%b0%97\"><span>天気</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e3%81%af\"><strong>によっては</strong></a><a href=\"https://takoboto.jp/?q=%e4%b8%ad%e6%ad%a2%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%80%82\"><span>中止することがあります。</span></a>",
+      "segments": [
+        {
+          "text": "天気",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によっては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "中止することがあります。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "てんきによってはちゅうしすることがあります。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Depending upon the weather, the event may be cancelled.",
+          "html": "<strong>Depending upon </strong><span>the weather, the event may be cancelled. </span>",
+          "segments": [
+            {
+              "text": "Depending upon ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the weather, the event may be cancelled. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7179,
+      "position": 2,
+      "japanese": "景気にようってはメキシコに行きます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%99%af%e6%b0%97\"><span>景気</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%86%e3%81%a3%e3%81%a6%e3%81%af\"><strong>にようっては</strong></a><a href=\"https://takoboto.jp/?q=%e3%83%a1%e3%82%ad%e3%82%b7%e3%82%b3%e3%81%ab\"><span>メキシコに</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d%e3%81%be%e3%81%99%e3%80%82\"><span>行きます。</span></a>",
+      "segments": [
+        {
+          "text": "景気",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にようっては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "メキシコに行きます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "けいきにようってはメキシコにいきます。",
+      "credits_raw": "josue64",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Depending upon the finances, I will go to Mexico.",
+          "html": "<strong>Depending upon </strong><span>the finances, I will go to Mexico. </span>",
+          "segments": [
+            {
+              "text": "Depending upon ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the finances, I will go to Mexico. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8828,
+      "position": 3,
+      "japanese": "漢字によって意味が違います",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%bc%a2%e5%ad%97\"><span>漢字</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6\"><strong>によって</strong></a><a href=\"https://takoboto.jp/?q=%e6%84%8f%e5%91%b3%e3%81%8c%e9%81%95%e3%81%84%e3%81%be%e3%81%99\"><span>意味が違います</span></a>",
+      "segments": [
+        {
+          "text": "漢字",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "意味が違います",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かんじによっていみがちがいます",
+      "credits_raw": "alditama",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Depending on  kanji the meaning is different",
+          "html": "<strong>Depending on </strong><span> kanji the meaning is different </span>",
+          "segments": [
+            {
+              "text": "Depending on ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " kanji the meaning is different ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8874,
+      "position": 4,
+      "japanese": "国によって習慣が違う",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%9b%bd%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e7%bf%92%e6%85%a3%e3%81%8c%e9%81%95%e3%81%86\"><span>国によって習慣が違う</span></a>",
+      "segments": [
+        {
+          "text": "国によって習慣が違う",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "くにによってしゅうかんがちがう",
+      "credits_raw": "ste",
+      "translations": [
+        {
+          "language": "en",
+          "text": "customs differ depending on the country",
+          "html": "<span>customs differ depending on the country </span>",
+          "segments": [
+            {
+              "text": "customs differ depending on the country ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1309,
+      "position": 5,
+      "japanese": "天気によっては来ます",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%a9%e6%b0%97\"><span>天気</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e3%81%af\"><strong>によっては</strong></a><a href=\"https://takoboto.jp/?q=%e6%9d%a5%e3%81%be%e3%81%99\"><span>来ます</span></a>",
+      "segments": [
+        {
+          "text": "天気",
+          "grammar_highlight": false
+        },
+        {
+          "text": "によっては",
+          "grammar_highlight": true
+        },
+        {
+          "text": "来ます",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "てんきによってはきます",
+      "credits_raw": "dc, bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "depending on the weather, i will come",
+          "html": "<strong>depending on </strong><span>the weather, i will come </span>",
+          "segments": [
+            {
+              "text": "depending on ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the weather, i will come ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "how about \n 天気によっては来ます",
+      "html": "how about <br/> 天気によっては来ます",
+      "credits_raw": "dc",
+      "content_sha256": "74101c7b1d6d95fa01adbd940a05584f02d7ca444ac4d9665d1563f16235f9ee",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "If you say 天気によっては来ます,it is very likely that you are talking about some third party or things. Like in Nikko, there are many monkeys, and you can say that to indicate that those monkeys will show up depending on the weather. \n\nIf you are talking about yourself, it is normal to say 天気によってはゆきます or 天気によっては帰って来ます but one do not normally see 来ます very often.",
+      "html": "If you say 天気によっては来ます,it is very likely that you are talking about some third party or things. Like in Nikko, there are many monkeys, and you can say that to indicate that those monkeys will show up depending on the weather. <br/><br/>If you are talking about yourself, it is normal to say 天気によってはゆきます or 天気によっては帰って来ます but one do not normally see 来ます very often.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "4af04dd0b92867a51b378599ad8797103f201ea32e9e6cd7249e02a3423ff1be",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "erm, sorry my encoding messed up again, that first line should be \"saiyou shinai _koto_ ga arimasu\"\n\ndelete button doesn't seem to work :(",
+      "html": "erm, sorry my encoding messed up again, that first line should be \"saiyou shinai _koto_ ga arimasu\"<br/><br/>delete button doesn't seem to work :(",
+      "credits_raw": "Snake",
+      "content_sha256": "031535e8188eb9da12836dcf06a67302765580d1467e201a044e2059024cb2f3",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "snake hiya - deleted your mojibake post above... dunno why your delete btn is not working - are you logged in?\nalso the encoding, i haven't seen probs with. what browser/OS are you on?",
+      "html": "snake hiya - deleted your mojibake post above... dunno why your delete btn is not working - are you logged in?<br/>also the encoding, i haven't seen probs with. what browser/OS are you on?",
+      "credits_raw": "dc",
+      "content_sha256": "37d234966d7dd6c4045a9f4496d263792f309d0f7836a27b57109d3373d063ec",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "dc, I cannot delete my comment, too. When I am logged off, I cannot see delete btn. でしょ？",
+      "html": "dc, I cannot delete my comment, too. When I am logged off, I cannot see delete btn. でしょ？",
+      "credits_raw": "Miki",
+      "content_sha256": "bff155389e2888fe0639afe178c5352cc767921b013f56e41133ddd3c4088823",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "I could delete an example I added.",
+      "html": "I could delete an example I added.",
+      "credits_raw": "Miki",
+      "content_sha256": "e4891fadf0affa70eb1c06696b81229287f397d4c3cbb76ee278496669cbad70",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "天気によって来ます is weird. It should be \"天気次第で行きます.\"",
+      "html": "天気によって来ます is weird. It should be \"天気次第で行きます.\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "3e01acb5776a594a035ad0329d0395d8f035847f2f00371a7811f6706e9875f6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "yes, you can only delete your own comments - so you have to be logged in so the system knows which are yours! otherwise an anonymous user could come in and delete everything...",
+      "html": "yes, you can only delete your own comments - so you have to be logged in so the system knows which are yours! otherwise an anonymous user could come in and delete everything...",
+      "credits_raw": "dc",
+      "content_sha256": "a2439d4b4f0985d6dbbceaef263555e22737828a3b42dff583fbc2b85a0112ce",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "I was logged in, and i tried it again just then logged in, but no go. I'm using Opera though.. gomen \nブラウザによっては削除出来ないことがあります（＾＾；",
+      "html": "I was logged in, and i tried it again just then logged in, but no go. I'm using Opera though.. gomen <br/>ブラウザによっては削除出来ないことがあります（＾＾；",
+      "credits_raw": "Snake",
+      "content_sha256": "1dd1d605273e1d0dfd81a05bdfc4ad296057d9ee5f5d7547b87c4dc742fe1eed",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "dang. that would class as a bug then. might be Opera cookie/session handling. I recommend firefox but IE seems OK too.",
+      "html": "dang. that would class as a bug then. might be Opera cookie/session handling. I recommend firefox but IE seems OK too.",
+      "credits_raw": "dc",
+      "content_sha256": "bee2e5cbd4c35df1b879811d9abc2c7e6b971a8b15ea2b00dd1d042044118b5a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "Firefox cannot handle Japanese fonts.",
+      "html": "Firefox cannot handle Japanese fonts.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "c13ebbdb0b0e0a5d10f917413512be120e52485d409aeea714f4d6e80b39abe2",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "ex1309 天気 によっては 来ます can also be used such when you were at a gathering and asked if you comes to next gathering.　\n一郎：「次回はきますか？」Will you come next time?\n花子：「天気によっては来ます。」",
+      "html": "ex1309 天気 によっては 来ます can also be used such when you were at a gathering and asked if you comes to next gathering.　<br/>一郎：「次回はきますか？」Will you come next time?<br/>花子：「天気によっては来ます。」",
+      "credits_raw": "Miki",
+      "content_sha256": "f9063b8f8b7191e6f093e90d0b966ae52fac003b49d3178e446d41964951f5d6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "I use Firefox and have had no problems with japanese fonts..?",
+      "html": "I use Firefox and have had no problems with japanese fonts..?",
+      "credits_raw": "dc",
+      "content_sha256": "1391a9bd5742afb6711188429522c8082b7ec2ec33d312070843de16fbab63bd",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "Is this the same, or a variation on, かによる?",
+      "html": "Is this the same, or a variation on, かによる?",
+      "credits_raw": "jmadsen",
+      "content_sha256": "79003d6876c1db55082b81b157dde4dc68a8a0e1e10536f8b7da9e510e3b9c59",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "Hi-General comment. When I log in and browse, the screen jumps all over the place. When I log OUT, the problem is cleared up. For example, I get to the entry I want to look at, and the screen reverts to the beginning of the section. Any suggestions?",
+      "html": "Hi-General comment. When I log in and browse, the screen jumps all over the place. When I log OUT, the problem is cleared up. For example, I get to the entry I want to look at, and the screen reverts to the beginning of the section. Any suggestions?",
+      "credits_raw": "lucinda lohmanoota",
+      "content_sha256": "0a325b3d0457a84c3bab3ced2f50bd8bb69caf41d0c961004e72eae6935db534",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1249,
+      "label": "によって",
+      "source_url": "https://takoboto.jp/bunpo/1249"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:36:23+00:00",
+  "response_sha256": "33e77ecdf6eadfc8141569a0a4aadc7361b4833d3864c9b397e5e6e28492a426",
+  "warnings": []
+}

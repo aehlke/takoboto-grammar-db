@@ -1,0 +1,367 @@
+{
+  "schema_version": 2,
+  "id": 1217,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1217/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "ので",
+  "romanized_label": "node",
+  "alternate_forms": [],
+  "jlpt_level": 4,
+  "credits_raw": "Amatuka",
+  "meaning": "because, and",
+  "meaning_example": null,
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1217",
+      "body_text": "because, and",
+      "body_html": "<span>because, and</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1217",
+      "body_text": "Verb (casual)+のでい-adjective+のでな-adjective+な+のでNoun+な+ので",
+      "body_html": "<div><div><div>Verb (casual)</div></div><div><div>+</div><div>ので</div></div></div><div><div><div>い-adjective</div></div><div><div>+</div><div>ので</div></div></div><div><div><div>な-adjective</div></div><div><div>+</div><div>な</div></div><div><div>+</div><div>ので</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>な</div></div><div><div>+</div><div>ので</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb (casual) + ので",
+    "い-adjective + ので",
+    "な-adjective + な + ので",
+    "Noun + な + ので"
+  ],
+  "examples": [
+    {
+      "source_id": 481,
+      "position": 0,
+      "japanese": "彼の話はあまりにも馬鹿げていたので誰も信じなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae\"><span>彼の</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1%e3%81%af%e3%81%82%e3%81%be%e3%82%8a%e3%81%ab%e3%82%82\"><span>話はあまりにも</span></a><a href=\"https://takoboto.jp/?q=%e9%a6%ac%e9%b9%bf%e3%81%92%e3%81%a6%e3%81%84%e3%81%9f\"><span>馬鹿げていた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7\"><strong>ので</strong></a><a href=\"https://takoboto.jp/?q=%e8%aa%b0%e3%82%82\"><span>誰も</span></a><a href=\"https://takoboto.jp/?q=%e4%bf%a1%e3%81%98%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82\"><span>信じなかった。</span></a>",
+      "segments": [
+        {
+          "text": "彼の話はあまりにも馬鹿げていた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ので",
+          "grammar_highlight": true
+        },
+        {
+          "text": "誰も信じなかった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれのはなしはあまりにもばかげていたのでだれもしんじなかった。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "His story was too ridiculous for anyone to believe.",
+          "html": "<span>His story was too ridiculous for anyone to believe. </span>",
+          "segments": [
+            {
+              "text": "His story was too ridiculous for anyone to believe. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 482,
+      "position": 1,
+      "japanese": "このように平易な英語で書かれているので、この本は初心者に役立つ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab\"><span>このように</span></a><a href=\"https://takoboto.jp/?q=%e5%b9%b3%e6%98%93%e3%81%aa\"><span>平易な</span></a><a href=\"https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%a7\"><span>英語で</span></a><a href=\"https://takoboto.jp/?q=%e6%9b%b8%e3%81%8b%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b\"><span>書かれている</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7\"><strong>ので</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%93%e3%81%ae\"><span>、この</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e3%81%af\"><span>本は</span></a><a href=\"https://takoboto.jp/?q=%e5%88%9d%e5%bf%83%e8%80%85%e3%81%ab\"><span>初心者に</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%b9%e7%ab%8b%e3%81%a4%e3%80%82\"><span>役立つ。</span></a>",
+      "segments": [
+        {
+          "text": "このように平易な英語で書かれている",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ので",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、この本は初心者に役立つ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このようにへいいなえいごでかかれているので、このほんはしょしんしゃにやくだつ。",
+      "credits_raw": "Amatuka, Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Written as it is in plain English, this book is useful for beginners.",
+          "html": "<span>Written as it is in plain English, this book is useful for beginners. </span>",
+          "segments": [
+            {
+              "text": "Written as it is in plain English, this book is useful for beginners. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 483,
+      "position": 2,
+      "japanese": "彼はお金に困っていたので、昨日スーパーマーケットで万引きを働いた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%8a%e9%87%91%e3%81%ab%e5%9b%b0%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f\"><span>彼はお金に困っていた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7\"><strong>ので</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e6%98%a8%e6%97%a5%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%e3%81%a7%e4%b8%87%e5%bc%95%e3%81%8d%e3%82%92%e5%83%8d%e3%81%84%e3%81%9f%e3%80%82\"><span>、昨日スーパーマーケットで万引きを働いた。</span></a>",
+      "segments": [
+        {
+          "text": "彼はお金に困っていた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ので",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、昨日スーパーマーケットで万引きを働いた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはおかねにこまっていたので、きのうスーパーマーケットでまんびきをはたらいた。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He was in financial trouble, so  he shoplifted at the supermarket yesterday.",
+          "html": "<span>He was in financial trouble, </span><strong>so </strong><span> he shoplifted at the supermarket yesterday. </span>",
+          "segments": [
+            {
+              "text": "He was in financial trouble, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "so ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " he shoplifted at the supermarket yesterday. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5695,
+      "position": 3,
+      "japanese": "風邪をひいたので学校に行かない",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%a2%a8%e9%82%aa%e3%82%92%e3%81%b2%e3%81%84%e3%81%9f\"><span>風邪をひいた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7\"><strong>ので</strong></a><a href=\"https://takoboto.jp/?q=%e5%ad%a6%e6%a0%a1%e3%81%ab\"><span>学校に</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%8b%e3%81%aa%e3%81%84\"><span>行かない</span></a>",
+      "segments": [
+        {
+          "text": "風邪をひいた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ので",
+          "grammar_highlight": true
+        },
+        {
+          "text": "学校に行かない",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かぜをひいたのでがっこうにいかない",
+      "credits_raw": "Xero",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I won't go to school because I cought a cold",
+          "html": "<span>I won't go to school because I cought a cold </span>",
+          "segments": [
+            {
+              "text": "I won't go to school because I cought a cold ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8813,
+      "position": 4,
+      "japanese": "今から出発しますので、席にお座り下さい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%81%8b%e3%82%89%e5%87%ba%e7%99%ba%e3%81%97%e3%81%be%e3%81%99\"><span>今から出発します</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7\"><strong>ので</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e5%b8%ad%e3%81%ab%e3%81%8a%e5%ba%a7%e3%82%8a%e4%b8%8b%e3%81%95%e3%81%84%e3%80%82\"><span>、席にお座り下さい。</span></a>",
+      "segments": [
+        {
+          "text": "今から出発します",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ので",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、席にお座り下さい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いまからしゅっぱつしますので、せきにおすわりください。",
+      "credits_raw": "貴博",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Please remain seated because  we are departing now.",
+          "html": "<span>Please remain seated </span><strong>because </strong><span> we are departing now. </span>",
+          "segments": [
+            {
+              "text": "Please remain seated ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "because ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " we are departing now. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "node is almost a connector between phrases, whereas karaniha is much stronger.",
+      "html": "node is almost a connector between phrases, whereas karaniha is much stronger.",
+      "credits_raw": "dc",
+      "content_sha256": "6bdd401bb4df19a4d069e8482cf25372ad120adcd4546ebd1490f6d043ae69ed",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "This is one of the weaker 'because' words, if you see what I mean.",
+      "html": "This is one of the weaker 'because' words, if you see what I mean.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "3fd931a196a9d53b9fdefb86b5242cfde108434b0b416e03e2176e6875768c71",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "In other words, the causal relationship isn't always spelled out in obvious terms in translations of sentences with 'node', hence the 'and' option.",
+      "html": "In other words, the causal relationship isn't always spelled out in obvious terms in translations of sentences with 'node', hence the 'and' option.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "4af730ed8c6bb191fb2b781f6c4440bafcc85377bc338df392b263aa7b655134",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "ex #483 - Can 'node' also mean 'Since' in this context? \"He shoplifted goods in a supermarket yesterday since he was hard up for money.\"",
+      "html": "ex #483 - Can 'node' also mean 'Since' in this context? \"He shoplifted goods in a supermarket yesterday since he was hard up for money.\"",
+      "credits_raw": "GenkiGuy",
+      "content_sha256": "767bff350eb7dce0019f2e6fdcb8c9b8e904336ae7bad3c4041afd0a99149aee",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "i changed that ex slightly. \n reason \"and\" result\ndoesnt really express causality. \n reason \"and so\" result \nis better",
+      "html": "i changed that ex slightly. <br/> reason \"and\" result<br/>doesnt really express causality. <br/> reason \"and so\" result <br/>is better",
+      "credits_raw": "dc",
+      "content_sha256": "d7c9bfd303d3cc112c01035f7ceea1bfecc04046cfbe7f35d0bd550eac6edd18",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "You can use \"because,\" too.",
+      "html": "You can use \"because,\" too.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "e03101163f27c62102dab40eefbd57c4d9f1de30c1e79fa34dd85c7adef1a963",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "But you cannot replace 'node' with 'karaniha'. Please see [kara].",
+      "html": "But you cannot replace 'node' with 'karaniha'. Please see [kara].",
+      "credits_raw": "Miki",
+      "content_sha256": "ba79f5c5211754195e2c4b620991a94222c11c02301ab561f404d6b31e4d1bb0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "node..is level 3grammar point.its not a part in level 4",
+      "html": "node..is level 3grammar point.its not a part in level 4",
+      "credits_raw": "ramu",
+      "content_sha256": "d2e04d70c53155042b1d84764f36b11774677eed5b039fc6bd422dc1b30f2350",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "So, is this another way to say \"because\" without using から?",
+      "html": "So, is this another way to say \"because\" without using から?",
+      "credits_raw": "Pisolo",
+      "content_sha256": "bf1a69ceb90a97be52c8b37581b052e84dbaf3f77f81eff28af0dd437e2ed128",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 554,
+      "label": "からには",
+      "source_url": "https://takoboto.jp/bunpo/554"
+    },
+    {
+      "target_id": 1216,
+      "label": "から",
+      "source_url": "https://takoboto.jp/bunpo/1216"
+    },
+    {
+      "target_id": 1248,
+      "label": "なので",
+      "source_url": "https://takoboto.jp/bunpo/1248"
+    },
+    {
+      "target_id": 1320,
+      "label": "〜ことから",
+      "source_url": "https://takoboto.jp/bunpo/1320"
+    },
+    {
+      "target_id": 1778,
+      "label": "からして",
+      "source_url": "https://takoboto.jp/bunpo/1778"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:32:39+00:00",
+  "response_sha256": "daa9092a8614eecb10c88e0a4b74b647d920018ea97fba3a7f14d680da222fb3",
+  "warnings": []
+}

@@ -1,0 +1,335 @@
+{
+  "schema_version": 2,
+  "id": 759,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/759/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "ように言う",
+  "romanized_label": "youniiu",
+  "alternate_forms": [
+    "ようにいう"
+  ],
+  "jlpt_level": 3,
+  "credits_raw": "Amatuka",
+  "meaning": "V, To say to (do something)",
+  "meaning_example": "My doctor told me to stop drinking.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_759",
+      "body_text": "V, To say to (do something) \n My doctor told me to stop drinking.",
+      "body_html": "<span>V, To say to (do something)</span> <br/> <span>My doctor told me to stop drinking.</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_759",
+      "body_text": "Verb dictionary form+ように言うVerb ~ない form+ように言う",
+      "body_html": "<div><div><div>Verb dictionary form</div></div><div><div>+</div><div>ように言う</div></div></div><div><div><div>Verb ~ない form</div></div><div><div>+</div><div>ように言う</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb dictionary form + ように言う",
+    "Verb ~ない form + ように言う"
+  ],
+  "examples": [
+    {
+      "source_id": 414,
+      "position": 0,
+      "japanese": "医者に控えるように言われているのでお酒が飲めなくて、ウズウズしている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8c%bb%e8%80%85%e3%81%ab\"><span>医者に</span></a><a href=\"https://takoboto.jp/?q=%e6%8e%a7%e3%81%88%e3%82%8b\"><span>控える</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%ab%e8%a8%80%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b\"><strong>ように言われている</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%a7%e3%81%8a\"><span>のでお</span></a><a href=\"https://takoboto.jp/?q=%e9%85%92%e3%81%8c\"><span>酒が</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%b2%e3%82%81%e3%81%aa%e3%81%8f%e3%81%a6%e3%80%81%e3%82%a6%e3%82%ba%e3%82%a6%e3%82%ba%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>飲めなくて、ウズウズしている。</span></a>",
+      "segments": [
+        {
+          "text": "医者に控える",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ように言われている",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のでお酒が飲めなくて、ウズウズしている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いしゃにひかえるようにいわれているのでおさけがのめなくて、している。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My doctor told me to lay off the liquor so I have this uneasy impatient feeling.",
+          "html": "<span>My doctor </span><strong>told me to </strong><span>lay off the liquor so I have this uneasy impatient feeling. </span>",
+          "segments": [
+            {
+              "text": "My doctor ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "told me to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "lay off the liquor so I have this uneasy impatient feeling. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 416,
+      "position": 1,
+      "japanese": "医者は彼に酒を控えるように忠告した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8c%bb%e8%80%85%e3%81%af\"><span>医者は</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab\"><span>彼に</span></a><a href=\"https://takoboto.jp/?q=%e9%85%92%e3%82%92\"><span>酒を</span></a><a href=\"https://takoboto.jp/?q=%e6%8e%a7%e3%81%88%e3%82%8b\"><span>控える</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%ab%e5%bf%a0%e5%91%8a\"><strong>ように忠告</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%9f%e3%80%82\"><span>した。</span></a>",
+      "segments": [
+        {
+          "text": "医者は彼に酒を控える",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ように忠告",
+          "grammar_highlight": true
+        },
+        {
+          "text": "した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いしゃはかれにさけをひかえるようにちゅうこくした。",
+      "credits_raw": "Amatuka, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The doctor advised him to keep away from drinking.",
+          "html": "<span>The doctor </span><strong>advised him </strong><span>to keep away from drinking. </span>",
+          "segments": [
+            {
+              "text": "The doctor ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "advised him ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "to keep away from drinking. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3893,
+      "position": 2,
+      "japanese": "医者なら誰でも君に禁煙するように言うだろう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8c%bb%e8%80%85%e3%81%aa%e3%82%89\"><span>医者なら</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%b0%e3%81%a7%e3%82%82\"><span>誰でも</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%ab\"><span>君に</span></a><a href=\"https://takoboto.jp/?q=%e7%a6%81%e7%85%99%e3%81%99%e3%82%8b\"><span>禁煙する</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%ab%e8%a8%80%e3%81%86\"><strong>ように言う</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82\"><span>だろう。</span></a>",
+      "segments": [
+        {
+          "text": "医者なら誰でも君に禁煙する",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ように言う",
+          "grammar_highlight": true
+        },
+        {
+          "text": "だろう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いしゃならだれでもきみにきんえんするようにいうだろう。",
+      "credits_raw": "dc, Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Any doctor will tell you to quit smoking.",
+          "html": "<span>Any doctor will tell you to quit smoking. </span>",
+          "segments": [
+            {
+              "text": "Any doctor will tell you to quit smoking. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3894,
+      "position": 3,
+      "japanese": "私は図書館の職員に金曜日締め切りのレポートのためにその本が必要だと言った。そうしたら彼女は借りている人に返却を求めるように言うと言った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af\"><span>私は</span></a><a href=\"https://takoboto.jp/?q=%e5%9b%b3%e6%9b%b8%e9%a4%a8%e3%81%ae\"><span>図書館の</span></a><a href=\"https://takoboto.jp/?q=%e8%81%b7%e5%93%a1%e3%81%ab\"><span>職員に</span></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e6%9b%9c%e6%97%a5%e7%b7%a0%e3%82%81\"><span>金曜日締め</span></a><a href=\"https://takoboto.jp/?q=%e5%88%87%e3%82%8a%e3%81%ae%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ab%e3%81%9d%e3%81%ae\"><span>切りのレポートのためにその</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e3%81%8c\"><span>本が</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%a0%e3%81%a8\"><span>必要だと</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f%e3%80%82%e3%81%9d%e3%81%86%e3%81%97%e3%81%9f%e3%82%89\"><span>言った。そうしたら</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>彼女は</span></a><a href=\"https://takoboto.jp/?q=%e5%80%9f%e3%82%8a%e3%81%a6%e3%81%84%e3%82%8b\"><span>借りている</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%ab\"><span>人に</span></a><a href=\"https://takoboto.jp/?q=%e8%bf%94%e5%8d%b4%e3%82%92\"><span>返却を</span></a><a href=\"https://takoboto.jp/?q=%e6%b1%82%e3%82%81%e3%82%8b\"><span>求める</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%ab%e8%a8%80%e3%81%86\"><strong>ように言う</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8\"><span>と</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f%e3%80%82\"><span>言った。</span></a>",
+      "segments": [
+        {
+          "text": "私は図書館の職員に金曜日締め切りのレポートのためにその本が必要だと言った。そうしたら彼女は借りている人に返却を求める",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ように言う",
+          "grammar_highlight": true
+        },
+        {
+          "text": "と言った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはとしょかんのしょくいんにきんようびしめきりのレポートのためにそのほんがひつようだといった。そうしたらかのじょはかりているひとにへんきゃくをもとめるようにいうといった。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I told the librarian that I needed the book for a report due on Friday; so she said she would call it in.",
+          "html": "<span>I told the librarian that I needed the book for a report due on Friday; so she said she would call it in. </span>",
+          "segments": [
+            {
+              "text": "I told the librarian that I needed the book for a report due on Friday; so she said she would call it in. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3895,
+      "position": 4,
+      "japanese": "先生は私たちに毎日教室を掃除するように言う。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%af\"><span>先生は</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%9f%e3%81%a1%e3%81%ab\"><span>私たちに</span></a><a href=\"https://takoboto.jp/?q=%e6%af%8e%e6%97%a5%e6%95%99%e5%ae%a4%e3%82%92\"><span>毎日教室を</span></a><a href=\"https://takoboto.jp/?q=%e6%8e%83%e9%99%a4%e3%81%99%e3%82%8b\"><span>掃除する</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%ab%e8%a8%80%e3%81%86\"><strong>ように言う</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "先生は私たちに毎日教室を掃除する",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ように言う",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "せんせいはわたしたちにまいにちきょうしつをそうじするようにいう。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The teacher tells us to clean our classroom every day.",
+          "html": "<span>The teacher tells us to clean our classroom every day. </span>",
+          "segments": [
+            {
+              "text": "The teacher tells us to clean our classroom every day. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8827,
+      "position": 5,
+      "japanese": "お母さんはわたしにいつもちゃんと食べるように言った",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a%e6%af%8d%e3%81%95%e3%82%93%e3%81%af%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ab%e3%81%84%e3%81%a4%e3%82%82%e3%81%a1%e3%82%83%e3%82%93%e3%81%a8%e9%a3%9f%e3%81%b9%e3%82%8b\"><span>お母さんはわたしにいつもちゃんと食べる</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%ab%e8%a8%80%e3%81%a3%e3%81%9f\"><strong>ように言った</strong></a>",
+      "segments": [
+        {
+          "text": "お母さんはわたしにいつもちゃんと食べる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ように言った",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "おかあさんはわたしにいつもちゃんとたべるようにいった",
+      "credits_raw": "Sagarika",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My mother always told me to eat properly.",
+          "html": "<span>My mother always told me to eat properly. </span>",
+          "segments": [
+            {
+              "text": "My mother always told me to eat properly. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Formed by 'verb + you ni iu'\n\nV = verb",
+      "html": "Formed by 'verb + you ni iu'<br/><br/>V = verb",
+      "credits_raw": "Amatuka",
+      "content_sha256": "778b43825730abefa35ce1ec30db981de737e5198c273ec3babfd46d7c4e72d0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "is this the same as \n[youni-te] : to tell to do something. just a slightly different tense..\n\nするように言って : tell (someone) to do\nするように言う : tell (someone) to do",
+      "html": "is this the same as <br/>[youni-te] : to tell to do something. just a slightly different tense..<br/><br/>するように言って : tell (someone) to do<br/>するように言う : tell (someone) to do",
+      "credits_raw": "dc",
+      "content_sha256": "7af72c3e0cdc342c5103100ca31ea9fb43d90b083bc185b0d07fec2aafe5f345",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Where do I add the name of the person who told me to do it?",
+      "html": "Where do I add the name of the person who told me to do it?",
+      "credits_raw": "lillian",
+      "content_sha256": "b19c600040760c5e99b2906b91777b5fe8c552c649bd25a6bbc175bd84c872c4",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "@lillian\n1. Who told to do it (eg doctor) + は + Who should do it + に + ... + ように言う\n2. Who told to do it (eg doctor) + に + ... + ように言われている/言われた",
+      "html": "@lillian<br/>1. Who told to do it (eg doctor) + は + Who should do it + に + ... + ように言う<br/>2. Who told to do it (eg doctor) + に + ... + ように言われている/言われた",
+      "credits_raw": "beno",
+      "content_sha256": "fca660c5c73bbe82e70d0bbf19360f157e00e63f5c9f9174230b5913e95a262b",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1268,
+      "label": "ように",
+      "source_url": "https://takoboto.jp/bunpo/1268"
+    },
+    {
+      "target_id": 760,
+      "label": "ように〜て",
+      "source_url": "https://takoboto.jp/bunpo/760"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:34:26+00:00",
+  "response_sha256": "60aa58b968f20cd4b10a51446276917f6bfbb9a150355fd88a97c96174bfc611",
+  "warnings": []
+}

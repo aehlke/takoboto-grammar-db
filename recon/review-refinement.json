@@ -1,0 +1,161 @@
+{
+  "started_at": "2026-10-03T08:55:23.356960+00:00",
+  "tests_passed": 87,
+  "qa_directory": "/Users/alex/Code/manabi/takoboto-grammar-db/smoke/review-refine-j1_amqct",
+  "new_live_requests": 0,
+  "network_sending_blocked": true,
+  "cli_help_commands": 8,
+  "current_source_audit": {
+    "passed": true,
+    "counts": {
+      "examples": 5334,
+      "comments": 4546,
+      "translations": 5324,
+      "meaning_notes": 150,
+      "formations": 360,
+      "alternate_forms": 211,
+      "relationships": 788,
+      "entries": 643
+    }
+  },
+  "archive_source_audit": {
+    "passed": true,
+    "counts": {
+      "notes": 40,
+      "comments": 115,
+      "examples": 146,
+      "relationships": 45,
+      "entries": 25
+    },
+    "rss_feeds": 5,
+    "rss_items": 4,
+    "idempotent_iterations": 2,
+    "state_files_unchanged": true,
+    "states_written": 0,
+    "pending_labels": 1389,
+    "historical_coverage_complete": false,
+    "current_membership": {
+      "verified_entries": 643,
+      "evidence_sha256": "f0ede151dd9a879c35e32707eeb1c6abc834b74a65f2200e03f7a79d55cca927"
+    }
+  },
+  "exports": {
+    "sqlite_integrity": "ok",
+    "foreign_keys": "ok",
+    "full_record_roundtrips": {
+      "takoboto": 643,
+      "jgram": 25,
+      "rss": 5
+    },
+    "sql_schema_and_every_table_and_view_equal_previous": true,
+    "sql_row_counts": {
+      "archive_comments": 115,
+      "archive_entries": 25,
+      "archive_examples": 146,
+      "archive_feed_items": 4,
+      "archive_feeds": 5,
+      "archive_notes": 40,
+      "archive_relationships": 45,
+      "archive_search_documents": 371,
+      "comments": 4546,
+      "entries": 643,
+      "entry_forms": 211,
+      "examples": 5334,
+      "formations": 360,
+      "meaning_notes": 150,
+      "metadata": 4,
+      "related_entries": 788,
+      "search_documents": 16672,
+      "sections": 825,
+      "sources": 2,
+      "translations": 5324
+    },
+    "markdown_files": 674,
+    "all_markdown_byte_identical_to_previous": true,
+    "attributions_checked": 11523,
+    "all_pages_have_original_license": true,
+    "output": "/Users/alex/Code/manabi/takoboto-grammar-db/smoke/review-refine-j1_amqct/export"
+  },
+  "cacheless_sharing": {
+    "exports_identical": true,
+    "source_audit_requires_raw_evidence": true
+  },
+  "negative_exports": [
+    {
+      "name": "edited-record",
+      "exit_code": 2,
+      "outputs_created": false,
+      "error": "takoboto-grammar: error: Cannot export input records: Historical record differs from verification state: Verb Groups I; rerun archive-audit --record-verification"
+    },
+    {
+      "name": "missing-entry-state",
+      "exit_code": 2,
+      "outputs_created": false,
+      "error": "takoboto-grammar: error: Cannot export input records: Missing verification state for Verb Groups I; run archive-audit --record-verification"
+    },
+    {
+      "name": "held-entry-state",
+      "exit_code": 2,
+      "outputs_created": false,
+      "error": "takoboto-grammar: error: Cannot export input records: Historical record not exportable after latest attempt (review_required): Verb Groups I"
+    },
+    {
+      "name": "wrong-response-hash",
+      "exit_code": 2,
+      "outputs_created": false,
+      "error": "takoboto-grammar: error: Cannot export input records: Historical record not exportable after latest attempt (parsed): Verb Groups I"
+    },
+    {
+      "name": "wrong-replay-url",
+      "exit_code": 2,
+      "outputs_created": false,
+      "error": "takoboto-grammar: error: Cannot export input records: Historical record not exportable after latest attempt (parsed): Verb Groups I"
+    },
+    {
+      "name": "edited-feed",
+      "exit_code": 2,
+      "outputs_created": false,
+      "error": "takoboto-grammar: error: Cannot export input records: RSS record differs from verification state: /rss/jlpt4.xml; rerun archive-audit --record-verification"
+    },
+    {
+      "name": "missing-feed-state",
+      "exit_code": 2,
+      "outputs_created": false,
+      "error": "takoboto-grammar: error: Cannot export input records: Missing verification state for /rss/jlpt4.xml; run archive-audit --record-verification"
+    },
+    {
+      "name": "held-feed-state",
+      "exit_code": 2,
+      "outputs_created": false,
+      "error": "takoboto-grammar: error: Cannot export input records: RSS record not exportable after latest attempt (failed): /rss/jlpt4.xml"
+    },
+    {
+      "name": "wrong-feed-replay",
+      "exit_code": 2,
+      "outputs_created": false,
+      "error": "takoboto-grammar: error: Cannot export input records: RSS record not exportable after latest attempt (parsed): /rss/jlpt4.xml"
+    }
+  ],
+  "rss_mismatched_replay_rejected": true,
+  "corrupt_cache_rejected_without_state_changes": true,
+  "invalid_selectors_rejected_before_network_or_outputs": true,
+  "httpx_send_calls": 0,
+  "original_datasets_and_all_prior_evidence_unchanged": true,
+  "findings_fixed": [
+    "Warning-bearing historical records are held before publication",
+    "RSS replay scope, original URL and timestamp validated; actual redirect source preserved",
+    "Non-grammar exclusions require consistent replay provenance",
+    "Markdown preserves explicit RSS author and creator metadata",
+    "Spaced, hyphenated and multiple CC license declarations checked for conflicts"
+  ],
+  "new_regression_tests": 8,
+  "regressions_reproduced_before_fixes": true,
+  "completed_at": "2026-10-03T08:56:27.596083+00:00",
+  "result": "pass",
+  "post_license_fix_source_checks": {
+    "verified_rss_feeds": 5,
+    "all_parsed_fields_unchanged": true,
+    "httpx_send_calls": 0,
+    "checked_at": "2026-10-03T09:03:50.387771+00:00"
+  }
+}

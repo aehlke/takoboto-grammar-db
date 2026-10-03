@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "id": 1732,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1732/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "ことになる",
+  "romanized_label": "koto ni naru",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "Stefanie",
+  "meaning": "it has been decided/arranged that",
+  "meaning_example": "It has been decided that I will work in Tokyo",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1732",
+      "body_text": "it has been decided/arranged that \n It has been decided that I will work in Tokyo",
+      "body_html": "<span>it has been decided/arranged that</span> <br/> <span>It has been decided that I will work in Tokyo</span>",
+      "credits_raw": "Stefanie"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 7788,
+      "position": 0,
+      "japanese": "主人が仕事で東京にいくことになった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%b8%bb%e4%ba%ba%e3%81%8c\"><span>主人が</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%a7\"><span>仕事で</span></a><a href=\"https://takoboto.jp/?q=%e6%9d%b1%e4%ba%ac%e3%81%ab%e3%81%84%e3%81%8f%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82\"><span>東京にいくことになった。</span></a>",
+      "segments": [
+        {
+          "text": "主人が仕事で東京にいくことになった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "しゅじんがしごとでとうきょうにいくことになった。",
+      "credits_raw": "Stefanie",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It has been decided that my husband will go to Tokyo for professional reasons.",
+          "html": "<span>It has been decided that my husband will go to Tokyo for professional reasons. </span>",
+          "segments": [
+            {
+              "text": "It has been decided that my husband will go to Tokyo for professional reasons. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7789,
+      "position": 1,
+      "japanese": "留学することになりました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%95%99%e5%ad%a6%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>留学することになりました。</span></a>",
+      "segments": [
+        {
+          "text": "留学することになりました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "りゅうがくすることになりました。",
+      "credits_raw": "Stefanie",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It has been arranged that I will study abroad.",
+          "html": "<span>It has been arranged that I will study abroad. </span>",
+          "segments": [
+            {
+              "text": "It has been arranged that I will study abroad. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Same as [kotoninaru], we should merge both articles. Which syntax do we use: seperated by space or in one word?",
+      "html": "Same as [kotoninaru], we should merge both articles. Which syntax do we use: seperated by space or in one word?",
+      "credits_raw": "Nihonjin",
+      "content_sha256": "9e0d7d4ebc0b9d00001e23217cda2d4f4738226ee0a56bab0c8157c3ef67de6f",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:35:35+00:00",
+  "response_sha256": "c309f56e55a248b6315811e287059dd8f56e4c75717d066926ba069f4ce1dcc0",
+  "warnings": []
+}

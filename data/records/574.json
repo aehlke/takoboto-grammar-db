@@ -1,0 +1,403 @@
+{
+  "schema_version": 2,
+  "id": 574,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/574/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜の",
+  "romanized_label": "no",
+  "alternate_forms": [],
+  "jlpt_level": 5,
+  "credits_raw": "Amatuka, Kebob",
+  "meaning": "'s, of",
+  "meaning_example": "Fred's car. / Dixon of Dock Green",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_574",
+      "body_text": "'s, of \n Fred's car. / Dixon of Dock Green",
+      "body_html": "<span>'s, of</span> <br/> <span>Fred's car. / Dixon of Dock Green</span>",
+      "credits_raw": "Amatuka, Kebob"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_574",
+      "body_text": "Noun+の",
+      "body_html": "<div><div><div>Noun</div></div><div><div>+</div><div>の</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Noun + の"
+  ],
+  "examples": [
+    {
+      "source_id": 631,
+      "position": 0,
+      "japanese": "フレッド君の車はどこにありますか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%95%e3%83%ac%e3%83%83%e3%83%89\"><span>フレッド</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b\"><span>君</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><strong>の</strong></a><a href=\"https://takoboto.jp/?q=%e8%bb%8a%e3%81%af%e3%81%a9%e3%81%93%e3%81%ab%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%81%8b%e3%80%82\"><span>車はどこにありますか。</span></a>",
+      "segments": [
+        {
+          "text": "フレッド君",
+          "grammar_highlight": false
+        },
+        {
+          "text": "の",
+          "grammar_highlight": true
+        },
+        {
+          "text": "車はどこにありますか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "フレッドくんのくるまはどこにありますか。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Where is Fred 's car?",
+          "html": "<span>Where is Fred </span><strong>'s </strong><span>car? </span>",
+          "segments": [
+            {
+              "text": "Where is Fred ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "'s ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "car? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 632,
+      "position": 1,
+      "japanese": "フレッド君のですか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%95%e3%83%ac%e3%83%83%e3%83%89\"><span>フレッド</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b\"><span>君</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><strong>の</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82\"><span>ですか。</span></a>",
+      "segments": [
+        {
+          "text": "フレッド君",
+          "grammar_highlight": false
+        },
+        {
+          "text": "の",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ですか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "フレッドくんのですか。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "(Is this) Fred 's ?",
+          "html": "<span>(Is this) Fred </span><strong>'s </strong><span>? </span>",
+          "segments": [
+            {
+              "text": "(Is this) Fred ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "'s ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5327,
+      "position": 2,
+      "japanese": "「これは誰のペン？」「私の。」「kore wa dare no pen?」「watashi no。」",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%80%8c%e3%81%93%e3%82%8c%e3%81%af%e8%aa%b0\"><span>「これは誰</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><strong>の</strong></a><a href=\"https://takoboto.jp/?q=%e3%83%9a%e3%83%b3%ef%bc%9f%e3%80%8d%e3%80%8c%e7%a7%81\"><span>ペン？」「私</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><strong>の</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82%e3%80%8d%e3%80%8ckore+wa+dare+no+pen%3f%e3%80%8d%e3%80%8cwatashi+no%e3%80%82%e3%80%8d\"><span>。」「kore wa dare no pen?」「watashi no。」</span></a>",
+      "segments": [
+        {
+          "text": "「これは誰",
+          "grammar_highlight": false
+        },
+        {
+          "text": "の",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ペン？」「私",
+          "grammar_highlight": false
+        },
+        {
+          "text": "の",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。」「kore wa dare no pen?」「watashi no。」",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "「これはだれのペン？」「わたしの。」「。」",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "\"Whose  pen is this?\" \"Mine.\"",
+          "html": "<strong>\"Whose </strong><span> pen is this?\" </span><strong>\"Mine.\" </strong>",
+          "segments": [
+            {
+              "text": "\"Whose ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " pen is this?\" ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "\"Mine.\" ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8637,
+      "position": 3,
+      "japanese": "リリーの靴はどこにあるか知りません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%aa%e3%83%aa%e3%83%bc\"><span>リリー</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><strong>の</strong></a><a href=\"https://takoboto.jp/?q=%e9%9d%b4%e3%81%af%e3%81%a9%e3%81%93%e3%81%ab%e3%81%82%e3%82%8b%e3%81%8b\"><span>靴はどこにあるか</span></a><a href=\"https://takoboto.jp/?q=%e7%9f%a5%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>知りません。</span></a>",
+      "segments": [
+        {
+          "text": "リリー",
+          "grammar_highlight": false
+        },
+        {
+          "text": "の",
+          "grammar_highlight": true
+        },
+        {
+          "text": "靴はどこにあるか知りません。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "リリーのくつはどこにあるかしりません。",
+      "credits_raw": "Sakuratree",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I don't know where Lilly's shoes are.",
+          "html": "<span>I don't know where Lilly's shoes are. </span>",
+          "segments": [
+            {
+              "text": "I don't know where Lilly's shoes are. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8806,
+      "position": 4,
+      "japanese": "お前のせいだぞ！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a%e5%89%8d\"><span>お前</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ae\"><strong>の</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%a0%e3%81%9e%ef%bc%81\"><span>せいだぞ！</span></a>",
+      "segments": [
+        {
+          "text": "お前",
+          "grammar_highlight": false
+        },
+        {
+          "text": "の",
+          "grammar_highlight": true
+        },
+        {
+          "text": "せいだぞ！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おまえのせいだぞ！",
+      "credits_raw": "貴博",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It's your  freaking fault!",
+          "html": "<span>It's </span><strong>your </strong><span> freaking fault! </span>",
+          "segments": [
+            {
+              "text": "It's ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "your ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " freaking fault! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "no (の) can be used in Japanese in so many ways that it's amazing.\n\nOne way is to show ownership:\n\nThis is my room.\nこれは私の部屋です。\n\nSince in Japanese, no plurals exist this particle can act like an 's \n\nSo:\n\nKelly's car is very old.\nケリーの車はとても古いです。",
+      "html": "no (の) can be used in Japanese in so many ways that it's amazing.<br/><br/>One way is to show ownership:<br/><br/>This is my room.<br/>これは私の部屋です。<br/><br/>Since in Japanese, no plurals exist this particle can act like an 's <br/><br/>So:<br/><br/>Kelly's car is very old.<br/>ケリーの車はとても古いです。",
+      "credits_raw": "Sakuratree",
+      "content_sha256": "e3a969a0e8bd3165d88b3372c38b682f4f62219826a413994869331a967b73c8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Note how the object may be omitted if it is understood from context.",
+      "html": "Note how the object may be omitted if it is understood from context.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "1a385b9fe8488ef65287eff3ba755c21b07d44556c9a3e8abe391744fefae864",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "の can be used in other ways which you will come across later in Japanese study.",
+      "html": "の can be used in other ways which you will come across later in Japanese study.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "30f77a4487423ecccb0ac7a0c5dc756f38ed81cf5693f15380fa4ece815bdf7a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Also traslates as \"of\".\nTree of the forest/the forest's tree: \n mori no ki = mori no ki\n(forest of tree) (forest 's tree)",
+      "html": "Also traslates as \"of\".<br/>Tree of the forest/the forest's tree: <br/> mori no ki = mori no ki<br/>(forest of tree) (forest 's tree)",
+      "credits_raw": "Ayumi",
+      "content_sha256": "1c12582bd4afb488e068a57c4a2c9c3f69558cb410a4de97bb783d6c9d567d64",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "\"koreha dare no pen\" -- probably \"kore WA dare no pen KA\"?",
+      "html": "\"koreha dare no pen\" -- probably \"kore WA dare no pen KA\"?",
+      "credits_raw": "9000",
+      "content_sha256": "8f6169a7dcef1136d03e0a855f853647d4b4b39c4546b7652837335ad55c05ae",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "It's my understanding that 'ka' is usually left out in casual speech, where questions can be implied through intonation, but you should always use 'ka' in writing, of course.",
+      "html": "It's my understanding that 'ka' is usually left out in casual speech, where questions can be implied through intonation, but you should always use 'ka' in writing, of course.",
+      "credits_raw": "metaphist",
+      "content_sha256": "4a9faf03abc633124a60bcaba819cc8ab46d32f2f489fa39b8805d7a3cf0890d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "I think that even in writing you can ommit the か in casual situations, simply putting the '?' as Miki did. In this context, adding か may change the nuance, I guess.",
+      "html": "I think that even in writing you can ommit the か in casual situations, simply putting the '?' as Miki did. In this context, adding か may change the nuance, I guess.",
+      "credits_raw": "slack.hideo",
+      "content_sha256": "28168dcedc36196649dac74f5dffb091d73686c2e3c4c0888d2953e0eb6f98f3",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "I was once told that adding ka at the end like that can make the question sound sort of interrogative or even threatening in some way.\n\nEX Who is behind this Graffiti？\n\nこの落書きは誰の仕業か？",
+      "html": "I was once told that adding ka at the end like that can make the question sound sort of interrogative or even threatening in some way.<br/><br/>EX Who is behind this Graffiti？<br/><br/>この落書きは誰の仕業か？",
+      "credits_raw": "kadoka66",
+      "content_sha256": "decde51d99ce8d1bcb4ac389a6ff96c2e50c5be18e6d6aeec81868af9e14ed3e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "Nice\n\nわたしを分かります",
+      "html": "Nice<br/><br/>わたしを分かります",
+      "credits_raw": "Prof3ssor MGW",
+      "content_sha256": "971b5bd46ccbcdcae6bf7f845c2decec4191ac60a62b6468ed5a34ca86093d76",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "To 9000 You've pointed up the difficulty of writing about wpeech. As written, the sentence is correct, but when spoken the 'ha' character changes to the 'wa' pronunciation. Just one of those little things that makes Japanese so special. An example would be これはゾンビですか?, Kore wa Zonbi Desu ka??, a manga/anime series.",
+      "html": "To 9000 You've pointed up the difficulty of writing about wpeech. As written, the sentence is correct, but when spoken the 'ha' character changes to the 'wa' pronunciation. Just one of those little things that makes Japanese so special. An example would be これはゾンビですか?, Kore wa Zonbi Desu ka??, a manga/anime series.",
+      "credits_raw": "Dogbreathsan",
+      "content_sha256": "4025b46a89935762f123152fad10ef8eaaea9a1fd410305de5b25100ecb5cced",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "what about joushi + no.. for example.. \n\nThai e no sotsugyouryokou wo tanoshiminishite iru.",
+      "html": "what about joushi + no.. for example.. <br/><br/>Thai e no sotsugyouryokou wo tanoshiminishite iru.",
+      "credits_raw": "nrehv",
+      "content_sha256": "4abd2a91c63c96d6f5c4e12768b39d1adb6b22c176d8eb09de8339b06db7450c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "in/un/im/in/etc... in turkish",
+      "html": "in/un/im/in/etc... in turkish",
+      "credits_raw": "nihongo jouzu",
+      "content_sha256": "74104db7e800bf763886ebf507a5e33c17027dbcae6530192e7a0fc576b9e9b5",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 638,
+      "label": "〜な",
+      "source_url": "https://takoboto.jp/bunpo/638"
+    },
+    {
+      "target_id": 641,
+      "label": "〜の",
+      "source_url": "https://takoboto.jp/bunpo/641"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:32:01+00:00",
+  "response_sha256": "ebf24e0a74690677b591cca133ec0a3ba864d1514d7b382941a4fcbce960d4b9",
+  "warnings": []
+}

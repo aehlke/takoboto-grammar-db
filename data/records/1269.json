@@ -1,0 +1,422 @@
+{
+  "schema_version": 2,
+  "id": 1269,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1269/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "てから",
+  "romanized_label": "kara-2",
+  "alternate_forms": [],
+  "jlpt_level": 5,
+  "credits_raw": "Amatuka",
+  "meaning": "From, after",
+  "meaning_example": "From 9 to 5.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1269",
+      "body_text": "From, after \n From 9 to 5.",
+      "body_html": "<span>From, after</span> <br/> <span>From 9 to 5.</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1269",
+      "body_text": "Verb て-Form+からNoun+から動詞（て形）+から名詞+から",
+      "body_html": "<div><div><div>Verb て-Form</div></div><div><div>+</div><div>から</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>から</div></div></div><div><div><div>動詞（て形）</div></div><div><div>+</div><div>から</div></div></div><div><div><div>名詞</div></div><div><div>+</div><div>から</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb て-Form + から",
+    "Noun + から",
+    "動詞（て形） + から",
+    "名詞 + から"
+  ],
+  "examples": [
+    {
+      "source_id": 472,
+      "position": 0,
+      "japanese": "以下のプルダウンメニューから、言語およびプラットフォームご利用いただけるバージョンが表示されます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8b%e3%81%ae\"><span>以下の</span></a><a href=\"https://takoboto.jp/?q=%e3%83%97%e3%83%ab%e3%83%80%e3%82%a6%e3%83%b3%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc\"><span>プルダウンメニュー</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e8%aa%9e%e3%81%8a%e3%82%88%e3%81%b3%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0%e3%81%94\"><span>言語およびプラットフォームご</span></a><a href=\"https://takoboto.jp/?q=%e5%88%a9%e7%94%a8%e3%81%84%e3%81%9f%e3%81%a0%e3%81%91%e3%82%8b%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3%e3%81%8c\"><span>利用いただけるバージョンが</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%a8%e7%a4%ba%e3%81%95%e3%82%8c%e3%81%be%e3%81%99%e3%80%82\"><span>表示されます。</span></a>",
+      "segments": [
+        {
+          "text": "以下のプルダウンメニュー",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、言語およびプラットフォームご利用いただけるバージョンが表示されます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いかのから、げんごおよびプラットフォームごりよういただけるバージョンがひょうじされます。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "From the pull down menu below language and the platform it is to be used on are displayed.",
+          "html": "<strong>From </strong><span>the pull down menu below language and the platform it is to be used on are displayed. </span>",
+          "segments": [
+            {
+              "text": "From ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the pull down menu below language and the platform it is to be used on are displayed. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 473,
+      "position": 1,
+      "japanese": "先週の木曜日からずっと雨が降っている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%85%88%e9%80%b1%e3%81%ae\"><span>先週の</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%a8%e6%9b%9c%e6%97%a5\"><span>木曜日</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9a%e3%81%a3%e3%81%a8\"><span>ずっと</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c\"><span>雨が</span></a><a href=\"https://takoboto.jp/?q=%e9%99%8d%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>降っている。</span></a>",
+      "segments": [
+        {
+          "text": "先週の木曜日",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ずっと雨が降っている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "せんしゅうのもくようびからずっとあめがふっている。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It has been raining since last Thursday.",
+          "html": "<span>It has been raining </span><strong>since </strong><span>last Thursday. </span>",
+          "segments": [
+            {
+              "text": "It has been raining ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "since ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "last Thursday. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4844,
+      "position": 2,
+      "japanese": "それをここから持って行け！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%82%92\"><span>それを</span></a><a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%93\"><span>ここ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6\"><span>持って</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%91\"><span>行け</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%81\"><span>！</span></a>",
+      "segments": [
+        {
+          "text": "それをここ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "持って行け！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "それをここからもっていけ！",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Get them out of here!",
+          "html": "<span>Get them </span><strong>out of </strong><span>here! </span>",
+          "segments": [
+            {
+              "text": "Get them ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "out of ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "here! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4845,
+      "position": 3,
+      "japanese": "「オーストラリアからですか」とフィリピン人はたずねました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%80%8c%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2\"><span>「オーストラリア</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%8d%e3%81%a8%e3%83%95%e3%82%a3%e3%83%aa%e3%83%94%e3%83%b3\"><span>ですか」とフィリピン</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%af%e3%81%9f%e3%81%9a%e3%81%ad%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>人はたずねました。</span></a>",
+      "segments": [
+        {
+          "text": "「オーストラリア",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ですか」とフィリピン人はたずねました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "「オーストラリアからですか」とフィリピンじんはたずねました。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "\"Are you from Australia?\" asked the Filipino.",
+          "html": "<span>\"Are you </span><strong>from </strong><span>Australia?\" asked the Filipino. </span>",
+          "segments": [
+            {
+              "text": "\"Are you ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "from ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "Australia?\" asked the Filipino. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4846,
+      "position": 4,
+      "japanese": "「結婚してから私も働いていいわよ」と彼女は言った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%80%8c%e7%b5%90%e5%a9%9a%e3%81%97%e3%81%a6\"><span>「結婚して</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%82%82%e5%83%8d%e3%81%84%e3%81%a6%e3%81%84%e3%81%84%e3%82%8f%e3%82%88%e3%80%8d%e3%81%a8%e5%bd%bc%e5%a5%b3%e3%81%af%e8%a8%80%e3%81%a3%e3%81%9f%e3%80%82\"><span>私も働いていいわよ」と彼女は言った。</span></a>",
+      "segments": [
+        {
+          "text": "「結婚して",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "私も働いていいわよ」と彼女は言った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "「けっこんしてからわたしもはたらいていいわよ」とかのじょはいった。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "\"I don't mind if I keep working after  we're married\", she said.",
+          "html": "<span>\"I don't mind if I keep working </span><strong>after </strong><span> we're married\", she said. </span>",
+          "segments": [
+            {
+              "text": "\"I don't mind if I keep working ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "after ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " we're married\", she said. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7810,
+      "position": 5,
+      "japanese": "私は火星から来ました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e7%81%ab%e6%98%9f\"><span>私は火星</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e6%9d%a5%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>来ました。</span></a>",
+      "segments": [
+        {
+          "text": "私は火星",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "来ました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはかせいからきました。",
+      "credits_raw": "Rinji_HalfElf",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I came from  mars.",
+          "html": "<span>I came </span><strong>from </strong><span> mars. </span>",
+          "segments": [
+            {
+              "text": "I came ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "from ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " mars. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7811,
+      "position": 6,
+      "japanese": "この本は図書館から借りました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e6%9c%ac%e3%81%af%e5%9b%b3%e6%9b%b8%e9%a4%a8\"><span>この本は図書館</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e5%80%9f%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>借りました。</span></a>",
+      "segments": [
+        {
+          "text": "この本は図書館",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "借りました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このほんはとしょかんからかりました。",
+      "credits_raw": "Rinji_HalfElf",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I borrowed this book from  the library.",
+          "html": "<span>I borrowed this book </span><strong>from </strong><span> the library. </span>",
+          "segments": [
+            {
+              "text": "I borrowed this book ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "from ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " the library. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "#472\n以下のプルダウンメニューから、言語およびプラットフォームご利用いただけるバージョンが表示されますshould be: 以下のプルダウンメニューに、言語およびご利用頂けるプラットフォームのバージョンが表示されます。\n\n\"From the pull down menu below language and the platform it is to be used on are displayed\" should be: The pull down menu below displays the language and the available versions of the platform that can be used.",
+      "html": "#472<br/>以下のプルダウンメニューから、言語およびプラットフォームご利用いただけるバージョンが表示されますshould be: 以下のプルダウンメニューに、言語およびご利用頂けるプラットフォームのバージョンが表示されます。<br/><br/>\"From the pull down menu below language and the platform it is to be used on are displayed\" should be: The pull down menu below displays the language and the available versions of the platform that can be used.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "2185b53e5a2609c4249d53be863567eff265ff4bc5bb4e60f23a181b4af329dc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Example #472 is fine if you put a comma after the word \"menu.\"",
+      "html": "Example #472 is fine if you put a comma after the word \"menu.\"",
+      "credits_raw": "Joyce",
+      "content_sha256": "b7488971570dfda1a910272fff5042b892e5734096c28d276862e4c3af48aae0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Example #4846 appears to contain an extraneous question mark in the middle of the sentence.",
+      "html": "Example #4846 appears to contain an extraneous question mark in the middle of the sentence.",
+      "credits_raw": "Jadesch",
+      "content_sha256": "f4290e0a83efceba0a39cb0039c3ccbf70275be8e46f3cf317363b135dfd1e85",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "@Jadesch Thanks, fixed it",
+      "html": "@Jadesch Thanks, fixed it",
+      "credits_raw": "beno",
+      "content_sha256": "de4673ded13d7ba41bb39eef1ca413ff5465e442573f387259c143afb22edfe6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "I see only one example here for てから.\nThe rest are just for general から usage, which has too broad a scope for one grammar point...",
+      "html": "I see only one example here for てから.<br/>The rest are just for general から usage, which has too broad a scope for one grammar point...",
+      "credits_raw": "テリー",
+      "content_sha256": "cf0cf3383426912759d58325d27648816e17edac419687378a4f76f4b7ff6f72",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 719,
+      "label": "まで",
+      "source_url": "https://takoboto.jp/bunpo/719"
+    },
+    {
+      "target_id": 1216,
+      "label": "から",
+      "source_url": "https://takoboto.jp/bunpo/1216"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:31:58+00:00",
+  "response_sha256": "37dda13238179a5e1d1e4fe6b12bfcc9a8d7abc2c841f55d069fd24ee3a906e2",
+  "warnings": []
+}

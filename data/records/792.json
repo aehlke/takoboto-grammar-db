@@ -1,0 +1,283 @@
+{
+  "schema_version": 2,
+  "id": 792,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/792/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜な",
+  "romanized_label": "na-3",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "Amatuka",
+  "meaning": "Vm na (positive command - sentence ending particle)",
+  "meaning_example": "Get up already!",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_792",
+      "body_text": "Vm na (positive command - sentence ending particle) \n Get up already!",
+      "body_html": "<span>Vm na (positive command - sentence ending particle)</span> <br/> <span>Get up already!</span>",
+      "credits_raw": "Amatuka"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 920,
+      "position": 0,
+      "japanese": "さっさと起きな！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%95%e3%81%a3%e3%81%95%e3%81%a8\"><span>さっさと</span></a><a href=\"https://takoboto.jp/?q=%e8%b5%b7%e3%81%8d\"><span>起き</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%ef%bc%81\"><strong>な！</strong></a>",
+      "segments": [
+        {
+          "text": "さっさと起き",
+          "grammar_highlight": false
+        },
+        {
+          "text": "な！",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "さっさとおきな！",
+      "credits_raw": "dc, bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Hey, get up like right now !!!",
+          "html": "<span>Hey, get up like right now </span><strong>!!! </strong>",
+          "segments": [
+            {
+              "text": "Hey, get up like right now ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "!!! ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3112,
+      "position": 1,
+      "japanese": "何か質問があったら､先生に聞いてみな｡",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%81%8b\"><span>何か</span></a><a href=\"https://takoboto.jp/?q=%e8%b3%aa%e5%95%8f%e3%81%8c%e3%81%82%e3%81%a3%e3%81%9f%e3%82%89\"><span>質問があったら</span></a><a href=\"https://takoboto.jp/?q=%ef%bd%a4%e5%85%88%e7%94%9f%e3%81%ab\"><span>､先生に</span></a><a href=\"https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%a6%e3%81%bf\"><span>聞いてみ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%ef%bd%a1\"><strong>な｡</strong></a>",
+      "segments": [
+        {
+          "text": "何か質問があったら､先生に聞いてみ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "な｡",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "なにかしつもんがあったらせんせいにきいてみな",
+      "credits_raw": "nhk9",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If there are any questions, ask the teacher and see.",
+          "html": "<span>If there are any questions, ask the teacher and </span><strong>see. </strong>",
+          "segments": [
+            {
+              "text": "If there are any questions, ask the teacher and ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "see. ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "This construct asks the listener to do something. It takes the [conjunctive form] of the verb and appends 〜な to it.\n\nThis may be an abbreviation of 〜なさい.",
+      "html": "This construct asks the listener to do something. It takes the [conjunctive form] of the verb and appends 〜な to it.<br/><br/>This may be an abbreviation of 〜なさい.",
+      "credits_raw": "FekketCantenel",
+      "content_sha256": "7e8fe9bd60a937a1b68970084594979263faca87e94d666a443ea8aff13e4591",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "i still think \"get up already\" is incorrect,",
+      "html": "i still think \"get up already\" is incorrect,",
+      "credits_raw": "bamboo4",
+      "content_sha256": "46503f8e506c46a0a00f770092dc6c7f430b5e5a56d646daec43155c60cb40bc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "OK, changed it to translate the na to !!! emphasis...",
+      "html": "OK, changed it to translate the na to !!! emphasis...",
+      "credits_raw": "dc",
+      "content_sha256": "237385917ef57dfd125775bf5774d82f3428c9810f5341014959cfe65be3537f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Formed from verb -masu base + na\n\nVm = Verb -masu base",
+      "html": "Formed from verb -masu base + na<br/><br/>Vm = Verb -masu base",
+      "credits_raw": "Amatuka",
+      "content_sha256": "b61a7dd52a08e75aa1463f066c1d98088474f393aea09feed55267f6af4bdef9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "This \"な\" has a rough nuance.",
+      "html": "This \"な\" has a rough nuance.",
+      "credits_raw": "Miki",
+      "content_sha256": "7873a7c6742f92e9716de206f1226cb3279c40972e6ddfb6d0b41329cfa2b6ab",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "\"Get up already\" is incorrect as a translation of 早く起きな. It is more like \"You get up just this minute!\"",
+      "html": "\"Get up already\" is incorrect as a translation of 早く起きな. It is more like \"You get up just this minute!\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "822b5cf813ac4371e3ff304cb2fd2af1b0c590775de3dd0170f17d234bfc13ef",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "\"Get up already!\" (note exclamation mark) has the same meaning in English as \"You get up just this minute!\"\nYour interpretation of English may disagree of course.",
+      "html": "\"Get up already!\" (note exclamation mark) has the same meaning in English as \"You get up just this minute!\"<br/>Your interpretation of English may disagree of course.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "fc6a60b1568ebc20a13bb8748c08de6b9b1bd25c3bdfb19f7f0520fb43a1f808",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "\"Get up already!\" i thought was american english! Like \"think different\" - grammatically incorrect to create emphasis...",
+      "html": "\"Get up already!\" i thought was american english! Like \"think different\" - grammatically incorrect to create emphasis...",
+      "credits_raw": "your name",
+      "content_sha256": "1923fc6340457c95629b8ccb09778723d4e28c04abae4703011baea78528978b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "Could be. UKians aren't above using grammatically incorrect American English for emphasis.",
+      "html": "Could be. UKians aren't above using grammatically incorrect American English for emphasis.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "a0101cd4670d8f1bfb78dbaadffbcdb16af85d11a0a4b3fbb2e4286853bcffb7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Apparently based on an abbreviation of なさい。(or similar)",
+      "html": "Apparently based on an abbreviation of なさい。(or similar)",
+      "credits_raw": "Amatuka",
+      "content_sha256": "d44daf2fc1611de917e22adb2c13c2feb8ce47759779d6ff411de8d5dfb4bc60",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "I have to disagree.\n\n\"Get up already!\" is perfectly good English to me. Means exactly the same thing as \"You get up just this minute!,\" but is more natural.\n\n\"Hey, get up like right now !!!\" sounds like a non-Native Speaker doing translation.",
+      "html": "I have to disagree.<br/><br/>\"Get up already!\" is perfectly good English to me. Means exactly the same thing as \"You get up just this minute!,\" but is more natural.<br/><br/>\"Hey, get up like right now !!!\" sounds like a non-Native Speaker doing translation.",
+      "credits_raw": "ZACK",
+      "content_sha256": "e8e1c6606fc8483603ee9319ab6834c3a79de933499dc2fa48047e395d6cc2a2",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "'Get up already!' is most definitely American English. It doesn't sound grammatically correct to most British people. 'Get up right now!' might sound more natural. \n\nPeople in the UK don't always use correct grammar but they don't tend to use American English either...",
+      "html": "'Get up already!' is most definitely American English. It doesn't sound grammatically correct to most British people. 'Get up right now!' might sound more natural. <br/><br/>People in the UK don't always use correct grammar but they don't tend to use American English either...",
+      "credits_raw": "shoujo_aya",
+      "content_sha256": "8ee3ce9cf68bae15ac89733f3530a28eef1ea46505ba23c5d7061ddb3981994a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "I would suggest \"get up already!\" is originally from American Jewish (Yiddish-German)-New York origin, akin to many phrases such as \"I see it already!\", \"I heard you already!\", \"Enough already!\", \"Relax, already!\", \"Shut up, already!\", etc. (cf. grammatical use of German word \"schon\".)\nOf course, people in the UK tend not to use American English routinely; they use their own. However, 'Amatuka' has a point, many UKians, Australians and others sometimes use American (cliche´) expressions for effect in their speech. (That's the power of Hollywood!) So, everyone understands \"get up already!\"\nHowever, I tend to agree with 'shoujo_aya', a more universal (and so arguably more preferable) translation would be \"Get up right now!\".",
+      "html": "I would suggest \"get up already!\" is originally from American Jewish (Yiddish-German)-New York origin, akin to many phrases such as \"I see it already!\", \"I heard you already!\", \"Enough already!\", \"Relax, already!\", \"Shut up, already!\", etc. (cf. grammatical use of German word \"schon\".)<br/>Of course, people in the UK tend not to use American English routinely; they use their own. However, 'Amatuka' has a point, many UKians, Australians and others sometimes use American (cliche´) expressions for effect in their speech. (That's the power of Hollywood!) So, everyone understands \"get up already!\"<br/>However, I tend to agree with 'shoujo_aya', a more universal (and so arguably more preferable) translation would be \"Get up right now!\".",
+      "credits_raw": "xtian21c",
+      "content_sha256": "35931083db8e781d3926b4c536b89490dc0b2226ab0b22a357a80db690e7fdc3",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "Very interesting! I have to concede that \"already\" is informally used to show irritation for not doing something. So \"get up already!\" and other uses of \"already\" can be treated as something in the nature of dialectic idiom. Having said that, I prefer the current rendition for さっさと起きな.",
+      "html": "Very interesting! I have to concede that \"already\" is informally used to show irritation for not doing something. So \"get up already!\" and other uses of \"already\" can be treated as something in the nature of dialectic idiom. Having said that, I prefer the current rendition for さっさと起きな.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "9eff6373a938db2a27a3ba26752b70e8ad4aeb16e56c2a87c0e253641e3d5a7e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "Well, although \"get up already!\" is rough and colloquial, it's still grammatically correct. \"Already\" is an adverb modifying the action of getting up. It's not to be compared with \"think different,\" which uses an adjective to modify the verb \"think.\" (I hate when people do that =p) I would consider it a good translation that retains the tone of the command in Japanese. Another natural-sounding translation might be \"Get up this instant!\" How's that one?",
+      "html": "Well, although \"get up already!\" is rough and colloquial, it's still grammatically correct. \"Already\" is an adverb modifying the action of getting up. It's not to be compared with \"think different,\" which uses an adjective to modify the verb \"think.\" (I hate when people do that =p) I would consider it a good translation that retains the tone of the command in Japanese. Another natural-sounding translation might be \"Get up this instant!\" How's that one?",
+      "credits_raw": "elentarisedai",
+      "content_sha256": "3231cba89b43c5c3a6fbd9505ce18a875e6024ebbe0923d876a5431d333205e8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 15,
+      "source_id": null,
+      "text": "i have to disagree with Zack. I'm a native speaker, and in California, where the word \"like\" is constantly used where it traditionally shouldn't be, i have said many times, \"dude, get up like right now\". although i admit it is slang and associated primarily with the southern California surfer guy or valley girl way of speaking. but, just as a note, it is said by native speakers, even though its so regional that people from other parts of the country and world might think it is strange. maybe it was a fellow Californian translating? Anyways, i gotta study like right now!",
+      "html": "i have to disagree with Zack. I'm a native speaker, and in California, where the word \"like\" is constantly used where it traditionally shouldn't be, i have said many times, \"dude, get up like right now\". although i admit it is slang and associated primarily with the southern California surfer guy or valley girl way of speaking. but, just as a note, it is said by native speakers, even though its so regional that people from other parts of the country and world might think it is strange. maybe it was a fellow Californian translating? Anyways, i gotta study like right now!",
+      "credits_raw": "jasyn78",
+      "content_sha256": "773d0c492349a168a2d0f706be9540d85ff0d7bd98603330ce0baa10fcee1b25",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 705,
+      "label": "〜な",
+      "source_url": "https://takoboto.jp/bunpo/705"
+    },
+    {
+      "target_id": 658,
+      "label": "なさい",
+      "source_url": "https://takoboto.jp/bunpo/658"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:40:22+00:00",
+  "response_sha256": "54d4fc0ab982e0651f549bcb497df315b0e5f959814c29723abf25eb34fdc918",
+  "warnings": []
+}

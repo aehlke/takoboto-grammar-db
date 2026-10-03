@@ -1,0 +1,392 @@
+{
+  "schema_version": 2,
+  "id": 1506,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1506/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "到底",
+  "romanized_label": "toutei",
+  "alternate_forms": [
+    "とうてい"
+  ],
+  "jlpt_level": 2,
+  "credits_raw": "kumar",
+  "meaning": "(can't) possibly / very much",
+  "meaning_example": "I can't possibly do that.",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "とても",
+      "html": "とても"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1506",
+      "body_text": "(can't) possibly / very much \n I can't possibly do that. \n とても",
+      "body_html": "<span>(can't) possibly / very much</span> <br/> <span>I can't possibly do that.</span> <br/> <span>とても</span>",
+      "credits_raw": "kumar"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 5351,
+      "position": 0,
+      "japanese": "彼女は彼氏を到底殺すことはできない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af\"><span>彼女は</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e6%b0%8f%e3%82%92\"><span>彼氏を</span></a><a href=\"https://takoboto.jp/?q=%e5%88%b0%e5%ba%95\"><strong>到底</strong></a><a href=\"https://takoboto.jp/?q=%e6%ae%ba%e3%81%99%e3%81%93%e3%81%a8%e3%81%af%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%82\"><span>殺すことはできない。</span></a>",
+      "segments": [
+        {
+          "text": "彼女は彼氏を",
+          "grammar_highlight": false
+        },
+        {
+          "text": "到底",
+          "grammar_highlight": true
+        },
+        {
+          "text": "殺すことはできない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはかれしをとうていころすことはできない。",
+      "credits_raw": "blabby",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She can't possibly kill her own boyfriend.",
+          "html": "<span>She can't </span><strong>possibly </strong><span>kill her own boyfriend. </span>",
+          "segments": [
+            {
+              "text": "She can't ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "possibly ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "kill her own boyfriend. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5352,
+      "position": 1,
+      "japanese": "Blabbyは賢いとは到底言えない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=Blabby%e3%81%af\"><span>Blabbyは</span></a><a href=\"https://takoboto.jp/?q=%e8%b3%a2%e3%81%84%e3%81%a8%e3%81%af\"><span>賢いとは</span></a><a href=\"https://takoboto.jp/?q=%e5%88%b0%e5%ba%95\"><strong>到底</strong></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%88%e3%81%aa%e3%81%84%e3%80%82\"><span>言えない。</span></a>",
+      "segments": [
+        {
+          "text": "Blabbyは賢いとは",
+          "grammar_highlight": false
+        },
+        {
+          "text": "到底",
+          "grammar_highlight": true
+        },
+        {
+          "text": "言えない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "はかしこいとはとうていいえない。",
+      "credits_raw": "blabby",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You can't possibly say that Blabby is smart.",
+          "html": "<span>You can't possibly say that Blabby is smart. </span>",
+          "segments": [
+            {
+              "text": "You can't possibly say that Blabby is smart. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5353,
+      "position": 2,
+      "japanese": "到底そうとは思えない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%88%b0%e5%ba%95\"><strong>到底</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%86%e3%81%a8%e3%81%af\"><span>そうとは</span></a><a href=\"https://takoboto.jp/?q=%e6%80%9d%e3%81%88%e3%81%aa%e3%81%84%e3%80%82\"><span>思えない。</span></a>",
+      "segments": [
+        {
+          "text": "到底",
+          "grammar_highlight": true
+        },
+        {
+          "text": "そうとは思えない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "とうていそうとはおもえない。",
+      "credits_raw": "blabby",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I really doubt it.",
+          "html": "<span>I really doubt it. </span>",
+          "segments": [
+            {
+              "text": "I really doubt it. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5354,
+      "position": 3,
+      "japanese": "あなたの話は到底真実だとおもえない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae\"><span>あなたの</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1%e3%81%af\"><span>話は</span></a><a href=\"https://takoboto.jp/?q=%e5%88%b0%e5%ba%95\"><strong>到底</strong></a><a href=\"https://takoboto.jp/?q=%e7%9c%9f%e5%ae%9f%e3%81%a0%e3%81%a8%e3%81%8a%e3%82%82%e3%81%88%e3%81%aa%e3%81%84%e3%80%82\"><span>真実だとおもえない。</span></a>",
+      "segments": [
+        {
+          "text": "あなたの話は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "到底",
+          "grammar_highlight": true
+        },
+        {
+          "text": "真実だとおもえない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あなたのはなしはとうていしんじつだとおもえない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I think that your story is far from the truth.",
+          "html": "<span>I think that your story is far from the truth. </span>",
+          "segments": [
+            {
+              "text": "I think that your story is far from the truth. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5355,
+      "position": 4,
+      "japanese": "彼に会う事などは到底思いもよらない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab\"><span>彼に</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9a%e3%81%86\"><span>会う</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%8b%e3%81%aa%e3%81%a9%e3%81%af\"><span>事などは</span></a><a href=\"https://takoboto.jp/?q=%e5%88%b0%e5%ba%95\"><strong>到底</strong></a><a href=\"https://takoboto.jp/?q=%e6%80%9d%e3%81%84%e3%82%82%e3%82%88%e3%82%89%e3%81%aa%e3%81%84%e3%80%82\"><span>思いもよらない。</span></a>",
+      "segments": [
+        {
+          "text": "彼に会う事などは",
+          "grammar_highlight": false
+        },
+        {
+          "text": "到底",
+          "grammar_highlight": true
+        },
+        {
+          "text": "思いもよらない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれにあうことなどはとうていおもいもよらない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I am hopeless of ever meeting him.",
+          "html": "<span>I am hopeless of ever meeting him. </span>",
+          "segments": [
+            {
+              "text": "I am hopeless of ever meeting him. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5356,
+      "position": 5,
+      "japanese": "彼の部屋はこぎれいだとは到底言えない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae\"><span>彼の</span></a><a href=\"https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%81%af%e3%81%93%e3%81%8e%e3%82%8c%e3%81%84%e3%81%a0%e3%81%a8%e3%81%af\"><span>部屋はこぎれいだとは</span></a><a href=\"https://takoboto.jp/?q=%e5%88%b0%e5%ba%95\"><strong>到底</strong></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%88%e3%81%aa%e3%81%84%e3%80%82\"><span>言えない。</span></a>",
+      "segments": [
+        {
+          "text": "彼の部屋はこぎれいだとは",
+          "grammar_highlight": false
+        },
+        {
+          "text": "到底",
+          "grammar_highlight": true
+        },
+        {
+          "text": "言えない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれのへやはこぎれいだとはとうていいえない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "His room is far from neat.",
+          "html": "<span>His room is far from neat. </span>",
+          "segments": [
+            {
+              "text": "His room is far from neat. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5357,
+      "position": 6,
+      "japanese": "彼は大事な犬を到底手放すことはできなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e4%ba%8b%e3%81%aa\"><span>大事な</span></a><a href=\"https://takoboto.jp/?q=%e7%8a%ac%e3%82%92\"><span>犬を</span></a><a href=\"https://takoboto.jp/?q=%e5%88%b0%e5%ba%95\"><strong>到底</strong></a><a href=\"https://takoboto.jp/?q=%e6%89%8b%e6%94%be%e3%81%99%e3%81%93%e3%81%a8%e3%81%af%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82\"><span>手放すことはできなかった。</span></a>",
+      "segments": [
+        {
+          "text": "彼は大事な犬を",
+          "grammar_highlight": false
+        },
+        {
+          "text": "到底",
+          "grammar_highlight": true
+        },
+        {
+          "text": "手放すことはできなかった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはだいじないぬをとうていてばなすことはできなかった。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He couldn't possibly part with his dear dog.",
+          "html": "<span>He couldn't possibly part with his dear dog. </span>",
+          "segments": [
+            {
+              "text": "He couldn't possibly part with his dear dog. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8499,
+      "position": 7,
+      "japanese": "彼はバッハには到底かなわない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%83%90%e3%83%83%e3%83%8f%e3%81%ab%e3%81%af\"><span>彼はバッハには</span></a><a href=\"https://takoboto.jp/?q=%e5%88%b0%e5%ba%95\"><strong>到底</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%81%aa%e3%82%8f%e3%81%aa%e3%81%84%e3%80%82\"><span>かなわない。</span></a>",
+      "segments": [
+        {
+          "text": "彼はバッハには",
+          "grammar_highlight": false
+        },
+        {
+          "text": "到底",
+          "grammar_highlight": true
+        },
+        {
+          "text": "かなわない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはバッハにはとうていかなわない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He just can`t compare with Bach.",
+          "html": "<span>He just can`t compare with Bach. </span>",
+          "segments": [
+            {
+              "text": "He just can`t compare with Bach. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "到底(toutei) itself means \"possibly\", but grammatically it is usually used with a negative:\n　到底そうとは思えない。\n　I really doubt it.\n\nthis is a little similar to [shika]'s way of use\n 英語しか話せない",
+      "html": "到底(toutei) itself means \"possibly\", but grammatically it is usually used with a negative:<br/>　到底そうとは思えない。<br/>　I really doubt it.<br/><br/>this is a little similar to [shika]'s way of use<br/> 英語しか話せない",
+      "credits_raw": "dc",
+      "content_sha256": "17023460087b3e5e03af283ba932133f665060362bb49d82cc7636583d0d5a0c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Can anyone come up with a better translation? Ive seen lots of translations such as \"after all\", \"possibly\" and \"とても\".",
+      "html": "Can anyone come up with a better translation? Ive seen lots of translations such as \"after all\", \"possibly\" and \"とても\".",
+      "credits_raw": "blabby",
+      "content_sha256": "dfdcef53405e00a647b943f8f14d5e172778bff1c87a92a1ae739342946237b4",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "how about \"far from\"? seems a little similar to [dokoroka]",
+      "html": "how about \"far from\"? seems a little similar to [dokoroka]",
+      "credits_raw": "dc",
+      "content_sha256": "d3a47cd473e312b1f307908a20212601d0e3f876766a155a86a9c9b6870df57a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "到底 is similar to どんなにしても, どうしても. Used with a negative.",
+      "html": "到底 is similar to どんなにしても, どうしても. Used with a negative.",
+      "credits_raw": "Miki",
+      "content_sha256": "5b611c3e3b66462e5c69519201ef756e170eac51cb3d96e3ed2e55a9ad520592",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1348,
+      "label": "どころか",
+      "source_url": "https://takoboto.jp/bunpo/1348"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:38:29+00:00",
+  "response_sha256": "eeaee4b5544a14a3a8bf47105b9552ecd70de1c9544d41b10556bc9903d01229",
+  "warnings": []
+}

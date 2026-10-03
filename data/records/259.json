@@ -1,0 +1,951 @@
+{
+  "schema_version": 2,
+  "id": 259,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/259/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜しかない",
+  "romanized_label": "shikanai",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "no alternative, no option but to...",
+  "meaning_example": "nothing to do but try...",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_259",
+      "body_text": "no alternative, no option but to... \n nothing to do but try...",
+      "body_html": "<span>no alternative, no option but to...</span> <br/> <span>nothing to do but try...</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_259",
+      "body_text": "Verb (dictionary form)+しかないNoun+しかない",
+      "body_html": "<div><div><div>Verb (dictionary form)</div></div><div><div>+</div><div>しかない</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>しかない</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb (dictionary form) + しかない",
+    "Noun + しかない"
+  ],
+  "examples": [
+    {
+      "source_id": 366,
+      "position": 0,
+      "japanese": "やるしかないじゃん！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%84%e3%82%8b\"><span>やる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%98%e3%82%83%e3%82%93\"><span>じゃん</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%81\"><span>！</span></a>",
+      "segments": [
+        {
+          "text": "やる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "じゃん！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "やるしかないじゃん！",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Ya gotta do it!",
+          "html": "<span>Ya </span><strong>gotta </strong><span>do it! </span>",
+          "segments": [
+            {
+              "text": "Ya ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "gotta ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "do it! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1218,
+      "position": 1,
+      "japanese": "彼女と結婚するしかなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%a8\"><span>彼女と</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%90%e5%a9%9a%e3%81%99%e3%82%8b\"><span>結婚する</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f\"><strong>しかなかった</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "彼女と結婚する",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかなかった",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょとけっこんするしかなかった。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I had no choice but to marry her.",
+          "html": "<strong>I had no choice but </strong><span>to marry </span><span>her. </span>",
+          "segments": [
+            {
+              "text": "I had no choice but ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "to marry her. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1219,
+      "position": 2,
+      "japanese": "卒業出来なかったからバイトをするしかない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8d%92%e6%a5%ad%e5%87%ba%e6%9d%a5%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%8b%e3%82%89\"><span>卒業出来なかったから</span></a><a href=\"https://takoboto.jp/?q=%e3%83%90%e3%82%a4%e3%83%88%e3%82%92%e3%81%99%e3%82%8b\"><span>バイトをする</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "卒業出来なかったからバイトをする",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そつぎょうできなかったからバイトをするしかない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I didn't graduate, so I have no choice but to do temp work.",
+          "html": "<span>I didn't graduate, so </span><strong>I have no choice but </strong><span>to do </span><span>temp work. </span>",
+          "segments": [
+            {
+              "text": "I didn't graduate, so ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "I have no choice but ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "to do temp work. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3681,
+      "position": 3,
+      "japanese": "２つの物の間にはごくわずかな差しかない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%ef%bc%92%e3%81%a4%e3%81%ae\"><span>２つの</span></a><a href=\"https://takoboto.jp/?q=%e7%89%a9%e3%81%ae\"><span>物の</span></a><a href=\"https://takoboto.jp/?q=%e9%96%93%e3%81%ab%e3%81%af%e3%81%94%e3%81%8f%e3%82%8f%e3%81%9a%e3%81%8b%e3%81%aa\"><span>間にはごくわずかな</span></a><a href=\"https://takoboto.jp/?q=%e5%b7%ae\"><span>差</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "２つの物の間にはごくわずかな差",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ふたつのもののまにはごくわずかなさしかない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "There is only a marginal difference between the two.",
+          "html": "<span>There is only a marginal difference between the two. </span>",
+          "segments": [
+            {
+              "text": "There is only a marginal difference between the two. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6133,
+      "position": 4,
+      "japanese": "試験を受けるからには、がんばるしかない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%82%92\"><span>試験を</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%97%e3%81%91%e3%82%8b%e3%81%8b%e3%82%89%e3%81%ab%e3%81%af%e3%80%81%e3%81%8c%e3%82%93%e3%81%b0%e3%82%8b\"><span>受けるからには、がんばる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "試験を受けるからには、がんばる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "しけんをうけるからには、がんばるしかない。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Now that I'm taking the test, I've got no choice but to do my best.",
+          "html": "<span>Now that I'm taking the test, I've got </span><strong>no choice but to </strong><span>do my best. </span>",
+          "segments": [
+            {
+              "text": "Now that I'm taking the test, I've got ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "no choice but to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "do my best. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6134,
+      "position": 5,
+      "japanese": "漢字は、一つ一つ覚えるしかありません。とにかく覚えることです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%bc%a2%e5%ad%97%e3%81%af%e3%80%81\"><span>漢字は、</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e3%81%a4\"><span>一つ</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e3%81%a4\"><span>一つ</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%9a%e3%81%88%e3%82%8b\"><span>覚える</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93\"><strong>しかありません</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f\"><span>。とにかく</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%9a%e3%81%88%e3%82%8b%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99%e3%80%82\"><span>覚えることです。</span></a>",
+      "segments": [
+        {
+          "text": "漢字は、一つ一つ覚える",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかありません",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。とにかく覚えることです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かんじは、ひとつひとつおぼえるしかありません。とにかくおぼえることです。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You have no choice but to memorize kanji one at a time. At any rate, you had better remember them.",
+          "html": "<span>You </span><strong>have no choice but to </strong><span>memorize kanji one at a time. At any rate, you had better remember them. </span>",
+          "segments": [
+            {
+              "text": "You ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "have no choice but to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "memorize kanji one at a time. At any rate, you had better remember them. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6135,
+      "position": 6,
+      "japanese": "最終電車が出てしまった後だったので、タクシーに乗るしかなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%9c%80%e7%b5%82%e9%9b%bb%e8%bb%8a%e3%81%8c\"><span>最終電車が</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f\"><span>出てしまった</span></a><a href=\"https://takoboto.jp/?q=%e5%be%8c%e3%81%a0%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7%e3%80%81%e3%82%bf%e3%82%af%e3%82%b7%e3%83%bc%e3%81%ab\"><span>後だったので、タクシーに</span></a><a href=\"https://takoboto.jp/?q=%e4%b9%97%e3%82%8b\"><span>乗る</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f\"><strong>しかなかった</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "最終電車が出てしまった後だったので、タクシーに乗る",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかなかった",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "さいしゅうでんしゃがでてしまったのちだったので、タクシーにのるしかなかった。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "After having missed the last train, I had no choice but to take a taxi.",
+          "html": "<span>After having missed the last train, I </span><strong>had no choice but to </strong><span>take a taxi. </span>",
+          "segments": [
+            {
+              "text": "After having missed the last train, I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "had no choice but to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "take a taxi. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6136,
+      "position": 7,
+      "japanese": "努力しないで成功できるわけがない。努力しかありませんよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8a%aa%e5%8a%9b%e3%81%97%e3%81%aa%e3%81%84%e3%81%a7\"><span>努力しないで</span></a><a href=\"https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%a7%e3%81%8d%e3%82%8b%e3%82%8f%e3%81%91%e3%81%8c%e3%81%aa%e3%81%84%e3%80%82\"><span>成功できるわけがない。</span></a><a href=\"https://takoboto.jp/?q=%e5%8a%aa%e5%8a%9b\"><span>努力</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93\"><strong>しかありません</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%80%82\"><span>よ。</span></a>",
+      "segments": [
+        {
+          "text": "努力しないで成功できるわけがない。努力",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかありません",
+          "grammar_highlight": true
+        },
+        {
+          "text": "よ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "どりょくしないでせいこうできるわけがない。どりょくしかありませんよ。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You can't succeed without great effort. There is no other choice but to exert yourself.",
+          "html": "<span>You can't succeed without great effort. There is </span><strong>no other choice but to </strong><span>exert yourself. </span>",
+          "segments": [
+            {
+              "text": "You can't succeed without great effort. There is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "no other choice but to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "exert yourself. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6525,
+      "position": 8,
+      "japanese": "とりあえず我慢するしかないみたいだね。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%82%8a%e3%81%82%e3%81%88%e3%81%9a\"><span>とりあえず</span></a><a href=\"https://takoboto.jp/?q=%e6%88%91%e6%85%a2%e3%81%99%e3%82%8b\"><span>我慢する</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%bf%e3%81%9f%e3%81%84%e3%81%a0%e3%81%ad%e3%80%82\"><span>みたいだね。</span></a>",
+      "segments": [
+        {
+          "text": "とりあえず我慢する",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "みたいだね。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "とりあえずがまんするしかないみたいだね。",
+      "credits_raw": "マリ",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It looks like you have no choice but to endure it for the time being.",
+          "html": "<span>It looks like you have no choice but to endure it for the time being. </span>",
+          "segments": [
+            {
+              "text": "It looks like you have no choice but to endure it for the time being. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6890,
+      "position": 9,
+      "japanese": "ここまできたら、やるしかない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%be%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%89%e3%80%81\"><span>ここまできたら、</span></a><a href=\"https://takoboto.jp/?q=%e3%82%84%e3%82%8b\"><span>やる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "ここまできたら、やる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ここまできたら、やるしかない。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We've done this much, so there's nothing else to do but keep going.",
+          "html": "<span>We've done this much, so </span><strong>there's nothing else to do but </strong><span>keep going. </span>",
+          "segments": [
+            {
+              "text": "We've done this much, so ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "there's nothing else to do but ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "keep going. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6891,
+      "position": 10,
+      "japanese": "修理が無理だとしたら、買いなおすしかないですね。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bf%ae%e7%90%86%e3%81%8c\"><span>修理が</span></a><a href=\"https://takoboto.jp/?q=%e7%84%a1%e7%90%86%e3%81%a0%e3%81%a8%e3%81%97%e3%81%9f%e3%82%89%e3%80%81\"><span>無理だとしたら、</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%b7%e3%81%84%e3%81%aa%e3%81%8a%e3%81%99\"><span>買いなおす</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%ad%e3%80%82\"><span>ですね。</span></a>",
+      "segments": [
+        {
+          "text": "修理が無理だとしたら、買いなおす",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ですね。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "しゅうりがむりだとしたら、かいなおすしかないですね。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If repairing it is impossible, there will be nothing to do but buy a new one.",
+          "html": "<span>If repairing it is impossible, </span><strong>there will be nothing to do but </strong><span>buy a new one. </span>",
+          "segments": [
+            {
+              "text": "If repairing it is impossible, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "there will be nothing to do but ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "buy a new one. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6892,
+      "position": 11,
+      "japanese": "息子は桜大学に進学することを希望している。しかし、今の息子の学力ではとても無理だから、別の大学を受験させるしかない。本人の希望とは違ってもしかたがないことだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%81%af%e5%ad%90%e3%81%af\"><span>息子は</span></a><a href=\"https://takoboto.jp/?q=%e6%a1%9c%e5%a4%a7%e5%ad%a6%e3%81%ab\"><span>桜大学に</span></a><a href=\"https://takoboto.jp/?q=%e9%80%b2%e5%ad%a6%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%82%92\"><span>進学することを</span></a><a href=\"https://takoboto.jp/?q=%e5%b8%8c%e6%9c%9b%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82%e3%81%97%e3%81%8b%e3%81%97%e3%80%81\"><span>希望している。しかし、</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%81%ae\"><span>今の</span></a><a href=\"https://takoboto.jp/?q=%e6%81%af%e5%ad%90%e3%81%ae\"><span>息子の</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%a6%e5%8a%9b%e3%81%a7%e3%81%af%e3%81%a8%e3%81%a6%e3%82%82\"><span>学力ではとても</span></a><a href=\"https://takoboto.jp/?q=%e7%84%a1%e7%90%86%e3%81%a0%e3%81%8b%e3%82%89%e3%80%81\"><span>無理だから、</span></a><a href=\"https://takoboto.jp/?q=%e5%88%a5%e3%81%ae\"><span>別の</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e3%82%92\"><span>大学を</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%97%e9%a8%93%e3%81%95%e3%81%9b%e3%82%8b\"><span>受験させる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e4%ba%ba%e3%81%ae\"><span>本人の</span></a><a href=\"https://takoboto.jp/?q=%e5%b8%8c%e6%9c%9b%e3%81%a8%e3%81%af\"><span>希望とは</span></a><a href=\"https://takoboto.jp/?q=%e9%81%95%e3%81%a3%e3%81%a6%e3%82%82%e3%81%97%e3%81%8b%e3%81%9f%e3%81%8c%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%a0%e3%80%82\"><span>違ってもしかたがないことだ。</span></a>",
+      "segments": [
+        {
+          "text": "息子は桜大学に進学することを希望している。しかし、今の息子の学力ではとても無理だから、別の大学を受験させる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。本人の希望とは違ってもしかたがないことだ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "むすこはさくらだいがくにしんがくすることをきぼうしている。しかし、いまのむすこのがくりょくではとてもむりだから、べつのだいがくをじゅけんさせるしかない。ほんにんのきぼうとはちがってもしかたがないことだ。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My daughter hopes to enter the Sakura University. However, her capacity is very poor, so I have no choice but to compel her take the exam of another university. Although it's not her hope, there is no way.",
+          "html": "<span>My daughter hopes to enter the Sakura University. However, her capacity is very poor, so </span><strong>I have no choice but to compel her </strong><span>take the exam </span><span>of another university. Although it's not her hope, there is no way. </span>",
+          "segments": [
+            {
+              "text": "My daughter hopes to enter the Sakura University. However, her capacity is very poor, so ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "I have no choice but to compel her ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "take the exam of another university. Although it's not her hope, there is no way. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6945,
+      "position": 12,
+      "japanese": "美人と結婚したいですから、たくさんお金を稼ぐしかない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%be%8e%e4%ba%ba%e3%81%a8\"><span>美人と</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%90%e5%a9%9a%e3%81%97%e3%81%9f%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b%e3%82%89%e3%80%81%e3%81%9f%e3%81%8f%e3%81%95%e3%82%93%e3%81%8a\"><span>結婚したいですから、たくさんお</span></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e3%82%92\"><span>金を</span></a><a href=\"https://takoboto.jp/?q=%e7%a8%bc%e3%81%90\"><span>稼ぐ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "美人と結婚したいですから、たくさんお金を稼ぐ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "びじんとけっこんしたいですから、たくさんおかねをかせぐしかない。",
+      "credits_raw": "phananhvu",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Because i want to marry a beautiful woman, i have to earn much money.",
+          "html": "<span>Because i want to marry a beautiful woman, </span><strong>i have to </strong><span>earn much money. </span>",
+          "segments": [
+            {
+              "text": "Because i want to marry a beautiful woman, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "i have to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "earn much money. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6974,
+      "position": 13,
+      "japanese": "彼が怒っているから、静かにするしかない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c\"><span>彼が</span></a><a href=\"https://takoboto.jp/?q=%e6%80%92%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8b%e3%82%89%e3%80%81\"><span>怒っているから、</span></a><a href=\"https://takoboto.jp/?q=%e9%9d%99%e3%81%8b%e3%81%ab%e3%81%99%e3%82%8b\"><span>静かにする</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "彼が怒っているから、静かにする",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれがおこっているから、しずかにするしかない。",
+      "credits_raw": "amenya",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Because he is now angry,I have no choice but keep silent.",
+          "html": "<span>Because he is now angry,I </span><strong>have no choice but </strong><span>keep silent. </span>",
+          "segments": [
+            {
+              "text": "Because he is now angry,I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "have no choice but ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "keep silent. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7056,
+      "position": 14,
+      "japanese": "直せないから、新しいのを買うしかなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%9b%b4%e3%81%9b%e3%81%aa%e3%81%84%e3%81%8b%e3%82%89%e3%80%81\"><span>直せないから、</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84%e3%81%ae%e3%82%92\"><span>新しいのを</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%b7%e3%81%86\"><span>買う</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f\"><strong>しかなかった</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "直せないから、新しいのを買う",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかなかった",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なおせないから、あたらしいのをかうしかなかった。",
+      "credits_raw": "lilibr",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It couldn't be fixed, so there was nothing to do but buy a new one.",
+          "html": "<span>It couldn't be fixed, so </span><strong>there was nothing to do but </strong><span>buy </span><span>a new one. </span>",
+          "segments": [
+            {
+              "text": "It couldn't be fixed, so ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "there was nothing to do but ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "buy a new one. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8435,
+      "position": 15,
+      "japanese": "残念ながら、時間はほんのわずかしかない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%ae%8b%e5%bf%b5%e3%81%aa%e3%81%8c%e3%82%89%e3%80%81\"><span>残念ながら、</span></a><a href=\"https://takoboto.jp/?q=%e6%99%82%e9%96%93%e3%81%af%e3%81%bb%e3%82%93%e3%81%ae%e3%82%8f%e3%81%9a%e3%81%8b\"><span>時間はほんのわずか</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "残念ながら、時間はほんのわずか",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ざんねんながら、じかんはほんのわずかしかない。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Unfortunatelly, we have little enough time.",
+          "html": "<span>Unfortunatelly, we have little enough time. </span>",
+          "segments": [
+            {
+              "text": "Unfortunatelly, we have little enough time. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7039,
+      "position": 16,
+      "japanese": "ここまで来たらもうやるしかないのに、君はまだ迷っているのか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%be%e3%81%a7\"><span>ここまで</span></a><a href=\"https://takoboto.jp/?q=%e6%9d%a5%e3%81%9f%e3%82%89%e3%82%82%e3%81%86\"><span>来たらもう</span></a><a href=\"https://takoboto.jp/?q=%e3%82%84%e3%82%8b\"><span>やる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84\"><strong>しかない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%ab%e3%80%81\"><span>のに、</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%af%e3%81%be%e3%81%a0\"><span>君はまだ</span></a><a href=\"https://takoboto.jp/?q=%e8%bf%b7%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%8b%e3%80%82\"><span>迷っているのか。</span></a>",
+      "segments": [
+        {
+          "text": "ここまで来たらもうやる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "しかない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のに、君はまだ迷っているのか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ここまできたらもうやるしかないのに、きみはまだまよっているのか。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I have come until here, I have no choice but keep going, are you still in doubt?",
+          "html": "<span>I have come until here, </span><strong>I have no choice but </strong><span>keep going, </span><span>are you still in doubt? </span>",
+          "segments": [
+            {
+              "text": "I have come until here, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "I have no choice but ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "keep going, are you still in doubt? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "＊Be very careful as to when you replace one of these phrases with another.\n\nＶ + しかない : used in a situation where one has no choice but to do something.\n\nＶneg + ざるを得ない : used in a situation where one has no choice but to do something.\n\nＶneg + なければならない : used in a situation where one has to do something because s/he has an obligation to do it OR where one has no choice but to do something.\n\nＶneg + わけに(は)いかない : used in a situation where one has to do something because s/he has an obligation to do it OR where one has no choice but to do something. It also expresses the unwillingness of the speaker to do Ｖ.",
+      "html": "＊Be very careful as to when you replace one of these phrases with another.<br/><br/>Ｖ + しかない : used in a situation where one has no choice but to do something.<br/><br/>Ｖneg + ざるを得ない : used in a situation where one has no choice but to do something.<br/><br/>Ｖneg + なければならない : used in a situation where one has to do something because s/he has an obligation to do it OR where one has no choice but to do something.<br/><br/>Ｖneg + わけに(は)いかない : used in a situation where one has to do something because s/he has an obligation to do it OR where one has no choice but to do something. It also expresses the unwillingness of the speaker to do Ｖ.",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "e8035c9371d35da3fac15a156de8c03afca05ce7eb975e005036a8d605f66d30",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Ｖ(dictionary form) + しかない\nＮ + しかない",
+      "html": "Ｖ(dictionary form) + しかない<br/>Ｎ + しかない",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "ef6d9cc1f55cb3da6d1ce0705145b13f69221603c09b09b1e297dc3e7cb6f1cc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "the first example #336 might also be used as [hokanai]\nsuru yori hokanai",
+      "html": "the first example #336 might also be used as [hokanai]<br/>suru yori hokanai",
+      "credits_raw": "dc",
+      "content_sha256": "09a9b2f5cf3557bcaecbc2eb3b93ab44c400a3a1b8dfa59a9ad3fd53c86ec347",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "やるっきゃない is another folksy way of saing #336.",
+      "html": "やるっきゃない is another folksy way of saing #336.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "17c57a6e360bf10938192fbc739eabebfc4652b276f52d426bc0dc71a2b6cf5a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "I believe that in example #1219, you can simply use 「...アルバイトしかない」 without the verb. Probably both ways are acceptable.",
+      "html": "I believe that in example #1219, you can simply use 「...アルバイトしかない」 without the verb. Probably both ways are acceptable.",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "0e5813b4dd7d9735bd642490091368396afd33439e0c7ef7f332153e0b0fb1c7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "#1219 か is missing. 卒業できなかったから ...\nI think both wasy are acceptable.",
+      "html": "#1219 か is missing. 卒業できなかったから ...<br/>I think both wasy are acceptable.",
+      "credits_raw": "Miki",
+      "content_sha256": "18837bac36f655d5f3be3b0aa42aba4f235894796fe6c4cd5d2941c180373302",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "is Vneg plus しかない possible\ne.g. あしたまでにこの仕事をしなければいけないので、寝ないしかない",
+      "html": "is Vneg plus しかない possible<br/>e.g. あしたまでにこの仕事をしなければいけないので、寝ないしかない",
+      "credits_raw": "sagittarius",
+      "content_sha256": "4304580d48322a94d4c0f64fb3595bf2973c64e136c4dfcb03e06ab3340ebdb7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "Probably not possible. So your example sounds strange.\neg. 明日までにこの仕事をしなければならないので、寝るわけにはいかない。or 起きているしかない。",
+      "html": "Probably not possible. So your example sounds strange.<br/>eg. 明日までにこの仕事をしなければならないので、寝るわけにはいかない。or 起きているしかない。",
+      "credits_raw": "Miki",
+      "content_sha256": "f7062fd7a2a55bdb044b7ca8cb318ca5f5f8b50a5f49d1a1ae5858da84161cbc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "ex #3681 does not use the grammar pattern.",
+      "html": "ex #3681 does not use the grammar pattern.",
+      "credits_raw": "マリ",
+      "content_sha256": "96cf2f54c69cb2d049b8ee5862847452093748ccb076ea405454a386cd5b3d34",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "I fixed ex #1219 according to the alert of Mikiさん.\nI need some help for the translation of #6892.",
+      "html": "I fixed ex #1219 according to the alert of Mikiさん.<br/>I need some help for the translation of #6892.",
+      "credits_raw": "赤毛",
+      "content_sha256": "7f13ee16733fb14d6b6d2e5de2dd597ad6efdbb5bff124d3dbd2dfe94b30f817",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "#6890: there's difference between the two sentences, the Japanese and the English",
+      "html": "#6890: there's difference between the two sentences, the Japanese and the English",
+      "credits_raw": "amenya",
+      "content_sha256": "31ba7ed8348c60906a68cd6bcba43a3ab339cd24726064c7d0817c070e0775cc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "I fixed the translation of #6892. Is it ok?",
+      "html": "I fixed the translation of #6892. Is it ok?",
+      "credits_raw": "amenya",
+      "content_sha256": "9c7619261898b5c3b408aaac5b6ef78e1153307358133f81a6522899163f706f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "Amenyaさん, Thanks for your help. I think it's OK now and I changed the status of #6892 to neutral.\nFor #6890, I picked it in http://www.japonin.com/intermediate-grammar-list.php . I think the translation is not literal but is OK. I added #7039 intending to give a more literal translation.\nマリさん, In #3681, the pattern seems to be N+しかない instead of Ｖ(dictionary form)+しかない.",
+      "html": "Amenyaさん, Thanks for your help. I think it's OK now and I changed the status of #6892 to neutral.<br/>For #6890, I picked it in http://www.japonin.com/intermediate-grammar-list.php . I think the translation is not literal but is OK. I added #7039 intending to give a more literal translation.<br/>マリさん, In #3681, the pattern seems to be N+しかない instead of Ｖ(dictionary form)+しかない.",
+      "credits_raw": "赤毛",
+      "content_sha256": "b2b6c2c1c7deb0a538caadea59450955644b85ae3ad65dfd2bdfd73abccdf5db",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "I've changed #7039 translation, is it ok?",
+      "html": "I've changed #7039 translation, is it ok?",
+      "credits_raw": "karekano",
+      "content_sha256": "e7d9dc9b16a8d89d4824a4791c691c6f92de06d837ccc16fa3108c123cf45540",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "I think 〜ざるを得ない expresses more the unwillingness of the speaker than 〜わけにはいかない. So maybe it`s better to add that expressed feeling too.",
+      "html": "I think 〜ざるを得ない expresses more the unwillingness of the speaker than 〜わけにはいかない. So maybe it`s better to add that expressed feeling too.",
+      "credits_raw": "Mariaester",
+      "content_sha256": "e3f6743e73f8ab1470ef97bb3a9c37d3b95199942b13e8d3afdb4e83c2c6497f",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1199,
+      "label": "しか",
+      "source_url": "https://takoboto.jp/bunpo/1199"
+    },
+    {
+      "target_id": 346,
+      "label": "ほかない",
+      "source_url": "https://takoboto.jp/bunpo/346"
+    },
+    {
+      "target_id": 823,
+      "label": "ざるをえない",
+      "source_url": "https://takoboto.jp/bunpo/823"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:41:08+00:00",
+  "response_sha256": "28646db625548bbe4630bd90d09dd14967404b33c10165f157075c96a5a93724",
+  "warnings": []
+}

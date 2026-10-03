@@ -1,0 +1,865 @@
+{
+  "schema_version": 2,
+  "id": 624,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/624/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜で",
+  "romanized_label": "de",
+  "alternate_forms": [],
+  "jlpt_level": 5,
+  "credits_raw": "Amatuka",
+  "meaning": "by means of, by, [action] at a place",
+  "meaning_example": "I came by car.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_624",
+      "body_text": "by means of, by, [action] at a place \n I came by car.",
+      "body_html": "<span>by means of, by, [action] at a place</span> <br/> <span>I came by car.</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_624",
+      "body_text": "Noun+で",
+      "body_html": "<div><div><div>Noun</div></div><div><div>+</div><div>で</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Noun + で"
+  ],
+  "examples": [
+    {
+      "source_id": 694,
+      "position": 0,
+      "japanese": "車で来ました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%bb%8a\"><span>車</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e6%9d%a5%e3%81%be%e3%81%97%e3%81%9f%e3%80%82+\"><span>来ました。 </span></a>",
+      "segments": [
+        {
+          "text": "車",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "来ました。 ",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "くるまできました。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "(I) came by car.",
+          "html": "<span>(I) came </span><strong>by </strong><span>car. </span>",
+          "segments": [
+            {
+              "text": "(I) came ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "by ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "car. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 695,
+      "position": 1,
+      "japanese": "ひとりで行きますか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%b2%e3%81%a8%e3%82%8a\"><span>ひとり</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d%e3%81%be%e3%81%99%e3%81%8b%e3%80%82\"><span>行きますか。</span></a>",
+      "segments": [
+        {
+          "text": "ひとり",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "行きますか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ひとりでいきますか。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Are you going by youself?",
+          "html": "<span>Are you going </span><strong>by </strong><span>youself? </span>",
+          "segments": [
+            {
+              "text": "Are you going ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "by ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "youself? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4782,
+      "position": 2,
+      "japanese": "ペンで書く。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%9a%e3%83%b3\"><span>ペン</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e6%9b%b8%e3%81%8f%e3%80%82\"><span>書く。</span></a>",
+      "segments": [
+        {
+          "text": "ペン",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "書く。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ペンでかく。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I write with a pen.",
+          "html": "<span>I write </span><strong>with </strong><span>a pen. </span>",
+          "segments": [
+            {
+              "text": "I write ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "with ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a pen. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7235,
+      "position": 3,
+      "japanese": "町角で",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%94%ba%e8%a7%92\"><span>町角</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a>",
+      "segments": [
+        {
+          "text": "町角",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "まちかくで",
+      "credits_raw": "IMABI",
+      "translations": [
+        {
+          "language": "en",
+          "text": "At the corner of the street",
+          "html": "<strong>At </strong><span>the corner of the street </span>",
+          "segments": [
+            {
+              "text": "At ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the corner of the street ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7236,
+      "position": 4,
+      "japanese": "食料品店でそれを買いました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%a3%9f%e6%96%99%e5%93%81%e5%ba%97\"><span>食料品店</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%82%92\"><span>それを</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%b7%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>買いました。</span></a>",
+      "segments": [
+        {
+          "text": "食料品店",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "それを買いました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "しょくりょうひんてんでそれをかいました。",
+      "credits_raw": "IMABI",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I bought it at the grocer's shop.",
+          "html": "<span>I bought it </span><strong>at </strong><span>the grocer's shop. </span>",
+          "segments": [
+            {
+              "text": "I bought it ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "at ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the grocer's shop. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7237,
+      "position": 5,
+      "japanese": "彼女はその市で働いている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%81%9d%e3%81%ae\"><span>彼女はその</span></a><a href=\"https://takoboto.jp/?q=%e5%b8%82\"><span>市</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e5%83%8d%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>働いている。</span></a>",
+      "segments": [
+        {
+          "text": "彼女はその市",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "働いている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょはそのしではたらいている。",
+      "credits_raw": "IMABI",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She works in that city.",
+          "html": "<span>She works </span><strong>in </strong><span>that city. </span>",
+          "segments": [
+            {
+              "text": "She works ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "in ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "that city. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7238,
+      "position": 6,
+      "japanese": "海で泳ぐのが好きです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%b5%b7\"><span>海</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e6%b3%b3%e3%81%90%e3%81%ae%e3%81%8c\"><span>泳ぐのが</span></a><a href=\"https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a7%e3%81%99%e3%80%82\"><span>好きです。</span></a>",
+      "segments": [
+        {
+          "text": "海",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "泳ぐのが好きです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "うみでおよぐのがすきです。",
+      "credits_raw": "IMABI",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I like swimming in the sea.",
+          "html": "<span>I like swimming </span><strong>in </strong><span>the sea. </span>",
+          "segments": [
+            {
+              "text": "I like swimming ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "in ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the sea. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7239,
+      "position": 7,
+      "japanese": "通りで遊ぶ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%80%9a%e3%82%8a\"><span>通り</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e9%81%8a%e3%81%b6%e3%80%82\"><span>遊ぶ。</span></a>",
+      "segments": [
+        {
+          "text": "通り",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "遊ぶ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "とおりであそぶ。",
+      "credits_raw": "IMABI",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Play in/on the street.",
+          "html": "<span>Play </span><strong>in/on </strong><span>the street. </span>",
+          "segments": [
+            {
+              "text": "Play ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "in/on ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the street. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7240,
+      "position": 8,
+      "japanese": "この店は八時で閉店です。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e5%ba%97%e3%81%af\"><span>店は</span></a><a href=\"https://takoboto.jp/?q=%e5%85%ab%e6%99%82\"><span>八時</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e9%96%89%e5%ba%97%e3%81%a7%e3%81%99%e3%80%82\"><span>閉店です。</span></a>",
+      "segments": [
+        {
+          "text": "この店は八時",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "閉店です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このみせははちじでへいてんです。",
+      "credits_raw": "IMABI",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This store closes at eight o'clock.",
+          "html": "<span>This store closes </span><strong>at </strong><span>eight o'clock. </span>",
+          "segments": [
+            {
+              "text": "This store closes ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "at ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "eight o'clock. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7241,
+      "position": 9,
+      "japanese": "私は三回目で試験に合格しました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e4%b8%89%e5%9b%9e%e7%9b%ae\"><span>私は三回目</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%81%ab%e5%90%88%e6%a0%bc%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>試験に合格しました。</span></a>",
+      "segments": [
+        {
+          "text": "私は三回目",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "試験に合格しました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはさんかいめでしけんにごうかくしました。",
+      "credits_raw": "IMABI, カオ",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I passed the test on  the 3rd time.",
+          "html": "<span>I passed the test </span><strong>on </strong><span> the 3rd time. </span>",
+          "segments": [
+            {
+              "text": "I passed the test ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "on ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " the 3rd time. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7242,
+      "position": 10,
+      "japanese": "彼は八十歳で亡くなりました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e5%85%ab%e5%8d%81%e6%ad%b3\"><span>彼は八十歳</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e4%ba%a1%e3%81%8f%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>亡くなりました。</span></a>",
+      "segments": [
+        {
+          "text": "彼は八十歳",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "亡くなりました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれははちじゅうさいでなくなりました。",
+      "credits_raw": "IMABI",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He passed away at  the age of 80.",
+          "html": "<span>He passed away </span><strong>at </strong><span> the age of 80. </span>",
+          "segments": [
+            {
+              "text": "He passed away ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "at ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " the age of 80. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7243,
+      "position": 11,
+      "japanese": "二、三日で帰るつもりです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%ba%8c%e3%80%81\"><span>二、</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%89%e6%97%a5\"><span>三日</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e5%b8%b0%e3%82%8b%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a7%e3%81%99%e3%80%82\"><span>帰るつもりです。</span></a>",
+      "segments": [
+        {
+          "text": "二、三日",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "帰るつもりです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "に、さんにちでかえるつもりです。",
+      "credits_raw": "IMABI",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I plan to return home in two or three days.",
+          "html": "<span>I plan to return home </span><strong>in </strong><span>two or three days. </span>",
+          "segments": [
+            {
+              "text": "I plan to return home ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "in ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "two or three days. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7244,
+      "position": 12,
+      "japanese": "ナイフで肉を切るのは本当に難しい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%8a%e3%82%a4%e3%83%95\"><span>ナイフ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e8%82%89%e3%82%92\"><span>肉を</span></a><a href=\"https://takoboto.jp/?q=%e5%88%87%e3%82%8b%e3%81%ae%e3%81%af\"><span>切るのは</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ab\"><span>本当に</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a3%e3%81%97%e3%81%84%e3%80%82\"><span>難しい。</span></a>",
+      "segments": [
+        {
+          "text": "ナイフ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "肉を切るのは本当に難しい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ナイフでにくをきるのはほんとうにむずかしい。",
+      "credits_raw": "IMABI",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Cutting meat with a knife is really difficult.",
+          "html": "<span>Cutting meat </span><strong>with </strong><span>a knife is really difficult. </span>",
+          "segments": [
+            {
+              "text": "Cutting meat ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "with ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a knife is really difficult. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7245,
+      "position": 13,
+      "japanese": "みずほでお勤めですか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%bf%e3%81%9a%e3%81%bb\"><span>みずほ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e5%8b%a4%e3%82%81%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82\"><span>お勤めですか。</span></a>",
+      "segments": [
+        {
+          "text": "みずほ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "お勤めですか。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "みずほでおつとめですか。",
+      "credits_raw": "IMABI, カオ",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Do you work at  Mizuho?",
+          "html": "<span>Do you work </span><strong>at </strong><span> Mizuho? </span>",
+          "segments": [
+            {
+              "text": "Do you work ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "at ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " Mizuho? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8626,
+      "position": 14,
+      "japanese": "彼は鉛筆で手紙を書きました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e9%89%9b%e7%ad%86\"><span>彼は鉛筆</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%82%92%e6%9b%b8%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>手紙を書きました。</span></a>",
+      "segments": [
+        {
+          "text": "彼は鉛筆",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "手紙を書きました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはえんぴつでてがみをかきました。",
+      "credits_raw": "Sakuratree, カオ",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He wrote a letter with  a pencil.",
+          "html": "<span>He wrote a letter </span><strong>with </strong><span> a pencil. </span>",
+          "segments": [
+            {
+              "text": "He wrote a letter ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "with ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " a pencil. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8794,
+      "position": 15,
+      "japanese": "漢字を手で書けたらすごいね。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%bc%a2%e5%ad%97%e3%82%92%e6%89%8b\"><span>漢字を手</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e6%9b%b8%e3%81%91%e3%81%9f%e3%82%89%e3%81%99%e3%81%94%e3%81%84%e3%81%ad%e3%80%82\"><span>書けたらすごいね。</span></a>",
+      "segments": [
+        {
+          "text": "漢字を手",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "書けたらすごいね。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かんじをてでかけたらすごいね。",
+      "credits_raw": "貴博",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It's awesome if you can write Chinese characters with  hands.",
+          "html": "<span>It's awesome if you can write Chinese characters </span><strong>with </strong><span> hands. </span>",
+          "segments": [
+            {
+              "text": "It's awesome if you can write Chinese characters ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "with ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " hands. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "で has many uses. It can be used for sentences like:\n\nI went to the park by bus.\nバスで公園に行きました。\n\nOr 'with' when talking about objects such as:\n\nパソコンで日本語とイタリア語を勉強しています。- With my PC, I'm studying Japanese and Italian.\n\nIt can be used with 'jibun' (myself) and hitori (alone)\n\n一人でこのケーキを作りました。-I made this cake alone.\n\n自分で料理しました。- I cooked by myself.\n\nIt can be used as a price for something:\n\n曙ﾜドルでゲームを買いました。- I bought this game at the price for 15 dollars.\n\nA location where something took place:\n\n喫茶店でドーナツを食べました。- I ate a doughnut at the cafe.\n\nIt can mean 'within'...\n\n一日で本を読みました。- I read it within a day.",
+      "html": "で has many uses. It can be used for sentences like:<br/><br/>I went to the park by bus.<br/>バスで公園に行きました。<br/><br/>Or 'with' when talking about objects such as:<br/><br/>パソコンで日本語とイタリア語を勉強しています。- With my PC, I'm studying Japanese and Italian.<br/><br/>It can be used with 'jibun' (myself) and hitori (alone)<br/><br/>一人でこのケーキを作りました。-I made this cake alone.<br/><br/>自分で料理しました。- I cooked by myself.<br/><br/>It can be used as a price for something:<br/><br/>曙ﾜドルでゲームを買いました。- I bought this game at the price for 15 dollars.<br/><br/>A location where something took place:<br/><br/>喫茶店でドーナツを食べました。- I ate a doughnut at the cafe.<br/><br/>It can mean 'within'...<br/><br/>一日で本を読みました。- I read it within a day.",
+      "credits_raw": "Sakuratree",
+      "content_sha256": "200ff9b25fecc1abc707d5728b6ae6446dac2f87a3b04111b30e590d71e2eac6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "As with である, I do not see why this has it's own page. で is the \"て-form\" of だ and as such operates largely the same way any て-form would. For example: そのペンを使って書いた。- \"I wrote it using that pen\". The fragment \"using that pen\" is equivalent to the fragment \"by car\" in the example given by the author. This simply means that when だ's て-form is used (で) with a noun, we add \"by\", whereas in the case of a different verb's て-form, that verb + ing suffices in expressing the means by which something is done. When critically analyzing the fundamental grammatical structure of this Japanese without applying our English-based perceptions to it, で should not be distinguished from だ on a separate page. It's colloquial interpretations according to English-based perceptions might just be sidenotes on that page.",
+      "html": "As with である, I do not see why this has it's own page. で is the \"て-form\" of だ and as such operates largely the same way any て-form would. For example: そのペンを使って書いた。- \"I wrote it using that pen\". The fragment \"using that pen\" is equivalent to the fragment \"by car\" in the example given by the author. This simply means that when だ's て-form is used (で) with a noun, we add \"by\", whereas in the case of a different verb's て-form, that verb + ing suffices in expressing the means by which something is done. When critically analyzing the fundamental grammatical structure of this Japanese without applying our English-based perceptions to it, で should not be distinguished from だ on a separate page. It's colloquial interpretations according to English-based perceptions might just be sidenotes on that page.",
+      "credits_raw": "Eeker",
+      "content_sha256": "205ff09020cfc0dab6a6790266a70450752e59c679fa9b08200b3bcb6892cd29",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "I think that convoluted explanation proves why \"de\" needs its own separate page. While the explanation may be correct, it's too labyrinthine to be usefully instructive when \"de\" pops up in Japanese study (quite early). \"De\" functions as a particle, regardless of its roots, and it's too comon a term to be stuck as a footnote to \"da\". It deserves its own page.",
+      "html": "I think that convoluted explanation proves why \"de\" needs its own separate page. While the explanation may be correct, it's too labyrinthine to be usefully instructive when \"de\" pops up in Japanese study (quite early). \"De\" functions as a particle, regardless of its roots, and it's too comon a term to be stuck as a footnote to \"da\". It deserves its own page.",
+      "credits_raw": "Synonymous",
+      "content_sha256": "f6fac0d099ecd412c8e6e3e997ede493d0650a726216297b9d7124d4b042c187",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Eeker, why don't you make a new entry?",
+      "html": "Eeker, why don't you make a new entry?",
+      "credits_raw": "anon",
+      "content_sha256": "b012147dfb9fbf8d63b908733528ceadeadc17dff1586c91ca8b5e8a7eb1fde6",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "I find it most helpful to have the convoluted explanation and the technically redundant but simpler entry in the same place. Thanks Amatuka and Eeker.",
+      "html": "I find it most helpful to have the convoluted explanation and the technically redundant but simpler entry in the same place. Thanks Amatuka and Eeker.",
+      "credits_raw": "denzil",
+      "content_sha256": "2c23fbb8b974697faff5442b663dd6ffc08dfeafdc7e3c3d49bc59b632aae688",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "This might be a result of applying the English-based (or foreign-based in general) perceptions, but most of the people reading this are actually English speakers trying to learn Japanese and articles like this one make the learning easier, especially in the early stage, when you don't necesarily know about て-forms.",
+      "html": "This might be a result of applying the English-based (or foreign-based in general) perceptions, but most of the people reading this are actually English speakers trying to learn Japanese and articles like this one make the learning easier, especially in the early stage, when you don't necesarily know about て-forms.",
+      "credits_raw": "balrog-kun",
+      "content_sha256": "fd74f478f85a98e0a5da1342f67586235bcfd99c9e17316bcf29aaee1edf15e0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "Eeker, thanks for the explanation. Suddenly です as 「-で あります」starts to make much more sense.",
+      "html": "Eeker, thanks for the explanation. Suddenly です as 「-で あります」starts to make much more sense.",
+      "credits_raw": "9000",
+      "content_sha256": "200bdaedd163898fa463faecbbb84b3bc58bd2d3859878294f33b1818c9371a5",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "Sometimes a で is just a で.........\nif you bring up that first explanation to an average japanese person, they`d probably look at you like you were nuts!!!!",
+      "html": "Sometimes a で is just a で.........<br/>if you bring up that first explanation to an average japanese person, they`d probably look at you like you were nuts!!!!",
+      "credits_raw": "gren",
+      "content_sha256": "88fefb27aac0404b21903a76259f0dc7a117662c185a75d8b48291501360d09c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "I agree with dezil and 9000--lights and bells went off after I read Eeker's entry. That said, I'm rarely a purist, and I think a separate entry is merited for the JLPT 2/3 levels (including at least a pointer to Eeker's entry). Thanks everyone for your contributions.",
+      "html": "I agree with dezil and 9000--lights and bells went off after I read Eeker's entry. That said, I'm rarely a purist, and I think a separate entry is merited for the JLPT 2/3 levels (including at least a pointer to Eeker's entry). Thanks everyone for your contributions.",
+      "credits_raw": "jameserb",
+      "content_sha256": "3775429aea31770efddbcf0855b82bf21880b326446665cbb25b8e7a0aca3525",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "While I appreciate, though seldom understand, the nuances of language, as a beginner in the learning of Japanese, I really appreciate keeping things as simple as possible, such as giving ”で”it's own entry. Also, I am grateful for the use of hirigana in addition to kanji.",
+      "html": "While I appreciate, though seldom understand, the nuances of language, as a beginner in the learning of Japanese, I really appreciate keeping things as simple as possible, such as giving ”で”it's own entry. Also, I am grateful for the use of hirigana in addition to kanji.",
+      "credits_raw": "jdrankin",
+      "content_sha256": "20510514f0ede8e6b18b5d31f52dbe05be00bc068bb92be0a636c94e86875024",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1387,
+      "label": "で・に・前",
+      "source_url": "https://takoboto.jp/bunpo/1387"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:31:49+00:00",
+  "response_sha256": "708e34b6bc865d96d86d83ed3c388d25652f1cb781384dfa35323dfb18a344e7",
+  "warnings": []
+}

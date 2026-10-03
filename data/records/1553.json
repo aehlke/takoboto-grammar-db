@@ -1,0 +1,717 @@
+{
+  "schema_version": 2,
+  "id": 1553,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1553/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "ようもない",
+  "romanized_label": "youmonai",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "alexeiS",
+  "meaning": "there's no way",
+  "meaning_example": "There's no way I can answer the question",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1553",
+      "body_text": "there's no way \n There's no way I can answer the question",
+      "body_html": "<span>there's no way</span> <br/> <span>There's no way I can answer the question</span>",
+      "credits_raw": "alexeiS"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 5916,
+      "position": 0,
+      "japanese": "アイスクリームを食べようとして、スプーンがないことに気がついた。これでは食べようがない。どうしよう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%82%af%e3%83%aa%e3%83%bc%e3%83%a0%e3%82%92\"><span>アイスクリームを</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%88%e3%81%86%e3%81%a8%e3%81%97%e3%81%a6%e3%80%81%e3%82%b9%e3%83%97%e3%83%bc%e3%83%b3%e3%81%8c%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%ab\"><span>食べようとして、スプーンがないことに</span></a><a href=\"https://takoboto.jp/?q=%e6%b0%97%e3%81%8c%e3%81%a4%e3%81%84%e3%81%9f%e3%80%82%e3%81%93%e3%82%8c%e3%81%a7%e3%81%af\"><span>気がついた。これでは</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%88%e3%81%86%e3%81%8c%e3%81%aa%e3%81%84%e3%80%82%e3%81%a9%e3%81%86%e3%81%97%e3%82%88%e3%81%86%e3%80%82\"><span>食べようがない。どうしよう。</span></a>",
+      "segments": [
+        {
+          "text": "アイスクリームを食べようとして、スプーンがないことに気がついた。これでは食べようがない。どうしよう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "アイスクリームをたべようとして、スプーンがないことにきがついた。これではたべようがない。どうしよう。",
+      "credits_raw": "Ludi",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Just as I was about to eat, I noticed I had no spoon. So I can't eat...What should I do...",
+          "html": "<span>Just as I was about to eat, I noticed I had no spoon. So I can't eat...What should I do... </span>",
+          "segments": [
+            {
+              "text": "Just as I was about to eat, I noticed I had no spoon. So I can't eat...What should I do... ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5917,
+      "position": 1,
+      "japanese": "ひどい虫歯ですね。治そうがありません。もう抜くしかありません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%b2%e3%81%a9%e3%81%84\"><span>ひどい</span></a><a href=\"https://takoboto.jp/?q=%e8%99%ab%e6%ad%af%e3%81%a7%e3%81%99%e3%81%ad%e3%80%82\"><span>虫歯ですね。</span></a><a href=\"https://takoboto.jp/?q=%e6%b2%bb\"><span>治</span></a><a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%86%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><strong>そうがありません。</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%86\"><span>もう</span></a><a href=\"https://takoboto.jp/?q=%e6%8a%9c%e3%81%8f%e3%81%97%e3%81%8b%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>抜くしかありません。</span></a>",
+      "segments": [
+        {
+          "text": "ひどい虫歯ですね。治",
+          "grammar_highlight": false
+        },
+        {
+          "text": "そうがありません。",
+          "grammar_highlight": true
+        },
+        {
+          "text": "もう抜くしかありません。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ひどいむしばですね。なおそうがありません。もうぬくしかありません。",
+      "credits_raw": "Ludi",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What a horrible bad tooth! You can't cure it. There's nothing to do except extracting it.",
+          "html": "<span>What a horrible bad tooth! </span><strong>You can't </strong><span>cure it. There's nothing to do except extracting it. </span>",
+          "segments": [
+            {
+              "text": "What a horrible bad tooth! ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "You can't ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "cure it. There's nothing to do except extracting it. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5918,
+      "position": 2,
+      "japanese": "コンピュータのデータがすっかり消えてしまった。どうしようもない。困った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%81%ae%e3%83%87%e3%83%bc%e3%82%bf%e3%81%8c%e3%81%99%e3%81%a3%e3%81%8b%e3%82%8a\"><span>コンピュータのデータがすっかり</span></a><a href=\"https://takoboto.jp/?q=%e6%b6%88%e3%81%88%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82%e3%81%a9%e3%81%86%e3%81%97\"><span>消えてしまった。どうし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a><a href=\"https://takoboto.jp/?q=%e5%9b%b0%e3%81%a3%e3%81%9f%e3%80%82\"><span>困った。</span></a>",
+      "segments": [
+        {
+          "text": "コンピュータのデータがすっかり消えてしまった。どうし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。困った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "コンピュータのデータがすっかりきえてしまった。どうしようもない。こまった。",
+      "credits_raw": "Ludi",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My computer's datas have disappeared. I can't do anything...I'm in trouble.",
+          "html": "<span>My computer's datas have disappeared. I can't do anything...I'm in trouble. </span>",
+          "segments": [
+            {
+              "text": "My computer's datas have disappeared. I can't do anything...I'm in trouble. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6464,
+      "position": 3,
+      "japanese": "お礼の申し上げようもない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e7%a4%bc%e3%81%ae\"><span>礼の</span></a><a href=\"https://takoboto.jp/?q=%e7%94%b3%e3%81%97\"><span>申し</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8a%e3%81%92\"><span>上げ</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "お礼の申し上げ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おれいのもうしあげようもない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I cannot thank you enough.",
+          "html": "<span>I </span><strong>cannot </strong><span>thank you enough. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "cannot ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "thank you enough. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6465,
+      "position": 4,
+      "japanese": "そのニュースが彼女に大きなショックを与えた事は否定しようもない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e3%81%8c\"><span>そのニュースが</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ab\"><span>彼女に</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e3%81%8d%e3%81%aa%e3%82%b7%e3%83%a7%e3%83%83%e3%82%af%e3%82%92\"><span>大きなショックを</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8e%e3%81%88%e3%81%9f\"><span>与えた</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%8b%e3%81%af\"><span>事は</span></a><a href=\"https://takoboto.jp/?q=%e5%90%a6%e5%ae%9a%e3%81%97\"><span>否定し</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "そのニュースが彼女に大きなショックを与えた事は否定し",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのニュースがかのじょにおおきなショックをあたえたことはひていしようもない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It is not to be denied but that the news was a great shock to her.",
+          "html": "<span>It is not to be denied but that the news was a great shock to her. </span>",
+          "segments": [
+            {
+              "text": "It is not to be denied but that the news was a great shock to her. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6466,
+      "position": 5,
+      "japanese": "どこに行ってもどうしようもないという感じになっていますね。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%a9%e3%81%93%e3%81%ab\"><span>どこに</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%a6%e3%82%82%e3%81%a9%e3%81%86%e3%81%97\"><span>行ってもどうし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%86\"><span>という</span></a><a href=\"https://takoboto.jp/?q=%e6%84%9f%e3%81%98%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%81%ad%e3%80%82\"><span>感じになっていますね。</span></a>",
+      "segments": [
+        {
+          "text": "どこに行ってもどうし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "という感じになっていますね。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "どこにいってもどうしようもないというかんじになっていますね。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "There is an air of resignation everywhere.",
+          "html": "<span>There is an air of resignation everywhere. </span>",
+          "segments": [
+            {
+              "text": "There is an air of resignation everywhere. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6467,
+      "position": 6,
+      "japanese": "君って本当にどうしようもないね。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%a3%e3%81%a6\"><span>君って</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ab%e3%81%a9%e3%81%86%e3%81%97\"><span>本当にどうし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ad%e3%80%82\"><span>ね。</span></a>",
+      "segments": [
+        {
+          "text": "君って本当にどうし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ね。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きみってほんとうにどうしようもないね。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You really are hopeless.",
+          "html": "<span>You really are hopeless. </span>",
+          "segments": [
+            {
+              "text": "You really are hopeless. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6468,
+      "position": 7,
+      "japanese": "君はそれをもっと早くやるべきだったのに。今となってはどうしようもない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%af%e3%81%9d%e3%82%8c%e3%82%92%e3%82%82%e3%81%a3%e3%81%a8\"><span>君はそれをもっと</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a9%e3%81%8f%e3%82%84%e3%82%8b%e3%81%b9%e3%81%8d%e3%81%a0%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%ab%e3%80%82\"><span>早くやるべきだったのに。</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%af%e3%81%a9%e3%81%86%e3%81%97\"><span>今となってはどうし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "君はそれをもっと早くやるべきだったのに。今となってはどうし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きみはそれをもっとはやくやるべきだったのに。いまとなってはどうしようもない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You should have done it earlier. It cannot be helped now.",
+          "html": "<span>You should have done it earlier. It cannot be helped now. </span>",
+          "segments": [
+            {
+              "text": "You should have done it earlier. It cannot be helped now. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6469,
+      "position": 8,
+      "japanese": "私としてはどうしようもない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%a8%e3%81%97%e3%81%a6%e3%81%af%e3%81%a9%e3%81%86%e3%81%97\"><span>私としてはどうし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "私としてはどうし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしとしてはどうしようもない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I can't help it.",
+          "html": "<span>I can't help it. </span>",
+          "segments": [
+            {
+              "text": "I can't help it. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6470,
+      "position": 9,
+      "japanese": "親がいないとどうしようもないほど悪さをする子供たちもいるものだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%a6%aa%e3%81%8c%e3%81%84%e3%81%aa%e3%81%84%e3%81%a8%e3%81%a9%e3%81%86%e3%81%97\"><span>親がいないとどうし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%a9\"><span>ほど</span></a><a href=\"https://takoboto.jp/?q=%e6%82%aa%e3%81%95%e3%82%92%e3%81%99%e3%82%8b\"><span>悪さをする</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%9f%e3%81%a1%e3%82%82%e3%81%84%e3%82%8b%e3%82%82%e3%81%ae%e3%81%a0%e3%80%82\"><span>子供たちもいるものだ。</span></a>",
+      "segments": [
+        {
+          "text": "親がいないとどうし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ほど悪さをする子供たちもいるものだ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おやがいないとどうしようもないほどわるさをするこどもたちもいるものだ。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Some children are as bad as they can be while their parents are gone.",
+          "html": "<span>Some children are as bad as they can be while their parents are gone. </span>",
+          "segments": [
+            {
+              "text": "Some children are as bad as they can be while their parents are gone. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6471,
+      "position": 10,
+      "japanese": "彼が怠け者なのは私にはどうしようもない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c\"><span>彼が</span></a><a href=\"https://takoboto.jp/?q=%e6%80%a0%e3%81%91\"><span>怠け</span></a><a href=\"https://takoboto.jp/?q=%e8%80%85%e3%81%aa%e3%81%ae%e3%81%af\"><span>者なのは</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ab%e3%81%af%e3%81%a9%e3%81%86%e3%81%97\"><span>私にはどうし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "彼が怠け者なのは私にはどうし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれがなまけものなのはわたしにはどうしようもない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I cannot help his being lazy.",
+          "html": "<span>I cannot help his being lazy. </span>",
+          "segments": [
+            {
+              "text": "I cannot help his being lazy. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6472,
+      "position": 11,
+      "japanese": "彼の作品はたとえようもないほど素晴らしい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae\"><span>彼の</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%9c%e5%93%81%e3%81%af%e3%81%9f%e3%81%a8%e3%81%88\"><span>作品はたとえ</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%a9\"><span>ほど</span></a><a href=\"https://takoboto.jp/?q=%e7%b4%a0%e6%99%b4%e3%82%89%e3%81%97%e3%81%84%e3%80%82\"><span>素晴らしい。</span></a>",
+      "segments": [
+        {
+          "text": "彼の作品はたとえ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ほど素晴らしい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれのさくひんはたとえようもないほどすばらしい。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "His work is beyond comparison.",
+          "html": "<span>His work is beyond comparison. </span>",
+          "segments": [
+            {
+              "text": "His work is beyond comparison. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6473,
+      "position": 12,
+      "japanese": "彼女の美しさはたとえようもない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae\"><span>彼女の</span></a><a href=\"https://takoboto.jp/?q=%e7%be%8e%e3%81%97%e3%81%95%e3%81%af%e3%81%9f%e3%81%a8%e3%81%88\"><span>美しさはたとえ</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "彼女の美しさはたとえ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょのうつくしさはたとえようもない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Her beauty is incomparable.",
+          "html": "<span>Her beauty is incomparable. </span>",
+          "segments": [
+            {
+              "text": "Her beauty is incomparable. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6474,
+      "position": 13,
+      "japanese": "分かってるんだけど、どうしようもないのよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%81%a3%e3%81%a6%e3%82%8b%e3%82%93%e3%81%a0%e3%81%91%e3%81%a9%e3%80%81%e3%81%a9%e3%81%86%e3%81%97\"><span>分かってるんだけど、どうし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%82%88%e3%80%82\"><span>のよ。</span></a>",
+      "segments": [
+        {
+          "text": "分かってるんだけど、どうし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のよ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わかってるんだけど、どうしようもないのよ。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I know but I can't help it. [F]",
+          "html": "<span>I know but I can't help it. [F] </span>",
+          "segments": [
+            {
+              "text": "I know but I can't help it. [F] ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6475,
+      "position": 14,
+      "japanese": "万事休すだ。もうどうしようもない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%b8%87%e4%ba%8b%e4%bc%91%e3%81%99%e3%81%a0%e3%80%82%e3%82%82%e3%81%86%e3%81%a9%e3%81%86%e3%81%97\"><span>万事休すだ。もうどうし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84\"><strong>ようもない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "万事休すだ。もうどうし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようもない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ばんじきゅうすだ。もうどうしようもない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It is all over with me. It can't be helped.",
+          "html": "<span>It is all over with me. It can't be helped. </span>",
+          "segments": [
+            {
+              "text": "It is all over with me. It can't be helped. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6719,
+      "position": 15,
+      "japanese": "ゴミがこれほど散らかっていたら、一人で全部集めようもない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%b4%e3%83%9f%e3%81%8c%e3%81%93%e3%82%8c%e3%81%bb%e3%81%a9\"><span>ゴミがこれほど</span></a><a href=\"https://takoboto.jp/?q=%e6%95%a3%e3%82%89%e3%81%8b%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e3%82%89%e3%80%81\"><span>散らかっていたら、</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e4%ba%ba%e3%81%a7\"><span>一人で</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a8%e9%83%a8\"><span>全部</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%86%e3%82%81%e3%82%88%e3%81%86\"><span>集めよう</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%aa%e3%81%84\"><strong>もない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "ゴミがこれほど散らかっていたら、一人で全部集めよう",
+          "grammar_highlight": false
+        },
+        {
+          "text": "もない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ゴミがこれほどちらかっていたら、いちにんでぜんぶあつめようもない。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If the garbage is so much scattered, there is no way to collect it all alone.",
+          "html": "<span>If the garbage is so much scattered, </span><strong>there is no way </strong><span>to collect it </span><span>all alone. </span>",
+          "segments": [
+            {
+              "text": "If the garbage is so much scattered, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "there is no way ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "to collect it all alone. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6720,
+      "position": 16,
+      "japanese": "潰れたら熱く語ろうもない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%bd%b0%e3%82%8c%e3%81%9f%e3%82%89\"><span>潰れたら</span></a><a href=\"https://takoboto.jp/?q=%e7%86%b1%e3%81%8f\"><span>熱く</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%9e%e3%82%8d%e3%81%86\"><span>語ろう</span></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%aa%e3%81%84\"><strong>もない</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "潰れたら熱く語ろう",
+          "grammar_highlight": false
+        },
+        {
+          "text": "もない",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "つぶれたらあつくかたろうもない。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If you are smashed you can't tell it just after the strike.",
+          "html": "<span>If you are smashed </span><strong>you can't </strong><span>tell it </span><span>just after the strike. </span>",
+          "segments": [
+            {
+              "text": "If you are smashed ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "you can't ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "tell it just after the strike. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "どうしようが(も)ない＝できない // する方法がない",
+      "html": "どうしようが(も)ない＝できない // する方法がない",
+      "credits_raw": "Ludi",
+      "content_sha256": "b9e0f394ef31e5e64eaceb5a8ccdb7dc2b383b08c4e1fd8730df311c110fd57c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "I dont understand 垂ｵ (could be 申し) in ex #6464.\nI wonder if this grammar is about\nVerb in ます form (without ます)+ ようもない like in ex #5917, or\nVerb in volutive form (意向形)+もない like ex #6720.",
+      "html": "I dont understand 垂ｵ (could be 申し) in ex #6464.<br/>I wonder if this grammar is about<br/>Verb in ます form (without ます)+ ようもない like in ex #5917, or<br/>Verb in volutive form (意向形)+もない like ex #6720.",
+      "credits_raw": "赤毛",
+      "content_sha256": "d4e4464d809a016dea32177ccaa35a74a0d34f3b496be0ac62d0a44254739343",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 312,
+      "label": "〜ようがない",
+      "source_url": "https://takoboto.jp/bunpo/312"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:41:14+00:00",
+  "response_sha256": "52ab4da60043e667cd19324bf923ee052ce5def9f307e370127a05575641ecf4",
+  "warnings": []
+}

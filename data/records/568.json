@@ -1,0 +1,853 @@
+{
+  "schema_version": 2,
+  "id": 568,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/568/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜だ",
+  "romanized_label": "da",
+  "alternate_forms": [],
+  "jlpt_level": 4,
+  "credits_raw": "Amatuka, Sabino",
+  "meaning": "The 'copula' : expresses conditions. X is Y.",
+  "meaning_example": "I'm English.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_568",
+      "body_text": "The 'copula' : expresses conditions. X is Y. \n I'm English.",
+      "body_html": "<span>The 'copula' : expresses conditions. X is Y.</span> <br/> <span>I'm English.</span>",
+      "credits_raw": "Amatuka, Sabino"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_568",
+      "body_text": "Sentence+だ",
+      "body_html": "<div><div><div>Sentence</div></div><div><div>+</div><div>だ</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Sentence + だ"
+  ],
+  "examples": [
+    {
+      "source_id": 616,
+      "position": 0,
+      "japanese": "犬だ！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%8a%ac\"><span>犬</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0\"><strong>だ</strong></a><a href=\"https://takoboto.jp/?q=%ef%bc%81\"><span>！</span></a>",
+      "segments": [
+        {
+          "text": "犬",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いぬだ！",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It's a dog!",
+          "html": "<strong>It's </strong><span>a dog! </span>",
+          "segments": [
+            {
+              "text": "It's ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a dog! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 618,
+      "position": 1,
+      "japanese": "イギリス人です。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%a4%e3%82%ae%e3%83%aa%e3%82%b9%e4%ba%ba\"><span>イギリス人</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99\"><strong>です</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "イギリス人",
+          "grammar_highlight": false
+        },
+        {
+          "text": "です",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "イギリスじんです。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I am  English.",
+          "html": "<span>I </span><strong>am </strong><span> English. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "am ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " English. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 622,
+      "position": 2,
+      "japanese": "それはなんですか",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af\"><span>それは</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%82%93\"><span>なん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99\"><strong>です</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8b+\"><span>か </span></a>",
+      "segments": [
+        {
+          "text": "それはなん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "です",
+          "grammar_highlight": true
+        },
+        {
+          "text": "か ",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "それはなんですか",
+      "credits_raw": "Amatuka, Vanilla",
+      "translations": [
+        {
+          "language": "en",
+          "text": "What is that?",
+          "html": "<span>What </span><strong>is </strong><span>that? </span>",
+          "segments": [
+            {
+              "text": "What ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "is ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "that? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 624,
+      "position": 3,
+      "japanese": "あの人は誰でしたか。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae\"><span>あの</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%af\"><span>人は</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%b0\"><span>誰</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%97%e3%81%9f\"><strong>でした</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%80%82+\"><span>か。 </span></a>",
+      "segments": [
+        {
+          "text": "あの人は誰",
+          "grammar_highlight": false
+        },
+        {
+          "text": "でした",
+          "grammar_highlight": true
+        },
+        {
+          "text": "か。 ",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あのひとはだれでしたか。",
+      "credits_raw": "Amatuka, Vanilla",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Who was that person?",
+          "html": "<span>Who </span><strong>was </strong><span>that person? </span>",
+          "segments": [
+            {
+              "text": "Who ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "was ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "that person? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 626,
+      "position": 4,
+      "japanese": "田中さんではありませんでした。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%94%b0%e4%b8%ad%e3%81%95%e3%82%93\"><span>田中さん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%81%a7%e3%81%97%e3%81%9f\"><strong>ではありませんでした</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "田中さん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ではありませんでした",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "たなかさんではありませんでした。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "(That) wasn't Mr Tanaka.",
+          "html": "<span>(That) </span><strong>wasn't </strong><span>Mr Tanaka. </span>",
+          "segments": [
+            {
+              "text": "(That) ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "wasn't ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "Mr Tanaka. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 628,
+      "position": 5,
+      "japanese": "猫だった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%8c%ab\"><span>猫</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0%e3%81%a3%e3%81%9f\"><strong>だった</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "猫",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だった",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ねこだった。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "(That) was a cat.",
+          "html": "<span>(That) </span><strong>was </strong><span>a cat. </span>",
+          "segments": [
+            {
+              "text": "(That) ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "was ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a cat. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 629,
+      "position": 6,
+      "japanese": "犬じゃない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%8a%ac\"><span>犬</span></a><a href=\"https://takoboto.jp/?q=%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%80%82\"><strong>じゃない。</strong></a>",
+      "segments": [
+        {
+          "text": "犬",
+          "grammar_highlight": false
+        },
+        {
+          "text": "じゃない。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "いぬじゃない。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "(That) is not a dog.",
+          "html": "<span>(That) </span><strong>is not </strong><span>a dog. </span>",
+          "segments": [
+            {
+              "text": "(That) ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "is not ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a dog. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 630,
+      "position": 7,
+      "japanese": "きつねじゃなかった？",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8d%e3%81%a4%e3%81%ad\"><span>きつね</span></a><a href=\"https://takoboto.jp/?q=%e3%81%98%e3%82%83%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f\"><strong>じゃなかった</strong></a><a href=\"https://takoboto.jp/?q=%ef%bc%9f\"><span>？</span></a>",
+      "segments": [
+        {
+          "text": "きつね",
+          "grammar_highlight": false
+        },
+        {
+          "text": "じゃなかった",
+          "grammar_highlight": true
+        },
+        {
+          "text": "？",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きつねじゃなかった？",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Wasn't it a fox?",
+          "html": "<strong>Wasn't it </strong><span>a fox? </span>",
+          "segments": [
+            {
+              "text": "Wasn't it ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a fox? ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 764,
+      "position": 8,
+      "japanese": "まだプロじゃないです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%be%e3%81%a0\"><span>まだ</span></a><a href=\"https://takoboto.jp/?q=%e3%83%97%e3%83%ad\"><span>プロ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%a7%e3%81%99\"><strong>じゃないです</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "まだプロ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "じゃないです",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "まだプロじゃないです。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I'm not a Pro yet.",
+          "html": "<span>I'm </span><strong>not </strong><span>a Pro yet. </span>",
+          "segments": [
+            {
+              "text": "I'm ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "not ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "a Pro yet. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 879,
+      "position": 9,
+      "japanese": "イギリス人でロンドンに住んでいます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%a4%e3%82%ae%e3%83%aa%e3%82%b9%e4%ba%ba\"><span>イギリス人</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a7\"><strong>で</strong></a><a href=\"https://takoboto.jp/?q=%e3%83%ad%e3%83%b3%e3%83%89%e3%83%b3%e3%81%ab%e4%bd%8f%e3%82%93%e3%81%a7%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>ロンドンに住んでいます。</span></a>",
+      "segments": [
+        {
+          "text": "イギリス人",
+          "grammar_highlight": false
+        },
+        {
+          "text": "で",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ロンドンに住んでいます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "イギリスじんでロンドンにすんでいます。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "(I'm) English and  live in London.",
+          "html": "<span>(I'm) English </span><strong>and </strong><span> live in London. </span>",
+          "segments": [
+            {
+              "text": "(I'm) English ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "and ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " live in London. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5524,
+      "position": 10,
+      "japanese": "田中さんがこの問題は難しすぎるだと言った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%94%b0%e4%b8%ad%e3%81%95%e3%82%93%e3%81%8c%e3%81%93%e3%81%ae\"><span>田中さんがこの</span></a><a href=\"https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%af\"><span>問題は</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a3%e3%81%97%e3%81%99%e3%81%8e%e3%82%8b\"><span>難しすぎる</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0\"><strong>だ</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8\"><span>と</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f%e3%80%82\"><span>言った。</span></a>",
+      "segments": [
+        {
+          "text": "田中さんがこの問題は難しすぎる",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "と言った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "たなかさんがこのもんだいはむずかしすぎるだといった。",
+      "credits_raw": "Nightroad",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Mr. Tanaka said, \"this problem is too difficult.\"",
+          "html": "<span>Mr. Tanaka said, \"this problem </span><strong>is </strong><span>too difficult.\" </span>",
+          "segments": [
+            {
+              "text": "Mr. Tanaka said, \"this problem ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "is ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "too difficult.\" ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8648,
+      "position": 11,
+      "japanese": "この本は新しいだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e3%81%af\"><span>本は</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84\"><span>新しい</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0\"><strong>だ</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "この本は新しい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このほんはあたらしいだ。",
+      "credits_raw": "Sakuratree",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This book is new.",
+          "html": "<span>This book is new. </span>",
+          "segments": [
+            {
+              "text": "This book is new. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8796,
+      "position": 12,
+      "japanese": "俺のだよ！",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bf%ba%e3%81%ae\"><span>俺の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a0\"><strong>だ</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%88%ef%bc%81\"><span>よ！</span></a>",
+      "segments": [
+        {
+          "text": "俺の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "だ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "よ！",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おれのだよ！",
+      "credits_raw": "貴博",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It is  mine!",
+          "html": "<span>It </span><strong>is </strong><span> mine! </span>",
+          "segments": [
+            {
+              "text": "It ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "is ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " mine! ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "da is just like desu but is the casual form and it is used by children.",
+      "html": "da is just like desu but is the casual form and it is used by children.",
+      "credits_raw": "Sakuratree",
+      "content_sha256": "70573487d05142afa437a0c505f00cf8a9b7de3cee2bb662b1242cd213b6491c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "I would recommend asking around among Japanese. 寒いでした is not used by native speakers - even young ones, though しないです is.",
+      "html": "I would recommend asking around among Japanese. 寒いでした is not used by native speakers - even young ones, though しないです is.",
+      "credits_raw": "Eeker",
+      "content_sha256": "c81b8fdced885437194bd83cad0d43c7890411a62e74598689b7741c41055379",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "寒かったでした is awkward becase 寒かった already talks about past and adding でした which also indicate something of past is redundant. 寒かったです would be proper.",
+      "html": "寒かったでした is awkward becase 寒かった already talks about past and adding でした which also indicate something of past is redundant. 寒かったです would be proper.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "091c76f370fa706d27b4d78049568aa4574b7c663ad5cb1d7109cb51c9994b6c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "bamboo4 you are right. 寒かったです。is proper.",
+      "html": "bamboo4 you are right. 寒かったです。is proper.",
+      "credits_raw": "anon",
+      "content_sha256": "26b6cea889fd9f3e26db55e4dac2b6845258ac8540cc039885b4ee4824a62f3c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Right - 寒かったでした is not used by native speakers, but not just because of a redundancy in the expression of the past tense. It is because when you have an い-adjective, you do not conjugate the past tense into the です, you conjugate it into the adjective. Note that I was referring to 寒いでした (the example the author wrote in to this page), not 寒かったでした, but because of what I stated, both are non-native utterances (\"wrong\").",
+      "html": "Right - 寒かったでした is not used by native speakers, but not just because of a redundancy in the expression of the past tense. It is because when you have an い-adjective, you do not conjugate the past tense into the です, you conjugate it into the adjective. Note that I was referring to 寒いでした (the example the author wrote in to this page), not 寒かったでした, but because of what I stated, both are non-native utterances (\"wrong\").",
+      "credits_raw": "Eeker",
+      "content_sha256": "18ea732503f5f023531184f29cc9c3d6cc7912d123d3d122faea361cc6472473",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "sorry, I am a native speaker.^^;",
+      "html": "sorry, I am a native speaker.^^;",
+      "credits_raw": "anon",
+      "content_sha256": "ca68d5fe368d74d533b2b17486ae8ce2cc93fc590d7a67694ef479ab076b0d45",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "Sorry, I am also a native speaker.",
+      "html": "Sorry, I am also a native speaker.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "a9c9a573655f91ace68aae4f55d18bf7a98f31ff86cc5122042422b626a20518",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "Note that the Xは of XはYです is very often omitted if it is known from context.",
+      "html": "Note that the Xは of XはYです is very often omitted if it is known from context.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "14e477e83c03e9faca9f05b768c0a40a279e57d8155c3f2f5bc6a4148e9a5dca",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "An interesting Japanese page on です can be found \nhere.",
+      "html": "An interesting Japanese page on です can be found <br/>here.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "dad54982e86bd11398343521dc5874c239d83b546b42b6257377a5e69845fe87",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "寒いでした is awkward for me. Is it because I am not young enough? :( 寒かったでした。is more natural.",
+      "html": "寒いでした is awkward for me. Is it because I am not young enough? :( 寒かったでした。is more natural.",
+      "credits_raw": "Miki",
+      "content_sha256": "bf3c9ed0e2cbf19f8b5c4dd199ff2eae89f9ab1b1345220283ae26b3262593ee",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "'犬だ' is something a young kid might say on seeing a dog.",
+      "html": "'犬だ' is something a young kid might say on seeing a dog.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "48864c5c661d5f1f86b2accabe439c9b2cd639c326a2e21c5a26f65d8d8eeaac",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "Note the particle は is _said_ 'wa' but (depending on romaji system used) may be written 'ha'.\nThe kana わ on the other hand is always said and written 'wa'.",
+      "html": "Note the particle は is _said_ 'wa' but (depending on romaji system used) may be written 'ha'.<br/>The kana わ on the other hand is always said and written 'wa'.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "2d4ce5be77c5dd614cd2e1ac1735b8ea10cf30bf2995f693a93e8e8de50dfde9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "So we know that は should be read wa, but somehow no one changes this page to reflect this. I wonder why.",
+      "html": "So we know that は should be read wa, but somehow no one changes this page to reflect this. I wonder why.",
+      "credits_raw": "Mitokomun",
+      "content_sha256": "c0708e671f9e4a027d85dcf105dfb2775e9bdcea97891ce95a35bab6ea843087",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "I always found this \"tense\" for adjectives confusing. guess we dont have a past tense of \"cold\" in english. colded?\n\nNG:　寒い　でした : cold , it was \nOK: 寒かった です: colded , it is",
+      "html": "I always found this \"tense\" for adjectives confusing. guess we dont have a past tense of \"cold\" in english. colded?<br/><br/>NG:　寒い　でした : cold , it was <br/>OK: 寒かった です: colded , it is",
+      "credits_raw": "dc",
+      "content_sha256": "32e112aac4610e2f70694edcbb70166345b2d7c1722ca725d11e87ceb440fe1c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "Mitokomun, romanized japanese textbooks that I have seen always write は as \"ha\" even when they know it should be pronounced \"wa\". \nTo make it even more confusing, there are occasions where it is pronounced \"wa\" too...\nMaybe someone else can explain why this is, but we are sticking to the standard romanization method. I guess I got used to it but it really threw me at first.\ncheck the [ha] page for more.",
+      "html": "Mitokomun, romanized japanese textbooks that I have seen always write は as \"ha\" even when they know it should be pronounced \"wa\". <br/>To make it even more confusing, there are occasions where it is pronounced \"wa\" too...<br/>Maybe someone else can explain why this is, but we are sticking to the standard romanization method. I guess I got used to it but it really threw me at first.<br/>check the [ha] page for more.",
+      "credits_raw": "dc",
+      "content_sha256": "1172b8524ab761d50e4c69bb0797ae84e9a044afd97b8b9d2b44ef8e707df95f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 15,
+      "source_id": null,
+      "text": "寒い　でした is incorrect. \n寒かった is ok.\n寒かった　です is politer because of the word です which expresses the standard polite form.\n\n犬だ is ok, all Japs say that. And if you change だ into です, it shows your politeness",
+      "html": "寒い　でした is incorrect. <br/>寒かった is ok.<br/>寒かった　です is politer because of the word です which expresses the standard polite form.<br/><br/>犬だ is ok, all Japs say that. And if you change だ into です, it shows your politeness",
+      "credits_raw": "Unnamed",
+      "content_sha256": "e453510c750eba9658703c615e4f841d903972cf019dbcc66b45c2b797ef0a18",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 16,
+      "source_id": null,
+      "text": "For understanding the logic behind the copula transformations across tenses, affirmative/negative form etc... it helps to fall back to a vision of だ as the contraction of the canonic (formal) form である.\n\ncanonic contraction\nである　　　　　だ\nであります　　　です\nであった　　　　だった\nでありました　　でした\nであろう　　　　だろう\nでありましょう　でしょう\n\nYou can then mostly rebuild the whole conjugation table by combining that with the following:\n- は is (generally) appended to で for the negative form: では, contracted to じゃ in less formal situations\n- conjugation of ある: negative plain form of 5段 verb ある is い-adjective ない, polite form of 5段 verb ある is irregular verb ござる\n- standard understanding of 5段 verb and い-adjective conjugations",
+      "html": "For understanding the logic behind the copula transformations across tenses, affirmative/negative form etc... it helps to fall back to a vision of だ as the contraction of the canonic (formal) form である.<br/><br/>canonic contraction<br/>である　　　　　だ<br/>であります　　　です<br/>であった　　　　だった<br/>でありました　　でした<br/>であろう　　　　だろう<br/>でありましょう　でしょう<br/><br/>You can then mostly rebuild the whole conjugation table by combining that with the following:<br/>- は is (generally) appended to で for the negative form: では, contracted to じゃ in less formal situations<br/>- conjugation of ある: negative plain form of 5段 verb ある is い-adjective ない, polite form of 5段 verb ある is irregular verb ござる<br/>- standard understanding of 5段 verb and い-adjective conjugations",
+      "credits_raw": "Max",
+      "content_sha256": "63882c9f37b3b88d222b3ef3651c940de2094624420ed37195ceb59205f0a40e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 17,
+      "source_id": null,
+      "text": "In the example #879 the romanized イギリス人 should be igirisujin. Also, if 住んで is the -te form of sumu, what does the form 住んでます do? I always see 住んでいます.",
+      "html": "In the example #879 the romanized イギリス人 should be igirisujin. Also, if 住んで is the -te form of sumu, what does the form 住んでます do? I always see 住んでいます.",
+      "credits_raw": "balrog-kun",
+      "content_sha256": "7e103222816c0458ca1cbbb05f839d2d1e2804f5b3c9b3bbf3d82530f5ebe48f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 18,
+      "source_id": null,
+      "text": "そのex #5524 はちゃう。「田中さんがこの問題は難しすぎるだと言った。」ってゆうより「田中さんがこの問題は難しすぎるって言った」ってゆった方がええやろ。",
+      "html": "そのex #5524 はちゃう。「田中さんがこの問題は難しすぎるだと言った。」ってゆうより「田中さんがこの問題は難しすぎるって言った」ってゆった方がええやろ。",
+      "credits_raw": "フリザ",
+      "content_sha256": "4e4a8f1f146b46da8e2d6bd4bbabbcd9cd82278a148606854d4f51e66cc58ad7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 19,
+      "source_id": null,
+      "text": "So, all conjugations of the copula are derived from contractions of である and ではある (for negative tenses). In the negative present and past possible tenses, the conjugations are ないでしょう and なかったでしょう. Why can't they also become ではないでしょう and ではなかったでしょう? Also, why can't the plain past and negative possible tenses be contracted from ではないだろう and ではなかっただろう to じゃないだろう and じゃなかっただろう?",
+      "html": "So, all conjugations of the copula are derived from contractions of である and ではある (for negative tenses). In the negative present and past possible tenses, the conjugations are ないでしょう and なかったでしょう. Why can't they also become ではないでしょう and ではなかったでしょう? Also, why can't the plain past and negative possible tenses be contracted from ではないだろう and ではなかっただろう to じゃないだろう and じゃなかっただろう?",
+      "credits_raw": "karamu san",
+      "content_sha256": "362f2c89aa52e7d0386130694b2caec7e1be03c3eb48074f44a9099bcca5ce14",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 20,
+      "source_id": null,
+      "text": "Re Mitokomun and dc's comments on は/wa/ha: \nI just checked about 20 text books/dictionaries. Without exception they all romanize the particle は as \"wa\". The only place I have ever come across the particle は written \"ha\" is on the Internet. I presume this is due to cases where computers have done automatic transcriptions of hiragana to romaji without regard for the grammatical context.",
+      "html": "Re Mitokomun and dc's comments on は/wa/ha: <br/>I just checked about 20 text books/dictionaries. Without exception they all romanize the particle は as \"wa\". The only place I have ever come across the particle は written \"ha\" is on the Internet. I presume this is due to cases where computers have done automatic transcriptions of hiragana to romaji without regard for the grammatical context.",
+      "credits_raw": "Sumofan",
+      "content_sha256": "0a5dfefa72b0c1b869c51c97dfafca742dc7db3fd549ede32cee410e6a5fcbe5",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 21,
+      "source_id": null,
+      "text": "balrog-kun is right about example #879. イギリス人 should be romanized as igirisujin and not igirujin.",
+      "html": "balrog-kun is right about example #879. イギリス人 should be romanized as igirisujin and not igirujin.",
+      "credits_raw": "lstep",
+      "content_sha256": "2689bdbca156421aba57f730d6f4f59f9717755e795bb47b4d97ce847f904723",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 22,
+      "source_id": null,
+      "text": "In example 626, can you/should you write 田中さんはいませんでした。since we are referring to an animate subject?",
+      "html": "In example 626, can you/should you write 田中さんはいませんでした。since we are referring to an animate subject?",
+      "credits_raw": "larainda",
+      "content_sha256": "352553345cae5b213fc4c389f710326c484b3178af76534154b4b51da40bf0ac",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 733,
+      "label": "である",
+      "source_url": "https://takoboto.jp/bunpo/733"
+    },
+    {
+      "target_id": 753,
+      "label": "〜は",
+      "source_url": "https://takoboto.jp/bunpo/753"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:32:16+00:00",
+  "response_sha256": "e1efd7aef504ea9fb9a491694372de01b8c0c2370bca1de074cb479eaa45e239",
+  "warnings": []
+}

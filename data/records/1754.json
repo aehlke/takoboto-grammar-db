@@ -1,0 +1,289 @@
+{
+  "schema_version": 2,
+  "id": 1754,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1754/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "ようにも〜ない",
+  "romanized_label": "younimonai",
+  "alternate_forms": [],
+  "jlpt_level": 1,
+  "credits_raw": "LR",
+  "meaning": "even though ~ try / want to ~; although ~ be thinking of doing; A conjunctive phrase that indicates concession: \"even though s.o. tries to do s.t., he/she cannot do it for some reason\"",
+  "meaning_example": "I have a terrible headache, and I cannot get up even though I want to",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "しようとしてもできない; したいのにできない",
+      "html": "しようとしてもできない; したいのにできない"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1754",
+      "body_text": "even though ~ try / want to ~; although ~ be thinking of doing; A conjunctive phrase that indicates concession: \"even though s.o. tries to do s.t., he/she cannot do it for some reason\" \n I have a terrible headache, and I cannot get up even though I want to \n しようとしてもできない; したいのにできない",
+      "body_html": "<span>even though ~ try / want to ~; although ~ be thinking of doing; A conjunctive phrase that indicates concession: \"even though s.o. tries to do s.t., he/she cannot do it for some reason\"</span> <br/> <span>I have a terrible headache, and I cannot get up even though I want to</span> <br/> <span>しようとしてもできない; したいのにできない</span>",
+      "credits_raw": "LR"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 7980,
+      "position": 0,
+      "japanese": "頭が痛くて、起きようにも起きられなかった",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%a0%ad%e3%81%8c\"><span>頭が</span></a><a href=\"https://takoboto.jp/?q=%e7%97%9b%e3%81%8f%e3%81%a6%e3%80%81\"><span>痛くて、</span></a><a href=\"https://takoboto.jp/?q=%e8%b5%b7%e3%81%8d\"><span>起き</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%ab%e3%82%82\"><strong>ようにも</strong></a><a href=\"https://takoboto.jp/?q=%e8%b5%b7%e3%81%8d%e3%82%89%e3%82%8c\"><span>起きられ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f\"><strong>なかった</strong></a>",
+      "segments": [
+        {
+          "text": "頭が痛くて、起き",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようにも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "起きられ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "なかった",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "あたまがいたくて、おきようにもおきられなかった",
+      "credits_raw": "LR",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I have a terrible headache, and I cannot get up even though I want to",
+          "html": "<span>I have a terrible headache, and I cannot get up </span><strong>even though I want to </strong>",
+          "segments": [
+            {
+              "text": "I have a terrible headache, and I cannot get up ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "even though I want to ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7981,
+      "position": 1,
+      "japanese": "新しいパソコンを買おうにも、お金がなくて買えない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%82%92\"><span>新しいパソコンを</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%b7%e3%81%8a\"><span>買お</span></a><a href=\"https://takoboto.jp/?q=%e3%81%86%e3%81%ab%e3%82%82\"><strong>うにも</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%8a\"><span>、お</span></a><a href=\"https://takoboto.jp/?q=%e9%87%91%e3%81%8c%e3%81%aa%e3%81%8f%e3%81%a6\"><span>金がなくて</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%b7%e3%81%88\"><span>買え</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%80%82\"><strong>ない。</strong></a>",
+      "segments": [
+        {
+          "text": "新しいパソコンを買お",
+          "grammar_highlight": false
+        },
+        {
+          "text": "うにも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、お金がなくて買え",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ない。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "あたらしいパソコンをかおうにも、おかねがなくてかえない。",
+      "credits_raw": "LR",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even though I want to buy a new computer, I don't have the money so I can't.",
+          "html": "<strong>Even though I want to </strong><span>buy a new computer, I don't have the money so I can't. </span>",
+          "segments": [
+            {
+              "text": "Even though I want to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "buy a new computer, I don't have the money so I can't. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7982,
+      "position": 2,
+      "japanese": "会社を辞めようにも、次の仕事が見つからない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%82%92\"><span>会社を</span></a><a href=\"https://takoboto.jp/?q=%e8%be%9e%e3%82%81\"><span>辞め</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%ab%e3%82%82\"><strong>ようにも</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e6%ac%a1%e3%81%ae\"><span>次の</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%8c\"><span>仕事が</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%81%a4%e3%81%8b%e3%82%89\"><span>見つから</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%80%82\"><strong>ない。</strong></a>",
+      "segments": [
+        {
+          "text": "会社を辞め",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ようにも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、次の仕事が見つから",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ない。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "かいしゃをやめようにも、つぎのしごとがみつからない。",
+      "credits_raw": "LR",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even though I think of quitting the company, I can't find another job so I can't.",
+          "html": "<strong>Even though I think of </strong><span>quitting the company, I can't find another job so I can't. </span>",
+          "segments": [
+            {
+              "text": "Even though I think of ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "quitting the company, I can't find another job so I can't. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7983,
+      "position": 3,
+      "japanese": "寿司を作ろうにも材料が手に入らない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%af%bf%e5%8f%b8%e3%82%92\"><span>寿司を</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%9c%e3%82%8d\"><span>作ろ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%86%e3%81%ab%e3%82%82\"><strong>うにも</strong></a><a href=\"https://takoboto.jp/?q=%e6%9d%90%e6%96%99%e3%81%8c\"><span>材料が</span></a><a href=\"https://takoboto.jp/?q=%e6%89%8b%e3%81%ab\"><span>手に</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e3%82%89\"><span>入ら</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%80%82\"><strong>ない。</strong></a>",
+      "segments": [
+        {
+          "text": "寿司を作ろ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "うにも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "材料が手に入ら",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ない。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "すしをつくろうにもざいりょうがてにはいらない。",
+      "credits_raw": "LR",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even though I want to make sushi, I cannot get the ingredients",
+          "html": "<strong>Even though I want to </strong><span>make sushi, I cannot get the ingredients </span>",
+          "segments": [
+            {
+              "text": "Even though I want to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "make sushi, I cannot get the ingredients ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7984,
+      "position": 4,
+      "japanese": "母は僕の日本人のガールフレンドと話そうにも日本語ができなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%af%8d%e3%81%af\"><span>母は</span></a><a href=\"https://takoboto.jp/?q=%e5%83%95%e3%81%ae\"><span>僕の</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e4%ba%ba%e3%81%ae%e3%82%ac%e3%83%bc%e3%83%ab%e3%83%95%e3%83%ac%e3%83%b3%e3%83%89%e3%81%a8\"><span>日本人のガールフレンドと</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1%e3%81%9d\"><span>話そ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%86%e3%81%ab%e3%82%82\"><strong>うにも</strong></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%8c%e3%81%a7%e3%81%8d\"><span>日本語ができ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82\"><strong>なかった。</strong></a>",
+      "segments": [
+        {
+          "text": "母は僕の日本人のガールフレンドと話そ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "うにも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "日本語ができ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "なかった。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "はははぼくのにほんじんのガールフレンドとはなしそうにもにほんごができなかった。",
+      "credits_raw": "LR",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even though my mother wanted to talk to my Japanese girlfriend, my mother couldn't because she can't speak Japanese.",
+          "html": "<strong>Even though </strong><span>my mother wanted to talk to my Japanese girlfriend, my mother couldn't because she can't speak Japanese. </span>",
+          "segments": [
+            {
+              "text": "Even though ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "my mother wanted to talk to my Japanese girlfriend, my mother couldn't because she can't speak Japanese. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Ref # Kanzen Master Level 1 - p52 - no.52",
+      "html": "<b>Ref #</b> Kanzen Master Level 1 - p52 - no.52",
+      "credits_raw": "LR",
+      "content_sha256": "6449f15964812c73c2e0cce0090ea6fdffb4e50486cb81218e9df7cb70d1cfa1",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Ref # A Dictionary of Advanced Japanese Grammar p730",
+      "html": "<b>Ref #</b> A Dictionary of Advanced Japanese Grammar p730",
+      "credits_raw": "LR",
+      "content_sha256": "857a9dac5c45c55a55f25c0558983d159ce54e8d7003f8ff1b8e06fb05ea1c53",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:44:30+00:00",
+  "response_sha256": "56bc6b54acdd19b1654a53b852979684ee69b15aa4e9090fcbe544911ef32b97",
+  "warnings": []
+}

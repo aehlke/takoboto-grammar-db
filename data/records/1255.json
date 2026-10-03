@@ -1,0 +1,610 @@
+{
+  "schema_version": 2,
+  "id": 1255,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1255/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "に関わる",
+  "romanized_label": "nikakawaru",
+  "alternate_forms": [
+    "にかかわる"
+  ],
+  "jlpt_level": 1,
+  "credits_raw": "dc",
+  "meaning": "Brings about an effect on; relates to; a matter of",
+  "meaning_example": "that will affect our reputation",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "〜に影響を呼ばす。〜ノブ分には大切なことや重大な内容がくることが多い。単に「〜に関係する」の意味で用いることも多い",
+      "html": "〜に影響を呼ばす。〜ノブ分には大切なことや重大な内容がくることが多い。単に「〜に関係する」の意味で用いることも多い"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1255",
+      "body_text": "Brings about an effect on; relates to; a matter of \n that will affect our reputation \n 〜に影響を呼ばす。〜ノブ分には大切なことや重大な内容がくることが多い。単に「〜に関係する」の意味で用いることも多い",
+      "body_html": "<span>Brings about an effect on; relates to; a matter of</span> <br/> <span>that will affect our reputation</span> <br/> <span>〜に影響を呼ばす。〜ノブ分には大切なことや重大な内容がくることが多い。単に「〜に関係する」の意味で用いることも多い</span>",
+      "credits_raw": "dc"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 3328,
+      "position": 0,
+      "japanese": "こういう行いは君の威信にかかわる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%86%e3%81%84%e3%81%86\"><span>こういう</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%84%e3%81%af\"><span>行いは</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%ae\"><span>君の</span></a><a href=\"https://takoboto.jp/?q=%e5%a8%81%e4%bf%a1\"><span>威信</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "こういう行いは君の威信",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こういうおこないはきみのいしんにかかわる。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Such conduct is beneath your dignity. (lit. will affect your dignity).",
+          "html": "<span>Such conduct </span><strong>is beneath </strong><span>your dignity. (lit. will </span><strong>affect </strong><span>your dignity). </span>",
+          "segments": [
+            {
+              "text": "Such conduct ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "is beneath ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "your dignity. (lit. will ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "affect ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "your dignity). ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3329,
+      "position": 1,
+      "japanese": "これは我が校の名誉にかかわる問題だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af%e6%88%91%e3%81%8c%e6%a0%a1%e3%81%ae%e5%90%8d%e8%aa%89\"><span>これは我が校の名誉</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%a0%e3%80%82\"><span>問題だ。</span></a>",
+      "segments": [
+        {
+          "text": "これは我が校の名誉",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "問題だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "これはわがこうのめいよにかかわるもんだいだ。",
+      "credits_raw": "dc, srishti",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This is the problem that will affect  the honor of our school.",
+          "html": "<span>This is the problem that will </span><strong>affect </strong><span> the honor of our school. </span>",
+          "segments": [
+            {
+              "text": "This is the problem that will ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "affect ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " the honor of our school. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3332,
+      "position": 2,
+      "japanese": "よく注意して運転しないと、命にかかわるよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%8f%e6%b3%a8%e6%84%8f%e3%81%97%e3%81%a6%e9%81%8b%e8%bb%a2%e3%81%97%e3%81%aa%e3%81%84%e3%81%a8%e3%80%81%e5%91%bd\"><span>よく注意して運転しないと、命</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%80%82\"><span>よ。</span></a>",
+      "segments": [
+        {
+          "text": "よく注意して運転しないと、命",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "よ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "よくちゅういしてうんてんしないと、いのちにかかわるよ。",
+      "credits_raw": "dc, srishti",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If you do not drive with extreme caution, you're risking  your life.",
+          "html": "<span>If you do not drive with extreme caution, </span><strong>you're risking </strong><span> your life. </span>",
+          "segments": [
+            {
+              "text": "If you do not drive with extreme caution, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "you're risking ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " your life. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3327,
+      "position": 3,
+      "japanese": "ああいう行動は君の名誉にかかわる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%82%e3%81%84%e3%81%86\"><span>ああいう</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e5%8b%95%e3%81%af\"><span>行動は</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%ae\"><span>君の</span></a><a href=\"https://takoboto.jp/?q=%e5%90%8d%e8%aa%89\"><span>名誉</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "ああいう行動は君の名誉",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ああいうこうどうはきみのめいよにかかわる。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "That kind of behaviour affects your honour.",
+          "html": "<span>That kind of behaviour affects your honour. </span>",
+          "segments": [
+            {
+              "text": "That kind of behaviour affects your honour. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3330,
+      "position": 4,
+      "japanese": "それは生死にかかわる問題だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af\"><span>それは</span></a><a href=\"https://takoboto.jp/?q=%e7%94%9f%e6%ad%bb\"><span>生死</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%a0%e3%80%82\"><span>問題だ。</span></a>",
+      "segments": [
+        {
+          "text": "それは生死",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "問題だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "それはせいしにかかわるもんだいだ。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It is a matter of life and death.",
+          "html": "<span>It is a matter of life and death. </span>",
+          "segments": [
+            {
+              "text": "It is a matter of life and death. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3333,
+      "position": 5,
+      "japanese": "酸素が不足することは大部分の動物にとって命にかかわることである。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%85%b8%e7%b4%a0%e3%81%8c\"><span>酸素が</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8d%e8%b6%b3%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af\"><span>不足することは</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e9%83%a8%e5%88%86%e3%81%ae\"><span>大部分の</span></a><a href=\"https://takoboto.jp/?q=%e5%8b%95%e7%89%a9%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><span>動物にとって</span></a><a href=\"https://takoboto.jp/?q=%e5%91%bd\"><span>命</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82\"><span>ことである。</span></a>",
+      "segments": [
+        {
+          "text": "酸素が不足することは大部分の動物にとって命",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ことである。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "さんそがふそくすることはだいぶぶんのどうぶつにとっていのちにかかわることである。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Lack of oxygen is fatal to most animals.",
+          "html": "<span>Lack of oxygen is fatal to most animals. </span>",
+          "segments": [
+            {
+              "text": "Lack of oxygen is fatal to most animals. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3334,
+      "position": 6,
+      "japanese": "私たちは狂気のテロ活動にかかわる者に寛容でいるつもりはない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%9f%e3%81%a1%e3%81%af\"><span>私たちは</span></a><a href=\"https://takoboto.jp/?q=%e7%8b%82%e6%b0%97%e3%81%ae%e3%83%86%e3%83%ad\"><span>狂気のテロ</span></a><a href=\"https://takoboto.jp/?q=%e6%b4%bb%e5%8b%95\"><span>活動</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e8%80%85%e3%81%ab\"><span>者に</span></a><a href=\"https://takoboto.jp/?q=%e5%af%9b%e5%ae%b9%e3%81%a7%e3%81%84%e3%82%8b%e3%81%a4%e3%82%82%e3%82%8a%e3%81%af%e3%81%aa%e3%81%84%e3%80%82\"><span>寛容でいるつもりはない。</span></a>",
+      "segments": [
+        {
+          "text": "私たちは狂気のテロ活動",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "者に寛容でいるつもりはない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしたちはきょうきのテロかつどうにかかわるものにかんようでいるつもりはない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "We will not tolerate anyone who engages in insane terrorism.",
+          "html": "<span>We will not tolerate anyone who engages in insane terrorism. </span>",
+          "segments": [
+            {
+              "text": "We will not tolerate anyone who engages in insane terrorism. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3335,
+      "position": 7,
+      "japanese": "製品仕様にかかわる一切の工業所有権はＡＢＣ社に帰属するものとする。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%a3%bd%e5%93%81%e4%bb%95%e6%a7%98\"><span>製品仕様</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e5%88%87%e3%81%ae\"><span>一切の</span></a><a href=\"https://takoboto.jp/?q=%e5%b7%a5%e6%a5%ad%e6%89%80%e6%9c%89%e6%a8%a9%e3%81%af\"><span>工業所有権は</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%a1%ef%bc%a2%ef%bc%a3%e7%a4%be%e3%81%ab\"><span>ＡＢＣ社に</span></a><a href=\"https://takoboto.jp/?q=%e5%b8%b0%e5%b1%9e%e3%81%99%e3%82%8b%e3%82%82%e3%81%ae%e3%81%a8%e3%81%99%e3%82%8b%e3%80%82\"><span>帰属するものとする。</span></a>",
+      "segments": [
+        {
+          "text": "製品仕様",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "一切の工業所有権はＡＢＣ社に帰属するものとする。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "せいひんしようにかかわるいっさいのこうぎょうしょゆうけんはえいびーしーしゃにきぞくするものとする。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Any industrial property rights relating to the Product Specification shall belong to ABC Inc.",
+          "html": "<span>Any industrial property rights relating to the Product Specification shall belong to ABC Inc. </span>",
+          "segments": [
+            {
+              "text": "Any industrial property rights relating to the Product Specification shall belong to ABC Inc. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3336,
+      "position": 8,
+      "japanese": "戦争は我々すべてにかかわることだ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%88%a6%e4%ba%89%e3%81%af\"><span>戦争は</span></a><a href=\"https://takoboto.jp/?q=%e6%88%91%e3%80%85%e3%81%99%e3%81%b9%e3%81%a6\"><span>我々すべて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0%e3%80%82\"><span>ことだ。</span></a>",
+      "segments": [
+        {
+          "text": "戦争は我々すべて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ことだ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "せんそうはわれわれすべてにかかわることだ。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "War concerns us all.",
+          "html": "<span>War concerns us all. </span>",
+          "segments": [
+            {
+              "text": "War concerns us all. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3337,
+      "position": 9,
+      "japanese": "名誉にかかわる問題なので、彼は怒った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%90%8d%e8%aa%89\"><span>名誉</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%aa%e3%81%ae%e3%81%a7%e3%80%81\"><span>問題なので、</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e6%80%92%e3%81%a3%e3%81%9f%e3%80%82\"><span>怒った。</span></a>",
+      "segments": [
+        {
+          "text": "名誉",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "問題なので、彼は怒った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "めいよにかかわるもんだいなので、かれはおこった。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He got angry because his honor was at stake.",
+          "html": "<span>He got angry because his honor was at stake. </span>",
+          "segments": [
+            {
+              "text": "He got angry because his honor was at stake. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3338,
+      "position": 10,
+      "japanese": "命にかかわるような病気ではありません。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%91%bd\"><span>命</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%aa\"><span>ような</span></a><a href=\"https://takoboto.jp/?q=%e7%97%85%e6%b0%97%e3%81%a7%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>病気ではありません。</span></a>",
+      "segments": [
+        {
+          "text": "命",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ような病気ではありません。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いのちにかかわるようなびょうきではありません。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The illness is not a matter of life or death.",
+          "html": "<span>The illness is not a matter of life or death. </span>",
+          "segments": [
+            {
+              "text": "The illness is not a matter of life or death. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7923,
+      "position": 11,
+      "japanese": "負ければ大国の威信にかかわるとあって、無意味な戦いが続けれた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%b2%a0%e3%81%91%e3%82%8c%e3%81%b0\"><span>負ければ</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e5%9b%bd%e3%81%ae\"><span>大国の</span></a><a href=\"https://takoboto.jp/?q=%e5%a8%81%e4%bf%a1\"><span>威信</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b\"><strong>にかかわる</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%82%e3%81%a3%e3%81%a6%e3%80%81\"><span>とあって、</span></a><a href=\"https://takoboto.jp/?q=%e7%84%a1%e6%84%8f%e5%91%b3%e3%81%aa\"><span>無意味な</span></a><a href=\"https://takoboto.jp/?q=%e6%88%a6%e3%81%84%e3%81%8c\"><span>戦いが</span></a><a href=\"https://takoboto.jp/?q=%e7%b6%9a%e3%81%91%e3%82%8c%e3%81%9f%e3%80%82\"><span>続けれた。</span></a>",
+      "segments": [
+        {
+          "text": "負ければ大国の威信",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にかかわる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "とあって、無意味な戦いが続けれた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "まければたいこくのいしんにかかわるとあって、むいみなたたかいがつづけれた。",
+      "credits_raw": "LR",
+      "translations": [
+        {
+          "language": "en",
+          "text": "If the major power lost it would affect the country's prestige, so for that reason alone, this meaningless war continued.",
+          "html": "<span>If the major power lost it would </span><strong>affect </strong><span>the country's prestige, so for that reason alone, this meaningless war continued. </span>",
+          "segments": [
+            {
+              "text": "If the major power lost it would ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "affect ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the country's prestige, so for that reason alone, this meaningless war continued. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "名詞/noun+にかかわる+名詞",
+      "html": "名詞/noun+にかかわる+名詞",
+      "credits_raw": "rochin",
+      "content_sha256": "d473d2fb8817859dde43207c48c783436e03d065d828fb7f439dbf907904927f",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Ref # Kanzen Master Level 1 - p41 - no.37",
+      "html": "<b>Ref #</b> Kanzen Master Level 1 - p41 - no.37",
+      "credits_raw": "LR",
+      "content_sha256": "82784ac0c4142b176444e29dbfda973fac9e92dcd3417c2bd1121095378f56c3",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Brings about an effect on\nthe {〜} in {〜にかかわる} is often something that is important or serious.\nHowever, there are also uses where it simply means related to",
+      "html": "Brings about an effect on<br/>the {〜} in {〜にかかわる} is often something that is important or serious.<br/>However, there are also uses where it simply means related to",
+      "credits_raw": "LR",
+      "content_sha256": "3feed94a2a75fb33e9cb8f0f1660a59011dd9459cde2593dbd324b5deed88027",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "命に関わる\nIs a set phrase \"To be a matter of life or death\"",
+      "html": "命に関わる<br/>Is a set phrase \"To be a matter of life or death\"",
+      "credits_raw": "LR",
+      "content_sha256": "ce115ae8b6f26128296418cb1aee7b205ae8daa02606567ff64eb26f8de2742d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Such important / serious things that might be affected are frequently 命 life, 威信 prestige / dignity, 名誉 honour 〜生活〜 things to do with lifestyle 〜環境 environments.",
+      "html": "Such important / serious things that might be affected are frequently 命 life, 威信 prestige / dignity, 名誉 honour 〜生活〜 things to do with lifestyle 〜環境 environments.",
+      "credits_raw": "LR",
+      "content_sha256": "01f08a247434f2c83a9edb5f6db177ed7e136e93a52363af62ac05bff33f8a70",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "is this a formal version 関係?",
+      "html": "is this a formal version 関係?",
+      "credits_raw": "dc",
+      "content_sha256": "085c20c5a4a296c86b385573351964838eeaf31eaf217d20427a6a9a136bc9bd",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "The opposite to this is にかかわらず which is ２級 grammar.",
+      "html": "The opposite to this is にかかわらず which is ２級 grammar.",
+      "credits_raw": "blabby",
+      "content_sha256": "f7d3eda81fe820dd1b5352d476bcdd4cd06716e03c5337c91c779bb3b9dc7089",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "The kanji is 関わる",
+      "html": "The kanji is 関わる",
+      "credits_raw": "Nanashi",
+      "content_sha256": "dd3f708b0d53234d915e2c79e370db90985ceab42a594a770c28a27956b2799a",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:43:00+00:00",
+  "response_sha256": "8df556e93986d68012fd7e93b68fe19ca0412c4e34bebb24197888d18e70ff1c",
+  "warnings": []
+}

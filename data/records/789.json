@@ -1,0 +1,408 @@
+{
+  "schema_version": 2,
+  "id": 789,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/789/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "より",
+  "romanized_label": "yori",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "Amatuka",
+  "meaning": "than, rather than",
+  "meaning_example": "Tokyo is larger than Kyoto.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_789",
+      "body_text": "than, rather than \n Tokyo is larger than Kyoto.",
+      "body_html": "<span>than, rather than</span> <br/> <span>Tokyo is larger than Kyoto.</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_789",
+      "body_text": "Noun+より+...Noun+は+Noun+より+...",
+      "body_html": "<div><div><div>Noun</div></div><div><div>+</div><div>より</div></div><div><div>+</div><div>...</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>は</div></div><div><div>+</div><div>Noun</div></div><div><div>+</div><div>より</div></div><div><div>+</div><div>...</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Noun + より + ...",
+    "Noun + は + Noun + より + ..."
+  ],
+  "examples": [
+    {
+      "source_id": 914,
+      "position": 0,
+      "japanese": "私は肉より魚の方がいい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af\"><span>私は</span></a><a href=\"https://takoboto.jp/?q=%e8%82%89\"><span>肉</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%82%8a\"><strong>より</strong></a><a href=\"https://takoboto.jp/?q=%e9%ad%9a%e3%81%ae\"><span>魚の</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b9%e3%81%8c\"><strong>方が</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%84%e3%80%82\"><span>いい。</span></a>",
+      "segments": [
+        {
+          "text": "私は肉",
+          "grammar_highlight": false
+        },
+        {
+          "text": "より",
+          "grammar_highlight": true
+        },
+        {
+          "text": "魚の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "方が",
+          "grammar_highlight": true
+        },
+        {
+          "text": "いい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはにくよりさかなのほうがいい。",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I prefer fish to meat.",
+          "html": "<span>I prefer fish to meat. </span>",
+          "segments": [
+            {
+              "text": "I prefer fish to meat. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1194,
+      "position": 1,
+      "japanese": "現実は聞いたよりももっと悲しい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%8f%be%e5%ae%9f%e3%81%af\"><span>現実は</span></a><a href=\"https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%9f\"><span>聞いた</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%82%8a%e3%82%82\"><strong>よりも</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%a3%e3%81%a8\"><span>もっと</span></a><a href=\"https://takoboto.jp/?q=%e6%82%b2%e3%81%97%e3%81%84%e3%80%82\"><span>悲しい。</span></a>",
+      "segments": [
+        {
+          "text": "現実は聞いた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "よりも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "もっと悲しい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "げんじつはきいたよりももっとかなしい。",
+      "credits_raw": "bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The reality is much sadder than what I have heard.",
+          "html": "<span>The reality is much sadder </span><strong>than </strong><span>what I have heard. </span>",
+          "segments": [
+            {
+              "text": "The reality is much sadder ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "than ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "what I have heard. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3149,
+      "position": 2,
+      "japanese": "これよりほかの方法がないんだよ",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%82%8c\"><span>これ</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%82%8a\"><strong>より</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%bb%e3%81%8b%e3%81%ae\"><strong>ほかの</strong></a><a href=\"https://takoboto.jp/?q=%e6%96%b9%e6%b3%95%e3%81%8c%e3%81%aa%e3%81%84%e3%82%93%e3%81%a0%e3%82%88\"><span>方法がないんだよ</span></a>",
+      "segments": [
+        {
+          "text": "これ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "よりほかの",
+          "grammar_highlight": true
+        },
+        {
+          "text": "方法がないんだよ",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "これよりほかのほうほうがないんだよ",
+      "credits_raw": "edo, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "There's really no other better  way than this.",
+          "html": "<span>There's really no other </span><strong>better </strong><span> way than this. </span>",
+          "segments": [
+            {
+              "text": "There's really no other ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "better ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " way than this. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4768,
+      "position": 3,
+      "japanese": "一般に日本人は、自分たちがかつてより暮し向きがよくなったと考えている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%b8%80%e8%88%ac%e3%81%ab\"><span>一般に</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e4%ba%ba%e3%81%af%e3%80%81\"><span>日本人は、</span></a><a href=\"https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%9f%e3%81%a1%e3%81%8c\"><span>自分たちが</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%81%a4%e3%81%a6\"><span>かつて</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%82%8a\"><strong>より</strong></a><a href=\"https://takoboto.jp/?q=%e6%9a%ae%e3%81%97\"><span>暮し</span></a><a href=\"https://takoboto.jp/?q=%e5%90%91%e3%81%8d%e3%81%8c%e3%82%88%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%81%a8\"><span>向きがよくなったと</span></a><a href=\"https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>考えている。</span></a>",
+      "segments": [
+        {
+          "text": "一般に日本人は、自分たちがかつて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "より",
+          "grammar_highlight": true
+        },
+        {
+          "text": "暮し向きがよくなったと考えている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いっぱんににほんじんは、じぶんたちがかつてよりくらしむきがよくなったとかんがえている。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The Japanese at large consider themselves better off than they used to be.",
+          "html": "<span>The Japanese at large consider themselves </span><strong>better off than </strong><span>they used to be. </span>",
+          "segments": [
+            {
+              "text": "The Japanese at large consider themselves ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "better off than ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "they used to be. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4983,
+      "position": 4,
+      "japanese": "彼はわたしより速く走ることができる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%82%8f%e3%81%9f%e3%81%97\"><span>彼はわたし</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%82%8a\"><strong>より</strong></a><a href=\"https://takoboto.jp/?q=%e9%80%9f%e3%81%8f\"><span>速く</span></a><a href=\"https://takoboto.jp/?q=%e8%b5%b0%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8b%e3%80%82\"><span>走ることができる。</span></a>",
+      "segments": [
+        {
+          "text": "彼はわたし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "より",
+          "grammar_highlight": true
+        },
+        {
+          "text": "速く走ることができる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはわたしよりはやくはしることができる。",
+      "credits_raw": "LittleFish",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He is able to run faster than I am.",
+          "html": "<span>He is able to run faster than I am. </span>",
+          "segments": [
+            {
+              "text": "He is able to run faster than I am. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5937,
+      "position": 5,
+      "japanese": "それより、バスを降りてから電話してください。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%8c\"><span>それ</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%82%8a\"><strong>より</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%83%90%e3%82%b9%e3%82%92\"><span>、バスを</span></a><a href=\"https://takoboto.jp/?q=%e9%99%8d%e3%82%8a%e3%81%a6%e3%81%8b%e3%82%89\"><span>降りてから</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%97%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82\"><span>電話してください。</span></a>",
+      "segments": [
+        {
+          "text": "それ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "より",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、バスを降りてから電話してください。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "それより、バスをおりてからでんわしてください。",
+      "credits_raw": "bluefin",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Rather than that,please call me after you have gotten down from the bus. rather than (2004JLPT3Listening)",
+          "html": "<span>Rather than that,please call me after you have gotten down from the bus. </span><strong>rather than </strong><span>(2004JLPT3Listening) </span>",
+          "segments": [
+            {
+              "text": "Rather than that,please call me after you have gotten down from the bus. ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "rather than ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "(2004JLPT3Listening) ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7442,
+      "position": 6,
+      "japanese": "私は彼よりサッカーがうまくできる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af\"><span>私は</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc\"><span>彼</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%82%8a\"><strong>より</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e3%81%8c%e3%81%86%e3%81%be%e3%81%8f%e3%81%a7%e3%81%8d%e3%82%8b%e3%80%82\"><span>サッカーがうまくできる。</span></a>",
+      "segments": [
+        {
+          "text": "私は彼",
+          "grammar_highlight": false
+        },
+        {
+          "text": "より",
+          "grammar_highlight": true
+        },
+        {
+          "text": "サッカーがうまくできる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしはかれよりサッカーがうまくできる。",
+      "credits_raw": "8211Sakakibara",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I can play soccer better than him.",
+          "html": "<span>I can play soccer better than him. </span>",
+          "segments": [
+            {
+              "text": "I can play soccer better than him. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "edo - i think that example better fits on the [hokanai] page...",
+      "html": "edo - i think that example better fits on the [hokanai] page...",
+      "credits_raw": "dc",
+      "content_sha256": "14446bef24805e6cf2d28f844f1de7c1612fccb0629a80c27941c501161ba3f7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "In general it \"lowers\" whatever is before it. I was at first confused when I saw this by itself (Without having の方が to tell me what it exactly was worse/better than), and was hesitant about using it in conversation; I wasn't sure if I was making myself lower or someone else lower.",
+      "html": "In general it \"lowers\" whatever is before it. I was at first confused when I saw this by itself (Without having の方が to tell me what it exactly was worse/better than), and was hesitant about using it in conversation; I wasn't sure if I was making myself lower or someone else lower.",
+      "credits_raw": "LittleFish",
+      "content_sha256": "862f40d49922d5945608f2998be91dcecf66c50f809714c6087392236f817b85",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "#1194 bamboo-san, I think 現実は聞いたことよりももっと悲しい。 would be better.",
+      "html": "#1194 bamboo-san, I think 現実は聞いたことよりももっと悲しい。 would be better.",
+      "credits_raw": "Miki",
+      "content_sha256": "a37bd8a164e8c15c47bf8fe4429c6d8129bdbd57355b5dba586738ddf22b38d0",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 786,
+      "label": "方が",
+      "source_url": "https://takoboto.jp/bunpo/786"
+    },
+    {
+      "target_id": 346,
+      "label": "ほかない",
+      "source_url": "https://takoboto.jp/bunpo/346"
+    },
+    {
+      "target_id": 1299,
+      "label": "にもまして",
+      "source_url": "https://takoboto.jp/bunpo/1299"
+    },
+    {
+      "target_id": 842,
+      "label": "むしろ",
+      "source_url": "https://takoboto.jp/bunpo/842"
+    },
+    {
+      "target_id": 788,
+      "label": "より",
+      "source_url": "https://takoboto.jp/bunpo/788"
+    },
+    {
+      "target_id": 960,
+      "label": "というより",
+      "source_url": "https://takoboto.jp/bunpo/960"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:34:10+00:00",
+  "response_sha256": "65148a81375426f9ef008a547153401db08cbdd88cd7292ec8c3b1965bf0ef4b",
+  "warnings": []
+}

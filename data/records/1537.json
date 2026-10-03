@@ -1,0 +1,726 @@
+{
+  "schema_version": 2,
+  "id": 1537,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1537/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "すぎる",
+  "romanized_label": "sugiru",
+  "alternate_forms": [],
+  "jlpt_level": 4,
+  "credits_raw": "ness",
+  "meaning": "too; too much; excessively",
+  "meaning_example": "This problem is too difficult for me",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1537",
+      "body_text": "too; too much; excessively \n This problem is too difficult for me",
+      "body_html": "<span>too; too much; excessively</span> <br/> <span>This problem is too difficult for me</span>",
+      "credits_raw": "ness"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1537",
+      "body_text": "Verb stem+すぎるな-adjective (without な)+すぎるい-adjective (without い)+すぎる",
+      "body_html": "<div><div><div>Verb stem</div></div><div><div>+</div><div>すぎる</div></div></div><div><div><div>な-adjective (without な)</div></div><div><div>+</div><div>すぎる</div></div></div><div><div><div>い-adjective (without い)</div></div><div><div>+</div><div>すぎる</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb stem + すぎる",
+    "な-adjective (without な) + すぎる",
+    "い-adjective (without い) + すぎる"
+  ],
+  "examples": [
+    {
+      "source_id": 5708,
+      "position": 0,
+      "japanese": "その人はちょっと食べすぎましたね。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e4%ba%ba%e3%81%af%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8%e9%a3%9f%e3%81%b9\"><span>その人はちょっと食べ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%8e%e3%81%be%e3%81%97%e3%81%9f\"><strong>すぎました</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ad%e3%80%82\"><span>ね。</span></a>",
+      "segments": [
+        {
+          "text": "その人はちょっと食べ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すぎました",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ね。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのひとはちょっとたべすぎましたね。",
+      "credits_raw": "Ness",
+      "translations": [
+        {
+          "language": "en",
+          "text": "That person ate a little too much .",
+          "html": "<span>That person ate a little </span><strong>too much </strong><span>. </span>",
+          "segments": [
+            {
+              "text": "That person ate a little ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too much ",
+              "grammar_highlight": true
+            },
+            {
+              "text": ". ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5709,
+      "position": 1,
+      "japanese": "このりんごは甘すぎて、食べられない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%8a%e3%82%93%e3%81%94%e3%81%af%e7%94%98\"><span>このりんごは甘</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%8e%e3%81%a6\"><strong>すぎて</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e9%a3%9f%e3%81%b9%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82\"><span>、食べられない。</span></a>",
+      "segments": [
+        {
+          "text": "このりんごは甘",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すぎて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、食べられない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このりんごはあますぎて、たべられない。",
+      "credits_raw": "Ness",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This apple is so  sweet that  I can't eat it.",
+          "html": "<span>This apple is </span><strong>so </strong><span> sweet </span><strong>that </strong><span> I can't eat it. </span>",
+          "segments": [
+            {
+              "text": "This apple is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "so ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " sweet ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "that ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " I can't eat it. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5710,
+      "position": 2,
+      "japanese": "あそこは少し高すぎると思います。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%9d%e3%81%93%e3%81%af%e5%b0%91%e3%81%97%e9%ab%98\"><span>あそこは少し高</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%8e%e3%82%8b\"><strong>すぎる</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>と思います。</span></a>",
+      "segments": [
+        {
+          "text": "あそこは少し高",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すぎる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "と思います。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あそこはすこしたかすぎるとおもいます。",
+      "credits_raw": "Miki, Sanjay Maharjan",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I think the place over there is a little too  expensive.",
+          "html": "<span>I think the place over there is a little </span><strong>too </strong><span> expensive. </span>",
+          "segments": [
+            {
+              "text": "I think the place over there is a little ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too ",
+              "grammar_highlight": true
+            },
+            {
+              "text": " expensive. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5711,
+      "position": 3,
+      "japanese": "あの男はおしゃべりすぎる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae\"><span>あの</span></a><a href=\"https://takoboto.jp/?q=%e7%94%b7%e3%81%af\"><span>男は</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8a%e3%81%97%e3%82%83%e3%81%b9%e3%82%8a\"><span>おしゃべり</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%8e%e3%82%8b\"><strong>すぎる</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "あの男はおしゃべり",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すぎる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あのおとこはおしゃべりすぎる。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He talks too much.",
+          "html": "<span>He talks </span><strong>too </strong><span>much. </span>",
+          "segments": [
+            {
+              "text": "He talks ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "much. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5712,
+      "position": 4,
+      "japanese": "いまからでは遅すぎる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%be%e3%81%8b%e3%82%89%e3%81%a7%e3%81%af\"><span>いまからでは</span></a><a href=\"https://takoboto.jp/?q=%e9%81%85\"><span>遅</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%8e%e3%82%8b\"><strong>すぎる</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "いまからでは遅",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すぎる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いまからではおそすぎる。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It's too late now.",
+          "html": "<span>It's </span><strong>too </strong><span>late now. </span>",
+          "segments": [
+            {
+              "text": "It's ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "late now. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5713,
+      "position": 5,
+      "japanese": "このイスは私には低すぎる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%a4%e3%82%b9%e3%81%af\"><span>このイスは</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ab%e3%81%af\"><span>私には</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%8e\"><span>低</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%8e%e3%82%8b\"><strong>すぎる</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "このイスは私には低",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すぎる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このイスはわたしにはひくすぎる。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This chair is too low for me.",
+          "html": "<span>This chair is </span><strong>too </strong><span>low for me. </span>",
+          "segments": [
+            {
+              "text": "This chair is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "low for me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5714,
+      "position": 6,
+      "japanese": "このウイスキーは強すぎる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%a6%e3%82%a4%e3%82%b9%e3%82%ad%e3%83%bc%e3%81%af\"><span>このウイスキーは</span></a><a href=\"https://takoboto.jp/?q=%e5%bc%b7\"><span>強</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%8e%e3%82%8b\"><strong>すぎる</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "このウイスキーは強",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すぎる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このウイスキーはつよすぎる。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This whisky is too strong.",
+          "html": "<span>This whisky is </span><strong>too </strong><span>strong. </span>",
+          "segments": [
+            {
+              "text": "This whisky is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "strong. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5715,
+      "position": 7,
+      "japanese": "このカレーはからすぎる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%ab%e3%83%ac%e3%83%bc%e3%81%af\"><span>このカレーは</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><span>から</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%8e%e3%82%8b\"><strong>すぎる</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "このカレーはから",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すぎる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このカレーはからすぎる。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This curry is too hot.",
+          "html": "<span>This curry is </span><strong>too </strong><span>hot. </span>",
+          "segments": [
+            {
+              "text": "This curry is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "hot. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5716,
+      "position": 8,
+      "japanese": "このズボンはわたしには派手すぎる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%ba%e3%83%9c%e3%83%b3%e3%81%af%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ab%e3%81%af\"><span>このズボンはわたしには</span></a><a href=\"https://takoboto.jp/?q=%e6%b4%be%e6%89%8b\"><span>派手</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%8e%e3%82%8b\"><strong>すぎる</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "このズボンはわたしには派手",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すぎる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このズボンはわたしにははですぎる。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "These pants are too fancy for me.",
+          "html": "<span>These pants are </span><strong>too </strong><span>fancy for me. </span>",
+          "segments": [
+            {
+              "text": "These pants are ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "fancy for me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5717,
+      "position": 9,
+      "japanese": "この問題は単純すぎる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%af\"><span>問題は</span></a><a href=\"https://takoboto.jp/?q=%e5%8d%98%e7%b4%94\"><span>単純</span></a><a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%8e%e3%82%8b\"><strong>すぎる</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "この問題は単純",
+          "grammar_highlight": false
+        },
+        {
+          "text": "すぎる",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このもんだいはたんじゅんすぎる。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This problem is too simple.",
+          "html": "<span>This problem is </span><strong>too </strong><span>simple. </span>",
+          "segments": [
+            {
+              "text": "This problem is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "too ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "simple. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8636,
+      "position": 10,
+      "japanese": "彼は飴を食べすぎます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%b4%e3%82%92\"><span>飴を</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%99%e3%81%8e%e3%81%be%e3%81%99%e3%80%82\"><span>食べすぎます。</span></a>",
+      "segments": [
+        {
+          "text": "彼は飴を食べすぎます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれはあめをたべすぎます。",
+      "credits_raw": "Sakuratree",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He eats too much candy.",
+          "html": "<span>He eats too much candy. </span>",
+          "segments": [
+            {
+              "text": "He eats too much candy. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "added to Verbs: Conjunctive form of Verb \n(行く-->行き；食べる-->食べ) + すぎる\n add to Adjectives: Root of Adjective\n(むずかしい-->むすかし；大きい-->大き）+　すぎる\n\nThis construction can mean \"too much,\" as in, \nむずかしすぎる (too hard); 大きすぎる (too big) or it can mean \"excessively,\" as in, 行きすぎる (to go too much); 食べすぎる (to eat too much).",
+      "html": "added to Verbs: Conjunctive form of Verb <br/>(行く--&gt;行き；食べる--&gt;食べ) + すぎる<br/> add to Adjectives: Root of Adjective<br/>(むずかしい--&gt;むすかし；大きい--&gt;大き）+　すぎる<br/><br/>This construction can mean \"too much,\" as in, <br/>むずかしすぎる (too hard); 大きすぎる (too big) or it can mean \"excessively,\" as in, 行きすぎる (to go too much); 食べすぎる (to eat too much).",
+      "credits_raw": "Ness",
+      "content_sha256": "97ed6b002e2d588ba4c0b55224c3e6531b9c9a58afd1bca29a73a8ac73923270",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "With the examples here it would seem that \n\ntabesugiru = eat too much\nhanashisugiru = talk too much.\n\nCould anyone explain why 'hanashisugiru' means 'talk too much' but 'hayaku hanashisugiru' means 'speak too quickly'?\n\nFrom my understanding, I would have said that 'ano hito ha hayaku hanashisugimasu' translates as 'That person quickly speaks too much'.",
+      "html": "With the examples here it would seem that <br/><br/>tabesugiru = eat too much<br/>hanashisugiru = talk too much.<br/><br/>Could anyone explain why 'hanashisugiru' means 'talk too much' but 'hayaku hanashisugiru' means 'speak too quickly'?<br/><br/>From my understanding, I would have said that 'ano hito ha hayaku hanashisugimasu' translates as 'That person quickly speaks too much'.",
+      "credits_raw": "bi-ru",
+      "content_sha256": "2711030f658420d2ec01a4b3113f1bce9d9b4ce62f8423f25688bae63c01d88c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "To me, \"that person quickly speaks too much\" doesn't make much sense. hayaku hanashisugiru means \"speak too quickly\" because hayaku is an adverb. Thus, it becomes hayakuhanasu + sugiru (speaks quickly + too much) = speaks too quickly",
+      "html": "To me, \"that person quickly speaks too much\" doesn't make much sense. hayaku hanashisugiru means \"speak too quickly\" because hayaku is an adverb. Thus, it becomes hayakuhanasu + sugiru (speaks quickly + too much) = speaks too quickly",
+      "credits_raw": "Ness",
+      "content_sha256": "db131b554cb33fdfa95b15f1b1dabc86e6bc82e8e0635f82234ca6cfd1558f4b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Ah thanks Ness, it does make sense. I guess I'm thinking too much in English where it is speak [too quickly] rather than quickly speak [too much]. So I kept thinking I had to write something like hayasugite hanasu...",
+      "html": "Ah thanks Ness, it does make sense. I guess I'm thinking too much in English where it is speak [too quickly] rather than quickly speak [too much]. So I kept thinking I had to write something like hayasugite hanasu...",
+      "credits_raw": "bi-ru",
+      "content_sha256": "f4ef8d91ef07e4792cec7161d4abfe7c6e23ff87a11f363124126ba06253d23a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "ex #5711 in Japanese means \"He talks too much.\"",
+      "html": "ex #5711 in Japanese means \"He talks too much.\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "d35c0a6b955dd7179d8caae929fd46fc88e1adbd9a154188d01f041ba5348679",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "Corrected. Thank you bamboo4",
+      "html": "Corrected. Thank you bamboo4",
+      "credits_raw": "Miki",
+      "content_sha256": "8f3fa0e638fd36a24647d8d1edb51d80eb0b28e3ed1833fb790aec6db20723e3",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "hayaku hanashisugiru could also be \"to speak too soon\" although I doubt it has the same colloquial meaning as in english.",
+      "html": "hayaku hanashisugiru could also be \"to speak too soon\" although I doubt it has the same colloquial meaning as in english.",
+      "credits_raw": "Matt",
+      "content_sha256": "ba00baf58399e592441a153e334546e1d9f06ea47b5002f0efbb4b723d7417f4",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "sugiru is level 3 grammar point.its not in level 4",
+      "html": "sugiru is level 3 grammar point.its not in level 4",
+      "credits_raw": "ramu",
+      "content_sha256": "aa90625fc93681d549a8f7dadb993d078575b3eea03a491298448051047a94a0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "what if it is a na adjective? how do you add the sugiru then?",
+      "html": "what if it is a na adjective? how do you add the sugiru then?",
+      "credits_raw": "Burcksan",
+      "content_sha256": "f68e8782bb5e4247d21656b2cf7a0fe49f0f947d98a441156cc990489c687fee",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "^ Yeah, I'd like to know this, too!",
+      "html": "^ Yeah, I'd like to know this, too!",
+      "credits_raw": "Himiko",
+      "content_sha256": "2244351135e834d89fe4db03d49595665f5313099ef254197ebea9939ad7feee",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "na adjective is きれいな、元気な、ひまな correct? We don't say like きれいな過ぎる. \nきれい過ぎる too beautiful 元気すぎる 暇すぎる ... sounds negative\nとてもきれいな very beautiful とても元気な とても暇",
+      "html": "na adjective is きれいな、元気な、ひまな correct? We don't say like きれいな過ぎる. <br/>きれい過ぎる too beautiful 元気すぎる 暇すぎる ... sounds negative<br/>とてもきれいな very beautiful とても元気な とても暇",
+      "credits_raw": "Miki",
+      "content_sha256": "d145c018a5bff509efe92b3633a9902653206eed324cc7202d344928df301fb8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "One would not normally say \"hanashisugiru\" but would say \"shaberisugiru\" (しゃべり過ぎる）as in the example.",
+      "html": "One would not normally say \"hanashisugiru\" but would say \"shaberisugiru\" (しゃべり過ぎる）as in the example.",
+      "credits_raw": "bambo4",
+      "content_sha256": "ccd3d115f3cca5a0430a582b68a50451ce739180793db3fed2594d5215b37e11",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "It should be noted that you don't use the kanji for 〜すぎる because it is an auxiliary verb in this construct, and one should not use kanji for auxiliary verbs. Similarly, one does not say 食べて来た nor 読んで行った, but rather 食べてきた and 読んでいった.",
+      "html": "It should be noted that you don't use the kanji for 〜すぎる because it is an auxiliary verb in this construct, and one should not use kanji for auxiliary verbs. Similarly, one does not say 食べて来た nor 読んで行った, but rather 食べてきた and 読んでいった.",
+      "credits_raw": "TheoMurpse",
+      "content_sha256": "f31b210fa65040f58c458a18b78fd72562b0e8ff0d47897b3e02898068b269e0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "Also, directed at Burcksan, 派手 is a na-adjective, so just look at ex #5716 for the answer.",
+      "html": "Also, directed at Burcksan, 派手 is a na-adjective, so just look at ex #5716 for the answer.",
+      "credits_raw": "TheoMurpse",
+      "content_sha256": "fa3f6409be6e843cf61c5add5a960f7d54c991e8558c9226b219f59cca90eb7e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "I've been thinking about the \"sugiru\" issue for quite some time. And, talking to some native speakers, I was told that when expressing something like \"to talk too fast\", constructions like \"早すぎて話す\" are not quite possible and I was also told that things like あの人は早く話しぎる do mean “That person quickly speaks too much”, like bi-ru just said. So, to express the idea of talking too fast, the best construction would be something like 話すのが早すぎる. I would like to see some replies to this, thanks.",
+      "html": "I've been thinking about the \"sugiru\" issue for quite some time. And, talking to some native speakers, I was told that when expressing something like \"to talk too fast\", constructions like \"早すぎて話す\" are not quite possible and I was also told that things like あの人は早く話しぎる do mean “That person quickly speaks too much”, like bi-ru just said. So, to express the idea of talking too fast, the best construction would be something like 話すのが早すぎる. I would like to see some replies to this, thanks.",
+      "credits_raw": "phbotelho",
+      "content_sha256": "140bec3103f0a681f830deee4b66e073fa152f897358b30342cdeb50f4014c24",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 15,
+      "source_id": null,
+      "text": "phbotelho: I think you're right.\nWhile \"早すぎて話す\" is a bit odd and \"早く話しすぎる\" technically permissable, I think \"話すのが早すぎる\" feels the most natural. I'm not a native speaker though, so any native input on this?\nAt any rate, Google seems to back this up with the three phrases giving me 0, 32, and 2500 hits respectively, the latter being a roughly comparable number to the hits for the English \"speaks too quickly\".",
+      "html": "phbotelho: I think you're right.<br/>While \"早すぎて話す\" is a bit odd and \"早く話しすぎる\" technically permissable, I think \"話すのが早すぎる\" feels the most natural. I'm not a native speaker though, so any native input on this?<br/>At any rate, Google seems to back this up with the three phrases giving me 0, 32, and 2500 hits respectively, the latter being a roughly comparable number to the hits for the English \"speaks too quickly\".",
+      "credits_raw": "mochabean",
+      "content_sha256": "b8ad2605b13c5528000d16da771da020775f21bb0de6924454ffd51501f7eec1",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 16,
+      "source_id": null,
+      "text": "I edited the translation of \"このりんごは甘すぎて、食べられない。\" cause when you say \"X すぎて Y\", you're actually establishing a direct causal relation between X and Y, as in \"X happens in excess and that causes Y to happen\". While \"This apple is too sweat to eat\" technically means the same thing, it might confuse people when they find sentences that might not be possible to change the wording that way, like \"It's so cold that I'm shivering\"(寒すぎて、震えている。), and they might not understand that the actual meaning of the phrase about the apple is that the apple being too sweat makes me incapable of eating it, hence the 食べられない.",
+      "html": "I edited the translation of \"このりんごは甘すぎて、食べられない。\" cause when you say \"X すぎて Y\", you're actually establishing a direct causal relation between X and Y, as in \"X happens in excess and that causes Y to happen\". While \"This apple is too sweat to eat\" technically means the same thing, it might confuse people when they find sentences that might not be possible to change the wording that way, like \"It's so cold that I'm shivering\"(寒すぎて、震えている。), and they might not understand that the actual meaning of the phrase about the apple is that the apple being too sweat makes me incapable of eating it, hence the 食べられない.",
+      "credits_raw": "Morse",
+      "content_sha256": "bbad0fb14466c7ace8f3e2397844c80e0cd252213a03c0286d550a22a548f43a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 17,
+      "source_id": null,
+      "text": "@Morse Awesome, thanks. I fixed the typo since the apple is sweet and doesn't sweat LOL",
+      "html": "@Morse Awesome, thanks. I fixed the typo since the apple is sweet and doesn't sweat LOL",
+      "credits_raw": "beno",
+      "content_sha256": "aa012467a7c9295a8ca1588ff3c4a498ff19a6b44664e60ecd0785101e49fc19",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 18,
+      "source_id": null,
+      "text": "bruh, how did I not see that?",
+      "html": "bruh, how did I not see that?",
+      "credits_raw": "Morse",
+      "content_sha256": "a8b12aa6eaf897133b43a9d8559be23bab49f86b67b5de3fc30946d70ee6b73d",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T00:49:06+00:00",
+  "response_sha256": "c0ba89c6c4f17ead53281b8996a8b7e2154c68a93c1d6dd217aafd881fa86d8b",
+  "warnings": []
+}

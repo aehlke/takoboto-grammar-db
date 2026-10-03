@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "id": 1603,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1603/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "まだしも",
+  "romanized_label": "madashimo",
+  "alternate_forms": [],
+  "jlpt_level": 1,
+  "credits_raw": "naimononedari",
+  "meaning": "would be much better, would be acceptable",
+  "meaning_example": "If it was next month that would be better, but it isn't going to happen until next year.",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "だったら、ほかのよりいい",
+      "html": "だったら、ほかのよりいい"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1603",
+      "body_text": "would be much better, would be acceptable \n If it was next month that would be better, but it isn't going to happen until next year. \n だったら、ほかのよりいい",
+      "body_html": "<span>would be much better, would be acceptable</span> <br/> <span>If it was next month that would be better, but it isn't going to happen until next year.</span> <br/> <span>だったら、ほかのよりいい</span>",
+      "credits_raw": "naimononedari"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 6242,
+      "position": 0,
+      "japanese": "一度ならまだしもここまで六回その言葉を間違えて書いた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%b8%80%e5%ba%a6%e3%81%aa%e3%82%89\"><span>一度なら</span></a><a href=\"https://takoboto.jp/?q=%e3%81%be%e3%81%a0%e3%81%97%e3%82%82\"><strong>まだしも</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%be%e3%81%a7\"><span>ここまで</span></a><a href=\"https://takoboto.jp/?q=%e5%85%ad%e5%9b%9e%e3%81%9d%e3%81%ae\"><span>六回その</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e8%91%89%e3%82%92\"><span>言葉を</span></a><a href=\"https://takoboto.jp/?q=%e9%96%93%e9%81%95%e3%81%88%e3%81%a6\"><span>間違えて</span></a><a href=\"https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%9f%e3%80%82\"><span>書いた。</span></a>",
+      "segments": [
+        {
+          "text": "一度なら",
+          "grammar_highlight": false
+        },
+        {
+          "text": "まだしも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "ここまで六回その言葉を間違えて書いた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いちどならまだしもここまでろくかいそのことばをまちがえてかいた。",
+      "credits_raw": "naimononedari, Guillaume",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Once would be acceptable, but you've misspelled that word six times now.",
+          "html": "<span>Once would be acceptable, but you've misspelled that word six times now. </span>",
+          "segments": [
+            {
+              "text": "Once would be acceptable, but you've misspelled that word six times now. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6245,
+      "position": 1,
+      "japanese": "この方がまだしもあれよりよい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e6%96%b9%e3%81%8c\"><span>方が</span></a><a href=\"https://takoboto.jp/?q=%e3%81%be%e3%81%a0%e3%81%97%e3%82%82\"><strong>まだしも</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%8c%e3%82%88%e3%82%8a%e3%82%88%e3%81%84%e3%80%82\"><span>あれよりよい。</span></a>",
+      "segments": [
+        {
+          "text": "この方が",
+          "grammar_highlight": false
+        },
+        {
+          "text": "まだしも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "あれよりよい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このほうがまだしもあれよりよい。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This would be better than that.",
+          "html": "<span>This would be better than that. </span>",
+          "segments": [
+            {
+              "text": "This would be better than that. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6246,
+      "position": 2,
+      "japanese": "こんなひどい目に合うよりまだしも死んだほうがよい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa%e3%81%b2%e3%81%a9%e3%81%84\"><span>こんなひどい</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%ae%e3%81%ab\"><span>目に</span></a><a href=\"https://takoboto.jp/?q=%e5%90%88%e3%81%86%e3%82%88%e3%82%8a\"><span>合うより</span></a><a href=\"https://takoboto.jp/?q=%e3%81%be%e3%81%a0%e3%81%97%e3%82%82\"><strong>まだしも</strong></a><a href=\"https://takoboto.jp/?q=%e6%ad%bb%e3%82%93%e3%81%a0%e3%81%bb%e3%81%86%e3%81%8c%e3%82%88%e3%81%84%e3%80%82\"><span>死んだほうがよい。</span></a>",
+      "segments": [
+        {
+          "text": "こんなひどい目に合うより",
+          "grammar_highlight": false
+        },
+        {
+          "text": "まだしも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "死んだほうがよい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こんなひどいめにあうよりまだしもしんだほうがよい。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I would rather die than have such a terrible experience.",
+          "html": "<span>I would rather die than have such a terrible experience. </span>",
+          "segments": [
+            {
+              "text": "I would rather die than have such a terrible experience. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6247,
+      "position": 3,
+      "japanese": "すうじつならまだしも１０日も滞納している。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%99%e3%81%86%e3%81%98%e3%81%a4%e3%81%aa%e3%82%89\"><span>すうじつなら</span></a><a href=\"https://takoboto.jp/?q=%e3%81%be%e3%81%a0%e3%81%97%e3%82%82\"><strong>まだしも</strong></a><a href=\"https://takoboto.jp/?q=%ef%bc%91%ef%bc%90%e6%97%a5%e3%82%82\"><span>１０日も</span></a><a href=\"https://takoboto.jp/?q=%e6%bb%9e%e7%b4%8d%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>滞納している。</span></a>",
+      "segments": [
+        {
+          "text": "すうじつなら",
+          "grammar_highlight": false
+        },
+        {
+          "text": "まだしも",
+          "grammar_highlight": true
+        },
+        {
+          "text": "１０日も滞納している。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "すうじつならまだしも１０にちもたいのうしている。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "A few days would have been excusable but you are in arrears for 10 days.",
+          "html": "<span>A few days would have been excusable but you are in arrears for 10 days. </span>",
+          "segments": [
+            {
+              "text": "A few days would have been excusable but you are in arrears for 10 days. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "often appears with \"nara\" in front, meaning \"(if it were this) then that would be OK, but...\"\nThis was a correct answer on the 1kyuu in 2005.",
+      "html": "often appears with \"nara\" in front, meaning \"(if it were this) then that would be OK, but...\"<br/>This was a correct answer on the 1kyuu in 2005.",
+      "credits_raw": "naimononedari",
+      "content_sha256": "bdb414113c769c624857bc8102e0825444cce0470661d9c39f96822a4504f80d",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:44:48+00:00",
+  "response_sha256": "0ce5dab4efdd3e0b5c361c9ce030763d559d232eb644f4d590d6b85e70d0e389",
+  "warnings": []
+}

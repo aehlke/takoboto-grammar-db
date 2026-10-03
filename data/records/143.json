@@ -1,0 +1,685 @@
+{
+  "schema_version": 2,
+  "id": 143,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/143/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "に限って",
+  "romanized_label": "nikagitte",
+  "alternate_forms": [
+    "にかぎって"
+  ],
+  "jlpt_level": 3,
+  "credits_raw": "dc",
+  "meaning": "of all the ... / especially / only / just",
+  "meaning_example": "our child of all children / especially our child",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_143",
+      "body_text": "of all the ... / especially / only / just \n our child of all children / especially our child",
+      "body_html": "<span>of all the ... / especially / only / just</span> <br/> <span>our child of all children / especially our child</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_143",
+      "body_text": "Noun+に限って",
+      "body_html": "<div><div><div>Noun</div></div><div><div>+</div><div>に限って</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Noun + に限って"
+  ],
+  "examples": [
+    {
+      "source_id": 6312,
+      "position": 0,
+      "japanese": "中野先生はたいてい研究室にいらっしゃるのに、今日に限っていらしゃらなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%b8%ad%e9%87%8e%e5%85%88%e7%94%9f%e3%81%af%e3%81%9f%e3%81%84%e3%81%a6%e3%81%84\"><span>中野先生はたいてい</span></a><a href=\"https://takoboto.jp/?q=%e7%a0%94%e7%a9%b6%e5%ae%a4%e3%81%ab%e3%81%84%e3%82%89%e3%81%a3%e3%81%97%e3%82%83%e3%82%8b%e3%81%ae%e3%81%ab%e3%80%81\"><span>研究室にいらっしゃるのに、</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5\"><span>今日</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%84%e3%82%89%e3%81%97%e3%82%83%e3%82%89%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82\"><span>いらしゃらなかった。</span></a>",
+      "segments": [
+        {
+          "text": "中野先生はたいてい研究室にいらっしゃるのに、今日",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "いらしゃらなかった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "なかのせんせいはたいていけんきゅうしつにいらっしゃるのに、きょうにかぎっていらし。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Professor Nakano is usually in his office, but today, of all days, he wasn't there.",
+          "html": "<span>Professor Nakano is usually in his office, but today, of all days, he wasn't there. </span>",
+          "segments": [
+            {
+              "text": "Professor Nakano is usually in his office, but today, of all days, he wasn't there. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6313,
+      "position": 1,
+      "japanese": "嫌なことがある時に限って、嫌なことが重なる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%ab%8c%e3%81%aa%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b%e6%99%82\"><span>嫌なことがある時</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e5%ab%8c%e3%81%aa%e3%81%93%e3%81%a8%e3%81%8c%e9%87%8d%e3%81%aa%e3%82%8b%e3%80%82\"><span>、嫌なことが重なる。</span></a>",
+      "segments": [
+        {
+          "text": "嫌なことがある時",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、嫌なことが重なる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いやなことがあるときにかぎって、いやなことがかさなる。",
+      "credits_raw": "rubyhatchet, Rai Cordero",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Whenever something bad happens, more bad things happen one after another.",
+          "html": "<span>Whenever something bad happens, more bad things happen one after another. </span>",
+          "segments": [
+            {
+              "text": "Whenever something bad happens, more bad things happen one after another. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 1085,
+      "position": 2,
+      "japanese": "うちの子供に限ってそんなひどいことはしませんよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ae\"><span>うちの</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e4%be%9b\"><span>子供</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%93%e3%81%aa%e3%81%b2%e3%81%a9%e3%81%84%e3%81%93%e3%81%a8%e3%81%af%e3%81%97%e3%81%be%e3%81%9b%e3%82%93%e3%82%88%e3%80%82\"><span>そんなひどいことはしませんよ。</span></a>",
+      "segments": [
+        {
+          "text": "うちの子供",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "そんなひどいことはしませんよ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "うちのこどもにかぎってそんなひどいことはしませんよ。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "our child, out of all children, would not do such a terrible thing",
+          "html": "<span>our child, </span><strong>out of all </strong><span>children, would not do such a terrible thing </span>",
+          "segments": [
+            {
+              "text": "our child, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "out of all ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "children, would not do such a terrible thing ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3219,
+      "position": 3,
+      "japanese": "傘を持っていない日に限って、雨が降る。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%82%98%e3%82%92\"><span>傘を</span></a><a href=\"https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84\"><span>持っていない</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5\"><span>日</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c\"><span>雨が</span></a><a href=\"https://takoboto.jp/?q=%e9%99%8d%e3%82%8b%e3%80%82\"><span>降る。</span></a>",
+      "segments": [
+        {
+          "text": "傘を持っていない日",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、雨が降る。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かさをもっていないひにかぎって、あめがふる。",
+      "credits_raw": "halx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Just on a day when you don't have an umbrella with you, it will rain.",
+          "html": "<strong>Just </strong><span>on a day when you don't have an umbrella with you, it will rain. </span>",
+          "segments": [
+            {
+              "text": "Just ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "on a day when you don't have an umbrella with you, it will rain. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3220,
+      "position": 4,
+      "japanese": "参加者は女性に限る",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8f%82%e5%8a%a0%e8%80%85%e3%81%af\"><span>参加者は</span></a><a href=\"https://takoboto.jp/?q=%e5%a5%b3%e6%80%a7\"><span>女性</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%82%8b\"><strong>に限る</strong></a>",
+      "segments": [
+        {
+          "text": "参加者は女性",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限る",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "さんかしゃはじょせいにかぎる",
+      "credits_raw": "halx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Female participants only.",
+          "html": "<span>Female participants </span><strong>only. </strong>",
+          "segments": [
+            {
+              "text": "Female participants ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "only. ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3221,
+      "position": 5,
+      "japanese": "夏はビールに限る。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%8f%e3%81%af%e3%83%93%e3%83%bc%e3%83%ab\"><span>夏はビール</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%82%8b%e3%80%82\"><strong>に限る。</strong></a>",
+      "segments": [
+        {
+          "text": "夏はビール",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限る。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "なつはビールにかぎる。",
+      "credits_raw": "halx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "(During) summer beer is (the) best (beverage).",
+          "html": "<span>(During) summer beer is (the) </span><strong>best </strong><span>(beverage). </span>",
+          "segments": [
+            {
+              "text": "(During) summer beer is (the) ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "best ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "(beverage). ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5748,
+      "position": 6,
+      "japanese": "その日に限って財布を家に忘れた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5\"><span>日</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e8%b2%a1%e5%b8%83%e3%82%92\"><span>財布を</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%b6%e3%81%ab\"><span>家に</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%81%9f%e3%80%82\"><span>忘れた。</span></a>",
+      "segments": [
+        {
+          "text": "その日",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "財布を家に忘れた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのひにかぎってさいふをいえにわすれた。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I left my wallet at home on that particular day.",
+          "html": "<span>I left my wallet at home on that particular day. </span>",
+          "segments": [
+            {
+              "text": "I left my wallet at home on that particular day. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5749,
+      "position": 7,
+      "japanese": "その日に限って子供たちは会館に入ることを許される。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5\"><span>日</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%9f%e3%81%a1%e3%81%af\"><span>子供たちは</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9a%e9%a4%a8%e3%81%ab\"><span>会館に</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e3%82%8b%e3%81%93%e3%81%a8%e3%82%92\"><span>入ることを</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%b1%e3%81%95%e3%82%8c%e3%82%8b%e3%80%82\"><span>許される。</span></a>",
+      "segments": [
+        {
+          "text": "その日",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "子供たちは会館に入ることを許される。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのひにかぎってこどもたちはかいかんにはいることをゆるされる。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The hall allows children in only on that day.",
+          "html": "<span>The hall allows children in only on that day. </span>",
+          "segments": [
+            {
+              "text": "The hall allows children in only on that day. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5750,
+      "position": 8,
+      "japanese": "その日に限って彼は欠席だった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%81%ae\"><span>その</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5\"><span>日</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e6%ac%a0%e5%b8%ad%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82\"><span>欠席だった。</span></a>",
+      "segments": [
+        {
+          "text": "その日",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "彼は欠席だった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "そのひにかぎってかれはけっせきだった。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "He was absent on the particular day.",
+          "html": "<span>He was absent on the particular day. </span>",
+          "segments": [
+            {
+              "text": "He was absent on the particular day. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5751,
+      "position": 9,
+      "japanese": "一緒にいるのを見られたくない人と一緒にいるときに限って、知り合いに会うことがおおい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%b8%80%e7%b7%92%e3%81%ab%e3%81%84%e3%82%8b%e3%81%ae%e3%82%92\"><span>一緒にいるのを</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%82%89%e3%82%8c%e3%81%9f%e3%81%8f%e3%81%aa%e3%81%84\"><span>見られたくない</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%a8\"><span>人と</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e7%b7%92%e3%81%ab%e3%81%84%e3%82%8b%e3%81%a8%e3%81%8d\"><span>一緒にいるとき</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e7%9f%a5%e3%82%8a\"><span>知り</span></a><a href=\"https://takoboto.jp/?q=%e5%90%88%e3%81%84%e3%81%ab\"><span>合いに</span></a><a href=\"https://takoboto.jp/?q=%e4%bc%9a%e3%81%86%e3%81%93%e3%81%a8%e3%81%8c%e3%81%8a%e3%81%8a%e3%81%84%e3%80%82\"><span>会うことがおおい。</span></a>",
+      "segments": [
+        {
+          "text": "一緒にいるのを見られたくない人と一緒にいるとき",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、知り合いに会うことがおおい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いっしょにいるのをみられたくないひとといっしょにいるときにかぎって、しりあいにあうことがおおい。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "When we are with a person we don't want to be seen with, we often meet someone we know.",
+          "html": "<span>When we are with a person we don't want to be seen with, we often meet someone we know. </span>",
+          "segments": [
+            {
+              "text": "When we are with a person we don't want to be seen with, we often meet someone we know. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5752,
+      "position": 10,
+      "japanese": "急いでいる時に限ってバスが遅れる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%80%a5%e3%81%84%e3%81%a7%e3%81%84%e3%82%8b\"><span>急いでいる</span></a><a href=\"https://takoboto.jp/?q=%e6%99%82\"><span>時</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e3%83%90%e3%82%b9%e3%81%8c\"><span>バスが</span></a><a href=\"https://takoboto.jp/?q=%e9%81%85%e3%82%8c%e3%82%8b%e3%80%82\"><span>遅れる。</span></a>",
+      "segments": [
+        {
+          "text": "急いでいる時",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "バスが遅れる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いそいでいるときにかぎってバスがおくれる。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Our bus comes late particularly when we are in a hurry.",
+          "html": "<span>Our bus comes late particularly when we are in a hurry. </span>",
+          "segments": [
+            {
+              "text": "Our bus comes late particularly when we are in a hurry. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5753,
+      "position": 11,
+      "japanese": "彼女に限ってそんなことはない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3\"><span>彼女</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%93%e3%81%aa%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84%e3%80%82\"><span>そんなことはない。</span></a>",
+      "segments": [
+        {
+          "text": "彼女",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "そんなことはない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょにかぎってそんなことはない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "She is the last person to do such a thing.",
+          "html": "<span>She is the last person to do such a thing. </span>",
+          "segments": [
+            {
+              "text": "She is the last person to do such a thing. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8567,
+      "position": 12,
+      "japanese": "恋がなくって、連れて行ったことに限る。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%81%8b%e3%81%8c%e3%81%aa%e3%81%8f%e3%81%a3%e3%81%a6%e3%80%81\"><span>恋がなくって、</span></a><a href=\"https://takoboto.jp/?q=%e9%80%a3%e3%82%8c%e3%81%a6\"><span>連れて</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%81%ab\"><span>行ったことに</span></a><a href=\"https://takoboto.jp/?q=%e9%99%90%e3%82%8b%e3%80%82\"><span>限る。</span></a>",
+      "segments": [
+        {
+          "text": "恋がなくって、連れて行ったことに限る。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こいがなくって、つれていったことにかぎる。",
+      "credits_raw": "belajar",
+      "translations": [
+        {
+          "language": "en",
+          "text": "there is no love, just went together.",
+          "html": "<span>there is no love, just went together. </span>",
+          "segments": [
+            {
+              "text": "there is no love, just went together. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8568,
+      "position": 13,
+      "japanese": "彼女の携帯電話は話したい時に限って、話中だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae\"><span>彼女の</span></a><a href=\"https://takoboto.jp/?q=%e6%90%ba%e5%b8%af%e9%9b%bb%e8%a9%b1%e3%81%af\"><span>携帯電話は</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1%e3%81%97%e3%81%9f%e3%81%84\"><span>話したい</span></a><a href=\"https://takoboto.jp/?q=%e6%99%82\"><span>時</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6\"><strong>に限って</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%b1%e4%b8%ad%e3%81%a0%e3%80%82\"><span>話中だ。</span></a>",
+      "segments": [
+        {
+          "text": "彼女の携帯電話は話したい時",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に限って",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、話中だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょのけいたいでんわははなしたいときにかぎって、はなしちゅうだ。",
+      "credits_raw": "belajar",
+      "translations": [
+        {
+          "language": "en",
+          "text": "at the time want to talk to him, the phone is busy.",
+          "html": "<span>at the time want to talk to him, the phone is busy. </span>",
+          "segments": [
+            {
+              "text": "at the time want to talk to him, the phone is busy. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8569,
+      "position": 14,
+      "japanese": "朗らかは洒落に限る。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%9c%97%e3%82%89%e3%81%8b%e3%81%af\"><span>朗らかは</span></a><a href=\"https://takoboto.jp/?q=%e6%b4%92%e8%90%bd%e3%81%ab\"><span>洒落に</span></a><a href=\"https://takoboto.jp/?q=%e9%99%90%e3%82%8b%e3%80%82\"><span>限る。</span></a>",
+      "segments": [
+        {
+          "text": "朗らかは洒落に限る。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ほがらかはしゃれにかぎる。",
+      "credits_raw": "belajar",
+      "translations": [
+        {
+          "language": "en",
+          "text": "when pleased, the best is joking.",
+          "html": "<span>when pleased, the best is joking. </span>",
+          "segments": [
+            {
+              "text": "when pleased, the best is joking. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "nikagitte\ncan mean limited to\n明日に限って、割引します\njust for tomorrow, we are giving a discount",
+      "html": "nikagitte<br/>can mean limited to<br/>明日に限って、割引します<br/>just for tomorrow, we are giving a discount",
+      "credits_raw": "dc",
+      "content_sha256": "40a3b3863ad201902f2a073d014973fe6f683ecd9903ccba9ee1792a70a6f3c8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "＊This is a compound particle to show that only X is different from others. It's meant to express an exclusive focus on topic item X. The predicate is either explicitly negative as in example #6312, or implicitly negative as in example #6313. An explicitly affirmative predicate cannot occur with に限って.\n\nTHIS IS WRONG: その日に限っていい天気だった。 (Only on that day, the weather was good.)",
+      "html": "＊This is a compound particle to show that only X is different from others. It's meant to express an exclusive focus on topic item X. The predicate is either explicitly negative as in example #6312, or implicitly negative as in example #6313. An explicitly affirmative predicate cannot occur with に限って.<br/><br/>THIS IS WRONG: その日に限っていい天気だった。 (Only on that day, the weather was good.)",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "e732ab717676aad5de2b1fecd917b9072b362ee2158dcde2f923a84a9a93ad36",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "ex1 might be translated as \"would be the last to\"",
+      "html": "ex1 might be translated as \"would be the last to\"",
+      "credits_raw": "dc",
+      "content_sha256": "a03fefec93a6272731763bd9ff646df837e9fc063d587357de7f0b95ab641dc7",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "The implication is that you wouldn't put it past _other_ children.",
+      "html": "The implication is that you wouldn't put it past _other_ children.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "b3bebdbccc266de9670806304d48f654f4a0f364bf18af98239c10ebf1804ebc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "What about \"would be the last to do\" (sorry I'm not a native speaker of neither English nor Japanese)?\n\nOther forms: ~に限る with two meanings\n1) resticted to, exclusively, only (女性に限る)\n2) the best (夏はビールに限る)",
+      "html": "What about \"would be the last to do\" (sorry I'm not a native speaker of neither English nor Japanese)?<br/><br/>Other forms: ~に限る with two meanings<br/>1) resticted to, exclusively, only (女性に限る)<br/>2) the best (夏はビールに限る)",
+      "credits_raw": "halx",
+      "content_sha256": "70cef44ba19e058d2d0dbedf6871921320be864b32fbb2b6c8f853fb8f9eac0d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "i think this expresses a contrast, or slight exasperation. \n\"I usually dont sleep in, but just this one day (when i had an interview) I overslept\".",
+      "html": "i think this expresses a contrast, or slight exasperation. <br/>\"I usually dont sleep in, but just this one day (when i had an interview) I overslept\".",
+      "credits_raw": "dc",
+      "content_sha256": "6fab186d803a4839e79715af23212f104a076ff970f594195f5b0e6481323800",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "there isnt a direct single word in english for it. \"of all days\" / \"just this day\" / \"particularly today\"",
+      "html": "there isnt a direct single word in english for it. \"of all days\" / \"just this day\" / \"particularly today\"",
+      "credits_raw": "dc",
+      "content_sha256": "c5d27b7d290ec869d88a94bea210725149cca5385e29b106f2c50e1e70f27008",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 890,
+      "label": "をはじめ",
+      "source_url": "https://takoboto.jp/bunpo/890"
+    },
+    {
+      "target_id": 838,
+      "label": "限り",
+      "source_url": "https://takoboto.jp/bunpo/838"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:33:10+00:00",
+  "response_sha256": "7a7fe2691b419e570234a8991eafd4732bc2efa6e963a10c048fb706b3eb8187",
+  "warnings": []
+}

@@ -1,0 +1,622 @@
+{
+  "schema_version": 2,
+  "id": 1162,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1162/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "ところに、ところへ、ところを",
+  "romanized_label": "tokoroni, tokorohe, tokorowo",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "newt",
+  "meaning": "(Just) when",
+  "meaning_example": "Just when I had decided to call her, she phoned me.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1162",
+      "body_text": "(Just) when \n Just when I had decided to call her, she phoned me.",
+      "body_html": "<span>(Just) when</span> <br/> <span>Just when I had decided to call her, she phoned me.</span>",
+      "credits_raw": "newt"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1162",
+      "body_text": "Verb（ている形）+ところVerb（た形）+ところNoun+の+ところい-adjective+ところ",
+      "body_html": "<div><div><div>Verb（ている形）</div></div><div><div>+</div><div>ところ</div></div></div><div><div><div>Verb（た形）</div></div><div><div>+</div><div>ところ</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>ところ</div></div></div><div><div><div>い-adjective</div></div><div><div>+</div><div>ところ</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Verb（ている形） + ところ",
+    "Verb（た形） + ところ",
+    "Noun + の + ところ",
+    "い-adjective + ところ"
+  ],
+  "examples": [
+    {
+      "source_id": 3198,
+      "position": 0,
+      "japanese": "こっそりたばこを吸っているところを妹に見られた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%a3%e3%81%9d%e3%82%8a%e3%81%9f%e3%81%b0%e3%81%93%e3%82%92\"><span>こっそりたばこを</span></a><a href=\"https://takoboto.jp/?q=%e5%90%b8%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b\"><span>吸っている</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%82%92\"><strong>ところを</strong></a><a href=\"https://takoboto.jp/?q=%e5%a6%b9%e3%81%ab\"><span>妹に</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%8b%e3%82%89%e3%82%8c%e3%81%9f%e3%80%82\"><span>見られた。</span></a>",
+      "segments": [
+        {
+          "text": "こっそりたばこを吸っている",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ところを",
+          "grammar_highlight": true
+        },
+        {
+          "text": "妹に見られた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こっそりたばこをすっているところをいもうとにみられた。",
+      "credits_raw": "newt, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I was having a cheeky cigarette and on that occasion, I was seen by my little sister",
+          "html": "<span>I was having a cheeky cigarette and </span><strong>on that occasion, </strong><span>I was seen by my little sister </span>",
+          "segments": [
+            {
+              "text": "I was having a cheeky cigarette and ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "on that occasion, ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I was seen by my little sister ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6273,
+      "position": 1,
+      "japanese": "ぐっすり寝ているところに地震が起きて、はっと目が覚めた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%90%e3%81%a3%e3%81%99%e3%82%8a\"><span>ぐっすり</span></a><a href=\"https://takoboto.jp/?q=%e5%af%9d%e3%81%a6%e3%81%84%e3%82%8b\"><span>寝ている</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%ab\"><strong>ところに</strong></a><a href=\"https://takoboto.jp/?q=%e5%9c%b0%e9%9c%87%e3%81%8c\"><span>地震が</span></a><a href=\"https://takoboto.jp/?q=%e8%b5%b7%e3%81%8d%e3%81%a6%e3%80%81%e3%81%af%e3%81%a3%e3%81%a8\"><span>起きて、はっと</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%ae%e3%81%8c\"><span>目が</span></a><a href=\"https://takoboto.jp/?q=%e8%a6%9a%e3%82%81%e3%81%9f%e3%80%82\"><span>覚めた。</span></a>",
+      "segments": [
+        {
+          "text": "ぐっすり寝ている",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ところに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "地震が起きて、はっと目が覚めた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ぐっすりねているところにじしんがおきて、はっとめがさめた。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "An earthquake hit right when I was soundly asleep, and I jerked awake.",
+          "html": "<span>An earthquake hit right when I was soundly asleep, and I jerked awake. </span>",
+          "segments": [
+            {
+              "text": "An earthquake hit right when I was soundly asleep, and I jerked awake. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6274,
+      "position": 2,
+      "japanese": "彼女に電話をかけようとしたところへ、彼女のほうからかかってきた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ab%e9%9b%bb%e8%a9%b1%e3%82%92%e3%81%8b%e3%81%91%e3%82%88%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f\"><span>彼女に電話をかけようとした</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%b8\"><strong>ところへ</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e5%bd%bc%e5%a5%b3%e3%81%ae%e3%81%bb%e3%81%86%e3%81%8b%e3%82%89%e3%81%8b%e3%81%8b%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82\"><span>、彼女のほうからかかってきた。</span></a>",
+      "segments": [
+        {
+          "text": "彼女に電話をかけようとした",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ところへ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、彼女のほうからかかってきた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かのじょにでんわをかけようとしたところへ、かのじょのほうからかかってきた。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Just when I had decided to give her a call, she phoned me.",
+          "html": "<span>Just when I had decided to give her a call, she phoned me. </span>",
+          "segments": [
+            {
+              "text": "Just when I had decided to give her a call, she phoned me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6275,
+      "position": 3,
+      "japanese": "犯人は、店から出てきたところを、警官に捕らえられた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%8a%af%e4%ba%ba%e3%81%af%e3%80%81%e5%ba%97%e3%81%8b%e3%82%89%e5%87%ba%e3%81%a6%e3%81%8d%e3%81%9f\"><span>犯人は、店から出てきた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%82%92\"><strong>ところを</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e8%ad%a6%e5%ae%98%e3%81%ab%e6%8d%95%e3%82%89%e3%81%88%e3%82%89%e3%82%8c%e3%81%9f%e3%80%82\"><span>、警官に捕らえられた。</span></a>",
+      "segments": [
+        {
+          "text": "犯人は、店から出てきた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ところを",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、警官に捕らえられた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "はんにんは、みせからでてきたところを、けいかんにとらえられた。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Just as the thief left the store, a policeman arrested him.",
+          "html": "<span>Just as the thief left the store, a policeman arrested him. </span>",
+          "segments": [
+            {
+              "text": "Just as the thief left the store, a policeman arrested him. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6276,
+      "position": 4,
+      "japanese": "お忙しいところを来てくださって、ありがとうございます。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a%e5%bf%99%e3%81%97%e3%81%84\"><span>お忙しい</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%82%92\"><strong>ところを</strong></a><a href=\"https://takoboto.jp/?q=%e6%9d%a5%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%a3%e3%81%a6%e3%80%81%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99%e3%80%82\"><span>来てくださって、ありがとうございます。</span></a>",
+      "segments": [
+        {
+          "text": "お忙しい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ところを",
+          "grammar_highlight": true
+        },
+        {
+          "text": "来てくださって、ありがとうございます。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おいそがしいところをきてくださって、ありがとうございます。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Thank you very much for coming when you're so busy.",
+          "html": "<span>Thank you very much for coming when you're so busy. </span>",
+          "segments": [
+            {
+              "text": "Thank you very much for coming when you're so busy. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6277,
+      "position": 5,
+      "japanese": "本日は、休日のところを、おいでいただき恐れ入ります。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%9c%ac%e6%97%a5%e3%81%af%e3%80%81%e4%bc%91%e6%97%a5%e3%81%ae\"><span>本日は、休日の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%82%92\"><strong>ところを</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%8a%e3%81%84%e3%81%a7%e3%81%84%e3%81%9f%e3%81%a0%e3%81%8d%e6%81%90%e3%82%8c%e5%85%a5%e3%82%8a%e3%81%be%e3%81%99%e3%80%82\"><span>、おいでいただき恐れ入ります。</span></a>",
+      "segments": [
+        {
+          "text": "本日は、休日の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ところを",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、おいでいただき恐れ入ります。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ほんじつは、きゅうじつのところを、おいでいただきおそれいります。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I'm amazed that you came all the way out here when today is a holiday.",
+          "html": "<span>I'm amazed that you came all the way out here when today is a holiday. </span>",
+          "segments": [
+            {
+              "text": "I'm amazed that you came all the way out here when today is a holiday. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3196,
+      "position": 6,
+      "japanese": "これから寝ようとしたところへ友達が訪ねてきた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%8b%e3%82%89\"><span>これから</span></a><a href=\"https://takoboto.jp/?q=%e5%af%9d%e3%82%88%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f\"><span>寝ようとした</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%b8\"><strong>ところへ</strong></a><a href=\"https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%81%8c\"><span>友達が</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%aa%e3%81%ad%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82\"><span>訪ねてきた。</span></a>",
+      "segments": [
+        {
+          "text": "これから寝ようとした",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ところへ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "友達が訪ねてきた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "これからねようとしたところへともだちがたずねてきた。",
+      "credits_raw": "newt",
+      "translations": [
+        {
+          "language": "en",
+          "text": "「when」 I was about to sleep, my friend came over",
+          "html": "<strong>「when」 </strong><span>I was about to sleep, </span><span>my friend came over </span>",
+          "segments": [
+            {
+              "text": "「when」 ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I was about to sleep, my friend came over ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3197,
+      "position": 7,
+      "japanese": "いいところへ来ましたね。今ちょうどスイカを切ったんです。一緒に食べましょう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%84%e3%81%84\"><span>いい</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%b8\"><strong>ところへ</strong></a><a href=\"https://takoboto.jp/?q=%e6%9d%a5%e3%81%be%e3%81%97%e3%81%9f%e3%81%ad%e3%80%82\"><span>来ましたね。</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e3%82%b9%e3%82%a4%e3%82%ab%e3%82%92\"><span>今ちょうどスイカを</span></a><a href=\"https://takoboto.jp/?q=%e5%88%87%e3%81%a3%e3%81%9f%e3%82%93%e3%81%a7%e3%81%99%e3%80%82\"><span>切ったんです。</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e7%b7%92%e3%81%ab\"><span>一緒に</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%be%e3%81%97%e3%82%87%e3%81%86%e3%80%82\"><span>食べましょう。</span></a>",
+      "segments": [
+        {
+          "text": "いい",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ところへ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "来ましたね。今ちょうどスイカを切ったんです。一緒に食べましょう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いいところへきましたね。いまちょうどスイカをきったんです。いっしょにたべましょう。",
+      "credits_raw": "newt, dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "You came at a good time. I was just cutting up a watermelon. Lets eat together.",
+          "html": "<span>You came at a good </span><strong>time. </strong><span>I was just cutting up a watermelon. Lets eat together. </span>",
+          "segments": [
+            {
+              "text": "You came at a good ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "time. ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I was just cutting up a watermelon. Lets eat together. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6946,
+      "position": 8,
+      "japanese": "家を出ようとしたところに電話があり、打ち合わせはキャンセルになりました。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%ae%b6%e3%82%92\"><span>家を</span></a><a href=\"https://takoboto.jp/?q=%e5%87%ba%e3%82%88%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f\"><span>出ようとした</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%ab\"><strong>ところに</strong></a><a href=\"https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%8c%e3%81%82%e3%82%8a%e3%80%81\"><span>電話があり、</span></a><a href=\"https://takoboto.jp/?q=%e6%89%93%e3%81%a1\"><span>打ち</span></a><a href=\"https://takoboto.jp/?q=%e5%90%88%e3%82%8f%e3%81%9b%e3%81%af%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%bb%e3%83%ab%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82\"><span>合わせはキャンセルになりました。</span></a>",
+      "segments": [
+        {
+          "text": "家を出ようとした",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ところに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "電話があり、打ち合わせはキャンセルになりました。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "いえをでようとしたところにでんわがあり、うちあわせはキャンセルになりました。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I was just about to leave the house when the phone rang. The appointment was cancelled.",
+          "html": "<span>I was </span><strong>just about to </strong><span>leave </span><span>the house when the phone rang. The appointment was cancelled. </span>",
+          "segments": [
+            {
+              "text": "I was ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "just about to ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "leave the house when the phone rang. The appointment was cancelled. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6950,
+      "position": 9,
+      "japanese": "あわてたところをみると、彼は事実を知っているにまちがいない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%8f%e3%81%a6%e3%81%9f\"><span>あわてた</span></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%82%92\"><strong>ところを</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%bf%e3%82%8b%e3%81%a8%e3%80%81\"><span>みると、</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%af\"><span>彼は</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%8b%e5%ae%9f%e3%82%92\"><span>事実を</span></a><a href=\"https://takoboto.jp/?q=%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ab%e3%81%be%e3%81%a1%e3%81%8c%e3%81%84%e3%81%aa%e3%81%84%e3%80%82\"><span>知っているにまちがいない。</span></a>",
+      "segments": [
+        {
+          "text": "あわてた",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ところを",
+          "grammar_highlight": true
+        },
+        {
+          "text": "みると、彼は事実を知っているにまちがいない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あわてたところをみると、かれはじじつをしっているにまちがいない。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "From the very moment I saw he became confused, I am certain that he knows the truth.",
+          "html": "<strong>From the very moment </strong><span>I saw he became confused, </span><span>I am certain that he knows the truth. </span>",
+          "segments": [
+            {
+              "text": "From the very moment ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I saw he became confused, I am certain that he knows the truth. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "＊This grammar is used to express a certain time or circumstances, NOT a place.\n\n＊All three versions of ところ are interchangeable grammatically, though nuance can differ.\n\nFORMATION:\nＶ(dict. form / たform / ているform) + ところ\nいＡ + ところ\nＮ + のところ",
+      "html": "＊This grammar is used to express a certain time or circumstances, NOT a place.<br/><br/>＊All three versions of ところ are interchangeable grammatically, though nuance can differ.<br/><br/>FORMATION:<br/>Ｖ(dict. form / たform / ているform) + ところ<br/>いＡ + ところ<br/>Ｎ + のところ",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "e101d0f5658eb2280153b76158ab1cd313ed5f2c82b4f03a50bd7f6f4a56aeee",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Generally speaking, the final particle in this grammar is interchangable with others, giving different nuance.\n[ところへ] emphasizes the process of getting to the given situation described by ところ such as XXXのところへ行った、\n[ところに] emphasizes the fact that you were at that given situation such as XXXのところに出くわした.\n[ところを] takes the situation described by ところ and provide the bridge to whatever was done to that siatuation, such as XXXのところを見られた",
+      "html": "Generally speaking, the final particle in this grammar is interchangable with others, giving different nuance.<br/>[ところへ] emphasizes the process of getting to the given situation described by ところ such as XXXのところへ行った、<br/>[ところに] emphasizes the fact that you were at that given situation such as XXXのところに出くわした.<br/>[ところを] takes the situation described by ところ and provide the bridge to whatever was done to that siatuation, such as XXXのところを見られた",
+      "credits_raw": "claytonian",
+      "content_sha256": "34c5664b792711540166b44e3d57310e9709cadc25b3545a43fe7b3ad8401fa1",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Go ahead and delete.",
+      "html": "Go ahead and delete.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "72b6ba543d502d15b30862072c49a1b1e5a447b196a4187822d9b802e20bb192",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "I'm a bit confused re. when to use ところへ、ところに、and ところを・・ Can someone please help? (^^)",
+      "html": "I'm a bit confused re. when to use ところへ、ところに、and ところを・・ Can someone please help? (^^)",
+      "credits_raw": "foggynotion",
+      "content_sha256": "d4a1e18e8bb1896721c5cd9b25654e0d6bdf7c3dada88572c8229021998a892a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "ところへ emphasizes the process of getting to the given situation described by ところ such as XXXのところへ行った、ところに emphasizes the fact that you at at that given situation such as XXXのところに出くわした、and ところを takes the situation described by ところ and provide the bridge to whatever was done to that siatuation, such as XXXのところを見られた.",
+      "html": "ところへ emphasizes the process of getting to the given situation described by ところ such as XXXのところへ行った、ところに emphasizes the fact that you at at that given situation such as XXXのところに出くわした、and ところを takes the situation described by ところ and provide the bridge to whatever was done to that siatuation, such as XXXのところを見られた.",
+      "credits_raw": "bamboo4",
+      "content_sha256": "37859588ebac8c67aa4656047826b12dfd57744f33af7894624282f34cb61dce",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "I suggest deleting this one. Comments?\nこれは消すがいいとおもいます。他の意見は？",
+      "html": "I suggest deleting this one. Comments?<br/>これは消すがいいとおもいます。他の意見は？",
+      "credits_raw": "Amatuka",
+      "content_sha256": "852a4c6ee0f3d69d6bbae67069d269ecf1620824de7c6866ba38c041691f0e6c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "ex#3197 I don't know what ずいか is. It does not sound tasty. すいか watermelon ならば、一緒に食べたい。",
+      "html": "ex#3197 I don't know what ずいか is. It does not sound tasty. すいか watermelon ならば、一緒に食べたい。",
+      "credits_raw": "Miki",
+      "content_sha256": "16c1c90108a487a8bafad13eef8aecac03608bbabd3a58e27f24694c07151aa8",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "changed it to ズイカ and added a translation. Hopefully this does not mean you just cut up your JR pass...",
+      "html": "changed it to ズイカ and added a translation. Hopefully this does not mean you just cut up your JR pass...",
+      "credits_raw": "dc",
+      "content_sha256": "d4bbeacc0be0ad079eeee8b540ff33a835a69a07c7b193c033c29b89ef6f260d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "ところへ is wrong. It should be ところで、which implies that the criminal did come out of the shop and that he was apprehended at that very moment. The particle で is a contraction of にて meaning \"at that place.\"",
+      "html": "ところへ is wrong. It should be ところで、which implies that the criminal did come out of the shop and that he was apprehended at that very moment. The particle で is a contraction of にて meaning \"at that place.\"",
+      "credits_raw": "bamboo4",
+      "content_sha256": "2542864d2d67d61c8f623460db73f9efaa1ab5eec58211550382aae801ee4f16",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Thought it looked dodgy.",
+      "html": "Thought it looked dodgy.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "a7035be6800c71a36e764b70c2a7984133195f5df356dadfb18793a5e0006722",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "The -2 check sticks.\nI think the 'tokoro' entries need clearing up a bit - this is possibly redundant.\nEither that or it needs examples that don't match tatokoro or rutokoro",
+      "html": "The -2 check sticks.<br/>I think the 'tokoro' entries need clearing up a bit - this is possibly redundant.<br/>Either that or it needs examples that don't match tatokoro or rutokoro",
+      "credits_raw": "Amatuka",
+      "content_sha256": "e44fda7e9ef30253c16949e58cf077a71a5f5002e40895f14d800653eb5c3335",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 11,
+      "source_id": null,
+      "text": "【ところを】そういう場面を \n【ところに】そういう時に\n【ところへ】そういう場へ",
+      "html": "【ところを】そういう場面を <br/>【ところに】そういう時に<br/>【ところへ】そういう場へ",
+      "credits_raw": "ulle",
+      "content_sha256": "7b5c0dbcf6b51dc9bef2ab0eb92b0e92d2242311ed8827e4c2cd4ccbb281814c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 12,
+      "source_id": null,
+      "text": "I may be wrong, but I don't think these three are interchangeable/mean the same thing at all. For example, ところを has a very specific use as \"although\" (most notably in the set phrase お忙しいところを) that is most certainly not interchangeable with ところへ...",
+      "html": "I may be wrong, but I don't think these three are interchangeable/mean the same thing at all. For example, ところを has a very specific use as \"although\" (most notably in the set phrase お忙しいところを) that is most certainly not interchangeable with ところへ...",
+      "credits_raw": "mankind",
+      "content_sha256": "3be3d1646f030c00248c6dfbdbf2b28e05c26acb2569b87ab26fc7d57bdec1f0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 13,
+      "source_id": null,
+      "text": "What about 〜ところで?\nThat would be nice to have a clear explanation about when to use に、を、で and へ, as bamboo4 started to do...\n\nFor example :\n1) よく眠っているところを起こされた。\n Somebody woke me up while I was deeply sleeping.\nWhy を and not に or で?\n2) 駅の改札口を出たところで、急に雨に降られた。\n Just when I left the station through the gates, it started raining.\nWhy で and not に or を?\n3) 引越しで忙しいところで友達が遊びに来た。\n Just when I was busy with the moving, my friend came over.\nWhy で and not に or を?",
+      "html": "What about 〜ところで?<br/>That would be nice to have a clear explanation about when to use に、を、で and へ, as bamboo4 started to do...<br/><br/>For example :<br/>1) よく眠っているところを起こされた。<br/> Somebody woke me up while I was deeply sleeping.<br/>Why を and not に or で?<br/>2) 駅の改札口を出たところで、急に雨に降られた。<br/> Just when I left the station through the gates, it started raining.<br/>Why で and not に or を?<br/>3) 引越しで忙しいところで友達が遊びに来た。<br/> Just when I was busy with the moving, my friend came over.<br/>Why で and not に or を?",
+      "credits_raw": "Demian",
+      "content_sha256": "488b3bae04d130c36c6c0243c36ad0d795aa4a0afa21850b115a20f09494f04c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 14,
+      "source_id": null,
+      "text": "Interchangeable does not mean \"mean the same.\" It means \"all three work grammatically.\" Nuance does change between the three, so some nuances are better than others.",
+      "html": "Interchangeable does not mean \"mean the same.\" It means \"all three work grammatically.\" Nuance does change between the three, so some nuances are better than others.",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "df2df52ff2269aabfed1d756635aaff37068cb07f8e710630e42d678efb1f4ae",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 15,
+      "source_id": null,
+      "text": "I think that there's no tokorode but tokoroni in this grammar because it's concerned with time.",
+      "html": "I think that there's no tokorode but tokoroni in this grammar because it's concerned with time.",
+      "credits_raw": "amenya",
+      "content_sha256": "605a157a39533259a2bcf2792ed4c97c60bdbc8931f2f6d05957946a53b2de1b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 16,
+      "source_id": null,
+      "text": "VERB TAtokoroni ends in aru/iru\nexample: massugu ittaTOKORONI toire ga aru.\n\nVerb TAtokorode\nexample: tsugi no shingou wo watattaTOKORODE, tometekudasai.",
+      "html": "VERB TAtokoroni ends in aru/iru<br/>example: massugu ittaTOKORONI toire ga aru.<br/><br/>Verb TAtokorode<br/>example: tsugi no shingou wo watattaTOKORODE, tometekudasai.",
+      "credits_raw": "nrehv",
+      "content_sha256": "ed918af93b51da0e40d58df6ee05a501e973c8b1d13929d801843305eae0595b",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:36:08+00:00",
+  "response_sha256": "efe99bc2d4395b139a7e90bd7b79fe37dfbe7eae74a0a8c1fedb95b81d7cf301",
+  "warnings": []
+}

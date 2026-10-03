@@ -1,0 +1,380 @@
+{
+  "schema_version": 2,
+  "id": 1216,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1216/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "から",
+  "romanized_label": "kara",
+  "alternate_forms": [],
+  "jlpt_level": 5,
+  "credits_raw": "Amatuka",
+  "meaning": "because",
+  "meaning_example": null,
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1216",
+      "body_text": "because",
+      "body_html": "<span>because</span>",
+      "credits_raw": "Amatuka"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_1216",
+      "body_text": "sentence one+から+sentence two",
+      "body_html": "<div><div><div>sentence one</div></div><div><div>+</div><div>から</div></div><div><div>+</div><div>sentence two</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "sentence one + から + sentence two"
+  ],
+  "examples": [
+    {
+      "source_id": 471,
+      "position": 0,
+      "japanese": "面接に行くからはげましてください",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e9%9d%a2%e6%8e%a5%e3%81%ab\"><span>面接に</span></a><a href=\"https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f\"><span>行く</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%af%e3%81%92%e3%81%be%e3%81%97%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84\"><span>はげましてください</span></a>",
+      "segments": [
+        {
+          "text": "面接に行く",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "はげましてください",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "めんせつにいくからはげましてください",
+      "credits_raw": "Amatuka",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I'm going to an interview so please encourage me.",
+          "html": "<span>I'm going to an interview </span><strong>so </strong><span>please encourage me. </span>",
+          "segments": [
+            {
+              "text": "I'm going to an interview ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "so ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "please encourage me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3051,
+      "position": 1,
+      "japanese": "必要から発明が生まれる。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bf%85%e8%a6%81\"><span>必要</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e7%99%ba%e6%98%8e%e3%81%8c\"><span>発明が</span></a><a href=\"https://takoboto.jp/?q=%e7%94%9f%e3%81%be%e3%82%8c%e3%82%8b%e3%80%82\"><span>生まれる。</span></a>",
+      "segments": [
+        {
+          "text": "必要",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "発明が生まれる。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ひつようからはつめいがうまれる。",
+      "credits_raw": "bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Inventions are made as dictated by necessity.",
+          "html": "<span>Inventions are made </span><strong>as dictated by </strong><span>necessity. </span>",
+          "segments": [
+            {
+              "text": "Inventions are made ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "as dictated by ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "necessity. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4831,
+      "position": 2,
+      "japanese": "あの日帰ったのは体調が悪かったからです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae\"><span>あの</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e5%b8%b0%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%af\"><span>日帰ったのは</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%93%e8%aa%bf%e3%81%8c\"><span>体調が</span></a><a href=\"https://takoboto.jp/?q=%e6%82%aa%e3%81%8b%e3%81%a3%e3%81%9f\"><span>悪かった</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82\"><span>です。</span></a>",
+      "segments": [
+        {
+          "text": "あの日帰ったのは体調が悪かった",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あのひかえったのはたいちょうがわるかったからです。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It is because the physical condition was bad that I returned that day.",
+          "html": "<span>It is </span><strong>because </strong><span>the physical condition was bad that I returned that day. </span>",
+          "segments": [
+            {
+              "text": "It is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "because ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the physical condition was bad that I returned that day. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4832,
+      "position": 3,
+      "japanese": "ああ、ゆっくりやって下さい。急ぎませんから。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%82%e3%80%81%e3%82%86%e3%81%a3%e3%81%8f%e3%82%8a%e3%82%84%e3%81%a3%e3%81%a6\"><span>ああ、ゆっくりやって</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84%e3%80%82\"><span>下さい。</span></a><a href=\"https://takoboto.jp/?q=%e6%80%a5%e3%81%8e%e3%81%be%e3%81%9b%e3%82%93\"><span>急ぎません</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%80%82\"><strong>から。</strong></a>",
+      "segments": [
+        {
+          "text": "ああ、ゆっくりやって下さい。急ぎません",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から。",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "ああ、ゆっくりやってください。いそぎませんから。",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Oh, take your time. (Because) I'm in no hurry.",
+          "html": "<span>Oh, take your time. </span><strong>(Because) </strong><span>I'm in no hurry. </span>",
+          "segments": [
+            {
+              "text": "Oh, take your time. ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "(Because) ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I'm in no hurry. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8667,
+      "position": 4,
+      "japanese": "昨夜病気だから、眠れなかった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%98%a8%e5%a4%9c%e7%97%85%e6%b0%97%e3%81%a0\"><span>昨夜病気だ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89\"><strong>から</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e7%9c%a0%e3%82%8c%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82\"><span>眠れなかった。</span></a>",
+      "segments": [
+        {
+          "text": "昨夜病気だ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "から",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、眠れなかった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "さくやびょうきだから、ねむれなかった。",
+      "credits_raw": "反戦",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Because I was sick, I couldn't sleep last night.",
+          "html": "<strong>Because </strong><span>I was sick, I couldn't sleep last night. </span>",
+          "segments": [
+            {
+              "text": "Because ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I was sick, I couldn't sleep last night. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "A1 (plain form) + からです \nA2 (root) + だから \nN + だから",
+      "html": "A1 (plain form) + からです <br/>A2 (root) + だから <br/>N + だから",
+      "credits_raw": "yookoso",
+      "content_sha256": "b59e2a7e2360ef7c89c63190035652d8a41ca367fcb91d21931692183bf4fc80",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "See also [node]",
+      "html": "See also [node]",
+      "credits_raw": "Miki",
+      "content_sha256": "8e3d9dd34512f4d3de0b3ecc4c7ebc3b123b1b26d8b13795218fe6a508e75bfc",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "See also 'kara-2' (from)",
+      "html": "See also 'kara-2' (from)",
+      "credits_raw": "Amatuka",
+      "content_sha256": "cb9b306d7c421ba0e774fd297cd7bc6ca0fa681e30a932cc2d5b7c7b84a2913d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "what if kara comes at the end of a sentence? Are there any more examples of this?",
+      "html": "what if kara comes at the end of a sentence? Are there any more examples of this?",
+      "credits_raw": "Crystal",
+      "content_sha256": "db0413ed1d73b30c5ff92dc60c95c1ae3e91023bde93a5e5d72702e8727a74a9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "kara at the end of a sentence seems like an answer to a question:\nsore ha takai kara / okane ga nai node\nbecause its expensive / because i dont have any money\n(when you have just been asked why you didnt buy something)\n\ndakara also isused at the end in the same way.\nhiroko no koto dakara ...\nbecause its hiroko...",
+      "html": "kara at the end of a sentence seems like an answer to a question:<br/>sore ha takai kara / okane ga nai node<br/>because its expensive / because i dont have any money<br/>(when you have just been asked why you didnt buy something)<br/><br/>dakara also isused at the end in the same way.<br/>hiroko no koto dakara ...<br/>because its hiroko...",
+      "credits_raw": "dc",
+      "content_sha256": "acaa0d4f2a72c016c5bfb68426d39d310e9ac1955c4a8e4c2278ebbfdb93a582",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "I saw the following explanation of the difference between kara and node on a mailing list today: \n\nThe conjunction \"kara\" and \"node\" both express reason or cause. While \"kara\" is used for reason or cause of a speaker's volition, opinion and so on, \"node\" is for existing (existed) action or situation.\n- Kino wa samukatta node uchi ni imashita. Since it was cold, I stayed home.\n- Atama ga itakatta node gakkou o yasunda. Since I had a headache, I didn't go to school. \n- Totemo shizukadatta node yoku nemuremashita. Since it was very quiet, I could sleep well.\n- Yoku benkyou shita node shiken ni goukaku shita. Since I studied hard, I passed the examination.\n\nThe sentences expressing personal judgment such as speculation, suggestion, intention, request, opinion, volition, invitation, and so forth must take \"kara.\"\n- Kono kawa wa kitanai kara tabun sakana wa inai deshou. Since this river is polluted, there is probably no fish. \n- Mou osoi kara hayaku nenasai. Go to bed, since it is getting late.\n- Kono hon wa totemo omoshiroi kara yonda hou ga ii. This book is very interesting, so you'd better to read it.\n- Kono kuruma wa furui kara atarashi kuruma ga hoshii desu. This car is old, so I want a new car.\n\nWhile \"kara\" focuses more on the reason, \"node\" focuses more on the resulting effect. This is why the \"kara\" clause is used independently more often than \"node\".\n- Doushite okureta no. Why were you late?\n- Densha ni nori okureta kara. Because I missed the train.\n\n\"Kara\" can be immediately followed by \"~ desu.\"\n- Atama ga itakatta kara desu. Because I had a headache. (OK)\n- Atama ga itakatta node desu. Because I had a headache. (Not OK = Wrong)\n\nAny comments, corrections?",
+      "html": "I saw the following explanation of the difference between kara and node on a mailing list today: <br/><br/>The conjunction \"kara\" and \"node\" both express reason or cause. While \"kara\" is used for reason or cause of a speaker's volition, opinion and so on, \"node\" is for existing (existed) action or situation.<br/>- Kino wa samukatta node uchi ni imashita. Since it was cold, I stayed home.<br/>- Atama ga itakatta node gakkou o yasunda. Since I had a headache, I didn't go to school. <br/>- Totemo shizukadatta node yoku nemuremashita. Since it was very quiet, I could sleep well.<br/>- Yoku benkyou shita node shiken ni goukaku shita. Since I studied hard, I passed the examination.<br/><br/>The sentences expressing personal judgment such as speculation, suggestion, intention, request, opinion, volition, invitation, and so forth must take \"kara.\"<br/>- Kono kawa wa kitanai kara tabun sakana wa inai deshou. Since this river is polluted, there is probably no fish. <br/>- Mou osoi kara hayaku nenasai. Go to bed, since it is getting late.<br/>- Kono hon wa totemo omoshiroi kara yonda hou ga ii. This book is very interesting, so you'd better to read it.<br/>- Kono kuruma wa furui kara atarashi kuruma ga hoshii desu. This car is old, so I want a new car.<br/><br/>While \"kara\" focuses more on the reason, \"node\" focuses more on the resulting effect. This is why the \"kara\" clause is used independently more often than \"node\".<br/>- Doushite okureta no. Why were you late?<br/>- Densha ni nori okureta kara. Because I missed the train.<br/><br/>\"Kara\" can be immediately followed by \"~ desu.\"<br/>- Atama ga itakatta kara desu. Because I had a headache. (OK)<br/>- Atama ga itakatta node desu. Because I had a headache. (Not OK = Wrong)<br/><br/>Any comments, corrections?",
+      "credits_raw": "yookoso",
+      "content_sha256": "02e6529a0b8f1331c2e2f0a3679ee6be1b14d6ec90ffbdf49ad6d8ef494a5c28",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "Pls help as I am NOT able to click into the lines to flash out the glossary. It stated \"no space\" - why and how to rectify?\nOnegai shimasu\n\nkuahjoanne@yahoo.com.sg",
+      "html": "Pls help as I am NOT able to click into the lines to flash out the glossary. It stated \"no space\" - why and how to rectify?<br/>Onegai shimasu<br/><br/>kuahjoanne@yahoo.com.sg",
+      "credits_raw": "jokuah",
+      "content_sha256": "62f41c5ad29d7e242b2fd7f52806206f03b033dbdc0f2b31e0f58e62e3c2c998",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "It's the first time that I read an understandable explanation.\nThank you so much for it.",
+      "html": "It's the first time that I read an understandable explanation.<br/>Thank you so much for it.",
+      "credits_raw": "parodia",
+      "content_sha256": "f1be34f21d029fbd0c2316fd8677b0c67b0ae65da0589b6d9099e9f479475bc4",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "that's awesome guys! arigatou gozaimasu :D",
+      "html": "that's awesome guys! arigatou gozaimasu :D",
+      "credits_raw": "feru",
+      "content_sha256": "5b8501429cda522d9189c072b163dd2a5e3f8ac370a4595edb03736dfbaf173e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "den/dan in turkish btw",
+      "html": "den/dan in turkish btw",
+      "credits_raw": "nihongo jouzu",
+      "content_sha256": "c8ab19f5a08dbbc0de877e755c3431efdcdf6c4cda177bad29393afc0b20320c",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1269,
+      "label": "てから",
+      "source_url": "https://takoboto.jp/bunpo/1269"
+    },
+    {
+      "target_id": 1217,
+      "label": "ので",
+      "source_url": "https://takoboto.jp/bunpo/1217"
+    },
+    {
+      "target_id": 1778,
+      "label": "からして",
+      "source_url": "https://takoboto.jp/bunpo/1778"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:32:02+00:00",
+  "response_sha256": "690de81b751347e1169152d7377725a1959ce4ea7a72195fb4a6fe09cfa47afb",
+  "warnings": []
+}

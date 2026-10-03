@@ -1,0 +1,90 @@
+{
+  "schema_version": 2,
+  "id": 1669,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1669/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "旨",
+  "romanized_label": "mune",
+  "alternate_forms": [
+    "むね"
+  ],
+  "jlpt_level": null,
+  "credits_raw": "angie",
+  "meaning": "concerning ... , regarding ... , that ...",
+  "meaning_example": "(phrase)する旨。。。　that (phrase)",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "similar to こと",
+      "html": "similar to こと"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1669",
+      "body_text": "concerning ... , regarding ... , that ... \n (phrase)する旨。。。　that (phrase) \n similar to こと",
+      "body_html": "<span>concerning ... , regarding ... , that ...</span> <br/> <span>(phrase)する旨。。。　that (phrase)</span> <br/> <span>similar to こと</span>",
+      "credits_raw": "angie"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 7012,
+      "position": 0,
+      "japanese": "被疑者が検察官の、自白をすれば起訴猶予する旨のことばを信じた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%a2%ab%e7%96%91%e8%80%85%e3%81%8c\"><span>被疑者が</span></a><a href=\"https://takoboto.jp/?q=%e6%a4%9c%e5%af%9f%e5%ae%98%e3%81%ae%e3%80%81\"><span>検察官の、</span></a><a href=\"https://takoboto.jp/?q=%e8%87%aa%e7%99%bd%e3%82%92%e3%81%99%e3%82%8c%e3%81%b0\"><span>自白をすれば</span></a><a href=\"https://takoboto.jp/?q=%e8%b5%b7%e8%a8%b4%e7%8c%b6%e4%ba%88%e3%81%99%e3%82%8b\"><span>起訴猶予する</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a8\"><strong>旨</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%81%93%e3%81%a8%e3%81%b0%e3%82%92\"><span>のことばを</span></a><a href=\"https://takoboto.jp/?q=%e4%bf%a1%e3%81%98%e3%81%9f%e3%80%82\"><span>信じた。</span></a>",
+      "segments": [
+        {
+          "text": "被疑者が検察官の、自白をすれば起訴猶予する",
+          "grammar_highlight": false
+        },
+        {
+          "text": "旨",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のことばを信じた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ひぎしゃがけんさつかんの、じはくをすればきそゆうよするむねのことばをしんじた。",
+      "credits_raw": "angie",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The suspect believed in the prosecutor's words THAT the prosecution would be delayed if he confessed.",
+          "html": "<span>The suspect believed in the prosecutor's words </span><strong>THAT </strong><span>the prosecution would be delayed if he confessed. </span>",
+          "segments": [
+            {
+              "text": "The suspect believed in the prosecutor's words ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "THAT ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the prosecution would be delayed if he confessed. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:47:26+00:00",
+  "response_sha256": "898a49e785d829ac3f6a1ac493a31b4d86553f5c9bc7c69b0778ab117229269a",
+  "warnings": []
+}

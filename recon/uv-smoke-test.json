@@ -1,0 +1,65 @@
+{
+  "runtime": "3.14.6",
+  "package_manager": "uv",
+  "httpx_version": "0.28.1",
+  "tests_passed": 34,
+  "fresh_live_content_pages": 2,
+  "index_discovery_requests": 0,
+  "takoboto": {
+    "id": 725,
+    "examples": 20,
+    "comments": 7,
+    "source_url": "https://takoboto.jp/bunpo/725/",
+    "retrieved_at": "2026-10-03T07:16:40+00:00"
+  },
+  "jgram": {
+    "id": 978,
+    "label": "ageku",
+    "notes": 6,
+    "examples": 14,
+    "comments": 23,
+    "archive_url": "https://web.archive.org/web/20200215021200id_/http://jgram.org:80/pages/viewOne.php?tagE=ageku",
+    "retrieved_at": "2026-10-03T07:18:34+00:00"
+  },
+  "pacing": {
+    "takoboto": {
+      "checked_at": "2026-10-03T07:16:38+00:00",
+      "request_interval_seconds": 1.5,
+      "burst_size": 5,
+      "burst_pause_seconds": 15,
+      "concurrency": 1,
+      "requests": "GET only; stop on denials, rate limiting, server Retry-After and exhausted server retries"
+    },
+    "jgram": {
+      "checked_at": "2026-10-03T07:18:29+00:00",
+      "robots": {
+        "url": "https://web.archive.org/robots.txt",
+        "status": 404,
+        "retrieved_at": "2026-10-03T07:18:29+00:00",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "policy": "robots.txt unavailable with 404/410; no advertised restrictions"
+      },
+      "request_interval_seconds": 5,
+      "burst_size": 3,
+      "burst_pause_seconds": 30,
+      "concurrency": 1,
+      "cdx_documentation": "https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server",
+      "requests": "GET only; no Save Page Now; no origin fallback; stop on 401/403/429, server Retry-After, exhausted server retries"
+    }
+  },
+  "sqlite_integrity": "ok",
+  "sqlite_foreign_keys": "ok",
+  "sqlite_records_match_source": true,
+  "warnings": [],
+  "network_response_urls": {
+    "takoboto": [
+      "https://takoboto.jp/robots.txt",
+      "https://takoboto.jp/bunpo/725/"
+    ],
+    "jgram": [
+      "https://web.archive.org/robots.txt",
+      "https://web.archive.org/web/20200215021200id_/http://jgram.org:80/pages/viewOne.php?tagE=ageku"
+    ]
+  },
+  "pilot_output": "/Users/alex/Code/manabi/takoboto-grammar-db/smoke/uv-pilot-2026-10-03"
+}

@@ -1,0 +1,43 @@
+{
+  "reviewed_at": "2026-10-03T08:17:47+00:00",
+  "tests_passed": 66,
+  "verification_output": "/Users/alex/Code/manabi/takoboto-grammar-db/smoke/deep-review-856jyivz",
+  "new_live_requests": 0,
+  "network_disabled_during_verification": true,
+  "original_sources_and_test_evidence_unchanged": true,
+  "record_roundtrips": {
+    "takoboto": 643,
+    "jgram": 25,
+    "rss": 5
+  },
+  "json_matches_existing_records": true,
+  "current_source_coverage_verified": true,
+  "archived_source_records_verified": true,
+  "rss_source_records_verified": true,
+  "historical_coverage_complete": false,
+  "pending_historical_labels": 1389,
+  "archive_request_attempt_count": 0,
+  "markdown_files": 674,
+  "sqlite_integrity": "ok",
+  "sqlite_foreign_keys": "ok",
+  "full_sqlite_json_roundtrips": true,
+  "findings_fixed": [
+    "Stale archived records and feeds exported after unsuccessful refresh",
+    "Archive audit failed to verify complete stored fields",
+    "Unverified exclusions and incomplete CDX inventory completeness",
+    "Inline linebreak loss and HTML comments in emphasis segments",
+    "Nonplaceholder user-contribution blocks silently ignored",
+    "RSS channel rights and review-required audit handling",
+    "Historical grammar label eligibility for RSS",
+    "Transport policy guard before online grammar access"
+  ],
+  "limits": [
+    "Full historical replay crawl remains incomplete",
+    "Legacy records without per-label state remain readable; prior refresh holds cannot be reconstructed from discarded reports",
+    "Archive audit reuses the recorded eligibility context for ID-based membership; it does not independently authenticate contributor identity or dates"
+  ],
+  "final_verification_at": "2026-10-03T08:23:27+00:00",
+  "persisted_archive_states": 25,
+  "persisted_feed_states": 5,
+  "latest_selection_checks_revalidated": true
+}

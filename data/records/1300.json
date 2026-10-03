@@ -1,0 +1,584 @@
+{
+  "schema_version": 2,
+  "id": 1300,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1300/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "〜に比べて",
+  "romanized_label": "nikurabete",
+  "alternate_forms": [
+    "〜にくらべて"
+  ],
+  "jlpt_level": 3,
+  "credits_raw": "dc, Jamie McMahon",
+  "meaning": "compared to",
+  "meaning_example": "compared to past times...",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1300",
+      "body_text": "compared to \n compared to past times...",
+      "body_html": "<span>compared to</span> <br/> <span>compared to past times...</span>",
+      "credits_raw": "dc, Jamie McMahon"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 63,
+      "position": 0,
+      "japanese": "今年は去年に比べ、雨の量が多い。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%8a%e5%b9%b4%e3%81%af\"><span>今年は</span></a><a href=\"https://takoboto.jp/?q=%e5%8e%bb%e5%b9%b4\"><span>去年</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9\"><strong>に比べ</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%a8%e3%81%ae\"><span>雨の</span></a><a href=\"https://takoboto.jp/?q=%e9%87%8f%e3%81%8c\"><span>量が</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%9a%e3%81%84%e3%80%82\"><span>多い。</span></a>",
+      "segments": [
+        {
+          "text": "今年は去年",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、雨の量が多い。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ことしはきょねんにくらべ、あめのりょうがおおい。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This year, compared to last year, the quantity of rain is much more.",
+          "html": "<span>This year, </span><strong>compared </strong><span>to last year, the quantity of rain is much more. </span>",
+          "segments": [
+            {
+              "text": "This year, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "compared ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "to last year, the quantity of rain is much more. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 285,
+      "position": 1,
+      "japanese": "ノーパンクタイヤはエアタイヤに比べて寿命が長く、理想的です。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%8e%e3%83%bc%e3%83%91%e3%83%b3%e3%82%af%e3%82%bf%e3%82%a4%e3%83%a4%e3%81%af%e3%82%a8%e3%82%a2%e3%82%bf%e3%82%a4%e3%83%a4\"><span>ノーパンクタイヤはエアタイヤ</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6\"><strong>に比べて</strong></a><a href=\"https://takoboto.jp/?q=%e5%af%bf%e5%91%bd%e3%81%8c\"><span>寿命が</span></a><a href=\"https://takoboto.jp/?q=%e9%95%b7%e3%81%8f%e3%80%81\"><span>長く、</span></a><a href=\"https://takoboto.jp/?q=%e7%90%86%e6%83%b3%e7%9a%84%e3%81%a7%e3%81%99%e3%80%82\"><span>理想的です。</span></a>",
+      "segments": [
+        {
+          "text": "ノーパンクタイヤはエアタイヤ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "寿命が長く、理想的です。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "はエアタイヤにくらべてじゅみょうがながく、りそうてきです。",
+      "credits_raw": "zero",
+      "translations": [
+        {
+          "language": "en",
+          "text": "\"no puncture\" tires in comparison with air tires have a long useful life and are ideal",
+          "html": "<span>\"no puncture\" tires </span><strong>in comparison with </strong><span>air tires have a long useful life and are ideal </span>",
+          "segments": [
+            {
+              "text": "\"no puncture\" tires ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "in comparison with ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "air tires have a long useful life and are ideal ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3596,
+      "position": 2,
+      "japanese": "この作品は君の前のに比べて進歩している。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%9c%e5%93%81%e3%81%af\"><span>作品は</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%ae\"><span>君の</span></a><a href=\"https://takoboto.jp/?q=%e5%89%8d%e3%81%ae\"><span>前の</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6\"><strong>に比べて</strong></a><a href=\"https://takoboto.jp/?q=%e9%80%b2%e6%ad%a9%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>進歩している。</span></a>",
+      "segments": [
+        {
+          "text": "この作品は君の前の",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "進歩している。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このさくひんはきみのぜんのにくらべてしんぽしている。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This work is an improvement on your last.",
+          "html": "<span>This work is an improvement on your last. </span>",
+          "segments": [
+            {
+              "text": "This work is an improvement on your last. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3597,
+      "position": 3,
+      "japanese": "この本はあの本に比べて、ためになるばかりでなくおもしろい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e3%81%af%e3%81%82%e3%81%ae\"><span>本はあの</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac\"><span>本</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6\"><strong>に比べて</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%9f%e3%82%81%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a7%e3%81%aa%e3%81%8f%e3%81%8a%e3%82%82%e3%81%97%e3%82%8d%e3%81%84%e3%80%82\"><span>、ためになるばかりでなくおもしろい。</span></a>",
+      "segments": [
+        {
+          "text": "この本はあの本",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、ためになるばかりでなくおもしろい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このほんはあのほんにくらべて、ためになるばかりでなくおもしろい。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This book is not only more instructive but more interesting than that book.",
+          "html": "<span>This book is not only more instructive but more interesting than that book. </span>",
+          "segments": [
+            {
+              "text": "This book is not only more instructive but more interesting than that book. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3598,
+      "position": 4,
+      "japanese": "それは以前に比べて格段に進歩した。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af\"><span>それは</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%a5%e5%89%8d\"><span>以前</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6\"><strong>に比べて</strong></a><a href=\"https://takoboto.jp/?q=%e6%a0%bc%e6%ae%b5%e3%81%ab\"><span>格段に</span></a><a href=\"https://takoboto.jp/?q=%e9%80%b2%e6%ad%a9%e3%81%97%e3%81%9f%e3%80%82\"><span>進歩した。</span></a>",
+      "segments": [
+        {
+          "text": "それは以前",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "格段に進歩した。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "それはいぜんにくらべてかくだんにしんぽした。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It has greatly improved compared with what it was.",
+          "html": "<span>It has greatly improved compared with what it was. </span>",
+          "segments": [
+            {
+              "text": "It has greatly improved compared with what it was. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3599,
+      "position": 5,
+      "japanese": "コンピューターに比べて、ワープロは一つの目的にしか使えない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%bc\"><span>コンピューター</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6\"><strong>に比べて</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%83%af%e3%83%bc%e3%83%97%e3%83%ad%e3%81%af\"><span>、ワープロは</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e3%81%a4%e3%81%ae\"><span>一つの</span></a><a href=\"https://takoboto.jp/?q=%e7%9b%ae%e7%9a%84%e3%81%ab%e3%81%97%e3%81%8b\"><span>目的にしか</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%bf%e3%81%88%e3%81%aa%e3%81%84%e3%80%82\"><span>使えない。</span></a>",
+      "segments": [
+        {
+          "text": "コンピューター",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、ワープロは一つの目的にしか使えない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "コンピューターにくらべて、ワープロはひとつのもくてきにしかつかえない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Compared to a computer, a word processor has a single purpose.",
+          "html": "<span>Compared to a computer, a word processor has a single purpose. </span>",
+          "segments": [
+            {
+              "text": "Compared to a computer, a word processor has a single purpose. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3600,
+      "position": 6,
+      "japanese": "古い機種に比べてこちらのほうがずっと扱いやすい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%8f%a4%e3%81%84\"><span>古い</span></a><a href=\"https://takoboto.jp/?q=%e6%a9%9f%e7%a8%ae\"><span>機種</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6\"><strong>に比べて</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%a1%e3%82%89%e3%81%ae%e3%81%bb%e3%81%86%e3%81%8c%e3%81%9a%e3%81%a3%e3%81%a8\"><span>こちらのほうがずっと</span></a><a href=\"https://takoboto.jp/?q=%e6%89%b1%e3%81%84%e3%82%84%e3%81%99%e3%81%84%e3%80%82\"><span>扱いやすい。</span></a>",
+      "segments": [
+        {
+          "text": "古い機種",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "こちらのほうがずっと扱いやすい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ふるいきしゅにくらべてこちらのほうがずっとあつかいやすい。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Compared with the old model, this is far easier to handle.",
+          "html": "<span>Compared with the old model, this is far easier to handle. </span>",
+          "segments": [
+            {
+              "text": "Compared with the old model, this is far easier to handle. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3601,
+      "position": 7,
+      "japanese": "昨年に比べて今年は春の訪れが早かった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%98%a8%e5%b9%b4\"><span>昨年</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6\"><strong>に比べて</strong></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e5%b9%b4%e3%81%af\"><span>今年は</span></a><a href=\"https://takoboto.jp/?q=%e6%98%a5%e3%81%ae\"><span>春の</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%aa%e3%82%8c%e3%81%8c\"><span>訪れが</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a9%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82\"><span>早かった。</span></a>",
+      "segments": [
+        {
+          "text": "昨年",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "今年は春の訪れが早かった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "さくねんにくらべてことしははるのおとずれがはやかった。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Spring has come early this year compared with last year.",
+          "html": "<span>Spring has come early this year compared with last year. </span>",
+          "segments": [
+            {
+              "text": "Spring has come early this year compared with last year. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3602,
+      "position": 8,
+      "japanese": "私の収入は支出に比べて、５００ポンド足りない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ae\"><span>私の</span></a><a href=\"https://takoboto.jp/?q=%e5%8f%8e%e5%85%a5%e3%81%af\"><span>収入は</span></a><a href=\"https://takoboto.jp/?q=%e6%94%af%e5%87%ba\"><span>支出</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6\"><strong>に比べて</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%95%ef%bc%90%ef%bc%90%e3%83%9d%e3%83%b3%e3%83%89\"><span>５００ポンド</span></a><a href=\"https://takoboto.jp/?q=%e8%b6%b3%e3%82%8a%e3%81%aa%e3%81%84%e3%80%82\"><span>足りない。</span></a>",
+      "segments": [
+        {
+          "text": "私の収入は支出",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、５００ポンド足りない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしのしゅうにゅうはししゅつにくらべて、５００ポンドたりない。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My income falls short of my expenditure by five hundred pounds.",
+          "html": "<span>My income falls short of my expenditure by five hundred pounds. </span>",
+          "segments": [
+            {
+              "text": "My income falls short of my expenditure by five hundred pounds. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3603,
+      "position": 9,
+      "japanese": "私の足はあなたのに比べて小さい。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%ae\"><span>私の</span></a><a href=\"https://takoboto.jp/?q=%e8%b6%b3%e3%81%af%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae\"><span>足はあなたの</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6\"><strong>に比べて</strong></a><a href=\"https://takoboto.jp/?q=%e5%b0%8f%e3%81%95%e3%81%84%e3%80%82\"><span>小さい。</span></a>",
+      "segments": [
+        {
+          "text": "私の足はあなたの",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "小さい。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしのあしはあなたのにくらべてちいさい。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "My foot is small compared to yours. .",
+          "html": "<span>My foot is small compared to yours. </span><strong>. </strong>",
+          "segments": [
+            {
+              "text": "My foot is small compared to yours. ",
+              "grammar_highlight": false
+            },
+            {
+              "text": ". ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6980,
+      "position": 10,
+      "japanese": "前に比べて、私は今よく忘れている",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%89%8d\"><span>前</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6\"><strong>に比べて</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81\"><span>、</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81%e3%81%af\"><span>私は</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%82%88%e3%81%8f\"><span>今よく</span></a><a href=\"https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b\"><span>忘れている</span></a>",
+      "segments": [
+        {
+          "text": "前",
+          "grammar_highlight": false
+        },
+        {
+          "text": "に比べて",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、私は今よく忘れている",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "まえにくらべて、わたしはいまよくわすれている",
+      "credits_raw": "amenya",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I'm now very forgetful compared with the time before",
+          "html": "<span>I'm now very forgetful </span><strong>compared with </strong><span>the time before </span>",
+          "segments": [
+            {
+              "text": "I'm now very forgetful ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "compared with ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the time before ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7778,
+      "position": 11,
+      "japanese": "外国に比べて、日本はが高いと言われている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%a4%96%e5%9b%bd%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6%e3%80%81%e6%97%a5%e6%9c%ac%e3%81%af%e3%81%8c%e9%ab%98%e3%81%84%e3%81%a8%e8%a8%80%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>外国に比べて、日本はが高いと言われている。</span></a>",
+      "segments": [
+        {
+          "text": "外国に比べて、日本はが高いと言われている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "がいこくにくらべて、にほんはがたかいといわれている。",
+      "credits_raw": "Makai",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Compared to other countries, it is said that groceries are more expensive in Japan.",
+          "html": "<span>Compared to other countries, it is said that groceries are more expensive in Japan. </span>",
+          "segments": [
+            {
+              "text": "Compared to other countries, it is said that groceries are more expensive in Japan. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7779,
+      "position": 12,
+      "japanese": "諸外国にて、日本はが高いと言われている。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%ab%b8%e5%a4%96%e5%9b%bd%e3%81%ab%e3%81%a6%e3%80%81\"><span>諸外国にて、</span></a><a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%af%e3%81%8c\"><span>日本はが</span></a><a href=\"https://takoboto.jp/?q=%e9%ab%98%e3%81%84%e3%81%a8\"><span>高いと</span></a><a href=\"https://takoboto.jp/?q=%e8%a8%80%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>言われている。</span></a>",
+      "segments": [
+        {
+          "text": "諸外国にて、日本はが高いと言われている。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "しょがいこくにて、にほんはがたかいといわれている。",
+      "credits_raw": "Makai",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Compared to other countries, it is said that groceries are more expensive in Japan.",
+          "html": "<span>Compared to other countries, it is said that groceries are more expensive in Japan. </span>",
+          "segments": [
+            {
+              "text": "Compared to other countries, it is said that groceries are more expensive in Japan. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Can anyone comment on the difference between に比べて and に比べると?",
+      "html": "Can anyone comment on the difference between に比べて and に比べると?",
+      "credits_raw": "yookoso",
+      "content_sha256": "4a7f0721cc28db9582f43f9cc02ccecc90d2771435c3c45bcb422f16d670d92e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "に比べて vs. に比べ\nMy source says the meaning is the same, but に比べ is found more with graphs, reports, etc. Anyone confirm this?",
+      "html": "に比べて vs. に比べ<br/>My source says the meaning is the same, but に比べ is found more with graphs, reports, etc. Anyone confirm this?",
+      "credits_raw": "jmadsen",
+      "content_sha256": "dfdbc35dd99415b2ae4269376b709dbfe0fe87a178f5a96524ba58ed6c25b9ea",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Can someone enlighten us as to the difference between ~に比べると and ~と比べると？ They seem interchangeable.",
+      "html": "Can someone enlighten us as to the difference between ~に比べると and ~と比べると？ They seem interchangeable.",
+      "credits_raw": "ganchan",
+      "content_sha256": "b1363eef8d74717aef077c97d8d1cf52646d95a4cd8dc91aed97b0c63c64c17a",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "Is example 7779 missing several characters unintentionally, or is it slang?",
+      "html": "Is example 7779 missing several characters unintentionally, or is it slang?",
+      "credits_raw": "bshock",
+      "content_sha256": "59fe88e3439cdadfc200fb49131bfb35f0212381f3e3f4ada190776af8c8624c",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 1333,
+      "label": "にひきかえ",
+      "source_url": "https://takoboto.jp/bunpo/1333"
+    },
+    {
+      "target_id": 1508,
+      "label": "比べものにならない",
+      "source_url": "https://takoboto.jp/bunpo/1508"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:33:19+00:00",
+  "response_sha256": "ccb6dc2fd032a95241dce1f85daf7f0ef8b28f242b9ecc39583ce8cc80d2a1aa",
+  "warnings": []
+}

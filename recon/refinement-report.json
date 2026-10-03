@@ -1,0 +1,47 @@
+{
+  "reviewed_at": "2026-10-03T08:00:32+00:00",
+  "tests_passed": 49,
+  "original_live_test": "recon/uv-smoke-test.json",
+  "original_live_test_sha256": "e3fd99e9b5b3588719c04d63219897b0bed457b5c39fdcc7602f6ffa94325090",
+  "verification_output": "/Users/alex/Code/manabi/takoboto-grammar-db/smoke/refinement-py3esiae",
+  "new_live_requests": 0,
+  "network_disabled_during_replay": true,
+  "request_attempt_counts": {
+    "takoboto": 0,
+    "jgram": 0
+  },
+  "validated_inventory_entries": {
+    "takoboto": 643,
+    "jgram": 1414
+  },
+  "takoboto": {
+    "id": 725,
+    "examples": 20,
+    "comments": 7,
+    "retrieved_at": "2026-10-03T07:16:40+00:00"
+  },
+  "jgram": {
+    "id": 978,
+    "label": "ageku",
+    "notes": 6,
+    "examples": 14,
+    "comments": 23,
+    "retrieved_at": "2026-10-03T07:18:34+00:00"
+  },
+  "json_matches_original_pilot": true,
+  "markdown_matches_original_pilot": true,
+  "markdown_files_compared": 3,
+  "sqlite_json_roundtrip": true,
+  "sqlite_integrity": "ok",
+  "sqlite_foreign_keys": "ok",
+  "captured_source_content_checks_passed": true,
+  "warnings": [],
+  "fixes": [
+    "CLI preflight before requests and output creation",
+    "Validate both export destinations before writes",
+    "Atomic JSON and response cache replacement",
+    "Corrupt immutable response rejection",
+    "Per-run transport attempt reports"
+  ],
+  "scope": "Same two cached content pages only; full historical replay crawl remains incomplete"
+}

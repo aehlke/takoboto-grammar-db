@@ -1,0 +1,76 @@
+{
+  "schema_version": 2,
+  "id": 1682,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1682/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "並みに",
+  "romanized_label": "namini",
+  "alternate_forms": [
+    "なみに"
+  ],
+  "jlpt_level": null,
+  "credits_raw": "ZekkDistor",
+  "meaning": "As...as, to the same degree as",
+  "meaning_example": "Wikipedia is as accurate as Britannica",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1682",
+      "body_text": "As...as, to the same degree as \n Wikipedia is as accurate as Britannica",
+      "body_html": "<span>As...as, to the same degree as</span> <br/> <span>Wikipedia is as accurate as Britannica</span>",
+      "credits_raw": "ZekkDistor"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 7079,
+      "position": 0,
+      "japanese": "Wikipediaはブリタニカ並みに正確だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=Wikipedia%e3%81%af%e3%83%96%e3%83%aa%e3%82%bf%e3%83%8b%e3%82%ab\"><span>Wikipediaはブリタニカ</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%a6%e3%81%bf%e3%81%ab\"><strong>並みに</strong></a><a href=\"https://takoboto.jp/?q=%e6%ad%a3%e7%a2%ba%e3%81%a0%e3%80%82\"><span>正確だ。</span></a>",
+      "segments": [
+        {
+          "text": "Wikipediaはブリタニカ",
+          "grammar_highlight": false
+        },
+        {
+          "text": "並みに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "正確だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "はなみにせいかくだ。",
+      "credits_raw": "ZekkDistor",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Wikipedia is as accurate as Britannica",
+          "html": "<span>Wikipedia is as accurate as Britannica </span>",
+          "segments": [
+            {
+              "text": "Wikipedia is as accurate as Britannica ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:47:28+00:00",
+  "response_sha256": "1ba5822d4d4c8de447550e8d2c410815dcb5457b8a71473c1d8d156abcd8536a",
+  "warnings": []
+}

@@ -1,0 +1,805 @@
+{
+  "schema_version": 2,
+  "id": 117,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/117/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "にとって",
+  "romanized_label": "nitotte",
+  "alternate_forms": [],
+  "jlpt_level": 3,
+  "credits_raw": "dc",
+  "meaning": "to; for",
+  "meaning_example": "For Asians, dairy products are hard to digest",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "から見て(も)",
+      "html": "から見て(も)"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_117",
+      "body_text": "to; for \n For Asians, dairy products are hard to digest \n から見て(も)",
+      "body_html": "<span>to; for</span> <br/> <span>For Asians, dairy products are hard to digest</span> <br/> <span>から見て(も)</span>",
+      "credits_raw": "dc"
+    },
+    {
+      "kind": "formation",
+      "source_dom_id": "editable_Formation_117",
+      "body_text": "Noun+にとって+(は/も/の)",
+      "body_html": "<div><div><div>Noun</div></div><div><div>+</div><div>にとって</div></div><div><div>+</div><div>(は/も/の)</div></div></div>",
+      "credits_raw": null
+    }
+  ],
+  "formations": [
+    "Noun + にとって + (は/も/の)"
+  ],
+  "examples": [
+    {
+      "source_id": 6415,
+      "position": 0,
+      "japanese": "この大学で教えられることは私にとって極めて名誉なことです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e3%81%a7\"><span>大学で</span></a><a href=\"https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%82%89%e3%82%8c%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af\"><span>教えられることは</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81\"><span>私</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e6%a5%b5%e3%82%81%e3%81%a6\"><span>極めて</span></a><a href=\"https://takoboto.jp/?q=%e5%90%8d%e8%aa%89%e3%81%aa%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99%e3%80%82\"><span>名誉なことです。</span></a>",
+      "segments": [
+        {
+          "text": "この大学で教えられることは私",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "極めて名誉なことです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このだいがくでおしえられることはわたしにとってきわめてめいよなことです。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Being able to teach at this university is a big honor for me.",
+          "html": "<span>Being able to teach at this university is a big honor for me. </span>",
+          "segments": [
+            {
+              "text": "Being able to teach at this university is a big honor for me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6416,
+      "position": 1,
+      "japanese": "町の人々にとってこの工場の閉鎖は死活問題だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%94%ba%e3%81%ae\"><span>町の</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%80%85\"><span>人々</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e5%b7%a5%e5%a0%b4%e3%81%ae\"><span>工場の</span></a><a href=\"https://takoboto.jp/?q=%e9%96%89%e9%8e%96%e3%81%af\"><span>閉鎖は</span></a><a href=\"https://takoboto.jp/?q=%e6%ad%bb%e6%b4%bb%e5%95%8f%e9%a1%8c%e3%81%a0%e3%80%82\"><span>死活問題だ。</span></a>",
+      "segments": [
+        {
+          "text": "町の人々",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "この工場の閉鎖は死活問題だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "まちのひとびとにとってこのこうじょうのへいさはしかつもんだいだ。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "For people in this town, the shutdown of this plant is a matter of life and death.",
+          "html": "<span>For people in this town, the shutdown of this plant is a matter of life and death. </span>",
+          "segments": [
+            {
+              "text": "For people in this town, the shutdown of this plant is a matter of life and death. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6417,
+      "position": 2,
+      "japanese": "ここは君にとって一番安全な場所だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%af\"><span>ここは</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b\"><span>君</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e7%95%aa%e5%ae%89%e5%85%a8%e3%81%aa\"><span>一番安全な</span></a><a href=\"https://takoboto.jp/?q=%e5%a0%b4%e6%89%80%e3%81%a0%e3%80%82\"><span>場所だ。</span></a>",
+      "segments": [
+        {
+          "text": "ここは君",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "一番安全な場所だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ここはきみにとっていちばんあんぜんなばしょだ。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This is the safest place for you.",
+          "html": "<span>This is the safest place for you. </span>",
+          "segments": [
+            {
+              "text": "This is the safest place for you. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 165,
+      "position": 3,
+      "japanese": "アジア人にとって乳製品は食べにくい",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%a2%e3%82%b8%e3%82%a2\"><span>アジア</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba\"><span>人</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e4%b9%b3%e8%a3%bd%e5%93%81%e3%81%af\"><span>乳製品は</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%ab%e3%81%8f%e3%81%84\"><strong>食べにくい</strong></a>",
+      "segments": [
+        {
+          "text": "アジア人",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "乳製品は",
+          "grammar_highlight": false
+        },
+        {
+          "text": "食べにくい",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "アジアじんにとってにゅうせいひんはたべにくい",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "for Asians, dairy products are hard to eat",
+          "html": "<strong>for </strong><span>Asians, dairy products are hard to eat </span>",
+          "segments": [
+            {
+              "text": "for ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "Asians, dairy products are hard to eat ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 213,
+      "position": 4,
+      "japanese": "この写真は私にとって、何よりも大切なものです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e5%86%99%e7%9c%9f%e3%81%af\"><span>写真は</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81\"><span>私</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%80%81\"><strong>にとって、</strong></a><a href=\"https://takoboto.jp/?q=%e4%bd%95%e3%82%88%e3%82%8a%e3%82%82\"><span>何よりも</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e5%88%87%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82\"><span>大切なものです。</span></a>",
+      "segments": [
+        {
+          "text": "この写真は私",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって、",
+          "grammar_highlight": true
+        },
+        {
+          "text": "何よりも大切なものです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このしゃしんはわたしにとって、なによりもたいせつなものです。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "For me, that photo is more important than anything.",
+          "html": "<strong>For me, </strong><span>that photo is more important than anything. </span>",
+          "segments": [
+            {
+              "text": "For me, ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "that photo is more important than anything. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5980,
+      "position": 5,
+      "japanese": "ユダヤ人にとって、まんじは悪のしるしだよ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%a6%e3%83%80%e3%83%a4\"><span>ユダヤ</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba\"><span>人</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%be%e3%82%93%e3%81%98%e3%81%af\"><span>、まんじは</span></a><a href=\"https://takoboto.jp/?q=%e6%82%aa%e3%81%ae%e3%81%97%e3%82%8b%e3%81%97%e3%81%a0%e3%82%88%e3%80%82\"><span>悪のしるしだよ。</span></a>",
+      "segments": [
+        {
+          "text": "ユダヤ人",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、まんじは悪のしるしだよ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ユダヤじんにとって、まんじはあくのしるしだよ。",
+      "credits_raw": "007",
+      "translations": [
+        {
+          "language": "en",
+          "text": "To the jews, the swastika is a sign of evil.",
+          "html": "<span>To the jews, the swastika is a sign of evil. </span>",
+          "segments": [
+            {
+              "text": "To the jews, the swastika is a sign of evil. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6819,
+      "position": 6,
+      "japanese": "私にとって、この環境は本当にありがたいです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81\"><span>私</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%93%e3%81%ae\"><span>、この</span></a><a href=\"https://takoboto.jp/?q=%e7%92%b0%e5%a2%83%e3%81%af\"><span>環境は</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ab%e3%81%82%e3%82%8a%e3%81%8c%e3%81%9f%e3%81%84%e3%81%a7%e3%81%99%e3%80%82\"><span>本当にありがたいです。</span></a>",
+      "segments": [
+        {
+          "text": "私",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、この環境は本当にありがたいです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしにとって、このかんきょうはほんとうにありがたいです。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "In my case, I am really grateful for this environment.",
+          "html": "<strong>In </strong><span>my </span><strong>case, </strong><span>I am really grateful for this environment. </span>",
+          "segments": [
+            {
+              "text": "In ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "my ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "case, ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "I am really grateful for this environment. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6821,
+      "position": 7,
+      "japanese": "この寿司は私にとって美味しくないです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%ae\"><span>この</span></a><a href=\"https://takoboto.jp/?q=%e5%af%bf%e5%8f%b8%e3%81%af\"><span>寿司は</span></a><a href=\"https://takoboto.jp/?q=%e7%a7%81\"><span>私</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e7%be%8e%e5%91%b3%e3%81%97%e3%81%8f%e3%81%aa%e3%81%84%e3%81%a7%e3%81%99%e3%80%82\"><span>美味しくないです。</span></a>",
+      "segments": [
+        {
+          "text": "この寿司は私",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "美味しくないです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "このすしはわたしにとっておいしくないです。",
+      "credits_raw": "anna.kendall",
+      "translations": [
+        {
+          "language": "en",
+          "text": "This sushi is not delicious for me (personally).",
+          "html": "<span>This sushi is not delicious for me (personally). </span>",
+          "segments": [
+            {
+              "text": "This sushi is not delicious for me (personally). ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7036,
+      "position": 8,
+      "japanese": "私にとってのるかそるかだった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%a7%81\"><span>私</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%ae%e3%82%8b%e3%81%8b%e3%81%9d%e3%82%8b%e3%81%8b%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82\"><span>のるかそるかだった。</span></a>",
+      "segments": [
+        {
+          "text": "私",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "のるかそるかだった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "わたしにとってのるかそるかだった。",
+      "credits_raw": "dbx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It was sink or swim with me.",
+          "html": "<span>It was sink or swim with me. </span>",
+          "segments": [
+            {
+              "text": "It was sink or swim with me. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8354,
+      "position": 9,
+      "japanese": "人間にとって重要な事柄",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%ba%ba%e9%96%93\"><span>人間</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e9%87%8d%e8%a6%81%e3%81%aa\"><span>重要な</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%8b%e6%9f%84\"><span>事柄</span></a>",
+      "segments": [
+        {
+          "text": "人間",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "重要な事柄",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "にんげんにとってじゅうようなことがら",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "A matter of no small concern to humans",
+          "html": "<span>A matter of no small concern to humans </span>",
+          "segments": [
+            {
+              "text": "A matter of no small concern to humans ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8355,
+      "position": 10,
+      "japanese": "スポーツマンにとって視力が強いのは不利だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%83%9e%e3%83%b3\"><span>スポーツマン</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e8%a6%96%e5%8a%9b%e3%81%8c\"><span>視力が</span></a><a href=\"https://takoboto.jp/?q=%e5%bc%b7%e3%81%84%e3%81%ae%e3%81%af\"><span>強いのは</span></a><a href=\"https://takoboto.jp/?q=%e4%b8%8d%e5%88%a9%e3%81%a0%e3%80%82\"><span>不利だ。</span></a>",
+      "segments": [
+        {
+          "text": "スポーツマン",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "視力が強いのは不利だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "スポーツマンにとってしりょくがつよいのはふりだ。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Poor eyesight is a handicap to a sportman.",
+          "html": "<span>Poor eyesight is a handicap to a sportman. </span>",
+          "segments": [
+            {
+              "text": "Poor eyesight is a handicap to a sportman. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8356,
+      "position": 11,
+      "japanese": "母乳は赤ちゃんにとってとても大事である。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%af%8d%e4%b9%b3%e3%81%af\"><span>母乳は</span></a><a href=\"https://takoboto.jp/?q=%e8%b5%a4%e3%81%a1%e3%82%83%e3%82%93\"><span>赤ちゃん</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%a6%e3%82%82\"><span>とても</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e4%ba%8b%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82\"><span>大事である。</span></a>",
+      "segments": [
+        {
+          "text": "母乳は赤ちゃん",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "とても大事である。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ぼにゅうはあかちゃんにとってとてもだいじである。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Mother`s milk is of great value to babies.",
+          "html": "<span>Mother`s milk is of great value to babies. </span>",
+          "segments": [
+            {
+              "text": "Mother`s milk is of great value to babies. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8357,
+      "position": 12,
+      "japanese": "日本の貿易にとってこわい存在",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ae\"><span>日本の</span></a><a href=\"https://takoboto.jp/?q=%e8%b2%bf%e6%98%93\"><span>貿易</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%93%e3%82%8f%e3%81%84\"><span>こわい</span></a><a href=\"https://takoboto.jp/?q=%e5%ad%98%e5%9c%a8\"><span>存在</span></a>",
+      "segments": [
+        {
+          "text": "日本の貿易",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "こわい存在",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "にほんのぼうえきにとってこわいそんざい",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "A serious treat to Japan`s trade",
+          "html": "<span>A serious treat to Japan`s trade </span>",
+          "segments": [
+            {
+              "text": "A serious treat to Japan`s trade ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8358,
+      "position": 13,
+      "japanese": "アパートの火事は入居していた家族にとってたいへんな災難であった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%a2%e3%83%91%e3%83%bc%e3%83%88%e3%81%ae\"><span>アパートの</span></a><a href=\"https://takoboto.jp/?q=%e7%81%ab%e4%ba%8b%e3%81%af\"><span>火事は</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e5%b1%85%e3%81%97%e3%81%a6%e3%81%84%e3%81%9f\"><span>入居していた</span></a><a href=\"https://takoboto.jp/?q=%e5%ae%b6%e6%97%8f\"><span>家族</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%9f%e3%81%84%e3%81%b8%e3%82%93%e3%81%aa\"><span>たいへんな</span></a><a href=\"https://takoboto.jp/?q=%e7%81%bd%e9%9b%a3%e3%81%a7%e3%81%82%e3%81%a3%e3%81%9f%e3%80%82\"><span>災難であった。</span></a>",
+      "segments": [
+        {
+          "text": "アパートの火事は入居していた家族",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "たいへんな災難であった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "アパートのかじはにゅうきょしていたかぞくにとってたいへんなさいなんであった。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The apartament fire was a disaster for the family who lived there.",
+          "html": "<span>The apartament fire was a disaster for the family who lived there. </span>",
+          "segments": [
+            {
+              "text": "The apartament fire was a disaster for the family who lived there. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8359,
+      "position": 14,
+      "japanese": "今日の試験は君の将来にとってとても大切なものになるでしょう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%ae\"><span>今日の</span></a><a href=\"https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%81%af\"><span>試験は</span></a><a href=\"https://takoboto.jp/?q=%e5%90%9b%e3%81%ae\"><span>君の</span></a><a href=\"https://takoboto.jp/?q=%e5%b0%86%e6%9d%a5\"><span>将来</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%a8%e3%81%a6%e3%82%82\"><span>とても</span></a><a href=\"https://takoboto.jp/?q=%e5%a4%a7%e5%88%87%e3%81%aa%e3%82%82%e3%81%ae%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%80%82\"><span>大切なものになるでしょう。</span></a>",
+      "segments": [
+        {
+          "text": "今日の試験は君の将来",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "とても大切なものになるでしょう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "きょうのしけんはきみのしょうらいにとってとてもたいせつなものになるでしょう。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Your exam today will be very significant for your future.",
+          "html": "<span>Your exam today will be very significant for your future. </span>",
+          "segments": [
+            {
+              "text": "Your exam today will be very significant for your future. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8360,
+      "position": 15,
+      "japanese": "それは彼女にとって重大であった。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af\"><span>それは</span></a><a href=\"https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3\"><span>彼女</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e9%87%8d%e5%a4%a7%e3%81%a7%e3%81%82%e3%81%a3%e3%81%9f%e3%80%82\"><span>重大であった。</span></a>",
+      "segments": [
+        {
+          "text": "それは彼女",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "重大であった。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "それはかのじょにとってじゅうだいであった。",
+      "credits_raw": "karekano",
+      "translations": [
+        {
+          "language": "en",
+          "text": "It had great weight on her.",
+          "html": "<span>It had great weight on her. </span>",
+          "segments": [
+            {
+              "text": "It had great weight on her. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6820,
+      "position": 16,
+      "japanese": "花づくりはわたしにとって一番の楽しみである。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e8%8a%b1%e3%81%a5%e3%81%8f%e3%82%8a%e3%81%af\"><span>花づくりは</span></a><a href=\"https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97\"><span>わたし</span></a><a href=\"https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6\"><strong>にとって</strong></a><a href=\"https://takoboto.jp/?q=%e4%b8%80%e7%95%aa%e3%81%ae\"><span>一番の</span></a><a href=\"https://takoboto.jp/?q=%e6%a5%bd%e3%81%97%e3%81%bf%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82\"><span>楽しみである。</span></a>",
+      "segments": [
+        {
+          "text": "花づくりはわたし",
+          "grammar_highlight": false
+        },
+        {
+          "text": "にとって",
+          "grammar_highlight": true
+        },
+        {
+          "text": "一番の楽しみである。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "はなづくりはわたしにとっていちばんのたのしみである。",
+      "credits_raw": "赤毛",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Floriculture is my biggest pleasure.",
+          "html": "<span>Floriculture is </span><strong>my </strong><span>biggest pleasure. </span>",
+          "segments": [
+            {
+              "text": "Floriculture is ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "my ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "biggest pleasure. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "＊This grammar has the connotation of \"from the standpoint of; so far as s.o./s.t. is concerned.\"\n\n＊にとって cannot mark a noun which represents the \"semantic subject,\" or the doer of the action as expressed by the verb.\nUNGRAMMATICAL: この仕事は私にとってできない。\nGRAMMATICAL: この仕事は私にはできない。\n\n＊にとって(の) VS には: Because of the particle は, には gives a sense of contrast in some contexts while にとって(の) does not.\nFOR EXAMPLE: これは様々[には/にとって]無視できない問題だ。\nIn the above example, the sense with には can imply that not for others but for us, or at least for us, this is a problem which cannot be ignored. The sentence with にとって does not have this implication.\n\nFORMATION:\nＮ + にとって(は/も)",
+      "html": "＊This grammar has the connotation of \"from the standpoint of; so far as s.o./s.t. is concerned.\"<br/><br/>＊にとって cannot mark a noun which represents the \"semantic subject,\" or the doer of the action as expressed by the verb.<br/>UNGRAMMATICAL: この仕事は私にとってできない。<br/>GRAMMATICAL: この仕事は私にはできない。<br/><br/>＊にとって(の) VS には: Because of the particle は, には gives a sense of contrast in some contexts while にとって(の) does not.<br/>FOR EXAMPLE: これは様々[には/にとって]無視できない問題だ。<br/>In the above example, the sense with には can imply that not for others but for us, or at least for us, this is a problem which cannot be ignored. The sentence with にとって does not have this implication.<br/><br/>FORMATION:<br/>Ｎ + にとって(は/も)",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "a977e0ed17633ff2b3d16937a0695ac43b5708dfd68d316cc1846256229d6434",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "ex#123: for consistency, consider using the kanji 物",
+      "html": "ex#123: for consistency, consider using the kanji 物",
+      "credits_raw": "anon",
+      "content_sha256": "2d753c4887366c5cb913a83b3b63a1146a84385865e9710f4025f986c44e4c13",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "I learned this as more \"from the point of view of\", which might be clearer than just saying \"for\"",
+      "html": "I learned this as more \"from the point of view of\", which might be clearer than just saying \"for\"",
+      "credits_raw": "jeff",
+      "content_sha256": "7701ee9f815bcb682ff67476419647716c022a197a091a3b94419e6a450a31e9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "外人にとって納豆は食べにくい \nfor foreigners, natto is hard to eat \n外人として納豆は食べにくい \nas a foreigner, natto is hard to eat \n\niwhat is the difference? Is it that the latter suggests I am also a foreigner?",
+      "html": "外人にとって納豆は食べにくい <br/>for foreigners, natto is hard to eat <br/>外人として納豆は食べにくい <br/>as a foreigner, natto is hard to eat <br/><br/>iwhat is the difference? Is it that the latter suggests I am also a foreigner?",
+      "credits_raw": "karekora",
+      "content_sha256": "2291863e70c2750a500a399a8bc6c71d67a1d893b5562416e940ce971a3ae86d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "Hey karekora\nin the first sentance the subject is natto.\nin the second sentance the subject is your opinion and the は　used here is to contrast the fact that natto is difficult to eat, but other foods are not. \n\nI am just wondering, why the first example is a incomplete sentence? I know that when you speak japanese you can cut corners, but for proper understanding it would be better to complete the sentence.",
+      "html": "Hey karekora<br/>in the first sentance the subject is natto.<br/>in the second sentance the subject is your opinion and the は　used here is to contrast the fact that natto is difficult to eat, but other foods are not. <br/><br/>I am just wondering, why the first example is a incomplete sentence? I know that when you speak japanese you can cut corners, but for proper understanding it would be better to complete the sentence.",
+      "credits_raw": "tigert",
+      "content_sha256": "75c969a60dd574e1393659d47a2697715219fb12d64101f052250a84d3d06344",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "Karekora, I don't think you can use the second sentence you put there. にとってtranslates to \"as far as ... are/is concerned, to so-and-so this applies...\" \nとして has more of a \"in the capacity of, in the role of, as ...,\" nuance.",
+      "html": "Karekora, I don't think you can use the second sentence you put there. にとってtranslates to \"as far as ... are/is concerned, to so-and-so this applies...\" <br/>として has more of a \"in the capacity of, in the role of, as ...,\" nuance.",
+      "credits_raw": "darrkangel",
+      "content_sha256": "0d6e4fbc8e59c957eb67ffd6d821b4699737215b3c4a508dbff2684fd87436ea",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "How can にとって be ungrammatical in sentences where you do the action (この仕事は私にとってできない.), but it is OK in ex #213, ex #6819, and ex #7036?",
+      "html": "How can にとって be ungrammatical in sentences where you do the action (この仕事は私にとってできない.), but it is OK in ex #213, ex #6819, and ex #7036?",
+      "credits_raw": "linnenpotter",
+      "content_sha256": "d32018389bdab5975bda3780c14ca4d556761af4cd966514e7268732c7cd3c6d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "linnenpotter\n\nI believe from the explanation rubyhatchetさん has above, には, similar to にとって, does pertain to the subject of the sentence; however, には, at least from what I've seen, seems to single out and place emphasis on the preceding noun to the point that it is referring to what the doer can accomplish with their own abilities. Hence it's why この仕事は私にはできない is correct. には specifically refers to myself and what I'm describing what is capable by my own abilities and power.\n\nにとって、on the other hand has neither the specificity nor the singling out of the preceding noun. Compare the following:\n\n外人にとって、納豆は食べにくい\nFor foreigners (from their standpoint), nattou is difficult to eat.\n\n外人には、納豆は食べにくい\nFor foreigners (specifically for them), nattou is difficult to eat.\n\nこの仕事は私にとって出来ない isn't grammatically correct since in this case we're referring to a problem specifically for us that is unable to be accomplished. We need the specificity of には to throw across this notion. \n\n#213, #6819, and #7036 are all correct usage since they're all describing situations from their own position and standpoint.",
+      "html": "linnenpotter<br/><br/>I believe from the explanation rubyhatchetさん has above, には, similar to にとって, does pertain to the subject of the sentence; however, には, at least from what I've seen, seems to single out and place emphasis on the preceding noun to the point that it is referring to what the doer can accomplish with their own abilities. Hence it's why この仕事は私にはできない is correct. には specifically refers to myself and what I'm describing what is capable by my own abilities and power.<br/><br/>にとって、on the other hand has neither the specificity nor the singling out of the preceding noun. Compare the following:<br/><br/>外人にとって、納豆は食べにくい<br/>For foreigners (from their standpoint), nattou is difficult to eat.<br/><br/>外人には、納豆は食べにくい<br/>For foreigners (specifically for them), nattou is difficult to eat.<br/><br/>この仕事は私にとって出来ない isn't grammatically correct since in this case we're referring to a problem specifically for us that is unable to be accomplished. We need the specificity of には to throw across this notion. <br/><br/>#213, #6819, and #7036 are all correct usage since they're all describing situations from their own position and standpoint.",
+      "credits_raw": "Tetsuzan",
+      "content_sha256": "b2d30aa9d6899b18133cb2d358643584c09340fd5f158b444b8ef7d25ab1fd23",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 585,
+      "label": "として",
+      "source_url": "https://takoboto.jp/bunpo/585"
+    },
+    {
+      "target_id": 375,
+      "label": "〜にしたら",
+      "source_url": "https://takoboto.jp/bunpo/375"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:35:55+00:00",
+  "response_sha256": "4d944d73d2cc75fac5cd64ce2f2050c888f95f4648c7b2e66ac69c19a126c098",
+  "warnings": []
+}

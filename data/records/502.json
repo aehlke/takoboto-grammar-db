@@ -1,0 +1,463 @@
+{
+  "schema_version": 2,
+  "id": 502,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/502/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "からして",
+  "romanized_label": "karashite",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "dc",
+  "meaning": "(1)Even; (2)Given, (Judging) From/By",
+  "meaning_example": "(1) He can't even read hiragana.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_502",
+      "body_text": "(1)Even; (2)Given, (Judging) From/By \n (1) He can't even read hiragana.",
+      "body_html": "<span>(1)Even; (2)Given, (Judging) From/By</span> <br/> <span>(1) He can't even read hiragana.</span>",
+      "credits_raw": "dc"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 309,
+      "position": 0,
+      "japanese": "ひらがなからして読めない。もちろん漢字も読めない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%b2%e3%82%89%e3%81%8c%e3%81%aa\"><span>ひらがな</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%97%e3%81%a6\"><strong>からして</strong></a><a href=\"https://takoboto.jp/?q=%e8%aa%ad%e3%82%81%e3%81%aa%e3%81%84%e3%80%82%e3%82%82%e3%81%a1%e3%82%8d%e3%82%93\"><span>読めない。もちろん</span></a><a href=\"https://takoboto.jp/?q=%e6%bc%a2%e5%ad%97%e3%82%82\"><span>漢字も</span></a><a href=\"https://takoboto.jp/?q=%e8%aa%ad%e3%82%81%e3%81%aa%e3%81%84%e3%80%82\"><span>読めない。</span></a>",
+      "segments": [
+        {
+          "text": "ひらがな",
+          "grammar_highlight": false
+        },
+        {
+          "text": "からして",
+          "grammar_highlight": true
+        },
+        {
+          "text": "読めない。もちろん漢字も読めない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ひらがなからしてよめない。もちろんかんじもよめない。",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Cannot even read hiragana, and also of course cannot read kanji",
+          "html": "<span>Cannot </span><strong>even </strong><span>read hiragana, </span><strong>and also </strong><span>of course cannot read kanji </span>",
+          "segments": [
+            {
+              "text": "Cannot ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "even ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "read hiragana, ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "and also ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "of course cannot read kanji ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 521,
+      "position": 1,
+      "japanese": "A国は食料からして、不足している。（暗示：だからガソリンなど、ほとんどないだろう）",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=A\"><span>A</span></a><a href=\"https://takoboto.jp/?q=%e5%9b%bd%e3%81%af\"><span>国は</span></a><a href=\"https://takoboto.jp/?q=%e9%a3%9f%e6%96%99\"><span>食料</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%97%e3%81%a6%e3%80%81\"><strong>からして、</strong></a><a href=\"https://takoboto.jp/?q=%e4%b8%8d%e8%b6%b3%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82\"><span>不足している。</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%88%e6%9a%97%e7%a4%ba%ef%bc%9a%e3%81%a0%e3%81%8b%e3%82%89%e3%82%ac%e3%82%bd%e3%83%aa%e3%83%b3%e3%81%aa%e3%81%a9%e3%80%81%e3%81%bb%e3%81%a8%e3%82%93%e3%81%a9%e3%81%aa%e3%81%84%e3%81%a0%e3%82%8d%e3%81%86\"><span>（暗示：だからガソリンなど、ほとんどないだろう</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%89\"><span>）</span></a>",
+      "segments": [
+        {
+          "text": "A国は食料",
+          "grammar_highlight": false
+        },
+        {
+          "text": "からして、",
+          "grammar_highlight": true
+        },
+        {
+          "text": "不足している。（暗示：だからガソリンなど、ほとんどないだろう）",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "こくはしょくりょうからして、ふそくしている。（あんじ：だからガソリンなど、ほとんどないだろう）",
+      "credits_raw": "dc",
+      "translations": [
+        {
+          "language": "en",
+          "text": "That country doesn't have enough food for a start (implies: so they definitely don't have enough gasoline etc.)",
+          "html": "<span>That country doesn't have enough food </span><strong>for a start </strong><span>(implies: so they definitely don't have enough gasoline etc.) </span>",
+          "segments": [
+            {
+              "text": "That country doesn't have enough food ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "for a start ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "(implies: so they definitely don't have enough gasoline etc.) ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3222,
+      "position": 2,
+      "japanese": "彼の健康状態からしてスポーツは無理でしょう。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae\"><span>彼の</span></a><a href=\"https://takoboto.jp/?q=%e5%81%a5%e5%ba%b7%e7%8a%b6%e6%85%8b\"><span>健康状態</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%97%e3%81%a6\"><strong>からして</strong></a><a href=\"https://takoboto.jp/?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%81%af\"><span>スポーツは</span></a><a href=\"https://takoboto.jp/?q=%e7%84%a1%e7%90%86%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%80%82\"><span>無理でしょう。</span></a>",
+      "segments": [
+        {
+          "text": "彼の健康状態",
+          "grammar_highlight": false
+        },
+        {
+          "text": "からして",
+          "grammar_highlight": true
+        },
+        {
+          "text": "スポーツは無理でしょう。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "かれのけんこうじょうたいからしてスポーツはむりでしょう。",
+      "credits_raw": "halx",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Judging from his physical condition　doing sports would be unwise",
+          "html": "<strong>Judging from </strong><span>his physical condition　doing sports would be unwise </span>",
+          "segments": [
+            {
+              "text": "Judging from ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "his physical condition　doing sports would be unwise ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4613,
+      "position": 3,
+      "japanese": "態度からしてけしからん",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e6%85%8b%e5%ba%a6\"><span>態度</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%97%e3%81%a6\"><strong>からして</strong></a><a href=\"https://takoboto.jp/?q=%e3%81%91%e3%81%97%e3%81%8b%e3%82%89%e3%82%93\"><span>けしからん</span></a>",
+      "segments": [
+        {
+          "text": "態度",
+          "grammar_highlight": false
+        },
+        {
+          "text": "からして",
+          "grammar_highlight": true
+        },
+        {
+          "text": "けしからん",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "たいどからしてけしからん",
+      "credits_raw": "Miki",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even his attitude is nasty.",
+          "html": "<span>Even his attitude is nasty. </span>",
+          "segments": [
+            {
+              "text": "Even his attitude is nasty. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6492,
+      "position": 4,
+      "japanese": "値段からして、Xの機種はYとは比べものにならないと思っていた。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%80%a4%e6%ae%b5\"><span>値段</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%97%e3%81%a6\"><strong>からして</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81X%e3%81%ae\"><span>、Xの</span></a><a href=\"https://takoboto.jp/?q=%e6%a9%9f%e7%a8%ae%e3%81%afY%e3%81%a8%e3%81%af\"><span>機種はYとは</span></a><a href=\"https://takoboto.jp/?q=%e6%af%94%e3%81%b9%e3%82%82%e3%81%ae%e3%81%ab%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%81%a8\"><span>比べものにならないと</span></a><a href=\"https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e3%80%82\"><span>思っていた。</span></a>",
+      "segments": [
+        {
+          "text": "値段",
+          "grammar_highlight": false
+        },
+        {
+          "text": "からして",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、Xの機種はYとは比べものにならないと思っていた。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ねだんからして、のきしゅはとはくらべものにならないとおもっていた。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Given its price, I didn't expect the X machine to be in the same league as the Y machine.",
+          "html": "<span>Given its price, I didn't expect the X machine to be in the same league as the Y machine. </span>",
+          "segments": [
+            {
+              "text": "Given its price, I didn't expect the X machine to be in the same league as the Y machine. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6493,
+      "position": 5,
+      "japanese": "もうすぐ結婚するというのに、準備がぜんぜんできていません。住む所からして、まだ決まっていないんです。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%82%82%e3%81%86%e3%81%99%e3%81%90\"><span>もうすぐ</span></a><a href=\"https://takoboto.jp/?q=%e7%b5%90%e5%a9%9a%e3%81%99%e3%82%8b%e3%81%a8%e3%81%84%e3%81%86%e3%81%ae%e3%81%ab%e3%80%81\"><span>結婚するというのに、</span></a><a href=\"https://takoboto.jp/?q=%e6%ba%96%e5%82%99%e3%81%8c%e3%81%9c%e3%82%93%e3%81%9c%e3%82%93%e3%81%a7%e3%81%8d%e3%81%a6%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%80%82\"><span>準備がぜんぜんできていません。</span></a><a href=\"https://takoboto.jp/?q=%e4%bd%8f%e3%82%80\"><span>住む</span></a><a href=\"https://takoboto.jp/?q=%e6%89%80\"><span>所</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%97%e3%81%a6\"><strong>からして</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%81%e3%81%be%e3%81%a0\"><span>、まだ</span></a><a href=\"https://takoboto.jp/?q=%e6%b1%ba%e3%81%be%e3%81%a3%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%82%93%e3%81%a7%e3%81%99%e3%80%82\"><span>決まっていないんです。</span></a>",
+      "segments": [
+        {
+          "text": "もうすぐ結婚するというのに、準備がぜんぜんできていません。住む所",
+          "grammar_highlight": false
+        },
+        {
+          "text": "からして",
+          "grammar_highlight": true
+        },
+        {
+          "text": "、まだ決まっていないんです。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "もうすぐけっこんするというのに、じゅんびがぜんぜんできていません。すむところからして、まだきまっていないんです。",
+      "credits_raw": "rubyhatchet",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even though we're getting married soon, we haven't been able to prepare at all. We haven't even decided where to live yet.",
+          "html": "<span>Even though we're getting married soon, we haven't been able to prepare at all. We haven't even decided where to live yet. </span>",
+          "segments": [
+            {
+              "text": "Even though we're getting married soon, we haven't been able to prepare at all. We haven't even decided where to live yet. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7099,
+      "position": 6,
+      "japanese": "あの人の挨拶からして我慢できない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%ae\"><span>あの</span></a><a href=\"https://takoboto.jp/?q=%e4%ba%ba%e3%81%ae\"><span>人の</span></a><a href=\"https://takoboto.jp/?q=%e6%8c%a8%e6%8b%b6\"><span>挨拶</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%97%e3%81%a6\"><strong>からして</strong></a><a href=\"https://takoboto.jp/?q=%e6%88%91%e6%85%a2%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%82\"><span>我慢できない。</span></a>",
+      "segments": [
+        {
+          "text": "あの人の挨拶",
+          "grammar_highlight": false
+        },
+        {
+          "text": "からして",
+          "grammar_highlight": true
+        },
+        {
+          "text": "我慢できない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "あのひとのあいさつからしてがまんできない。",
+      "credits_raw": "usaton",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I can't even stand his greeting.",
+          "html": "<span>I can't even stand his greeting. </span>",
+          "segments": [
+            {
+              "text": "I can't even stand his greeting. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 7100,
+      "position": 7,
+      "japanese": "プロジェクトチームの名前からして独特だ。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e3%81%ae\"><span>プロジェクトチームの</span></a><a href=\"https://takoboto.jp/?q=%e5%90%8d%e5%89%8d\"><span>名前</span></a><a href=\"https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%97%e3%81%a6\"><strong>からして</strong></a><a href=\"https://takoboto.jp/?q=%e7%8b%ac%e7%89%b9%e3%81%a0%e3%80%82\"><span>独特だ。</span></a>",
+      "segments": [
+        {
+          "text": "プロジェクトチームの名前",
+          "grammar_highlight": false
+        },
+        {
+          "text": "からして",
+          "grammar_highlight": true
+        },
+        {
+          "text": "独特だ。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "プロジェクトチームのなまえからしてどくとくだ。",
+      "credits_raw": "usaton",
+      "translations": [
+        {
+          "language": "en",
+          "text": "Even their project name is unique.",
+          "html": "<span>Even their project name is unique. </span>",
+          "segments": [
+            {
+              "text": "Even their project name is unique. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "This grammar should be used to refer to extremely basic things. For example, \"He cannot even read hiragana.\" If you were to say, \"He would eat even rats,\" then you need a different bit of grammar (see さえ).\n\nAlso, this grammar can only be used with nouns!",
+      "html": "This grammar should be used to refer to extremely basic things. For example, \"He cannot even read hiragana.\" If you were to say, \"He would eat even rats,\" then you need a different bit of grammar (see さえ).<br/><br/>Also, this grammar can only be used with nouns!",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "7abd4c6333d026061e19c03295ddc248021586155d6f4c4fc47eea0692becf22",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "I wouldn't add a third meaning to this, but according to \"A dictionary of Japanese Particles\", p65, it is translated in a different manner. Like in \"Starting with...\".\n\nThe whole meaning would be: \"Cites one characteristic of something/someone in order to make an emphatic statement about the whole thing/person.\" \n\nSo what I concluded so far, is that it belongs to the first meaning but translated in another way. Here a couple of sentences:\n\nExample:\n(1.1) あの男の人は顔つきからしてちょっと変だ。 - Starting with his face, he is a little strange.\n(1.2) 彼女は持ち物からして贅沢だ。- Starting with her possessions, she is extravagant.",
+      "html": "I wouldn't add a third meaning to this, but according to \"A dictionary of Japanese Particles\", p65, it is translated in a different manner. Like in \"Starting with...\".<br/><br/>The whole meaning would be: \"Cites one characteristic of something/someone in order to make an emphatic statement about the whole thing/person.\" <br/><br/>So what I concluded so far, is that it belongs to the first meaning but translated in another way. Here a couple of sentences:<br/><br/>Example:<br/>(1.1) あの男の人は顔つき<strong>からして</strong>ちょっと変だ。 - <strong>Starting with</strong> his face, he is a little strange.<br/>(1.2) 彼女は持ち物<strong>からして</strong>贅沢だ。- <strong>Starting with</strong> her possessions, she is extravagant.",
+      "credits_raw": "leonardo.stylish",
+      "content_sha256": "950e10353f81960f1862812fa94bd53795a2f0e7a206816f965a5718ca8bd151",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "this often gives one example, but implies more.",
+      "html": "this often gives one example, but implies more.",
+      "credits_raw": "dc",
+      "content_sha256": "cb93765893e302dd988f4b1b51443ac5613345e1fa945fcd88f05e4a1c8f3821",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "see also sae as in the they dont -even- have food.",
+      "html": "see also sae as in the they dont -even- have food.",
+      "credits_raw": "dc",
+      "content_sha256": "a28c92cffafcbc371294276bfb1428c27323eb0a006a711ba5c3cad87ad631a5",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "another meaning is 〜から判断して \"form one's opinion based on\"\nAnother thing to point out is that there are two versions of から discussed in the grammatics:\n1) から because\n2) から from\nactually quite obvious but might help in the test. Remember the different grammatics of those two!",
+      "html": "another meaning is 〜から判断して \"form one's opinion based on\"<br/>Another thing to point out is that there are two versions of から discussed in the grammatics:<br/>1) から because<br/>2) から from<br/>actually quite obvious but might help in the test. Remember the different grammatics of those two!",
+      "credits_raw": "halx",
+      "content_sha256": "d0f9a147b4b1b4f111043c800baa71ae6b66d715b23592bfa1faae816d98bcff",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "It's probably better to use からすると for example #3222. That grammar has the meaning of \"judging by.\" Using からして is grammatically weird: \"Even his physical condition can't do sports.\"",
+      "html": "It's probably better to use からすると for example #3222. That grammar has the meaning of \"judging by.\" Using からして is grammatically weird: \"Even his physical condition can't do sports.\"",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "de65d68263e8e101ddaf85a9ff88e9dc5bed0f8cbf900c2583be3ca345a5eb76",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "\"for a start\" is definately a weird way to translate this point. From the Kanzen master book, there are two translations explained: 1)\"Even\" and 2)\"Judging from\".",
+      "html": "\"for a start\" is definately a weird way to translate this point. From the Kanzen master book, there are two translations explained: 1)\"Even\" and 2)\"Judging from\".",
+      "credits_raw": "nitrate",
+      "content_sha256": "ee2c5d302e5287c36f8c4b720557f48db4eb6015179bae5e5a4b96cf78f1a368",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "Isn't the definition closer to, 'In particular'.\nIt seems to me after all that this grammar is used to highlight one thing out of a group to describe something or use as an example. I think it could also be written as 'for a start' in some examples.\n\n\"田舎は空気からして違う。\" The countryside, in particular the air is different.\n\n\"彼は礼儀を知らない　挨拶からして、きちんとしていない。\"\nHe doesn't have any manners, for a start he never greets people properly.\n\n(all example taken from Kanzen Master level 2 Green Grammar book)\n\nRUBYHATCHET : That example using からして actually exists in the Kanzen Master book and my Japanese friend insists it is grammatically correct.",
+      "html": "Isn't the definition closer to, 'In particular'.<br/>It seems to me after all that this grammar is used to highlight one thing out of a group to describe something or use as an example. I think it could also be written as 'for a start' in some examples.<br/><br/>\"田舎は空気からして違う。\" The countryside, in particular the air is different.<br/><br/>\"彼は礼儀を知らない　挨拶からして、きちんとしていない。\"<br/>He doesn't have any manners, for a start he never greets people properly.<br/><br/>(all example taken from Kanzen Master level 2 Green Grammar book)<br/><br/>RUBYHATCHET : That example using からして actually exists in the Kanzen Master book and my Japanese friend insists it is grammatically correct.",
+      "credits_raw": "kadoka66",
+      "content_sha256": "ca44eca1f7a22df7cce3b1a50637a9a3221591a3cf67850d6e724802b2faeaea",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "KADOKE66: Thinking about it again, you're right. I'm still not sure if \"judging by/from\" is a good translation into English because of the \"judging\" part. Just using \"by\" or \"given\" works well, such as \"by the feel of it (その感じからして).\" However, からして in example #3222 should and does make grammatical and practical sense in Japanese. Something like, \"Given his physical condition, he can't handle sports.\"\n\nIn ＡからしてＢ, Ａ has to be an example of extremely basic or \"at the very least,\" while Ｂ gives the meaning of \"because of Ａ, anything above that is 〜.\"\n\nI tried to include a couple more examples like #3222 to illustrate the two meanings you pointed out.",
+      "html": "KADOKE66: Thinking about it again, you're right. I'm still not sure if \"judging by/from\" is a good translation into English because of the \"judging\" part. Just using \"by\" or \"given\" works well, such as \"by the feel of it (その感じからして).\" However, からして in example #3222 should and does make grammatical and practical sense in Japanese. Something like, \"Given his physical condition, he can't handle sports.\"<br/><br/>In ＡからしてＢ, Ａ has to be an example of extremely basic or \"at the very least,\" while Ｂ gives the meaning of \"because of Ａ, anything above that is 〜.\"<br/><br/>I tried to include a couple more examples like #3222 to illustrate the two meanings you pointed out.",
+      "credits_raw": "rubyhatchet",
+      "content_sha256": "ee6a4f2a46f006c85468d4e5de4dcb5b34f252bc91f86e010258ff6997428d12",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 890,
+      "label": "をはじめ",
+      "source_url": "https://takoboto.jp/bunpo/890"
+    },
+    {
+      "target_id": 1304,
+      "label": "さえ",
+      "source_url": "https://takoboto.jp/bunpo/1304"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:38:16+00:00",
+  "response_sha256": "d76560507b93cfeb4d635897e76ef010e391a24088af147c60683de19a5e67b5",
+  "warnings": []
+}

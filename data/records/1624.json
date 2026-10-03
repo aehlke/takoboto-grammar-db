@@ -1,0 +1,130 @@
+{
+  "schema_version": 2,
+  "id": 1624,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1624/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "未だ",
+  "romanized_label": "imada",
+  "alternate_forms": [
+    "いまだ"
+  ],
+  "jlpt_level": null,
+  "credits_raw": "marina.levanto",
+  "meaning": "yet / as yet / so far/ not yet",
+  "meaning_example": "you are STILL very young",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "あなたは未だとても若い。",
+      "html": "あなたは未だとても若い。"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1624",
+      "body_text": "yet / as yet / so far/ not yet \n you are STILL very young \n あなたは未だとても若い。",
+      "body_html": "<span>yet / as yet / so far/ not yet</span> <br/> <span>you are STILL very young</span> <br/> <span>あなたは未だとても若い。</span>",
+      "credits_raw": "marina.levanto"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 6487,
+      "position": 0,
+      "japanese": "あなたは未だとても若い。未だ",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af\"><span>あなたは</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%aa%e3%81%a0%e3%81%a8%e3%81%a6%e3%82%82\"><span>未だとても</span></a><a href=\"https://takoboto.jp/?q=%e8%8b%a5%e3%81%84%e3%80%82\"><span>若い。</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%aa%e3%81%a0\"><strong>未だ</strong></a>",
+      "segments": [
+        {
+          "text": "あなたは未だとても若い。",
+          "grammar_highlight": false
+        },
+        {
+          "text": "未だ",
+          "grammar_highlight": true
+        }
+      ],
+      "reading": "あなたはまだとてもわかい。まだ",
+      "credits_raw": "marina.levanto",
+      "translations": [
+        {
+          "language": "en",
+          "text": "you are still very young still",
+          "html": "<span>you are still very young </span><strong>still </strong>",
+          "segments": [
+            {
+              "text": "you are still very young ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "still ",
+              "grammar_highlight": true
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6607,
+      "position": 1,
+      "japanese": "宿題を未だ終わっていない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e5%ae%bf%e9%a1%8c%e3%82%92\"><span>宿題を</span></a><a href=\"https://takoboto.jp/?q=%e6%9c%aa%e3%81%a0\"><strong>未だ</strong></a><a href=\"https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%80%82\"><span>終わっていない。</span></a>",
+      "segments": [
+        {
+          "text": "宿題を",
+          "grammar_highlight": false
+        },
+        {
+          "text": "未だ",
+          "grammar_highlight": true
+        },
+        {
+          "text": "終わっていない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "しゅくだいをまだおわっていない。",
+      "credits_raw": "tigert",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I still haven`t finished my homework.",
+          "html": "<span>I still haven`t finished my homework. </span>",
+          "segments": [
+            {
+              "text": "I still haven`t finished my homework. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "Is the last まだ really needed?",
+      "html": "Is the last まだ really needed?",
+      "credits_raw": "tigert",
+      "content_sha256": "d3c170f1605e2c2cb53622451a294bf07a6eb76e457787c20388f5ba6e993103",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:47:07+00:00",
+  "response_sha256": "27401fcd84760362b28439a5adef3962b41c9ab3ed03d35383fbfe6e9a3fdbb6",
+  "warnings": []
+}

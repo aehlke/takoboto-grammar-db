@@ -1,0 +1,74 @@
+{
+  "schema_version": 2,
+  "id": 1592,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1592/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "よりもさらに",
+  "romanized_label": "yorimosarani",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "ziaz",
+  "meaning": "more than that; more than",
+  "meaning_example": "The road to the summit must be steeper than it has been so far.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1592",
+      "body_text": "more than that; more than \n The road to the summit must be steeper than it has been so far.",
+      "body_html": "<span>more than that; more than</span> <br/> <span>The road to the summit must be steeper than it has been so far.</span>",
+      "credits_raw": "ziaz"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 6071,
+      "position": 0,
+      "japanese": "ここから頂上までの道は今までよりもさらに険しいに違いない。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%8b%e3%82%89\"><span>ここから</span></a><a href=\"https://takoboto.jp/?q=%e9%a0%82%e4%b8%8a%e3%81%be%e3%81%a7%e3%81%ae\"><span>頂上までの</span></a><a href=\"https://takoboto.jp/?q=%e9%81%93%e3%81%af\"><span>道は</span></a><a href=\"https://takoboto.jp/?q=%e4%bb%8a%e3%81%be%e3%81%a7\"><span>今まで</span></a><a href=\"https://takoboto.jp/?q=%e3%82%88%e3%82%8a%e3%82%82%e3%81%95%e3%82%89%e3%81%ab\"><strong>よりもさらに</strong></a><a href=\"https://takoboto.jp/?q=%e9%99%ba%e3%81%97%e3%81%84%e3%81%ab\"><span>険しいに</span></a><a href=\"https://takoboto.jp/?q=%e9%81%95%e3%81%84%e3%81%aa%e3%81%84%e3%80%82\"><span>違いない。</span></a>",
+      "segments": [
+        {
+          "text": "ここから頂上までの道は今まで",
+          "grammar_highlight": false
+        },
+        {
+          "text": "よりもさらに",
+          "grammar_highlight": true
+        },
+        {
+          "text": "険しいに違いない。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "ここからちょうじょうまでのみちはいままでよりもさらにけわしいにちがいない。",
+      "credits_raw": "ziaz",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The road to the summit must be steeper than it has been so far.",
+          "html": "<span>The road to the summit must be steeper than it has been so far. </span>",
+          "segments": [
+            {
+              "text": "The road to the summit must be steeper than it has been so far. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:40:33+00:00",
+  "response_sha256": "811951b53f95e0e01147742386fd369e06de29f8f3d37ec51395a8c87c571c39",
+  "warnings": []
+}

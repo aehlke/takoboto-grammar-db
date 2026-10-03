@@ -1,0 +1,23 @@
+{
+  "feed_schema_version": 1,
+  "source": "jgram-wayback-rss",
+  "feed_path": "/rss/updates.xml",
+  "source_url": "http://www.jgram.org:80/rss/updates.xml",
+  "archive_url": "https://web.archive.org/web/20200713231357id_/http://www.jgram.org:80/rss/updates.xml",
+  "archive_timestamp": "20200713231357",
+  "retrieved_at": "2026-10-03T06:51:47+00:00",
+  "response_sha256": "9ef231d8d8656b02bc397b9338e81dfdb7d9af09cb117a1cb4115825694feda9",
+  "title": "JGram updates",
+  "description": "Updates to the JGram site",
+  "channel_xml": "<channel>\n<title>JGram updates</title>\n<link>http://www.jgram.org</link>\n<description>Updates to the JGram site</description>\n</channel>\n",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_basis": "JGram/Takoboto grammar notice; items restricted to verified grammar labels",
+  "items": [],
+  "warnings": [],
+  "review_required": [],
+  "indexed_capture_count": 98,
+  "index_response_sha256": "75eacbc2b85c174d0be7c3049fabf17520d5091a4f9377faa7cb379fcd4a85bf"
+}

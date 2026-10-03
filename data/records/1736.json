@@ -1,0 +1,83 @@
+{
+  "schema_version": 2,
+  "id": 1736,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/1736/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "かけだ",
+  "romanized_label": "kakeda",
+  "alternate_forms": [],
+  "jlpt_level": 2,
+  "credits_raw": "ashishjoshi",
+  "meaning": "in the middle of something",
+  "meaning_example": "these files are yet to be completed.",
+  "meaning_notes": [
+    {
+      "language": "ja",
+      "text": "何か始めたけれど、途中で止めてしまいました。完成はまだです。",
+      "html": "何か始めたけれど、途中で止めてしまいました。完成はまだです。"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_1736",
+      "body_text": "in the middle of something \n these files are yet to be completed. \n 何か始めたけれど、途中で止めてしまいました。完成はまだです。",
+      "body_html": "<span>in the middle of something</span> <br/> <span>these files are yet to be completed.</span> <br/> <span>何か始めたけれど、途中で止めてしまいました。完成はまだです。</span>",
+      "credits_raw": "ashishjoshi"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 8590,
+      "position": 0,
+      "japanese": "お風呂に入りかけたときに電話が鳴った。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e3%81%8a\"><span>お</span></a><a href=\"https://takoboto.jp/?q=%e9%a2%a8%e5%91%82%e3%81%ab\"><span>風呂に</span></a><a href=\"https://takoboto.jp/?q=%e5%85%a5%e3%82%8a%e3%81%8b%e3%81%91%e3%81%9f%e3%81%a8%e3%81%8d%e3%81%ab\"><span>入りかけたときに</span></a><a href=\"https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%8c\"><span>電話が</span></a><a href=\"https://takoboto.jp/?q=%e9%b3%b4%e3%81%a3%e3%81%9f%e3%80%82\"><span>鳴った。</span></a>",
+      "segments": [
+        {
+          "text": "お風呂に入りかけたときに電話が鳴った。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "おふろにはいりかけたときにでんわがなった。",
+      "credits_raw": "hungry-sumo",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The phone rang when I was about to get in the bath.",
+          "html": "<span>The phone rang when I was about to get in the bath. </span>",
+          "segments": [
+            {
+              "text": "The phone rang when I was about to get in the bath. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "[v(-masu)+kake] is a pattern used to show that something was stopped in the middle or before the actual completion.",
+      "html": "[v(-masu)+kake] is a pattern used to show that something was stopped in the middle or before the actual completion.",
+      "credits_raw": "ashishjoshi",
+      "content_sha256": "992d63ee3350b338c4a0f6cba4ec90e6341c06ac264c80e7a1fcacc02976d6f3",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:40:41+00:00",
+  "response_sha256": "6b6798093901fd5dea3cb8cc229eba286303677108f906a01e7a137553f37d59",
+  "warnings": []
+}

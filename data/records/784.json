@@ -1,0 +1,336 @@
+{
+  "schema_version": 2,
+  "id": 784,
+  "source": "takoboto",
+  "source_url": "https://takoboto.jp/bunpo/784/",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "title": "て形+ある (て在る・て有る)",
+  "romanized_label": "tearu",
+  "alternate_forms": [
+    "〜てある"
+  ],
+  "jlpt_level": 3,
+  "credits_raw": "Amatuka",
+  "meaning": "Vte something has been purposely put into a state",
+  "meaning_example": "The window has been closed.",
+  "meaning_notes": [],
+  "sections": [
+    {
+      "kind": "meaning",
+      "source_dom_id": "editable_Meaning_784",
+      "body_text": "Vte something has been purposely put into a state \n The window has been closed.",
+      "body_html": "<span>Vte something has been purposely put into a state</span> <br/> <span>The window has been closed.</span>",
+      "credits_raw": "Amatuka"
+    }
+  ],
+  "formations": [],
+  "examples": [
+    {
+      "source_id": 3250,
+      "position": 0,
+      "japanese": "窓が開けてある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%aa%93%e3%81%8c\"><span>窓が</span></a><a href=\"https://takoboto.jp/?q=%e9%96%8b%e3%81%91%e3%81%a6\"><span>開けて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%8b\"><strong>ある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "窓が開けて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "まどがあけてある。",
+      "credits_raw": "bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The window has been left open.",
+          "html": "<span>The window </span><strong>has been </strong><span>left open. </span>",
+          "segments": [
+            {
+              "text": "The window ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "has been ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "left open. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3251,
+      "position": 1,
+      "japanese": "窓が閉めてある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%aa%93%e3%81%8c\"><span>窓が</span></a><a href=\"https://takoboto.jp/?q=%e9%96%89%e3%82%81%e3%81%a6\"><span>閉めて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%8b\"><strong>ある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "窓が閉めて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "まどがしめてある。",
+      "credits_raw": "bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "The window has been closed.",
+          "html": "<span>The window </span><strong>has been </strong><span>closed. </span>",
+          "segments": [
+            {
+              "text": "The window ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "has been ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "closed. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3252,
+      "position": 2,
+      "japanese": "窓を（は）開けてある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%aa%93%e3%82%92\"><span>窓を</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%88%e3%81%af\"><span>（は</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%89%e9%96%8b%e3%81%91%e3%81%a6\"><span>）開けて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%8b\"><strong>ある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "窓を（は）開けて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "まどを（は）あけてある。",
+      "credits_raw": "bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I left the window open.",
+          "html": "<span>I </span><strong>left </strong><span>the window open. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "left ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the window open. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 3253,
+      "position": 3,
+      "japanese": "窓を（は）閉めてある。",
+      "japanese_html": "<a href=\"https://takoboto.jp/?q=%e7%aa%93%e3%82%92\"><span>窓を</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%88%e3%81%af\"><span>（は</span></a><a href=\"https://takoboto.jp/?q=%ef%bc%89%e9%96%89%e3%82%81%e3%81%a6\"><span>）閉めて</span></a><a href=\"https://takoboto.jp/?q=%e3%81%82%e3%82%8b\"><strong>ある</strong></a><a href=\"https://takoboto.jp/?q=%e3%80%82\"><span>。</span></a>",
+      "segments": [
+        {
+          "text": "窓を（は）閉めて",
+          "grammar_highlight": false
+        },
+        {
+          "text": "ある",
+          "grammar_highlight": true
+        },
+        {
+          "text": "。",
+          "grammar_highlight": false
+        }
+      ],
+      "reading": "まどを（は）しめてある。",
+      "credits_raw": "bamboo4",
+      "translations": [
+        {
+          "language": "en",
+          "text": "I kept the window closed.",
+          "html": "<span>I </span><strong>kept </strong><span>the window closed. </span>",
+          "segments": [
+            {
+              "text": "I ",
+              "grammar_highlight": false
+            },
+            {
+              "text": "kept ",
+              "grammar_highlight": true
+            },
+            {
+              "text": "the window closed. ",
+              "grammar_highlight": false
+            }
+          ]
+        }
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "source_id": null,
+      "text": "てある only combines with transitive verbs, never intransitive. \nThe result of transitive + てある is an intransitive itself.\n\n窓が開いている -> The window is open. (no agent or reason implied)\n\n窓が開けてある -> The window is open (because someone opened it).",
+      "html": "てある only combines with transitive verbs, never intransitive. <br/>The result of transitive + てある is an intransitive itself.<br/><br/>窓が開いている -&gt; The window is open. (no agent or reason implied)<br/><br/>窓が開けてある -&gt; The window is open (because someone opened it).",
+      "credits_raw": "kurisutofu",
+      "content_sha256": "41326aad238555099d67de21e5491d4d4be8bf1b93e0a337cf4759da4aec0091",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "source_id": null,
+      "text": "Note that tearu only combines with transitive verbs, never intransitive. The result of transitive + tearu is an intransitive itself.",
+      "html": "Note that tearu only combines with transitive verbs, never intransitive. The result of transitive + tearu is an intransitive itself.",
+      "credits_raw": "bi-ru",
+      "content_sha256": "fc3f4ea4b2abf8d84e6aea06f4b1547552b2e3d87155c78920670bd6e0320f8b",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 2,
+      "source_id": null,
+      "text": "Compare \n窓が開いている。[mado ga hiraiteiru] \nThe window is open.\n窓が開けてある。[mado ga aketearu]\nThe window has been opened.",
+      "html": "Compare <br/>窓が開いている。[mado ga hiraiteiru] <br/>The window is open.<br/>窓が開けてある。[mado ga aketearu]<br/>The window has been opened.",
+      "credits_raw": "Amatuka",
+      "content_sha256": "619b97bf603841471a2e2fd486d6af52d430b5f71be4197790a6a87abbb01338",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 3,
+      "source_id": null,
+      "text": "and... my mind has been blown.",
+      "html": "and... my mind has been blown.",
+      "credits_raw": "k-dogg",
+      "content_sha256": "519cfd17b09e7d612c72c3534eb905ca3f4b9d9fb184fa208811ac23c2f4ba9c",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 4,
+      "source_id": null,
+      "text": "I saw ex 3250 and looking the little window I read: \"mado ga aketearu\nand ex. 3251: mado ga shimete aru.\nThen, I saw Amatukaﾂｴs comments and I constat that I was wrong. How can I know which of the reading of the kanji in the little window is correct.\nThank you for your help.",
+      "html": "I saw ex 3250 and looking the little window I read: \"mado ga aketearu<br/>and ex. 3251: mado ga shimete aru.<br/>Then, I saw Amatukaﾂｴs comments and I constat that I was wrong. How can I know which of the reading of the kanji in the little window is correct.<br/>Thank you for your help.",
+      "credits_raw": "Futaro",
+      "content_sha256": "12a7f46185b670e785449ba9a3067e49c732bed3f7bfe0bc56a4b32f4b0a1b1d",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 5,
+      "source_id": null,
+      "text": "Amatuka is wrong on pronunciation.\n\n窓が開いている -> まどがあいている\n\nAs Bi-ru notes, the ている form is resultative for intransitive verbs, but the てある form lets you take a transitive verb and do the same thing.\n\n窓が開いている -> The window is open. (no agent or reason implied)\n\n窓が開けてある -> The window is open (because someone opened it).",
+      "html": "Amatuka is wrong on pronunciation.<br/><br/>窓が開いている -&gt; まどがあいている<br/><br/>As Bi-ru notes, the ている form is resultative for intransitive verbs, but the てある form lets you take a transitive verb and do the same thing.<br/><br/>窓が開いている -&gt; The window is open. (no agent or reason implied)<br/><br/>窓が開けてある -&gt; The window is open (because someone opened it).",
+      "credits_raw": "Tenorikuma",
+      "content_sha256": "e02a88cbb50ed8da0ece8090120a883345b951568daea49a9f51e08a8464e0d0",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 6,
+      "source_id": null,
+      "text": "Amatuka`s pronunciation isn`t wrong. 開く can be pronounced あく or ひらく they both mean the same thing. but あく is used for things that swing open and ひらく is used for things that slide open. IE sliding doors, windows, etc...",
+      "html": "Amatuka`s pronunciation isn`t wrong. 開く can be pronounced あく or ひらく they both mean the same thing. but あく is used for things that swing open and ひらく is used for things that slide open. IE sliding doors, windows, etc...",
+      "credits_raw": "tigert",
+      "content_sha256": "418de14d4d68f3a95bfa43520b2ecc6e9aa0fdb12f8262b1bad0f4a792a884c9",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 7,
+      "source_id": null,
+      "text": "Aha, I've always wondered about the difference between the two readings. So does that mean that the example here with the window will be read differently depending on whether it is the kind of window that swings or slides? :)",
+      "html": "Aha, I've always wondered about the difference between the two readings. So does that mean that the example here with the window will be read differently depending on whether it is the kind of window that swings or slides? :)",
+      "credits_raw": "mochabean",
+      "content_sha256": "819f8c479f3d1b35e948b6aa9aefdb2d38b90d50b8e6ff49353e2cabedbbf54e",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 8,
+      "source_id": null,
+      "text": "bi-ru and Tenorikuma, I have taken the liberty to add a note with the comments you did.\nHope you don't mind.",
+      "html": "bi-ru and Tenorikuma, I have taken the liberty to add a note with the comments you did.<br/>Hope you don't mind.",
+      "credits_raw": "kurisutofu",
+      "content_sha256": "53095029b5f11bc8216780442f4f6a59b1b710dfe0aafb3f1ad2d48a520fa504",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 9,
+      "source_id": null,
+      "text": "Can someone well qualified please give the correct hiragana / romaji for the two window examples? ... Since there seems to be some confusion.",
+      "html": "Can someone well qualified please give the correct hiragana / romaji for the two window examples? ... Since there seems to be some confusion.",
+      "credits_raw": "bgaskin",
+      "content_sha256": "d834ab1b6d59613f012c866304f01945dd963d58cab4f493e3dd665f4cc3fd22",
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 10,
+      "source_id": null,
+      "text": "Hi bgaskin,\n\nIf I understood it correctly, it is supposed to be pronounced both ways ひらく / あくwith just some subtle differences in the context it implies (like the kind of window we're talking about, or the way it opens).\n\nBut what I find even funnier is that when pronounced as ひらく, it can be both a transitive and an intransitive verb, so I think it should work both with てある and ている grammars. So theoretically you could find:\n\n1. 窓が開いている。-- The window is open.\n\n2. 窓が開いてある。-- The window has been opened.\n\nIn the first case you can pronounce it both ways, as stated above. Whereas in the second one, you'd need to pronounce it as ひらいてある so it to be transitive and not あいてある since this way it would be intransitive and could not be applied this grammar...\n\nHowever I'm just a student and I'm trying to clarify my ideas, so I hope someone can confirm or correct me if I'm wrong :)",
+      "html": "Hi bgaskin,<br/><br/>If I understood it correctly, it is supposed to be pronounced both ways ひらく / あくwith just some subtle differences in the context it implies (like the kind of window we're talking about, or the way it opens).<br/><br/>But what I find even funnier is that when pronounced as ひらく, it can be both a transitive and an intransitive verb, so I think it should work both with てある and ている grammars. So theoretically you could find:<br/><br/>1. 窓が開いている。-- The window is open.<br/><br/>2. 窓が開いてある。-- The window has been opened.<br/><br/>In the first case you can pronounce it both ways, as stated above. Whereas in the second one, you'd need to pronounce it as ひらいてある so it to be transitive and not あいてある since this way it would be intransitive and could not be applied this grammar...<br/><br/>However I'm just a student and I'm trying to clarify my ideas, so I hope someone can confirm or correct me if I'm wrong :)",
+      "credits_raw": "xelloss1012",
+      "content_sha256": "9fe9886dccd87e55128ad9f8a9d369b4e3f7bf31c631ce49a1de5e2e46d392a6",
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "target_id": 783,
+      "label": "て形+いる (て居る)",
+      "source_url": "https://takoboto.jp/bunpo/783"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "retrieved_at": "2026-10-03T05:34:56+00:00",
+  "response_sha256": "55e8e7609d8e27a593fcd83faf1ef98cb099d85bd9113b04236f6b1f57bc9acd",
+  "warnings": []
+}
