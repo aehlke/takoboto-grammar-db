@@ -45,7 +45,8 @@ these notices in its `metadata` table and retains contributor credits.
 The release includes the complete captured Takoboto collection and a **partial
 JGram archive supplement**. The latest Wayback inventory still has 1,347
 unresolved labels, including aliases and non-grammar pages; the 2015 backup
-does not establish their final online content.
+does not establish their final online content. See [remaining recovery work](docs/remaining-work.md)
+for the saved-attempt breakdown and priorities.
 
 To generate reader Markdown and SQLite locally from the committed records,
 without requesting either website:

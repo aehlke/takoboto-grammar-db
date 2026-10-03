@@ -126,8 +126,9 @@ This covers each latest feed, not its entire historical sequence of items.
 
 The newer supplement contains **63 records**, with **73 notes, 446 examples,
 248 comments and 68 references**; 23 original IDs are absent current Takoboto.
-The separate backup has **704 observations (701 distinct IDs)** with **843 notes,
-5,537 examples, 3,843 comments and 912 references**; 79 IDs are absent Takoboto.
+The separate backup has **704 page captures containing 705 entry observations
+(702 distinct IDs)** with **844 notes, 5,537 examples, 3,849 comments and 912
+references**; 80 IDs are absent Takoboto.
 Historical observations overlap and must not be summed as unique contributions.
 All 63 newer IDs also occur in the backup, with their distinct capture dates
 and potentially different content retained.
@@ -140,12 +141,16 @@ to MightyAtom. Original contribution dates were not exposed in the pilot.
 
 Both source audits pass for published records, and the current-source audit
 passes. Every selected backup label has been processed; **63 tutorial pages**
-remain held for section/license review. Two also have undecodable source bytes.
+remain held for section/license review. Two older undecodable-byte review files
+were superseded by verified encoding repairs; they are not additional active holds.
 The **latest replay crawl remains partial: 1,347 indexed labels are unresolved**,
 including aliases/non-grammar candidates. A 2015 observation does not clear the
 latest-version status. The `-oku`, `juu` and `teshouganai` aliases were investigated
 against licensed successor IDs; see the recovery ledger for the precise evidence.
-No complete final historical database is claimed.
+No complete final historical database is claimed. Of the 1,347 unresolved latest
+labels, 1,346 have no saved per-label crawl state and one (`da`) is held for
+review. See [remaining work](remaining-work.md) for the current breakdown and
+recovery priorities.
 
 ## Commands
 
