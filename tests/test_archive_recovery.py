@@ -109,7 +109,9 @@ class RecoveryTests(unittest.TestCase):
         anchor = next(a for a in soup.select('a[name]') if a['name'].isdigit())
         row = anchor.find_parent('tr')
         row.parent.append(copy.copy(row))
-        record = parse_archive(soup.encode('shift_jis'), self.latest, 'now')
+        body = soup.encode('shift_jis')
+        capture = dict(self.latest, digest=base64.b32encode(hashlib.sha1(body).digest()).decode())
+        record = parse_archive(body, capture, 'now')
         self.assertEqual(len(record['examples']), 15)
         path = build_sqlite([], self.root / 'duplicates.sqlite', [record])
         with closing(sqlite3.connect(path)) as db:
@@ -121,10 +123,13 @@ class RecoveryTests(unittest.TestCase):
         missing = (b'<title>JGram - The Japanese Grammar database</title>'
             b'<a href="https://creativecommons.org/licenses/by-sa/2.0/">License</a>'
             b'No entry exists for ageku - click here to add one')
+        capture = dict(self.latest, digest=base64.b32encode(hashlib.sha1(missing).digest()).decode())
         with self.assertRaises(NotGrammar):
-            parse_archive(missing, self.latest, 'now')
+            parse_archive(missing, capture, 'now')
+        wrong = missing.replace(b'for ageku', b'for other')
+        wrong_capture = dict(self.latest, digest=base64.b32encode(hashlib.sha1(wrong).digest()).decode())
         with self.assertRaisesRegex(ValueError, 'missing viewOnetitle'):
-            parse_archive(missing.replace(b'for ageku', b'for other'), self.latest, 'now')
+            parse_archive(wrong, wrong_capture, 'now')
 
     def test_unclassified_entry_is_held_and_reviewed_id_requires_matching_title(self):
         body = self.body.replace(b'Category</b>: <i>grammar</i>', b'')

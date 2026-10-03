@@ -87,7 +87,7 @@ def validate_selection(inventory, values, key, parser):
 
 def load_records(path, parser):
     try:
-        records = read_records(path)
+        records = read_records(path, for_export=True)
         if any(not isinstance(record['romanized_label'], str) for record in records):
             raise ValueError('current record labels must be strings')
         return records
@@ -274,7 +274,7 @@ def run(resources):
         return 0 if report["coverage_verified"] else 1
     if args.command == 'update-markdown':
         try:
-            records = read_records(args.input)
+            records = read_records(args.input, for_export=True)
             archived = read_archive_records(args.archive) if args.archive else []
             for snapshot in args.archive_snapshot:
                 archived.extend(read_archive_snapshot(snapshot))
@@ -298,7 +298,7 @@ def run(resources):
         except (OSError, ValueError) as exc:
             parser.error(str(exc))
         try:
-            records = read_records(args.input)
+            records = read_records(args.input, for_export=True)
             archived = read_archive_records(args.archive) if args.archive else []
             for snapshot in args.archive_snapshot:
                 archived.extend(read_archive_snapshot(snapshot))

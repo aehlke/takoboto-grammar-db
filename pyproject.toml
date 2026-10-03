@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "takoboto-grammar-db"
-version = "0.4.0"
+version = "0.5.0"
 description = "Archive Takoboto's public JGram-derived grammar collection"
 requires-python = ">=3.11"
 dependencies = [

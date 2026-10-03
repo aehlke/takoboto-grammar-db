@@ -40,8 +40,11 @@ body_html: |-
   <span>Meaning with <strong>emphasis</strong>.</span>
 ```
 
-The existing record schemas are unchanged: current schema 2, historical schema
-1, RSS schema 1 and SQLite schema 3. SQLite `record_json` fields remain JSON
+Record schemas are current schema 2, historical schema 1 (single-entry pages)
+or 2 (multi-entry pages), RSS schema 1 and SQLite schema 3. A multi-entry capture
+keeps its additional original IDs in an `additional_entries` list inside the
+same canonical file; exports expand these source components into separate rows
+or reader pages. SQLite `record_json` fields remain JSON
 interchange representations of the complete parsed YAML records. Verification
 hashes also remain canonical JSON hashes of parsed values. YAML layout and
 quoting do not invalidate source evidence or silently lift review holds.

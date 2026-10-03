@@ -10,7 +10,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup, Comment
 
 from .parser import parse_entry, text
-from .storage import read_records, write_json
+from .storage import read_records, write_json, check_current_export
 
 
 def audit(directory):
@@ -29,6 +29,10 @@ def audit(directory):
     related_ids = set()
     for record in records:
         gid = record["id"]
+        try:
+            check_current_export(root, record)
+        except (OSError, ValueError, KeyError, TypeError) as exc:
+            report['errors'].append({'id': gid, 'error': str(exc)})
         body = (root / "cache/responses" / (record["response_sha256"] + ".html")).read_bytes()
         if hashlib.sha256(body).hexdigest() != record["response_sha256"]:
             report["errors"].append({"id": gid, "error": "Response hash mismatch"})

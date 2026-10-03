@@ -137,7 +137,7 @@
     "scoped_captures": 1312,
     "selected_labels": 1077,
     "included_observations": 704,
-    "distinct_original_ids": 701,
+    "distinct_original_ids": 702,
     "original_ids_absent_current": [
       116,
       596,
@@ -201,6 +201,7 @@
       1615,
       1616,
       1634,
+      1649,
       1654,
       1672,
       1689,
@@ -1297,7 +1298,8 @@
         "status": "held; content not published",
         "license_check_required": true
       }
-    ]
+    ],
+    "included_entry_observations": 705
   },
   "newer_wayback": {
     "indexed_labels": 1414,
@@ -1507,7 +1509,7 @@
     ]
   },
   "verification": {
-    "tests_passed": 115,
+    "tests_passed": 144,
     "source_audits": {
       "archive-2015": {
         "captured_entries": 704,
@@ -1536,11 +1538,17 @@
         "historical_coverage_complete": false
       }
     },
-    "source_payloads_verified": true,
+    "source_payloads_verified": {
+      "current": 643,
+      "backup_pages": 704,
+      "backup_entries": 705,
+      "newer": 63,
+      "rss": 5
+    },
     "latest_historical_coverage_complete": false,
     "raw_and_held_content_excluded_from_git": true,
     "index_matches_published_sha1": true,
-    "export_qa": "recon/archive-release-qa.json"
+    "export_qa": "recon/reevaluation.yaml"
   },
   "remaining_limits": [
     "63 backup tutorial pages require section and license review; inspected newer Tae Kim material carries CC BY-NC-SA 2.0.",
@@ -1744,5 +1752,23 @@
     "canonical_record_format": "yaml",
     "qa": "recon/yaml-migration.yaml",
     "original_values_and_hashes_preserved": true
+  },
+  "reevaluation": {
+    "qa": "recon/reevaluation.yaml",
+    "report": "docs/reevaluation.md",
+    "multi_entry_capture": {
+      "label": "katawara",
+      "original_ids": [
+        1274,
+        1649
+      ],
+      "response_sha256": "48328e288860f5a30a991ab694afde562648a121fe93bd55515c0cc7deeeb271",
+      "source_page_observations": 1,
+      "entry_observations": 2,
+      "contributions_reassigned_to_entry_tables": true,
+      "additional_notes": 1,
+      "additional_comments": 6
+    },
+    "source_requests": 0
   }
 }

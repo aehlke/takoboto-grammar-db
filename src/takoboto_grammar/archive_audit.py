@@ -14,7 +14,7 @@ from .parser import text, parse_entry
 from .crawl import now
 from .archive_parser import NotGrammar, parse_archive, source_soup
 from .archive import original_label, allowed_archive_url, latest_body_equivalent
-from .storage import read_records, read_archive_records, read_archive_feeds, read_archive_state, read_feed_state, record_digest, write_json
+from .storage import read_records, read_archive_records, read_archive_feeds, read_archive_state, read_feed_state, record_digest, write_json, expand_archive_records, annotate_archive_record
 from .archive_feeds import parse_feed
 
 
@@ -34,7 +34,7 @@ def verified_current_records(directory):
     if directory is None:
         return []
     root = Path(directory).expanduser().resolve(strict=True)
-    records = read_records(root)
+    records = read_records(root, for_export=True)
     for record in records:
         body = cached_body(root, record['response_sha256'], '.html')
         expected = parse_entry(body, record['id'], record['retrieved_at'], record['response_sha256'])
@@ -74,6 +74,61 @@ def verify_entry_replay(capture, label):
     original = quote(capture['original'], safe="/:?=&;%+@!()*,-._~'")
     if not replay or replay[1] != capture['timestamp'] or replay[2] != original:
         raise ValueError('Historical replay URL, timestamp and original URL disagree')
+
+
+def audit_entry_content(soup, record, report, counts, categories):
+    label = record['label']
+    headings = {text(h).strip(' \u00a0:'): h for h in soup.select('.titleSection')}
+    categories[record['category'] or 'unclassified; verified current ID'] += 1
+    report['warnings'].extend({'label': label, 'warning': w} for w in record['warnings'])
+    for kind, heading_name, content_column in [('notes', 'Notes', 0), ('comments', 'Comments', 1)]:
+        heading = headings.get(heading_name)
+        rows = []
+        if heading:
+            for row in heading.find_parent('table').find_all('tr', recursive=False):
+                cells = row.find_all('td', recursive=False)
+                if len(cells) > 1 and any('bottom' in cls for cell in cells for cls in cell.get('class', [])):
+                    rows.append(cells)
+        if len(rows) != len(record[kind]):
+            report['errors'].append({'label': label, 'error': f'{kind} count mismatch: source {len(rows)}, extracted {len(record[kind])}'})
+        for cells, extracted in zip(rows, record[kind]):
+            source = cells[content_column]
+            author_node = (cells[1].select_one('a[href*="contributions.php"]') if kind == 'notes' else cells[0])
+            if text(source) != extracted['text'] or (text(author_node) or None) != extracted['credits_raw']:
+                report['errors'].append({'label': label, 'error': f'{kind} text or credit mismatch at position {extracted["position"]}'})
+            for asset in source.select('img,object,iframe,audio,video'):
+                report['content_assets'].append({'label': label, 'html': str(asset)})
+        counts[kind] += len(record[kind])
+    anchors = [a for a in soup.select('a[name]') if a['name'].isdigit() and re.search(r'ex\s*#', text(a), re.I)]
+    if len(anchors) != len(record['examples']):
+        report['errors'].append({'label': label, 'error': 'Example count mismatch'})
+    for anchor, extracted in zip(anchors, record['examples']):
+        cells = anchor.find_parent('tr').find_all('td', recursive=False)
+        if (len(cells) != 3 or int(anchor['name']) != extracted['source_id'] or
+            text(cells[1]) != extracted['body_text'] or
+            (text(cells[2].select_one('a[href*="contributions.php"]')) or None) != extracted['credits_raw']):
+            report['errors'].append({'label': label, 'error': f'Example body, ID or credits mismatch: {anchor["name"]}'})
+        if len(cells) > 1:
+            for asset in cells[1].select('img,object,iframe,audio,video'):
+                report['content_assets'].append({'label': label, 'html': str(asset)})
+    counts['examples'] += len(record['examples'])
+    see = headings.get('See Also')
+    links = []
+    if see:
+        # Each list item is one relation. Annotation prose can link the
+        # same or another entry again; malformed old HTML nests <li>s.
+        owners = set()
+        for link in see.parent.select('li a[href]'):
+            if 'viewOne.php' in link['href']:
+                owner = id(link.find_parent('li'))
+                if owner not in owners:
+                    owners.add(owner)
+                    links.append(link)
+    if len(links) != len(record['related_entries']):
+        report['errors'].append({'label': label, 'error': 'Annotated relationship count mismatch'})
+    counts['relationships'] += len(record['related_entries'])
+    for node in soup.select('time,[datetime],[data-date],[data-timestamp]'):
+        report['date_metadata'].append({'label': label, 'html': str(node)})
 
 
 def audit_archive(directory, takoboto=None, record_verification=False):
@@ -133,6 +188,9 @@ def audit_archive(directory, takoboto=None, record_verification=False):
                 if not latest_body_equivalent(body, capture, indexed_entries[label]):
                     report['warnings'].append({'label': label, 'warning': 'Stored replay is not the latest indexed content'})
             expected = parse_archive(body, capture, record['retrieved_at'], eligible_ids)
+            if expected.get('additional_entries'):
+                annotate_archive_record(expected, **{key: record[key] for key in
+                    ('snapshot', 'retrieval', 'latest_indexed_timestamp', 'selection_attempts') if key in record})
             if any(warning not in record['warnings'] for warning in expected['warnings']):
                 report['errors'].append({'label': label, 'error': 'Stored record omits source parser warnings'})
             mismatches = [key for key, value in expected.items() if key != 'warnings' and record.get(key) != value]
@@ -145,74 +203,38 @@ def audit_archive(directory, takoboto=None, record_verification=False):
                 if record_verification:
                     if not inventory.get('snapshot'):
                         check_latest_cached_response(root, record['archive_url'], record['response_sha256'], record['archive_url'])
-                entry_states.append((label, {'label': label, 'status': 'parsed', 'checked_at': now(),
+                preserved_capture = capture
+                if state and all(state.get('capture', {}).get(key) == capture.get(key) for key in
+                                 ('label', 'original', 'archive_url', 'timestamp')):
+                    preserved_capture = state['capture']
+                entry_states.append((label, dict(state or {}) | {'label': label, 'status': 'parsed', 'checked_at': now(),
                     'verification': 'offline-source-audit', 'current_membership_sha256': membership_digest,
                     'latest_indexed_timestamp': latest.get(label), 'eligible_ids': sorted(eligible_ids),
-                    'capture': capture, 'response_sha256': record['response_sha256'],
+                    'capture': preserved_capture, 'response_sha256': record['response_sha256'],
                     'record_sha256': record_digest(record), 'retrieved_at': record['retrieved_at']}))
         except (OSError, ValueError, KeyError, TypeError) as exc:
             report['errors'].append({'label': label, 'error': str(exc)})
             continue
         soup, _ = source_soup(body)
-        headings = {text(h).strip(' \u00a0:'): h for h in soup.select('.titleSection')}
-        categories[record['category'] or 'unclassified; verified current ID'] += 1
-        report['warnings'].extend({'label': label, 'warning': w} for w in record['warnings'])
-        for kind, heading_name, content_column in [('notes', 'Notes', 0), ('comments', 'Comments', 1)]:
-            heading = headings.get(heading_name)
-            rows = []
-            if heading:
-                for row in heading.find_parent('table').find_all('tr', recursive=False):
-                    cells = row.find_all('td', recursive=False)
-                    if len(cells) > 1 and any('bottom' in cls for cell in cells for cls in cell.get('class', [])):
-                        rows.append(cells)
-            if len(rows) != len(record[kind]):
-                report['errors'].append({'label': label, 'error': f'{kind} count mismatch: source {len(rows)}, extracted {len(record[kind])}'})
-            for cells, extracted in zip(rows, record[kind]):
-                source = cells[content_column]
-                author_node = (cells[1].select_one('a[href*="contributions.php"]') if kind == 'notes' else cells[0])
-                if text(source) != extracted['text'] or (text(author_node) or None) != extracted['credits_raw']:
-                    report['errors'].append({'label': label, 'error': f'{kind} text or credit mismatch at position {extracted["position"]}'})
-                for asset in source.select('img,object,iframe,audio,video'):
-                    report['content_assets'].append({'label': label, 'html': str(asset)})
-            counts[kind] += len(record[kind])
-        anchors = [a for a in soup.select('a[name]') if a['name'].isdigit() and re.search(r'ex\s*#', text(a), re.I)]
-        if len(anchors) != len(record['examples']):
-            report['errors'].append({'label': label, 'error': 'Example count mismatch'})
-        for anchor, extracted in zip(anchors, record['examples']):
-            cells = anchor.find_parent('tr').find_all('td', recursive=False)
-            if (len(cells) != 3 or int(anchor['name']) != extracted['source_id'] or
-                text(cells[1]) != extracted['body_text'] or
-                (text(cells[2].select_one('a[href*="contributions.php"]')) or None) != extracted['credits_raw']):
-                report['errors'].append({'label': label, 'error': f'Example body, ID or credits mismatch: {anchor["name"]}'})
-            if len(cells) > 1:
-                for asset in cells[1].select('img,object,iframe,audio,video'):
-                    report['content_assets'].append({'label': label, 'html': str(asset)})
-        counts['examples'] += len(record['examples'])
-        see = headings.get('See Also')
-        links = []
-        if see:
-            # Each list item is one relation. Annotation prose can link the
-            # same or another entry again; malformed old HTML nests <li>s.
-            owners = set()
-            for link in see.parent.select('li a[href]'):
-                if 'viewOne.php' in link['href']:
-                    owner = id(link.find_parent('li'))
-                    if owner not in owners:
-                        owners.add(owner)
-                        links.append(link)
-        if len(links) != len(record['related_entries']):
-            report['errors'].append({'label': label, 'error': 'Annotated relationship count mismatch'})
-        counts['relationships'] += len(record['related_entries'])
-        for node in soup.select('time,[datetime],[data-date],[data-timestamp]'):
-            report['date_metadata'].append({'label': label, 'html': str(node)})
-    counts['entries'] = len(records)
+        titles = soup.select('.viewOnetitle')
+        scopes = [title.find_parent('table') for title in titles] if len(titles) > 1 else [soup]
+        components = expand_archive_records([record])
+        if len(scopes) != len(components):
+            report['errors'].append({'label': label, 'error': 'Source entry header count differs from extracted entries'})
+            continue
+        for scope, component in zip(scopes, components):
+            if scope is None or (len(titles) > 1 and len(scope.select('.viewOnetitle')) != 1):
+                report['errors'].append({'label': label, 'error': 'Ambiguous source entry boundary'})
+                continue
+            audit_entry_content(scope, component, report, counts, categories)
+    counts['entries'] = len(expand_archive_records(records))
     report['counts'], report['categories'] = dict(counts), dict(categories)
     report['parsed_records_verified'] = bool(records) and not any(report[k] for k in
         ('errors', 'warnings', 'content_assets', 'date_metadata', 'blocked_records'))
     # Unparsed labels can be aliases, non-grammar or unavailable pages. They
     # cannot be called eligible or safely excluded without observing a replay.
     # An exclusion counts only after the retained response reproduces its classification.
-    for label in indexed:
+    for label in sorted(indexed):
         state = read_archive_state(root, label)
         if not state or state['status'] != 'excluded':
             continue

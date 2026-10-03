@@ -12,7 +12,7 @@ from urllib.request import Request
 from urllib.robotparser import RobotFileParser
 
 from .parser import BASE, ParseError, parse_entry, parse_index
-from .storage import output_root, safe_target, write_json, write_record, cache_response
+from .storage import output_root, safe_target, write_json, write_record, cache_response, record_digest
 from .http import HttpxOpener, RequestPacer
 
 
@@ -47,7 +47,8 @@ class Fetcher:
         self.root = output_root(directory)
         self.delay, self.refresh = delay, refresh
         self.ua = "takoboto-grammar-db/0.2 (public grammar archive" + (f"; {contact}" if contact else "") + ")"
-        self.opener = HttpxOpener(allowed_url, self.before_request, self.pacer.completed, 10 * 1024 * 1024)
+        self.opener = HttpxOpener(allowed_url, self.before_request, self.pacer.completed, 10 * 1024 * 1024,
+                                 on_retry_after=self.stop_with_backoff)
         self.run_id = uuid4().hex
         self.robots = None
         self.policy_checked = False
@@ -191,10 +192,15 @@ def crawl(fetcher, inventory, limit=None):
               "finished_at": None, "complete": False}
     for index, item in enumerate(entries, 1):
         gid = item["id"]
+        state = {'id': gid, 'status': 'pending'}
+        write_json(fetcher.root, f'states/{gid}.json', state)
         try:
             body, meta = fetcher.get(item["source_url"])
             record = parse_entry(body, gid, meta["retrieved_at"], meta["sha256"])
             write_record(fetcher.root, f"records/{gid}.yaml", record)
+            state.update(status='review_required' if record['warnings'] else 'parsed',
+                         response_sha256=record['response_sha256'], record_sha256=record_digest(record),
+                         retrieved_at=record['retrieved_at'])
             report["parsed"].append(gid)
             if record["warnings"]:
                 report["warnings"].append({"id": gid, "messages": record["warnings"]})
@@ -211,10 +217,12 @@ def crawl(fetcher, inventory, limit=None):
                 report["discovered_entries"] = len(queued)
             print(f"[{index}/{len(entries)}] #{gid}: {len(record['examples'])} examples, {len(record['comments'])} comments", flush=True)
         except FetchAccessError as exc:
+            state.update(status='failed', reason=str(exc), attempted_at=now())
             report['failed'].append({'id': gid, 'error': str(exc)})
             report['stopped_reason'] = str(exc)
             break
         except (ParseError, HTTPError, URLError, TimeoutError) as exc:
+            state.update(status='failed', reason=str(exc), attempted_at=now())
             report["failed"].append({"id": gid, "error": str(exc)})
             print(f"[{index}/{len(entries)}] #{gid} FAILED: {exc}", flush=True)
             if isinstance(exc, HTTPError) and exc.code in {401, 403, 429}:
@@ -224,9 +232,12 @@ def crawl(fetcher, inventory, limit=None):
                 report["stopped_reason"] = "Three consecutive failures; inspect cached responses before resuming"
                 break
         except Exception as exc:
+            state.update(status='failed', reason=str(exc), attempted_at=now())
             report["failed"].append({"id": gid, "error": str(exc)})
             write_json(fetcher.root, "crawl-report.json", report)
             raise
+        finally:
+            write_json(fetcher.root, f'states/{gid}.json', state)
         write_json(fetcher.root, "crawl-report.json", report)
     report["finished_at"] = now()
     report["complete"] = not report["failed"] and not report["warnings"] and limit is None and len(report["parsed"]) == len(queued)

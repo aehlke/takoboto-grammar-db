@@ -94,7 +94,16 @@ response hashes always cover the original bytes, before display transformations.
 Repeated original example IDs are preserved as separate occurrences in source
 order. SQLite schema 3 keys historical examples by `(entry_key, position)`;
 `source_id` remains the original ID and can repeat. Current records remain schema
-2 and historical records remain schema 1.
+2. Single-entry historical pages use schema 1; multi-entry pages use schema 2.
+
+The `katawara` backup response displays two original IDs, 1274 and 1649, with
+different meanings, JLPT levels and authors. Historical schema 2 keeps the first
+entry plus `additional_entries` in one canonical YAML capture file, with
+`page_entry_position` identifying each source table. Both entries carry the
+same original response/WARC evidence. SQLite and reader Markdown expand the
+components into separate entry observations. Notes, examples and comments are
+scoped to their respective source table; repeated displayed contributions are
+preserved as source occurrences. See [the reevaluation](reevaluation.md).
 
 ## Selection, scope and unresolved evidence
 
@@ -136,10 +145,11 @@ and the release database. The repository retains their source identities and
 review states.
 
 The backup extraction has visited every one of its 1,077 selected labels:
-704 included observations (701 distinct IDs), 310 verified exclusions and 63
+704 included pages containing 705 entry observations (702 distinct IDs),
+310 verified exclusions and 63
 held tutorial pages, with zero failed retrievals. The included observations
-contain 843 notes, 5,537 examples, 3,843 comments and 912 references. They add
-79 IDs absent current Takoboto. Source audits pass for all included records.
+contain 844 notes, 5,537 examples, 3,849 comments and 912 references. They add
+80 IDs absent current Takoboto. Source audits pass for all included records.
 The newer supplement contains 63 verified observations; 1,347 latest indexed
 labels remain unresolved.
 That is different from claiming every label is eligible, every historical
@@ -196,6 +206,9 @@ The conversion preserves every parsed value, source URL, original byte segment
 and provenance hash. Legacy JSON content files were moved to Trash and removed
 from the repository tree; no parallel JSON copies are tracked. Inventories,
 verification states and request reports remain machine JSON metadata.
+That migration report describes the conversion snapshot. The subsequent
+`katawara` correction intentionally changes one extraction digest while
+preserving its original source-byte evidence; it is documented separately.
 
 Record verification hashes still use the canonical JSON representation of the
 parsed values, independent of the on-disk YAML formatting. SQLite still embeds

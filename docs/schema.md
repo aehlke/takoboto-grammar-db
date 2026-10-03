@@ -16,14 +16,24 @@ cache. Database/Markdown exports require no network.
 The executable schema is [schema.sql](../src/takoboto_grammar/schema.sql).
 SQLite schema **3** is set in `user_version` and database metadata.
 Current-source records remain schema **2**; legacy version 1 records can be read.
-Historical records have their own `archive_schema_version: 1`.
+Historical records have their own `archive_schema_version`: 1 for single-entry
+captures and 2 for captures containing several original entry IDs.
 
 SQLite schema **3** preserves repeated historical example IDs by keying
 `archive_examples` on `(entry_key, position)`. `source_id` is original metadata
-and may repeat. Current record schema remains 2; historical record schema remains 1.
+and may repeat. Current record schema remains 2.
 Dated backup observations use a snapshot-qualified entry key and preserve the
 complete `retrieval` and `source_decoding_segments` objects in `record_json`.
 See [provenance](provenance.md) for the WARC verification and byte-preservation rules.
+
+Historical schema 2 stores `page_entry_position: 0` and `additional_entries`
+inside the same canonical YAML file. Each additional entry has its own numeric
+ID, header and contribution tables, while sharing the parent capture provenance.
+SQLite emits each component as its own `archive_entries` row. Additional rows
+have keys qualified by source page position and original ID as well as the
+snapshot and label; the first row retains its existing key. The parent row's
+complete `record_json` retains the whole capture, including additional entries.
+Consequently, file/page counts and entry observation counts can differ.
 
 | Table | Key | Purpose |
 | --- | --- | --- |
@@ -39,7 +49,7 @@ See [provenance](provenance.md) for the WARC verification and byte-preservation 
 | `related_entries` | Entry + position | Reference target ID, display label, and source URL |
 | `metadata` | `key` | Build schema and included entry count |
 | `search_documents` | SQL view | Union of entry, section, example, translation, and comment text |
-| `archive_entries` | Label hash; snapshot-qualified for dated backups | Original ID, category/level, capture and retrieval dates, original/replay URLs, response hash, full JSON record |
+| `archive_entries` | Snapshot/label hash; additional entries qualified by position and ID | Original ID, category/level, capture and retrieval dates, original/replay URLs, response hash, full JSON record |
 | `archive_notes` | Historical entry + position | Original explanatory notes and displayed contributor credits |
 | `archive_examples` | Historical entry + position | Japanese where exposed separately, complete example body including translations, credits and original verification classes |
 | `archive_comments` | Historical entry + position | Original discussion text, HTML and credits |
@@ -133,7 +143,7 @@ fresh directories so changed classifications cannot leave old copies behind.
 Human corrections should live in a separate overlay keyed by entry ID and,
 where applicable, example ID. Comment corrections need a snapshot/content hash
 anchor because source positions can shift. That overlay and its merge policy
-are not implemented in version 0.4.0. Source refresh currently replaces
+are not implemented in version 0.5.0. Source refresh currently replaces
 `records/<id>.yaml`; do not use those files as the only home of manual edits.
 
 The raw-response cache is local by default. Historical response metadata and
@@ -142,9 +152,18 @@ grammar snapshots if desired. Old entries are not automatically deleted on
 rediscovery: compare the current inventory against existing records and inspect
 any differences before release. The build command exports all records present
 in its input directory, including older records retained after a source change.
+Current exports reject warning-bearing records and failed/pending capture
+states. New crawls write `data/states/<id>.json`; unchanged cached successes
+produce identical state bytes. Older checkouts without states remain readable,
+but explicit legacy failure reports and newer cached responses still block stale
+exports. Records-only checkouts retain the committed snapshot's integrity through
+the dataset baseline and source audit reports.
 Historical export additionally requires matching verification states at
 `states/<label-hash>.json` and `feed-states/<path-hash>.json`. States bind raw
 response hashes and canonical full-record digests, so a changed record needs
 source verification again. Commit these states alongside historical records.
+Discovery of a newer indexed capture also blocks an older historical record
+until it has been checked against that inventory; identical-payload fallback
+captures retain their actual time and the latest indexed time separately.
 Use `archive-audit --takoboto data --record-verification` to migrate legacy
 observations offline; caches are required for that source verification.

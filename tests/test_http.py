@@ -12,7 +12,8 @@ from urllib.request import Request
 import httpx
 
 from takoboto_grammar.crawl import Fetcher, FetchAccessError, allowed_url
-from takoboto_grammar.archive import ArchiveFetcher
+from takoboto_grammar.archive import ArchiveFetcher, ArchiveAccessError
+from takoboto_grammar.archive_dump import DumpFetcher, INDEX, ITEM
 from takoboto_grammar.http import HttpxOpener, RequestPacer
 
 
@@ -24,6 +25,30 @@ class Clock:
 
 
 class HttpTests(unittest.TestCase):
+    def test_retry_after_stops_all_sources_before_redirect_or_body_read(self):
+        sources = [(Fetcher, 'https://takoboto.jp/bunpo/725/', FetchAccessError),
+                   (ArchiveFetcher, 'https://web.archive.org/web/20200215021200id_/http://jgram.org/pages/viewOne.php?tagE=ageku', ArchiveAccessError),
+                   (DumpFetcher, f'https://archive.org/download/{ITEM}/{INDEX}', ArchiveAccessError)]
+        for constructor, url, error_type in sources:
+            for status in (200, 302, 404):
+                with self.subTest(source=constructor.__name__, status=status):
+                    root = Path(tempfile.mkdtemp(prefix='takoboto-retry-after-test-')).resolve()
+                    seen = []
+                    def respond(request):
+                        seen.append(str(request.url))
+                        return httpx.Response(status, headers={'Retry-After': '600', 'Location': url}, content=b'body must not be read')
+                    with constructor(root) as fetcher:
+                        fetcher.opener.client.close()
+                        fetcher.opener.client = httpx.Client(transport=httpx.MockTransport(respond))
+                        with patch.object(fetcher.opener, 'before_request'):
+                            with self.assertRaises(error_type):
+                                fetcher.opener.open(Request(url))
+                        self.assertEqual(seen, [url])
+                        self.assertEqual(fetcher.opener.attempts[0]['bytes_read'], 0)
+                        self.assertEqual(fetcher.opener.attempts[0]['error_type'], error_type.__name__)
+                        cooldown = json.loads((root / 'access-cooldown.json').read_text())
+                        self.assertEqual(cooldown['reason'], f'HTTP {status}')
+
     def test_public_fetcher_cannot_send_before_robots_check(self):
         root = Path(tempfile.mkdtemp(prefix='takoboto-policy-test-')).resolve()
         with Fetcher(root) as fetcher, patch('httpx.Client.send') as send:

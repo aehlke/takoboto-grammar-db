@@ -13,9 +13,10 @@ from .record_yaml import dump_yaml, load_yaml
 
 
 def output_root(path):
-    path = Path(path).expanduser()
-    if path.is_symlink():
-        raise ValueError(f"Output directory is a symlink: {path}")
+    path = Path(path).expanduser().absolute()
+    for item in (path, *path.parents):
+        if item.is_symlink():
+            raise ValueError(f"Output directory contains a symlink: {item}")
     resolved = path.resolve()
     resolved.mkdir(parents=True, exist_ok=True)
     return resolved
@@ -161,7 +162,63 @@ def preflight_export(path, directory=False):
     return target
 
 
-def read_records(root):
+def require_exportable(record):
+    if not isinstance(record, dict) or not isinstance(record.get('additional_entries', []), list):
+        raise ValueError('Record and additional entry structures must be mappings and lists')
+    if record.get('warnings') or record.get('review_required'):
+        raise ValueError('Record needs review before export: ' + str(record.get('id', record.get('feed_path'))))
+    if record.get('license') != {'id': 'CC-BY-SA-2.0', 'url': 'https://creativecommons.org/licenses/by-sa/2.0/'}:
+        raise ValueError('Record license is missing or differs from the export license')
+    for additional in record.get('additional_entries', []):
+        require_exportable(additional)
+        for field in ('label', 'source_url', 'archive_url', 'archive_timestamp', 'archive_digest', 'response_sha256',
+                      'retrieved_at', 'snapshot', 'retrieval', 'latest_indexed_timestamp', 'selection_attempts'):
+            if additional.get(field) != record.get(field):
+                raise ValueError(f'Additional entry differs from its shared capture provenance: {field}')
+
+
+def read_current_state(root, gid):
+    path = root / 'states' / f'{gid}.json'
+    if path.is_symlink() or not path.resolve().is_relative_to(root):
+        raise ValueError(f'Unexpected current state path: {path}')
+    if not path.exists():
+        return None
+    state = json.loads(path.read_text(encoding='utf-8'))
+    if state['id'] != gid:
+        raise ValueError(f'Mismatched current state ID: {path}')
+    return state
+
+
+def check_current_export(root, record):
+    require_exportable(record)
+    state = read_current_state(root, record['id'])
+    if state is not None:
+        if state['status'] != 'parsed':
+            raise ValueError(f"Current record not exportable after latest attempt ({state['status']}): {record['id']}")
+        if (state.get('record_sha256') != record_digest(record) or
+            state.get('response_sha256') != record['response_sha256']):
+            raise ValueError(f"Current record differs from its capture state: {record['id']}")
+    else:
+        # Older checkouts have no per-entry states. Preserve any explicit hold
+        # in their latest report rather than silently releasing a stale record.
+        report_path = root / 'crawl-report.json'
+        if report_path.is_symlink() or not report_path.resolve().is_relative_to(root):
+            raise ValueError('Unexpected current crawl report path')
+        if report_path.exists():
+            report = json.loads(report_path.read_text(encoding='utf-8'))
+            if any(item.get('id') == record['id'] for kind in ('failed', 'warnings') for item in report.get(kind, [])):
+                raise ValueError(f"Current record has an unresolved legacy crawl hold: {record['id']}")
+    key = hashlib.sha256(record['source_url'].encode()).hexdigest()
+    path = root / 'cache/urls' / f'{key}.json'
+    if path.is_symlink() or not path.resolve().is_relative_to(root):
+        raise ValueError('Unexpected current response metadata path')
+    if path.exists():
+        latest = json.loads(path.read_text(encoding='utf-8'))
+        if latest['url'] != record['source_url'] or latest['sha256'] != record['response_sha256']:
+            raise ValueError(f"Current record differs from latest cached response: {record['id']}")
+
+
+def read_records(root, for_export=False):
     root = Path(root).resolve(strict=True)
     records = []
     for path in sorted(record_paths(root, 'records'), key=lambda p: int(p.stem)):
@@ -170,6 +227,8 @@ def read_records(root):
         record = load_record(path)
         if record["schema_version"] not in {1, SCHEMA_VERSION} or record["id"] != int(path.stem):
             raise ValueError(f"Unsupported schema or mismatched record ID: {path}")
+        if for_export:
+            check_current_export(root, record)
         records.append(record)
     return records
 
@@ -177,15 +236,21 @@ def read_records(root):
 def read_archive_records(directory, for_export=True):
     root = Path(directory).expanduser().resolve(strict=True)
     records = []
+    inventory_path = root / 'inventory.json'
+    indexed = None
+    if for_export and inventory_path.exists():
+        if inventory_path.is_symlink() or not inventory_path.resolve().is_relative_to(root):
+            raise ValueError('Unexpected archive inventory path')
+        inventory = json.loads(inventory_path.read_text(encoding='utf-8'))
+        indexed = {item['label']: item['captures'][0]['timestamp'] for item in inventory['entries']}
     for path in record_paths(root, 'records'):
         if path.is_symlink() or not path.resolve().is_relative_to(root):
             raise ValueError(f'Unexpected archive record path: {path}')
         record = load_record(path)
-        if record['archive_schema_version'] != 1 or hashlib.sha256(record['label'].encode()).hexdigest() != path.stem:
+        if record['archive_schema_version'] not in {1, 2} or hashlib.sha256(record['label'].encode()).hexdigest() != path.stem:
             raise ValueError(f'Unsupported or mismatched archive record: {path}')
         if for_export:
-            if record['warnings']:
-                raise ValueError(f"Historical record needs review before export: {record['label']}")
+            require_exportable(record)
             state = read_archive_state(root, record['label'])
             if state is None:
                 raise ValueError(f"Missing verification state for {record['label']}; run archive-audit --record-verification")
@@ -194,6 +259,10 @@ def read_archive_records(directory, for_export=True):
                 raise ValueError(f"Historical record not exportable after latest attempt ({state['status']}): {record['label']}")
             if state.get('record_sha256') != record_digest(record):
                 raise ValueError(f"Historical record differs from verification state: {record['label']}; rerun archive-audit --record-verification")
+            if indexed is not None and (record['label'] not in indexed or
+                record.get('latest_indexed_timestamp') != indexed[record['label']] or
+                state.get('latest_indexed_timestamp') != indexed[record['label']]):
+                raise ValueError(f"Historical record has not been checked against the current inventory: {record['label']}")
         records.append(record)
     return records
 
@@ -229,7 +298,32 @@ def archive_record_key(record):
     identity = record['label']
     if record.get('snapshot'):
         identity = record['snapshot'] + ':' + identity
+    if record.get('page_entry_position', 0):
+        identity += f":entry:{record['page_entry_position']}:{record['id']}"
     return hashlib.sha256(identity.encode()).hexdigest()
+
+
+def expand_archive_records(records):
+    expanded = []
+    for record in records:
+        expanded.append(record)
+        additional = record.get('additional_entries', [])
+        if additional:
+            if record.get('archive_schema_version') != 2 or record.get('page_entry_position') != 0:
+                raise ValueError('Multi-entry observations require historical schema 2 and position 0')
+            for position, item in enumerate(additional, 1):
+                if not isinstance(item, dict):
+                    raise ValueError('Additional entries must be mappings')
+                if (item.get('archive_schema_version') != 2 or type(item.get('page_entry_position')) is not int or
+                    item['page_entry_position'] != position or item.get('additional_entries')):
+                    raise ValueError('Invalid additional entry position or nested observations')
+            expanded.extend(additional)
+    return expanded
+
+
+def annotate_archive_record(record, **metadata):
+    for entry in expand_archive_records([record]):
+        entry.update(metadata)
 
 
 def read_archive_snapshot(directory):
@@ -238,7 +332,7 @@ def read_archive_snapshot(directory):
     records = read_archive_records(root)
     if not inventory.get('snapshot'):
         raise ValueError('Dated archive requires a snapshot inventory')
-    for record in records:
+    for record in expand_archive_records(records):
         if (record.get('snapshot') != inventory['snapshot'] or
             record.get('retrieval', {}).get('index_sha256') != inventory.get('index_sha256')):
             raise ValueError('Record snapshot provenance differs from its inventory')
@@ -254,6 +348,8 @@ def read_archive_feeds(directory, for_export=True):
         record = load_record(path)
         if record['feed_schema_version'] != 1 or record['feed_path'] != '/rss/' + path.stem + '.xml':
             raise ValueError(f'Unsupported or mismatched RSS record: {path}')
+        if for_export:
+            require_exportable(record)
         if for_export and (record['review_required'] or record['warnings']):
             raise ValueError(f'RSS record needs review before export: {path}')
         state = read_feed_state(root, record['feed_path']) if for_export else None
@@ -269,6 +365,9 @@ def read_archive_feeds(directory, for_export=True):
 
 
 def build_sqlite(records, path, archive_records=(), archive_feeds=()):
+    for record in [*records, *archive_records, *archive_feeds]:
+        require_exportable(record)
+    archive_records = expand_archive_records(archive_records)
     path = Path(path).expanduser()
     parent = output_root(path.parent)
     path = safe_target(parent, path.name)
@@ -383,6 +482,9 @@ def relative_page(record):
 
 
 def export_markdown(records, directory, archive_records=(), archive_feeds=()):
+    for record in [*records, *archive_records, *archive_feeds]:
+        require_exportable(record)
+    archive_records = expand_archive_records(archive_records)
     root = output_root(directory)
     pages = {r["id"]: relative_page(r) for r in records}
     index = ["# Takoboto grammar\n", "Derived from JGram and Takoboto contributors. "
@@ -464,7 +566,9 @@ def export_markdown(records, directory, archive_records=(), archive_feeds=()):
             lines[2:2] = [f"Dated backup: {escape_md(r['snapshot'])}. This observation is from the backup, not the final live version.", '',
                 f"Recovery: [original WARC]({r['retrieval']['url']}), bytes {r['retrieval']['offset']}–{r['retrieval']['offset'] + r['retrieval']['length'] - 1}.", '']
         if any(s['encoding'] == 'cp932-with-undecodable-bytes' for s in r.get('source_decoding_segments', [])):
-            lines[2:2] = ['The original source contains invalid character bytes. Display uses U+FFFD; the exact original bytes and offsets are preserved in the JSON/SQLite record.', '']
+            lines[2:2] = ['The original source contains invalid character bytes. Display uses U+FFFD; the exact original bytes and offsets are preserved in the YAML/SQLite record.', '']
+        if r.get('page_entry_position') is not None:
+            lines[2:2] = [f"Source page entry position: {r['page_entry_position']}. This capture contains multiple original grammar IDs.", '']
         for kind, title in [('notes', 'Notes'), ('examples', 'Examples'), ('comments', 'Discussion'), ('related_entries', 'See also')]:
             if not r[kind]:
                 continue

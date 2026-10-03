@@ -31,6 +31,10 @@ Takoboto and permission under [the operator instructions](../PERMISSION.md).
 Release assets include `grammar.sqlite`, `LICENSE`, `LICENSE-DATA.md`,
 `ATTRIBUTION.md`, `PERMISSION.md`, `provenance.md`, `archive-recovery.json`,
 `release-manifest.json` and `SHA256SUMS`.
+Releases after the multi-entry correction distinguish 704 backup page captures
+from 705 original entry observations. Historical source schemas 1 and 2 coexist;
+SQLite remains schema 3. Use the current dataset/table baselines rather than
+the earlier YAML migration report when checking new releases.
 The manifest records the source commit, counts, verification results and pending
 historical coverage. Checksums cover the database, manifest and notices.
 

@@ -76,6 +76,22 @@ class DumpTests(unittest.TestCase):
             network.assert_not_called()
         self.assertEqual(before, next((self.root / 'records').glob('*.yaml')).read_bytes())
 
+    def test_audit_rebinding_preserves_warc_state_for_offline_resume(self):
+        self.crawl()
+        path = next((self.root / 'states').glob('*.json'))
+        state = json.loads(path.read_text())
+        original_capture = state['capture']
+        state['record_sha256'] = '0' * 64
+        write_json(self.root, path.relative_to(self.root), state)
+        report = audit_archive(self.root, record_verification=True)
+        self.assertTrue(report['export_ready'], report['errors'])
+        rebound = json.loads(path.read_text())
+        self.assertEqual(rebound['capture'], original_capture)
+        self.assertEqual(rebound['member_sha256'], state['member_sha256'])
+        with DumpFetcher(self.root, offline=True) as fetcher, patch.object(fetcher.opener, 'open') as network:
+            self.assertTrue(crawl_dump(fetcher, self.inventory)['complete'])
+            network.assert_not_called()
+
     def test_offline_imported_index_reuses_verified_evidence(self):
         self.crawl()
         with DumpFetcher(self.root, offline=True) as fetcher, patch.object(fetcher.opener, 'open') as network:

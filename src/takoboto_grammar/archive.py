@@ -20,7 +20,7 @@ from urllib.robotparser import RobotFileParser
 from .archive_parser import NotGrammar, LicenseReviewRequired, parse_archive
 from .crawl import now
 from .parser import ParseError
-from .storage import output_root, safe_target, write_json, write_record, cache_response, record_digest
+from .storage import output_root, safe_target, write_json, write_record, cache_response, record_digest, annotate_archive_record
 from .http import HttpxOpener, RequestPacer
 
 CDX = 'https://web.archive.org/cdx/search/cdx'
@@ -75,7 +75,8 @@ class ArchiveFetcher:
         if offline and refresh:
             raise ValueError('Offline mode cannot refresh responses')
         self.ua = 'takoboto-grammar-db/0.2 (JGram public grammar preservation' + (f'; {contact}' if contact else '') + ')'
-        self.opener = HttpxOpener(allowed_archive_url, self.before_request, self.pacer.completed, 20 * 1024 * 1024)
+        self.opener = HttpxOpener(allowed_archive_url, self.before_request, self.pacer.completed, 20 * 1024 * 1024,
+                                 on_retry_after=self.stop_with_backoff)
         self.run_id = uuid4().hex
         self.robots = None
         self.policy_checked = False
@@ -329,8 +330,8 @@ def crawl_archive(fetcher, inventory, eligible_ids=(), limit=None):
                         record['warnings'].append('Used older capture after latest replay failed; inspect selection_attempts')
                     if actual['timestamp'] != candidate['timestamp'] and not equivalent:
                         record['warnings'].append('Replay redirected to a different capture timestamp')
-                    record['selection_attempts'] = attempts
-                    record['latest_indexed_timestamp'] = item['captures'][0]['timestamp']
+                    annotate_archive_record(record, selection_attempts=attempts,
+                                            latest_indexed_timestamp=item['captures'][0]['timestamp'])
                     folder = 'review-records' if record['warnings'] else 'records'
                     write_record(fetcher.root, f'{folder}/{key}.yaml', record)
                     state.update(status='review_required' if record['warnings'] else 'parsed',

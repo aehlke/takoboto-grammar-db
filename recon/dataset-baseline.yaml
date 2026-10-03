@@ -1,0 +1,35 @@
+canonical_yaml_files: 1415
+page_observations:
+  current: 643
+  newer: 63
+  backup: 704
+  feeds: 5
+backup_entry_observations: 705
+counts:
+  archive_comments: 4097
+  archive_entries: 768
+  archive_examples: 5983
+  archive_feed_items: 4
+  archive_feeds: 5
+  archive_notes: 917
+  archive_relationships: 980
+  comments: 4546
+  entries: 643
+  entry_forms: 211
+  examples: 5334
+  formations: 360
+  meaning_notes: 150
+  related_entries: 788
+  sections: 825
+  translations: 5324
+record_digests:
+  current: 0ec290cb145b17c9c487247c173eda77b8ca72b604c72d6771f3cbfcc09b4cb3
+  newer: 2a3a2b1c3c7f21f06cfac3189ff51798b74135086b98d0036afcb552cf7e25a0
+  backup: 9420ab2a0108f41729ac9da706fb8fe19ea55cf56bb3fe8c9135725ffff05ae8
+  feeds: 888649e4564a6520bd1df280d75a58442acea8a9fac8c673cb5c34c0b6069662
+provenance: docs/reevaluation.md
+source_audits:
+  - data/coverage-report.json
+  - archive-data/coverage-report.json
+  - archive-2015/coverage-report.json
+historical_coverage_complete: false

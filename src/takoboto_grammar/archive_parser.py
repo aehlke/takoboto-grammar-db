@@ -2,6 +2,8 @@
 
 import hashlib
 import re
+import copy
+import base64
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import parse_qs, urlsplit, quote_from_bytes
@@ -20,6 +22,18 @@ class NotGrammar(ParseError):
 
 class LicenseReviewRequired(ParseError):
     """Do not substitute an older capture to sidestep a source license notice."""
+
+
+def indexed_payload_mismatch(body, capture):
+    digest = capture.get('digest') or ''
+    return bool(re.fullmatch(r'[A-Z2-7]{32}', digest) and
+                base64.b32encode(hashlib.sha1(body).digest()).decode() != digest)
+
+
+def outside_collection(body, capture, reason):
+    if indexed_payload_mismatch(body, capture):
+        raise LicenseReviewRequired('Exclusion payload differs from indexed digest; retain for review')
+    raise NotGrammar(reason)
 
 
 def source_soup(body):
@@ -101,6 +115,39 @@ def labeled_value(soup, label, italic=False):
 
 def parse_archive(body, capture, retrieved_at, eligible_ids=()):
     soup, decoding_segments = source_soup(body)
+    titles = soup.select('.viewOnetitle')
+    if len(titles) <= 1:
+        return parse_archive_entry(body, capture, retrieved_at, eligible_ids, soup, decoding_segments)
+    # JGram could return several distinct IDs for one tagE. Their contribution
+    # tables repeat the same section names; a heading dictionary cannot identify
+    # the entry that owns a note, comment or example.
+    tables = [title.find_parent('table') for title in titles]
+    if (any(table is None or len(table.select('.viewOnetitle')) != 1 for table in tables) or
+        len({id(table) for table in tables}) != len(tables)):
+        raise LicenseReviewRequired('Multiple entry headers lack distinct source table boundaries; retain for review')
+    records = []
+    for position in range(len(titles)):
+        scoped = copy.copy(soup)
+        scoped_titles = scoped.select('.viewOnetitle')
+        for other, title in enumerate(scoped_titles):
+            if other != position:
+                title.find_parent('table').decompose()
+        try:
+            record = parse_archive_entry(body, capture, retrieved_at, eligible_ids, scoped, decoding_segments)
+        except NotGrammar as exc:
+            raise LicenseReviewRequired('Multi-entry response contains a component requiring separate scope review') from exc
+        record['archive_schema_version'] = 2
+        record['page_entry_position'] = position
+        records.append(record)
+    if len({record['id'] for record in records}) != len(records) or any(record['id'] is None for record in records):
+        raise LicenseReviewRequired('Multiple entry headers have missing or repeated grammar IDs; retain for review')
+    records[0]['additional_entries'] = records[1:]
+    for additional in records[1:]:
+        records[0]['warnings'].extend(f"Additional entry {additional['id']}: {warning}" for warning in additional['warnings'])
+    return records[0]
+
+
+def parse_archive_entry(body, capture, retrieved_at, eligible_ids, soup, decoding_segments):
     title_node = soup.select_one('.viewOnetitle')
     if title_node is None:
         missing = re.search(r'No entry exists for\s+(.*?)\s+- click here to add one', text(soup))
@@ -117,7 +164,7 @@ def parse_archive(body, capture, retrieved_at, eligible_ids=()):
                    (raw_missing and raw_missing[1] in raw_labels))
         if (matches and soup.title and 'JGram' in text(soup.title) and
             any(is_data_license(href) for href in cc_license_links(soup))):
-            raise NotGrammar('Archived JGram explicitly reports no entry for this label')
+            outside_collection(body, capture, 'Archived JGram explicitly reports no entry for this label')
         raise ParseError('Replay is not a JGram entry (missing viewOnetitle)')
     identifier = None
     for link in soup.select('a[href]'):
@@ -135,10 +182,10 @@ def parse_archive(body, capture, retrieved_at, eligible_ids=()):
         if scope_review is None:
             raise LicenseReviewRequired('Original collection membership is unclassified; retain response for scope review')
         if scope_review['decision'] == 'non-grammar':
-            raise NotGrammar('Reviewed dictionary-only entry: ' + scope_review['basis'])
+            outside_collection(body, capture, 'Reviewed dictionary-only entry: ' + scope_review['basis'])
     reviewed_grammar = category is None and scope_review and scope_review['decision'] == 'grammar'
     if category not in {'grammar', 'lesson'} and identifier not in set(eligible_ids) and not reviewed_grammar:
-        raise NotGrammar(f'Outside collection: category {category!r}, ID {identifier}')
+        outside_collection(body, capture, f'Outside collection: category {category!r}, ID {identifier}')
     license_links = cc_license_links(soup)
     if not any(is_data_license(href) for href in license_links):
         raise LicenseReviewRequired('JGram license notice missing or changed; retain response for review')
@@ -163,6 +210,8 @@ def parse_archive(body, capture, retrieved_at, eligible_ids=()):
         'notes': [], 'examples': [], 'comments': [], 'related_entries': [], 'sections': [],
         'original_created_at': None, 'original_updated_at': None, 'warnings': [],
     }
+    if indexed_payload_mismatch(body, capture):
+        record['warnings'].append('Source payload differs from its indexed digest; retain for review')
     if decoding_segments:
         record['source_decoding_segments'] = decoding_segments
     if reviewed_grammar:
@@ -189,6 +238,8 @@ def parse_archive(body, capture, retrieved_at, eligible_ids=()):
         record['sections'].append({'kind': 'header', 'text': text(header_fragment),
                                    'html': fragment(header_fragment, capture['original'])})
     headings = {text(e).strip(' \u00a0:'): e for e in soup.select('.titleSection')}
+    if len(headings) != len(soup.select('.titleSection')):
+        raise LicenseReviewRequired('Repeated section headings within one entry need source-boundary review')
     note_heading = headings.get('Notes')
     if note_heading:
         table = note_heading.find_parent('table')

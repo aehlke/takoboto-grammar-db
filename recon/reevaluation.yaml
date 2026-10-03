@@ -1,0 +1,75 @@
+tests_passed: 144
+network_calls: 0
+canonical_yaml_files: 1415
+backup_page_captures: 704
+backup_entry_observations: 705
+backup_distinct_original_ids: 702
+backup_ids_absent_current: 80
+shared_capture:
+  label: katawara
+  source_url: http://jgram.org/pages/viewOne.php?tagE=katawara
+  archive_url: https://web.archive.org/web/20150224225505id_/http://jgram.org/pages/viewOne.php?tagE=katawara
+  archive_timestamp: '20150224225505'
+  retrieved_at: '2026-10-03T16:03:23+00:00'
+  response_sha256: 48328e288860f5a30a991ab694afde562648a121fe93bd55515c0cc7deeeb271
+  retrieval:
+    method: archive-item-warc-range
+    url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+    offset: 3035506
+    length: 6726
+    index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+    member_sha256: 2a8599aec829b031861f41b559f2d0b75e5d534b7128e41f7b75001891188b1d
+recovered_entry_id: 1649
+source_entry_positions:
+  - 0
+  - 1
+source_entry_ids:
+  - 1274
+  - 1649
+additional_displayed_notes: 1
+additional_displayed_comments: 6
+example_occurrences_preserved: true
+canonical_content_files_changed: 1
+current_newer_and_rss_digests_unchanged: true
+sqlite_schema_unchanged: true
+normalized_sqlite_tables_and_views: 19
+sqlite_comparison_baseline: recon/sqlite-baseline-v0.4.0.yaml
+source_audits:
+  data:
+    verified: true
+    counts:
+      examples: 5334
+      comments: 4546
+      translations: 5324
+      meaning_notes: 150
+      formations: 360
+      alternate_forms: 211
+      relationships: 788
+      entries: 643
+  archive-data:
+    verified: true
+    counts:
+      notes: 73
+      comments: 248
+      examples: 446
+      relationships: 68
+      entries: 63
+  archive-2015:
+    verified: true
+    counts:
+      notes: 844
+      comments: 3849
+      examples: 5537
+      relationships: 912
+      entries: 705
+backup_source_audit_verification_states_written: 1
+multi_entry_scan_included_excluded_and_held_responses: true
+multi_entry_labels_found:
+  - katawara
+newer_payload_digests_verified: 63
+newer_payload_digest_mismatches: 0
+dataset_baseline: recon/dataset-baseline.yaml
+sqlite_baseline: recon/sqlite-baseline.yaml
+historical_coverage_complete: false
+unresolved_latest_labels: 1347
+held_backup_tutorial_pages: 63

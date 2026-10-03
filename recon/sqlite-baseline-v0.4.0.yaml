@@ -1,0 +1,66 @@
+source_release: https://github.com/aehlke/takoboto-grammar-db/releases/tag/v0.4.0
+source_commit: 350e4c56eb1bf82f762eeab5f169c81adc31ee76
+sqlite_asset_sha256: f51475c55a4e14222108e2ab2736aa76b03e219be461b429ab73c762da46980b
+algorithm: SHA-256 of canonical JSON of columns and sorted rows; JSON columns decoded before hashing
+excluded_relation_rows:
+  - metadata
+signature:
+  schema_sha256: ff0cf17d2c5082012e5690c173b8af8d75025e04d04b67d2d65114a521e9e017
+  relations:
+    archive_comments:
+      row_count: 4091
+      sha256: 276313c43d4bc9b3b850dacb2b8c126f834f993ba99d4e405ddefb996712e11b
+    archive_entries:
+      row_count: 767
+      sha256: 51c061261d7371a923f21135cb5c0e09abb27cb50b125b23190606fbb0664d3e
+    archive_examples:
+      row_count: 5983
+      sha256: ab0503415cd5ea573c437c78240d3711c9006bcad4e7017aa47b7f13c90af3d5
+    archive_feed_items:
+      row_count: 4
+      sha256: 191441b7037c45e790023a5f678d8d0c8d38c12697cfd3a06f5ce16da1169bd1
+    archive_feeds:
+      row_count: 5
+      sha256: 8404cff39f714bac0902f42ebbf9f26d3c2f50887bd8cfd169917975e49191e1
+    archive_notes:
+      row_count: 916
+      sha256: 97ee2d98e8bc02afc066648b631b4dbfa50f68f882a14f68847860fdccb34932
+    archive_relationships:
+      row_count: 980
+      sha256: 585333cb97a14ee6f55d0762de7574fa3249292a1d03a40afdf4ff058675fed3
+    comments:
+      row_count: 4546
+      sha256: 33c8980433f5d3a4723df13d975ed1391305cbf0f2d765ce079c33e34ab82fe7
+    entries:
+      row_count: 643
+      sha256: 5590d0207a6e457970ce1e99ef052ce7fc771112f9c2b57b7f41d70ddb971c76
+    entry_forms:
+      row_count: 211
+      sha256: 6471160741042c73a701b6afe1affc9b4a5dd0a9811d5a68ade0f838560f348f
+    examples:
+      row_count: 5334
+      sha256: 6875739696b8b2149b71c96f246719ec12bb645c4c16ae1935dcb171c5021716
+    formations:
+      row_count: 360
+      sha256: ef1bacf1445d00444c1b6365daf9659ecacfeca8ba6f7195a8088d1f10649431
+    meaning_notes:
+      row_count: 150
+      sha256: 90780f3dc2766e18df053c7da94d892ea2170bab1ff912d81ccde98488a96f31
+    related_entries:
+      row_count: 788
+      sha256: 9f5cbe5ad0be1616effc53102fb29ec0690fee6f2c6d2f0a3957fa99cf8cde43
+    sections:
+      row_count: 825
+      sha256: cd9f2dc70999059fe0654227ecc6f2c4ba7649067f227eaba39403d2ae3b6a72
+    sources:
+      row_count: 2
+      sha256: ff5475ac2d3e703bf7046de188eb909a9f9ff72e6db9826f4d50a8a5487b845e
+    translations:
+      row_count: 5324
+      sha256: e7c337f7fdc3ea5b07152c4a112c48ab50ff6d3e0691739c79b8be3f70a680cb
+    archive_search_documents:
+      row_count: 12737
+      sha256: 7647b6d1635dd5e1d7426efbda6d8471d6bfa45af8f8b389a90be1e0668f78f4
+    search_documents:
+      row_count: 16672
+      sha256: 167e434586e7c4c0a8bcd0bdd1591ea4deb2cf635fa95abb640379d912eb47c5

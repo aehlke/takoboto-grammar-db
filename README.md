@@ -15,11 +15,12 @@ The complete Takoboto crawl contains **643 entries, 5,334 examples, 5,324
 translations, and 4,546 comments**, plus 150 additional meaning explanations.
 An independent offline audit accounts for the captured grammar content.
 
-The original ArchiveTeam JGram backup yielded **704 historical records** from
-February 24–March 2, 2015: 843 notes, 5,537 examples, 3,843 comments and 912
-annotated references. It preserves **79 original entry IDs absent from current
+The original ArchiveTeam JGram backup yielded **704 captured pages containing
+705 historical entry observations** from February 24–March 2, 2015: 844 notes,
+5,537 examples, 3,849 comments and 912 annotated references. It preserves
+**80 original entry IDs absent from current
 Takoboto**. Every one of the backup's 1,077 selected labels was processed:
-704 included, 310 verified exclusions and 63 tutorial pages held for review.
+704 included pages, 310 verified exclusions and 63 tutorial pages held for review.
 The newer Wayback supplement contains **63 verified observations**, with 73
 notes, 446 examples, 248 comments and 68 references. Historical observations
 can overlap current records and each other; these are not unique-content totals.
@@ -29,6 +30,8 @@ dates. Capture dates and RSS events are separate from contribution dates.
 See **[provenance and recovery](docs/provenance.md)** for backup discovery,
 source hashes, encoding repairs, scope decisions and unresolved cases. Per-record
 WARC offsets and hashes support independent verification.
+The [deep reevaluation](docs/reevaluation.md) recovered a second original ID
+inside the `katawara` capture and explains the corrected entry boundaries.
 
 Start with [the reconnaissance](docs/reconnaissance.md),
 [the schema](docs/schema.md) or [Archive.org handling](docs/archive.md).
@@ -71,6 +74,7 @@ crawls cannot silently erase an edit. Correction merging is a future feature.
 data/
   inventory.json                 all IDs discovered through the public index
   records/725.yaml                extracted content, attribution, and provenance
+  states/725.json                 new-crawl attempt status and verified record hash
   cache/responses/<sha256>.html   original response bytes, never executed
   cache/urls/<url-hash>.json      current response metadata
   cache/snapshots/...             previous retrieval metadata
@@ -136,9 +140,10 @@ publish a new database artifact for each release.
 ## Run
 
 The implementation passed an initial [two-page live smoke test](recon/uv-smoke-test.json)
-and now passes **124 automated tests**.
+and now passes **144 automated tests**.
 GitHub checks both Python 3.11 and 3.14, including an offline build of all
-committed YAML records. Run that preservation check locally with
+committed YAML records, with fingerprints for every normalized table and view.
+Run that preservation check locally with
 `uv run --locked --offline python scripts/verify_dataset.py`; see
 [the contributor guide](CONTRIBUTING.md) for its scope and baseline policy.
 The original smoke-test exports remain local; the public release contains the
@@ -228,7 +233,7 @@ preserve earlier files if replacement is interrupted. Failed temporary files
 are retained for inspection; they are excluded from record reads.
 
 The [recovery ledger](recon/archive-recovery.json) records the latest source QA:
-all 643 current records, 704 backup observations, 63 newer observations and five
+all 643 current records, 704 backup pages (705 entry observations), 63 newer observations and five
 RSS feeds pass their applicable checks. Source audits require local raw caches;
 a fresh clone can reproduce SQLite and Markdown offline from committed records
 and verification states. Persistent states block export after unsuccessful

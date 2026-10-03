@@ -35,14 +35,20 @@ GitHub runs the fixture tests and full offline dataset verification on Python
 3.11 and 3.14 for pushes and pull requests. The verifier blocks network
 connections, checks published snapshot hashes, reads historical verification
 states, and builds a fresh SQLite export with integrity, foreign key, license,
-count and complete record roundtrip checks. It retains the temporary export for
+count and complete record roundtrip checks. It also compares every normalized
+table and search view against an independently reviewed SQLite baseline, so
+intact `record_json` cannot hide a broken normalized column.
+It retains the temporary export for
 inspection and never writes source records. Raw-cache source audits remain a
 separate check.
 
-The current check uses the verified snapshot in `recon/yaml-migration.yaml`.
+The current check uses the verified snapshot in `recon/dataset-baseline.yaml`
+and table/view fingerprints in `recon/sqlite-baseline.yaml`.
 For an intentional new capture, add a new report with audited counts and
-`record_digests` for the current, newer, backup and feeds groups, then select it
-with `--baseline recon/<new-report>.yaml` in the workflow. Preserve earlier QA
+`record_digests` for the current, newer, backup and feeds groups, plus
+`canonical_yaml_files` (page files can contain several entry observations).
+Review the normalized SQLite changes and update its baseline as well. Select
+new reports with `--baseline` and `--sqlite-baseline` in the workflow. Preserve earlier QA
 reports and include source evidence and coverage changes in the pull request.
 Changing the baseline alone does not establish new source provenance.
 

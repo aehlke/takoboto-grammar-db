@@ -47,9 +47,10 @@ class Response(BytesIO):
 
 
 class HttpxOpener:
-    def __init__(self, allowed_url, before_request, completed, max_bytes):
+    def __init__(self, allowed_url, before_request, completed, max_bytes, on_retry_after=None):
         self.allowed_url, self.before_request, self.completed = allowed_url, before_request, completed
         self.max_bytes = max_bytes
+        self.on_retry_after = on_retry_after
         self.attempts = []
         self.client = httpx.Client(follow_redirects=False,
             limits=httpx.Limits(max_connections=1, max_keepalive_connections=1, keepalive_expiry=60))
@@ -68,6 +69,8 @@ class HttpxOpener:
             try:
                 with self.client.stream('GET', url, headers=dict(request.header_items()), timeout=timeout) as response:
                     event['status'] = response.status_code
+                    if response.headers.get('Retry-After') and self.on_retry_after:
+                        self.on_retry_after(str(response.url), response.status_code, response.headers['Retry-After'])
                     if response.is_redirect and response.headers.get('Location'):
                         url = urljoin(str(response.url), response.headers['Location'])
                         continue
