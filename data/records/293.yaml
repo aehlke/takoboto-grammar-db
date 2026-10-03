@@ -1,0 +1,325 @@
+schema_version: 2
+id: 293
+source: takoboto
+source_url: https://takoboto.jp/bunpo/293/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: かと思うと
+romanized_label: katoomouto
+alternate_forms:
+  - かとおもうと
+jlpt_level: 2
+credits_raw: dc
+meaning: as soon as I noticed, almost immediately
+meaning_example: as soon as i noticed he was here, he left
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_293
+    body_text: |-
+      as soon as I noticed, almost immediately 
+       as soon as i noticed he was here, he left
+    body_html: |-
+      <span>as soon as I noticed, almost immediately</span> <br/> <span>as soon as i noticed he was here, he left</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 7790
+    position: 0
+    japanese: 空が暗くなったかと思ったら、大粒の雨が降ってきた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a9%ba%e3%81%8c"><span>空が</span></a><a href="https://takoboto.jp/?q=%e6%9a%97%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%81%8b%e3%81%a8"><span>暗くなったかと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%9f%e3%82%89%e3%80%81"><span>思ったら、</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e7%b2%92%e3%81%ae"><span>大粒の</span></a><a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82"><span>降ってきた。</span></a>
+    segments:
+      - text: 空が暗くなったかと思ったら、大粒の雨が降ってきた。
+        grammar_highlight: false
+    reading: そらがくらくなったかとおもったら、おおつぶのあめがふってきた。
+    credits_raw: yashica
+    translations:
+      - language: en
+        text: as soon as sky got darker, large drops of rain started falling.
+        html: |-
+          <span>as soon as sky got darker, large drops of rain started falling. </span>
+        segments:
+          - text: 'as soon as sky got darker, large drops of rain started falling. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3083
+    position: 1
+    japanese: 雨が降ってきたかと思うともうやんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f"><span>降ってきた</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%a8%e6%80%9d%e3%81%86%e3%81%a8"><strong>かと思うと</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86%e3%82%84%e3%82%93%e3%81%a0%e3%80%82"><span>もうやんだ。</span></a>
+    segments:
+      - text: 雨が降ってきた
+        grammar_highlight: false
+      - text: かと思うと
+        grammar_highlight: true
+      - text: もうやんだ。
+        grammar_highlight: false
+    reading: あめがふってきたかとおもうともうやんだ。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: The moment I thought the rain started, it stopped already.
+        html: |-
+          <strong>The moment I thought </strong><span>the rain started, it stopped already. </span>
+        segments:
+          - text: 'The moment I thought '
+            grammar_highlight: true
+          - text: 'the rain started, it stopped already. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4615
+    position: 2
+    japanese: 一つが通り過ぎたかと思うと、すぐに次の台風が接近する。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%80%e3%81%a4%e3%81%8c"><span>一つが</span></a><a href="https://takoboto.jp/?q=%e9%80%9a%e3%82%8a"><span>通り</span></a><a href="https://takoboto.jp/?q=%e9%81%8e%e3%81%8e%e3%81%9f"><span>過ぎた</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%a8%e6%80%9d%e3%81%86%e3%81%a8%e3%80%81"><strong>かと思うと、</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%81%90%e3%81%ab"><span>すぐに</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e3%81%ae"><span>次の</span></a><a href="https://takoboto.jp/?q=%e5%8f%b0%e9%a2%a8%e3%81%8c"><span>台風が</span></a><a href="https://takoboto.jp/?q=%e6%8e%a5%e8%bf%91%e3%81%99%e3%82%8b%e3%80%82"><span>接近する。</span></a>
+    segments:
+      - text: 一つが通り過ぎた
+        grammar_highlight: false
+      - text: かと思うと、
+        grammar_highlight: true
+      - text: すぐに次の台風が接近する。
+        grammar_highlight: false
+    reading: ひとつがとおりすぎたかとおもうと、すぐにつぎのたいふうがせっきんする。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: No sooner has one typhoon passed than the next one approaches.
+        html: |-
+          <span>No sooner has one typhoon passed than the next one approaches. </span>
+        segments:
+          - text: 'No sooner has one typhoon passed than the next one approaches. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 607
+    position: 3
+    japanese: 田中さんはいつも忙しそうだ。今来たかと思うともう帰ってしまっている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%94%b0%e4%b8%ad%e3%81%95%e3%82%93%e3%81%af%e3%81%84%e3%81%a4%e3%82%82"><span>田中さんはいつも</span></a><a href="https://takoboto.jp/?q=%e5%bf%99%e3%81%97%e3%81%9d%e3%81%86%e3%81%a0%e3%80%82"><span>忙しそうだ。</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e6%9d%a5%e3%81%9f"><span>今来た</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%a8%e6%80%9d%e3%81%86%e3%81%a8"><strong>かと思うと</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86"><span>もう</span></a><a href="https://takoboto.jp/?q=%e5%b8%b0%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>帰ってしまっている。</span></a>
+    segments:
+      - text: 田中さんはいつも忙しそうだ。今来た
+        grammar_highlight: false
+      - text: かと思うと
+        grammar_highlight: true
+      - text: もう帰ってしまっている。
+        grammar_highlight: false
+    reading: たなかさんはいつもいそがしそうだ。こんらいたかとおもうともうかえってしまっている。
+    credits_raw: Amatuka, bamboo4
+    translations:
+      - language: en
+        text: Tanaka san always seems very busy. Just as I thought he was here, he'd be gone.
+        html: |-
+          <span>Tanaka san always seems very busy. </span><strong>Just as I thought </strong><span>he was here, he'd be gone. </span>
+        segments:
+          - text: 'Tanaka san always seems very busy. '
+            grammar_highlight: false
+          - text: 'Just as I thought '
+            grammar_highlight: true
+          - text: 'he was here, he''d be gone. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: used as Vたかと思うと
+    html: |-
+      used as <strong>Vた</strong>かと思うと
+    credits_raw: masakitenchi
+    content_sha256: 5a78e5835c29de586b13ad85e9a3aaf57c0a897f959fdd7f35f39675f48c604b
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 帰ってしまっている could suggest an on-going habit.
+    html: 帰ってしまっている could suggest an on-going habit.
+    credits_raw: bamboo4
+    content_sha256: 5fa45bce5e15d44aea3c2703d15668faa2043f982acbe7c06789925efd2d3e0f
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      I think the heading itself is awkward. A Japanese would normally say 思ったら but 思うと is also passble. 今来たかと思うと(or 思ったら)もう帰ってしまう would be "The moment I thought he was here, he's gone" would be a good way to express it. 'Just as I was thinking "Has he come yet" is not correct because 今来たかと思うと would imply that he was here.
+    html: |-
+      I think the heading itself is awkward. A Japanese would normally say 思ったら but 思うと is also passble. 今来たかと思うと(or 思ったら)もう帰ってしまう would be "The moment I thought he was here, he's gone" would be a good way to express it. 'Just as I was thinking "Has he come yet" is not correct because 今来たかと思うと would imply that he was here.
+    credits_raw: bamboo4
+    content_sha256: 190dde6bffd00a99356561a1a3aa00d387099c6c62e581069f6a3519708c4a33
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      amatuka > What do you think the 思う means
+      I thot this was related to noticing or realizing. even bilingual friends are stuck on this one -4, call in the experts!
+    html: |-
+      amatuka &gt; What do you think the 思う means<br/>I thot this was related to noticing or realizing. even bilingual friends are stuck on this one -4, call in the experts!
+    credits_raw: dc
+    content_sha256: 295494c0ec2ae0c33195ce1272da0e7edeb484514de58c47b0098a0b5b36bc69
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      from sci.lang.japan
+
+      It might be easier to think of it as
+
+      [ka][to omou][to]
+
+      rather than
+      [kato][omou][to]
+
+      It would be even easier to think of it as
+
+      [(missing phrase) ka][to omou][to]
+    html: |-
+      from sci.lang.japan<br/><br/>It might be easier to think of it as<br/><br/>[ka][to omou][to]<br/><br/>rather than<br/>[kato][omou][to]<br/><br/>It would be even easier to think of it as<br/><br/>[(missing phrase) ka][to omou][to]
+    credits_raw: dc
+    content_sha256: 7240c08e9e1453f4edc66142a8b5b273420540686175dea40b885a06f9d33b89
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      Mr. Tanaka seems always busy. You won't be able to catch him even thinking
+      that he has just come, because he is always so busy that he usually leaves
+      soon.
+
+      To express this nuance, I think Bart's quotation of "no sooner ... than
+      ..." will be
+      most applicable as he explains so.
+
+      "Mr. Tanaka seems always busy. No sooner has he come than he would leave."
+      would be good translations, though I've not seen such English example in
+      such
+      tense other than in past perfect (i.e. "No sooner had he come than he
+      left.")
+    html: |-
+      Mr. Tanaka seems always busy. You won't be able to catch him even thinking<br/>that he has just come, because he is always so busy that he usually leaves<br/>soon.<br/><br/>To express this nuance, I think Bart's quotation of "no sooner ... than<br/>..." will be<br/>most applicable as he explains so.<br/><br/>"Mr. Tanaka seems always busy. No sooner has he come than he would leave."<br/>would be good translations, though I've not seen such English example in<br/>such<br/>tense other than in past perfect (i.e. "No sooner had he come than he<br/>left.")
+    credits_raw: dc
+    content_sha256: 7f9ba60e4b159ae474f6f1dacf42bc72795580d7b281fd3091b0d9cd0556b1e7
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: It is not still clear. Pleae tell correct meaning.
+    html: It is not still clear. Pleae tell correct meaning.
+    credits_raw: your name
+    content_sha256: 1d5c54e84e11978875323b5389f1b085eec2e801d9780b4f6d6f281259bcdcfb
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: Hey, if we knew and agreed we'd be the first to let you know.
+    html: Hey, if we knew and agreed we'd be the first to let you know.
+    credits_raw: Amatuka
+    content_sha256: 557b3bcda8727211fc1f816fdeebbd9b0df0844974ab561d6ff92831c854187c
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      It seems that for this example the second sentence is most likely in reference to an ongoing habit not to an individual event.
+    html: |-
+      It seems that for this example the second sentence is most likely in reference to an ongoing habit not to an individual event.
+    credits_raw: Amatuka
+    content_sha256: 51b37cf4680c6b5017f182b6c6db6446cbf58ff8a0e1dbd88994f27569a54378
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      As such I'm going to revise my suggestion, again, to 'Mr. Tanaka always seems busy. No sooner do I think "He's arrived?" than he ups and leaves!'
+    html: |-
+      As such I'm going to revise my suggestion, again, to 'Mr. Tanaka always seems busy. No sooner do I think "He's arrived?" than he ups and leaves!'
+    credits_raw: Amatuka
+    content_sha256: b4972943b0966948c0d454aa79e0f8546eb91af3f88845a15bc2567b50f1ee16
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: '"thinking" implies not sure if he is here or not, whereas "noticed" means he is definitely here..'
+    html: '"thinking" implies not sure if he is here or not, whereas "noticed" means he is definitely here..'
+    credits_raw: dc
+    content_sha256: 4b8269048736d9f13e2290dab8fc3ef8a59913174789f3153a0a1e68ac92dea3
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      やっとこの句を知らせてかと思ったら、意味不明に成ってしまった。
+
+      ーたぶん違うかな
+    html: |-
+      やっとこの句を知らせてかと思ったら、意味不明に成ってしまった。<br/><br/>ーたぶん違うかな
+    credits_raw: Snake
+    content_sha256: 0779fb9e6760db0103feea473b2046e0d0b21f4ccc9376d047b028af2de736aa
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: Your own comment is 意味不明.
+    html: Your own comment is 意味不明.
+    credits_raw: bamboo4
+    content_sha256: cdc6849c3feeb390f763921715f21c58915baab9ee238a0f89ad8eb11c47d756
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      Pretty similar to the previous suggestions - but how about it?
+      No sooner do I realise that he has arrived, than he has already left.
+    html: |-
+      Pretty similar to the previous suggestions - but how about it?<br/>No sooner do I realise that he has arrived, than he has already left.
+    credits_raw: shelleymai
+    content_sha256: 1252887f952ad705c284430dd8afc4505af75be4d497ad551306e71e2d91d68e
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      I think the following translation sounds a little more natural: 'Just when you think he's arrived, he's already out the door.'
+    html: |-
+      I think the following translation sounds a little more natural: 'Just when you think he's arrived, he's already out the door.'
+    credits_raw: the clapper
+    content_sha256: 6c899cdf2a4f474ff331fbff10d8879cb8872b1468ec3ba5128b21af5295fcad
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: how does this differ from ーたとたん？
+    html: how does this differ from ーたとたん？
+    credits_raw: jamiesan
+    content_sha256: 70c018737341061d161e4df9484dd9b5ff3485f8f13b268599ec5b7790f7fa52
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: is this related to かとおもえば？ Is it the same?
+    html: is this related to かとおもえば？ Is it the same?
+    credits_raw: joubaou
+    content_sha256: 0b5e0b804e9d407de20d708ccfad9e2385327d25b77fd2469d9904d0196b45df
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: たとたん expresses a shorter duration than かと思ったら. It's more like "at the very moment when..."
+    html: たとたん expresses a shorter duration than かと思ったら. It's more like "at the very moment when..."
+    credits_raw: bamboo4
+    content_sha256: 67b2578d06409e5adb3543bbb2cd117a7385b3dc6996bcf079d4c5268ea9d8b0
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 619
+    label: かと思うと
+    source_url: https://takoboto.jp/bunpo/619
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:42:24+00:00'
+response_sha256: d26c345cfcb94e444a90021373cae1bac270cc5d10eb28d5ccfbcf298f01d55b
+warnings: []

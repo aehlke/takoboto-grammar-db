@@ -1,0 +1,89 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1326
+label: nikatakunai
+title_raw: 〜に難くない [〜にかたくない] (nikatakunai)
+title: 〜に難くない
+reading: 〜にかたくない
+romanized_label: nikatakunai
+category: grammar
+jlpt_level_original: '1'
+meaning: not hard to ...(名詞＋にかたくない/　Vる＋にかたくない）
+meaning_example: not hard to imagine it becoming a problem
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=nikatakunai
+archive_url: https://web.archive.org/web/20150224225856id_/http://jgram.org/pages/viewOne.php?tagE=nikatakunai
+archive_timestamp: '20150224225856'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: TDGMX4E54L3NKMP2HZECNQBDZIYILRSS
+response_sha256: d92fca99abaf84e5e6b7258fb30d11542ed8c5663193fa50e11830d80bc3ab75
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "in certain circumstances, it would be possible.\n\r\noften used with imagine \"it would not be hard to imagine this happening\""
+    html: "in certain circumstances, it would be possible.<br/>\r\noften used with imagine \"it would not be hard to imagine this happening\""
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 4240
+    position: 0
+    japanese: 彼の不安は想像にかたくない
+    body_text: "彼の不安は想像にかたくない \n\n\t\tIts not \n\t\thard to \n\t\timagine he is worried"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼の不安は想像にかたくない\">\n\t\t\t\t彼の不安は想像<strong>にかたくない</strong><strong></strong></a> <br/>\n\t\tIts not \n\t\t<strong>hard to </strong>\n\t\timagine he is worried"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5299
+    position: 1
+    japanese: 彼の喜びは、察するにかたくない。
+    body_text: "彼の喜びは、察するにかたくない。 \n\n\t\tIt's not hard to guess how happy he is."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼の喜びは、察するにかたくない。\">\n\t\t\t\t彼の喜びは、察する<strong>にかたくない</strong>。<strong></strong></a> <br/>\n\t\tIt's not hard to guess how happy he is. \n\t\t<strong> </strong>"
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: blabby
+    text: This is very often used with 想像する and 察する.
+    html: This is very often used with 想像する and 察する.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: khongbietboi
+    text: 子供を亡くした親の悲しみは、察するにかたくない。
+    html: 子供を亡くした親の悲しみは、察するにかたくない。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "〜に難くない [〜にかたくない] (nikatakunai)\n    Meaning: not hard to ...(名詞＋にかたくない/　Vる＋にかたくない） \n    Example: not hard to imagine it becoming a problem\n    JLPT Level: 1\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>〜に難くない [〜にかたくない] (nikatakunai)</span><br/>    <span><b>Meaning</b>: not hard to ...(名詞＋にかたくない/　Vる＋にかたくない） </span><br/>    <b>Example</b>: <i>not hard to imagine it becoming a problem</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225856'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 7620584
+  length: 5240
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 8f140ba263d7df62e38fd7adfaa361a686ea2887b53c1e49eb60394e4b4bc095

@@ -1,0 +1,88 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1629
+label: kotonisuru
+title_raw: ことにする ([ことにする] )(kotonisuru)
+title: ことにする
+reading: ことにする
+romanized_label: kotonisuru
+category: grammar
+jlpt_level_original: '3'
+meaning: Decide to do something 今年日本へ行くことにしました。
+meaning_example: I have decided to go to Japan this year.
+credits_raw: Aes
+source_url: http://jgram.org/pages/viewOne.php?tagE=kotonisuru
+archive_url: https://web.archive.org/web/20150224225817id_/http://jgram.org/pages/viewOne.php?tagE=kotonisuru
+archive_timestamp: '20150224225817'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: 3JCHC4HEGLRJFDFS34WU4IPTJNWEFZKP
+response_sha256: 5f21a025f9288b2b72a1b2f3a5e7d99f80bd73972c5bbde66c59dea98feffab1
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "formation: 辞書形　＋　ことにする\n\n\n\r\n例）\n\r\nアパートは狭いから、引越しすることにしました。\n\r\nI decided to move because the apartment is too small. \n\n\n\r\n漢字に興味があるので、日本学を勉強することにしました。\n\r\nI decided to study japanese studies because I am interested in Kanji."
+    html: "formation: 辞書形　＋　ことにする<br/>\n<br/>\r\n例）<br/>\r\nアパートは狭いから、引越しすることにしました。<br/>\r\nI decided to move because the apartment is too small. <br/>\n<br/>\r\n漢字に興味があるので、日本学を勉強することにしました。<br/>\r\nI decided to study japanese studies because I am interested in Kanji."
+    credits_raw: maki
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Format: Verb(plain, nonpastform) + ことにしている\n\r\nMeaning: A habit or routine activity\n\r\nExample:\n\n\n\r\n毎朝、うんどうをしている。\n\r\nI exercise every morning (routine)"
+    html: "Format: Verb(plain, nonpastform) + ことにしている<br/>\r\nMeaning: A habit or routine activity<br/>\r\nExample:<br/>\n<br/>\r\n毎朝、うんどうをしている。<br/>\r\nI exercise every morning (routine)"
+    credits_raw: Roxsan
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7095
+    position: 0
+    japanese: 最近ちょっと太ったから毎日ハンバーガーを食べないことにしました。
+    body_text: "最近ちょっと太ったから毎日ハンバーガーを食べないことにしました。 \n\n\t\tI gained a little weight recently so I've decided not to eat hamburgers every day."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ最近ちょっと太ったから毎日ハンバーガーを食べないことにしました。\">\n\t\t\t\t最近ちょっと太ったから毎日ハンバーガーを食べないことにしました。<strong></strong><strong></strong></a> <br/>\n\t\tI gained a little weight recently so I've decided not to eat hamburgers every day. \n\t\t<strong> </strong>"
+    credits_raw: bakabakashii
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7714
+    position: 1
+    japanese: 合格するようにもっと勉強をすることにしました。
+    body_text: "合格するようにもっと勉強をすることにしました。 \n\n\t\tIn order to pass the exam I decided to study harder"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ合格するようにもっと勉強をすることにしました。\">\n\t\t\t\t合格するようにもっと勉強をすることにしました。<strong></strong><strong></strong></a> <br/>\n\t\tIn order to pass the exam I decided to study harder \n\t\t<strong> </strong>"
+    credits_raw: Dom
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      ことにする ([ことにする] )(kotonisuru)
+          Meaning: Decide to do something 今年日本へ行くことにしました。
+          Example: I have decided to go to Japan this year.
+          JLPT Level: 3
+          Category: grammar
+          Author: Aes
+    html: |-
+      <span>ことにする ([ことにする] )(kotonisuru)</span><br/>    <span><b>Meaning</b>: Decide to do something 今年日本へ行くことにしました。</span><br/>    <b>Example</b>: <i>I have decided to go to Japan this year.</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Aes</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225817'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6928758
+  length: 5485
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 920666be3b8efc5923205f52b521a52f00d66264f039e3cf137f7fc3ccd5f301

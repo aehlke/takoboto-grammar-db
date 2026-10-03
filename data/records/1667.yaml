@@ -1,0 +1,66 @@
+schema_version: 2
+id: 1667
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1667/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 次第に
+romanized_label: Shidaini
+alternate_forms:
+  - しだいに
+jlpt_level: null
+credits_raw: Darrkangel
+meaning: Gradually, little by little
+meaning_example: After the winter solstice, the days gradually become longer.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1667
+    body_text: |-
+      Gradually, little by little 
+       After the winter solstice, the days gradually become longer.
+    body_html: |-
+      <span>Gradually, little by little</span> <br/> <span>After the winter solstice, the days gradually become longer.</span>
+    credits_raw: Darrkangel
+formations: []
+examples:
+  - source_id: 8064
+    position: 0
+    japanese: 夜が次第に長くなる.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%9c%e3%81%8c"><span>夜が</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e7%ac%ac%e3%81%ab"><strong>次第に</strong></a><a href="https://takoboto.jp/?q=%e9%95%b7%e3%81%8f%e3%81%aa%e3%82%8b."><span>長くなる.</span></a>
+    segments:
+      - text: 夜が
+        grammar_highlight: false
+      - text: 次第に
+        grammar_highlight: true
+      - text: 長くなる.
+        grammar_highlight: false
+    reading: よるがしだいにながくなる
+    credits_raw: doma
+    translations:
+      - language: en
+        text: The nights are gaining on the day.
+        html: |-
+          <span>The nights are gaining on the day. </span>
+        segments:
+          - text: 'The nights are gaining on the day. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: '[kanarazushimo]'
+    html: '[kanarazushimo]'
+    credits_raw: AiZet
+    content_sha256: 08c144b96a6a272fdf1820afff3254af45d38334ffe4b97c7980e7c6aaeea450
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:47:25+00:00'
+response_sha256: 32f317042395138154a1672b6d73dd1165436c12415feb9cd9a3535cea2abb88
+warnings: []

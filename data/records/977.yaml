@@ -1,0 +1,863 @@
+schema_version: 2
+id: 977
+source: takoboto
+source_url: https://takoboto.jp/bunpo/977/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ば〜ほど
+romanized_label: ba~hodo
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc, Kuval Anand
+meaning: the more +V(+A), the more ...
+meaning_example: the more you read, the less you know
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_977
+    body_text: |-
+      the more +V(+A), the more ... 
+       the more you read, the less you know
+    body_html: |-
+      <span>the more +V(+A), the more ...</span> <br/> <span>the more you read, the less you know</span>
+    credits_raw: dc, Kuval Anand
+formations: []
+examples:
+  - source_id: 6662
+    position: 0
+    japanese: ハンサムならばハンサムなほど恋人を探しやすいです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%8f%e3%83%b3%e3%82%b5%e3%83%a0%e3%81%aa%e3%82%89%e3%81%b0"><strong>ハンサムならば</strong></a><a href="https://takoboto.jp/?q=%e3%83%8f%e3%83%b3%e3%82%b5%e3%83%a0%e3%81%aa"><span>ハンサムな</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e6%81%8b%e4%ba%ba%e3%82%92"><span>恋人を</span></a><a href="https://takoboto.jp/?q=%e6%8e%a2%e3%81%97%e3%82%84%e3%81%99%e3%81%84%e3%81%a7%e3%81%99%e3%80%82"><span>探しやすいです。</span></a>
+    segments:
+      - text: ハンサムならば
+        grammar_highlight: true
+      - text: ハンサムな
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 恋人を探しやすいです。
+        grammar_highlight: false
+    reading: ハンサムならばハンサムなほどこいびとをさがしやすいです。
+    credits_raw: koluky
+    translations:
+      - language: en
+        text: The more handsome you are, the easier it is to find a lover.
+        html: |-
+          <strong>The more handsome </strong><span>you are, </span><strong>the easier </strong><span>it is to find a lover. </span>
+        segments:
+          - text: 'The more handsome '
+            grammar_highlight: true
+          - text: 'you are, '
+            grammar_highlight: false
+          - text: 'the easier '
+            grammar_highlight: true
+          - text: 'it is to find a lover. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 58
+    position: 1
+    japanese: 日本語は勉強すれば勉強するほど面白くなります。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%af"><span>日本語は</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%99%e3%82%8c"><span>勉強すれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%99%e3%82%8b"><span>勉強する</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e9%9d%a2%e7%99%bd%e3%81%8f%e3%81%aa%e3%82%8a%e3%81%be%e3%81%99%e3%80%82"><span>面白くなります。</span></a>
+    segments:
+      - text: 日本語は勉強すれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 勉強する
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 面白くなります。
+        grammar_highlight: false
+    reading: にほんごはべんきょうすればべんきょうするほどおもしろくなります。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The harder you study Japanese, the more interesting it will become.
+        html: |-
+          <strong>The harder </strong><span>you study Japanese, </span><strong>the more interesting </strong><span>it will become. </span>
+        segments:
+          - text: 'The harder '
+            grammar_highlight: true
+          - text: 'you study Japanese, '
+            grammar_highlight: false
+          - text: 'the more interesting '
+            grammar_highlight: true
+          - text: 'it will become. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 232
+    position: 2
+    japanese: そこに居れば居るほどその土地が好きになる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%93%e3%81%ab"><span>そこに</span></a><a href="https://takoboto.jp/?q=%e5%b1%85%e3%82%8c"><span>居れ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e5%b1%85%e3%82%8b"><span>居る</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%9c%9f%e5%9c%b0%e3%81%8c"><span>土地が</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%ab%e3%81%aa%e3%82%8b%e3%80%82"><span>好きになる。</span></a>
+    segments:
+      - text: そこに居れ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 居る
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: その土地が好きになる。
+        grammar_highlight: false
+    reading: そこにおればいるほどそのとちがすきになる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The longer I stayed there the more I came to like it.
+        html: |-
+          <strong>The longer </strong><span>I stayed there </span><strong>the more </strong><span>I came to like it. </span>
+        segments:
+          - text: 'The longer '
+            grammar_highlight: true
+          - text: 'I stayed there '
+            grammar_highlight: false
+          - text: 'the more '
+            grammar_highlight: true
+          - text: 'I came to like it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 661
+    position: 3
+    japanese: やればやるほど悪くなる
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%84%e3%82%8c"><span>やれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%8b"><span>やる</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e6%82%aa%e3%81%8f%e3%81%aa%e3%82%8b"><span>悪くなる</span></a>
+    segments:
+      - text: やれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: やる
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 悪くなる
+        grammar_highlight: false
+    reading: やればやるほどわるくなる
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: The more you do it, the worse it gets.
+        html: |-
+          <strong>The more </strong><span>you do it, the </span><strong>worse </strong><span>it gets. </span>
+        segments:
+          - text: 'The more '
+            grammar_highlight: true
+          - text: 'you do it, the '
+            grammar_highlight: false
+          - text: 'worse '
+            grammar_highlight: true
+          - text: 'it gets. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1227
+    position: 4
+    japanese: 早ければ早いほどありがたいです
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a9%e3%81%91%e3%82%8c%e3%81%b0%e6%97%a9%e3%81%84%e3%81%bb%e3%81%a9"><strong>早ければ早いほど</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8a%e3%81%8c%e3%81%9f%e3%81%84%e3%81%a7%e3%81%99"><span>ありがたいです</span></a>
+    segments:
+      - text: 早ければ早いほど
+        grammar_highlight: true
+      - text: ありがたいです
+        grammar_highlight: false
+    reading: はやければはやいほどありがたいです
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I would be grateful if you can do it sooner rather than later.
+        html: |-
+          <span>I would be grateful if you can do it </span><strong>sooner rather than later. </strong>
+        segments:
+          - text: 'I would be grateful if you can do it '
+            grammar_highlight: false
+          - text: 'sooner rather than later. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4385
+    position: 5
+    japanese: 「急げば急ぐほど遅くなる」は逆説である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e6%80%a5%e3%81%92"><span>急げ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e6%80%a5%e3%81%90"><span>急ぐ</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e9%81%85%e3%81%8f%e3%81%aa%e3%82%8b%e3%80%8d%e3%81%af"><span>遅くなる」は</span></a><a href="https://takoboto.jp/?q=%e9%80%86%e8%aa%ac%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>逆説である。</span></a>
+    segments:
+      - text: 「急げ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 急ぐ
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 遅くなる」は逆説である。
+        grammar_highlight: false
+    reading: 「いそげばいそぐほどおそくなる」はぎゃくせつである。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: More haste, less speed is a paradox.
+        html: |-
+          <span>More haste, less speed is a paradox. </span>
+        segments:
+          - text: 'More haste, less speed is a paradox. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4386
+    position: 6
+    japanese: Ｖの角度が広ければ広いほど、スピードが緩やかになる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%b6%e3%81%ae"><span>Ｖの</span></a><a href="https://takoboto.jp/?q=%e8%a7%92%e5%ba%a6%e3%81%8c"><span>角度が</span></a><a href="https://takoboto.jp/?q=%e5%ba%83%e3%81%91%e3%82%8c"><span>広けれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e5%ba%83%e3%81%84"><span>広い</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9%e3%80%81"><strong>ほど、</strong></a><a href="https://takoboto.jp/?q=%e3%82%b9%e3%83%94%e3%83%bc%e3%83%89%e3%81%8c"><span>スピードが</span></a><a href="https://takoboto.jp/?q=%e7%b7%a9%e3%82%84%e3%81%8b%e3%81%ab%e3%81%aa%e3%82%8b%e3%80%82"><span>緩やかになる。</span></a>
+    segments:
+      - text: Ｖの角度が広けれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 広い
+        grammar_highlight: false
+      - text: ほど、
+        grammar_highlight: true
+      - text: スピードが緩やかになる。
+        grammar_highlight: false
+    reading: ぶいのかくどがひろければひろいほど、スピードがゆるやかになる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The wider the V, the slower the speed.
+        html: |-
+          <span>The wider the V, the slower the speed. </span>
+        segments:
+          - text: 'The wider the V, the slower the speed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4387
+    position: 7
+    japanese: たくさん本を読めば読むほど、たくさんの事を知るだろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%8f%e3%81%95%e3%82%93"><span>たくさん</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%82%92"><span>本を</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%81"><span>読め</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%80"><span>読む</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9%e3%80%81"><strong>ほど、</strong></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%8f%e3%81%95%e3%82%93%e3%81%ae"><span>たくさんの</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%82%92"><span>事を</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8b%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>知るだろう。</span></a>
+    segments:
+      - text: たくさん本を読め
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 読む
+        grammar_highlight: false
+      - text: ほど、
+        grammar_highlight: true
+      - text: たくさんの事を知るだろう。
+        grammar_highlight: false
+    reading: たくさんほんをよめばよむほど、たくさんのことをしるだろう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The more books you read, the more you'll know.
+        html: |-
+          <span>The more books you read, the more you'll know. </span>
+        segments:
+          - text: 'The more books you read, the more you''ll know. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4388
+    position: 8
+    japanese: そのことを考えれば考えるほど、私はますます嫌になる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%81%93%e3%81%a8%e3%82%92"><span>そのことを</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%8c"><span>考えれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%8b"><span>考える</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9%e3%80%81"><strong>ほど、</strong></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%be%e3%81%99%e3%81%be%e3%81%99"><span>私はますます</span></a><a href="https://takoboto.jp/?q=%e5%ab%8c%e3%81%ab%e3%81%aa%e3%82%8b%e3%80%82"><span>嫌になる。</span></a>
+    segments:
+      - text: そのことを考えれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 考える
+        grammar_highlight: false
+      - text: ほど、
+        grammar_highlight: true
+      - text: 私はますます嫌になる。
+        grammar_highlight: false
+    reading: そのことをかんがえればかんがえるほど、わたしはますますいやになる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The more I think of it, the less I like it.
+        html: |-
+          <span>The more I think of it, the less I like it. </span>
+        segments:
+          - text: 'The more I think of it, the less I like it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4389
+    position: 9
+    japanese: その質問が難しくなればなるほど答えることができなくなりそうだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e8%b3%aa%e5%95%8f%e3%81%8c"><span>質問が</span></a><a href="https://takoboto.jp/?q=%e9%9b%a3%e3%81%97%e3%81%8f%e3%81%aa%e3%82%8c"><span>難しくなれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%8b"><span>なる</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e7%ad%94%e3%81%88%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8f%e3%81%aa%e3%82%8a%e3%81%9d%e3%81%86%e3%81%a0%e3%80%82"><span>答えることができなくなりそうだ。</span></a>
+    segments:
+      - text: その質問が難しくなれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: なる
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 答えることができなくなりそうだ。
+        grammar_highlight: false
+    reading: そのしつもんがむずかしくなればなるほどこたえることができなくなりそうだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The more difficult the question are, the less likely I am to be able to answer it.
+        html: |-
+          <span>The more difficult the question are, the less likely I am to be able to answer it. </span>
+        segments:
+          - text: 'The more difficult the question are, the less likely I am to be able to answer it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4390
+    position: 10
+    japanese: その本は、読めば読むほど分からなくなる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%81%af%e3%80%81"><span>本は、</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%81"><span>読め</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%80"><span>読む</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%89%e3%81%aa%e3%81%8f%e3%81%aa%e3%82%8b%e3%80%82"><span>分からなくなる。</span></a>
+    segments:
+      - text: その本は、読め
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 読む
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 分からなくなる。
+        grammar_highlight: false
+    reading: そのほんは、よめばよむほどわからなくなる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The more you read the book, the less you understand it.
+        html: |-
+          <span>The more you read the book, the less you understand it. </span>
+        segments:
+          - text: 'The more you read the book, the less you understand it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4391
+    position: 11
+    japanese: その問題について考えれば考えるほど、一層難しくなるように思えた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6"><span>問題について</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%8c%e3%81%b0"><strong>考えれば</strong></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%8b"><span>考える</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9%e3%80%81"><strong>ほど、</strong></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%b1%a4%e9%9b%a3%e3%81%97%e3%81%8f%e3%81%aa%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab"><span>一層難しくなるように</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%88%e3%81%9f%e3%80%82"><span>思えた。</span></a>
+    segments:
+      - text: その問題について
+        grammar_highlight: false
+      - text: 考えれば
+        grammar_highlight: true
+      - text: 考える
+        grammar_highlight: false
+      - text: ほど、
+        grammar_highlight: true
+      - text: 一層難しくなるように思えた。
+        grammar_highlight: false
+    reading: そのもんだいについてかんがえればかんがえるほど、いっそうむずかしくなるようにおもえた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The more I thought about the problem, the more difficult it seemed to become.
+        html: |-
+          <strong>The more I thought </strong><span>about the problem, </span><strong>the more </strong><span>difficult it seemed to become. </span>
+        segments:
+          - text: 'The more I thought '
+            grammar_highlight: true
+          - text: 'about the problem, '
+            grammar_highlight: false
+          - text: 'the more '
+            grammar_highlight: true
+          - text: 'difficult it seemed to become. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4392
+    position: 12
+    japanese: たくさん持てば持つほど、それだけいっそう多く欲しくなる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%8f%e3%81%95%e3%82%93"><span>たくさん</span></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a6"><span>持て</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a4"><span>持つ</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9%e3%80%81"><strong>ほど、</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a0%e3%81%91%e3%81%84%e3%81%a3%e3%81%9d%e3%81%86"><span>それだけいっそう</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%8f"><span>多く</span></a><a href="https://takoboto.jp/?q=%e6%ac%b2%e3%81%97%e3%81%8f%e3%81%aa%e3%82%8b%e3%80%82"><span>欲しくなる。</span></a>
+    segments:
+      - text: たくさん持て
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 持つ
+        grammar_highlight: false
+      - text: ほど、
+        grammar_highlight: true
+      - text: それだけいっそう多く欲しくなる。
+        grammar_highlight: false
+    reading: たくさんもてばもつほど、それだけいっそうおおくほしくなる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The more you have, the more you want.
+        html: |-
+          <span>The more you have, the more you want. </span>
+        segments:
+          - text: 'The more you have, the more you want. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4393
+    position: 13
+    japanese: われわれが他人を疑えば疑うほど、他人もわれわれを疑うであろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%82%8c%e3%82%8f%e3%82%8c%e3%81%8c"><span>われわれが</span></a><a href="https://takoboto.jp/?q=%e4%bb%96%e4%ba%ba%e3%82%92"><span>他人を</span></a><a href="https://takoboto.jp/?q=%e7%96%91%e3%81%88"><span>疑え</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e7%96%91%e3%81%86"><span>疑う</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9%e3%80%81"><strong>ほど、</strong></a><a href="https://takoboto.jp/?q=%e4%bb%96%e4%ba%ba%e3%82%82%e3%82%8f%e3%82%8c%e3%82%8f%e3%82%8c%e3%82%92"><span>他人もわれわれを</span></a><a href="https://takoboto.jp/?q=%e7%96%91%e3%81%86%e3%81%a7%e3%81%82%e3%82%8d%e3%81%86%e3%80%82"><span>疑うであろう。</span></a>
+    segments:
+      - text: われわれが他人を疑え
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 疑う
+        grammar_highlight: false
+      - text: ほど、
+        grammar_highlight: true
+      - text: 他人もわれわれを疑うであろう。
+        grammar_highlight: false
+    reading: われわれがたにんをうたがえばうたがうほど、たにんもわれわれをうたがうであろう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Others will suspect us the more, the more we suspect them.
+        html: |-
+          <span>Others will suspect us the more, the more we suspect them. </span>
+        segments:
+          - text: 'Others will suspect us the more, the more we suspect them. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4394
+    position: 14
+    japanese: ポップコーンは食べれば食べるほどもっと食べたくなる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%9d%e3%83%83%e3%83%97%e3%82%b3%e3%83%bc%e3%83%b3%e3%81%af"><span>ポップコーンは</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%8c"><span>食べれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%8b"><span>食べる</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%a3%e3%81%a8"><span>もっと</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%9f%e3%81%8f%e3%81%aa%e3%82%8b%e3%80%82"><span>食べたくなる。</span></a>
+    segments:
+      - text: ポップコーンは食べれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 食べる
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: もっと食べたくなる。
+        grammar_highlight: false
+    reading: ポップコーンはたべればたべるほどもっとたべたくなる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The more popcorn you eat, the more you want.
+        html: |-
+          <span>The more popcorn you eat, the more you want. </span>
+        segments:
+          - text: 'The more popcorn you eat, the more you want. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4395
+    position: 15
+    japanese: 飲めば飲むほど注意力が鈍る。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%81"><span>飲め</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%80"><span>飲む</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e6%b3%a8%e6%84%8f%e5%8a%9b%e3%81%8c"><span>注意力が</span></a><a href="https://takoboto.jp/?q=%e9%88%8d%e3%82%8b%e3%80%82"><span>鈍る。</span></a>
+    segments:
+      - text: 飲め
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 飲む
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 注意力が鈍る。
+        grammar_highlight: false
+    reading: のめばのむほどちゅういりょくがにぶる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The more you drink, the less careful you will be.
+        html: |-
+          <span>The more you drink, the less careful you will be. </span>
+        segments:
+          - text: 'The more you drink, the less careful you will be. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4396
+    position: 16
+    japanese: 暇な時間が多ければ多いほど、それだけ彼は楽しい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9a%87%e3%81%aa"><span>暇な</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%96%93%e3%81%8c"><span>時間が</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%91%e3%82%8c"><span>多けれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%84"><span>多い</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9%e3%80%81"><strong>ほど、</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a0%e3%81%91"><span>それだけ</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%a5%bd%e3%81%97%e3%81%84%e3%80%82"><span>楽しい。</span></a>
+    segments:
+      - text: 暇な時間が多けれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 多い
+        grammar_highlight: false
+      - text: ほど、
+        grammar_highlight: true
+      - text: それだけ彼は楽しい。
+        grammar_highlight: false
+    reading: ひまなじかんがおおければおおいほど、それだけかれはたのしい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The more leisure he has, the happier he is.
+        html: |-
+          <span>The more leisure he has, the happier he is. </span>
+        segments:
+          - text: 'The more leisure he has, the happier he is. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4397
+    position: 17
+    japanese: 各人が個性的であればあるほど、それだけ他人の英知に寄与する。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%84%e4%ba%ba%e3%81%8c"><span>各人が</span></a><a href="https://takoboto.jp/?q=%e5%80%8b%e6%80%a7%e7%9a%84%e3%81%a7%e3%81%82%e3%82%8c"><span>個性的であれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8b"><span>ある</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9%e3%80%81"><strong>ほど、</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a0%e3%81%91"><span>それだけ</span></a><a href="https://takoboto.jp/?q=%e4%bb%96%e4%ba%ba%e3%81%ae"><span>他人の</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e7%9f%a5%e3%81%ab"><span>英知に</span></a><a href="https://takoboto.jp/?q=%e5%af%84%e4%b8%8e%e3%81%99%e3%82%8b%e3%80%82"><span>寄与する。</span></a>
+    segments:
+      - text: 各人が個性的であれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: ある
+        grammar_highlight: false
+      - text: ほど、
+        grammar_highlight: true
+      - text: それだけ他人の英知に寄与する。
+        grammar_highlight: false
+    reading: かくじんがこせいてきであればあるほど、それだけたにんのえいちにきよする。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The more unique each person is, the more he contributes to the wisdom of others.
+        html: |-
+          <span>The more unique each person is, the more he contributes to the wisdom of others. </span>
+        segments:
+          - text: 'The more unique each person is, the more he contributes to the wisdom of others. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6675
+    position: 18
+    japanese: 多ければ多いほどよい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%91%e3%82%8c"><span>多けれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%84"><span>多い</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%84%e3%80%82"><span>よい。</span></a>
+    segments:
+      - text: 多けれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 多い
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: よい。
+        grammar_highlight: false
+    reading: おおければおおいほどよい。
+    credits_raw: taunt
+    translations:
+      - language: en
+        text: The more the better.
+        html: |-
+          <strong>The more </strong><span>the better. </span>
+        segments:
+          - text: 'The more '
+            grammar_highlight: true
+          - text: 'the better. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6732
+    position: 19
+    japanese: 考えれば考えるほど解決方法、わからなくなることがある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%8c"><span>考えれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%8b"><span>考える</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e8%a7%a3%e6%b1%ba%e6%96%b9%e6%b3%95%e3%80%81%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%8f%e3%81%aa%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>解決方法、わからなくなることがある。</span></a>
+    segments:
+      - text: 考えれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 考える
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 解決方法、わからなくなることがある。
+        grammar_highlight: false
+    reading: かんがえればかんがえるほどかいけつほうほう、わからなくなることがある。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: Sometimes the more you think about it, the less you can find the solution.
+        html: |-
+          <span>Sometimes </span><strong>the more </strong><span>you think about it, </span><strong>the less </strong><span>you can find the solution. </span>
+        segments:
+          - text: 'Sometimes '
+            grammar_highlight: false
+          - text: 'the more '
+            grammar_highlight: true
+          - text: 'you think about it, '
+            grammar_highlight: false
+          - text: 'the less '
+            grammar_highlight: true
+          - text: 'you can find the solution. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7007
+    position: 20
+    japanese: プレゼンテーションに準備すればするほど当時に安心でしょう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ab"><span>プレゼンテーションに</span></a><a href="https://takoboto.jp/?q=%e6%ba%96%e5%82%99%e3%81%99%e3%82%8c"><span>準備すれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8b"><span>する</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e5%bd%93%e6%99%82%e3%81%ab"><span>当時に</span></a><a href="https://takoboto.jp/?q=%e5%ae%89%e5%bf%83%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%80%82"><span>安心でしょう。</span></a>
+    segments:
+      - text: プレゼンテーションに準備すれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: する
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 当時に安心でしょう。
+        grammar_highlight: false
+    reading: プレゼンテーションにじゅんびすればするほどとうじにあんしんでしょう。
+    credits_raw: yuubouna
+    translations:
+      - language: en
+        text: The more you prepare for the presentation, the more confident you would feel.
+        html: |-
+          <strong>The more </strong><span>you prepare for the presentation, </span><strong>the more </strong><span>confident you would feel. </span>
+        segments:
+          - text: 'The more '
+            grammar_highlight: true
+          - text: 'you prepare for the presentation, '
+            grammar_highlight: false
+          - text: 'the more '
+            grammar_highlight: true
+          - text: 'confident you would feel. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7040
+    position: 21
+    japanese: 歌えば歌うほど、声が出るようになったんです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%ad%8c%e3%81%88"><span>歌え</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e6%ad%8c%e3%81%86"><span>歌う</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%a3%b0%e3%81%8c"><span>声が</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%82%93%e3%81%a7%e3%81%99%e3%80%82"><span>出るようになったんです。</span></a>
+    segments:
+      - text: 歌え
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 歌う
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 、声が出るようになったんです。
+        grammar_highlight: false
+    reading: うたえばうたうほど、こえがでるようになったんです。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: The more I sing the better my voice gets.
+        html: |-
+          <strong>The more </strong><span>I sing </span><strong>the better </strong><span>my voice gets. </span>
+        segments:
+          - text: 'The more '
+            grammar_highlight: true
+          - text: 'I sing '
+            grammar_highlight: false
+          - text: 'the better '
+            grammar_highlight: true
+          - text: 'my voice gets. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      FORMATION:
+      Ｖ(ば form) + Ｖ(dict. form) + ほど
+      いＡ + ければ＊ + いＡ + ほど
+      ＊EX: ちかい + ければ = ちかければ
+      なＡ + なら(ば) + なＡ + ほど
+    html: |-
+      FORMATION:<br/>Ｖ(ば form) + Ｖ(dict. form) + ほど<br/>いＡ + ければ＊ + いＡ + ほど<br/>＊EX: ちかい + ければ = ちかければ<br/>なＡ + なら(ば) + なＡ + ほど
+    credits_raw: rubyhatchet
+    content_sha256: f37208711c8ff9a2e8f0deb3cc943197cbb94aca05983a26c894f15817730608
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: See also standard '-ba' conditional verb form.
+    html: See also standard '-ba' conditional verb form.
+    credits_raw: Amatuka
+    content_sha256: 4dd485a8984b5d674ff183c098cb06aa1371170af7793cb57b615b3c3352c7b8
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      There is no example for na-adjectives. Would this be correct?
+
+      私の部屋が奇麗ならば奇麗ほど、嬉しくなる。
+      The cleaner my room is, the happier I am.
+    html: |-
+      There is no example for na-adjectives. Would this be correct?<br/><br/>私の部屋が奇麗ならば奇麗ほど、嬉しくなる。<br/>The cleaner my room is, the happier I am.
+    credits_raw: tw
+    content_sha256: 784172980a4b5ba3071967e65054324730e9e727a21c28dead4f79b8431de76a
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: It would be 奇麗なら(ば)奇麗_な_ほど. Those pesky noun-like adjectives and their なs...
+    html: It would be 奇麗なら(ば)奇麗_な_ほど. Those pesky noun-like adjectives and their なs...
+    credits_raw: KWhazit
+    content_sha256: b695f53989f65b763a9a5321241daf29bb8f844778b7da4519afae976a68e70c
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Here you are
+    html: Here you are
+    credits_raw: myawr
+    content_sha256: ade2b550c9d9d0f98b1e959b9927c4d504b5dbbf090359fa1c0808f0b7ed90d8
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: ex#58 You also can use 勉強すればするほど
+    html: ex#58 You also can use 勉強すればするほど
+    credits_raw: 誠
+    content_sha256: 1821f98456b78cacea6c84821c044898a7e430a8a146c06526fb04934112acd7
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: 出来るだけ adding to 早ければ早いほど makes the sentence more beautiful and smooth. もっときれいね
+    html: 出来るだけ adding to 早ければ早いほど makes the sentence more beautiful and smooth. もっときれいね
+    credits_raw: 誠
+    content_sha256: d5a9c0bb3b618298addcef248c22adbc699410ac874152db75ea42234498564d
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      can this be used with an adjective?
+      出きるだけ早ければ、早いほどいいと思います。
+      = the sooner we do it the better, i think
+    html: |-
+      can this be used with an adjective?<br/>出きるだけ早ければ、早いほどいいと思います。<br/>= the sooner we do it the better, i think
+    credits_raw: dc
+    content_sha256: 430db2c3ddd77ff585076e369180aab0b8f6d041100300af5246b434d960ac27
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      yes ok! but this is more polite...
+      出来るだけ早ければ早いほうがありがたいです。
+      = I would be grateful if we can do it sooner rather than later
+    html: |-
+      yes ok! but this is more polite...<br/>出来るだけ早ければ早いほうがありがたいです。<br/>= I would be grateful if we can do it sooner rather than later
+    credits_raw: たか
+    content_sha256: c629993cadfd6be007d1028fe1f4bdcce6244e3c6180fdf2a0e334f2a0d0f74e
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: In 早ければ早いほう、「出来るだけ」is redundant and not needed because that is indirectly implied.
+    html: In 早ければ早いほう、「出来るだけ」is redundant and not needed because that is indirectly implied.
+    credits_raw: bamboo4
+    content_sha256: f5a7d47a9853b5d6adeb29b722462b136a5797d6836cedd733b42949af56dd85
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: thanks, noted, and now an example.
+    html: thanks, noted, and now an example.
+    credits_raw: dc
+    content_sha256: 5aea136a7fd568fdc533c341c6669c2b01a4cdfc4891b817fcfd0f7bac3152f8
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: If you say, 早ければ早いほう, you need が, but if you say 早ければ早いほど, you don't need が.
+    html: If you say, 早ければ早いほう, you need が, but if you say 早ければ早いほど, you don't need が.
+    credits_raw: bamboo4
+    content_sha256: 0d0ccf9bd777e285355911f23db63a506f8881a4ced7759a6a8fde0c7b905241
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      so in this case you don't use any article? は・が・を
+
+      → 早ければ早いほど ありがたいです
+    html: |-
+      so in this case you don't use any article? は・が・を<br/><br/>→ 早ければ早いほど ありがたいです
+    credits_raw: dc
+    content_sha256: d9091552e7a40e96b73799c29670b59d44279a66ff9b81c43075655bfc1ae924
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: That is correct, dc.
+    html: That is correct, dc.
+    credits_raw: bamboo4
+    content_sha256: 95e565d72339a39b1a1b59feae29f87356e6780c1aa8c9761da6ba1a6ea7b369
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      Wouldn't the title make more sense if the title was :
+      ば〜ほど?
+    html: |-
+      Wouldn't the title make more sense if the title was :<br/>ば〜ほど?
+    credits_raw: brewski
+    content_sha256: fabc96d7a0fde71a060667227477fc2f1868968d0f4602f7de12d15027a3abb2
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: |-
+      Would this also be correct?
+      乾菓子を食べれば食べるほど太っちゃうよ。
+    html: |-
+      Would this also be correct?<br/>乾菓子を食べれば食べるほど太っちゃうよ。
+    credits_raw: ミサ坊
+    content_sha256: e8733e5560e07ddbd5fa76af7d36ba83d8e09ddea31cccf799c83ff74eeccfa3
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: I changed the title according to Brewskiさん note. I intended to translate Yuubounaさん example.
+    html: I changed the title according to Brewskiさん note. I intended to translate Yuubounaさん example.
+    credits_raw: 赤毛
+    content_sha256: fc6305f9554406bc7836faf39651f1bce975ccacaf1a6c814fb0020d60f5a69b
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 307
+    label: 〜程
+    source_url: https://takoboto.jp/bunpo/307
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:36:50+00:00'
+response_sha256: bb60e7ee14cf721f81da50d72c452c5cdecdef541752db06693c5828b3ccc6ee
+warnings: []

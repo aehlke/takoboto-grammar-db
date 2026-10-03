@@ -1,0 +1,195 @@
+schema_version: 2
+id: 556
+source: takoboto
+source_url: https://takoboto.jp/bunpo/556/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: がする
+romanized_label: ga suru
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: to affect the senses (to taste, to smell of, to feel like, to give the sensation of etc.)
+meaning_example: This room smells of gas.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_556
+    body_text: |-
+      to affect the senses (to taste, to smell of, to feel like, to give the sensation of etc.) 
+       This room smells of gas.
+    body_html: |-
+      <span>to affect the senses (to taste, to smell of, to feel like, to give the sensation of etc.)</span> <br/> <span>This room smells of gas.</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 177
+    position: 0
+    japanese: 「ちょっと目まいがするわ。」「顔色が悪いぞ。一日休んだほうがいいよ。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8"><span>「ちょっと</span></a><a href="https://takoboto.jp/?q=%e7%9b%ae%e3%81%be%e3%81%84"><span>目まい</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%99%e3%82%8b"><strong>がする</strong></a><a href="https://takoboto.jp/?q=%e3%82%8f%e3%80%82%e3%80%8d%e3%80%8c"><span>わ。」「</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e8%89%b2%e3%81%8c"><span>顔色が</span></a><a href="https://takoboto.jp/?q=%e6%82%aa%e3%81%84%e3%81%9e%e3%80%82"><span>悪いぞ。</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%97%a5%e4%bc%91%e3%82%93%e3%81%a0%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84%e3%82%88%e3%80%82%e3%80%8d"><span>一日休んだほうがいいよ。」</span></a>
+    segments:
+      - text: 「ちょっと目まい
+        grammar_highlight: false
+      - text: がする
+        grammar_highlight: true
+      - text: わ。」「顔色が悪いぞ。一日休んだほうがいいよ。」
+        grammar_highlight: false
+    reading: 「ちょっとめまいがするわ。」「かおいろがわるいぞ。いちにちやすんだほうがいいよ。」
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: '" I feel sort of dizzy." "You look pale. You''d better take a day off." [F] [M]'
+        html: |-
+          <span>" </span><strong>I feel </strong><span>sort of dizzy." "You look pale. You'd better take a day off." [F] [M] </span>
+        segments:
+          - text: '" '
+            grammar_highlight: false
+          - text: 'I feel '
+            grammar_highlight: true
+          - text: 'sort of dizzy." "You look pale. You''d better take a day off." [F] [M] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 178
+    position: 1
+    japanese: このスープは魚の味がする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%b9%e3%83%bc%e3%83%97%e3%81%af"><span>このスープは</span></a><a href="https://takoboto.jp/?q=%e9%ad%9a%e3%81%ae"><span>魚の</span></a><a href="https://takoboto.jp/?q=%e5%91%b3"><span>味</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%99%e3%82%8b"><strong>がする</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: このスープは魚の味
+        grammar_highlight: false
+      - text: がする
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このスープはさかなのあじがする。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: This soup tastes of fish.
+        html: |-
+          <span>This soup </span><strong>tastes of </strong><span>fish. </span>
+        segments:
+          - text: 'This soup '
+            grammar_highlight: false
+          - text: 'tastes of '
+            grammar_highlight: true
+          - text: 'fish. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 179
+    position: 2
+    japanese: この部屋はガスのにおいがする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%81%af%e3%82%ac%e3%82%b9%e3%81%ae%e3%81%ab%e3%81%8a%e3%81%84"><span>部屋はガスのにおい</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%99%e3%82%8b"><strong>がする</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: この部屋はガスのにおい
+        grammar_highlight: false
+      - text: がする
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このへやはガスのにおいがする。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: This room smells of gas.
+        html: |-
+          <span>This room </span><strong>smells of </strong><span>gas. </span>
+        segments:
+          - text: 'This room '
+            grammar_highlight: false
+          - text: 'smells of '
+            grammar_highlight: true
+          - text: 'gas. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6532
+    position: 3
+    japanese: あなたも血のにおいがするな.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%82%82"><span>あなたも</span></a><a href="https://takoboto.jp/?q=%e8%a1%80%e3%81%ae%e3%81%ab%e3%81%8a%e3%81%84"><span>血のにおい</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%99%e3%82%8b"><strong>がする</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa."><span>な.</span></a>
+    segments:
+      - text: あなたも血のにおい
+        grammar_highlight: false
+      - text: がする
+        grammar_highlight: true
+      - text: な.
+        grammar_highlight: false
+    reading: あなたもちのにおいがするな
+    credits_raw: gregory
+    translations:
+      - language: en
+        text: I smell blood on you too.
+        html: |-
+          <span>I </span><strong>smell </strong><span>blood on you too. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'smell '
+            grammar_highlight: true
+          - text: 'blood on you too. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 'smack v. smack of sth : slight flavour of sth お尻ぺんぺんも同じスペル。'
+    html: 'smack v. smack of sth : slight flavour of sth お尻ぺんぺんも同じスペル。'
+    credits_raw: Miki
+    content_sha256: 563867cc7e1b494b936c7a070c71ac52280c406dee47ba5f1293afa0e7c03b80
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      I think it would normally be the plural "smacks of"
+      http://dictionary.reference.com/search?q=smacks
+      "A distinctive flavor or taste. 
+      A suggestion or trace."
+      I'm not sure it's a great translation though.
+    html: |-
+      I think it would normally be the plural "smacks of"<br/>http://dictionary.reference.com/search?q=smacks<br/>"A distinctive flavor or taste. <br/>A suggestion or trace."<br/>I'm not sure it's a great translation though.
+    credits_raw: Amatuka
+    content_sha256: 39b4ee5efe689a569fb7413ed0f743238d82d05573478e1b81bf1b323af0a16f
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      I was wrong. I mixed up the lines for v with that of n. It is for n-explanation but it should be used in singular according to an OXFORD dictionary. In contect "smack" is V after "This soup". いい訳に見えるけど。
+    html: |-
+      I was wrong. I mixed up the lines for v with that of n. It is for n-explanation but it should be used in singular according to an OXFORD dictionary. In contect "smack" is V after "This soup". いい訳に見えるけど。
+    credits_raw: Miki
+    content_sha256: 81bdc86fd97cb0f0428428da5d2769b7f2543b48f0c0ac6f8ca920cb7df75cb3
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Appeared in JLPT 2 (Select particle, が)
+    html: Appeared in JLPT 2 (Select particle, が)
+    credits_raw: Amatuka
+    content_sha256: e9927935782411436e3e5e248cd871da64c3fdfd59b51f3bcc6a29df09c9b97a
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Not sure if the issue is resolved, but the phrase is always "X smacks of Y". Its a good enough translation, though, as a native speaker i can say this phrase has become _slightly_ archaic.
+    html: |-
+      Not sure if the issue is resolved, but the phrase is always "X smacks of Y". Its a good enough translation, though, as a native speaker i can say this phrase has become _slightly_ archaic.
+    credits_raw: ixtli
+    content_sha256: af9ffbdfe3a0bb0ec6838e28d768b445cf10d73e8322f84b241721a3082d9011
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:45+00:00'
+response_sha256: 60cb38dffbdcde9e30d14857d5e1d0b6a3f1a02e2f17fdd78782503351a364b4
+warnings: []

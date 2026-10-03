@@ -1,0 +1,374 @@
+schema_version: 2
+id: 1213
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1213/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: としては
+romanized_label: toshiteha
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: for
+meaning_example: For japanese steak, this is pretty tasty.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1213
+    body_text: |-
+      for 
+       For japanese steak, this is pretty tasty.
+    body_html: |-
+      <span>for</span> <br/> <span>For japanese steak, this is pretty tasty.</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 6283
+    position: 0
+    japanese: このステーキは日本のステーキとしては安いです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%b9%e3%83%86%e3%83%bc%e3%82%ad%e3%81%af"><span>このステーキは</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ae%e3%82%b9%e3%83%86%e3%83%bc%e3%82%ad"><span>日本のステーキ</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6%e3%81%af"><strong>としては</strong></a><a href="https://takoboto.jp/?q=%e5%ae%89%e3%81%84%e3%81%a7%e3%81%99%e3%80%82"><span>安いです。</span></a>
+    segments:
+      - text: このステーキは日本のステーキ
+        grammar_highlight: false
+      - text: としては
+        grammar_highlight: true
+      - text: 安いです。
+        grammar_highlight: false
+    reading: このステーキはにほんのステーキとしてはやすいです。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: This steak is inexpensive for Japanese steak.
+        html: |-
+          <span>This steak is inexpensive </span><strong>for </strong><span>Japanese steak. </span>
+        segments:
+          - text: 'This steak is inexpensive '
+            grammar_highlight: false
+          - text: 'for '
+            grammar_highlight: true
+          - text: 'Japanese steak. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6284
+    position: 1
+    japanese: ジョンソンさんは日本語の一年生としては、日本語が上手だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%bd%e3%83%b3%e3%81%95%e3%82%93%e3%81%af"><span>ジョンソンさんは</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%ae"><span>日本語の</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%b9%b4%e7%94%9f"><span>一年生</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6%e3%81%af"><strong>としては</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%8c"><span>日本語が</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%a0%e3%80%82"><span>上手だ。</span></a>
+    segments:
+      - text: ジョンソンさんは日本語の一年生
+        grammar_highlight: false
+      - text: としては
+        grammar_highlight: true
+      - text: 、日本語が上手だ。
+        grammar_highlight: false
+    reading: ジョンソンさんはにほんごのいちねんせいとしては、にほんごがじょうずだ。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: Mr. Johnson is good at Japanese for a first-year student.
+        html: |-
+          <span>Mr. Johnson is good at Japanese </span><strong>for </strong><span>a first-year student. </span>
+        segments:
+          - text: 'Mr. Johnson is good at Japanese '
+            grammar_highlight: false
+          - text: 'for '
+            grammar_highlight: true
+          - text: 'a first-year student. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6285
+    position: 2
+    japanese: これは日本のアパートとしては、大きい方です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af"><span>これは</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ae%e3%82%a2%e3%83%91%e3%83%bc%e3%83%88"><span>日本のアパート</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6%e3%81%af"><strong>としては</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e3%81%8d%e3%81%84"><span>大きい</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%a7%e3%81%99%e3%80%82"><span>方です。</span></a>
+    segments:
+      - text: これは日本のアパート
+        grammar_highlight: false
+      - text: としては
+        grammar_highlight: true
+      - text: 、大きい方です。
+        grammar_highlight: false
+    reading: これはにほんのアパートとしては、おおきいほうです。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: For a Japanese apartment, this is one of the bigger ones.
+        html: |-
+          <span>For a Japanese apartment, this is one of the bigger ones. </span>
+        segments:
+          - text: 'For a Japanese apartment, this is one of the bigger ones. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1162
+    position: 3
+    japanese: ミキさんは一年生としては英語が上手だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%9f%e3%82%ad%e3%81%95%e3%82%93%e3%81%af"><span>ミキさんは</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%b9%b4%e7%94%9f"><span>一年生</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6%e3%81%af"><strong>としては</strong></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%8c"><span>英語が</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%a0"><span>上手だ</span></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ミキさんは一年生
+        grammar_highlight: false
+      - text: としては
+        grammar_highlight: true
+      - text: 英語が上手だ。
+        grammar_highlight: false
+    reading: ミキさんはいちねんせいとしてはえいごがじょうずだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: For a first year student, Miki is good in English.
+        html: |-
+          <strong>For </strong><span>a first year student, Miki is good in English. </span>
+        segments:
+          - text: 'For '
+            grammar_highlight: true
+          - text: 'a first year student, Miki is good in English. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5841
+    position: 4
+    japanese: あの人は学者としては立派だが人間としては尊敬できない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%af"><span>人は</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e8%80%85"><span>学者</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6%e3%81%af"><strong>としては</strong></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e6%b4%be%e3%81%a0%e3%81%8c"><span>立派だが</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e3%81%a8%e3%81%97%e3%81%a6%e3%81%af"><span>人間としては</span></a><a href="https://takoboto.jp/?q=%e5%b0%8a%e6%95%ac%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%82"><span>尊敬できない。</span></a>
+    segments:
+      - text: あの人は学者
+        grammar_highlight: false
+      - text: としては
+        grammar_highlight: true
+      - text: 立派だが人間としては尊敬できない。
+        grammar_highlight: false
+    reading: あのひとはがくしゃとしてはりっぱだがにんげんとしてはそんけいできない。
+    credits_raw: Meghana
+    translations:
+      - language: en
+        text: That person is admirable as a scholar but cannot be respected as a human being.
+        html: |-
+          <span>That person is admirable </span><strong>as a </strong><span>scholar but cannot be respected as a human being. </span>
+        segments:
+          - text: 'That person is admirable '
+            grammar_highlight: false
+          - text: 'as a '
+            grammar_highlight: true
+          - text: 'scholar but cannot be respected as a human being. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      [toshiteha] always follows a noun, whereas [warini] can be used after a noun or adjective
+      <font color=red>
+      noun + toshite ha
+      noun + no wari ni
+      </font>
+      先生としては、若いです。
+      先生<b>の</b>割りに、若いです
+      for a teacher, he is young
+
+      <font color=red>
+      adj + warini
+      </font>
+      OK○　高い割りに、不味かった
+      for the expensive price, it wasnt very tasty
+
+      NG×　高いとしては、不味かった　
+      cannot use toshiteha after adjective
+    html: |-
+      [toshiteha] always follows a noun, whereas [warini] can be used after a noun or adjective<br/>&lt;font color=red&gt;<br/>noun + toshite ha<br/>noun + no wari ni<br/>&lt;/font&gt;<br/>先生としては、若いです。<br/>先生&lt;b&gt;の&lt;/b&gt;割りに、若いです<br/>for a teacher, he is young<br/><br/>&lt;font color=red&gt;<br/>adj + warini<br/>&lt;/font&gt;<br/>OK○　高い割りに、不味かった<br/>for the expensive price, it wasnt very tasty<br/><br/>NG×　高いとしては、不味かった　<br/>cannot use toshiteha after adjective
+    credits_raw: dc
+    content_sha256: 91365650568df72e52b522460e20607bef00696d023fa91e735d0f6412261385
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      toshiteha and [warini] imply that something is odd or unexpected. [toshite] and [nitotte] do not really have such an implication.
+
+      Comparison:
+      敏之としては、数学が上手です。
+      For Toshiyuki, he is good at math.
+      としては implies, perhaps, that Toshiyuki is usually bad at any academics, so it is odd that he is good at math. So the meaning might be, "for someone as stupid as Toshiyuki, it's amazing that he's actually good at math."
+
+      敏之にとって、数学が上手です。
+      For Toshiyuki, he is good at math.
+      にとって implies that Toshiyuki is normally good at math. So the meaning might be, "Toshiyuki is good at math, but we kinda all knew that already."
+    html: |-
+      toshiteha and [warini] imply that something is odd or unexpected. [toshite] and [nitotte] do not really have such an implication.<br/><br/>Comparison:<br/>敏之としては、数学が上手です。<br/>For Toshiyuki, he is good at math.<br/>としては implies, perhaps, that Toshiyuki is usually bad at any academics, so it is odd that he is good at math. So the meaning might be, "for someone as stupid as Toshiyuki, it's amazing that he's actually good at math."<br/><br/>敏之にとって、数学が上手です。<br/>For Toshiyuki, he is good at math.<br/>にとって implies that Toshiyuki is normally good at math. So the meaning might be, "Toshiyuki is good at math, but we kinda all knew that already."
+    credits_raw: gtunak85
+    content_sha256: 1f01bd0253e1240fa84ea2e154ad913dfffd6ad0f522c224dd9882fd4b2b891c
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      ＊This is a compound particle which indicates a standard for comparisons.
+
+      FORMATION:
+      Ｎ + としては
+
+      ＊Be careful! として ([toshite]) has a different connotation. See that entry for more.
+    html: |-
+      ＊This is a compound particle which indicates a standard for comparisons.<br/><br/>FORMATION:<br/>Ｎ + としては<br/><br/>＊Be careful! として ([toshite]) has a different connotation. See that entry for more.
+    credits_raw: rubyhatchet
+    content_sha256: 584a498c7c53c5cfd7932eef397c285b78f875fcd51798809b3ba3892cb3d201
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: is this different from [toshite], or just toshite + ha ?
+    html: is this different from [toshite], or just toshite + ha ?
+    credits_raw: dc
+    content_sha256: 7ff1ac60ac24c75d33a4b7b419b7afdd3e999bdc5526d02a29ea07370b9746cd
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      do these have any subtlety of different meaning?
+      　先生として　　若いです。
+       先生としては、若いです。
+    html: |-
+      do these have any subtlety of different meaning?<br/>　先生として　　若いです。<br/> 先生としては、若いです。
+    credits_raw: dc
+    content_sha256: 1e25a8f62db3ef1344466e42079bddcbc6a74e46f5d2ed84d8cdf7848d93be3d
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      I don't think so, and は is added as a selective emphasis. However, one would not normally hear the first sentence and the second is common.
+    html: |-
+      I don't think so, and は is added as a selective emphasis. However, one would not normally hear the first sentence and the second is common.
+    credits_raw: bamboo4
+    content_sha256: b9bdfec469e4b56624bcb768fec86ea615214b04fa38e028fa264731afd7e493
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      It seems like としては and 割りに imply something odd and conflicting, opposed to normal statements [toshite] and [nitotte]. For example, in the examples, a teacher is expected to be older, an expensive food is expected to be tasty, and a student who is only first year isn't expected to be so good. [toshite] and [nitotte]'s examples do not imply something odd.
+    html: |-
+      It seems like としては and 割りに imply something odd and conflicting, opposed to normal statements [toshite] and [nitotte]. For example, in the examples, a teacher is expected to be older, an expensive food is expected to be tasty, and a student who is only first year isn't expected to be so good. [toshite] and [nitotte]'s examples do not imply something odd.
+    credits_raw: gtunak85
+    content_sha256: de51830fc0f15461b76c3afad56440541372041952cb1313faa55155f989209c
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      that seems like a good explanation, thanks!
+      can you add it to the notes field at the top?
+    html: |-
+      that seems like a good explanation, thanks!<br/>can you add it to the notes field at the top?
+    credits_raw: dc
+    content_sha256: 5fa5a3af1df97bca3e534954977558ff139d67d105e978dd36b50390ad498b5e
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      I'm sorry to say but the は in this grammar form is the particle wa. In romnji it should be wa. Sorry. By the way, this is my first time on this site and so far I love it.
+    html: |-
+      I'm sorry to say but the は in this grammar form is the particle wa. In romnji it should be wa. Sorry. By the way, this is my first time on this site and so far I love it.
+    credits_raw: Tori
+    content_sha256: 87b2e8c1b8eb69573865bbdc8c7ab947cea3d8fa6aa2b5a0a0375c75350309ad
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      In Hepburn Ro-maji (ヘボン式ローマ字), the general consensus is that the particle は is written as "ha", even though the English pronunciation is more like a "wa". e.g. watashi ha blabby desu.
+    html: |-
+      In Hepburn Ro-maji (ヘボン式ローマ字), the general consensus is that the particle は is written as "ha", even though the English pronunciation is more like a "wa". e.g. watashi ha blabby desu.
+    credits_raw: blabby
+    content_sha256: d86630309889a3ab939b8fb3106087f135dc9b794f66dcd7c3ae1ba550eb5733
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: I see...
+    html: I see...
+    credits_raw: Tori
+    content_sha256: c081d515ddbf001c807dabc48a03be204718e1c8f2c69e8a57596e7abab998f0
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      Actually that is not true, if we follow the Hepburn romanization system the particle は should be written as "wa", see also http://en.wikipedia.org/wiki/Hepburn_romanization .
+    html: |-
+      Actually that is not true, if we follow the Hepburn romanization system the particle は should be written as "wa", see also http://en.wikipedia.org/wiki/Hepburn_romanization .
+    credits_raw: Rafal
+    content_sha256: 3291645258688b3c4677c88ed3df84949fc4103681fb9de2839644d5e9eac9fc
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: writting it as 'wa' would be too confusing, as it is written as は in japanese not わ wa.
+    html: writting it as 'wa' would be too confusing, as it is written as は in japanese not わ wa.
+    credits_raw: karekora
+    content_sha256: d9ce780113e8df19848f0dc9236ed113b112a79a063397377392a824f7e779bd
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      I don`t know about hepburn ro-maji/ romanji system or anything that complicated, but it seems that japanese people use the ha when they type in romanji, so I think it is best to follow in their example. if you confused by a ha in a place that it doesn`t make sense then your probably looking at the は particle. if you use wa in your emails to japanese friends you soon find that they don`t understand what your talking about. Japanese isn`t as mistake friendly as English.
+    html: |-
+      I don`t know about hepburn ro-maji/ romanji system or anything that complicated, but it seems that japanese people use the ha when they type in romanji, so I think it is best to follow in their example. if you confused by a ha in a place that it doesn`t make sense then your probably looking at the は particle. if you use wa in your emails to japanese friends you soon find that they don`t understand what your talking about. Japanese isn`t as mistake friendly as English.
+    credits_raw: tigert
+    content_sha256: 6cfff2e009d72b2a75a54db753c722fbb0f0d0742dbabe111d6dad93da66f960
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      dcさん、
+
+      I think that for 先生としては、若いです, this sentence places more emphasis on particle は。 in a sense, it focuses on the contradiction that even though the person is a teacher, they're still young.
+
+      compare to 先生として若いです, that implied contrast and comparison from particle は is lost and so we don't have that sort of connotation in this sentence. but as bamboo4さん said, this sentence wouldn't really be heard and if you think about it doesn't make much sense. if 先生として can be translated as "in their role as a teacher" what does anything about them being young have to do with their role if we use this grammar?
+    html: |-
+      dcさん、<br/><br/>I think that for 先生としては、若いです, this sentence places more emphasis on particle は。 in a sense, it focuses on the contradiction that even though the person is a teacher, they're still young.<br/><br/>compare to 先生として若いです, that implied contrast and comparison from particle は is lost and so we don't have that sort of connotation in this sentence. but as bamboo4さん said, this sentence wouldn't really be heard and if you think about it doesn't make much sense. if 先生として can be translated as "in their role as a teacher" what does anything about them being young have to do with their role if we use this grammar?
+    credits_raw: Tetsuzan
+    content_sha256: b3aa3a6b6cf299419ea2e5d184de32086d4af26373a8ff6c88cd160c7cfdef94
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: |-
+      With regard to the discussion about how to spell は in romaji, can I just add one point: since we are here studying the language, the key requirement is for all readers to be able to determine which は is ha and which は is wa, and to learn the right way of using the expressions. What is polite or traditional in emails etc is less relevant. Who would write emails in romaji anyway??
+    html: |-
+      With regard to the discussion about how to spell は in romaji, can I just add one point: since we are here studying the language, the key requirement is for all readers to be able to determine which は is ha and which は is wa, and to learn the right way of using the expressions. What is polite or traditional in emails etc is less relevant. Who would write emails in romaji anyway??
+    credits_raw: Celesta
+    content_sha256: 86c7d759e12bb03ac3ce445cd47a3e60858f5fdf0f97b4fe9b1567df3d72b688
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: うちは豚肉はおいていないんだよ - Can anyone please tell me in this sentence what does は (coming after 豚肉) means?
+    html: うちは豚肉はおいていないんだよ - Can anyone please tell me in this sentence what does は (coming after 豚肉) means?
+    credits_raw: laser2302
+    content_sha256: ecf0b60211029a2c56d93bad95b36ecef9784df643bdac289e81796af31cd7c7
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: 彼は 学生としては 日本語が上手だ と思います。
+    html: 彼は 学生としては 日本語が上手だ と思います。
+    credits_raw: Bablu Hossain
+    content_sha256: ec6ec9edab2c6c47131de4cf5a142a522885860db036b3da185781cebe912849
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:39:26+00:00'
+response_sha256: b917774d3106693effa6fb70f3002f0e4d3a891df16b41ed024380c7b83dd076
+warnings: []

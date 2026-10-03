@@ -1,0 +1,613 @@
+schema_version: 2
+id: 1486
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1486/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: それで
+romanized_label: sorede
+alternate_forms: []
+jlpt_level: 3
+credits_raw: pan
+meaning: and then, after that; Due to that
+meaning_example: Then, what happened? /Due to a early frost, the apple harvest will be small this year.
+meaning_notes:
+  - language: ja
+    text: そして、その後；それだから、そういうわけで
+    html: そして、その後；それだから、そういうわけで
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1486
+    body_text: |-
+      and then, after that; Due to that 
+       Then, what happened? /Due to a early frost, the apple harvest will be small this year. 
+       そして、その後；それだから、そういうわけで
+    body_html: |-
+      <span>and then, after that; Due to that</span> <br/> <span>Then, what happened? /Due to a early frost, the apple harvest will be small this year.</span> <br/> <span>そして、その後；それだから、そういうわけで</span>
+    credits_raw: pan
+formations: []
+examples:
+  - source_id: 5037
+    position: 0
+    japanese: 朝寝坊した。それで仕事に遅れたんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%9d%e5%af%9d%e5%9d%8a%e3%81%97%e3%81%9f%e3%80%82"><span>朝寝坊した。</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%ab%e9%81%85%e3%82%8c%e3%81%9f%e3%82%93%e3%81%a0%e3%80%82"><span>仕事に遅れたんだ。</span></a>
+    segments:
+      - text: 朝寝坊した。
+        grammar_highlight: false
+      - text: それで
+        grammar_highlight: true
+      - text: 仕事に遅れたんだ。
+        grammar_highlight: false
+    reading: あさねぼうした。それでしごとにおくれたんだ。
+    credits_raw: pan
+    translations:
+      - language: en
+        text: I overslept. Due to that,  I was late for work.
+        html: |-
+          <span>I overslept. </span><strong>Due to that, </strong><span> I was late for work. </span>
+        segments:
+          - text: 'I overslept. '
+            grammar_highlight: false
+          - text: 'Due to that, '
+            grammar_highlight: true
+          - text: ' I was late for work. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5038
+    position: 1
+    japanese: ３時のバスで行こうよ。それでいいかい？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%93%e6%99%82%e3%81%ae%e3%83%90%e3%82%b9%e3%81%a7"><span>３時のバスで</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%93%e3%81%86%e3%82%88%e3%80%82"><span>行こうよ。</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%84%e3%81%8b%e3%81%84"><span>いいかい</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: ３時のバスで行こうよ。
+        grammar_highlight: false
+      - text: それで
+        grammar_highlight: true
+      - text: いいかい？
+        grammar_highlight: false
+    reading: ３じのバスでいこうよ。それでいいかい？
+    credits_raw: pan
+    translations:
+      - language: en
+        text: I say we catch the 3 o'clock bus. Is that alright with you?
+        html: |-
+          <span>I say we catch the 3 o'clock bus. </span><strong>Is that </strong><span>alright with you? </span>
+        segments:
+          - text: 'I say we catch the 3 o''clock bus. '
+            grammar_highlight: false
+          - text: 'Is that '
+            grammar_highlight: true
+          - text: 'alright with you? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5039
+    position: 2
+    japanese: それでどうなりましたか？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%81%8b%ef%bc%9f"><span>どうなりましたか？</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: どうなりましたか？
+        grammar_highlight: false
+    reading: それでどうなりましたか？
+    credits_raw: pan
+    translations:
+      - language: en
+        text: And then  what happened?
+        html: |-
+          <strong>And then </strong><span> what happened? </span>
+        segments:
+          - text: 'And then '
+            grammar_highlight: true
+          - text: ' what happened? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5043
+    position: 3
+    japanese: それでこのカードに記入してください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%ab%e3%83%bc%e3%83%89%e3%81%ab"><span>このカードに</span></a><a href="https://takoboto.jp/?q=%e8%a8%98%e5%85%a5%e3%81%97%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>記入してください。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: このカードに記入してください。
+        grammar_highlight: false
+    reading: それでこのカードにきにゅうしてください。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Then you just have to fill out this card.
+        html: |-
+          <span>Then you just have to fill out this card. </span>
+        segments:
+          - text: 'Then you just have to fill out this card. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5044
+    position: 4
+    japanese: それでこれ以上の義務を負わなくてよくなる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c"><span>これ</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a%e3%81%ae"><span>以上の</span></a><a href="https://takoboto.jp/?q=%e7%be%a9%e5%8b%99%e3%82%92"><span>義務を</span></a><a href="https://takoboto.jp/?q=%e8%b2%a0%e3%82%8f%e3%81%aa%e3%81%8f%e3%81%a6%e3%82%88%e3%81%8f%e3%81%aa%e3%82%8b%e3%80%82"><span>負わなくてよくなる。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: これ以上の義務を負わなくてよくなる。
+        grammar_highlight: false
+    reading: それでこれいじょうのぎむをおわなくてよくなる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: That absolves me from further responsibility.
+        html: |-
+          <span>That absolves me from further responsibility. </span>
+        segments:
+          - text: 'That absolves me from further responsibility. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5045
+    position: 5
+    japanese: それでしたら今日いらしてください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%9f%e3%82%89"><span>したら</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%84%e3%82%89%e3%81%97%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>今日いらしてください。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: したら今日いらしてください。
+        grammar_highlight: false
+    reading: それでしたらきょういらしてください。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: In that case, I think you should come in today.
+        html: |-
+          <span>In that case, I think you should come in today. </span>
+        segments:
+          - text: 'In that case, I think you should come in today. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5046
+    position: 6
+    japanese: それでそのうわさが本当である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%81%86%e3%82%8f%e3%81%95%e3%81%8c"><span>そのうわさが</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>本当である。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: そのうわさが本当である。
+        grammar_highlight: false
+    reading: それでそのうわさがほんとうである。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It proved the truth of the rumor.
+        html: |-
+          <span>It proved the truth of the rumor. </span>
+        segments:
+          - text: 'It proved the truth of the rumor. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5047
+    position: 7
+    japanese: それでだいぶ手間が省ける。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%84%e3%81%b6"><span>だいぶ</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e9%96%93%e3%81%8c"><span>手間が</span></a><a href="https://takoboto.jp/?q=%e7%9c%81%e3%81%91%e3%82%8b%e3%80%82"><span>省ける。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: だいぶ手間が省ける。
+        grammar_highlight: false
+    reading: それでだいぶてまがはぶける。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: That will save me a lot of trouble.
+        html: |-
+          <span>That will save me a lot of trouble. </span>
+        segments:
+          - text: 'That will save me a lot of trouble. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5048
+    position: 8
+    japanese: それでは、あなたは来ないということですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%80%81%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>は、あなたは</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>来ないということですか。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: は、あなたは来ないということですか。
+        grammar_highlight: false
+    reading: それでは、あなたはこないということですか。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Does that mean you won't come?
+        html: |-
+          <span>Does </span><strong>that </strong><span>mean you won't come? </span>
+        segments:
+          - text: 'Does '
+            grammar_highlight: false
+          - text: 'that '
+            grammar_highlight: true
+          - text: 'mean you won''t come? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5049
+    position: 9
+    japanese: それでは、またの機会ということに。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%80%81%e3%81%be%e3%81%9f%e3%81%ae"><span>は、またの</span></a><a href="https://takoboto.jp/?q=%e6%a9%9f%e4%bc%9a%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%ab%e3%80%82"><span>機会ということに。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: は、またの機会ということに。
+        grammar_highlight: false
+    reading: それでは、またのきかいということに。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Well, let's make it some other time.
+        html: |-
+          <span>Well, let's make it some other time. </span>
+        segments:
+          - text: 'Well, let''s make it some other time. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5050
+    position: 10
+    japanese: それでは、失礼いたします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%80%81"><span>は、</span></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e7%a4%bc%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>失礼いたします。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: は、失礼いたします。
+        grammar_highlight: false
+    reading: それでは、しつれいいたします。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Uh, will you excuse me?
+        html: |-
+          <span>Uh, will you excuse me? </span>
+        segments:
+          - text: 'Uh, will you excuse me? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5051
+    position: 11
+    japanese: それでは、習慣は人間生活の偉大な道しるべである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%80%81"><span>は、</span></a><a href="https://takoboto.jp/?q=%e7%bf%92%e6%85%a3%e3%81%af"><span>習慣は</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e7%94%9f%e6%b4%bb%e3%81%ae"><span>人間生活の</span></a><a href="https://takoboto.jp/?q=%e5%81%89%e5%a4%a7%e3%81%aa"><span>偉大な</span></a><a href="https://takoboto.jp/?q=%e9%81%93%e3%81%97%e3%82%8b%e3%81%b9%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>道しるべである。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: は、習慣は人間生活の偉大な道しるべである。
+        grammar_highlight: false
+    reading: それでは、しゅうかんはにんげんせいかつのいだいなみちしるべである。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Custom, then, is the great guide of human life.
+        html: |-
+          <span>Custom, then, is the great guide of human life. </span>
+        segments:
+          - text: 'Custom, then, is the great guide of human life. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5052
+    position: 12
+    japanese: 「それではおまえにねこを一匹とってきてあげよう」と、おじいさんはいいました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%81%be%e3%81%88%e3%81%ab%e3%81%ad%e3%81%93%e3%82%92"><span>はおまえにねこを</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%8c%b9%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%a6%e3%81%82%e3%81%92%e3%82%88%e3%81%86%e3%80%8d%e3%81%a8%e3%80%81%e3%81%8a%e3%81%98%e3%81%84%e3%81%95%e3%82%93%e3%81%af%e3%81%84%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>一匹とってきてあげよう」と、おじいさんはいいました。</span></a>
+    segments:
+      - text: 「
+        grammar_highlight: false
+      - text: それで
+        grammar_highlight: true
+      - text: はおまえにねこを一匹とってきてあげよう」と、おじいさんはいいました。
+        grammar_highlight: false
+    reading: 「それではおまえにねこをいちひきとってきてあげよう」と、おじいさんはいいました。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: '"I will get you a cat, my dear," said the very old man.'
+        html: |-
+          <span>"I will get you a cat, my dear," said the very old man. </span>
+        segments:
+          - text: '"I will get you a cat, my dear," said the very old man. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5053
+    position: 13
+    japanese: それではそろそろ失礼します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%9d%e3%82%8d%e3%81%9d%e3%82%8d"><span>はそろそろ</span></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e7%a4%bc%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>失礼します。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: はそろそろ失礼します。
+        grammar_highlight: false
+    reading: それではそろそろしつれいします。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Well, I must be going.
+        html: |-
+          <span>Well, I must be going. </span>
+        segments:
+          - text: 'Well, I must be going. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5054
+    position: 14
+    japanese: それではまるで話がちがう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%be%e3%82%8b%e3%81%a7"><span>はまるで</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%8c%e3%81%a1%e3%81%8c%e3%81%86%e3%80%82"><span>話がちがう。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: はまるで話がちがう。
+        grammar_highlight: false
+    reading: それではまるではなしがちがう。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: That's quite another thing.
+        html: |-
+          <span>That's quite another thing. </span>
+        segments:
+          - text: 'That''s quite another thing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5055
+    position: 15
+    japanese: それではテキストの１０ページを開いて下さい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%81%ae"><span>はテキストの</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%ef%bc%90%e3%83%9a%e3%83%bc%e3%82%b8%e3%82%92"><span>１０ページを</span></a><a href="https://takoboto.jp/?q=%e9%96%8b%e3%81%84%e3%81%a6"><span>開いて</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84%e3%80%82"><span>下さい。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: はテキストの１０ページを開いて下さい。
+        grammar_highlight: false
+    reading: それではテキストの１０ページをひらいてください。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: And open your textbook to page 10.
+        html: |-
+          <span>And open your textbook to page 10. </span>
+        segments:
+          - text: 'And open your textbook to page 10. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5056
+    position: 16
+    japanese: それでは音楽をお楽しみください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%af"><span>は</span></a><a href="https://takoboto.jp/?q=%e9%9f%b3%e6%a5%bd%e3%82%92%e3%81%8a"><span>音楽をお</span></a><a href="https://takoboto.jp/?q=%e6%a5%bd%e3%81%97%e3%81%bf%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>楽しみください。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: は音楽をお楽しみください。
+        grammar_highlight: false
+    reading: それではおんがくをおたのしみください。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Now let me entertain you with music.
+        html: |-
+          <span>Now let me entertain you with music. </span>
+        segments:
+          - text: 'Now let me entertain you with music. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5057
+    position: 17
+    japanese: それでは何も起こらないよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e3%81%af"><span>は</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%82"><span>何も</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%93%e3%82%89%e3%81%aa%e3%81%84%e3%82%88%e3%80%82"><span>起こらないよ。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: は何も起こらないよ。
+        grammar_highlight: false
+    reading: それではなにもおこらないよ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It will get you nowhere.
+        html: |-
+          <span>It will get you nowhere. </span>
+        segments:
+          - text: 'It will get you nowhere. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6954
+    position: 18
+    japanese: 病気の母が泣いて止めたけれど、それでも留学したい気持ちは変わらなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%97%85%e6%b0%97%e3%81%ae"><span>病気の</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%8c"><span>母が</span></a><a href="https://takoboto.jp/?q=%e6%b3%a3%e3%81%84%e3%81%a6"><span>泣いて</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%82%81%e3%81%9f%e3%81%91%e3%82%8c%e3%81%a9%e3%80%81"><span>止めたけれど、</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7%e3%82%82"><strong>それでも</strong></a><a href="https://takoboto.jp/?q=%e7%95%99%e5%ad%a6%e3%81%97%e3%81%9f%e3%81%84"><span>留学したい</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e6%8c%81%e3%81%a1%e3%81%af"><span>気持ちは</span></a><a href="https://takoboto.jp/?q=%e5%a4%89%e3%82%8f%e3%82%89%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>変わらなかった。</span></a>
+    segments:
+      - text: 病気の母が泣いて止めたけれど、
+        grammar_highlight: false
+      - text: それでも
+        grammar_highlight: true
+      - text: 留学したい気持ちは変わらなかった。
+        grammar_highlight: false
+    reading: びょうきのははがないてとめたけれど、それでもりゅうがくしたいきもちはかわらなかった。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: My ill mother stopped crying but even after that my desire for studying overseas didn't change.
+        html: |-
+          <span>My ill mother stopped crying but </span><strong>even after that </strong><span>my desire for studying overseas didn't change. </span>
+        segments:
+          - text: 'My ill mother stopped crying but '
+            grammar_highlight: false
+          - text: 'even after that '
+            grammar_highlight: true
+          - text: 'my desire for studying overseas didn''t change. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8445
+    position: 19
+    japanese: 「それで彼方は６時にこの部屋にいましたね」　「そうです」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e6%96%b9%e3%81%af"><span>彼方は</span></a><a href="https://takoboto.jp/?q=%ef%bc%96%e6%99%82%e3%81%ab%e3%81%93%e3%81%ae"><span>６時にこの</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%81%ab%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%81%ad%e3%80%8d%e3%80%80%e3%80%8c%e3%81%9d%e3%81%86%e3%81%a7%e3%81%99%e3%80%8d"><span>部屋にいましたね」　「そうです」</span></a>
+    segments:
+      - text: 「
+        grammar_highlight: false
+      - text: それで
+        grammar_highlight: true
+      - text: 彼方は６時にこの部屋にいましたね」　「そうです」
+        grammar_highlight: false
+    reading: 「それでかなたは６じにこのへやにいましたね」「そうです」
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: '"And you were in this room at six, weren`t you?”　”Yes".'
+        html: |-
+          <span>"And you were in this room at six, weren`t you?”　”Yes". </span>
+        segments:
+          - text: '"And you were in this room at six, weren`t you?”　”Yes". '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8446
+    position: 20
+    japanese: それで彼は私のうちへ来たのね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae%e3%81%86%e3%81%a1%e3%81%b8"><span>私のうちへ</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%81%9f%e3%81%ae%e3%81%ad%e3%80%82"><span>来たのね。</span></a>
+    segments:
+      - text: それで
+        grammar_highlight: true
+      - text: 彼は私のうちへ来たのね。
+        grammar_highlight: false
+    reading: それでかれはわたしのうちへきたのね。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: So he came over to my place, you know.
+        html: |-
+          <span>So he came over to my place, you know. </span>
+        segments:
+          - text: 'So he came over to my place, you know. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8447
+    position: 21
+    japanese: 彼女は寝過ごした、それで列車に乗り遅れたんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e5%af%9d%e9%81%8e%e3%81%94%e3%81%97%e3%81%9f%e3%80%81"><span>寝過ごした、</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a7"><strong>それで</strong></a><a href="https://takoboto.jp/?q=%e5%88%97%e8%bb%8a%e3%81%ab"><span>列車に</span></a><a href="https://takoboto.jp/?q=%e4%b9%97%e3%82%8a"><span>乗り</span></a><a href="https://takoboto.jp/?q=%e9%81%85%e3%82%8c%e3%81%9f%e3%82%93%e3%81%a0%e3%80%82"><span>遅れたんだ。</span></a>
+    segments:
+      - text: 彼女は寝過ごした、
+        grammar_highlight: false
+      - text: それで
+        grammar_highlight: true
+      - text: 列車に乗り遅れたんだ。
+        grammar_highlight: false
+    reading: かのじょはねすごした、それでれっしゃにのりおくれたんだ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: She overslept, so that she missed the train.
+        html: |-
+          <span>She overslept, so that she missed the train. </span>
+        segments:
+          - text: 'She overslept, so that she missed the train. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: それでis quite different from それでいて but relates well with それでも、それでこそ、それでは、and それでなくても.
+    html: それでis quite different from それでいて but relates well with それでも、それでこそ、それでは、and それでなくても.
+    credits_raw: pan
+    content_sha256: cd414229e661bb83f3243fe680daa0ea71fb97be037208d394faa641411e7918
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: ｢それでいて｣と｢それで｣の違いはなんだろう。
+    html: ｢それでいて｣と｢それで｣の違いはなんだろう。
+    credits_raw: nazonatte69
+    content_sha256: 6be61b05cb4809567163ba1f20615b7c380bf0127f2765ff89a7a91039ab9549
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Since when did おまえ translate to my dear????? ex 5052
+    html: Since when did おまえ translate to my dear????? ex 5052
+    credits_raw: tigert
+    content_sha256: e88fe83e9d6ca2cc46667b0726f3fbd19b0b3c03393aa9de6c264bcd38c20f6f
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      赤毛 I think the かい used in [#5038] is right. か and かい have the same function where か is a general purpose form and [かい] is used to speak to indivduals that are lower than you on the social ladder.
+    html: |-
+      赤毛 I think the かい used in [#5038] is right. か and かい have the same function where か is a general purpose form and [かい] is used to speak to indivduals that are lower than you on the social ladder.
+    credits_raw: tigert
+    content_sha256: 7d85b3341a75d3e1cfd0279d149fa3b23dcb947392b9cdf9e3b25e5b30cab007
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Tigertさん, I think that in ex #5052, my dear is some expression of irony. The general meaning seems to be that the old man was victim of a trap and is now promising another one to his adversary.
+      In ex#5038 I suppose the japanese text ends in "か？" and not in "かい？".
+      (Thanks for your explanation here below. )
+    html: |-
+      Tigertさん, I think that in ex #5052, my dear is some expression of irony. The general meaning seems to be that the old man was victim of a trap and is now promising another one to his adversary.<br/>In ex#5038 I suppose the japanese text ends in "か？" and not in "かい？".<br/>(Thanks for your explanation here below. )
+    credits_raw: 赤毛
+    content_sha256: 442f1343a66fefbbf9d4ad16b1f1f4a5ccef6cbb68559318cbed1fc113649963
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: '6954: haha is my mother, so the English sentence should be changed.'
+    html: '6954: haha is my mother, so the English sentence should be changed.'
+    credits_raw: amenya
+    content_sha256: f6b5e4531c15c80c1f5d74dddc28da041b3359751b505d76d0e64d0e33cbbcc1
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: Thanks for your alert. Do you think the English sentence is correct now?
+    html: Thanks for your alert. Do you think the English sentence is correct now?
+    credits_raw: 赤毛
+    content_sha256: b6070d50190efef0337b3b4b6fee7f023a30e10ef1e898d262930bf61385bd40
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:00+00:00'
+response_sha256: 37b549391456ab49c58bf655279f3108b01ba983c7950f9b2a8776a65f9ee161
+warnings: []

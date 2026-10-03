@@ -1,0 +1,330 @@
+schema_version: 2
+id: 1547
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1547/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: もさることながら (も然る事乍ら)
+romanized_label: mosarukotonagara
+alternate_forms: []
+jlpt_level: 1
+credits_raw: Paul
+meaning: is (such) but (____) is also
+meaning_example: of course talent is important but practice cannot be neglected
+meaning_notes:
+  - language: ja
+    text: 〜もそうだが、そればかりでなく。前のことも勿論だが、後のことの方がもっと度合いが強いということを表す。
+    html: 〜もそうだが、そればかりでなく。前のことも勿論だが、後のことの方がもっと度合いが強いということを表す。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1547
+    body_text: |-
+      is (such) but (____) is also 
+       of course talent is important but practice cannot be neglected 
+       〜もそうだが、そればかりでなく。前のことも勿論だが、後のことの方がもっと度合いが強いということを表す。
+    body_html: |-
+      <span>is (such) but (____) is also</span> <br/> <span>of course talent is important but practice cannot be neglected</span> <br/> <span>〜もそうだが、そればかりでなく。前のことも勿論だが、後のことの方がもっと度合いが強いということを表す。</span>
+    credits_raw: Paul
+formations: []
+examples:
+  - source_id: 6066
+    position: 0
+    japanese: アメリカではバスケもさることながらアメフトも人気だ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%a7%e3%81%af%e3%83%90%e3%82%b9%e3%82%b1"><span>アメリカではバスケ</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89"><strong>もさることながら</strong></a><a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%a1%e3%83%95%e3%83%88%e3%82%82"><span>アメフトも</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e6%b0%97%e3%81%a0"><span>人気だ</span></a>
+    segments:
+      - text: アメリカではバスケ
+        grammar_highlight: false
+      - text: もさることながら
+        grammar_highlight: true
+      - text: アメフトも人気だ
+        grammar_highlight: false
+    reading: アメリカではバスケもさることながらもにんきだ
+    credits_raw: danie115
+    translations:
+      - language: en
+        text: In America, Basketball is clearly popular but so is Football.
+        html: |-
+          <span>In America, Basketball is clearly popular but so is Football. </span>
+        segments:
+          - text: 'In America, Basketball is clearly popular but so is Football. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5747
+    position: 1
+    japanese: 路上駐車の問題解決には、自治体の対応もさることながら、地域住民の態度も大切な要素となる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%b7%af%e4%b8%8a%e9%a7%90%e8%bb%8a%e3%81%ae"><span>路上駐車の</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e8%a7%a3%e6%b1%ba%e3%81%ab%e3%81%af%e3%80%81"><span>問題解決には、</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e6%b2%bb%e4%bd%93%e3%81%ae"><span>自治体の</span></a><a href="https://takoboto.jp/?q=%e5%af%be%e5%bf%9c"><span>対応</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89"><strong>もさることながら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%9c%b0%e5%9f%9f%e4%bd%8f%e6%b0%91%e3%81%ae"><span>地域住民の</span></a><a href="https://takoboto.jp/?q=%e6%85%8b%e5%ba%a6%e3%82%82"><span>態度も</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%88%87%e3%81%aa"><span>大切な</span></a><a href="https://takoboto.jp/?q=%e8%a6%81%e7%b4%a0%e3%81%a8%e3%81%aa%e3%82%8b%e3%80%82"><span>要素となる。</span></a>
+    segments:
+      - text: 路上駐車の問題解決には、自治体の対応
+        grammar_highlight: false
+      - text: もさることながら
+        grammar_highlight: true
+      - text: 、地域住民の態度も大切な要素となる。
+        grammar_highlight: false
+    reading: ろじょうちゅうしゃのもんだいかいけつには、じちたいのたいおうもさることながら、ちいきじゅうみんのたいどもたいせつなようそとなる。
+    credits_raw: Paul
+    translations:
+      - language: en
+        text: |-
+          In solving the problem of street-parking of cars the response of the council is obviously important but the attitude of the local residents is also a significant factor.
+        html: |-
+          <span>In solving the problem of street-parking of cars the response of the council </span><strong>is obviously </strong><span>important but the attitude of the local residents </span><strong>is also </strong><span>a significant factor. </span>
+        segments:
+          - text: 'In solving the problem of street-parking of cars the response of the council '
+            grammar_highlight: false
+          - text: 'is obviously '
+            grammar_highlight: true
+          - text: 'important but the attitude of the local residents '
+            grammar_highlight: false
+          - text: 'is also '
+            grammar_highlight: true
+          - text: 'a significant factor. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6267
+    position: 2
+    japanese: 両親の意向もさることながら、子供自身が有名校にあこがれている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%a1%e8%a6%aa%e3%81%ae"><span>両親の</span></a><a href="https://takoboto.jp/?q=%e6%84%8f%e5%90%91"><span>意向</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89"><strong>もさることながら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e8%87%aa%e8%ba%ab%e3%81%8c"><span>子供自身が</span></a><a href="https://takoboto.jp/?q=%e6%9c%89%e5%90%8d%e6%a0%a1%e3%81%ab%e3%81%82%e3%81%93%e3%81%8c%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>有名校にあこがれている。</span></a>
+    segments:
+      - text: 両親の意向
+        grammar_highlight: false
+      - text: もさることながら
+        grammar_highlight: true
+      - text: 、子供自身が有名校にあこがれている。
+        grammar_highlight: false
+    reading: りょうしんのいこうもさることながら、こどもじしんがゆうめいこうにあこがれている。
+    credits_raw: khongbietboi
+    translations:
+      - language: en
+        text: Not only intention of the parents, the child himself has yearned to the famous school.
+        html: |-
+          <strong>Not only </strong><span>intention of the parents, the child himself has yearned to the famous school. </span>
+        segments:
+          - text: 'Not only '
+            grammar_highlight: true
+          - text: 'intention of the parents, the child himself has yearned to the famous school. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7946
+    position: 3
+    japanese: この図書館は蔵書の多さもさることながらサービスが実にすばらしい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%9b%b3%e6%9b%b8%e9%a4%a8%e3%81%af"><span>図書館は</span></a><a href="https://takoboto.jp/?q=%e8%94%b5%e6%9b%b8%e3%81%ae"><span>蔵書の</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%95"><span>多さ</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89"><strong>もさることながら</strong></a><a href="https://takoboto.jp/?q=%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%8c"><span>サービスが</span></a><a href="https://takoboto.jp/?q=%e5%ae%9f%e3%81%ab%e3%81%99%e3%81%b0%e3%82%89%e3%81%97%e3%81%84%e3%80%82"><span>実にすばらしい。</span></a>
+    segments:
+      - text: この図書館は蔵書の多さ
+        grammar_highlight: false
+      - text: もさることながら
+        grammar_highlight: true
+      - text: サービスが実にすばらしい。
+        grammar_highlight: false
+    reading: このとしょかんはぞうしょのおおさもさることながらサービスがじつにすばらしい。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: This library's large collection of books is one thing, but the services they provide are really wonderful.
+        html: |-
+          <span>This library's large collection of books is one thing, but the services they provide are really wonderful. </span>
+        segments:
+          - text: 'This library''s large collection of books is one thing, but the services they provide are really wonderful. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7947
+    position: 4
+    japanese: 高齢化が進むにつれ、認知症老人の介護が問題になっているが、これかれは、介護のこともさることながらぼけをいかに予防するかがさらに重要だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%ab%98%e9%bd%a2%e5%8c%96%e3%81%8c"><span>高齢化が</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%80%e3%81%ab%e3%81%a4%e3%82%8c%e3%80%81"><span>進むにつれ、</span></a><a href="https://takoboto.jp/?q=%e8%aa%8d%e7%9f%a5%e7%97%87%e8%80%81%e4%ba%ba%e3%81%ae"><span>認知症老人の</span></a><a href="https://takoboto.jp/?q=%e4%bb%8b%e8%ad%b7%e3%81%8c"><span>介護が</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8c%e3%80%81%e3%81%93%e3%82%8c%e3%81%8b%e3%82%8c%e3%81%af%e3%80%81"><span>問題になっているが、これかれは、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8b%e8%ad%b7%e3%81%ae%e3%81%93%e3%81%a8"><span>介護のこと</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89"><strong>もさることながら</strong></a><a href="https://takoboto.jp/?q=%e3%81%bc%e3%81%91%e3%82%92%e3%81%84%e3%81%8b%e3%81%ab"><span>ぼけをいかに</span></a><a href="https://takoboto.jp/?q=%e4%ba%88%e9%98%b2%e3%81%99%e3%82%8b%e3%81%8b%e3%81%8c%e3%81%95%e3%82%89%e3%81%ab"><span>予防するかがさらに</span></a><a href="https://takoboto.jp/?q=%e9%87%8d%e8%a6%81%e3%81%a0%e3%80%82"><span>重要だ。</span></a>
+    segments:
+      - text: 高齢化が進むにつれ、認知症老人の介護が問題になっているが、これかれは、介護のこと
+        grammar_highlight: false
+      - text: もさることながら
+        grammar_highlight: true
+      - text: ぼけをいかに予防するかがさらに重要だ。
+        grammar_highlight: false
+    reading: こうれいかがすすむにつれ、にんちしょうろうじんのかいごがもんだいになっているが、これかれは、かいごのこともさることながらぼけをいかによぼうするかがさらにじゅうようだ。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          As the population has aged, the care of senile seniors has become a problem. It is true that from now on care will be an important issue, but the question of how to prevent people from becoming senile is more important.
+        html: |-
+          <span>As the population has aged, the care of senile seniors has become a problem. </span><strong>It is true that </strong><span>from now on care will be an important issue, </span><strong>but </strong><span>the question of how to prevent people from becoming senile is more important. </span>
+        segments:
+          - text: 'As the population has aged, the care of senile seniors has become a problem. '
+            grammar_highlight: false
+          - text: 'It is true that '
+            grammar_highlight: true
+          - text: 'from now on care will be an important issue, '
+            grammar_highlight: false
+          - text: 'but '
+            grammar_highlight: true
+          - text: 'the question of how to prevent people from becoming senile is more important. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7948
+    position: 5
+    japanese: 歌のうまさもさることながら彼女はピアノの名手なんです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%ad%8c%e3%81%ae%e3%81%86%e3%81%be%e3%81%95"><span>歌のうまさ</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89"><strong>もさることながら</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%83%94%e3%82%a2%e3%83%8e%e3%81%ae"><span>彼女はピアノの</span></a><a href="https://takoboto.jp/?q=%e5%90%8d%e6%89%8b%e3%81%aa%e3%82%93%e3%81%a7%e3%81%99%e3%80%82"><span>名手なんです。</span></a>
+    segments:
+      - text: 歌のうまさ
+        grammar_highlight: false
+      - text: もさることながら
+        grammar_highlight: true
+      - text: 彼女はピアノの名手なんです。
+        grammar_highlight: false
+    reading: うたのうまさもさることながらかのじょはピアノのめいしゅなんです。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: She is of course a skilled singer, but more significantly she is a master pianist.
+        html: |-
+          <span>She is of course a skilled singer, but more significantly she is a master pianist. </span>
+        segments:
+          - text: 'She is of course a skilled singer, but more significantly she is a master pianist. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7949
+    position: 6
+    japanese: 会話の練習では、話すこともさることながら、確実に聞き取ることが重要です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bc%9a%e8%a9%b1%e3%81%ae"><span>会話の</span></a><a href="https://takoboto.jp/?q=%e7%b7%b4%e7%bf%92%e3%81%a7%e3%81%af%e3%80%81"><span>練習では、</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%99%e3%81%93%e3%81%a8"><span>話すこと</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89"><strong>もさることながら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%a2%ba%e5%ae%9f%e3%81%ab"><span>確実に</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%8d"><span>聞き</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c"><span>取ることが</span></a><a href="https://takoboto.jp/?q=%e9%87%8d%e8%a6%81%e3%81%a7%e3%81%99%e3%80%82"><span>重要です。</span></a>
+    segments:
+      - text: 会話の練習では、話すこと
+        grammar_highlight: false
+      - text: もさることながら
+        grammar_highlight: true
+      - text: 、確実に聞き取ることが重要です。
+        grammar_highlight: false
+    reading: かいわのれんしゅうでは、はなすこともさることながら、かくじつにききとることがじゅうようです。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          When it comes to practicing conversation, speaking is obviously important, but moreover making sure you follow what is being said is essential.
+        html: |-
+          <span>When it comes to practicing conversation, speaking is obviously important, but moreover making sure you follow what is being said is essential. </span>
+        segments:
+          - text: "When it comes to practicing conversation, speaking is obviously important, but moreover making sure you follow what is being said is essential. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7950
+    position: 7
+    japanese: この合作映画は、作品の完成度の高さもさることながら、文化の異なるにこくが協力して一つの映画を完成させたという事実が非常に意義深い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e4%bd%9c%e6%98%a0%e7%94%bb%e3%81%af%e3%80%81"><span>合作映画は、</span></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e5%93%81%e3%81%ae"><span>作品の</span></a><a href="https://takoboto.jp/?q=%e5%ae%8c%e6%88%90%e5%ba%a6%e3%81%ae"><span>完成度の</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%95"><span>高さ</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89"><strong>もさることながら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%96%87%e5%8c%96%e3%81%ae"><span>文化の</span></a><a href="https://takoboto.jp/?q=%e7%95%b0%e3%81%aa%e3%82%8b%e3%81%ab%e3%81%93%e3%81%8f%e3%81%8c"><span>異なるにこくが</span></a><a href="https://takoboto.jp/?q=%e5%8d%94%e5%8a%9b%e3%81%97%e3%81%a6"><span>協力して</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e3%81%a4%e3%81%ae"><span>一つの</span></a><a href="https://takoboto.jp/?q=%e6%98%a0%e7%94%bb%e3%82%92"><span>映画を</span></a><a href="https://takoboto.jp/?q=%e5%ae%8c%e6%88%90%e3%81%95%e3%81%9b%e3%81%9f%e3%81%a8%e3%81%84%e3%81%86"><span>完成させたという</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e5%ae%9f%e3%81%8c"><span>事実が</span></a><a href="https://takoboto.jp/?q=%e9%9d%9e%e5%b8%b8%e3%81%ab"><span>非常に</span></a><a href="https://takoboto.jp/?q=%e6%84%8f%e7%be%a9%e6%b7%b1%e3%81%84%e3%80%82"><span>意義深い。</span></a>
+    segments:
+      - text: この合作映画は、作品の完成度の高さ
+        grammar_highlight: false
+      - text: もさることながら
+        grammar_highlight: true
+      - text: 、文化の異なるにこくが協力して一つの映画を完成させたという事実が非常に意義深い。
+        grammar_highlight: false
+    reading: このがっさくえいがは、さくひんのかんせいどのたかさもさることながら、ぶんかのことなるにこくがきょうりょくしてひとつのえいがをかんせいさせたというじじつがひじょうにいぎふかい。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          This jointluy produced movie is highly polished, but more importantly, the fact that two countries worked together and completed a film is in and of itself quite significant
+        html: |-
+          <span>This jointluy produced movie is highly polished, but more importantly, the fact that two countries worked together and completed a film is in and of itself quite significant </span>
+        segments:
+          - text: "This jointluy produced movie is highly polished, but more importantly, the fact that two countries worked together and completed a film is in and of itself quite significant "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8729
+    position: 8
+    japanese: 自国の経済発展もさることながら、地球環境についても真剣に考えなければならない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%87%aa%e5%9b%bd%e3%81%ae"><span>自国の</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e6%b8%88%e7%99%ba%e5%b1%95%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89%e3%80%81"><span>経済発展もさることながら、</span></a><a href="https://takoboto.jp/?q=%e5%9c%b0%e7%90%83%e7%92%b0%e5%a2%83%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%82%82"><span>地球環境についても</span></a><a href="https://takoboto.jp/?q=%e7%9c%9f%e5%89%a3%e3%81%ab"><span>真剣に</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84"><span>考えなければならない</span></a>
+    segments:
+      - text: 自国の経済発展もさることながら、地球環境についても真剣に考えなければならない
+        grammar_highlight: false
+    reading: じこくのけいざいはってんもさることながら、ちきゅうかんきょうについてもしんけんにかんがえなければならない
+    credits_raw: masakitenchi
+    translations:
+      - language: en
+        text: Though the development of the country is important, the protection of the environment is inevitable.
+        html: |-
+          <span>Though the development of the country is important, the protection of the environment is inevitable. </span>
+        segments:
+          - text: 'Though the development of the country is important, the protection of the environment is inevitable. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Not only~
+    html: Not only~
+    credits_raw: khongbietboi
+    content_sha256: b13ccda60f4659dc73afca12af725dc802d4dd968bd787cbe4971f02c9a102fe
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p48 - no.46'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p48 - no.46
+    credits_raw: LR
+    content_sha256: c02097af7b701d0292e0e310e9ec995715a6c3408bcbc710e499536624c1e2e2
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 'Ref # A Dictionary of Advanced Japanese Grammar p283'
+    html: |-
+      <b>Ref #</b> A Dictionary of Advanced Japanese Grammar p283
+    credits_raw: LR
+    content_sha256: b9e2363de195efa1654980811ffc71b77708820d5475accf4438d4f126b3ad26
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: A phrase used to mention something more significant
+    html: A phrase used to mention something more significant
+    credits_raw: LR
+    content_sha256: 10ed0ab7e22e5a426db95c7e1650156e2c153dcc307e8d1dc745a0af1d25b9aa
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      See daijirin entry on 然ること
+      http://dictionary.goo.ne.jp/search.php?MT=%A4%B5%A4%EB%A4%B3%A4%C8&kind=jn
+    html: |-
+      See daijirin entry on 然ること<br/>http://dictionary.goo.ne.jp/search.php?MT=%A4%B5%A4%EB%A4%B3%A4%C8&amp;kind=jn
+    credits_raw: Paul
+    content_sha256: fe2463f8646139b67e1de2377012c0c2a7337b41bfa7c23548ada7cd12dbdfb3
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      See entry "mo saru koto nagara"
+      http://www.geocities.com/easykanji/jlptgrammar.html
+    html: |-
+      See entry "mo saru koto nagara"<br/>http://www.geocities.com/easykanji/jlptgrammar.html
+    credits_raw: Paul
+    content_sha256: 95cbe9528fb0c5b39c8e321cae3b4b68c5caf02a4061cb3af6a35b336bf597cf
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1377
+    label: ながらも
+    source_url: https://takoboto.jp/bunpo/1377
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:43:16+00:00'
+response_sha256: 4ba9228ee6b5ac98663a2ea9b51cf717c1ea8f1f1505dc2200a9b7e16c99b268
+warnings: []

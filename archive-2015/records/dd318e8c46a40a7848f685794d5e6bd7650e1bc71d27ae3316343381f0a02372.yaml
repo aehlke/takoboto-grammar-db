@@ -1,0 +1,89 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1476
+label: In some manner
+title_raw: Dokotonaku ([どことなく] )(In some manner)
+title: Dokotonaku
+reading: どことなく
+romanized_label: In some manner
+category: grammar
+jlpt_level_original: '0'
+meaning: Vaguely; in some manner なんとなくに類似 - Dokotonaku
+meaning_example: Vaguely, in some manner
+credits_raw: bamboo4
+source_url: http://jgram.org/pages/viewOne.php?tagE=In%20some%20manner
+archive_url: https://web.archive.org/web/20150225005229id_/http://jgram.org/pages/viewOne.php?tagE=In%20some%20manner
+archive_timestamp: '20150225005229'
+retrieved_at: '2026-10-03T16:11:51+00:00'
+archive_digest: JS7VGUPCQOVTQ7PIRGNRP5WUTDQY67J7
+response_sha256: 9e32193173f24cecb4845697d399e903439915a0624f6da61e4d154d173a9956
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 4922
+    position: 0
+    japanese: あの人の面影はどことなく母に似ている。
+    body_text: "あの人の面影はどことなく母に似ている。 \n\n\t\tHer countenance \n\t\tvaguely \n\t\tresembles that of my mother."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあの人の面影はどことなく母に似ている。\">\nあの人の面影は<strong>どことなく</strong>母に似ている。<strong></strong></a> <br/>\n\t\tHer countenance \n\t\t<strong>vaguely </strong>\n\t\tresembles that of my mother."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4923
+    position: 1
+    japanese: 飛騨の高山はどことなく京都に似ている。
+    body_text: "飛騨の高山はどことなく京都に似ている。 \n\n\t\tThe city of Takayama in Hida \n\t\tvaguely \n\t\tresembles Kyoto."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ飛騨の高山はどことなく京都に似ている。\">\n飛騨の高山は<strong>どことなく</strong>京都に似ている。<strong></strong></a> <br/>\n\t\tThe city of Takayama in Hida \n\t\t<strong>vaguely </strong>\n\t\tresembles Kyoto."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: See comments to なんとなく.
+    html: |-
+      See comments to なんとなく.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: Vaguely
+    label: Vaguely
+    annotation_text: Vaguely [bamboo4]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=Vaguely">Vaguely</a> [<a href="http://jgram.org/pages/contributions.php?author=bamboo4">bamboo4</a>]
+    credits_raw: bamboo4
+sections:
+  - kind: header
+    text: |-
+      Dokotonaku ([どことなく] )(In some manner)
+          Meaning: Vaguely; in some manner なんとなくに類似 - Dokotonaku
+          Example: Vaguely, in some manner
+          JLPT Level: 0
+          Category: grammar
+          Author: bamboo4
+    html: |-
+      <span>Dokotonaku ([どことなく] )(In some manner)</span><br/>    <span><b>Meaning</b>: Vaguely; in some manner なんとなくに類似 - Dokotonaku</span><br/>    <b>Example</b>: <i>Vaguely, in some manner</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>bamboo4</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225005229'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 117299403
+  length: 5222
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: cec4bc8d1e90649f8adf7383dc735da52b206ca9819db26dc29bbcae95bce1a3

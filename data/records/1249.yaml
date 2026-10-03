@@ -1,0 +1,466 @@
+schema_version: 2
+id: 1249
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1249/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: によって
+romanized_label: niyotte
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: by; according to; due to; owing to; due to
+meaning_example: we lost our father due to the war
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1249
+    body_text: |-
+      by; according to; due to; owing to; due to 
+       we lost our father due to the war
+    body_html: |-
+      <span>by; according to; due to; owing to; due to</span> <br/> <span>we lost our father due to the war</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 49
+    position: 0
+    japanese: アメリカ大陸はコロンブスによって発見された。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab"><span>アメリカ</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e9%99%b8%e3%81%af%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%96%e3%82%b9"><span>大陸はコロンブス</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><strong>によって</strong></a><a href="https://takoboto.jp/?q=%e7%99%ba%e8%a6%8b%e3%81%95%e3%82%8c%e3%81%9f%e3%80%82"><span>発見された。</span></a>
+    segments:
+      - text: アメリカ大陸はコロンブス
+        grammar_highlight: false
+      - text: によって
+        grammar_highlight: true
+      - text: 発見された。
+        grammar_highlight: false
+    reading: あめりかたいりくはコロンブスによってはっけんされた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The American continent was discovered by Columbus.
+        html: |-
+          <span>The American continent was discovered </span><strong>by </strong><span>Columbus. </span>
+        segments:
+          - text: 'The American continent was discovered '
+            grammar_highlight: false
+          - text: 'by '
+            grammar_highlight: true
+          - text: 'Columbus. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1203
+    position: 1
+    japanese: Dan Sman さんによって書かれた本
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=Dan+Sman+%e3%81%95%e3%82%93"><span>Dan Sman さん</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><strong>によって</strong></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%8b%e3%82%8c%e3%81%9f"><span>書かれた</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac"><span>本</span></a>
+    segments:
+      - text: Dan Sman さん
+        grammar_highlight: false
+      - text: によって
+        grammar_highlight: true
+      - text: 書かれた本
+        grammar_highlight: false
+    reading: さんによってかかれたほん
+    credits_raw: dc
+    translations:
+      - language: en
+        text: A book　written by Mr Dan Sman
+        html: |-
+          <span>A book　written </span><strong>by </strong><span>Mr Dan Sman </span>
+        segments:
+          - text: 'A book　written '
+            grammar_highlight: false
+          - text: 'by '
+            grammar_highlight: true
+          - text: 'Mr Dan Sman '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4046
+    position: 2
+    japanese: 列車の代わりに飛行機に乗ることによって失った時間を埋め合わすことができる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%88%97%e8%bb%8a%e3%81%ae"><span>列車の</span></a><a href="https://takoboto.jp/?q=%e4%bb%a3%e3%82%8f%e3%82%8a%e3%81%ab"><span>代わりに</span></a><a href="https://takoboto.jp/?q=%e9%a3%9b%e8%a1%8c%e6%a9%9f%e3%81%ab"><span>飛行機に</span></a><a href="https://takoboto.jp/?q=%e4%b9%97%e3%82%8b%e3%81%93%e3%81%a8"><span>乗ること</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><strong>によって</strong></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e3%81%a3%e3%81%9f"><span>失った</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%96%93%e3%82%92"><span>時間を</span></a><a href="https://takoboto.jp/?q=%e5%9f%8b%e3%82%81"><span>埋め</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e3%82%8f%e3%81%99%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8b%e3%80%82"><span>合わすことができる。</span></a>
+    segments:
+      - text: 列車の代わりに飛行機に乗ること
+        grammar_highlight: false
+      - text: によって
+        grammar_highlight: true
+      - text: 失った時間を埋め合わすことができる。
+        grammar_highlight: false
+    reading: れっしゃのかわりにひこうきにのることによってうしなったじかんをうめあわすことができる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You can make up for lost time by taking an airplane instead of a train.
+        html: |-
+          <span>You can make up for lost time </span><strong>by </strong><span>taking an airplane instead of a train. </span>
+        segments:
+          - text: 'You can make up for lost time '
+            grammar_highlight: false
+          - text: 'by '
+            grammar_highlight: true
+          - text: 'taking an airplane instead of a train. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4047
+    position: 3
+    japanese: 理想は言葉によって表現される。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%90%86%e6%83%b3%e3%81%af"><span>理想は</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e8%91%89"><span>言葉</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><strong>によって</strong></a><a href="https://takoboto.jp/?q=%e8%a1%a8%e7%8f%be%e3%81%95%e3%82%8c%e3%82%8b%e3%80%82"><span>表現される。</span></a>
+    segments:
+      - text: 理想は言葉
+        grammar_highlight: false
+      - text: によって
+        grammar_highlight: true
+      - text: 表現される。
+        grammar_highlight: false
+    reading: りそうはことばによってひょうげんされる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Thoughts are expressed by means of words.
+        html: |-
+          <span>Thoughts are expressed </span><strong>by </strong><span>means of words. </span>
+        segments:
+          - text: 'Thoughts are expressed '
+            grammar_highlight: false
+          - text: 'by '
+            grammar_highlight: true
+          - text: 'means of words. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4048
+    position: 4
+    japanese: リンゴは彼女によってナイフで半分に切られた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%aa%e3%83%b3%e3%82%b4%e3%81%af"><span>リンゴは</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ab"><span>彼女に</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%a3%e3%81%a6"><strong>よって</strong></a><a href="https://takoboto.jp/?q=%e3%83%8a%e3%82%a4%e3%83%95%e3%81%a7"><span>ナイフで</span></a><a href="https://takoboto.jp/?q=%e5%8d%8a%e5%88%86%e3%81%ab"><span>半分に</span></a><a href="https://takoboto.jp/?q=%e5%88%87%e3%82%89%e3%82%8c%e3%81%9f%e3%80%82"><span>切られた。</span></a>
+    segments:
+      - text: リンゴは彼女に
+        grammar_highlight: false
+      - text: よって
+        grammar_highlight: true
+      - text: ナイフで半分に切られた。
+        grammar_highlight: false
+    reading: リンゴはかのじょによってナイフではんぶんにきられた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The apple was cut in two by her with a knife.
+        html: |-
+          <span>The apple was cut in two </span><strong>by </strong><span>her with a knife. </span>
+        segments:
+          - text: 'The apple was cut in two '
+            grammar_highlight: false
+          - text: 'by '
+            grammar_highlight: true
+          - text: 'her with a knife. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4049
+    position: 5
+    japanese: 卵は大きさと重さによって選別された。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8d%b5%e3%81%af"><span>卵は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e3%81%8d%e3%81%95%e3%81%a8"><span>大きさと</span></a><a href="https://takoboto.jp/?q=%e9%87%8d%e3%81%95"><span>重さ</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><strong>によって</strong></a><a href="https://takoboto.jp/?q=%e9%81%b8%e5%88%a5%e3%81%95%e3%82%8c%e3%81%9f%e3%80%82"><span>選別された。</span></a>
+    segments:
+      - text: 卵は大きさと重さ
+        grammar_highlight: false
+      - text: によって
+        grammar_highlight: true
+      - text: 選別された。
+        grammar_highlight: false
+    reading: たまごはおおきさとおもさによってせんべつされた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The eggs were graded according to weight and size.
+        html: |-
+          <span>The eggs were graded </span><strong>according to </strong><span>weight and size. </span>
+        segments:
+          - text: 'The eggs were graded '
+            grammar_highlight: false
+          - text: 'according to '
+            grammar_highlight: true
+          - text: 'weight and size. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4050
+    position: 6
+    japanese: 友達を見ることによってどんな人かわかる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%82%92"><span>友達を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8b%e3%81%93%e3%81%a8"><span>見ること</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><strong>によって</strong></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%82%93%e3%81%aa"><span>どんな</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%8b%e3%82%8f%e3%81%8b%e3%82%8b%e3%80%82"><span>人かわかる。</span></a>
+    segments:
+      - text: 友達を見ること
+        grammar_highlight: false
+      - text: によって
+        grammar_highlight: true
+      - text: どんな人かわかる。
+        grammar_highlight: false
+    reading: ともだちをみることによってどんなひとかわかる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You can tell what a person is like by looking at his friends.
+        html: |-
+          <span>You can tell what a person is like </span><strong>by </strong><span>looking at his friends. </span>
+        segments:
+          - text: 'You can tell what a person is like '
+            grammar_highlight: false
+          - text: 'by '
+            grammar_highlight: true
+          - text: 'looking at his friends. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4051
+    position: 7
+    japanese: 輸入の増加によって需要は下がった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%bc%b8%e5%85%a5%e3%81%ae"><span>輸入の</span></a><a href="https://takoboto.jp/?q=%e5%a2%97%e5%8a%a0"><span>増加</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><strong>によって</strong></a><a href="https://takoboto.jp/?q=%e9%9c%80%e8%a6%81%e3%81%af"><span>需要は</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%8c%e3%81%a3%e3%81%9f%e3%80%82"><span>下がった。</span></a>
+    segments:
+      - text: 輸入の増加
+        grammar_highlight: false
+      - text: によって
+        grammar_highlight: true
+      - text: 需要は下がった。
+        grammar_highlight: false
+    reading: ゆにゅうのぞうかによってじゅようはさがった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The demand was brought down by increases in imports.
+        html: |-
+          <span>The demand was brought down </span><strong>by </strong><span>increases in imports. </span>
+        segments:
+          - text: 'The demand was brought down '
+            grammar_highlight: false
+          - text: 'by '
+            grammar_highlight: true
+          - text: 'increases in imports. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4052
+    position: 8
+    japanese: 法律によって我々は子供たちを学校に通わせなければならない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%b3%95%e5%be%8b"><span>法律</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><strong>によって</strong></a><a href="https://takoboto.jp/?q=%e6%88%91%e3%80%85%e3%81%af"><span>我々は</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%9f%e3%81%a1%e3%82%92"><span>子供たちを</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e6%a0%a1%e3%81%ab"><span>学校に</span></a><a href="https://takoboto.jp/?q=%e9%80%9a%e3%82%8f%e3%81%9b%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>通わせなければならない。</span></a>
+    segments:
+      - text: 法律
+        grammar_highlight: false
+      - text: によって
+        grammar_highlight: true
+      - text: 我々は子供たちを学校に通わせなければならない。
+        grammar_highlight: false
+    reading: ほうりつによってわれわれはこどもたちをがっこうにかよわせなければならない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The law obliges us to send our children to school.
+        html: |-
+          <span>The law obliges us to send our children to school. </span>
+        segments:
+          - text: 'The law obliges us to send our children to school. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6425
+    position: 9
+    japanese: わが社では、最新のコンピューター・ソフトの使用によって仕事の合理化を目指すことになった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%8c"><span>わが</span></a><a href="https://takoboto.jp/?q=%e7%a4%be%e3%81%a7%e3%81%af%e3%80%81"><span>社では、</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e6%96%b0%e3%81%ae%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%bc%e3%83%bb%e3%82%bd%e3%83%95%e3%83%88%e3%81%ae"><span>最新のコンピューター・ソフトの</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e7%94%a8"><span>使用</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><strong>によって</strong></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%ae"><span>仕事の</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e7%90%86%e5%8c%96%e3%82%92"><span>合理化を</span></a><a href="https://takoboto.jp/?q=%e7%9b%ae%e6%8c%87%e3%81%99%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>目指すことになった。</span></a>
+    segments:
+      - text: わが社では、最新のコンピューター・ソフトの使用
+        grammar_highlight: false
+      - text: によって
+        grammar_highlight: true
+      - text: 仕事の合理化を目指すことになった。
+        grammar_highlight: false
+    reading: わがしゃでは、さいしんのコンピューター・ソフトのしようによってしごとのごうりかをめざすことになった。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: At our company, we're aiming at streamlining labor by using the latest computer software.
+        html: |-
+          <span>At our company, we're aiming at streamlining labor </span><strong>by </strong><span>using the latest computer software. </span>
+        segments:
+          - text: 'At our company, we''re aiming at streamlining labor '
+            grammar_highlight: false
+          - text: 'by '
+            grammar_highlight: true
+          - text: 'using the latest computer software. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6476
+    position: 10
+    japanese: この薬は人によっては副作用が出ることがあります。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e8%96%ac%e3%81%af%e4%ba%ba%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e3%81%af%e5%89%af%e4%bd%9c%e7%94%a8%e3%81%8c%e5%87%ba%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%80%82"><span>この薬は人によっては副作用が出ることがあります。</span></a>
+    segments:
+      - text: この薬は人によっては副作用が出ることがあります。
+        grammar_highlight: false
+    reading: このくすりはひとによってはふくさようがでることがあります。
+    credits_raw: jmadsen
+    translations:
+      - language: en
+        text: Some people have side effects from this medicine.
+        html: |-
+          <span>Some people have side effects from this medicine. </span>
+        segments:
+          - text: 'Some people have side effects from this medicine. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7094
+    position: 11
+    japanese: イエスキリストの名によって、アメン。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a4%e3%82%a8%e3%82%b9%e3%82%ad%e3%83%aa%e3%82%b9%e3%83%88%e3%81%ae"><span>イエスキリストの</span></a><a href="https://takoboto.jp/?q=%e5%90%8d"><span>名</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><strong>によって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%82%a2%e3%83%a1%e3%83%b3%e3%80%82"><span>、アメン。</span></a>
+    segments:
+      - text: イエスキリストの名
+        grammar_highlight: false
+      - text: によって
+        grammar_highlight: true
+      - text: 、アメン。
+        grammar_highlight: false
+    reading: イエスキリストのなによって、。
+    credits_raw: dario27
+    translations:
+      - language: en
+        text: In the name of Jesus Christ, amen.
+        html: |-
+          <span>In the name of Jesus Christ, amen. </span>
+        segments:
+          - text: 'In the name of Jesus Christ, amen. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8830
+    position: 12
+    japanese: 戦争によって、お父さんを失いました
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%88%a6%e4%ba%89%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e3%80%81%e3%81%8a%e7%88%b6%e3%81%95%e3%82%93%e3%82%92%e5%a4%b1%e3%81%84%e3%81%be%e3%81%97%e3%81%9f"><span>戦争によって、お父さんを失いました</span></a>
+    segments:
+      - text: 戦争によって、お父さんを失いました
+        grammar_highlight: false
+    reading: せんそうによって、おとうさんをうしないました
+    credits_raw: beno
+    translations:
+      - language: en
+        text: I lost my father due to the war
+        html: |-
+          <span>I lost my father due to the war </span>
+        segments:
+          - text: 'I lost my father due to the war '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Usage:
+
+      Noun
+      辞典によって漢字を調べる
+      examine kanji by using a dictionary
+
+      YesNo
+      お金が貰えるかどうかによって決めます
+      depending on whether or not I can receive money, I will decide
+
+      SubjInf
+      読むことによって決めます
+      I can decide by reading
+    html: |-
+      Usage:<br/><br/>Noun<br/>辞典によって漢字を調べる<br/>examine kanji by using a dictionary<br/><br/>YesNo<br/>お金が貰えるかどうかによって決めます<br/>depending on whether or not I can receive money, I will decide<br/><br/>SubjInf<br/>読むことによって決めます<br/>I can decide by reading
+    credits_raw: dc
+    content_sha256: ed2291d924544cec50a610483147e4e62d0408cf9d745d3f56775c136163128e
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      can be 
+      〜によって
+      〜により
+      〜による
+      〜によっては
+      but not niyoruto or niyoreba
+    html: |-
+      can be <br/>〜によって<br/>〜により<br/>〜による<br/>〜によっては<br/>but not niyoruto or niyoreba
+    credits_raw: dc
+    content_sha256: cd59c54bd93bfc9647cb689d99b1adf700e49508c3e438825806d43b6d958664
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Just added #6476 because I think it's a real mind-bender, at least for me. I'd love someone who can really read it to explain the "niyotte wa" idea- it seems strange to me.
+    html: |-
+      Just added #6476 because I think it's a real mind-bender, at least for me. I'd love someone who can really read it to explain the "niyotte wa" idea- it seems strange to me.
+    credits_raw: jmadsen
+    content_sha256: 288508385e8d9ef58b1c2664eaa16a5473ee6c9dec7816ee9891abcbd11e8ecf
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Please explain when we use によって、により、によっては ？ｔｋｘ
+    html: Please explain when we use によって、により、によっては ？ｔｋｘ
+    credits_raw: yuenannie
+    content_sha256: d0716b7b2d45cb99387c19a4efc07652ebaa8967b3418a07e0e6efed3d4de20d
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: The example on the note 辞典によって漢字を調べる is not natural. Usually 辞典（字典）で漢字を調べる。
+    html: The example on the note 辞典によって漢字を調べる is not natural. Usually 辞典（字典）で漢字を調べる。
+    credits_raw: Miki
+    content_sha256: 095ef71be7f20a33adc9d47b82f931429369f89f0f1c11c275012f6711ab67f1
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: I have never heard someone say Jiｔen. 辞書は何回も聞いたことがありますが､ 辞典はどう違いますか？
+    html: I have never heard someone say Jiｔen. 辞書は何回も聞いたことがありますが､ 辞典はどう違いますか？
+    credits_raw: tigert
+    content_sha256: ac4da0205133bcbca4e5d5e93f02f99f12a8798d456674a571db7083ee592bed
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: Could someone, please, explain the difference between ni yori e ni yotte?
+    html: Could someone, please, explain the difference between ni yori e ni yotte?
+    credits_raw: lilibr
+    content_sha256: 0c130a22ed362a7fd90c612994531c778aef83e40fee5cc233fd97426f345e2a
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: lilibr, ni yori is simply a literary version of ni yotte. It is common in written style.
+    html: lilibr, ni yori is simply a literary version of ni yotte. It is common in written style.
+    credits_raw: Monte Cristo
+    content_sha256: 4abb93d3a1f75b35e2f42275c46ca7eefbd7ff047b239786a0b86d55e6e8a368
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 974
+    label: によると
+    source_url: https://takoboto.jp/bunpo/974
+  - target_id: 976
+    label: によって
+    source_url: https://takoboto.jp/bunpo/976
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:18+00:00'
+response_sha256: 9610332fdff245c131533acfa3fb3828e71ca7099d99156d8b4ef33fffa573d5
+warnings: []

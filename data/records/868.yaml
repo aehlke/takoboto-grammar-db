@@ -1,0 +1,326 @@
+schema_version: 2
+id: 868
+source: takoboto
+source_url: https://takoboto.jp/bunpo/868/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ところで
+romanized_label: tokoro de
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc, Uniheld
+meaning: by the way
+meaning_example: by the way it looks like rain
+meaning_notes:
+  - language: ja
+    text: それはそうと。話題を変えるときに使う語。
+    html: それはそうと。話題を変えるときに使う語。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_868
+    body_text: |-
+      by the way 
+       by the way it looks like rain 
+       それはそうと。話題を変えるときに使う語。
+    body_html: |-
+      <span>by the way</span> <br/> <span>by the way it looks like rain</span> <br/> <span>それはそうと。話題を変えるときに使う語。</span>
+    credits_raw: dc, Uniheld
+formations: []
+examples:
+  - source_id: 1099
+    position: 0
+    japanese: 雨が降ってきたなあところで飯にしないか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%81%aa%e3%81%82"><span>降ってきたなあ</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7"><strong>ところで</strong></a><a href="https://takoboto.jp/?q=%e9%a3%af%e3%81%ab%e3%81%97%e3%81%aa%e3%81%84%e3%81%8b"><span>飯にしないか</span></a>
+    segments:
+      - text: 雨が降ってきたなあ
+        grammar_highlight: false
+      - text: ところで
+        grammar_highlight: true
+      - text: 飯にしないか
+        grammar_highlight: false
+    reading: あめがふってきたなあところでめしにしないか
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Hey, it's starting to rain By the way you want to go get something to eat?
+        html: |-
+          <span>Hey, it's starting to rain </span><strong>By the way </strong><span>you want to go get something to eat? </span>
+        segments:
+          - text: 'Hey, it''s starting to rain '
+            grammar_highlight: false
+          - text: 'By the way '
+            grammar_highlight: true
+          - text: 'you want to go get something to eat? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1101
+    position: 1
+    japanese: ( 「ところで」の他の意味 )私が説得したところであいつは耳をかさないだろう.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=(+%e3%80%8c%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7%e3%80%8d%e3%81%ae"><span>( 「ところで」の</span></a><a href="https://takoboto.jp/?q=%e4%bb%96%e3%81%ae"><span>他の</span></a><a href="https://takoboto.jp/?q=%e6%84%8f%e5%91%b3+)"><span>意味 )</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e8%aa%ac%e5%be%97%e3%81%97%e3%81%9f"><span>説得した</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7"><strong>ところで</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%84%e3%81%a4%e3%81%af"><span>あいつは</span></a><a href="https://takoboto.jp/?q=%e8%80%b3%e3%82%92%e3%81%8b%e3%81%95%e3%81%aa%e3%81%84%e3%81%a0%e3%82%8d%e3%81%86."><span>耳をかさないだろう.</span></a>
+    segments:
+      - text: ( 「ところで」の他の意味 )私が説得した
+        grammar_highlight: false
+      - text: ところで
+        grammar_highlight: true
+      - text: あいつは耳をかさないだろう.
+        grammar_highlight: false
+    reading: 「ところで」のほかのいみわたしがせっとくしたところであいつはみみをかさないだろう
+    credits_raw: dc
+    translations:
+      - language: en
+        text: (alternate usage) No matter how much I try to persuade him, that guy won't listen.
+        html: |-
+          <span>(alternate usage) </span><strong>No matter how much </strong><span>I try to persuade him, that guy won't listen. </span>
+        segments:
+          - text: '(alternate usage) '
+            grammar_highlight: false
+          - text: 'No matter how much '
+            grammar_highlight: true
+          - text: 'I try to persuade him, that guy won''t listen. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4942
+    position: 2
+    japanese: ところで、あなたの仕事は何ですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7"><strong>ところで</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>、あなたの</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%af"><span>仕事は</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>何ですか。</span></a>
+    segments:
+      - text: ところで
+        grammar_highlight: true
+      - text: 、あなたの仕事は何ですか。
+        grammar_highlight: false
+    reading: ところで、あなたのしごとはなにですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: By the way, what do you do?
+        html: |-
+          <strong>By the way, </strong><span>what do you do? </span>
+        segments:
+          - text: 'By the way, '
+            grammar_highlight: true
+          - text: 'what do you do? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4943
+    position: 3
+    japanese: ところで、あなたは宿題をしましたか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7"><strong>ところで</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>、あなたは</span></a><a href="https://takoboto.jp/?q=%e5%ae%bf%e9%a1%8c%e3%82%92%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%81%8b%e3%80%82"><span>宿題をしましたか。</span></a>
+    segments:
+      - text: ところで
+        grammar_highlight: true
+      - text: 、あなたは宿題をしましたか。
+        grammar_highlight: false
+    reading: ところで、あなたはしゅくだいをしましたか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: By the way, have you done your homework?
+        html: |-
+          <strong>By the way, </strong><span>have you done your homework? </span>
+        segments:
+          - text: 'By the way, '
+            grammar_highlight: true
+          - text: 'have you done your homework? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4944
+    position: 4
+    japanese: ところで、ちょっと君に話がある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7"><strong>ところで</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8"><span>、ちょっと</span></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%ab"><span>君に</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>話がある。</span></a>
+    segments:
+      - text: ところで
+        grammar_highlight: true
+      - text: 、ちょっと君に話がある。
+        grammar_highlight: false
+    reading: ところで、ちょっときみにはなしがある。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: By the way, I have something to tell you.
+        html: |-
+          <strong>By the way, </strong><span>I have something to tell you. </span>
+        segments:
+          - text: 'By the way, '
+            grammar_highlight: true
+          - text: 'I have something to tell you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4945
+    position: 5
+    japanese: ところで、あなたは今晩暇ですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7"><strong>ところで</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>、あなたは</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e6%99%a9%e6%9a%87%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>今晩暇ですか。</span></a>
+    segments:
+      - text: ところで
+        grammar_highlight: true
+      - text: 、あなたは今晩暇ですか。
+        grammar_highlight: false
+    reading: ところで、あなたはこんばんひまですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: By the way, are you free tonight?
+        html: |-
+          <strong>By the way, </strong><span>are you free tonight? </span>
+        segments:
+          - text: 'By the way, '
+            grammar_highlight: true
+          - text: 'are you free tonight? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Tokoro de is normally written in Hiragana although Kanji is possible. It will always be used to change the topic in a conversation. So if you were to see, "By the way...." it could start a clause or be after a complete sentence where you or someone says something and you use tokoro de to add more information or something that popped into your mind because of it.
+    html: |-
+      Tokoro de is normally written in Hiragana although Kanji is possible. It will always be used to change the topic in a conversation. So if you were to see, "By the way...." it could start a clause or be after a complete sentence where you or someone says something and you use tokoro de to add more information or something that popped into your mind because of it.
+    credits_raw: IMABI
+    content_sha256: 4fb50334ba2ff6e4a4a0cf89934ede0cebd35189ee36aeb0745823cb3a631c3d
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      different ways of saying "by the way"
+
+      chinami ni > related to that...
+      tokorode > by the way (unrelated)
+      soieba > speaking of that
+
+      from here
+
+      「ところで」は、今まで話していた事とまったく違う話題に変えるとき使います。「ちなみに」は、今まで話していたことと関連して他の例などを挙げるときや、ある話題に対して相手の感想などを聞くときにも使います。だから「ところで」と「ちなみに」はまったく違う意味を持っています。
+    html: |-
+      different ways of saying "by the way"<br/><br/>chinami ni &gt; related to that...<br/>tokorode &gt; by the way (unrelated)<br/>soieba &gt; speaking of that<br/><br/>from here<br/><br/>「ところで」は、今まで話していた事とまったく違う話題に変えるとき使います。「ちなみに」は、今まで話していたことと関連して他の例などを挙げるときや、ある話題に対して相手の感想などを聞くときにも使います。だから「ところで」と「ちなみに」はまったく違う意味を持っています。
+    credits_raw: dc
+    content_sha256: ce847b30a3997abea2fb6c1da5809e1f90fb4e4554140c651dafd64c7aad7ec4
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      ところで、Googleで”Japanese Grammar"+databaseの検索の結果、７０ページ目になるため、おめでとう！
+      By the way, congratulations to getting to the 70th page on a Google search for "Japanese Grammar" + database. ;-)
+    html: |-
+      ところで、Googleで”Japanese Grammar"+databaseの検索の結果、７０ページ目になるため、おめでとう！<br/>By the way, congratulations to getting to the 70th page on a Google search for "Japanese Grammar" + database. ;-)
+    credits_raw: Amatuka
+    content_sha256: eddced44efbc75f003ccb7c0a5b8c672aa40acaa3f7b26d23ddd13e01bea58bd
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: By the sounds of it I'd guess "Talking about which" would work well for ちなみに.
+    html: By the sounds of it I'd guess "Talking about which" would work well for ちなみに.
+    credits_raw: Amatuka
+    content_sha256: f04a10ef282668a4060fb4ed38d0ede89b8c681d3bb549c810a462131b6dbfcb
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: 'To be specific, #1101 is in 〜たform + ところで and as such it is different from other examples under this head.'
+    html: 'To be specific, #1101 is in 〜たform + ところで and as such it is different from other examples under this head.'
+    credits_raw: bamboo4
+    content_sha256: 420ec1b18bd21360fd6f787a89f8251142764ed0b8800bcc82435fe172bad9dd
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      それはさておき would be another similar expression.Perhaps the two should be linked.
+      ちなみに can also be "now that you mention it."
+    html: |-
+      それはさておき would be another similar expression.Perhaps the two should be linked.<br/>ちなみに can also be "now that you mention it."
+    credits_raw: bamboo4
+    content_sha256: f58225b8256d9478c391e929859f463643809fe8b03a17dd43949988823644f8
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: Added another meaning of ところで
+    html: Added another meaning of ところで
+    credits_raw: bamboo4
+    content_sha256: c01a36c294e4be693b502a855e62f0758b2fcdad8c27c7ad520a0408bf3993c3
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: not to be confused with tokoro as in place or time
+    html: not to be confused with tokoro as in place or time
+    credits_raw: dc
+    content_sha256: 51d88c117fd665620f8a0ed6539713c72b867226de1ca72c9536827506f073f2
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      Is example #1101 the reason this entry is marked as -1? because other than that example this is a solid entry that I have heard used a million times since I have been in Japan. 日常の日本語だよ
+    html: |-
+      Is example #1101 the reason this entry is marked as -1? because other than that example this is a solid entry that I have heard used a million times since I have been in Japan. 日常の日本語だよ
+    credits_raw: tigert
+    content_sha256: ecf2ee29227156e0e5fcb6d997c0708451ccd59d3a876e9a52bef5570d05b03a
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: "〜たform of verb + ところで\nand just ところで、ちがうのものです。\nIf it is just ところで,which being used at the beginning of a separate sentence, it means 'By the way'.\nIf it is a verb in 〜たform + ところで　、then it is \n「〜ても．．．」という意味です。（希望どおりにはならないだろう）"
+    html: |-
+      〜たform of verb + ところで<br/>and just ところで、ちがうのものです。<br/>If it is just ところで,which being used at the beginning of a separate sentence, it means 'By the way'.<br/>If it is a verb in 〜たform + ところで　、then it is <br/>「〜ても．．．」という意味です。（希望どおりにはならないだろう）
+    credits_raw: 誠
+    content_sha256: 44c0f718b2198af5e147623e9d9646cafaa5dcf73196c222d6ea96930802c096
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      holland, yes, it is used when you want to change the topic. 
+
+      Also, as far as example 1099 is concerned, I'm thinking that it's better to say, ”...ところでご飯（ごはん = meal）食べにいかない（か）？”
+    html: |-
+      holland, yes, it is used when you want to change the topic. <br/><br/>Also, as far as example 1099 is concerned, I'm thinking that it's better to say, ”...ところでご飯（ごはん = meal）食べにいかない（か）？”
+    credits_raw: ozonitabetai
+    content_sha256: b98f052f2b184544211442857e163ba3e049ffbdef624f27a0fcc1338cdcfd39
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: Is it used when we want to change the topic??
+    html: Is it used when we want to change the topic??
+    credits_raw: holland
+    content_sha256: 8d4397f1b17269b2062c8842a949b6f809f58bff5f457614a662e6341452ded3
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      ところで in its purely grammatical function is nowadays written almost exclusively in hiragana to differentiate it from its many other uses. JPDB has ところで at 99% and 所で at less than 1%, which seems about right. Either way, 処で is never used nowadays. I would be okay with leaving 所で in here for completeness' sake but question how useful it is since this is a guide for beginners. Either way, 処で should be removed.
+    html: |-
+      ところで in its purely grammatical function is nowadays written almost exclusively in hiragana to differentiate it from its many other uses. JPDB has ところで at 99% and 所で at less than 1%, which seems about right. Either way, 処で is never used nowadays. I would be okay with leaving 所で in here for completeness' sake but question how useful it is since this is a guide for beginners. Either way, 処で should be removed.
+    credits_raw: Lurchig
+    content_sha256: 265208880fcf54334b95eae7c4801bb8d4222713ff35a09166e96175bca84bec
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 888
+    label: ところ
+    source_url: https://takoboto.jp/bunpo/888
+  - target_id: 880
+    label: 〜はさておき
+    source_url: https://takoboto.jp/bunpo/880
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:29+00:00'
+response_sha256: dc96b186475282ed5e864383984e7444d49976d6fbfaba132fb7e6ceacc0c8fb
+warnings: []

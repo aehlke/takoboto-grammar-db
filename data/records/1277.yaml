@@ -1,0 +1,206 @@
+schema_version: 2
+id: 1277
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1277/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: かたがた(旁)
+romanized_label: katagata
+alternate_forms: []
+jlpt_level: 1
+credits_raw: Amatuka
+meaning: at the same time, incidentally；doing something while fulfilling different purposes at the same time
+meaning_example: incidental to business, go sightseeing
+meaning_notes:
+  - language: ja
+    text: 〜という別の目的も持って、あることをする
+    html: 〜という別の目的も持って、あることをする
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1277
+    body_text: |-
+      at the same time, incidentally；doing something while fulfilling different purposes at the same time 
+       incidental to business, go sightseeing 
+       〜という別の目的も持って、あることをする
+    body_html: |-
+      <span>at the same time, incidentally；doing something while fulfilling different purposes at the same time</span> <br/> <span>incidental to business, go sightseeing</span> <br/> <span>〜という別の目的も持って、あることをする</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_1277
+    body_text: Noun+かたがた
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>かたがた</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + かたがた
+examples:
+  - source_id: 1117
+    position: 0
+    japanese: 仕事かたがた京都見物にゆく
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b"><span>仕事</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%9f%e3%81%8c%e3%81%9f"><strong>かたがた</strong></a><a href="https://takoboto.jp/?q=%e4%ba%ac%e9%83%bd%e8%a6%8b%e7%89%a9%e3%81%ab%e3%82%86%e3%81%8f"><span>京都見物にゆく</span></a>
+    segments:
+      - text: 仕事
+        grammar_highlight: false
+      - text: かたがた
+        grammar_highlight: true
+      - text: 京都見物にゆく
+        grammar_highlight: false
+    reading: しごとかたがたきょうとけんぶつにゆく
+    credits_raw: dc
+    translations:
+      - language: en
+        text: While on business, go sightseeing in Kyoto
+        html: |-
+          <strong>While on </strong><span>business, go sightseeing in Kyoto </span>
+        segments:
+          - text: 'While on '
+            grammar_highlight: true
+          - text: 'business, go sightseeing in Kyoto '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5989
+    position: 1
+    japanese: 来春結婚する孫が、結婚の報告かたがた婚約者を連れてやってきた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9d%a5%e6%98%a5%e7%b5%90%e5%a9%9a%e3%81%99%e3%82%8b"><span>来春結婚する</span></a><a href="https://takoboto.jp/?q=%e5%ad%ab%e3%81%8c%e3%80%81"><span>孫が、</span></a><a href="https://takoboto.jp/?q=%e7%b5%90%e5%a9%9a%e3%81%ae"><span>結婚の</span></a><a href="https://takoboto.jp/?q=%e5%a0%b1%e5%91%8a"><span>報告</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%9f%e3%81%8c%e3%81%9f"><strong>かたがた</strong></a><a href="https://takoboto.jp/?q=%e5%a9%9a%e7%b4%84%e8%80%85%e3%82%92"><span>婚約者を</span></a><a href="https://takoboto.jp/?q=%e9%80%a3%e3%82%8c%e3%81%a6%e3%82%84%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82"><span>連れてやってきた。</span></a>
+    segments:
+      - text: 来春結婚する孫が、結婚の報告
+        grammar_highlight: false
+      - text: かたがた
+        grammar_highlight: true
+      - text: 婚約者を連れてやってきた。
+        grammar_highlight: false
+    reading: らいしゅんけっこんするまごが、けっこんのほうこくかたがたこんやくしゃをつれてやってきた。
+    credits_raw: khongbietboi
+    translations:
+      - language: en
+        text: |-
+          My grandson, who is getting married next spring, has brought his fiancee with him to visit while bringing us news of his wedding.
+        html: |-
+          <span>My grandson, who is getting married next spring, has brought his fiancee with him to visit </span><strong>while </strong><span>bringing us news of his wedding. </span>
+        segments:
+          - text: 'My grandson, who is getting married next spring, has brought his fiancee with him to visit '
+            grammar_highlight: false
+          - text: 'while '
+            grammar_highlight: true
+          - text: 'bringing us news of his wedding. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6626
+    position: 2
+    japanese: 無事に卒業できたので、恩師に報告かたがた、手紙を書いた.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%84%a1%e4%ba%8b%e3%81%ab"><span>無事に</span></a><a href="https://takoboto.jp/?q=%e5%8d%92%e6%a5%ad%e3%81%a7%e3%81%8d%e3%81%9f%e3%81%ae%e3%81%a7%e3%80%81"><span>卒業できたので、</span></a><a href="https://takoboto.jp/?q=%e6%81%a9%e5%b8%ab%e3%81%ab"><span>恩師に</span></a><a href="https://takoboto.jp/?q=%e5%a0%b1%e5%91%8a"><span>報告</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%9f%e3%81%8c%e3%81%9f"><strong>かたがた</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%82%92"><span>手紙を</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%9f."><span>書いた.</span></a>
+    segments:
+      - text: 無事に卒業できたので、恩師に報告
+        grammar_highlight: false
+      - text: かたがた
+        grammar_highlight: true
+      - text: 、手紙を書いた.
+        grammar_highlight: false
+    reading: ぶじにそつぎょうできたので、おんしにほうこくかたがた、てがみをかいた
+    credits_raw: rakki
+    translations:
+      - language: en
+        text: She was able to graduate without any problems and so wrote a letter to thank her professor.
+        html: |-
+          <span>She was able to graduate without any problems </span><strong>and so </strong><span>wrote a letter to thank her professor. </span>
+        segments:
+          - text: 'She was able to graduate without any problems '
+            grammar_highlight: false
+          - text: 'and so '
+            grammar_highlight: true
+          - text: 'wrote a letter to thank her professor. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: '[名]＋かたがた'
+    html: '[名]＋かたがた'
+    credits_raw: khongbietboi
+    content_sha256: 05e83cdf4a8340a814087765a956f6b31dc804f0797b5503f4dd003cc7969dd4
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Relevant grammar question here. (Fourth post).
+    html: Relevant grammar question here. (Fourth post).
+    credits_raw: Amatuka
+    content_sha256: 8ccc54404458e3ead86c0f4d6905608f007381e76078e29d8264ca20f04d3f81
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: かたがた is interchangeable to 兼ねて
+    html: かたがた is interchangeable to 兼ねて
+    credits_raw: bamboo4
+    content_sha256: 885b4d6af80e024b697cdb6a06076d478ced831a110e78ff831b40a7f6a96f36
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Yeah, but 兼ねて takes a direct object particle - かたがた doesn't.
+    html: Yeah, but 兼ねて takes a direct object particle - かたがた doesn't.
+    credits_raw: Amatuka
+    content_sha256: d014a8e5d86f9231c6716223bb36f586b055ab8b35d531d324ad58ba136d51f6
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: whats a direct object particle? it doesn't require a は・を after the item it relates to?
+    html: whats a direct object particle? it doesn't require a は・を after the item it relates to?
+    credits_raw: dc
+    content_sha256: 55d1ed0ee7f18f39282c1d5c73b6c4a2b5800a1fa9025349202901a11db85dca
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: Amatuka means, for example, を in 仕事を兼ねて京都見物にゆく
+    html: Amatuka means, for example, を in 仕事を兼ねて京都見物にゆく
+    credits_raw: bamboo4
+    content_sha256: 779b37f06f5bceeaea9cd13f4f30b9c531aec0e877ee8a087a7c987cd35b8c1e
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: I added "kanete" (兼ねて) in the grammar section, but I cannot edit it!
+    html: I added "kanete" (兼ねて) in the grammar section, but I cannot edit it!
+    credits_raw: bamboo4
+    content_sha256: f3bc68c603ff460785a6e9c3e38e95e4e05f75a972f56eb08abf306e3ab698a1
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      Does this mean that while doing X, you have the alternate motive of Y? I'm using 新完全マスターN1 and it says: 〜という別の目的も持って、ことをする。
+      To me, this makes it seems like that the difference between 〜かたがた and 〜ついでに,etc. is motive
+    html: |-
+      Does this mean that while doing X, you have the alternate motive of Y? I'm using 新完全マスターN1 and it says: 〜という別の目的も持って、ことをする。<br/>To me, this makes it seems like that the difference between 〜かたがた and 〜ついでに,etc. is motive
+    credits_raw: reeceepeacee
+    content_sha256: b3df2b842cfe1d839f6cfec07f0c0302956f688f14fd2840c6ff0c6d314352da
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1355
+    label: 兼ねて
+    source_url: https://takoboto.jp/bunpo/1355
+  - target_id: 918
+    label: を契機に
+    source_url: https://takoboto.jp/bunpo/918
+  - target_id: 917
+    label: ついでに
+    source_url: https://takoboto.jp/bunpo/917
+  - target_id: 1265
+    label: がてら
+    source_url: https://takoboto.jp/bunpo/1265
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:45:08+00:00'
+response_sha256: 21bead3d126113d678b52c049bdd21ff8c301c3ac9f88c4058c95b93093d52a7
+warnings: []

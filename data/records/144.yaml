@@ -1,0 +1,479 @@
+schema_version: 2
+id: 144
+source: takoboto
+source_url: https://takoboto.jp/bunpo/144/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: に過ぎない
+romanized_label: nisuginai
+alternate_forms:
+  - にすぎない
+jlpt_level: 2
+credits_raw: dc
+meaning: nothing more than
+meaning_example: nothing more than a rumor
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_144
+    body_text: |-
+      nothing more than 
+       nothing more than a rumor
+    body_html: |-
+      <span>nothing more than</span> <br/> <span>nothing more than a rumor</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 288
+    position: 0
+    japanese: あれは大混乱期の始まりに過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8c%e3%81%af"><span>あれは</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e6%b7%b7%e4%b9%b1%e6%9c%9f%e3%81%ae"><span>大混乱期の</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%81%be%e3%82%8a"><span>始まり</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あれは大混乱期の始まり
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あれはだいこんらんきのはじまりにすぎない。
+    credits_raw: Amatuka, dc
+    translations:
+      - language: en
+        text: That was nothing more than the start of a period of great confusion.
+        html: |-
+          <span>That was </span><strong>nothing more than </strong><span>the start </span><span>of a period of great confusion. </span>
+        segments:
+          - text: 'That was '
+            grammar_highlight: false
+          - text: 'nothing more than '
+            grammar_highlight: true
+          - text: 'the start of a period of great confusion. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3291
+    position: 1
+    japanese: それは夢に過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af"><span>それは</span></a><a href="https://takoboto.jp/?q=%e5%a4%a2"><span>夢</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: それは夢
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: それはゆめにすぎない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Thats nothing but a dream.
+        html: |-
+          <span>Thats </span><strong>nothing but </strong><span>a dream. </span>
+        segments:
+          - text: 'Thats '
+            grammar_highlight: false
+          - text: 'nothing but '
+            grammar_highlight: true
+          - text: 'a dream. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3848
+    position: 2
+    japanese: ある手紙で彼は、「人生は一瞬の夢に過ぎない」と言っている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8b"><span>ある</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%81%a7"><span>手紙で</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%80%81%e3%80%8c"><span>彼は、「</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e7%94%9f%e3%81%af"><span>人生は</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e7%9e%ac%e3%81%ae"><span>一瞬の</span></a><a href="https://takoboto.jp/?q=%e5%a4%a2"><span>夢</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%8d%e3%81%a8"><span>」と</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>言っている。</span></a>
+    segments:
+      - text: ある手紙で彼は、「人生は一瞬の夢
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 」と言っている。
+        grammar_highlight: false
+    reading: あるてがみでかれは、「じんせいはいっしゅんのゆめにすぎない」といっている。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: In one letter he remarks, "Life is but a dream".
+        html: |-
+          <span>In one letter he remarks, "Life is but a dream". </span>
+        segments:
+          - text: 'In one letter he remarks, "Life is but a dream". '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3849
+    position: 3
+    japanese: その新聞の発行部数は競争紙の三分の一に過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e6%96%b0%e8%81%9e%e3%81%ae"><span>新聞の</span></a><a href="https://takoboto.jp/?q=%e7%99%ba%e8%a1%8c%e9%83%a8%e6%95%b0%e3%81%af"><span>発行部数は</span></a><a href="https://takoboto.jp/?q=%e7%ab%b6%e4%ba%89%e7%b4%99%e3%81%ae"><span>競争紙の</span></a><a href="https://takoboto.jp/?q=%e4%b8%89%e5%88%86%e3%81%ae"><span>三分の</span></a><a href="https://takoboto.jp/?q=%e4%b8%80"><span>一</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: その新聞の発行部数は競争紙の三分の一
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: そのしんぶんのはっこうぶすうはきょうそうしのさんぶんのいちにすぎない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: The circulation of the newspaper is only one-third that of its competitor.
+        html: |-
+          <span>The circulation of the newspaper </span><strong>is only </strong><span>one-third </span><span>that of its competitor. </span>
+        segments:
+          - text: 'The circulation of the newspaper '
+            grammar_highlight: false
+          - text: 'is only '
+            grammar_highlight: true
+          - text: 'one-third that of its competitor. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3850
+    position: 4
+    japanese: それじゃ女は大きく育った子供に過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%98%e3%82%83"><span>それじゃ</span></a><a href="https://takoboto.jp/?q=%e5%a5%b3%e3%81%af"><span>女は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e3%81%8d%e3%81%8f"><span>大きく</span></a><a href="https://takoboto.jp/?q=%e8%82%b2%e3%81%a3%e3%81%9f"><span>育った</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b"><span>子供</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: それじゃ女は大きく育った子供
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: それじゃおんなはおおきくそだったこどもにすぎない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Women, then, are only children of a larger growth.
+        html: |-
+          <span>Women, then, are only children of a larger growth. </span>
+        segments:
+          - text: 'Women, then, are only children of a larger growth. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3851
+    position: 5
+    japanese: サンフランシスコの人口は、ニューヨークのわずか１０分の１に過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b5%e3%83%b3%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b7%e3%82%b9%e3%82%b3%e3%81%ae"><span>サンフランシスコの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e5%8f%a3%e3%81%af%e3%80%81%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af%e3%81%ae%e3%82%8f%e3%81%9a%e3%81%8b"><span>人口は、ニューヨークのわずか</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%ef%bc%90%e5%88%86%e3%81%ae"><span>１０分の</span></a><a href="https://takoboto.jp/?q=%ef%bc%91"><span>１</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: サンフランシスコの人口は、ニューヨークのわずか１０分の１
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: サンフランシスコのじんこうは、ニューヨークのわずか１０ぶんの１にすぎない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: San Francisco is only one-tenth as populous as New York.
+        html: |-
+          <span>San Francisco </span><strong>is only </strong><span>one-tenth </span><span>as populous as New York. </span>
+        segments:
+          - text: 'San Francisco '
+            grammar_highlight: false
+          - text: 'is only '
+            grammar_highlight: true
+          - text: 'one-tenth as populous as New York. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3852
+    position: 6
+    japanese: ルチアーノは大声援を背負って戦えるかもしれないが、彼はまだヒヨコに過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%ab%e3%83%81%e3%82%a2%e3%83%bc%e3%83%8e%e3%81%af"><span>ルチアーノは</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a3%b0%e6%8f%b4%e3%82%92"><span>大声援を</span></a><a href="https://takoboto.jp/?q=%e8%83%8c%e8%b2%a0%e3%81%a3%e3%81%a6"><span>背負って</span></a><a href="https://takoboto.jp/?q=%e6%88%a6%e3%81%88%e3%82%8b%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84%e3%81%8c%e3%80%81"><span>戦えるかもしれないが、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%be%e3%81%a0%e3%83%92%e3%83%a8%e3%82%b3"><span>彼はまだヒヨコ</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ルチアーノは大声援を背負って戦えるかもしれないが、彼はまだヒヨコ
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: はだいせいえんをせおってたたかえるかもしれないが、かれはまだヒヨコにすぎない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Luciano might have the crowd behind him, but he's still wet behind the ears.
+        html: |-
+          <span>Luciano might have the crowd behind him, but he's still wet behind the ears. </span>
+        segments:
+          - text: 'Luciano might have the crowd behind him, but he''s still wet behind the ears. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3853
+    position: 7
+    japanese: 雨林は地面わずか２％をしめるに過ぎないが、世界の野生の動植物、及び昆虫の半分以上の種類がそこで生息している。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%a8%e6%9e%97%e3%81%af"><span>雨林は</span></a><a href="https://takoboto.jp/?q=%e5%9c%b0%e9%9d%a2%e3%82%8f%e3%81%9a%e3%81%8b"><span>地面わずか</span></a><a href="https://takoboto.jp/?q=%ef%bc%92%ef%bc%85%e3%82%92%e3%81%97%e3%82%81%e3%82%8b"><span>２％をしめる</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%80%81"><span>が、</span></a><a href="https://takoboto.jp/?q=%e4%b8%96%e7%95%8c%e3%81%ae"><span>世界の</span></a><a href="https://takoboto.jp/?q=%e9%87%8e%e7%94%9f%e3%81%ae"><span>野生の</span></a><a href="https://takoboto.jp/?q=%e5%8b%95%e6%a4%8d%e7%89%a9%e3%80%81"><span>動植物、</span></a><a href="https://takoboto.jp/?q=%e5%8f%8a%e3%81%b3"><span>及び</span></a><a href="https://takoboto.jp/?q=%e6%98%86%e8%99%ab%e3%81%ae"><span>昆虫の</span></a><a href="https://takoboto.jp/?q=%e5%8d%8a%e5%88%86%e4%bb%a5%e4%b8%8a%e3%81%ae"><span>半分以上の</span></a><a href="https://takoboto.jp/?q=%e7%a8%ae%e9%a1%9e%e3%81%8c%e3%81%9d%e3%81%93%e3%81%a7"><span>種類がそこで</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e6%81%af%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>生息している。</span></a>
+    segments:
+      - text: 雨林は地面わずか２％をしめる
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: が、世界の野生の動植物、及び昆虫の半分以上の種類がそこで生息している。
+        grammar_highlight: false
+    reading: うりんはじめんわずか２ぱーせんとをしめるにすぎないが、せかいのやせいのどうしょくぶつ、およびこんちゅうのはんぶんいじょうのしゅるいがそこでせいそくしている。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: |-
+          Although rain forests make up only two percent of the earth's surface, over half the world's wild plant, animal and insect species live there.
+        html: |-
+          <span>Although rain forests make up </span><strong>only </strong><span>two percent of the earth's surface, over half the world's wild plant, animal and insect species live there. </span>
+        segments:
+          - text: 'Although rain forests make up '
+            grammar_highlight: false
+          - text: 'only '
+            grammar_highlight: true
+          - text: 'two percent of the earth''s surface, over half the world''s wild plant, animal and insect species live there. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3854
+    position: 8
+    japanese: 永久的な平和など幻想に過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%b0%b8%e4%b9%85%e7%9a%84%e3%81%aa"><span>永久的な</span></a><a href="https://takoboto.jp/?q=%e5%b9%b3%e5%92%8c%e3%81%aa%e3%81%a9"><span>平和など</span></a><a href="https://takoboto.jp/?q=%e5%b9%bb%e6%83%b3"><span>幻想</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 永久的な平和など幻想
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: えいきゅうてきなへいわなどげんそうにすぎない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Permanent peace is nothing but an illusion.
+        html: |-
+          <span>Permanent peace </span><strong>is nothing but </strong><span>an illusion. </span>
+        segments:
+          - text: 'Permanent peace '
+            grammar_highlight: false
+          - text: 'is nothing but '
+            grammar_highlight: true
+          - text: 'an illusion. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3855
+    position: 9
+    japanese: 我々の世界は宇宙のほんの小さな一部分に過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%88%91%e3%80%85%e3%81%ae"><span>我々の</span></a><a href="https://takoboto.jp/?q=%e4%b8%96%e7%95%8c%e3%81%af"><span>世界は</span></a><a href="https://takoboto.jp/?q=%e5%ae%87%e5%ae%99%e3%81%ae%e3%81%bb%e3%82%93%e3%81%ae"><span>宇宙のほんの</span></a><a href="https://takoboto.jp/?q=%e5%b0%8f%e3%81%95%e3%81%aa"><span>小さな</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e9%83%a8%e5%88%86"><span>一部分</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 我々の世界は宇宙のほんの小さな一部分
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: われわれのせかいはうちゅうのほんのちいさないちぶぶんにすぎない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Our world is only one small part of the universe.
+        html: |-
+          <span>Our world </span><strong>is only </strong><span>one small part of the universe. </span>
+        segments:
+          - text: 'Our world '
+            grammar_highlight: false
+          - text: 'is only '
+            grammar_highlight: true
+          - text: 'one small part of the universe. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3856
+    position: 10
+    japanese: 君の計画は砂上の楼閣に過ぎないよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%ae"><span>君の</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%81%af"><span>計画は</span></a><a href="https://takoboto.jp/?q=%e7%a0%82%e4%b8%8a%e3%81%ae"><span>砂上の</span></a><a href="https://takoboto.jp/?q=%e6%a5%bc%e9%96%a3"><span>楼閣</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%80%82"><span>よ。</span></a>
+    segments:
+      - text: 君の計画は砂上の楼閣
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: よ。
+        grammar_highlight: false
+    reading: きみのけいかくはさじょうのろうかくにすぎないよ。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Your scheme is like a multistoried building built on the sand.
+        html: |-
+          <span>Your scheme </span><strong>is like </strong><span>a multistoried building </span><span>built on the sand. </span>
+        segments:
+          - text: 'Your scheme '
+            grammar_highlight: false
+          - text: 'is like '
+            grammar_highlight: true
+          - text: 'a multistoried building built on the sand. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3857
+    position: 11
+    japanese: 恒久的な平和など幻想に過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%81%92%e4%b9%85%e7%9a%84%e3%81%aa"><span>恒久的な</span></a><a href="https://takoboto.jp/?q=%e5%b9%b3%e5%92%8c%e3%81%aa%e3%81%a9"><span>平和など</span></a><a href="https://takoboto.jp/?q=%e5%b9%bb%e6%83%b3"><span>幻想</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 恒久的な平和など幻想
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: こうきゅうてきなへいわなどげんそうにすぎない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Permanent peace is nothing but an illusion.
+        html: |-
+          <span>Permanent peace is nothing but an illusion. </span>
+        segments:
+          - text: 'Permanent peace is nothing but an illusion. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3858
+    position: 12
+    japanese: 私の考えでは、恒久的な平和など幻想に過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%a7%e3%81%af%e3%80%81"><span>考えでは、</span></a><a href="https://takoboto.jp/?q=%e6%81%92%e4%b9%85%e7%9a%84%e3%81%aa"><span>恒久的な</span></a><a href="https://takoboto.jp/?q=%e5%b9%b3%e5%92%8c%e3%81%aa%e3%81%a9"><span>平和など</span></a><a href="https://takoboto.jp/?q=%e5%b9%bb%e6%83%b3"><span>幻想</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 私の考えでは、恒久的な平和など幻想
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: わたしのかんがえでは、こうきゅうてきなへいわなどげんそうにすぎない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: In my opinion, permanent peace is nothing but illusion.
+        html: |-
+          <span>In my opinion, permanent peace is nothing but illusion. </span>
+        segments:
+          - text: 'In my opinion, permanent peace is nothing but illusion. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3859
+    position: 13
+    japanese: 私は貧しい農民に過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e8%b2%a7%e3%81%97%e3%81%84"><span>貧しい</span></a><a href="https://takoboto.jp/?q=%e8%be%b2%e6%b0%91"><span>農民</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 私は貧しい農民
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: わたしはまずしいのうみんにすぎない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I am nothing but a poor peasant.
+        html: |-
+          <span>I </span><strong>am nothing but </strong><span>a poor peasant. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'am nothing but '
+            grammar_highlight: true
+          - text: 'a poor peasant. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3860
+    position: 14
+    japanese: 前のやっていることは現実からの逃避に過ぎない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%89%8d%e3%81%ae%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af"><span>前のやっていることは</span></a><a href="https://takoboto.jp/?q=%e7%8f%be%e5%ae%9f%e3%81%8b%e3%82%89%e3%81%ae"><span>現実からの</span></a><a href="https://takoboto.jp/?q=%e9%80%83%e9%81%bf"><span>逃避</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84"><strong>に過ぎない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 前のやっていることは現実からの逃避
+        grammar_highlight: false
+      - text: に過ぎない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: まえのやっていることはげんじつからのとうひにすぎない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: All you're doing is trying to escape reality.
+        html: |-
+          <span>All you're doing is trying to escape reality. </span>
+        segments:
+          - text: 'All you''re doing is trying to escape reality. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7090
+    position: 15
+    japanese: 大丈夫です。ただ、ちょっと疲れたにすぎません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%a7%e4%b8%88%e5%a4%ab%e3%81%a7%e3%81%99%e3%80%82%e3%81%9f%e3%81%a0%e3%80%81%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8"><span>大丈夫です。ただ、ちょっと</span></a><a href="https://takoboto.jp/?q=%e7%96%b2%e3%82%8c%e3%81%9f"><span>疲れた</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%99%e3%81%8e%e3%81%be%e3%81%9b%e3%82%93"><strong>にすぎません</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 大丈夫です。ただ、ちょっと疲れた
+        grammar_highlight: false
+      - text: にすぎません
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: だいじょうぶです。ただ、ちょっとつかれたにすぎません。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: It's alright. I 'm just a little tired.
+        html: |-
+          <span>It's alright. I </span><strong>'m just </strong><span>a little </span><span>tired. </span>
+        segments:
+          - text: 'It''s alright. I '
+            grammar_highlight: false
+          - text: '''m just '
+            grammar_highlight: true
+          - text: 'a little tired. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: にすぐない can also be replaced by だけ or ただ.
+    html: にすぐない can also be replaced by だけ or ただ.
+    credits_raw: nazonatte69
+    content_sha256: c34fd03b32581c018b1c98da5c78eb15bea90a2b92447a0fb172b17d0e753ea5
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      In #3853 浮ﾌ should be 面 instead.
+      Ex #3857 and Ex #3858 are too close from Ex #3854.
+      In notes にすぐない should be replaced by にすぎない.
+    html: |-
+      In #3853 浮ﾌ should be 面 instead.<br/>Ex #3857 and Ex #3858 are too close from Ex #3854.<br/>In notes にすぐない should be replaced by にすぎない.
+    credits_raw: 赤毛
+    content_sha256: 3f53bb6a7711c99838493429bcf83fc4d6ace35b3ff122c5aadb900b3815e12c
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:09+00:00'
+response_sha256: 7009336a1ed7754aae20fe595f4b6fb27f7d70ed3f1c28353dbc49fa2718419a
+warnings: []

@@ -1,0 +1,350 @@
+schema_version: 2
+id: 1523
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1523/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 意向形と思う
+romanized_label: toomou
+alternate_forms:
+  - （しよう）とおもう
+jlpt_level: 3
+credits_raw: Xephyer
+meaning: I think I will (do)
+meaning_example: 今から銀行へ行こうと思います。/ I think I will go to the bank right now.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1523
+    body_text: |-
+      I think I will (do) 
+       今から銀行へ行こうと思います。/ I think I will go to the bank right now.
+    body_html: |-
+      <span>I think I will (do)</span> <br/> <span>今から銀行へ行こうと思います。/ I think I will go to the bank right now.</span>
+    credits_raw: Xephyer
+formations: []
+examples:
+  - source_id: 6875
+    position: 0
+    japanese: お礼を言おうと思いながら、かなり時間がたってしまいました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e7%a4%bc%e3%82%92"><span>礼を</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%8a%e3%81%86"><span>言おう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%84"><strong>と思い</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%8c%e3%82%89%e3%80%81%e3%81%8b%e3%81%aa%e3%82%8a"><span>ながら、かなり</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%96%93%e3%81%8c%e3%81%9f%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>時間がたってしまいました。</span></a>
+    segments:
+      - text: お礼を言おう
+        grammar_highlight: false
+      - text: と思い
+        grammar_highlight: true
+      - text: ながら、かなり時間がたってしまいました。
+        grammar_highlight: false
+    reading: おれいをいおうとおもいながら、かなりじかんがたってしまいました。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I kept wanting to say thank you but unfortunately a long period of time passed.
+        html: |-
+          <span>I kept </span><strong>wanting to </strong><span>say </span><span>thank you but unfortunately a long period of time passed. </span>
+        segments:
+          - text: 'I kept '
+            grammar_highlight: false
+          - text: 'wanting to '
+            grammar_highlight: true
+          - text: 'say thank you but unfortunately a long period of time passed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6876
+    position: 1
+    japanese: がんばろうと思いつつ、怠けてしまうんですよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8c%e3%82%93%e3%81%b0%e3%82%8d%e3%81%86"><span>がんばろう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%84"><strong>と思い</strong></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4%e3%80%81"><span>つつ、</span></a><a href="https://takoboto.jp/?q=%e6%80%a0%e3%81%91%e3%81%a6%e3%81%97%e3%81%be%e3%81%86%e3%82%93%e3%81%a7%e3%81%99%e3%82%88%e3%80%82"><span>怠けてしまうんですよ。</span></a>
+    segments:
+      - text: がんばろう
+        grammar_highlight: false
+      - text: と思い
+        grammar_highlight: true
+      - text: つつ、怠けてしまうんですよ。
+        grammar_highlight: false
+    reading: がんばろうとおもいつつ、なまけてしまうんですよ。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I planned to work hard but in spite of myself, I just ended up being lazy.
+        html: |-
+          <strong>I planned to </strong><span>work hard </span><span>but in spite of myself, I just ended up being lazy. </span>
+        segments:
+          - text: 'I planned to '
+            grammar_highlight: true
+          - text: 'work hard but in spite of myself, I just ended up being lazy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6867
+    position: 2
+    japanese: 今から銀行へ行こうと思います。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e3%81%8b%e3%82%89"><span>今から</span></a><a href="https://takoboto.jp/?q=%e9%8a%80%e8%a1%8c%e3%81%b8"><span>銀行へ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%93%e3%81%86"><span>行こう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%84%e3%81%be%e3%81%99"><strong>と思います</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 今から銀行へ行こう
+        grammar_highlight: false
+      - text: と思います
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: いまからぎんこうへいこうとおもいます。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I think I will go to the bank right now.
+        html: |-
+          <strong>I think I will </strong><span>go </span><span>to the bank right now. </span>
+        segments:
+          - text: 'I think I will '
+            grammar_highlight: true
+          - text: 'go to the bank right now. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6868
+    position: 3
+    japanese: 週末は海に行こうと思っています。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%80%b1%e6%9c%ab%e3%81%af"><span>週末は</span></a><a href="https://takoboto.jp/?q=%e6%b5%b7%e3%81%ab"><span>海に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%93%e3%81%86"><span>行こう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99"><strong>と思っています</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 週末は海に行こう
+        grammar_highlight: false
+      - text: と思っています
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: しゅうまつはうみにいこうとおもっています。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I intend to go to the sea this week-end.
+        html: |-
+          <strong>I intend to </strong><span>go </span><span>to the sea this week-end. </span>
+        segments:
+          - text: 'I intend to '
+            grammar_highlight: true
+          - text: 'go to the sea this week-end. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6869
+    position: 4
+    japanese: 彼は外国で働こうと思っています。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e5%a4%96%e5%9b%bd%e3%81%a7%e5%83%8d%e3%81%93%e3%81%86"><span>彼は外国で働こう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99"><strong>と思っています</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼は外国で働こう
+        grammar_highlight: false
+      - text: と思っています
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かれはがいこくではたらこうとおもっています。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: He plans to  work in foreign countries.
+        html: |-
+          <span>He </span><strong>plans to </strong><span> work in foreign countries. </span>
+        segments:
+          - text: 'He '
+            grammar_highlight: false
+          - text: 'plans to '
+            grammar_highlight: true
+          - text: ' work in foreign countries. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6870
+    position: 5
+    japanese: 将来自分で会社を作ろうと思っています。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%b0%86%e6%9d%a5%e8%87%aa%e5%88%86%e3%81%a7"><span>将来自分で</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%82%92"><span>会社を</span></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e3%82%8d%e3%81%86"><span>作ろう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99"><strong>と思っています</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 将来自分で会社を作ろう
+        grammar_highlight: false
+      - text: と思っています
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: しょうらいじぶんでかいしゃをつくろうとおもっています。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: In the future I plan to make my own company.
+        html: |-
+          <span>In the future I </span><strong>plan to </strong><span>make </span><span>my own company. </span>
+        segments:
+          - text: 'In the future I '
+            grammar_highlight: false
+          - text: 'plan to '
+            grammar_highlight: true
+          - text: 'make my own company. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6871
+    position: 6
+    japanese: 「レポートはもうできましたか。」「いいえ、まだ書いていません。金曜日までにまとめようと思っています。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e3%81%af%e3%82%82%e3%81%86%e3%81%a7%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%e3%81%8b%e3%80%82%e3%80%8d%e3%80%8c%e3%81%84%e3%81%84%e3%81%88%e3%80%81%e3%81%be%e3%81%a0"><span>「レポートはもうできましたか。」「いいえ、まだ</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%a6%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>書いていません。</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e6%9b%9c%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ab"><span>金曜日までに</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%a8%e3%82%81%e3%82%88%e3%81%86"><span>まとめよう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99"><strong>と思っています</strong></a><a href="https://takoboto.jp/?q=%e3%80%82%e3%80%8d"><span>。」</span></a>
+    segments:
+      - text: 「レポートはもうできましたか。」「いいえ、まだ書いていません。金曜日までにまとめよう
+        grammar_highlight: false
+      - text: と思っています
+        grammar_highlight: true
+      - text: 。」
+        grammar_highlight: false
+    reading: 「レポートはもうできましたか。」「いいえ、まだかいていません。きんようびまでにまとめようとおもっています。」
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: '"Did you finished the report yet?" "No I didn''t yet. I plan to put it in order for Friday without lack."'
+        html: |-
+          <span>"Did you finished the report yet?" "No I didn't yet. </span><strong>I plan to </strong><span>put it in order </span><span>for Friday without lack." </span>
+        segments:
+          - text: '"Did you finished the report yet?" "No I didn''t yet. '
+            grammar_highlight: false
+          - text: 'I plan to '
+            grammar_highlight: true
+          - text: 'put it in order for Friday without lack." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6872
+    position: 7
+    japanese: わたしは手紙のへんじをまだ書いていません。いますぐ書こうと思います。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%af"><span>わたしは</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%81%ae%e3%81%b8%e3%82%93%e3%81%98%e3%82%92%e3%81%be%e3%81%a0"><span>手紙のへんじをまだ</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%a6%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%80%82%e3%81%84%e3%81%be%e3%81%99%e3%81%90"><span>書いていません。いますぐ</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%93%e3%81%86"><span>書こう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%84%e3%81%be%e3%81%99"><strong>と思います</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: わたしは手紙のへんじをまだ書いていません。いますぐ書こう
+        grammar_highlight: false
+      - text: と思います
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: わたしはてがみのへんじをまだかいていません。いますぐかこうとおもいます。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I didn't write yet the letter answer. I think I will write it right now.
+        html: |-
+          <span>I didn't write yet the letter answer. </span><strong>I think I will </strong><span>write it </span><span>right now. </span>
+        segments:
+          - text: 'I didn''t write yet the letter answer. '
+            grammar_highlight: false
+          - text: 'I think I will '
+            grammar_highlight: true
+          - text: 'write it right now. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6873
+    position: 8
+    japanese: わたしは弟に読ませようと思って、この本を買いました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%af"><span>わたしは</span></a><a href="https://takoboto.jp/?q=%e5%bc%9f%e3%81%ab"><span>弟に</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%81%be%e3%81%9b%e3%82%88%e3%81%86"><span>読ませよう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%a6"><strong>と思って</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%93%e3%81%ae"><span>、この</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%82%92"><span>本を</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>買いました。</span></a>
+    segments:
+      - text: わたしは弟に読ませよう
+        grammar_highlight: false
+      - text: と思って
+        grammar_highlight: true
+      - text: 、この本を買いました。
+        grammar_highlight: false
+    reading: わたしはおとうとによませようとおもって、このほんをかいました。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I bought this book because I plan to make my little brother read.
+        html: |-
+          <span>I bought this book because </span><strong>I plan to </strong><span>make my little brother read. </span>
+        segments:
+          - text: 'I bought this book because '
+            grammar_highlight: false
+          - text: 'I plan to '
+            grammar_highlight: true
+          - text: 'make my little brother read. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6874
+    position: 9
+    japanese: こんばんはこの本をよもうと思っています。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%b0%e3%82%93%e3%81%af%e3%81%93%e3%81%ae"><span>こんばんはこの</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%82%92"><span>本を</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%82%82%e3%81%86"><span>よもう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99"><strong>と思っています</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: こんばんはこの本をよもう
+        grammar_highlight: false
+      - text: と思っています
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: こんばんはこのほんをよもうとおもっています。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I intend to read this book this evening.
+        html: |-
+          <span>I </span><strong>intend to </strong><span>read </span><span>this book this evening. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'intend to '
+            grammar_highlight: true
+          - text: 'read this book this evening. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Verb in volitional form (意向形)+と+思う is used to inform the interlocutor of the speaker's intention.
+      思う/思います is used to express this intention in the moment the speaker is speaking.
+      思っている/思っています is used to express that the decision of the speaker have been taken sometimes ago, but is still valid now.
+      と思っている may be use to express the intention of a third person.
+    html: |-
+      Verb in volitional form (意向形)+と+思う is used to inform the interlocutor of the speaker's intention.<br/>思う/思います is used to express this intention in the moment the speaker is speaking.<br/>思っている/思っています is used to express that the decision of the speaker have been taken sometimes ago, but is still valid now.<br/>と思っている may be use to express the intention of a third person.
+    credits_raw: 赤毛
+    content_sha256: a75a65eb903d4c7e6e1ce904d110c6f98cc6ada1d66224728551b42516b9dfcf
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      xephyer - thanks for your enthusiasm in adding stuff, but this is not grammar, this is vocabulary. please review the difference!
+    html: |-
+      xephyer - thanks for your enthusiasm in adding stuff, but this is not grammar, this is vocabulary. please review the difference!
+    credits_raw: dc
+    content_sha256: f67d5d1426e50aa534dcb95bc033c6359e5f40bb5a2b06a36ca5fc23e1362dac
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: This entry should be deleted.
+    html: This entry should be deleted.
+    credits_raw: bamboo4
+    content_sha256: cba734acfd30bdc62669a3f1306b0991c77c04ae31e5ef4919eb5289374435bd
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: I intend to give a second life to this entry 平ら (たいら) [taira] changing it completely.
+    html: I intend to give a second life to this entry 平ら (たいら) [taira] changing it completely.
+    credits_raw: 赤毛
+    content_sha256: 71029b371351947e9bacb1c059676a6a759a49a2fd047bbe330cec3e2e3785d1
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1483
+    label: つもり (積もり・積り)
+    source_url: https://takoboto.jp/bunpo/1483
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:36:10+00:00'
+response_sha256: e787022f9b3dc6128025fee46b35505dc7caabdde5ac28429fe1cd4fbec54ee9
+warnings: []

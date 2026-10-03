@@ -53,7 +53,7 @@ conjugation tables and comparisons such as `simultaneous-actions-group` and
 `evaluation-group`. A verified current Takoboto numeric ID also establishes
 collection membership when an old category is absent. Nine additional unclassified grammar/usage entries were reviewed individually
 and included; two dictionary-only entries were excluded. The source-bound
-[scope manifest](../src/takoboto_grammar/grammar-membership.json) records IDs,
+[scope manifest](../src/takoboto_grammar/grammar-membership.yaml) records IDs,
 labels, exact titles, reasons, source URLs and response hashes. Unknown
 unclassified entries remain held. Other categories are excluded. Standalone notes, complete examples/translations, comments, contributor
 labels, annotated See Also links, original readings/levels and retained header

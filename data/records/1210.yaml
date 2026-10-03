@@ -1,0 +1,267 @@
+schema_version: 2
+id: 1210
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1210/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: かけだ・かけの・かける
+romanized_label: kakeda; kakeno; kakeru
+alternate_forms: []
+jlpt_level: 2
+credits_raw: Jonathan Salatan
+meaning: in the middle of; not yet finished V-ing
+meaning_example: I fell asleep while in the middle of reading the magazine.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1210
+    body_text: |-
+      in the middle of; not yet finished V-ing 
+       I fell asleep while in the middle of reading the magazine.
+    body_html: |-
+      <span>in the middle of; not yet finished V-ing</span> <br/> <span>I fell asleep while in the middle of reading the magazine.</span>
+    credits_raw: Jonathan Salatan
+  - kind: formation
+    source_dom_id: editable_Formation_1210
+    body_text: Verb ます stem+かけだ
+    body_html: |-
+      <div><div><div>Verb ます stem</div></div><div><div>+</div><div>かけだ</div></div></div>
+    credits_raw: null
+formations:
+  - Verb ます stem + かけだ
+examples:
+  - source_id: 3290
+    position: 0
+    japanese: 雑誌を読みかけて、そのままうとうと寝てしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%91%e8%aa%8c%e3%82%92"><span>雑誌を</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%81%bf"><span>読み</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%91%e3%81%a6"><strong>かけて</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%81%ae%e3%81%be%e3%81%be%e3%81%86%e3%81%a8%e3%81%86%e3%81%a8"><span>、そのままうとうと</span></a><a href="https://takoboto.jp/?q=%e5%af%9d%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>寝てしまった。</span></a>
+    segments:
+      - text: 雑誌を読み
+        grammar_highlight: false
+      - text: かけて
+        grammar_highlight: true
+      - text: 、そのままうとうと寝てしまった。
+        grammar_highlight: false
+    reading: ざっしをよみかけて、そのままうとうとねてしまった。
+    credits_raw: Jonathan Salatan
+    translations:
+      - language: en
+        text: I fell asleep while in the middle of reading the magazine.
+        html: |-
+          <span>I fell asleep while </span><strong>in the middle of </strong><span>reading the magazine. </span>
+        segments:
+          - text: 'I fell asleep while '
+            grammar_highlight: false
+          - text: 'in the middle of '
+            grammar_highlight: true
+          - text: 'reading the magazine. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5782
+    position: 1
+    japanese: 何か言いかけてやめるのはよくない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8b"><span>何か</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%84%e3%81%8b%e3%81%91%e3%81%a6%e3%82%84%e3%82%81%e3%82%8b%e3%81%ae%e3%81%af%e3%82%88%e3%81%8f%e3%81%aa%e3%81%84%e3%80%82"><span>言いかけてやめるのはよくない。</span></a>
+    segments:
+      - text: 何か言いかけてやめるのはよくない。
+        grammar_highlight: false
+    reading: なにかいいかけてやめるのはよくない。
+    credits_raw: ananya
+    translations:
+      - language: en
+        text: It is not good to stop(somebody) in the middle of saying something.
+        html: |-
+          <span>It is not good to stop(somebody) in the middle of saying something. </span>
+        segments:
+          - text: 'It is not good to stop(somebody) in the middle of saying something. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6030
+    position: 2
+    japanese: やっと風邪が治りかけたと思ったら、今度は歯が痛くなってきた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%84%e3%81%a3%e3%81%a8"><span>やっと</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e9%82%aa%e3%81%8c"><span>風邪が</span></a><a href="https://takoboto.jp/?q=%e6%b2%bb%e3%82%8a%e3%81%8b%e3%81%91%e3%81%9f%e3%81%a8"><span>治りかけたと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%9f%e3%82%89%e3%80%81"><span>思ったら、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e5%ba%a6%e3%81%af"><span>今度は</span></a><a href="https://takoboto.jp/?q=%e6%ad%af%e3%81%8c"><span>歯が</span></a><a href="https://takoboto.jp/?q=%e7%97%9b%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82"><span>痛くなってきた。</span></a>
+    segments:
+      - text: やっと風邪が治りかけたと思ったら、今度は歯が痛くなってきた。
+        grammar_highlight: false
+    reading: やっとかぜがなおりかけたとおもったら、こんどははがいたくなってきた。
+    credits_raw: angelitosh2004
+    translations:
+      - language: en
+        text: Just when I thought I was finally over my cold, my tooth began to hurt.
+        html: |-
+          <span>Just when I thought I was finally over my cold, my tooth began to hurt. </span>
+        segments:
+          - text: 'Just when I thought I was finally over my cold, my tooth began to hurt. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6031
+    position: 3
+    japanese: 彼は帰りかけたが、用事を思い出したらしく、すぐに戻ってきた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e5%b8%b0%e3%82%8a"><span>彼は帰り</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%91"><strong>かけ</strong></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%8c%e3%80%81%e7%94%a8%e4%ba%8b%e3%82%92%e6%80%9d%e3%81%84%e5%87%ba%e3%81%97%e3%81%9f%e3%82%89%e3%81%97%e3%81%8f%e3%80%81%e3%81%99%e3%81%90%e3%81%ab%e6%88%bb%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82"><span>たが、用事を思い出したらしく、すぐに戻ってきた。</span></a>
+    segments:
+      - text: 彼は帰り
+        grammar_highlight: false
+      - text: かけ
+        grammar_highlight: true
+      - text: たが、用事を思い出したらしく、すぐに戻ってきた。
+        grammar_highlight: false
+    reading: かれはかえりかけたが、ようじをおもいだしたらしく、すぐにもどってきた。
+    credits_raw: angelitosh2004
+    translations:
+      - language: en
+        text: He had just left, but soon came back, as if he had remembered something he had to do.
+        html: |-
+          <span>He had just left, but soon came back, as if he had remembered something he had to do. </span>
+        segments:
+          - text: 'He had just left, but soon came back, as if he had remembered something he had to do. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6032
+    position: 4
+    japanese: 父は新聞を読みかけたままにして、どこかへ行ってしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%88%b6%e3%81%af%e6%96%b0%e8%81%9e%e3%82%92%e8%aa%ad%e3%81%bf"><span>父は新聞を読み</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%91%e3%81%9f"><strong>かけた</strong></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%be%e3%81%ab%e3%81%97%e3%81%a6%e3%80%81%e3%81%a9%e3%81%93%e3%81%8b%e3%81%b8%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>ままにして、どこかへ行ってしまった。</span></a>
+    segments:
+      - text: 父は新聞を読み
+        grammar_highlight: false
+      - text: かけた
+        grammar_highlight: true
+      - text: ままにして、どこかへ行ってしまった。
+        grammar_highlight: false
+    reading: ちちはしんぶんをよみかけたままにして、どこかへいってしまった。
+    credits_raw: angelitosh2004
+    translations:
+      - language: en
+        text: My father went somewhere, leaving the newspaper open at the place he was reading.
+        html: |-
+          <span>My father went somewhere, leaving the newspaper open at the place he was reading. </span>
+        segments:
+          - text: 'My father went somewhere, leaving the newspaper open at the place he was reading. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7146
+    position: 5
+    japanese: おとといから今日にかけてずっと雨が降り続いている.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%a8%e3%81%a8%e3%81%84%e3%81%8b%e3%82%89%e4%bb%8a%e6%97%a5%e3%81%ab%e3%81%8b%e3%81%91%e3%81%a6%e3%81%9a%e3%81%a3%e3%81%a8%e9%9b%a8%e3%81%8c%e9%99%8d%e3%82%8a%e7%b6%9a%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b."><span>おとといから今日にかけてずっと雨が降り続いている.</span></a>
+    segments:
+      - text: おとといから今日にかけてずっと雨が降り続いている.
+        grammar_highlight: false
+    reading: おとといからきょうにかけてずっとあめがふりつづいている
+    credits_raw: sureshnihon
+    translations:
+      - language: en
+        text: It started rain from the day before yesterday,and still continues.
+        html: |-
+          <span>It started rain from the day before yesterday,and still continues. </span>
+        segments:
+          - text: 'It started rain from the day before yesterday,and still continues. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Verb ryk (VB masu) kakeru
+      - used with Transitive/Intransitive verbs
+      - an action/ a state is about to take place- you start doing something but you don't finish that action, so it remains half done
+      = BEGIN TO~; BE ABOUT TO~; ALMOST (DO)~
+
+      a). ご飯を食べかけた時に、地震が起きた。
+      　　When I was about to eat[/just started to eat] my meal, the earthquake occured. (so I didn't finish the action)
+
+      b).父は若い時に、海でおぼれかけたそうだ。
+      I was told that my father almost drowned in the sea when he was young.
+
+      c).雨が降りかけたが、また天気になった。
+      It started to rain, but it became fine again.
+
+      d).オアは開きかけたが、また閉まってしまった。
+      The door begun to open, but it closed again
+    html: |-
+      Verb ryk (VB masu) kakeru<br/>- used with Transitive/Intransitive verbs<br/>- an action/ a state is about to take place- you start doing something but you don't finish that action, so it remains half done<br/>= BEGIN TO~; BE ABOUT TO~; ALMOST (DO)~<br/><br/>a). ご飯を食べかけた時に、地震が起きた。<br/>　　When I was about to eat[/just started to eat] my meal, the earthquake occured. (so I didn't finish the action)<br/><br/>b).父は若い時に、海でおぼれかけたそうだ。<br/>I was told that my father almost drowned in the sea when he was young.<br/><br/>c).雨が降りかけたが、また天気になった。<br/>It started to rain, but it became fine again.<br/><br/>d).オアは開きかけたが、また閉まってしまった。<br/>The door begun to open, but it closed again
+    credits_raw: deeana
+    content_sha256: 4e94f45d5c26cd983213d6844a89580412b1e104ee77860e5a3f9c1545662e1d
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      ます形　＋　かける
+
+      1. 〜かけている/〜かける：実際に起こる直前
+      This form takes the meaning of "just as", "just before", or "on the verge of" "about to." It uses verbs that finish or change in an instant (一瞬で終わる/変わること), i.e. 消える、死ぬ、切れる etc.
+
+      Ex:
+      携帯電話のバッテリーが切れかけている。
+      私は子供の頃病気で死にかけたことがあるらしい。
+      死にかけていた猫を拾ってきた。
+
+      2. 〜かける/〜かけて: 直前
+      This form implies the idea that the action had barely begun and then stopped.
+
+      Ex.
+      今日こそ彼に一言いってやろうと思ったが、言いかけてやめた。In other words, "he" never got the complaint. The speaker probably stopped at, "umm... nevermind."
+
+      宿題の文作を書きかけたが、なかなか先にすすまないので結局途中でやめてしまった。This person probably got as far as writing their name before quitting.
+
+      3. 〜かけの/〜かけだ: 途中
+      This form means in the middle of an incomplete action. It takes verbs that take time/occur over time (動作が続く動詞), i.e. 食べる、飲む、etc.
+
+      Ex.
+      テーブルの上の飲みかけのコーヒー、誰の。
+    html: |-
+      ます形　＋　かける<br/><br/>1. 〜かけている/〜かける：実際に起こる直前<br/>This form takes the meaning of "just as", "just before", or "on the verge of" "about to." It uses verbs that finish or change in an instant (一瞬で終わる/変わること), i.e. 消える、死ぬ、切れる etc.<br/><br/>Ex:<br/>携帯電話のバッテリーが切れかけている。<br/>私は子供の頃病気で死にかけたことがあるらしい。<br/>死にかけていた猫を拾ってきた。<br/><br/>2. 〜かける/〜かけて: 直前<br/>This form implies the idea that the action had barely begun and then stopped.<br/><br/>Ex.<br/>今日こそ彼に一言いってやろうと思ったが、言いかけてやめた。In other words, "he" never got the complaint. The speaker probably stopped at, "umm... nevermind."<br/><br/>宿題の文作を書きかけたが、なかなか先にすすまないので結局途中でやめてしまった。This person probably got as far as writing their name before quitting.<br/><br/>3. 〜かけの/〜かけだ: 途中<br/>This form means in the middle of an incomplete action. It takes verbs that take time/occur over time (動作が続く動詞), i.e. 食べる、飲む、etc.<br/><br/>Ex.<br/>テーブルの上の飲みかけのコーヒー、誰の。
+    credits_raw: brazenxvirtue
+    content_sha256: f80fa02a87e3b7ee3e940f1269a6b6d1f20bf0c344a18437173f0fcf38648076
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 'Jonathan: [kaketa] is an identical entry, so i will probably move this example over...'
+    html: 'Jonathan: [kaketa] is an identical entry, so i will probably move this example over...'
+    credits_raw: dc
+    content_sha256: fd05b55d90f68a33cdd718314da97cc6093cbaae345fb4452eae704c04df06cd
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      〜かける indicated that one has begun an action and is currently involved with it. In almost all cases 〜かけるmay be used in place of 〜かかる, although it expresses a slightly more advanced state (see examples above).
+    html: |-
+      〜かける indicated that one has begun an action and is currently involved with it. In almost all cases 〜かけるmay be used in place of 〜かかる, although it expresses a slightly more advanced state (see examples above).
+    credits_raw: angelitosh2004
+    content_sha256: 38f8284dac0c469b4f039574ba6a8456914574c7c712c87dd6ff85495a53e795
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      In the example sentence that it has been written by (deeana)
+      雨が降りかけたが、また天気になった。It should be
+      雨が降りかけたが、またいい天気になった。
+      I think that it would be better to get these sentence check by Japanese.
+    html: |-
+      In the example sentence that it has been written by (deeana)<br/>雨が降りかけたが、また天気になった。It should be<br/>雨が降りかけたが、またいい天気になった。<br/>I think that it would be better to get these sentence check by Japanese.
+    credits_raw: javierchomer
+    content_sha256: 6a8d9c70d551e511004db8154fda4488bcf0a9903c6190c11bd5089eaf893f4b
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 801
+    label: かけた
+    source_url: https://takoboto.jp/bunpo/801
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:38:42+00:00'
+response_sha256: 97b15ac03845151fb2763730840a333c6d9cddbc9ae469a4e8a5f7571a02b013
+warnings: []

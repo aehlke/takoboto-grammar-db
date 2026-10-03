@@ -1,0 +1,202 @@
+schema_version: 2
+id: 375
+source: takoboto
+source_url: https://takoboto.jp/bunpo/375/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜にしたら
+romanized_label: nishitara
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: if (one had) 〜's perspective
+meaning_example: if (one had) the firm's perspective, low wages are good
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_375
+    body_text: |-
+      if (one had) 〜's perspective 
+       if (one had) the firm's perspective, low wages are good
+    body_html: |-
+      <span>if (one had) 〜's perspective</span> <br/> <span>if (one had) the firm's perspective, low wages are good</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 6352
+    position: 0
+    japanese: 経営者にしたらボーナスは安いほうがいいが、社員の身にしたら1000円でも高いほうがいい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%b5%8c%e5%96%b6%e8%80%85"><span>経営者</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%9f%e3%82%89"><strong>にしたら</strong></a><a href="https://takoboto.jp/?q=%e3%83%9c%e3%83%bc%e3%83%8a%e3%82%b9%e3%81%af"><span>ボーナスは</span></a><a href="https://takoboto.jp/?q=%e5%ae%89%e3%81%84%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84%e3%81%8c%e3%80%81"><span>安いほうがいいが、</span></a><a href="https://takoboto.jp/?q=%e7%a4%be%e5%93%a1%e3%81%ae"><span>社員の</span></a><a href="https://takoboto.jp/?q=%e8%ba%ab%e3%81%ab%e3%81%97%e3%81%9f%e3%82%891000"><span>身にしたら1000</span></a><a href="https://takoboto.jp/?q=%e5%86%86%e3%81%a7%e3%82%82"><span>円でも</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84%e3%80%82"><span>高いほうがいい。</span></a>
+    segments:
+      - text: 経営者
+        grammar_highlight: false
+      - text: にしたら
+        grammar_highlight: true
+      - text: ボーナスは安いほうがいいが、社員の身にしたら1000円でも高いほうがいい。
+        grammar_highlight: false
+    reading: けいえいしゃにしたらボーナスはやすいほうがいいが、しゃいんのみにしたらえんでもたかいほうがいい。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: |-
+          From the manager's point of view, a smaller bonus would be better, but from the employee's point of view, even 1000 more yen would be better.
+        html: |-
+          <span>From the manager's point of view, a smaller bonus would be better, but from the employee's point of view, even 1000 more yen would be better. </span>
+        segments:
+          - text: "From the manager's point of view, a smaller bonus would be better, but from the employee's point of view, even 1000 more yen would be better. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6353
+    position: 1
+    japanese: この階段は、私にはたいしたことはありませんが、足の弱い人にしたら、とても大変だろうと思いますよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e9%9a%8e%e6%ae%b5%e3%81%af%e3%80%81"><span>階段は、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ab%e3%81%af%e3%81%9f%e3%81%84%e3%81%97%e3%81%9f%e3%81%93%e3%81%a8%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%81%8c%e3%80%81"><span>私にはたいしたことはありませんが、</span></a><a href="https://takoboto.jp/?q=%e8%b6%b3%e3%81%ae"><span>足の</span></a><a href="https://takoboto.jp/?q=%e5%bc%b1%e3%81%84"><span>弱い</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba"><span>人</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%9f%e3%82%89"><strong>にしたら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%a8%e3%81%a6%e3%82%82"><span>、とても</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a4%89%e3%81%a0%e3%82%8d%e3%81%86%e3%81%a8"><span>大変だろうと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84%e3%81%be%e3%81%99%e3%82%88%e3%80%82"><span>思いますよ。</span></a>
+    segments:
+      - text: この階段は、私にはたいしたことはありませんが、足の弱い人
+        grammar_highlight: false
+      - text: にしたら
+        grammar_highlight: true
+      - text: 、とても大変だろうと思いますよ。
+        grammar_highlight: false
+    reading: このかいだんは、わたしにはたいしたことはありませんが、あしのよわいひとにしたら、とてもたいへんだろうとおもいますよ。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: |-
+          I've never disapproved of this stairway, but if I were someone with weak legs, I think I'd probably have a difficult time.
+        html: |-
+          <span>I've never disapproved of this stairway, but </span><strong>if I were </strong><span>someone with weak legs, I think I'd probably have a difficult time. </span>
+        segments:
+          - text: 'I''ve never disapproved of this stairway, but '
+            grammar_highlight: false
+          - text: 'if I were '
+            grammar_highlight: true
+          - text: 'someone with weak legs, I think I''d probably have a difficult time. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 356
+    position: 2
+    japanese: 弟にしたら、私のようなうるさい姉はいやでたまらない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bc%9f"><span>弟</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%9f%e3%82%89%e3%80%81"><strong>にしたら、</strong></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e3%81%86%e3%82%8b%e3%81%95%e3%81%84"><span>私のようなうるさい</span></a><a href="https://takoboto.jp/?q=%e5%a7%89%e3%81%af%e3%81%84%e3%82%84%e3%81%a7%e3%81%9f%e3%81%be%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>姉はいやでたまらない。</span></a>
+    segments:
+      - text: 弟
+        grammar_highlight: false
+      - text: にしたら、
+        grammar_highlight: true
+      - text: 私のようなうるさい姉はいやでたまらない。
+        grammar_highlight: false
+    reading: おとうとにしたら、わたしのようなうるさいあねはいやでたまらない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: From my brother's point of view, a fussy elder sister like me is unbearable.
+        html: |-
+          <strong>From my brother's point of view, </strong><span>a fussy elder sister like me is unbearable. </span>
+        segments:
+          - text: 'From my brother''s point of view, '
+            grammar_highlight: true
+          - text: 'a fussy elder sister like me is unbearable. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5257
+    position: 3
+    japanese: わたしにしたらアメリカの冷たいビールよりイギリス生ぬるいビールがおいしい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97"><span>わたし</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%9f%e3%82%89"><strong>にしたら</strong></a><a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%ae"><span>アメリカの</span></a><a href="https://takoboto.jp/?q=%e5%86%b7%e3%81%9f%e3%81%84%e3%83%93%e3%83%bc%e3%83%ab%e3%82%88%e3%82%8a%e3%82%a4%e3%82%ae%e3%83%aa%e3%82%b9"><span>冷たいビールよりイギリス</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e3%81%ac%e3%82%8b%e3%81%84%e3%83%93%e3%83%bc%e3%83%ab%e3%81%8c%e3%81%8a%e3%81%84%e3%81%97%e3%81%84%e3%80%82"><span>生ぬるいビールがおいしい。</span></a>
+    segments:
+      - text: わたし
+        grammar_highlight: false
+      - text: にしたら
+        grammar_highlight: true
+      - text: アメリカの冷たいビールよりイギリス生ぬるいビールがおいしい。
+        grammar_highlight: false
+    reading: わたしにしたらアメリカのつめたいビールよりイギリスなまぬるいビールがおいしい。
+    credits_raw: brsdjbd
+    translations:
+      - language: en
+        text: For me warm English ale is more delicious than cold American beer.
+        html: |-
+          <strong>For me </strong><span>warm English ale is more delicious than cold American beer. </span>
+        segments:
+          - text: 'For me '
+            grammar_highlight: true
+          - text: 'warm English ale is more delicious than cold American beer. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7091
+    position: 4
+    japanese: 子供にしたら、博物館めぐりはつまらないだろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b"><span>子供</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%9f%e3%82%89"><strong>にしたら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%8d%9a%e7%89%a9%e9%a4%a8%e3%82%81%e3%81%90%e3%82%8a%e3%81%af%e3%81%a4%e3%81%be%e3%82%89%e3%81%aa%e3%81%84%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>博物館めぐりはつまらないだろう。</span></a>
+    segments:
+      - text: 子供
+        grammar_highlight: false
+      - text: にしたら
+        grammar_highlight: true
+      - text: 、博物館めぐりはつまらないだろう。
+        grammar_highlight: false
+    reading: こどもにしたら、はくぶつかんめぐりはつまらないだろう。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: Looking around museums is probably boring for kids.
+        html: |-
+          <span>Looking around museums is probably boring </span><strong>for </strong><span>kids. </span>
+        segments:
+          - text: 'Looking around museums is probably boring '
+            grammar_highlight: false
+          - text: 'for '
+            grammar_highlight: true
+          - text: 'kids. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Hmm, I think I'd have "If I was my brother I'd be unable to bear a fussy elder sister like me."
+    html: Hmm, I think I'd have "If I was my brother I'd be unable to bear a fussy elder sister like me."
+    credits_raw: Amatuka
+    content_sha256: 842160df76f38634d686593569b0129ad89beca52493c12e3ceeb218c63bf8c5
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: You normally would say 弟からしたら, while 弟にしたら is more or less awkward.
+    html: You normally would say 弟からしたら, while 弟にしたら is more or less awkward.
+    credits_raw: bamboo4
+    content_sha256: d13a5cfea1ed0d12bec335b1ad2981751a15e3c03ac066ba9ed03ce92baac19e
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: what is the difference between karamiru to and nishitara?
+    html: what is the difference between karamiru to and nishitara?
+    credits_raw: g12
+    content_sha256: 30f2c64ab3a056374c397f0c41b9beb15197899308e68e85b8c33ca137d00ffc
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: '[karamiruto]'
+    html: '[karamiruto]'
+    credits_raw: Miki
+    content_sha256: f9c3317e3637dd95f7f5f520ae859f76da60f299ead99bd6508d17c5b4a07cb8
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 117
+    label: にとって
+    source_url: https://takoboto.jp/bunpo/117
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:39:14+00:00'
+response_sha256: d7c22e799328a4f50062805885ce2647cc44b0e4fbd980dcb754960e5aa5bbdc
+warnings: []

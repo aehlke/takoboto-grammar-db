@@ -1,0 +1,328 @@
+schema_version: 2
+id: 363
+source: takoboto
+source_url: https://takoboto.jp/bunpo/363/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: うちに
+romanized_label: uchini-2
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc, 富田
+meaning: |-
+  before ... (something bad happens); while ... still (being OK), while (state still continue) and before the state is finished
+meaning_example: 暗くならないうちに帰ってきなさい。/ Come home before it gets dark.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_363
+    body_text: |-
+      before ... (something bad happens); while ... still (being OK), while (state still continue) and before the state is finished 
+       暗くならないうちに帰ってきなさい。/ Come home before it gets dark.
+    body_html: |-
+      <span>before ... (something bad happens); while ... still (being OK), while (state still continue) and before the state is finished</span> <br/> <span>暗くならないうちに帰ってきなさい。/ Come home before it gets dark.</span>
+    credits_raw: dc, 富田
+formations: []
+examples:
+  - source_id: 337
+    position: 0
+    japanese: 暗くならないうちに帰ってきなさい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9a%97%e3%81%8f"><span>暗く</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84"><span>ならない</span></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ab"><strong>うちに</strong></a><a href="https://takoboto.jp/?q=%e5%b8%b0%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%aa%e3%81%95%e3%81%84%e3%80%82"><span>帰ってきなさい。</span></a>
+    segments:
+      - text: 暗くならない
+        grammar_highlight: false
+      - text: うちに
+        grammar_highlight: true
+      - text: 帰ってきなさい。
+        grammar_highlight: false
+    reading: くらくならないうちにかえってきなさい。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Come home before it gets dark.
+        html: |-
+          <span>Come home </span><strong>before </strong><span>it gets </span><span>dark. </span>
+        segments:
+          - text: 'Come home '
+            grammar_highlight: false
+          - text: 'before '
+            grammar_highlight: true
+          - text: 'it gets dark. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5237
+    position: 1
+    japanese: 雨が降らないうちに帰りましょう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%89%e3%81%aa%e3%81%84"><span>降らない</span></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ab"><strong>うちに</strong></a><a href="https://takoboto.jp/?q=%e5%b8%b0%e3%82%8a%e3%81%be%e3%81%97%e3%82%87%e3%81%86%e3%80%82"><span>帰りましょう。</span></a>
+    segments:
+      - text: 雨が降らない
+        grammar_highlight: false
+      - text: うちに
+        grammar_highlight: true
+      - text: 帰りましょう。
+        grammar_highlight: false
+    reading: あめがふらないうちにかえりましょう。
+    credits_raw: eastmael
+    translations:
+      - language: en
+        text: Let's go home before it starts to rain. (lit. while it's not yet raining.)
+        html: |-
+          <span>Let's go home </span><strong>before </strong><span>it starts to rain. </span><span>(lit. while it's not yet raining.) </span>
+        segments:
+          - text: 'Let''s go home '
+            grammar_highlight: false
+          - text: 'before '
+            grammar_highlight: true
+          - text: 'it starts to rain. (lit. while it''s not yet raining.) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5255
+    position: 2
+    japanese: 電車が動いているうちに降りてはなりません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%bb%e8%bb%8a%e3%81%8c"><span>電車が</span></a><a href="https://takoboto.jp/?q=%e5%8b%95%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b"><span>動いている</span></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ab"><strong>うちに</strong></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%8a%e3%81%a6%e3%81%af%e3%81%aa%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>降りてはなりません。</span></a>
+    segments:
+      - text: 電車が動いている
+        grammar_highlight: false
+      - text: うちに
+        grammar_highlight: true
+      - text: 降りてはなりません。
+        grammar_highlight: false
+    reading: でんしゃがうごいているうちにおりてはなりません。
+    credits_raw: brsdjbd
+    translations:
+      - language: en
+        text: Do not get off the train while it is in motion.
+        html: |-
+          <span>Do not get off the train </span><strong>while </strong><span>it is in motion. </span>
+        segments:
+          - text: 'Do not get off the train '
+            grammar_highlight: false
+          - text: 'while '
+            grammar_highlight: true
+          - text: 'it is in motion. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6903
+    position: 3
+    japanese: 雨が降らないうちに、帰ったほうがいいと思うから、これで、失礼します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%89%e3%81%aa%e3%81%84"><span>降らない</span></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ab"><strong>うちに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%b8%b0%e3%81%a3%e3%81%9f%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84%e3%81%a8"><span>帰ったほうがいいと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%86%e3%81%8b%e3%82%89%e3%80%81%e3%81%93%e3%82%8c%e3%81%a7%e3%80%81"><span>思うから、これで、</span></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e7%a4%bc%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>失礼します。</span></a>
+    segments:
+      - text: 雨が降らない
+        grammar_highlight: false
+      - text: うちに
+        grammar_highlight: true
+      - text: 、帰ったほうがいいと思うから、これで、失礼します。
+        grammar_highlight: false
+    reading: あめがふらないうちに、かえったほうがいいとおもうから、これで、しつれいします。
+    credits_raw: minutiae
+    translations:
+      - language: en
+        text: I think it's best I go before it starts raining, so I'll be leaving now.
+        html: |-
+          <span>I think it's best I go </span><strong>before </strong><span>it starts raining, </span><span>so I'll be leaving now. </span>
+        segments:
+          - text: 'I think it''s best I go '
+            grammar_highlight: false
+          - text: 'before '
+            grammar_highlight: true
+          - text: 'it starts raining, so I''ll be leaving now. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6905
+    position: 4
+    japanese: 母が元気なうちに、会いにいきたいと思っています。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%8c"><span>母が</span></a><a href="https://takoboto.jp/?q=%e5%85%83%e6%b0%97%e3%81%aa"><span>元気な</span></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ab"><strong>うちに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e3%81%84%e3%81%ab%e3%81%84%e3%81%8d%e3%81%9f%e3%81%84%e3%81%a8"><span>会いにいきたいと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>思っています。</span></a>
+    segments:
+      - text: 母が元気な
+        grammar_highlight: false
+      - text: うちに
+        grammar_highlight: true
+      - text: 、会いにいきたいと思っています。
+        grammar_highlight: false
+    reading: ははがげんきなうちに、あいにいきたいとおもっています。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I think I'd like to go and see my mother while she is still healthy.
+        html: |-
+          <span>I think I'd like to go and see my mother </span><strong>while </strong><span>she is </span><strong>still </strong><span>healthy. </span>
+        segments:
+          - text: 'I think I''d like to go and see my mother '
+            grammar_highlight: false
+          - text: 'while '
+            grammar_highlight: true
+          - text: 'she is '
+            grammar_highlight: false
+          - text: 'still '
+            grammar_highlight: true
+          - text: 'healthy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8512
+    position: 5
+    japanese: 彼女は雇われて５ヶ月もしないうちにくびになった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e9%9b%87%e3%82%8f%e3%82%8c%e3%81%a6"><span>雇われて</span></a><a href="https://takoboto.jp/?q=%ef%bc%95%e3%83%b6"><span>５ヶ</span></a><a href="https://takoboto.jp/?q=%e6%9c%88%e3%82%82%e3%81%97%e3%81%aa%e3%81%84"><span>月もしない</span></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ab"><strong>うちに</strong></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%b3%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>くびになった。</span></a>
+    segments:
+      - text: 彼女は雇われて５ヶ月もしない
+        grammar_highlight: false
+      - text: うちに
+        grammar_highlight: true
+      - text: くびになった。
+        grammar_highlight: false
+    reading: かのじょはやとわれて５かげつもしないうちにくになった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: She had not been employed five months before she was fired.
+        html: |-
+          <span>She had not been employed five months before she was fired. </span>
+        segments:
+          - text: 'She had not been employed five months before she was fired. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8513
+    position: 6
+    japanese: その村に着かないうちに彼女はすっかりへたばってしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e6%9d%91%e3%81%ab"><span>村に</span></a><a href="https://takoboto.jp/?q=%e7%9d%80%e3%81%8b%e3%81%aa%e3%81%84"><span>着かない</span></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ab"><strong>うちに</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%81%99%e3%81%a3%e3%81%8b%e3%82%8a%e3%81%b8%e3%81%9f%e3%81%b0%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>彼女はすっかりへたばってしまった。</span></a>
+    segments:
+      - text: その村に着かない
+        grammar_highlight: false
+      - text: うちに
+        grammar_highlight: true
+      - text: 彼女はすっかりへたばってしまった。
+        grammar_highlight: false
+    reading: そのむらにつかないうちにかのじょはすっかりへたばってしまった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: She had been tired out before she got to the village.
+        html: |-
+          <span>She had been tired out before she got to the village. </span>
+        segments:
+          - text: 'She had been tired out before she got to the village. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Verb (Dictionary form/nai form) + uchini
+
+      i-adjectives (い) + uchini
+
+      na-adjectives + な + uchini
+
+      Noun + の + uchini
+    html: |-
+      Verb (Dictionary form/nai form) + uchini<br/><br/>i-adjectives (い) + uchini<br/><br/>na-adjectives + な + uchini<br/><br/>Noun + の + uchini
+    credits_raw: fon
+    content_sha256: 3f42baf3a797f1d794f07d92d07b5f3b6d3bb79b63453deaeb263e2952250bb3
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Uchini means-As long as a favorable time period lasts,do something.....その状態が変わる前に、何かをする。
+      Ex-子供が寝ているうちに、早く部屋を掃除しときます。
+    html: |-
+      Uchini means-As long as a favorable time period lasts,do something.....その状態が変わる前に、何かをする。<br/>Ex-子供が寝ているうちに、早く部屋を掃除しときます。
+    credits_raw: ashishjoshi
+    content_sha256: e8fa27e2279c6acb2d7051df93889892de1834807baef65e72a8f9b91432dea7
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: '#5255 電車は動くうちに is not correct. 電車が動いているうちに降りてはなりません。 would be better.'
+    html: '#5255 電車は動くうちに is not correct. 電車が動いているうちに降りてはなりません。 would be better.'
+    credits_raw: Miki
+    content_sha256: 433d19b57851ac874a67d0872168ade0d20f4a3f186f927e8f21849609ce9d35
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Shouldn't we split this entry into うちに and ないうちに as these two expressions are rendered quite differently in English?
+    html: Shouldn't we split this entry into うちに and ないうちに as these two expressions are rendered quite differently in English?
+    credits_raw: Rukawa
+    content_sha256: 2d4f01241705faa28ceb9ea78bf0a28863e0e67609fc116e3d73798a8d244b34
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      But it is one grammar concept in japanese - The division should be based on japanese grammar, and not the english one, no?
+    html: |-
+      But it is one grammar concept in japanese - The division should be based on japanese grammar, and not the english one, no?
+    credits_raw: caranha
+    content_sha256: fb9bb6ea6235e4c2c285b1aad4784787ada74aad8e64128c62c7869b659ecab9
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      Is "utchi" 内 ? In that case, maybe "during, while, as long as" or something similar would be an easier translation. Double negations are such a pain to think about !
+    html: |-
+      Is "utchi" 内 ? In that case, maybe "during, while, as long as" or something similar would be an easier translation. Double negations are such a pain to think about !
+    credits_raw: charles
+    content_sha256: b5ff346c44962c78a9b22ff6f2d02c48de2275a5e93e94a0a078f3c00ad38395
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      Who the heck uses whilst? translating modern Japanese with archaic English, seems a little 何か変だよ｡
+
+      For example #5255 How about, "Do not get off the train while it is is motion." or if your a stickler for exact translation. "You must not get off the train while it is in motion."
+    html: |-
+      Who the heck uses whilst? translating modern Japanese with archaic English, seems a little 何か変だよ｡<br/><br/>For example #5255 How about, "Do not get off the train while it is is motion." or if your a stickler for exact translation. "You must not get off the train while it is in motion."
+    credits_raw: tigert
+    content_sha256: 311eff840f4476c65947a4aa4b0b5f3be7cbbbb52f61b7f206c511c1879d6128
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: 'I moved Ex #6903 for [uchini] because it was very close of #5237.'
+    html: 'I moved Ex #6903 for [uchini] because it was very close of #5237.'
+    credits_raw: 赤毛
+    content_sha256: 7efb2652e79b825852dd8c59db6d1e696d863e7e62cd2f0e1a877a8a929804b1
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      The British still use 'whilst' quite regularly. 
+      It's not archaic. It's just not common in American English.
+    html: |-
+      The British still use 'whilst' quite regularly. <br/>It's not archaic. It's just not common in American English.
+    credits_raw: petra
+    content_sha256: 3a1e1f17e607c7e228138c794730e5aea3893ab79ba6b4331e11e801a43afa16
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: Don't get off the train while it's still moving.
+    html: Don't get off the train while it's still moving.
+    credits_raw: lucinda lohmanoota
+    content_sha256: 15a15c687ab8e044646d723a052460339025c593295734af043e718032e23dc3
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:36:17+00:00'
+response_sha256: 65558dfa3c9648b10531ee1ae9003422ffff90816d1a6f08321af585ce1fc35b
+warnings: []

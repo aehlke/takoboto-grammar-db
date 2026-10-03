@@ -1,0 +1,500 @@
+schema_version: 2
+id: 645
+source: takoboto
+source_url: https://takoboto.jp/bunpo/645/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: に伴って
+romanized_label: nitomonatte
+alternate_forms:
+  - にともなって
+jlpt_level: 2
+credits_raw: dc
+meaning: as; in proportion to; with
+meaning_example: The number of problems related to the sale of pets has been increasing with the recent pet boom.
+meaning_notes:
+  - language: ja
+    text: とともに; につれて; に従って
+    html: とともに; につれて; に従って
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_645
+    body_text: |-
+      as; in proportion to; with 
+       The number of problems related to the sale of pets has been increasing with the recent pet boom. 
+       とともに; につれて; に従って
+    body_html: |-
+      <span>as; in proportion to; with</span> <br/> <span>The number of problems related to the sale of pets has been increasing with the recent pet boom.</span> <br/> <span>とともに; につれて; に従って</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_645
+    body_text: Verb (dictionary form)+に伴ってNoun+に伴って
+    body_html: |-
+      <div><div><div>Verb (dictionary form)</div></div><div><div>+</div><div>に伴って</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>に伴って</div></div></div>
+    credits_raw: null
+formations:
+  - Verb (dictionary form) + に伴って
+  - Noun + に伴って
+examples:
+  - source_id: 6421
+    position: 0
+    japanese: ペットの販売に関するトラブルが、最近のペットブームに伴って増加しています。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%9a%e3%83%83%e3%83%88%e3%81%ae"><span>ペットの</span></a><a href="https://takoboto.jp/?q=%e8%b2%a9%e5%a3%b2%e3%81%ab"><span>販売に</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e3%81%99%e3%82%8b%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab%e3%81%8c%e3%80%81"><span>関するトラブルが、</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e8%bf%91%e3%81%ae%e3%83%9a%e3%83%83%e3%83%88%e3%83%96%e3%83%bc%e3%83%a0"><span>最近のペットブーム</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e4%bc%b4%e3%81%a3%e3%81%a6"><strong>に伴って</strong></a><a href="https://takoboto.jp/?q=%e5%a2%97%e5%8a%a0%e3%81%97%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>増加しています。</span></a>
+    segments:
+      - text: ペットの販売に関するトラブルが、最近のペットブーム
+        grammar_highlight: false
+      - text: に伴って
+        grammar_highlight: true
+      - text: 増加しています。
+        grammar_highlight: false
+    reading: ペットのはんばいにかんするトラブルが、さいきんのペットブームにともなってぞうかしています。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: The number of problems related to the sale of pets has been increasing with the recent pet boom.
+        html: |-
+          <span>The number of problems related to the sale of pets has been increasing with the recent pet boom. </span>
+        segments:
+          - text: 'The number of problems related to the sale of pets has been increasing with the recent pet boom. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6422
+    position: 1
+    japanese: 秋が深まるに伴って、山の紅葉が進む。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%8b%e3%81%8c"><span>秋が</span></a><a href="https://takoboto.jp/?q=%e6%b7%b1%e3%81%be%e3%82%8b"><span>深まる</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e4%bc%b4%e3%81%a3%e3%81%a6"><strong>に伴って</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%b1%b1%e3%81%ae"><span>山の</span></a><a href="https://takoboto.jp/?q=%e7%b4%85%e8%91%89%e3%81%8c"><span>紅葉が</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%80%e3%80%82"><span>進む。</span></a>
+    segments:
+      - text: 秋が深まる
+        grammar_highlight: false
+      - text: に伴って
+        grammar_highlight: true
+      - text: 、山の紅葉が進む。
+        grammar_highlight: false
+    reading: あきがふかまるにともなって、やまのこうようがすすむ。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: The mountain's autumn colors advance as autumn deepens.
+        html: |-
+          <span>The mountain's autumn colors advance as autumn deepens. </span>
+        segments:
+          - text: 'The mountain''s autumn colors advance as autumn deepens. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6423
+    position: 2
+    japanese: 地震に伴う火災で、多くの人命が失われた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%9c%b0%e9%9c%87%e3%81%ab"><span>地震に</span></a><a href="https://takoboto.jp/?q=%e4%bc%b4%e3%81%86"><span>伴う</span></a><a href="https://takoboto.jp/?q=%e7%81%ab%e7%81%bd%e3%81%a7%e3%80%81"><span>火災で、</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%8f%e3%81%ae"><span>多くの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e5%91%bd%e3%81%8c"><span>人命が</span></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e3%82%8f%e3%82%8c%e3%81%9f%e3%80%82"><span>失われた。</span></a>
+    segments:
+      - text: 地震に伴う火災で、多くの人命が失われた。
+        grammar_highlight: false
+    reading: じしんにともなうかさいで、おおくのじんめいがうしなわれた。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: Because of the fires that accompanied the earthquake, there was a large loss of life.
+        html: |-
+          <span>Because of the fires that accompanied the earthquake, there was a large loss of life. </span>
+        segments:
+          - text: 'Because of the fires that accompanied the earthquake, there was a large loss of life. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 579
+    position: 3
+    japanese: 地震に伴って火災が発生することが多い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%9c%b0%e9%9c%87"><span>地震</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e4%bc%b4%e3%81%a3%e3%81%a6"><strong>に伴って</strong></a><a href="https://takoboto.jp/?q=%e7%81%ab%e7%81%bd%e3%81%8c"><span>火災が</span></a><a href="https://takoboto.jp/?q=%e7%99%ba%e7%94%9f%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c"><span>発生することが</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%84%e3%80%82"><span>多い。</span></a>
+    segments:
+      - text: 地震
+        grammar_highlight: false
+      - text: に伴って
+        grammar_highlight: true
+      - text: 火災が発生することが多い。
+        grammar_highlight: false
+    reading: じしんにともなってかさいがはっせいすることがおおい。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Fire outbreaks are often associated with earthquakes
+        html: |-
+          <span>Fire outbreaks are </span><strong>often associated </strong><span>with earthquakes </span>
+        segments:
+          - text: 'Fire outbreaks are '
+            grammar_highlight: false
+          - text: 'often associated '
+            grammar_highlight: true
+          - text: 'with earthquakes '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 734
+    position: 4
+    japanese: 軽石噴火：粘性の高いマグマの活動に伴って発生す ることが多い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%bb%bd%e7%9f%b3%e5%99%b4%e7%81%ab%ef%bc%9a"><span>軽石噴火：</span></a><a href="https://takoboto.jp/?q=%e7%b2%98%e6%80%a7%e3%81%ae"><span>粘性の</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84%e3%83%9e%e3%82%b0%e3%83%9e%e3%81%ae"><span>高いマグマの</span></a><a href="https://takoboto.jp/?q=%e6%b4%bb%e5%8b%95"><span>活動</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e4%bc%b4%e3%81%a3%e3%81%a6"><strong>に伴って</strong></a><a href="https://takoboto.jp/?q=%e7%99%ba%e7%94%9f%e3%81%99+%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c"><span>発生す ることが</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%84%e3%80%82"><span>多い。</span></a>
+    segments:
+      - text: 軽石噴火：粘性の高いマグマの活動
+        grammar_highlight: false
+      - text: に伴って
+        grammar_highlight: true
+      - text: 発生す ることが多い。
+        grammar_highlight: false
+    reading: かるいしふんか：ねんせいのたかいマグマのかつどうにともなってはっせいすることがおおい。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: 'Pumice Eruptions : Many incidents of occurences associated with [volcanic] activity of highly viscous magma.'
+        html: |-
+          <span>Pumice Eruptions : Many incidents of occurences </span><strong>associated with </strong><span>[volcanic] activity of highly viscous magma. </span>
+        segments:
+          - text: 'Pumice Eruptions : Many incidents of occurences '
+            grammar_highlight: false
+          - text: 'associated with '
+            grammar_highlight: true
+          - text: '[volcanic] activity of highly viscous magma. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5305
+    position: 5
+    japanese: 少子化に伴い高齢者が高齢者を介護するようになるだろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%b0%91%e5%ad%90%e5%8c%96"><span>少子化</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e4%bc%b4%e3%81%84"><strong>に伴い</strong></a><a href="https://takoboto.jp/?q=%e9%ab%98%e9%bd%a2%e8%80%85%e3%81%8c"><span>高齢者が</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e9%bd%a2%e8%80%85%e3%82%92"><span>高齢者を</span></a><a href="https://takoboto.jp/?q=%e4%bb%8b%e8%ad%b7%e3%81%99%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>介護するようになるだろう。</span></a>
+    segments:
+      - text: 少子化
+        grammar_highlight: false
+      - text: に伴い
+        grammar_highlight: true
+      - text: 高齢者が高齢者を介護するようになるだろう。
+        grammar_highlight: false
+    reading: しょうしかにともないこうれいしゃがこうれいしゃをかいごするようになるだろう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Along with the declining birth rate, the elderly will begin to care for the elderly.
+        html: |-
+          <strong>Along with </strong><span>the declining birth rate, the elderly will begin to care for the elderly. </span>
+        segments:
+          - text: 'Along with '
+            grammar_highlight: true
+          - text: 'the declining birth rate, the elderly will begin to care for the elderly. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5806
+    position: 6
+    japanese: 人口が増えるに伴って、　いろいろな問題が起ってきた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%ba%ba%e5%8f%a3%e3%81%8c"><span>人口が</span></a><a href="https://takoboto.jp/?q=%e5%a2%97%e3%81%88%e3%82%8b"><span>増える</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e4%bc%b4%e3%81%a3%e3%81%a6"><strong>に伴って</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%80%80%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d%e3%81%aa"><span>、　いろいろな</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%8c"><span>問題が</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82"><span>起ってきた。</span></a>
+    segments:
+      - text: 人口が増える
+        grammar_highlight: false
+      - text: に伴って
+        grammar_highlight: true
+      - text: 、　いろいろな問題が起ってきた。
+        grammar_highlight: false
+    reading: じんこうがふえるにともなって、いろいろなもんだいがおこってきた。
+    credits_raw: Meghana
+    translations:
+      - language: en
+        text: Various problems have come up along with the increase in the population.
+        html: |-
+          <span>Various problems have come up along with the increase in the population. </span>
+        segments:
+          - text: 'Various problems have come up along with the increase in the population. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6420
+    position: 7
+    japanese: 経済発展に伴う環境破壊が問題になっている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%b5%8c%e6%b8%88%e7%99%ba%e5%b1%95"><span>経済発展</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e4%bc%b4%e3%81%86"><strong>に伴う</strong></a><a href="https://takoboto.jp/?q=%e7%92%b0%e5%a2%83%e7%a0%b4%e5%a3%8a%e3%81%8c"><span>環境破壊が</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>問題になっている。</span></a>
+    segments:
+      - text: 経済発展
+        grammar_highlight: false
+      - text: に伴う
+        grammar_highlight: true
+      - text: 環境破壊が問題になっている。
+        grammar_highlight: false
+    reading: けいざいはってんにともなうかんきょうはかいがもんだいになっている。
+    credits_raw: sw
+    translations:
+      - language: en
+        text: Environmental destruction is becoming a problem as the economy develops.
+        html: |-
+          <span>Environmental destruction is becoming a problem </span><strong>as </strong><span>the economy develops. </span>
+        segments:
+          - text: 'Environmental destruction is becoming a problem '
+            grammar_highlight: false
+          - text: 'as '
+            grammar_highlight: true
+          - text: 'the economy develops. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6939
+    position: 8
+    japanese: 発熱に伴って、吐き気もしてきた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%99%ba%e7%86%b1"><span>発熱</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e4%bc%b4%e3%81%a3%e3%81%a6"><strong>に伴って</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%90%90%e3%81%8d"><span>吐き</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%82%82%e3%81%97%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82"><span>気もしてきた。</span></a>
+    segments:
+      - text: 発熱
+        grammar_highlight: false
+      - text: に伴って
+        grammar_highlight: true
+      - text: 、吐き気もしてきた。
+        grammar_highlight: false
+    reading: はつねつにともなって、はきけもしてきた。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: Along with the fever I also began to vomit.
+        html: |-
+          <strong>Along with </strong><span>the fever </span><span>I also began to vomit. </span>
+        segments:
+          - text: 'Along with '
+            grammar_highlight: true
+          - text: 'the fever I also began to vomit. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7173
+    position: 9
+    japanese: この町でもどんどん人口が増加している。それにともなってスーパーや銀行もでき、便利になってきた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e7%94%ba%e3%81%a7%e3%82%82%e3%81%a9%e3%82%93%e3%81%a9%e3%82%93"><span>町でもどんどん</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e5%8f%a3%e3%81%8c"><span>人口が</span></a><a href="https://takoboto.jp/?q=%e5%a2%97%e5%8a%a0%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82%e3%81%9d%e3%82%8c"><span>増加している。それ</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%82%82%e3%81%aa%e3%81%a3%e3%81%a6"><strong>にともなって</strong></a><a href="https://takoboto.jp/?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%82%84"><span>スーパーや</span></a><a href="https://takoboto.jp/?q=%e9%8a%80%e8%a1%8c%e3%82%82%e3%81%a7%e3%81%8d%e3%80%81"><span>銀行もでき、</span></a><a href="https://takoboto.jp/?q=%e4%be%bf%e5%88%a9%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82"><span>便利になってきた。</span></a>
+    segments:
+      - text: この町でもどんどん人口が増加している。それ
+        grammar_highlight: false
+      - text: にともなって
+        grammar_highlight: true
+      - text: スーパーや銀行もでき、便利になってきた。
+        grammar_highlight: false
+    reading: このまちでもどんどんじんこうがぞうかしている。それにともなってスーパーやぎんこうもでき、べんりになってきた。
+    credits_raw: sureshnihon
+    translations:
+      - language: en
+        text: |-
+          The population has increased in this town rapidly, you could see the supermarkets and bank also As well,it has been useful.
+        html: |-
+          <span>The population has increased in this town rapidly, you could see the supermarkets and bank also </span><strong>As </strong><span>well,it has been useful. </span>
+        segments:
+          - text: 'The population has increased in this town rapidly, you could see the supermarkets and bank also '
+            grammar_highlight: false
+          - text: 'As '
+            grammar_highlight: true
+          - text: 'well,it has been useful. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      ＊When と共に(とともに) means 'as,' it can be rephrased as につれて, に伴って(にともなって), or に従って(にしたがって).
+      EXAMPLE: 景気の回復[と共に/につれて/に伴って/に従って]失業率が下がってきた。(As business recovers, the unemployment rate is coming down.)
+
+      FORMATION:
+      Ｖ(dict. form) + に伴って・に伴い
+      Ｖ(dict. form) + に伴う + Ｎ
+      Ｎ + に伴って・に伴い
+      Ｎ1 + に伴う + Ｎ2 ("accompany" is often a plausible translation)
+    html: |-
+      ＊When と共に(とともに) means 'as,' it can be rephrased as につれて, に伴って(にともなって), or に従って(にしたがって).<br/>EXAMPLE: 景気の回復[と共に/につれて/に伴って/に従って]失業率が下がってきた。(As business recovers, the unemployment rate is coming down.)<br/><br/>FORMATION:<br/>Ｖ(dict. form) + に伴って・に伴い<br/>Ｖ(dict. form) + に伴う + Ｎ<br/>Ｎ + に伴って・に伴い<br/>Ｎ1 + に伴う + Ｎ2 ("accompany" is often a plausible translation)
+    credits_raw: rubyhatchet
+    content_sha256: f0ad9dc1d193ab5253694edc2c203374f04b6032a0f9070e40c9528c4f32dcf2
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      The study book I'm using indicates that に伴って can indicate a causal relationship (as につれて and にしたがって), but it can ALSO be used for situations that arise simultaneously (同時に起きる) - supporting "earthquakes are often accompanied by ..." (which also gets my vote).
+    html: |-
+      The study book I'm using indicates that に伴って can indicate a causal relationship (as につれて and にしたがって), but it can ALSO be used for situations that arise simultaneously (同時に起きる) - supporting "earthquakes are often accompanied by ..." (which also gets my vote).
+    credits_raw: srobertson
+    content_sha256: 18453ffb94b136d632afeb540b4bd76c97248174720774420b687366c0614ea0
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: I think "be associated with" is good. Along with implies something "be followed by" something but "at the same time".
+    html: I think "be associated with" is good. Along with implies something "be followed by" something but "at the same time".
+    credits_raw: Miki
+    content_sha256: 6290f73f7ad73311261f12f6153a8eac2c2f2f50f10e9c8ef71911e451478d48
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: "mikiへ \nso nitomonatte means \n　　\"at the same time\", \nnot \n　　one after the other / \n one thing caused by another\""
+    html: |-
+      mikiへ <br/>so nitomonatte means <br/>　　"at the same time", <br/>not <br/>　　one after the other / <br/> one thing caused by another"
+    credits_raw: dc
+    content_sha256: a4105f01f519d395127f1c09dc90686d4f3bf71bf9765591bfef7d8b7f6b7d96
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: can you explain any difference with nitsurete or totomoni ?
+    html: can you explain any difference with nitsurete or totomoni ?
+    credits_raw: dc
+    content_sha256: eebc960128e410d38d0975d06774d97442f592b11b63ee427a0e550ce3bbf442
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      Sorry, my English was wrong.
+      ni tomonatte means
+       "one thing caused by another"
+      not 
+       "at the same time", "one after the other"(kougo??)
+    html: |-
+      Sorry, my English was wrong.<br/>ni tomonatte means<br/> "one thing caused by another"<br/>not <br/> "at the same time", "one after the other"(kougo??)
+    credits_raw: Miki
+    content_sha256: e7b4250af4fc7f3f83677e93a276900c8c1bfcc08a43de1bd0ba585deefd1a39
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: OK I've added another example and a bit to the grammar. Is this good to go to better 'check' number?
+    html: OK I've added another example and a bit to the grammar. Is this good to go to better 'check' number?
+    credits_raw: Amatuka
+    content_sha256: a7608dc888d3978e4e379d0a0de9184e4d0896cb9864c727995d20dd055b1fa4
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: I think 'one thing caused by another' does not preclude them both happening over the same (general) time period.
+    html: I think 'one thing caused by another' does not preclude them both happening over the same (general) time period.
+    credits_raw: Amatuka
+    content_sha256: 194ee9f66d6526427558b3bd6b34254a11cc74ba9cbc1d11b854f09750b3ca74
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: I don't remember what was there before now. ^^v
+    html: I don't remember what was there before now. ^^v
+    credits_raw: Amatuka
+    content_sha256: 02c7c80533b1c09112dcc5d3735d44fcff303588c3eb5ea02179adbaa416617e
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      Oh, and 
+      はじめまして、みきさん。これからもどうぞよろしくね。
+      ;-)
+    html: |-
+      Oh, and <br/>はじめまして、みきさん。これからもどうぞよろしくね。<br/>;-)
+    credits_raw: Amatuka
+    content_sha256: 1acd0918a1ab6e524941f78c201863d19c82a8fbafe628ece17664650b0a991c
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: こちらこそ。:)
+    html: こちらこそ。:)
+    credits_raw: Miki
+    content_sha256: 82443faa1ae6bc1a0809f05381a8dbd2f5c18c0444ca5976efa4025e1910767f
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      I would vote for: "Earthquakes are often accompanied by outbreaks of fire." に伴ってdoes not have the meaning of "as a result of" or "as the consequence of" even though it is broad enough to encompass such situation in volving causality. It can be an accidental, as opposed to causal, happenstance.
+    html: |-
+      I would vote for: "Earthquakes are often accompanied by outbreaks of fire." に伴ってdoes not have the meaning of "as a result of" or "as the consequence of" even though it is broad enough to encompass such situation in volving causality. It can be an accidental, as opposed to causal, happenstance.
+    credits_raw: bamboo4
+    content_sha256: 6b83be4578e9ca6c64e49e4a57e30ef867e14aab2812ffb3f0ea8185130f9306
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      Hmm, however it does have an strong 'direction' and at least a hint of an /implication/ of causality.
+      Take the statement "Psychosis is often associated with canabis use." vs. "Canabis use is often associated with psychosis."
+      I think there's a fairly clear difference in implied meaning between the two.
+    html: |-
+      Hmm, however it does have an strong 'direction' and at least a hint of an /implication/ of causality.<br/>Take the statement "Psychosis is often associated with canabis use." vs. "Canabis use is often associated with psychosis."<br/>I think there's a fairly clear difference in implied meaning between the two.
+    credits_raw: Amatuka
+    content_sha256: aa0c6e38adf631a5c0f2c9b72210d39bf23f53d4c2c647403ece2d1f6a37ffc1
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      I saw this sentence in an email from a friend today: 
+
+      住所変更に伴う、やらなきゃいけないことがたくさんあって. 
+
+      She was apologizing for not writing sooner because she had a lot to do in conjunction with her move to a new apartment. This is the dictionary form not the te form but I guess it fits? 
+
+      Also, does anyone think there should there be a きゃいけない (colloquial) entry?
+    html: |-
+      I saw this sentence in an email from a friend today: <br/><br/>住所変更に伴う、やらなきゃいけないことがたくさんあって. <br/><br/>She was apologizing for not writing sooner because she had a lot to do in conjunction with her move to a new apartment. This is the dictionary form not the te form but I guess it fits? <br/><br/>Also, does anyone think there should there be a きゃいけない (colloquial) entry?
+    credits_raw: yookoso
+    content_sha256: f878ae826cc5180118266d24575649f13fb1be86de5c8b31b637c63423505470
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      As indicated before, 伴って does not have the direct causal relationship with the event in which the secondary event occurs. There may be such causal relationship or there may not be, so that the expression does not exclude causality but that's not the only meaning that you get out of 伴って.
+    html: |-
+      As indicated before, 伴って does not have the direct causal relationship with the event in which the secondary event occurs. There may be such causal relationship or there may not be, so that the expression does not exclude causality but that's not the only meaning that you get out of 伴って.
+    credits_raw: bamboo4
+    content_sha256: 88f23ff3ad6cc872846efa52541a1667b1f168e0a1e6af8280b518a1f12e00a6
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: |-
+      Just my two cents, but I think 伴って means "as...", like "as something happens, something else happens", same as に従って. [6420] Any objections?
+    html: |-
+      Just my two cents, but I think 伴って means "as...", like "as something happens, something else happens", same as に従って. [6420] Any objections?
+    credits_raw: sw
+    content_sha256: 9257afcd58b9e7bd0cc887e16d20229892fd624d9bbe7d15a751b0d36c97d64b
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: |-
+      Usage of に伴って does have a cause-effect relationship meaning, however this isn't necessarily true. If A is the cause and B is the resulting effect, B can also come about as an indirect effect that A causes. 
+
+      So to bamboo4 and swさん、you're both correct.
+    html: |-
+      Usage of に伴って does have a cause-effect relationship meaning, however this isn't necessarily true. If A is the cause and B is the resulting effect, B can also come about as an indirect effect that A causes. <br/><br/>So to bamboo4 and swさん、you're both correct.
+    credits_raw: Tetsuzan
+    content_sha256: 0b46b32362d55015db3b41401de89cf5aeeb4b6f8b3387e18ef94c4a3e0e488d
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: English translation should be "Alongside", IMHO.
+    html: English translation should be "Alongside", IMHO.
+    credits_raw: DrJones
+    content_sha256: 03cc9d06ed80c70ad1885efbc449b351fbe04e89b26460c9b36482caf57e53b7
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1360
+    label: につれて
+    source_url: https://takoboto.jp/bunpo/1360
+  - target_id: 513
+    label: と共に
+    source_url: https://takoboto.jp/bunpo/513
+  - target_id: 972
+    label: に従って; に従い
+    source_url: https://takoboto.jp/bunpo/972
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:49+00:00'
+response_sha256: c2fbf80d08198efb2e382ace09f43d43868868b094a389fd007204e4e0f2afd8
+warnings: []

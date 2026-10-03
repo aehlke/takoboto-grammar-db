@@ -1,0 +1,249 @@
+schema_version: 2
+id: 1241
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1241/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜が最後
+romanized_label: gasaigo
+alternate_forms:
+  - 〜がさいご
+jlpt_level: 1
+credits_raw: dc
+meaning: |-
+  If s.o. does s.t for even a moment, the following result will necessarily occur • Once someone starts something, the person can’t stop it
+meaning_example: If the boss even touches the mic for a second, he won't let anyone else sing karaoke ALL night
+meaning_notes:
+  - language: ja
+    text: 〜したら • いったん〜たらそのまま • いったん〜たら必ず
+    html: 〜したら • いったん〜たらそのまま • いったん〜たら必ず
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1241
+    body_text: |-
+      If s.o. does s.t for even a moment, the following result will necessarily occur • Once someone starts something, the person can’t stop it 
+       If the boss even touches the mic for a second, he won't let anyone else sing karaoke ALL night 
+       〜したら • いったん〜たらそのまま • いったん〜たら必ず
+    body_html: |-
+      <span>If s.o. does s.t for even a moment, the following result will necessarily occur • Once someone starts something, the person can’t stop it</span> <br/> <span>If the boss even touches the mic for a second, he won't let anyone else sing karaoke ALL night</span> <br/> <span>〜したら • いったん〜たらそのまま • いったん〜たら必ず</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1241
+    body_text: Verb plain past ~た form+が最後
+    body_html: |-
+      <div><div><div>Verb plain past ~た form</div></div><div><div>+</div><div>が最後</div></div></div>
+    credits_raw: null
+formations:
+  - Verb plain past ~た form + が最後
+examples:
+  - source_id: 3309
+    position: 0
+    japanese: 食べ出したが最後、おいしくて止められなかった
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9"><span>食べ</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f"><span>出した</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%9c%80%e5%be%8c"><strong>が最後</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%8a%e3%81%84%e3%81%97%e3%81%8f%e3%81%a6"><span>、おいしくて</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%82%81%e3%82%89%e3%82%8c%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f"><span>止められなかった</span></a>
+    segments:
+      - text: 食べ出した
+        grammar_highlight: false
+      - text: が最後
+        grammar_highlight: true
+      - text: 、おいしくて止められなかった
+        grammar_highlight: false
+    reading: たべだしたがさいご、おいしくてとめられなかった
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It was so delicious that once I started eating, I couldn’t stop.
+        html: |-
+          <span>It was so delicious that </span><strong>once I started </strong><span>eating, </span><strong>I couldn’t stop. </strong>
+        segments:
+          - text: 'It was so delicious that '
+            grammar_highlight: false
+          - text: 'once I started '
+            grammar_highlight: true
+          - text: 'eating, '
+            grammar_highlight: false
+          - text: 'I couldn’t stop. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3955
+    position: 1
+    japanese: 見つかったが最後、真珠は取上げられてしまいますぞ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%a4%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%8c"><span>見つかったが</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e5%be%8c"><strong>最後</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%9c%9f%e7%8f%a0%e3%81%af"><span>真珠は</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e4%b8%8a%e3%81%92%e3%82%89%e3%82%8c%e3%81%a6%e3%81%97%e3%81%be%e3%81%84%e3%81%be%e3%81%99%e3%81%9e%e3%80%82"><span>取上げられてしまいますぞ。</span></a>
+    segments:
+      - text: 見つかったが
+        grammar_highlight: false
+      - text: 最後
+        grammar_highlight: true
+      - text: 、真珠は取上げられてしまいますぞ。
+        grammar_highlight: false
+    reading: みつかったがさいご、しんじゅはとりあげられてしまいますぞ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Whoever finds us will take the pearl. [M]
+        html: |-
+          <span>Whoever finds us </span><span>will take the pearl. [M] </span>
+        segments:
+          - text: 'Whoever finds us will take the pearl. [M] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6504
+    position: 2
+    japanese: 入ったが最後、二度と出てこられなくなるトイレ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%a5%e3%81%a3%e3%81%9f"><span>入った</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%9c%80%e5%be%8c"><strong>が最後</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e4%ba%8c%e5%ba%a6%e3%81%a8%e5%87%ba%e3%81%a6%e3%81%93%e3%82%89%e3%82%8c%e3%81%aa%e3%81%8f%e3%81%aa%e3%82%8b%e3%83%88%e3%82%a4%e3%83%ac"><span>、二度と出てこられなくなるトイレ</span></a>
+    segments:
+      - text: 入った
+        grammar_highlight: false
+      - text: が最後
+        grammar_highlight: true
+      - text: 、二度と出てこられなくなるトイレ
+        grammar_highlight: false
+    reading: はいったがさいご、にどとでてこられなくなるトイレ
+    credits_raw: S.G.
+    translations:
+      - language: en
+        text: Such a restroom that once you  enter in it, you wont ever want to come out.
+        html: |-
+          <span>Such a restroom that </span><strong>once you </strong><span> enter in it, you wont ever want to come out. </span>
+        segments:
+          - text: 'Such a restroom that '
+            grammar_highlight: false
+          - text: 'once you '
+            grammar_highlight: true
+          - text: ' enter in it, you wont ever want to come out. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6505
+    position: 3
+    japanese: あいつはマイクを握ったが最後、離そうとしないカラオケ狂だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%84%e3%81%a4%e3%81%af%e3%83%9e%e3%82%a4%e3%82%af%e3%82%92"><span>あいつはマイクを</span></a><a href="https://takoboto.jp/?q=%e6%8f%a1%e3%81%a3%e3%81%9f"><span>握った</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%9c%80%e5%be%8c"><strong>が最後</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e9%9b%a2%e3%81%9d%e3%81%86%e3%81%a8%e3%81%97%e3%81%aa%e3%81%84%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1"><span>離そうとしないカラオケ</span></a><a href="https://takoboto.jp/?q=%e7%8b%82%e3%81%a0%e3%80%82"><span>狂だ。</span></a>
+    segments:
+      - text: あいつはマイクを握った
+        grammar_highlight: false
+      - text: が最後
+        grammar_highlight: true
+      - text: 、離そうとしないカラオケ狂だ。
+        grammar_highlight: false
+    reading: あいつはマイクをにぎったがさいご、はなそうとしないカラオケきょうだ。
+    credits_raw: S.G.
+    translations:
+      - language: en
+        text: He is such karaoke fan that if only he gets his hands on the mike he wouldn’t drop it all night.
+        html: |-
+          <span>He is such karaoke fan that </span><strong>if only </strong><span>he gets his hands on the mike he wouldn’t drop it all night. </span>
+        segments:
+          - text: 'He is such karaoke fan that '
+            grammar_highlight: false
+          - text: 'if only '
+            grammar_highlight: true
+          - text: 'he gets his hands on the mike he wouldn’t drop it all night. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7856
+    position: 4
+    japanese: 冒頭の一文がいい。「これからする話を聞いてほしいんだ。」素直に耳を傾け始めたが最後、そのまま止まらなくなること必定である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%86%92%e9%a0%ad%e3%81%ae"><span>冒頭の</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%96%87%e3%81%8c%e3%81%84%e3%81%84%e3%80%82%e3%80%8c%e3%81%93%e3%82%8c%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b"><span>一文がいい。「これからする</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%82%92"><span>話を</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%a6%e3%81%bb%e3%81%97%e3%81%84%e3%82%93%e3%81%a0%e3%80%82%e3%80%8d"><span>聞いてほしいんだ。」</span></a><a href="https://takoboto.jp/?q=%e7%b4%a0%e7%9b%b4%e3%81%ab"><span>素直に</span></a><a href="https://takoboto.jp/?q=%e8%80%b3%e3%82%92"><span>耳を</span></a><a href="https://takoboto.jp/?q=%e5%82%be%e3%81%91"><span>傾け</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><span>始めた</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%9c%80%e5%be%8c"><strong>が最後</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%81%ae%e3%81%be%e3%81%be"><span>、そのまま</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%81%be%e3%82%89%e3%81%aa%e3%81%8f%e3%81%aa%e3%82%8b%e3%81%93%e3%81%a8"><span>止まらなくなること</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e5%ae%9a%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>必定である。</span></a>
+    segments:
+      - text: 冒頭の一文がいい。「これからする話を聞いてほしいんだ。」素直に耳を傾け始めた
+        grammar_highlight: false
+      - text: が最後
+        grammar_highlight: true
+      - text: 、そのまま止まらなくなること必定である。
+        grammar_highlight: false
+    reading: ぼうとうのいちぶんがいい。「これからするはなしをきいてほしいんだ。」すなおにみみをかたむけはじめたがさいご、そのままとまらなくなることひつじょうである。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          The opening sentence is good. "I want you to listen to the following story". If you just obediently lean in your ears, it's certain that you won't be able to stop (reading). (Nikkei book review)
+        html: |-
+          <span>The opening sentence is good. "I want you to listen to the following story". </span><strong>If you just </strong><span>obediently lean in your ears, </span><strong>it's certain that you won't be able to stop </strong><span>(reading). (Nikkei book review) </span>
+        segments:
+          - text: 'The opening sentence is good. "I want you to listen to the following story". '
+            grammar_highlight: false
+          - text: 'If you just '
+            grammar_highlight: true
+          - text: 'obediently lean in your ears, '
+            grammar_highlight: false
+          - text: 'it''s certain that you won''t be able to stop '
+            grammar_highlight: true
+          - text: '(reading). (Nikkei book review) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7857
+    position: 5
+    japanese: 男は踏み入れたが最後、生きては帰られない地獄寺で噴出する女の怨念
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%94%b7%e3%81%af"><span>男は</span></a><a href="https://takoboto.jp/?q=%e8%b8%8f%e3%81%bf"><span>踏み</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8c%e3%81%9f"><span>入れた</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%9c%80%e5%be%8c"><strong>が最後</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e3%81%8d%e3%81%a6%e3%81%af"><span>生きては</span></a><a href="https://takoboto.jp/?q=%e5%b8%b0%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84"><span>帰られない</span></a><a href="https://takoboto.jp/?q=%e5%9c%b0%e7%8d%84%e5%af%ba%e3%81%a7"><span>地獄寺で</span></a><a href="https://takoboto.jp/?q=%e5%99%b4%e5%87%ba%e3%81%99%e3%82%8b"><span>噴出する</span></a><a href="https://takoboto.jp/?q=%e5%a5%b3%e3%81%ae"><span>女の</span></a><a href="https://takoboto.jp/?q=%e6%80%a8%e5%bf%b5"><span>怨念</span></a>
+    segments:
+      - text: 男は踏み入れた
+        grammar_highlight: false
+      - text: が最後
+        grammar_highlight: true
+      - text: 、生きては帰られない地獄寺で噴出する女の怨念
+        grammar_highlight: false
+    reading: おとこはふみいれたがさいご、いきてはかえられないじごくてらでふんしゅつするおんなのおんねん
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          If a man so much as steps inside, he won't return alive from this hellish temple of gushing women's hatred. (description of alt. J-film "牧口雄二の世界")
+        html: |-
+          <span>If a man </span><strong>so much as </strong><span>steps inside, he won't return alive from this hellish temple of gushing women's hatred. (description of alt. J-film "牧口雄二の世界") </span>
+        segments:
+          - text: 'If a man '
+            grammar_highlight: false
+          - text: 'so much as '
+            grammar_highlight: true
+          - text: "steps inside, he won't return alive from this hellish temple of gushing women's hatred. (description of alt. J-film \"牧口雄二の世界\") "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      see http://www.geocities.com/easykanji/jlptgrammar.html
+
+      Once someone starts something, the person can’t stop it.
+
+      Notes: Easily confused with ~kiri, but the meanings are completely different and ga saigo doesn’t mean ‘for the last time’. Always used with past tense verbs.
+    html: |-
+      see http://www.geocities.com/easykanji/jlptgrammar.html<br/><br/>Once someone starts something, the person can’t stop it.<br/><br/>Notes: Easily confused with ~kiri, but the meanings are completely different and ga saigo doesn’t mean ‘for the last time’. Always used with past tense verbs.
+    credits_raw: dc
+    content_sha256: 941c1efedc57ba737e9f4a66dba62cc84a0d3fc6ca2b7d4633531945cb44a521
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p16 - no.12'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p16 - no.12
+    credits_raw: LR
+    content_sha256: 59435962501e79a0806fdd9398dcaae101c2a73aae1f592b5bea8499ca65d4e1
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: There are cases where this is similar to 一旦〜 (Once you 〜)
+    html: There are cases where this is similar to 一旦〜 (Once you 〜)
+    credits_raw: blabby
+    content_sha256: c8282797eb2eb8c8783b4b205de8752f204f84dee457ae6631180f7b00dd5975
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:43:54+00:00'
+response_sha256: 41b1a990c2a5ff9e917cdca2a746fd4b0db4acd86c78b322afea890e28cae164
+warnings: []

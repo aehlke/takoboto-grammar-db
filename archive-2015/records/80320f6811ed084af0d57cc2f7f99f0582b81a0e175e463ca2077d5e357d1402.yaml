@@ -1,0 +1,65 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1734
+label: toiukotodesune
+title_raw: ということですね (と云う事ですね) [ということですね] (toiukotodesune)
+title: ということですね (と云う事ですね)
+reading: ということですね
+romanized_label: toiukotodesune
+category: grammar
+jlpt_level_original: '3'
+meaning: your message is that ...
+meaning_example: you are coming to tokyo tomorrow,right?
+credits_raw: Ashishjoshi
+source_url: http://jgram.org/pages/viewOne.php?tagE=toiukotodesune
+archive_url: https://web.archive.org/web/20150224225745id_/http://jgram.org/pages/viewOne.php?tagE=toiukotodesune
+archive_timestamp: '20150224225745'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: YYM6ECY4JHYXHDPBPN3TABACYS72BO62
+response_sha256: 270fd0bb2d373d4e6bfd3cb2c41814969b71ec3e89f65f75ce7d00102222872d
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "ということですね.  is an expression for confirming information obtained from another person.\n\r\nbut two points should be observed while using this expression:-\n\n\x01 when just confirming a fact.\n\r\n     -the content to be confirmed is simply repeated or summarized.\n\r\nEx-(a ) あした 10じ から かいぎ を はじめる と つたえて いただきたいんですが...\n\r\n--あした の かいぎ は 10じから という こと です ね.\n\n\n\n\x01when confirming an action of another person.\n\r\n    -if the person is superior or not close  to you,certain words need to be replaced with honorific words.in addition,if the speaker uses the words like 'there',meaning the location of the listner,then it should be replaced with 'here' while confirming.\n\n\n\r\nEx-(a)あした そちら へ いく と つたえて いただきたいん です が.\n\r\n    --あした こちら へ いらっしゃる と いう こと です ね."
+    html: "ということですね.  is an expression for confirming information obtained from another person.<br/>\r\nbut two points should be observed while using this expression:-<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=toiukotodesune#\x01\">\x01</a></b> when just confirming a fact.<br/>\r\n     -the content to be confirmed is simply repeated or summarized.<br/>\r\nEx-(a ) あした 10じ から かいぎ を はじめる と つたえて いただきたいんですが...<br/>\r\n--あした の かいぎ は 10じから という こと です ね.<br/>\n<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=toiukotodesune#\x01\">\x01</a></b>when confirming an action of another person.<br/>\r\n    -if the person is superior or not close  to you,certain words need to be replaced with honorific words.in addition,if the speaker uses the words like 'there',meaning the location of the listner,then it should be replaced with 'here' while confirming.<br/>\n<br/>\r\nEx-(a)あした そちら へ いく と つたえて いただきたいん です が.<br/>\r\n    --あした こちら へ いらっしゃる と いう こと です ね."
+    credits_raw: Ashishjoshi
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7850
+    position: 0
+    japanese: 少しずつそうなったということですね
+    body_text: "少しずつそうなったということですね  \n\n\t\tits a gradual thing,isn't it?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ少しずつそうなったということですね\">\n\t\t\t\t少しずつそうなった<strong>ということですね</strong> <strong></strong></a> <br/>\n\t\tits a gradual thing,isn't it? \n\t\t<strong> </strong>"
+    credits_raw: Ashishjoshi
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "ということですね (と云う事ですね) [ということですね] (toiukotodesune)\n    Meaning: your message is that ... \n    Example: you are coming to tokyo tomorrow,right?\n    JLPT Level: 3\n    Category: grammar\n    Author: Ashishjoshi"
+    html: |-
+      <span>ということですね (と云う事ですね) [ということですね] (toiukotodesune)</span><br/>    <span><b>Meaning</b>: your message is that ... </span><br/>    <b>Example</b>: <i>you are coming to tokyo tomorrow,right?</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Ashishjoshi</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225745'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6391635
+  length: 5464
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 518c3458aee26b856846ed930ad107abb752d2dc1b7631783152211d641bc612

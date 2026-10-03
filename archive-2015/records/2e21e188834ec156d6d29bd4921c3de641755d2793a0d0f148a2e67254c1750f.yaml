@@ -1,0 +1,220 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1112
+label: mo-ba-mo
+title_raw: も〜ば〜も [も〜ば〜も] (mo-ba-mo)
+title: も〜ば〜も
+reading: も〜ば〜も
+romanized_label: mo-ba-mo
+category: grammar
+jlpt_level_original: '2'
+meaning: not only, but also
+meaning_example: not only smokes, but also drinks
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=mo-ba-mo
+archive_url: https://web.archive.org/web/20150224225426id_/http://jgram.org/pages/viewOne.php?tagE=mo-ba-mo
+archive_timestamp: '20150224225426'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: HWEMFQNPRKW7V55OOUHDFHSVZCWMS2WM
+response_sha256: 376037f02b7978537110289f38b527a52f13c418e813b17518e387e10f70dade
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "1.いろいろな場合がある。\n\n\n\r\n2.二つのことが同時に備わっている。"
+    html: "<b>1.いろいろな場合がある。<br/>\n<br/>\r\n2.二つのことが同時に備わっている。</b>"
+    credits_raw: Nashira
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 1077
+    position: 0
+    japanese: 父はお酒ものめばタバコも吸うので、健康が心配だ。
+    body_text: "父はお酒ものめばタバコも吸うので、健康が心配だ。 \n\n\t\tmy father \n\t\tboth \n\t\tdrinks and smokes, so Im worried about his health"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ父はお酒ものめ\">\n\t\t\t\t父はお酒<strong>も</strong>のめ<strong>ば</strong>タバコも吸うので、健康が心配だ。</a> <br/>\n\t\tmy father \n\t\t<strong>both </strong>\n\t\tdrinks and smokes, so Im worried about his health"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3057
+    position: 1
+    japanese: 小泉さんは英語も上手なら、フランス語も上手です。
+    body_text: "小泉さんは英語も上手なら、フランス語も上手です。 \n\n \n\t\tMr Koizumi can speak English well and he can also speak french."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ小泉さんは英語も上手\">\n小泉さんは英語<strong>も</strong>上手<strong>なら、</strong>フランス語も上手です。</a> <br/>\n<strong> </strong>\n\t\tMr Koizumi can speak English well and he can also speak french."
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3059
+    position: 2
+    japanese: 小泉さんは英語もできればフランス語もできる。
+    body_text: "小泉さんは英語もできればフランス語もできる。 \n\n\t\tMr.Koizumi is \n\t\tnot only \n\t\tgood in English, but he also can handle French."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ小泉さんは英語もできれ\">\n小泉さんは英語<strong>も</strong>できれ<strong>ば</strong>フランス語もできる。</a> <br/>\n\t\tMr.Koizumi is \n\t\t<strong>not only </strong>\n\t\tgood in English, but he also can handle French."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6717
+    position: 3
+    japanese: 彼は歌も上手なら踊りもうまい、パーティーの人気者だ。
+    body_text: "彼は歌も上手なら踊りもうまい、パーティーの人気者だ。 \n\nIf \n\t\the's good at singing, he's a great dancer too, so he's popular at parties."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼は歌も上手なら踊り\">\n\t\t\t\t彼は歌<strong>も</strong>上手なら踊り<strong>も</strong>うまい、パーティーの人気者だ。</a> <br/>\n<strong>If </strong>\n\t\the's good at singing, he's a great dancer too, so he's popular at parties."
+    credits_raw: minutiae
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8040
+    position: 4
+    japanese: 彼は地位もなければお金もない。
+    body_text: "彼は地位もなければお金もない。 \n\n\t\tHe has \n\t\tneither \n\t\tmoney or status"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼は地位もなけれ\">\n彼は地位<strong>も</strong>なけれ<strong>ば</strong>お金もない。</a> <br/>\n\t\tHe has \n\t\t<strong>neither </strong>\n\t\tmoney or status"
+    credits_raw: Nashira
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8041
+    position: 5
+    japanese: 結婚生活というものは楽しいこともあれば大変なこともある。
+    body_text: "結婚生活というものは楽しいこともあれば大変なこともある。 \n\n\t\tMarried life has \n\t\tboth \n\t\tfun times and also difficult times"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ結婚生活というものは楽しいこともあれば大変なこと\">\n\t\t\t\t結婚生活というものは楽しいこともあれ<strong>ば</strong>大変なこと<strong>も</strong>ある。</a> <br/>\n\t\tMarried life has \n\t\t<strong>both </strong>\n\t\tfun times and also difficult times"
+    credits_raw: Nashira
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Some of your recent entries have the last part of the English slipping into the Comments section.
+    html: Some of your recent entries have the last part of the English slipping into the Comments section.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: blabby
+    text: In my textbook, this is listed as 2級 grammar.
+    html: In my textbook, this is listed as 2級 grammar.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: dc
+    text: changed to 2級
+    html: changed to 2級
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: yookoso
+    text: "How is this different than \x01 and/or \x01?"
+    html: "How is this different than <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> and/or <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bamboo4
+    text: も〜ば form is simpler to use.
+    html: |-
+      も〜ば form is simpler to use.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: mkhasnis
+    text: what is the difference between ~Sae~Ba ; ~Yara ~Yara and Tatoe~Temo/Tatoe~Demo
+    html: what is the difference between ~Sae~Ba ; ~Yara ~Yara and Tatoe~Temo/Tatoe~Demo
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: tigert
+    text: "ex #\x01 does not have a ば in it? 何でそれ?　もし　この記事が　も〜なら〜もと言ったら　問題ではない．でもね　そなわけではないね"
+    html: "ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=mo-ba-mo#\x01\">#\x01</a></b> does not have a ば in it? 何でそれ?　もし　この記事が　も〜なら〜もと言ったら　問題ではない．でもね　そなわけではないね"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: NemosX
+    text: |-
+      Is there anyone that can break down this grammar more specifically for me? First off, I have never used this grammar before.  To me, the 2nd example really seems like If Koizumi san is good in English, then he/she is also proficient in French. Having a conditional there really just makes no sense to me at all.   If anyone could explain this better, it would be greatly appreciated !
+    html: |-
+      Is there anyone that can break down this grammar more specifically for me? First off, I have never used this grammar before.  To me, the 2nd example really seems like If Koizumi san is good in English, then he/she is also proficient in French. Having a conditional there really just makes no sense to me at all.   If anyone could explain this better, it would be greatly appreciated !
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: 赤毛
+    text: "I intent to answer to Tigertさん. About the conditional form (条件形), we learned that this form apply to more words than verbs in japanese:\n\r\nVウ->Vエバ:     する->すれば\n\r\nAイ->Aケレバ：  高い->高ければ\n\r\nAナ->Aナラ:     嫌[な]->嫌なら\n\r\nN->Nナラ:       雨->雨なら\n\r\nSomewhere も〜ば〜も and も〜なら〜も don't seem different."
+    html: "I intent to answer to Tigertさん. About the conditional form (条件形), we learned that this form apply to more words than verbs in japanese:<br/>\r\nVウ-&gt;Vエバ:     する-&gt;すれば<br/>\r\nAイ-&gt;Aケレバ：  高い-&gt;高ければ<br/>\r\nAナ-&gt;Aナラ:     嫌[な]-&gt;嫌なら<br/>\r\nN-&gt;Nナラ:       雨-&gt;雨なら<br/>\r\nSomewhere も〜ば〜も and も〜なら〜も don't seem different."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: tigert
+    text: |-
+      赤毛さん　Thank you for replying to my post. I think I　understand what your saying, by using the potential form of a the な adjective you get the same results as if you used a potential verb form, is that what you ment? いつも世話になってありがとうございます｡
+    html: |-
+      赤毛さん　Thank you for replying to my post. I think I　understand what your saying, by using the potential form of a the な adjective you get the same results as if you used a potential verb form, is that what you ment? いつも世話になってありがとうございます｡
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: 赤毛
+    text: |-
+      Tigertさん It's what I intented to explain except that すれば is the conditional form (条件形) of する. The potential form (可能形) of する should be できる. I think there is no potential form for adjective. こちらこそ御世話になっております。
+    html: |-
+      Tigertさん It's what I intented to explain except that すれば is the conditional form (条件形) of する. The potential form (可能形) of する should be できる. I think there is no potential form for adjective. こちらこそ御世話になっております。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: Nashira
+    text: "~も~ば~も has 2 different meanings according to my teacher. (I'm still trying to grasp them both)\n\n\n\r\n1.いろいろな場合がある。\n\r\nSo the first meaning is to express different contrasting situations such as \"If there are people who like it, there are people who don't.\"\n\n\n\r\n2.二つのことが同時に備わっている。\n\r\nThe harder one of the two (for me)I interpret as something that possesses two simultaneous qualities or abiliities.\"He has neither money or status.\"\n\n\n\r\nCan anybody help clear this up for me? :)"
+    html: "~も~ば~も has 2 different meanings according to my teacher. (I'm still trying to grasp them both)<br/>\n<br/>\r\n1.いろいろな場合がある。<br/>\r\nSo the first meaning is to express different contrasting situations such as \"If there are people who like it, there are people who don't.\"<br/>\n<br/>\r\n2.二つのことが同時に備わっている。<br/>\r\nThe harder one of the two (for me)I interpret as something that possesses two simultaneous qualities or abiliities.\"He has neither money or status.\"<br/>\n<br/>\r\nCan anybody help clear this up for me? :)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: DrJones
+    text: "I think both meanings can be translated as:\n\n\n\r\n\"as much (from one) as (from the other)\""
+    html: "I think both meanings can be translated as:<br/>\n<br/>\r\n\"as much (from one) as (from the other)\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: nominarazu
+    label: nominarazu
+    annotation_text: nominarazu [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=nominarazu">nominarazu</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "も〜ば〜も [も〜ば〜も] (mo-ba-mo)\n    Meaning: not only, but also \n    Example: not only smokes, but also drinks\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>も〜ば〜も [も〜ば〜も] (mo-ba-mo)</span><br/>    <span><b>Meaning</b>: not only, but also </span><br/>    <b>Example</b>: <i>not only smokes, but also drinks</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225426'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 2505875
+  length: 7071
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: a8a2dac1deb7e20c46ee149b478aefe359150bf85d24a8020f72bbf7720a0717

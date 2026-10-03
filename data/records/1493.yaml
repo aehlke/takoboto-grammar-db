@@ -1,0 +1,560 @@
+schema_version: 2
+id: 1493
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1493/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜なのに
+romanized_label: nanoni
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: but, although (contrast, surprising),even though,despite
+meaning_example: It's summer but it's cold.
+meaning_notes:
+  - language: ja
+    text: 夏なのに、寒い。
+    html: 夏なのに、寒い。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1493
+    body_text: |-
+      but, although (contrast, surprising),even though,despite 
+       It's summer but it's cold. 
+       夏なのに、寒い。
+    body_html: |-
+      <span>but, although (contrast, surprising),even though,despite</span> <br/> <span>It's summer but it's cold.</span> <br/> <span>夏なのに、寒い。</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1493
+    body_text: い-Adjective+のにな-Adjective (without な)+なのにNoun+なのに
+    body_html: |-
+      <div><div><div>い-Adjective</div></div><div><div>+</div><div>のに</div></div></div><div><div><div>な-Adjective (without な)</div></div><div><div>+</div><div>なのに</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>なのに</div></div></div>
+    credits_raw: null
+formations:
+  - い-Adjective + のに
+  - な-Adjective (without な) + なのに
+  - Noun + なのに
+examples:
+  - source_id: 5124
+    position: 0
+    japanese: このコンピューター１年前に買ったばかりなのに、もうすっかり時代遅れだわ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%bc%ef%bc%91%e5%b9%b4%e5%89%8d%e3%81%ab%e8%b2%b7%e3%81%a3%e3%81%9f%e3%81%b0%e3%81%8b%e3%82%8a"><span>このコンピューター１年前に買ったばかり</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%82%82%e3%81%86%e3%81%99%e3%81%a3%e3%81%8b%e3%82%8a%e6%99%82%e4%bb%a3%e9%81%85%e3%82%8c%e3%81%a0%e3%82%8f%e3%80%82"><span>、もうすっかり時代遅れだわ。</span></a>
+    segments:
+      - text: このコンピューター１年前に買ったばかり
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 、もうすっかり時代遅れだわ。
+        grammar_highlight: false
+    reading: このコンピューター１ねんまえにかったばかりなのに、もうすっかりじだいおくれだわ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Even though  I bought this computer one year ago, it's already old fashioned.
+        html: |-
+          <strong>Even though </strong><span> I bought this computer one year ago, it's already old fashioned. </span>
+        segments:
+          - text: 'Even though '
+            grammar_highlight: true
+          - text: ' I bought this computer one year ago, it''s already old fashioned. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5125
+    position: 1
+    japanese: この情報は当然最新であるべきなのに、実際はそうでない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%83%85%e5%a0%b1%e3%81%af"><span>情報は</span></a><a href="https://takoboto.jp/?q=%e5%bd%93%e7%84%b6%e6%9c%80%e6%96%b0%e3%81%a7%e3%81%82%e3%82%8b%e3%81%b9%e3%81%8d"><span>当然最新であるべき</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%ae%9f%e9%9a%9b%e3%81%af%e3%81%9d%e3%81%86%e3%81%a7%e3%81%aa%e3%81%84%e3%80%82"><span>実際はそうでない。</span></a>
+    segments:
+      - text: この情報は当然最新であるべき
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 、実際はそうでない。
+        grammar_highlight: false
+    reading: このじょうほうはとうぜんさいしんであるべきなのに、じっさいはそうでない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: This information is not as up-to-date as it should be.
+        html: |-
+          <span>This information is not as up-to-date as it should be. </span>
+        segments:
+          - text: 'This information is not as up-to-date as it should be. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5126
+    position: 2
+    japanese: これは新しい靴なのにもう修理する必要がある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af"><span>これは</span></a><a href="https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84"><span>新しい</span></a><a href="https://takoboto.jp/?q=%e9%9d%b4"><span>靴</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86"><span>もう</span></a><a href="https://takoboto.jp/?q=%e4%bf%ae%e7%90%86%e3%81%99%e3%82%8b"><span>修理する</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>必要がある。</span></a>
+    segments:
+      - text: これは新しい靴
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: もう修理する必要がある。
+        grammar_highlight: false
+    reading: これはあたらしいくつなのにもうしゅうりするひつようがある。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: These new shoes already want mending.
+        html: |-
+          <span>These new shoes already want mending. </span>
+        segments:
+          - text: 'These new shoes already want mending. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5127
+    position: 3
+    japanese: ずっと歩いて来たとは、あなたは足が丈夫なのにちがいない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9a%e3%81%a3%e3%81%a8%e6%ad%a9%e3%81%84%e3%81%a6%e6%9d%a5%e3%81%9f%e3%81%a8%e3%81%af%e3%80%81%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e8%b6%b3%e3%81%8c%e4%b8%88%e5%a4%ab"><span>ずっと歩いて来たとは、あなたは足が丈夫</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%81%a1%e3%81%8c%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>ちがいない。</span></a>
+    segments:
+      - text: ずっと歩いて来たとは、あなたは足が丈夫
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: ちがいない。
+        grammar_highlight: false
+    reading: ずっとあるいてきたとは、あなたはあしがじょうぶなのにちがいない。
+    credits_raw: dc, Rai Cordero
+    translations:
+      - language: en
+        text: You must have a strong leg to have walked all the way.
+        html: |-
+          <span>You must have a strong leg to have walked all the way. </span>
+        segments:
+          - text: 'You must have a strong leg to have walked all the way. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5128
+    position: 4
+    japanese: ジムは目覚めると、自分が部屋に１人なのに気がついた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b8%e3%83%a0%e3%81%af"><span>ジムは</span></a><a href="https://takoboto.jp/?q=%e7%9b%ae%e8%a6%9a%e3%82%81%e3%82%8b%e3%81%a8%e3%80%81"><span>目覚めると、</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%8c"><span>自分が</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%81%ab"><span>部屋に</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%e4%ba%ba"><span>１人</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%8c%e3%81%a4%e3%81%84%e3%81%9f%e3%80%82"><span>気がついた。</span></a>
+    segments:
+      - text: ジムは目覚めると、自分が部屋に１人
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 気がついた。
+        grammar_highlight: false
+    reading: ジムはめざめると、じぶんがへやに１にんなのにきがついた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Jim awoke and found himself alone in the room.
+        html: |-
+          <span>Jim awoke and found himself alone in the room. </span>
+        segments:
+          - text: 'Jim awoke and found himself alone in the room. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5129
+    position: 5
+    japanese: ビルはただモニカを慰めたかっただけなのに、彼女は彼が自分に気があるのだと判明した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%93%e3%83%ab%e3%81%af%e3%81%9f%e3%81%a0%e3%83%a2%e3%83%8b%e3%82%ab%e3%82%92"><span>ビルはただモニカを</span></a><a href="https://takoboto.jp/?q=%e6%85%b0%e3%82%81%e3%81%9f%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%a0%e3%81%91"><span>慰めたかっただけ</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c"><span>彼が</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ab"><span>自分に</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%8c%e3%81%82%e3%82%8b%e3%81%ae%e3%81%a0%e3%81%a8"><span>気があるのだと</span></a><a href="https://takoboto.jp/?q=%e5%88%a4%e6%98%8e%e3%81%97%e3%81%9f%e3%80%82"><span>判明した。</span></a>
+    segments:
+      - text: ビルはただモニカを慰めたかっただけ
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 、彼女は彼が自分に気があるのだと判明した。
+        grammar_highlight: false
+    reading: ビルはただモニカをなぐさめたかっただけなのに、かのじょはかれがじぶんにきがあるのだとはんめいした。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Bill just wanted to comfort Monica, but she interpreted it as romantic interest.
+        html: |-
+          <span>Bill just wanted to comfort Monica, but she interpreted it as romantic interest. </span>
+        segments:
+          - text: 'Bill just wanted to comfort Monica, but she interpreted it as romantic interest. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5130
+    position: 6
+    japanese: ベンチに腰かけたとたんに、ペンキが塗りたてなのに気づいた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%99%e3%83%b3%e3%83%81%e3%81%ab"><span>ベンチに</span></a><a href="https://takoboto.jp/?q=%e8%85%b0%e3%81%8b%e3%81%91%e3%81%9f%e3%81%a8%e3%81%9f%e3%82%93%e3%81%ab%e3%80%81%e3%83%9a%e3%83%b3%e3%82%ad%e3%81%8c"><span>腰かけたとたんに、ペンキが</span></a><a href="https://takoboto.jp/?q=%e5%a1%97%e3%82%8a%e3%81%9f%e3%81%a6"><span>塗りたて</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%a5%e3%81%84%e3%81%9f%e3%80%82"><span>気づいた。</span></a>
+    segments:
+      - text: ベンチに腰かけたとたんに、ペンキが塗りたて
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 気づいた。
+        grammar_highlight: false
+    reading: ベンチにこしかけたとたんに、ペンキがぬりたてなのにきづいた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I had hardly sat down on the bench when I found it had just been painted.
+        html: |-
+          <span>I had hardly sat down on the bench when I found it had just been painted. </span>
+        segments:
+          - text: 'I had hardly sat down on the bench when I found it had just been painted. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5131
+    position: 7
+    japanese: 一日風邪で休んだだけなのに、机の上に書類が山積みになっている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%80%e6%97%a5%e9%a2%a8%e9%82%aa%e3%81%a7"><span>一日風邪で</span></a><a href="https://takoboto.jp/?q=%e4%bc%91%e3%82%93%e3%81%a0%e3%81%a0%e3%81%91"><span>休んだだけ</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%9c%ba%e3%81%ae"><span>机の</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e3%81%ab"><span>上に</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e9%a1%9e%e3%81%8c"><span>書類が</span></a><a href="https://takoboto.jp/?q=%e5%b1%b1%e7%a9%8d%e3%81%bf%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>山積みになっている。</span></a>
+    segments:
+      - text: 一日風邪で休んだだけ
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 、机の上に書類が山積みになっている。
+        grammar_highlight: false
+    reading: いちにちかぜでやすんだだけなのに、つくえのうえにしょるいがやまづみになっている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I only missed one day of work because of a cold and my desk is piled high with papers.
+        html: |-
+          <span>I only missed one day of work because of a cold and my desk is piled high with papers. </span>
+        segments:
+          - text: 'I only missed one day of work because of a cold and my desk is piled high with papers. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5132
+    position: 8
+    japanese: 兄は全く不器用なのに、彼は優秀な外科医だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%84%e3%81%af"><span>兄は</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e3%81%8f"><span>全く</span></a><a href="https://takoboto.jp/?q=%e4%b8%8d%e5%99%a8%e7%94%a8"><span>不器用</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%84%aa%e7%a7%80%e3%81%aa"><span>優秀な</span></a><a href="https://takoboto.jp/?q=%e5%a4%96%e7%a7%91%e5%8c%bb%e3%81%a0%e3%80%82"><span>外科医だ。</span></a>
+    segments:
+      - text: 兄は全く不器用
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 、彼は優秀な外科医だ。
+        grammar_highlight: false
+    reading: あにはまったくぶきようなのに、かれはゆうしゅうなげかいだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: His brother is all thumbs, but he is a skillful surgeon.
+        html: |-
+          <span>His brother is all thumbs, but he is a skillful surgeon. </span>
+        segments:
+          - text: 'His brother is all thumbs, but he is a skillful surgeon. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5133
+    position: 9
+    japanese: 残念だわ。昼食の後でケーキを食べるつもりなのに。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%ae%8b%e5%bf%b5%e3%81%a0%e3%82%8f%e3%80%82"><span>残念だわ。</span></a><a href="https://takoboto.jp/?q=%e6%98%bc%e9%a3%9f%e3%81%ae"><span>昼食の</span></a><a href="https://takoboto.jp/?q=%e5%be%8c%e3%81%a7%e3%82%b1%e3%83%bc%e3%82%ad%e3%82%92"><span>後でケーキを</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%8b%e3%81%a4%e3%82%82%e3%82%8a"><span>食べるつもり</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 残念だわ。昼食の後でケーキを食べるつもり
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ざんねんだわ。ちゅうしょくののちでケーキをたべるつもりなのに。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: That's too bad. We're going to have cake after lunch. [F]
+        html: |-
+          <span>That's too bad. We're going to have cake after lunch. [F] </span>
+        segments:
+          - text: 'That''s too bad. We''re going to have cake after lunch. [F] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5134
+    position: 10
+    japanese: 彼って長野に住んでいるはずなのに、なんで東京駅にいる？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%a3%e3%81%a6"><span>彼って</span></a><a href="https://takoboto.jp/?q=%e9%95%b7%e9%87%8e%e3%81%ab"><span>長野に</span></a><a href="https://takoboto.jp/?q=%e4%bd%8f%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b%e3%81%af%e3%81%9a"><span>住んでいるはず</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%aa%e3%82%93%e3%81%a7"><span>、なんで</span></a><a href="https://takoboto.jp/?q=%e6%9d%b1%e4%ba%ac%e9%a7%85%e3%81%ab%e3%81%84%e3%82%8b"><span>東京駅にいる</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: 彼って長野に住んでいるはず
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 、なんで東京駅にいる？
+        grammar_highlight: false
+    reading: かれってながのにすんでいるはずなのに、なんでとうきょうえきにいる？
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He's supposed to be living in Nagano. What's he doing at Tokyo station?
+        html: |-
+          <span>He's supposed to be living in Nagano. What's he doing at Tokyo station? </span>
+        segments:
+          - text: 'He''s supposed to be living in Nagano. What''s he doing at Tokyo station? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5135
+    position: 11
+    japanese: 彼は、そこにいたら幸せなのに、と言った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%80%81%e3%81%9d%e3%81%93%e3%81%ab%e3%81%84%e3%81%9f%e3%82%89"><span>彼は、そこにいたら</span></a><a href="https://takoboto.jp/?q=%e5%b9%b8%e3%81%9b"><span>幸せ</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%a8"><span>、と</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f%e3%80%82"><span>言った。</span></a>
+    segments:
+      - text: 彼は、そこにいたら幸せ
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 、と言った。
+        grammar_highlight: false
+    reading: かれは、そこにいたらしあわせなのに、といった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He says that if he were there he would be happy.
+        html: |-
+          <span>He says that if he were there he would be happy. </span>
+        segments:
+          - text: 'He says that if he were there he would be happy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5136
+    position: 12
+    japanese: 彼は３８歳なのに両親に頼りきりです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%ef%bc%93%ef%bc%98%e6%ad%b3"><span>３８歳</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e4%b8%a1%e8%a6%aa%e3%81%ab"><span>両親に</span></a><a href="https://takoboto.jp/?q=%e9%a0%bc%e3%82%8a%e3%81%8d%e3%82%8a%e3%81%a7%e3%81%99%e3%80%82"><span>頼りきりです。</span></a>
+    segments:
+      - text: 彼は３８歳
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 両親に頼りきりです。
+        grammar_highlight: false
+    reading: かれは３８さいなのにりょうしんにたよりきりです。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Though 38, he is still dependent on his parents.
+        html: |-
+          <span>Though 38, he is still dependent on his parents. </span>
+        segments:
+          - text: 'Though 38, he is still dependent on his parents. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5137
+    position: 13
+    japanese: 彼はそれを知っている、なのに少しも気にしていない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%9d%e3%82%8c%e3%82%92"><span>彼はそれを</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%81"><span>知っている、</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97%e3%82%82"><span>少しも</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%ab%e3%81%97%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>気にしていない。</span></a>
+    segments:
+      - text: 彼はそれを知っている、
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 少しも気にしていない。
+        grammar_highlight: false
+    reading: かれはそれをしっている、なのにすこしもきにしていない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He knows it, and he doesn't care a bit.
+        html: |-
+          <span>He knows it, and he doesn't care a bit. </span>
+        segments:
+          - text: 'He knows it, and he doesn''t care a bit. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5138
+    position: 14
+    japanese: 彼はもうここに着いているはずなのに。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%82%82%e3%81%86%e3%81%93%e3%81%93%e3%81%ab"><span>彼はもうここに</span></a><a href="https://takoboto.jp/?q=%e7%9d%80%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%81%af%e3%81%9a"><span>着いているはず</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼はもうここに着いているはず
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かれはもうここについているはずなのに。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He ought to have arrived here.
+        html: |-
+          <span>He ought to have arrived here. </span>
+        segments:
+          - text: 'He ought to have arrived here. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5139
+    position: 15
+    japanese: 彼は金持ちなのに、幸福ではない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e6%8c%81%e3%81%a1"><span>金持ち</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%b9%b8%e7%a6%8f%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%80%82"><span>幸福ではない。</span></a>
+    segments:
+      - text: 彼は金持ち
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 、幸福ではない。
+        grammar_highlight: false
+    reading: かれはかねもちなのに、こうふくではない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: With all his wealth, he is not happy.
+        html: |-
+          <span>With all his wealth, he is not happy. </span>
+        segments:
+          - text: 'With all his wealth, he is not happy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5140
+    position: 16
+    japanese: 彼は若い、それなのに分別がある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e8%8b%a5%e3%81%84%e3%80%81%e3%81%9d%e3%82%8c"><span>若い、それ</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e5%88%86%e5%88%a5%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>分別がある。</span></a>
+    segments:
+      - text: 彼は若い、それ
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 分別がある。
+        grammar_highlight: false
+    reading: かれはわかい、それなのにふんべつがある。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He is young, and yet he is prudent.
+        html: |-
+          <span>He is young, and yet he is prudent. </span>
+        segments:
+          - text: 'He is young, and yet he is prudent. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5141
+    position: 17
+    japanese: 彼を見るのさえ嫌なのに、デートするなんてとんでもないことです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%82%92"><span>彼を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8b%e3%81%ae%e3%81%95%e3%81%88"><span>見るのさえ</span></a><a href="https://takoboto.jp/?q=%e5%ab%8c"><span>嫌</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%83%87%e3%83%bc%e3%83%88%e3%81%99%e3%82%8b%e3%81%aa%e3%82%93%e3%81%a6%e3%81%a8%e3%82%93%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99%e3%80%82"><span>、デートするなんてとんでもないことです。</span></a>
+    segments:
+      - text: 彼を見るのさえ嫌
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 、デートするなんてとんでもないことです。
+        grammar_highlight: false
+    reading: かれをみるのさえいやなのに、デートするなんてとんでもないことです。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I don't want to see him, let alone go out with him.
+        html: |-
+          <span>I don't want to see him, let alone go out with him. </span>
+        segments:
+          - text: 'I don''t want to see him, let alone go out with him. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5143
+    position: 18
+    japanese: 不景気なのに依然物価は高い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%8d%e6%99%af%e6%b0%97"><span>不景気</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%ab"><strong>なのに</strong></a><a href="https://takoboto.jp/?q=%e4%be%9d%e7%84%b6%e7%89%a9%e4%be%a1%e3%81%af"><span>依然物価は</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84%e3%80%82"><span>高い。</span></a>
+    segments:
+      - text: 不景気
+        grammar_highlight: false
+      - text: なのに
+        grammar_highlight: true
+      - text: 依然物価は高い。
+        grammar_highlight: false
+    reading: ふけいきなのにいぜんぶっかはたかい。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: In spite of the depression, the prices of commodities are still high.
+        html: |-
+          <span>In spite of the depression, the prices of commodities are still high. </span>
+        segments:
+          - text: 'In spite of the depression, the prices of commodities are still high. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Isn't this the same as the [noni] entry but with na replacing a copula da which isn't needed for verbs or i-adjectives?
+    html: Isn't this the same as the [noni] entry but with na replacing a copula da which isn't needed for verbs or i-adjectives?
+    credits_raw: yookoso
+    content_sha256: 4d98e271d4da98531dc18dbb090078d175ad704a6f3ee193304051e59c16f85e
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: I always thought a better translation for "... na no ni" would be "even though ...". Does that make sense?
+    html: I always thought a better translation for "... na no ni" would be "even though ...". Does that make sense?
+    credits_raw: razortm
+    content_sha256: 725a0e42592a410806b61347494d302cac8e5e57a30272a60080f52fc39a8f75
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: From the examples I see, it could either be "even though" or "despite"...
+    html: From the examples I see, it could either be "even though" or "despite"...
+    credits_raw: Saralynne
+    content_sha256: 796ee1b56cbefd5467614f04bb797783256c3cb89c26391beb48684f9084158e
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      I'm having difficulty understanding where the 『なのに』should be placed within the sentence. Should it always be placed at the end? Should it be placed after a specific clause?
+    html: |-
+      I'm having difficulty understanding where the 『なのに』should be placed within the sentence. Should it always be placed at the end? Should it be placed after a specific clause?
+    credits_raw: imlan
+    content_sha256: 8085d1eceab9aafef24c34be93639a9a73f198910e5c0e6e706703f6bc92b573
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      #5144and #5142 is not the same as the なのに we're talking about.
+      It is basically the combination of なの(to turn the sentence to noun) and に
+    html: |-
+      #5144and #5142 is not the same as the なのに we're talking about.<br/>It is basically the combination of なの(to turn the sentence to noun) and に
+    credits_raw: Eason
+    content_sha256: cf3b0762a2450a4bfae58176377968aa62c8fb57bdc8378b9acc8b86d38b4265
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: '@Eason Thank you, I removed them'
+    html: '@Eason Thank you, I removed them'
+    credits_raw: beno
+    content_sha256: e84cbed00f0fefdee5cb9727561fbabe67970e2818d36ebdc7a688d014db0ded
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1289
+    label: 〜にしては
+    source_url: https://takoboto.jp/bunpo/1289
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:01+00:00'
+response_sha256: 8ee4a0821ddee61dc7440c9474d20f7d16b82e29c9a165ffe38e2316ab92ee55
+warnings: []

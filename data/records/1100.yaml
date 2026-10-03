@@ -1,0 +1,480 @@
+schema_version: 2
+id: 1100
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1100/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: たり する　form
+romanized_label: tari suru form
+alternate_forms:
+  - V stem+たり
+jlpt_level: 3
+credits_raw: dc, Savta
+meaning: doing things like V+ing
+meaning_example: Yesterday I did things like watching tv and playing video games.
+meaning_notes:
+  - language: ja
+    text: Vたり、　Vたり　します。
+    html: Vたり、　Vたり　します。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1100
+    body_text: "doing things like V+ing \n Yesterday I did things like watching tv and playing video games. \n Vたり、　Vたり　します。"
+    body_html: |-
+      <span>doing things like V+ing</span> <br/> <span>Yesterday I did things like watching tv and playing video games.</span> <br/> <span>Vたり、　Vたり　します。</span>
+    credits_raw: dc, Savta
+formations: []
+examples:
+  - source_id: 3035
+    position: 0
+    japanese: 飲んだり、食べたり、歌ったり、ダンスをしたり、大いに楽しみました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%93%e3%81%a0%e3%82%8a%e3%80%81%e9%a3%9f%e3%81%b9%e3%81%9f%e3%82%8a%e3%80%81%e6%ad%8c%e3%81%a3%e3%81%9f%e3%82%8a%e3%80%81%e3%83%80%e3%83%b3%e3%82%b9%e3%82%92%e3%81%97%e3%81%9f%e3%82%8a%e3%80%81"><strong>飲んだり、食べたり、歌ったり、ダンスをしたり、</strong></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e3%81%84%e3%81%ab"><span>大いに</span></a><a href="https://takoboto.jp/?q=%e6%a5%bd%e3%81%97%e3%81%bf%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>楽しみました。</span></a>
+    segments:
+      - text: 飲んだり、食べたり、歌ったり、ダンスをしたり、
+        grammar_highlight: true
+      - text: 大いに楽しみました。
+        grammar_highlight: false
+    reading: のんだり、たべたり、うたったり、ダンスをしたり、おおいにたのしみました。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: We drank, ate, sung, danced - we generally had one big fun time!
+        html: |-
+          <span>We </span><strong>drank, ate, sung, danced - </strong><span>we generally had one big fun time! </span>
+        segments:
+          - text: 'We '
+            grammar_highlight: false
+          - text: 'drank, ate, sung, danced - '
+            grammar_highlight: true
+          - text: 'we generally had one big fun time! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5954
+    position: 1
+    japanese: パーティーで飲んだり, 食べたり, 踊ったりした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc%e3%81%a7%e9%a3%b2%e3%82%93%e3%81%a0%e3%82%8a%2c+%e9%a3%9f%e3%81%b9"><span>パーティーで飲んだり, 食べ</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=%2c+%e8%b8%8a%e3%81%a3%e3%81%9f%e3%82%8a%e3%81%97%e3%81%9f%e3%80%82"><span>, 踊ったりした。</span></a>
+    segments:
+      - text: パーティーで飲んだり, 食べ
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: ', 踊ったりした。'
+        grammar_highlight: false
+    reading: パーティーでのんだりたべたりおどったりした。
+    credits_raw: Naino
+    translations:
+      - language: en
+        text: We did things like drinking, eating and dancing at the party.
+        html: |-
+          <span>We did things like drinking, eating and dancing at the party. </span>
+        segments:
+          - text: 'We did things like drinking, eating and dancing at the party. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5955
+    position: 2
+    japanese: 私達は, 先生に誉められたり, 叱られたりします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e9%81%94%e3%81%af%2c+"><span>私達は, </span></a><a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%ab"><span>先生に</span></a><a href="https://takoboto.jp/?q=%e8%aa%89%e3%82%81%e3%82%89%e3%82%8c"><span>誉められ</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=%2c+"><span>, </span></a><a href="https://takoboto.jp/?q=%e5%8f%b1%e3%82%89%e3%82%8c%e3%81%9f%e3%82%8a%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>叱られたりします。</span></a>
+    segments:
+      - text: 私達は, 先生に誉められ
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: ', 叱られたりします。'
+        grammar_highlight: false
+    reading: わたしたちはせんせいにほめられたりしかられたりします。
+    credits_raw: Naino
+    translations:
+      - language: en
+        text: Sometimes we are praised and sometimes scolded by our teachers.
+        html: |-
+          <span>Sometimes we are praised and sometimes scolded by our teachers. </span>
+        segments:
+          - text: 'Sometimes we are praised and sometimes scolded by our teachers. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5956
+    position: 3
+    japanese: 夏には, 登山したりする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%8f%e3%81%ab%e3%81%af%2c+"><span>夏には, </span></a><a href="https://takoboto.jp/?q=%e7%99%bb%e5%b1%b1%e3%81%97"><span>登山し</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8b%e3%80%82"><span>する。</span></a>
+    segments:
+      - text: 夏には, 登山し
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: する。
+        grammar_highlight: false
+    reading: なつにはとざんしたりする。
+    credits_raw: Naino
+    translations:
+      - language: en
+        text: In summer I do things like mountain climbing.
+        html: |-
+          <span>In summer I do things like mountain climbing. </span>
+        segments:
+          - text: 'In summer I do things like mountain climbing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5957
+    position: 4
+    japanese: 私は, 朝コーヒーを飲んだり, 飲まなかったりする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%2c+"><span>私は, </span></a><a href="https://takoboto.jp/?q=%e6%9c%9d%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%82%92"><span>朝コーヒーを</span></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%93%e3%81%a0%e3%82%8a%2c+"><span>飲んだり, </span></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%81%be%e3%81%aa%e3%81%8b%e3%81%a3"><span>飲まなかっ</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8b%e3%80%82"><span>する。</span></a>
+    segments:
+      - text: 私は, 朝コーヒーを飲んだり, 飲まなかっ
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: する。
+        grammar_highlight: false
+    reading: わたしはあさコーヒーをのんだりのまなかったりする。
+    credits_raw: Naino
+    translations:
+      - language: en
+        text: Sometimes I drink coffee in the morning and sometimes I don't.
+        html: |-
+          <span>Sometimes I drink coffee in the morning and sometimes I don't. </span>
+        segments:
+          - text: 'Sometimes I drink coffee in the morning and sometimes I don''t. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5958
+    position: 5
+    japanese: 天気によって富士山が見えたり, 見えなかったりする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%a9%e6%b0%97%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><span>天気によって</span></a><a href="https://takoboto.jp/?q=%e5%af%8c%e5%a3%ab%e5%b1%b1%e3%81%8c"><span>富士山が</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%88"><span>見え</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=%2c+"><span>, </span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%88%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%8a%e3%81%99%e3%82%8b%e3%80%82"><span>見えなかったりする。</span></a>
+    segments:
+      - text: 天気によって富士山が見え
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: ', 見えなかったりする。'
+        grammar_highlight: false
+    reading: てんきによってふじさんがみえたりみえなかったりする。
+    credits_raw: Naino
+    translations:
+      - language: en
+        text: Sometimes Mt.Fuji can be seen and sometimes it can't be seen, depending on the weather.
+        html: |-
+          <span>Sometimes Mt.Fuji can be seen and sometimes it can't be seen, depending on the weather. </span>
+        segments:
+          - text: 'Sometimes Mt.Fuji can be seen and sometimes it can''t be seen, depending on the weather. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5959
+    position: 6
+    japanese: 金曜日には木村さんは来たり, 来なかったりします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%87%91%e6%9b%9c%e6%97%a5%e3%81%ab%e3%81%af"><span>金曜日には</span></a><a href="https://takoboto.jp/?q=%e6%9c%a8%e6%9d%91%e3%81%95%e3%82%93%e3%81%af"><span>木村さんは</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5"><span>来</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=%2c+"><span>, </span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%8a%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>来なかったりします。</span></a>
+    segments:
+      - text: 金曜日には木村さんは来
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: ', 来なかったりします。'
+        grammar_highlight: false
+    reading: きんようびにはきむらさんはきたりこなかったりします。
+    credits_raw: Naino
+    translations:
+      - language: en
+        text: On Fridays, Mr.Kimura sometimes comes and sometimes he doesn't.
+        html: |-
+          <span>On Fridays, Mr.Kimura sometimes comes and sometimes he doesn't. </span>
+        segments:
+          - text: 'On Fridays, Mr.Kimura sometimes comes and sometimes he doesn''t. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5960
+    position: 7
+    japanese: あの店の包装紙は, 赤かったり, 白かったり, 青かったりします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e5%ba%97%e3%81%ae"><span>店の</span></a><a href="https://takoboto.jp/?q=%e5%8c%85%e8%a3%85%e7%b4%99%e3%81%af%2c+"><span>包装紙は, </span></a><a href="https://takoboto.jp/?q=%e8%b5%a4%e3%81%8b%e3%81%a3"><span>赤かっ</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=%2c+"><span>, </span></a><a href="https://takoboto.jp/?q=%e7%99%bd%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%8a%2c+"><span>白かったり, </span></a><a href="https://takoboto.jp/?q=%e9%9d%92%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%8a%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>青かったりします。</span></a>
+    segments:
+      - text: あの店の包装紙は, 赤かっ
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: ', 白かったり, 青かったりします。'
+        grammar_highlight: false
+    reading: あのみせのほうそうしはあかかったりしろかったりあおかったりします。
+    credits_raw: Naino
+    translations:
+      - language: en
+        text: The wrapping paper at that store is sometimes red, sometimes white and sometimes blue.
+        html: |-
+          <span>The wrapping paper at that store is sometimes red, sometimes white and sometimes blue. </span>
+        segments:
+          - text: 'The wrapping paper at that store is sometimes red, sometimes white and sometimes blue. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5961
+    position: 8
+    japanese: このレポートのデータは, 正しかったり(正しく)なかったりする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e3%81%ae%e3%83%87%e3%83%bc%e3%82%bf%e3%81%af%2c+"><span>このレポートのデータは, </span></a><a href="https://takoboto.jp/?q=%e6%ad%a3%e3%81%97%e3%81%8b%e3%81%a3"><span>正しかっ</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=("><span>(</span></a><a href="https://takoboto.jp/?q=%e6%ad%a3%e3%81%97%e3%81%8f)%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%8a%e3%81%99%e3%82%8b%e3%80%82"><span>正しく)なかったりする。</span></a>
+    segments:
+      - text: このレポートのデータは, 正しかっ
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: (正しく)なかったりする。
+        grammar_highlight: false
+    reading: このレポートのデータはただしかったりただしくなかったりする。
+    credits_raw: Naino
+    translations:
+      - language: en
+        text: The data in this report is sometimes correct and sometimes not (correct).
+        html: |-
+          <span>The data in this report is sometimes correct and sometimes not (correct). </span>
+        segments:
+          - text: 'The data in this report is sometimes correct and sometimes not (correct). '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8799
+    position: 9
+    japanese: 日本の料理を食べたり、カラオケに行ったり、お寺を見たりしたいです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ae%e6%96%99%e7%90%86%e3%82%92%e9%a3%9f%e3%81%b9"><span>日本の料理を食べ</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%82%ab%e3%83%a9%e3%82%aa%e3%82%b1%e3%81%ab%e8%a1%8c%e3%81%a3"><span>、カラオケに行っ</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%8a%e5%af%ba%e3%82%92%e8%a6%8b"><span>、お寺を見</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%82%8a"><strong>たり</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%9f%e3%81%84%e3%81%a7%e3%81%99%e3%80%82"><span>したいです。</span></a>
+    segments:
+      - text: 日本の料理を食べ
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: 、カラオケに行っ
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: 、お寺を見
+        grammar_highlight: false
+      - text: たり
+        grammar_highlight: true
+      - text: したいです。
+        grammar_highlight: false
+    reading: にほんのりょうりをたべたり、カラオケにいったり、おてらをみたりしたいです。
+    credits_raw: 貴博
+    translations:
+      - language: en
+        text: I want to eat Japanese food ,  go to karaoke and  see the temples.
+        html: |-
+          <span>I want to eat Japanese food </span><strong>, </strong><span> go to karaoke </span><strong>and </strong><span> see the temples. </span>
+        segments:
+          - text: 'I want to eat Japanese food '
+            grammar_highlight: false
+          - text: ', '
+            grammar_highlight: true
+          - text: ' go to karaoke '
+            grammar_highlight: false
+          - text: 'and '
+            grammar_highlight: true
+          - text: ' see the temples. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      The [-tari] form is used when a sequence of verbs occur in a row. The last one cannot be a tari, it needs to conclude the sentence.
+
+      normal:
+      　食べたり、飲んだり、のんびりしました。
+      　Eating and drinking, I relaxed.
+
+      neg:
+      　読まなかったり、行きたくなかったり、何もしなかったり、悪い人でした。
+      　not reading, not going, not doing anything, he was a bad guy.
+
+      with adjectives:
+      　サービスは良かったり、値段安かったり、、いいんじゃない？
+      　good service, low prices... alright eh?
+
+      neg with adjectives:
+      　サービスが悪かったり、値段が高くなかったり、、、
+       the service is not bad, the prices aren't high...
+    html: |-
+      The [-tari] form is used when a sequence of verbs occur in a row. The last one cannot be a tari, it needs to conclude the sentence.<br/><br/>normal:<br/>　食べたり、飲んだり、のんびりしました。<br/>　Eating and drinking, I relaxed.<br/><br/>neg:<br/>　読まなかったり、行きたくなかったり、何もしなかったり、悪い人でした。<br/>　not reading, not going, not doing anything, he was a bad guy.<br/><br/>with adjectives:<br/>　サービスは良かったり、値段安かったり、、いいんじゃない？<br/>　good service, low prices... alright eh?<br/><br/>neg with adjectives:<br/>　サービスが悪かったり、値段が高くなかったり、、、<br/> the service is not bad, the prices aren't high...
+    credits_raw: dc
+    content_sha256: 29dc9e5d40e5a405c29c3002c823a10eccf0c3e54850e29ba21c0f9e6052225c
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Is also used fo repeated actions, like:
+      Watashi wa nomitari tabetari shimasu.
+      (I drank and ate repeatedly)
+      You must add "suru/shimasu" at the end.
+    html: |-
+      Is also used fo repeated actions, like:<br/>Watashi wa nomitari tabetari shimasu.<br/>(I drank and ate repeatedly)<br/>You must add "suru/shimasu" at the end.
+    credits_raw: Ayumi
+    content_sha256: 5c6e9cda9f7149141659511a206fa168030d858a58b8da6c9d48abc6bf244599
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      I changed this grammar note a little. [tari suru]
+      form means "doing things like". the Verb takes the plain past tense form IE 食べる become 食べた and then you add the り
+      買う will become 買った　then you add the り,etc...
+
+      きのう、私は テレビを見たり、ゲームをしたり しました。
+    html: |-
+      I changed this grammar note a little. [tari suru]<br/>form means "doing things like". the Verb takes the plain past tense form IE 食べる become 食べた and then you add the り<br/>買う will become 買った　then you add the り,etc...<br/><br/>きのう、私は テレビを見たり、ゲームをしたり しました。
+    credits_raw: tigert
+    content_sha256: 21d8cd71d908da159acef8ac5a648e37c0d62aeeec69eb02510e3d51af35b1c1
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      -し is usually used for phrases that describes your subject. for example you can say that you like a certain singer because he has a good voice, nice attitude and he is handsome. you end the sentence with a conclusion that you like the singer, and enumerate the reasons by using し.
+    html: |-
+      -し is usually used for phrases that describes your subject. for example you can say that you like a certain singer because he has a good voice, nice attitude and he is handsome. you end the sentence with a conclusion that you like the singer, and enumerate the reasons by using し.
+    credits_raw: infinite_trial
+    content_sha256: b546bb03fcec4bfbdf920b29d76eaecd3d3ac642a8606153e4b80676a525aed6
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      I have never encountered a たり form where the last verb was not する. I learned you should do:
+
+      V-たり、V-たり、V-たりする。
+    html: |-
+      I have never encountered a たり form where the last verb was not する. I learned you should do:<br/><br/>V-たり、V-たり、V-たりする。
+    credits_raw: KyleGoetz
+    content_sha256: 4476730040946f20a974f340885b89a7a761c39d21f25f12da4e106aa413bcc9
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: Many rather stupid and simple examples. :3; ...Vocabulary practise, yes?
+    html: Many rather stupid and simple examples. :3; ...Vocabulary practise, yes?
+    credits_raw: Naino
+    content_sha256: b07ac88798b86f1e7356c8de9c35ec4dd249368c16d36a695aa612472080301d
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: 'in notes, neg: it should be 何もしなかったり instaed of 何もしなかたり.'
+    html: 'in notes, neg: it should be 何もしなかったり instaed of 何もしなかたり.'
+    credits_raw: Miki
+    content_sha256: f9198d71e2f615eac4895bd8b69704b24310376b6a4c69956079c1ba1fb9f953
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      fixed. thanks for your help explaining this one... if only entering it in the website would substitute for remembering it!
+    html: |-
+      fixed. thanks for your help explaining this one... if only entering it in the website would substitute for remembering it!
+    credits_raw: dc
+    content_sha256: a307090d45d6bff8b64ad6cb17462082a17faf5a7d5935a8120701bf44602e97
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: This should be in GR category.
+    html: This should be in GR category.
+    credits_raw: bamboo4
+    content_sha256: 51f8fc5c198f80612f58dc626d3bc269bbe71823a621881b6331f9e3c22ed912
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      Hey Molu, tari doesn`t specify what order the things happened in. it just expresses the idea that you did things like Vtari, and Vtari. 
+
+      Also I think that a Vtari statement must end in する or できる。
+    html: |-
+      Hey Molu, tari doesn`t specify what order the things happened in. it just expresses the idea that you did things like Vtari, and Vtari. <br/><br/>Also I think that a Vtari statement must end in する or できる。
+    credits_raw: tigert
+    content_sha256: 9d6ca1854b73d279f43aea31e6398524faabf863ce9bf23e45ca391114a503a6
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: can anyone come up with the conjugation rule?
+    html: can anyone come up with the conjugation rule?
+    credits_raw: wrooffy
+    content_sha256: bd3af0f86a8545c95e8edae5e3ed8f9589b6bc1c76832fd6ce7ae7d38240beda
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      do the actions follow the exact sequence? for example maiasa koohii o nonde kara shimbun o yomimasu. or shimbun o yomu maeni koohii o nomimasu. here the sequence is explicit. does this apply to tari form as well?
+    html: |-
+      do the actions follow the exact sequence? for example maiasa koohii o nonde kara shimbun o yomimasu. or shimbun o yomu maeni koohii o nomimasu. here the sequence is explicit. does this apply to tari form as well?
+    credits_raw: molu
+    content_sha256: 8486d61076cf353332c0c3d9db1a5170bd9f8fab9083f5f73fc4bf93fb9b2515
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      do the actions follow the exact sequence? for example maiasa koohii o nonde kara shimbun o yomimasu. or shimbun o yomu maeni koohii o nomimasu. here the sequence is explicit. does this apply to tari form as well?
+    html: |-
+      do the actions follow the exact sequence? for example maiasa koohii o nonde kara shimbun o yomimasu. or shimbun o yomu maeni koohii o nomimasu. here the sequence is explicit. does this apply to tari form as well?
+    credits_raw: molu
+    content_sha256: 8486d61076cf353332c0c3d9db1a5170bd9f8fab9083f5f73fc4bf93fb9b2515
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      My teacher told me -たり actually means more like "we did things such as... blah blah." It's more generalizing, not specifying, isn't it? That is what my teacher told me. He also told me the same meaning for -し, but I can't really find such an explanation for the usage of -し anywhere - is it the same?
+    html: |-
+      My teacher told me -たり actually means more like "we did things such as... blah blah." It's more generalizing, not specifying, isn't it? That is what my teacher told me. He also told me the same meaning for -し, but I can't really find such an explanation for the usage of -し anywhere - is it the same?
+    credits_raw: gtunak85
+    content_sha256: 9e2e239707fa5685d9623d91f44d406c1a2d5cf6462b9a12af2e99db3110774a
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      to my understanding the [V-tari] is simply the [V-ta] + "ri", hence (as in the WWWJDIC example):
+      飲む - 飲んだり
+      食べる - 食べたり
+      歌う - 歌ったり
+      する - したり
+      and (as gtunak85's 先生 says) it's used to "examplify" things done, eg, "we did things like this and this and that", where (as usual) the last verb determinates the tempus for all the verbs in the sentance.
+
+      At least that's my understanding of it, but I've only been studying since august so I could be wrong...
+    html: |-
+      to my understanding the [V-tari] is simply the [V-ta] + "ri", hence (as in the WWWJDIC example):<br/>飲む - 飲んだり<br/>食べる - 食べたり<br/>歌う - 歌ったり<br/>する - したり<br/>and (as gtunak85's 先生 says) it's used to "examplify" things done, eg, "we did things like this and this and that", where (as usual) the last verb determinates the tempus for all the verbs in the sentance.<br/><br/>At least that's my understanding of it, but I've only been studying since august so I could be wrong...
+    credits_raw: mojibake
+    content_sha256: cfcce4108db4d40d3507c404def2d6d20caae544c2a7a56dd7c44a1ac8a8af66
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: '[shi] is more like a separate word (conjunction?) whereas [-tari] is a verb ending (conjugation?)'
+    html: '[shi] is more like a separate word (conjunction?) whereas [-tari] is a verb ending (conjugation?)'
+    credits_raw: dc
+    content_sha256: c0bc21c073a75d2f731cf68f47090863e15349b329089b3bd7b356461a78df22
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1499
+    label: し
+    source_url: https://takoboto.jp/bunpo/1499
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:42+00:00'
+response_sha256: 5743cc72b9c8a7e86dfa3209f66ea50fade055e4e40c35dad3ceeec224edb389
+warnings: []

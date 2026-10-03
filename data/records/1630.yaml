@@ -1,0 +1,180 @@
+schema_version: 2
+id: 1630
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1630/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: あまりの〜に
+romanized_label: amarino ~ ni
+alternate_forms: []
+jlpt_level: 2
+credits_raw: Groove
+meaning: Due to a condition/state being in excess, a result occurs.
+meaning_example: Because of its deliciousness, I (inadvertently) ended up overeating (the food).
+meaning_notes:
+  - language: ja
+    text: 程度が高すぎて、その結果〜。
+    html: 程度が高すぎて、その結果〜。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1630
+    body_text: |-
+      Due to a condition/state being in excess, a result occurs. 
+       Because of its deliciousness, I (inadvertently) ended up overeating (the food). 
+       程度が高すぎて、その結果〜。
+    body_html: |-
+      <span>Due to a condition/state being in excess, a result occurs.</span> <br/> <span>Because of its deliciousness, I (inadvertently) ended up overeating (the food).</span> <br/> <span>程度が高すぎて、その結果〜。</span>
+    credits_raw: Groove
+  - kind: formation
+    source_dom_id: editable_Formation_1630
+    body_text: あまりの+名+に
+    body_html: |-
+      <div><div><div>あまりの</div></div><div><div>+</div><div>名</div></div><div><div>+</div><div>に</div></div></div>
+    credits_raw: null
+formations:
+  - あまりの + 名 + に
+examples:
+  - source_id: 6544
+    position: 0
+    japanese: あまりのおいしさに、つい食べ過ぎてしまいました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a%e3%81%ae"><strong>あまりの</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%84%e3%81%97%e3%81%95"><span>おいしさ</span></a><a href="https://takoboto.jp/?q=%e3%81%ab"><strong>に</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%a4%e3%81%84"><span>、つい</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9"><span>食べ</span></a><a href="https://takoboto.jp/?q=%e9%81%8e%e3%81%8e%e3%81%a6%e3%81%97%e3%81%be%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>過ぎてしまいました。</span></a>
+    segments:
+      - text: あまりの
+        grammar_highlight: true
+      - text: おいしさ
+        grammar_highlight: false
+      - text: に
+        grammar_highlight: true
+      - text: 、つい食べ過ぎてしまいました。
+        grammar_highlight: false
+    reading: あまりのおいしさに、ついたべすぎてしまいました。
+    credits_raw: Groove
+    translations:
+      - language: en
+        text: Due to its deliciousness, I (inadvertently) ended up overeating (the food).
+        html: |-
+          <strong>Due to </strong><span>its deliciousness, I (inadvertently) </span><strong>ended up </strong><span>overeating (the food). </span>
+        segments:
+          - text: 'Due to '
+            grammar_highlight: true
+          - text: 'its deliciousness, I (inadvertently) '
+            grammar_highlight: false
+          - text: 'ended up '
+            grammar_highlight: true
+          - text: 'overeating (the food). '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6545
+    position: 1
+    japanese: あまりの激痛に、思わず叫び声をあげた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a%e3%81%ae"><strong>あまりの</strong></a><a href="https://takoboto.jp/?q=%e6%bf%80%e7%97%9b"><span>激痛</span></a><a href="https://takoboto.jp/?q=%e3%81%ab"><strong>に</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%82%8f%e3%81%9a"><span>思わず</span></a><a href="https://takoboto.jp/?q=%e5%8f%ab%e3%81%b3"><span>叫び</span></a><a href="https://takoboto.jp/?q=%e5%a3%b0%e3%82%92%e3%81%82%e3%81%92%e3%81%9f%e3%80%82"><span>声をあげた。</span></a>
+    segments:
+      - text: あまりの
+        grammar_highlight: true
+      - text: 激痛
+        grammar_highlight: false
+      - text: に
+        grammar_highlight: true
+      - text: 、思わず叫び声をあげた。
+        grammar_highlight: false
+    reading: あまりのげきつうに、おもわずさけびごえをあげた。
+    credits_raw: Groove
+    translations:
+      - language: en
+        text: Due to the intense pain, I (instinctively) yelled.
+        html: |-
+          <strong>Due to </strong><span>the intense pain, I (instinctively) yelled. </span>
+        segments:
+          - text: 'Due to '
+            grammar_highlight: true
+          - text: 'the intense pain, I (instinctively) yelled. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8685
+    position: 2
+    japanese: １０年ぶりで兄に会った。兄のあまりの変化に言葉が出なかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%91%ef%bc%90%e5%b9%b4%e3%81%b6%e3%82%8a%e3%81%a7"><span>１０年ぶりで</span></a><a href="https://takoboto.jp/?q=%e5%85%84%e3%81%ab"><span>兄に</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e3%81%a3%e3%81%9f%e3%80%82"><span>会った。</span></a><a href="https://takoboto.jp/?q=%e5%85%84"><span>兄</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%82%e3%81%be%e3%82%8a%e3%81%ae"><strong>のあまりの</strong></a><a href="https://takoboto.jp/?q=%e5%a4%89%e5%8c%96"><span>変化</span></a><a href="https://takoboto.jp/?q=%e3%81%ab"><strong>に</strong></a><a href="https://takoboto.jp/?q=%e8%a8%80%e8%91%89%e3%81%8c"><span>言葉が</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>出なかった。</span></a>
+    segments:
+      - text: １０年ぶりで兄に会った。兄
+        grammar_highlight: false
+      - text: のあまりの
+        grammar_highlight: true
+      - text: 変化
+        grammar_highlight: false
+      - text: に
+        grammar_highlight: true
+      - text: 言葉が出なかった。
+        grammar_highlight: false
+    reading: １０ねんぶりであににあった。あにのあまりのへんかにことばがでなかった。
+    credits_raw: Akhety
+    translations:
+      - language: en
+        text: It's been ten years since I saw my brother. I couldn't say any words because my brother had changed a lot .
+        html: |-
+          <span>It's been ten years since I saw my brother. I couldn't say any words </span><strong>because </strong><span>my brother had changed </span><strong>a lot </strong><span>. </span>
+        segments:
+          - text: 'It''s been ten years since I saw my brother. I couldn''t say any words '
+            grammar_highlight: false
+          - text: 'because '
+            grammar_highlight: true
+          - text: 'my brother had changed '
+            grammar_highlight: false
+          - text: 'a lot '
+            grammar_highlight: true
+          - text: '. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      This grammar is used in conjunction with nouns only, hence the tell-tale の before the noun. The trailing に is also necessary for this grammar, to emphasize the cause-effect relationship between the two clauses it references.
+    html: |-
+      This grammar is used in conjunction with nouns only, hence the tell-tale の before the noun. The trailing に is also necessary for this grammar, to emphasize the cause-effect relationship between the two clauses it references.
+    credits_raw: Groove
+    content_sha256: fcece14c77e3a5cd2ae757e936628b33bcdfb057d525a67974398e026ea7c7de
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      I couldn't find this particular grammar on the internet or in my grammar dictionaries, so if this grammar item has been listed in error, please tell me so as it would greatly assist me, and probably others as well. However, I think that it's important enough to be given a reference separate from the existing あまり grammar reference, as its meaning is fairly different to its parent. Thanks.
+    html: |-
+      I couldn't find this particular grammar on the internet or in my grammar dictionaries, so if this grammar item has been listed in error, please tell me so as it would greatly assist me, and probably others as well. However, I think that it's important enough to be given a reference separate from the existing あまり grammar reference, as its meaning is fairly different to its parent. Thanks.
+    credits_raw: Groove
+    content_sha256: 4260ee038f49079e3dc3c2de0c91c30289aedde2260c9d05e141a0654dbc6f78
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: This is on page 74 of Shin Kanzen Master N2, so I've changed the JLPT level to 2 for this so it shows up on the list.
+    html: This is on page 74 of Shin Kanzen Master N2, so I've changed the JLPT level to 2 for this so it shows up on the list.
+    credits_raw: Akhety
+    content_sha256: e35f3d0e230fc7cc4dbf9ba3db493ca061a95e4ae77b9b47428a2bf4dab009c1
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      I added an example from page 75 of the Shin Kanzen Master N2 Grammar book, and after checking with a native speaker who also speaks good English, the combination of "no amari no henka ni" causes it to mean that the brother had changed a lot, which is why the speaker couldn't find the words. 
+
+      This is the first example I've added, so I don't know how to make the correct parts turn red to emphasize it. [EDIT] I figured it out :)
+    html: |-
+      I added an example from page 75 of the Shin Kanzen Master N2 Grammar book, and after checking with a native speaker who also speaks good English, the combination of "no amari no henka ni" causes it to mean that the brother had changed a lot, which is why the speaker couldn't find the words. <br/><br/>This is the first example I've added, so I don't know how to make the correct parts turn red to emphasize it. [EDIT] I figured it out :)
+    credits_raw: Akhety
+    content_sha256: 93975532c969f39bad35b43bd217b0eb985c3abb2332ac608c03bbaac1c08682
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:40:00+00:00'
+response_sha256: fe150b173fbb8f042cdff3b275464dad93db2535c5966bb08ee7096a0a99bc04
+warnings: []

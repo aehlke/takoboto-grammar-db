@@ -1,0 +1,266 @@
+schema_version: 2
+id: 209
+source: takoboto
+source_url: https://takoboto.jp/bunpo/209/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: のみならず
+romanized_label: nominarazu
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: not only, but also...
+meaning_example: not only humans but also dogs can have a psychiatrist
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_209
+    body_text: |-
+      not only, but also... 
+       not only humans but also dogs can have a psychiatrist
+    body_html: |-
+      <span>not only, but also...</span> <br/> <span>not only humans but also dogs can have a psychiatrist</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 296
+    position: 0
+    japanese: 東アジアのみならずヨーロッパでもインターネットではユニコード化が進んでいると聞き及んでおります。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9d%b1%e3%82%a2%e3%82%b8%e3%82%a2"><span>東アジア</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%bf%e3%81%aa%e3%82%89%e3%81%9a"><strong>のみならず</strong></a><a href="https://takoboto.jp/?q=%e3%83%a8%e3%83%bc%e3%83%ad%e3%83%83%e3%83%91%e3%81%a7%e3%82%82%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%8d%e3%83%83%e3%83%88%e3%81%a7%e3%81%af%e3%83%a6%e3%83%8b%e3%82%b3%e3%83%bc%e3%83%89"><span>ヨーロッパでもインターネットではユニコード</span></a><a href="https://takoboto.jp/?q=%e5%8c%96%e3%81%8c"><span>化が</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b%e3%81%a8"><span>進んでいると</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%8d"><span>聞き</span></a><a href="https://takoboto.jp/?q=%e5%8f%8a%e3%82%93%e3%81%a7%e3%81%8a%e3%82%8a%e3%81%be%e3%81%99%e3%80%82"><span>及んでおります。</span></a>
+    segments:
+      - text: 東アジア
+        grammar_highlight: false
+      - text: のみならず
+        grammar_highlight: true
+      - text: ヨーロッパでもインターネットではユニコード化が進んでいると聞き及んでおります。
+        grammar_highlight: false
+    reading: ひがしあじあのみならずヨーロッパでもインターネットではユニコードかがすすんでいるとききおよんでおります。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I hear that not just East Asia but even Europe is proceeding with the change to Unicode.
+        html: |-
+          <span>I hear that </span><strong>not just </strong><span>East Asia but even Europe is proceeding with the change to Unicode. </span>
+        segments:
+          - text: 'I hear that '
+            grammar_highlight: false
+          - text: 'not just '
+            grammar_highlight: true
+          - text: 'East Asia but even Europe is proceeding with the change to Unicode. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3828
+    position: 1
+    japanese: 時は虚偽のみならず真実も明らかにする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%99%82%e3%81%af"><span>時は</span></a><a href="https://takoboto.jp/?q=%e8%99%9a%e5%81%bd"><span>虚偽</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%bf%e3%81%aa%e3%82%89%e3%81%9a"><strong>のみならず</strong></a><a href="https://takoboto.jp/?q=%e7%9c%9f%e5%ae%9f%e3%82%82"><span>真実も</span></a><a href="https://takoboto.jp/?q=%e6%98%8e%e3%82%89%e3%81%8b%e3%81%ab%e3%81%99%e3%82%8b%e3%80%82"><span>明らかにする。</span></a>
+    segments:
+      - text: 時は虚偽
+        grammar_highlight: false
+      - text: のみならず
+        grammar_highlight: true
+      - text: 真実も明らかにする。
+        grammar_highlight: false
+    reading: ときはきょぎのみならずしんじつもあきらかにする。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Time reveals truth as well as false hood.
+        html: |-
+          <span>Time reveals truth </span><strong>as well as </strong><span>false hood. </span>
+        segments:
+          - text: 'Time reveals truth '
+            grammar_highlight: false
+          - text: 'as well as '
+            grammar_highlight: true
+          - text: 'false hood. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3829
+    position: 2
+    japanese: 日本人学生は極度に内気であるのみならず、時としてほとんど全く話したがらないように見える。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e4%ba%ba%e5%ad%a6%e7%94%9f%e3%81%af"><span>日本人学生は</span></a><a href="https://takoboto.jp/?q=%e6%a5%b5%e5%ba%a6%e3%81%ab"><span>極度に</span></a><a href="https://takoboto.jp/?q=%e5%86%85%e6%b0%97%e3%81%a7%e3%81%82%e3%82%8b"><span>内気である</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%bf%e3%81%aa%e3%82%89%e3%81%9a"><strong>のみならず</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%81%a8%e3%81%97%e3%81%a6%e3%81%bb%e3%81%a8%e3%82%93%e3%81%a9"><span>時としてほとんど</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e3%81%8f"><span>全く</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%97%e3%81%9f%e3%81%8c%e3%82%89%e3%81%aa%e3%81%84%e3%82%88%e3%81%86%e3%81%ab"><span>話したがらないように</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%88%e3%82%8b%e3%80%82"><span>見える。</span></a>
+    segments:
+      - text: 日本人学生は極度に内気である
+        grammar_highlight: false
+      - text: のみならず
+        grammar_highlight: true
+      - text: 、時としてほとんど全く話したがらないように見える。
+        grammar_highlight: false
+    reading: にほんじんがくせいはきょくどにうちきであるのみならず、ときとしてほとんどまったくはなしたがらないようにみえる。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Japanese students seem not merely to be extremely reserved, but to have at times almost a complete reluctance to speak.
+        html: |-
+          <span>Japanese students seem not merely to be extremely reserved, but to have at times almost a complete reluctance to speak. </span>
+        segments:
+          - text: "Japanese students seem not merely to be extremely reserved, but to have at times almost a complete reluctance to speak. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3830
+    position: 3
+    japanese: 彼が日本のみならず、世界においても有名な物理学者である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c"><span>彼が</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac"><span>日本</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%bf%e3%81%aa%e3%82%89%e3%81%9a"><strong>のみならず</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%b8%96%e7%95%8c%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6%e3%82%82"><span>世界においても</span></a><a href="https://takoboto.jp/?q=%e6%9c%89%e5%90%8d%e3%81%aa"><span>有名な</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e7%90%86%e5%ad%a6%e8%80%85%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>物理学者である。</span></a>
+    segments:
+      - text: 彼が日本
+        grammar_highlight: false
+      - text: のみならず
+        grammar_highlight: true
+      - text: 、世界においても有名な物理学者である。
+        grammar_highlight: false
+    reading: かれがにほんのみならず、せかいにおいてもゆうめいなぶつりがくしゃである。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: He is a famous physicist not only in Japan, but in the world.
+        html: |-
+          <span>He is a famous physicist not only in Japan, but in the world. </span>
+        segments:
+          - text: 'He is a famous physicist not only in Japan, but in the world. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3831
+    position: 4
+    japanese: 彼は英語のみならずフランス語も話すことができる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e"><span>英語</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%bf%e3%81%aa%e3%82%89%e3%81%9a"><strong>のみならず</strong></a><a href="https://takoboto.jp/?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9"><span>フランス</span></a><a href="https://takoboto.jp/?q=%e8%aa%9e%e3%82%82"><span>語も</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%99%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8b%e3%80%82"><span>話すことができる。</span></a>
+    segments:
+      - text: 彼は英語
+        grammar_highlight: false
+      - text: のみならず
+        grammar_highlight: true
+      - text: フランス語も話すことができる。
+        grammar_highlight: false
+    reading: かれはえいごのみならずふらんすごもはなすことができる。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: He can speak not only English but also French.
+        html: |-
+          <span>He can speak not only English but also French. </span>
+        segments:
+          - text: 'He can speak not only English but also French. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3832
+    position: 5
+    japanese: 彼女のみならず彼女の息子達も幸せだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3"><span>彼女</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%bf%e3%81%aa%e3%82%89%e3%81%9a"><strong>のみならず</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae"><span>彼女の</span></a><a href="https://takoboto.jp/?q=%e6%81%af%e5%ad%90%e9%81%94%e3%82%82"><span>息子達も</span></a><a href="https://takoboto.jp/?q=%e5%b9%b8%e3%81%9b%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>幸せだった。</span></a>
+    segments:
+      - text: 彼女
+        grammar_highlight: false
+      - text: のみならず
+        grammar_highlight: true
+      - text: 彼女の息子達も幸せだった。
+        grammar_highlight: false
+    reading: かのじょのみならずかのじょのむすこたちもしあわせだった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Her sons as well as she were happy.
+        html: |-
+          <span>Her sons as well as she were happy. </span>
+        segments:
+          - text: 'Her sons as well as she were happy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6906
+    position: 6
+    japanese: 僕はこの女の人のみならず、あの女の人も大好きです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%83%95%e3%81%af%e3%81%93%e3%81%ae"><span>僕はこの</span></a><a href="https://takoboto.jp/?q=%e5%a5%b3%e3%81%ae"><span>女の</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba"><span>人</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%bf%e3%81%aa%e3%82%89%e3%81%9a"><strong>のみならず</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%82%e3%81%ae"><span>、あの</span></a><a href="https://takoboto.jp/?q=%e5%a5%b3%e3%81%ae"><span>女の</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%82%82"><span>人も</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a5%bd%e3%81%8d%e3%81%a7%e3%81%99%e3%80%82"><span>大好きです。</span></a>
+    segments:
+      - text: 僕はこの女の人
+        grammar_highlight: false
+      - text: のみならず
+        grammar_highlight: true
+      - text: 、あの女の人も大好きです。
+        grammar_highlight: false
+    reading: ぼくはこのおんなのひとのみならず、あのおんなのひともだいすきです。
+    credits_raw: phananhvu
+    translations:
+      - language: en
+        text: I not only like this girl, but also that one.
+        html: |-
+          <span>I not only like this girl, but also that one. </span>
+        segments:
+          - text: 'I not only like this girl, but also that one. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Is there a significant difference between the usage of のみならず and [をはじめ]?
+    html: Is there a significant difference between the usage of のみならず and [をはじめ]?
+    credits_raw: Leslie
+    content_sha256: fdea8d31600a5bded80ca7d692e62a4d27dd58143ab16316310162710470b923
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      I think, AをはじめB : A is the major example and B is others.
+      While CのみならずD, there is no rank in importance of examples.
+    html: |-
+      I think, AをはじめB : A is the major example and B is others.<br/>While CのみならずD, there is no rank in importance of examples.
+    credits_raw: Miki
+    content_sha256: 4c8b72ad4755f2d42f265dac6472ceb4ab6a8f7d155bc50fc6287176c545c2be
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: See also standard 'のみ'
+    html: See also standard 'のみ'
+    credits_raw: Amatuka
+    content_sha256: 653efb12af81bce91525af164a1aeb0238cbcc6740a0a1d1ca243f80d499a6f5
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      I'm sorry, but what's the difference between this grammar point and だけでなく? Does のみならず stipulate there are only two things in order (none other than those mentioned)?
+    html: |-
+      I'm sorry, but what's the difference between this grammar point and だけでなく? Does のみならず stipulate there are only two things in order (none other than those mentioned)?
+    credits_raw: Alkador
+    content_sha256: d1d3e0d99d7d9d6c03c17d62784f279657c0f9d33c57e997f90f0aa657985291
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: だけでなく is the same; I believe they are completely identical, but at least very similar.
+    html: だけでなく is the same; I believe they are completely identical, but at least very similar.
+    credits_raw: jmadsen
+    content_sha256: ad91236a7fe04512aece2349ab5d9404931d8bd76e220625b164fa703e746b39
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1112
+    label: も〜ば〜も
+    source_url: https://takoboto.jp/bunpo/1112
+  - target_id: 1381
+    label: のみ
+    source_url: https://takoboto.jp/bunpo/1381
+  - target_id: 890
+    label: をはじめ
+    source_url: https://takoboto.jp/bunpo/890
+  - target_id: 1381
+    label: のみ
+    source_url: https://takoboto.jp/bunpo/1381
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:38:31+00:00'
+response_sha256: 01c004243a2d548f411ed5a70d861c565c6231a30433dc05429defe8e6a3ee21
+warnings: []

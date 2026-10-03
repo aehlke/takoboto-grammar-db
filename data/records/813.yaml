@@ -1,0 +1,298 @@
+schema_version: 2
+id: 813
+source: takoboto
+source_url: https://takoboto.jp/bunpo/813/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: に基づいて
+romanized_label: nimotozuite
+alternate_forms:
+  - にもとづいて
+jlpt_level: 2
+credits_raw: dc
+meaning: based (up)on
+meaning_example: This is a novel based on real life.
+meaning_notes:
+  - language: ja
+    text: 〜を基本にして
+    html: 〜を基本にして
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_813
+    body_text: |-
+      based (up)on 
+       This is a novel based on real life. 
+       〜を基本にして
+    body_html: |-
+      <span>based (up)on</span> <br/> <span>This is a novel based on real life.</span> <br/> <span>〜を基本にして</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 950
+    position: 0
+    japanese: 事実に基づいてお話します
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%ba%8b%e5%ae%9f"><span>事実</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%9f%ba%e3%81%a5%e3%81%84%e3%81%a6"><strong>に基づいて</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%97%e3%81%be%e3%81%99"><span>話します</span></a>
+    segments:
+      - text: 事実
+        grammar_highlight: false
+      - text: に基づいて
+        grammar_highlight: true
+      - text: お話します
+        grammar_highlight: false
+    reading: じじつにもとづいておはなしします
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I will speak to you on the basis of facts
+        html: |-
+          <span>I will speak to you </span><strong>on the basis of </strong><span>facts </span>
+        segments:
+          - text: 'I will speak to you '
+            grammar_highlight: false
+          - text: 'on the basis of '
+            grammar_highlight: true
+          - text: 'facts '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 951
+    position: 1
+    japanese: ひらがな、かたかなの形は漢字に基づいている
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%b2%e3%82%89%e3%81%8c%e3%81%aa%e3%80%81%e3%81%8b%e3%81%9f%e3%81%8b%e3%81%aa%e3%81%ae"><span>ひらがな、かたかなの</span></a><a href="https://takoboto.jp/?q=%e5%bd%a2%e3%81%af"><span>形は</span></a><a href="https://takoboto.jp/?q=%e6%bc%a2%e5%ad%97%e3%81%ab"><span>漢字に</span></a><a href="https://takoboto.jp/?q=%e5%9f%ba%e3%81%a5%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b"><strong>基づいている</strong></a>
+    segments:
+      - text: ひらがな、かたかなの形は漢字に
+        grammar_highlight: false
+      - text: 基づいている
+        grammar_highlight: true
+    reading: ひらがな、かたかなのかたちはかんじにもとづいている
+    credits_raw: dc
+    translations:
+      - language: en
+        text: hiragana and katakana shapes are based on kanji.
+        html: |-
+          <span>hiragana and katakana shapes </span><strong>are based on </strong><span>kanji. </span>
+        segments:
+          - text: 'hiragana and katakana shapes '
+            grammar_highlight: false
+          - text: 'are based on '
+            grammar_highlight: true
+          - text: 'kanji. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3301
+    position: 2
+    japanese: '"Lord of the Rings" は、小説にもとづいて作られた映画です。'
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%22Lord+of+the+Rings%22+%e3%81%af%e3%80%81"><span>"Lord of the Rings" は、</span></a><a href="https://takoboto.jp/?q=%e5%b0%8f%e8%aa%ac"><span>小説</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%82%e3%81%a8%e3%81%a5%e3%81%84%e3%81%a6"><strong>にもとづいて</strong></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e3%82%89%e3%82%8c%e3%81%9f"><span>作られた</span></a><a href="https://takoboto.jp/?q=%e6%98%a0%e7%94%bb%e3%81%a7%e3%81%99%e3%80%82"><span>映画です。</span></a>
+    segments:
+      - text: '"Lord of the Rings" は、小説'
+        grammar_highlight: false
+      - text: にもとづいて
+        grammar_highlight: true
+      - text: 作られた映画です。
+        grammar_highlight: false
+    reading: は、しょうせつにもとづいてつくられたえいがです。
+    credits_raw: Jonathan Salatan
+    translations:
+      - language: en
+        text: '"Lord of the Rings" is a movie based on a novel.'
+        html: |-
+          <span>"Lord of the Rings" is a movie </span><strong>based on </strong><span>a novel. </span>
+        segments:
+          - text: '"Lord of the Rings" is a movie '
+            grammar_highlight: false
+          - text: 'based on '
+            grammar_highlight: true
+          - text: 'a novel. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6424
+    position: 3
+    japanese: 国家である以上、法律に基づく制度が定められているはずだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%9b%bd%e5%ae%b6%e3%81%a7%e3%81%82%e3%82%8b"><span>国家である</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a%e3%80%81"><span>以上、</span></a><a href="https://takoboto.jp/?q=%e6%b3%95%e5%be%8b%e3%81%ab"><span>法律に</span></a><a href="https://takoboto.jp/?q=%e5%9f%ba%e3%81%a5%e3%81%8f"><span>基づく</span></a><a href="https://takoboto.jp/?q=%e5%88%b6%e5%ba%a6%e3%81%8c"><span>制度が</span></a><a href="https://takoboto.jp/?q=%e5%ae%9a%e3%82%81%e3%82%89%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%81%af%e3%81%9a%e3%81%a0%e3%80%82"><span>定められているはずだ。</span></a>
+    segments:
+      - text: 国家である以上、法律に基づく制度が定められているはずだ。
+        grammar_highlight: false
+    reading: こっかであるいじょう、ほうりつにもとづくせいどがさだめられているはずだ。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: As long as there are countries, it's expected that institutions will be established based upon the law.
+        html: |-
+          <span>As long as there are countries, it's expected that institutions will be established based upon the law. </span>
+        segments:
+          - text: 'As long as there are countries, it''s expected that institutions will be established based upon the law. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7153
+    position: 4
+    japanese: これまでお研究にもとづいてレポートをまとめた
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%be%e3%81%a7%e3%81%8a"><span>これまでお</span></a><a href="https://takoboto.jp/?q=%e7%a0%94%e7%a9%b6%e3%81%ab%e3%82%82%e3%81%a8%e3%81%a5%e3%81%84%e3%81%a6%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e3%82%92%e3%81%be%e3%81%a8%e3%82%81%e3%81%9f"><span>研究にもとづいてレポートをまとめた</span></a>
+    segments:
+      - text: これまでお研究にもとづいてレポートをまとめた
+        grammar_highlight: false
+    reading: これまでおけんきゅうにもとづいてレポートをまとめた
+    credits_raw: sureshnihon
+    translations:
+      - language: en
+        text: Up to now, the report has been put together based on the research.
+        html: |-
+          <span>Up to now, the report has been put together based on the research. </span>
+        segments:
+          - text: 'Up to now, the report has been put together based on the research. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8333
+    position: 5
+    japanese: 彼女の理論は入念な調査に基づいている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae"><span>彼女の</span></a><a href="https://takoboto.jp/?q=%e7%90%86%e8%ab%96%e3%81%af"><span>理論は</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e5%bf%b5%e3%81%aa"><span>入念な</span></a><a href="https://takoboto.jp/?q=%e8%aa%bf%e6%9f%bb"><span>調査</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%9f%ba%e3%81%a5%e3%81%84%e3%81%a6"><strong>に基づいて</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%82%8b%e3%80%82"><span>いる。</span></a>
+    segments:
+      - text: 彼女の理論は入念な調査
+        grammar_highlight: false
+      - text: に基づいて
+        grammar_highlight: true
+      - text: いる。
+        grammar_highlight: false
+    reading: かのじょのりろんはにゅうねんなちょうさにもとづいている。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Her theory is based on careful research.
+        html: |-
+          <span>Her theory is based on careful research. </span>
+        segments:
+          - text: 'Her theory is based on careful research. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8334
+    position: 6
+    japanese: 彼は事実に基づいた記述をした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e5%ae%9f%e3%81%ab"><span>事実に</span></a><a href="https://takoboto.jp/?q=%e5%9f%ba%e3%81%a5%e3%81%84%e3%81%9f"><span>基づいた</span></a><a href="https://takoboto.jp/?q=%e8%a8%98%e8%bf%b0%e3%82%92%e3%81%97%e3%81%9f%e3%80%82"><span>記述をした。</span></a>
+    segments:
+      - text: 彼は事実に基づいた記述をした。
+        grammar_highlight: false
+    reading: かれはじじつにもとづいたきじゅつをした。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: His description was based on reality.
+        html: |-
+          <span>His description was based on reality. </span>
+        segments:
+          - text: 'His description was based on reality. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8335
+    position: 7
+    japanese: 彼女の理論は事実に基づいていなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae"><span>彼女の</span></a><a href="https://takoboto.jp/?q=%e7%90%86%e8%ab%96%e3%81%af"><span>理論は</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e5%ae%9f"><span>事実</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%9f%ba%e3%81%a5%e3%81%84%e3%81%a6"><strong>に基づいて</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>いなかった。</span></a>
+    segments:
+      - text: 彼女の理論は事実
+        grammar_highlight: false
+      - text: に基づいて
+        grammar_highlight: true
+      - text: いなかった。
+        grammar_highlight: false
+    reading: かのじょのりろんはじじつにもとづいていなかった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Her argument was not built on facts.
+        html: |-
+          <span>Her argument was not built on facts. </span>
+        segments:
+          - text: 'Her argument was not built on facts. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8336
+    position: 8
+    japanese: 彼の言い訳はほんど事実に基づいていませんでした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%84"><span>言い</span></a><a href="https://takoboto.jp/?q=%e8%a8%b3%e3%81%af%e3%81%bb%e3%82%93%e3%81%a9"><span>訳はほんど</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e5%ae%9f"><span>事実</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%9f%ba%e3%81%a5%e3%81%84%e3%81%a6"><strong>に基づいて</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%81%a7%e3%81%97%e3%81%9f%e3%80%82"><span>いませんでした。</span></a>
+    segments:
+      - text: 彼の言い訳はほんど事実
+        grammar_highlight: false
+      - text: に基づいて
+        grammar_highlight: true
+      - text: いませんでした。
+        grammar_highlight: false
+    reading: かれのいいわけはほんどじじつにもとづいていませんでした。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: His escuse rested on few facts.
+        html: |-
+          <span>His escuse rested on few facts. </span>
+        segments:
+          - text: 'His escuse rested on few facts. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8337
+    position: 9
+    japanese: キリスト教的信条に基づいて大学を設立する。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%ad%e3%83%aa%e3%82%b9%e3%83%88"><span>キリスト</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e7%9a%84%e4%bf%a1%e6%9d%a1"><span>教的信条</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%9f%ba%e3%81%a5%e3%81%84%e3%81%a6"><strong>に基づいて</strong></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e3%82%92"><span>大学を</span></a><a href="https://takoboto.jp/?q=%e8%a8%ad%e7%ab%8b%e3%81%99%e3%82%8b%e3%80%82"><span>設立する。</span></a>
+    segments:
+      - text: キリスト教的信条
+        grammar_highlight: false
+      - text: に基づいて
+        grammar_highlight: true
+      - text: 大学を設立する。
+        grammar_highlight: false
+    reading: キリストきょうてきしんじょうにもとづいてだいがくをせつりつする。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Establish a college around Christian beliefs.
+        html: |-
+          <span>Establish a college around Christian beliefs. </span>
+        segments:
+          - text: 'Establish a college around Christian beliefs. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: see [basis-of-action-group] for similar items and comparisons.
+    html: see [basis-of-action-group] for similar items and comparisons.
+    credits_raw: dc
+    content_sha256: 9e7419b5d2fc3c68dca237f4ac084933aac6e1e70103b4f102844cdcf7d34fd9
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Please, correct the title into motozuite.
+    html: Please, correct the title into motozuite.
+    credits_raw: Olivier
+    content_sha256: e432baed7bdcc6b639c8cd1f9805cba526af034f2a0f47b3a0adf9f7d2d28832
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1259
+    label: をもとに
+    source_url: https://takoboto.jp/bunpo/1259
+  - target_id: 127
+    label: のもとで
+    source_url: https://takoboto.jp/bunpo/127
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:52+00:00'
+response_sha256: 84c7a16809e987510df92cff86c6c443751e656a8b31fe9149cd18068f8f82fd
+warnings: []

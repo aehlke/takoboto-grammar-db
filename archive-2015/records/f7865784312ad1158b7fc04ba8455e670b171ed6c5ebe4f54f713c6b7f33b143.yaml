@@ -1,0 +1,54 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1779
+label: tonokotoda
+title_raw: とのこと ([とのこと] )(tonokotoda)
+title: とのこと
+reading: とのこと
+romanized_label: tonokotoda
+category: grammar
+jlpt_level_original: '0'
+meaning: according to [引用の文・語句]+とのことだ
+meaning_example: According to a telephone call from Mrs. Koizumi, the arrival will be late 10 minutes.
+credits_raw: g.assis
+source_url: http://jgram.org/pages/viewOne.php?tagE=tonokotoda
+archive_url: https://web.archive.org/web/20150224225742id_/http://jgram.org/pages/viewOne.php?tagE=tonokotoda
+archive_timestamp: '20150224225742'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: W6AQDFGGP2UHXC5ECAZNTNWFJITP7MCK
+response_sha256: b7334c6b3cfec0ec40de76ee5cb5ec92aa9ec3f511862362e124b8ae88ea7dd8
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      とのこと ([とのこと] )(tonokotoda)
+          Meaning: according to [引用の文・語句]+とのことだ
+          Example: According to a telephone call from Mrs. Koizumi, the arrival will be late 10 minutes.
+          JLPT Level: 0
+          Category: grammar
+          Author: g.assis
+    html: |-
+      <span>とのこと ([とのこと] )(tonokotoda)</span><br/>    <span><b>Meaning</b>: according to [引用の文・語句]+とのことだ</span><br/>    <b>Example</b>: <i>According to a telephone call from Mrs. Koizumi, the arrival will be late 10 minutes.</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>g.assis</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225742'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6337381
+  length: 4805
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 5e23821d2a6f9c772d4f280760c7138c9c6f45e532e56b3d35d3b8f266839328

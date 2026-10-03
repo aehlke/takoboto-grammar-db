@@ -1,0 +1,85 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1581
+label: Kansai Dialect
+title_raw: Kansai Dialect (Kansai Dialect)
+title: Kansai Dialect (Kansai Dialect)
+reading: null
+romanized_label: Kansai Dialect
+category: lesson
+jlpt_level_original: '2'
+meaning: Kansai Dialect
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org/pages/viewOne.php?tagE=Kansai%20Dialect
+archive_url: https://web.archive.org/web/20150225002823id_/http://jgram.org/pages/viewOne.php?tagE=Kansai%20Dialect
+archive_timestamp: '20150225002823'
+retrieved_at: '2026-10-03T16:10:24+00:00'
+archive_digest: YLIOCOQBMR7KV4PNUUS46GQ2JAQTZC7G
+response_sha256: 1825c5d64b00ac807adfad233814ab9966417ab598a820f7e65f6bbfa4ba4568
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: Nagoya is not a part of Kansai. It is the main city of 中部地方 (Chuubu Chihou).
+    html: Nagoya is not a part of Kansai. It is the main city of 中部地方 (Chuubu Chihou).
+    credits_raw: ichien
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: Kobe is one of the larger cities in Kansai. Nagoya is not.
+    html: Kobe is one of the larger cities in Kansai. Nagoya is not.
+    credits_raw: brooks
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: This is 90% wrong.
+    html: This is 90% wrong.
+    credits_raw: ojanne
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: |-
+      This is mostly wrong and incomplete. It also fails to note that there are differences in 関西弁 within the region. The dialect in Northern Osaka is different than Southern Osaka. Kobe and Osaka dialects differ, and Kyoto is very unique and distinct.
+    html: |-
+      This is mostly wrong and incomplete. It also fails to note that there are differences in 関西弁 within the region. The dialect in Northern Osaka is different than Southern Osaka. Kobe and Osaka dialects differ, and Kyoto is very unique and distinct.
+    credits_raw: dgraham
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples: []
+comments:
+  - position: 0
+    credits_raw: Kori
+    text: "This Kansai page seems to be mixed with the まい page. All of the in-page examples are messed up. For example:\n\n\n\r\nUsing Negative Verbs in 関西弁\n\n\n\r\n    * For non-past, replace 「ない」 with 「へん」\n\r\n      例）　見る → 見るまい\n\r\n      例）　行く → 行くまい\n\r\n    * For past tense, replace 「なかった」 with 「へんかった」\n\r\n      例）　する → しまい\n\r\n      例）　認める → 認めまい\n\r\n    * This conjugation must always come last. For masu-form, attach 「まい」 to the masu-form verb.\n\r\n      例）　なる → なり → なります → なりますまい"
+    html: "This Kansai page seems to be mixed with the まい page. All of the in-page examples are messed up. For example:<br/>\n<br/>\r\nUsing Negative Verbs in 関西弁<br/>\n<br/>\r\n    * For non-past, replace 「ない」 with 「へん」<br/>\r\n      例）　見る → 見るまい<br/>\r\n      例）　行く → 行くまい<br/>\r\n    * For past tense, replace 「なかった」 with 「へんかった」<br/>\r\n      例）　する → しまい<br/>\r\n      例）　認める → 認めまい<br/>\r\n    * This conjugation must always come last. For masu-form, attach 「まい」 to the masu-form verb.<br/>\r\n      例）　なる → なり → なります → なりますまい<br/>\n<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "Kansai Dialect (Kansai Dialect)\n    Meaning: Kansai Dialect \n    JLPT Level: 2\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Kansai Dialect (Kansai Dialect)</span><br/>    <span><b>Meaning</b>: Kansai Dialect </span><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225002823'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 96307357
+  length: 5368
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 4a60b75469b4e2a27444a8cb8df297dde5b4f0e34497787fde1ceec67a51384e

@@ -1,0 +1,273 @@
+schema_version: 2
+id: 1252
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1252/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: まみれ　(塗れ）
+romanized_label: mamire
+alternate_forms:
+  - まにれ
+jlpt_level: 1
+credits_raw: dc
+meaning: covered in st (名詞＋に＋まみれる); (名詞＋まみれ)
+meaning_example: covered in sauce：　ソースまみれ、ソースにまみれる
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1252
+    body_text: "covered in st (名詞＋に＋まみれる); (名詞＋まみれ) \n covered in sauce：　ソースまみれ、ソースにまみれる"
+    body_html: |-
+      <span>covered in st (名詞＋に＋まみれる); (名詞＋まみれ)</span> <br/> <span>covered in sauce：　ソースまみれ、ソースにまみれる</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 3326
+    position: 0
+    japanese: その子供たちは全身ほこりまみれだった
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%9f%e3%81%a1%e3%81%af"><span>子供たちは</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e8%ba%ab%e3%81%bb%e3%81%93%e3%82%8a"><span>全身ほこり</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%bf%e3%82%8c"><strong>まみれ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a3%e3%81%9f"><span>だった</span></a>
+    segments:
+      - text: その子供たちは全身ほこり
+        grammar_highlight: false
+      - text: まみれ
+        grammar_highlight: true
+      - text: だった
+        grammar_highlight: false
+    reading: そのこどもたちはぜんしんほこりまみれだった
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The children were covered with dirt from head to foot
+        html: |-
+          <span>The children were covered with dirt from head to foot </span>
+        segments:
+          - text: 'The children were covered with dirt from head to foot '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3341
+    position: 1
+    japanese: 彼は全身泥まみれだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e8%ba%ab%e6%b3%a5"><span>全身泥</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%bf%e3%82%8c"><strong>まみれ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>だった。</span></a>
+    segments:
+      - text: 彼は全身泥
+        grammar_highlight: false
+      - text: まみれ
+        grammar_highlight: true
+      - text: だった。
+        grammar_highlight: false
+    reading: かれはぜんしんどろまみれだった。
+    credits_raw: dc3
+    translations:
+      - language: en
+        text: He was covered with mud from head to foot.
+        html: |-
+          <span>He was covered with mud from head to foot. </span>
+        segments:
+          - text: 'He was covered with mud from head to foot. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4175
+    position: 2
+    japanese: そのナイフは血にまみれていた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%83%8a%e3%82%a4%e3%83%95%e3%81%af"><span>そのナイフは</span></a><a href="https://takoboto.jp/?q=%e8%a1%80%e3%81%ab"><span>血に</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%bf%e3%82%8c"><strong>まみれ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a6%e3%81%84%e3%81%9f%e3%80%82"><span>ていた。</span></a>
+    segments:
+      - text: そのナイフは血に
+        grammar_highlight: false
+      - text: まみれ
+        grammar_highlight: true
+      - text: ていた。
+        grammar_highlight: false
+    reading: そのナイフはちにまみれていた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The knife was covered in blood.
+        html: |-
+          <span>The knife </span><strong>was covered </strong><span>in blood. </span>
+        segments:
+          - text: 'The knife '
+            grammar_highlight: false
+          - text: 'was covered '
+            grammar_highlight: true
+          - text: 'in blood. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4176
+    position: 3
+    japanese: 彼の額は汗まみれだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e9%a1%8d%e3%81%af"><span>額は</span></a><a href="https://takoboto.jp/?q=%e6%b1%97"><span>汗</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%bf%e3%82%8c"><strong>まみれ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>だった。</span></a>
+    segments:
+      - text: 彼の額は汗
+        grammar_highlight: false
+      - text: まみれ
+        grammar_highlight: true
+      - text: だった。
+        grammar_highlight: false
+    reading: かれのがくはあせまみれだった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Sweat bathed his forehead.
+        html: |-
+          <span>Sweat bathed his forehead. </span>
+        segments:
+          - text: 'Sweat bathed his forehead. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6696
+    position: 4
+    japanese: インドにお互いを色でまみれる祭がある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a4%e3%83%b3%e3%83%89%e3%81%ab%e3%81%8a"><span>インドにお</span></a><a href="https://takoboto.jp/?q=%e4%ba%92%e3%81%84%e3%82%92"><span>互いを</span></a><a href="https://takoboto.jp/?q=%e8%89%b2%e3%81%a7"><span>色で</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%bf%e3%82%8c"><strong>まみれ</strong></a><a href="https://takoboto.jp/?q=%e3%82%8b"><span>る</span></a><a href="https://takoboto.jp/?q=%e7%a5%ad%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>祭がある。</span></a>
+    segments:
+      - text: インドにお互いを色で
+        grammar_highlight: false
+      - text: まみれ
+        grammar_highlight: true
+      - text: る祭がある。
+        grammar_highlight: false
+    reading: インドにおたがいをいろでまみれるまつりがある。
+    credits_raw: ppmohapatra
+    translations:
+      - language: en
+        text: There is a festival of coloring each other in India.
+        html: |-
+          <span>There is a festival of coloring each other in India. </span>
+        segments:
+          - text: 'There is a festival of coloring each other in India. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7246
+    position: 5
+    japanese: あの子は泥と埃塗れだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e3%81%af"><span>子は</span></a><a href="https://takoboto.jp/?q=%e6%b3%a5%e3%81%a8"><span>泥と</span></a><a href="https://takoboto.jp/?q=%e5%9f%83"><span>埃</span></a><a href="https://takoboto.jp/?q=%e5%a1%97%e3%82%8c"><strong>塗れ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>だった。</span></a>
+    segments:
+      - text: あの子は泥と埃
+        grammar_highlight: false
+      - text: 塗れ
+        grammar_highlight: true
+      - text: だった。
+        grammar_highlight: false
+    reading: あのこはどろとほこりまみれだった。
+    credits_raw: IMABI
+    translations:
+      - language: en
+        text: That kid was covered in mud and dust.
+        html: |-
+          <span>That kid was </span><strong>covered in </strong><span>mud and dust. </span>
+        segments:
+          - text: 'That kid was '
+            grammar_highlight: false
+          - text: 'covered in '
+            grammar_highlight: true
+          - text: 'mud and dust. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Is only used for powdery like, or liquid such as blood, dust, oil, etc. Mamire is meant for physical items. However, this physicality can be stretched enough to include things that are related to a physical state such as failure or trends which both of which show the current state of something. Similar to mamire, [darake] is similar and can be used for both physical and abstract concepts.
+    html: |-
+      Is only used for powdery like, or liquid such as blood, dust, oil, etc. Mamire is meant for physical items. However, this physicality can be stretched enough to include things that are related to a physical state such as failure or trends which both of which show the current state of something. Similar to mamire, [darake] is similar and can be used for both physical and abstract concepts.
+    credits_raw: IMABI
+    content_sha256: 4ea49ae04f657efae3342323541c9ae9b41e546e21a4f8f159f1a99c9c41c78e
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 誇りまみれ
+    html: 誇りまみれ
+    credits_raw: dc
+    content_sha256: 32f84e22f5baf8091ac6faabdf741b4408d78a271acfabd75719997d4aebe6c4
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      それを言うならば、埃まみれ hokori mamire
+      I'd rather covered with pride than dust, though.
+    html: |-
+      それを言うならば、埃まみれ hokori mamire<br/>I'd rather covered with pride than dust, though.
+    credits_raw: Miki
+    content_sha256: c0815ce70064cc53d8f69beb7a02cae5dc0da223f7ba3a94730b6315937efafe
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: In 4175 「血に」の「に」が必要ですか
+    html: In 4175 「血に」の「に」が必要ですか
+    credits_raw: inevittable
+    content_sha256: d01d6b12974cc31ad88b4626ba5b2c6842e29c4626395a860308e939f12176fe
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      This is similar to darake, but mimare is only for liquids or powders like blood or dust, whereas darake can be for these things and things like mistakes, and holes (as in a car riddled with bullet holes).
+    html: |-
+      This is similar to darake, but mimare is only for liquids or powders like blood or dust, whereas darake can be for these things and things like mistakes, and holes (as in a car riddled with bullet holes).
+    credits_raw: inevittable
+    content_sha256: cc778651a8354ff927137327dc42c62134d8f421dec9a3ea0eded612578b90b8
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: inevittable, I'm pretty sure 4175 needs the に because まみれ is in its verb form and not followed by だ or だった。
+    html: inevittable, I'm pretty sure 4175 needs the に because まみれ is in its verb form and not followed by だ or だった。
+    credits_raw: tmkain
+    content_sha256: 76afbf0edd19061711348850c361a96fa9220cfe9d2613c7b00c840809b46080
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      >>inevittable
+
+      tmkain is absolutely correct; if it was まみれ as in all other examples you could say 血まみれ。「彼の顔が血まみれだった。」「彼の顔が血にまみれた。」
+    html: |-
+      &gt;&gt;inevittable<br/><br/>tmkain is absolutely correct; if it was まみれ as in all other examples you could say 血まみれ。「彼の顔が血まみれだった。」「彼の顔が血にまみれた。」
+    credits_raw: マリ
+    content_sha256: e348adf1a19e36096e6d6c648a72abad4bcec6e2f6b7335d3a4408ef05c92fa0
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: すみません。ミキさんとｄｃさんがお喋っていることを良く分かりませんがもっと詳しく説明してくださいませんか。多分完璧の例文は「誇りまめれるより埃まみれた方が良い」になります。
+    html: すみません。ミキさんとｄｃさんがお喋っていることを良く分かりませんがもっと詳しく説明してくださいませんか。多分完璧の例文は「誇りまめれるより埃まみれた方が良い」になります。
+    credits_raw: ppmohapatra
+    content_sha256: 30f13b66553f742ee6a9a87bcf8cb80ead6ba6311036d29ee3fa53a336409a84
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: 'if I can use mamire with something abstract like love or not. Can I say: "私は今本当に幸せです．回りの人の愛まみれですから。”'
+    html: 'if I can use mamire with something abstract like love or not. Can I say: "私は今本当に幸せです．回りの人の愛まみれですから。”'
+    credits_raw: amenya
+    content_sha256: e0e9acf94ba63d8d747a6eb9ea511a1972db1d3dfc250b8df03d050a889c6ac0
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1513
+    label: 〜尽くめ
+    source_url: https://takoboto.jp/bunpo/1513
+  - target_id: 711
+    label: だらけ
+    source_url: https://takoboto.jp/bunpo/711
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:43:55+00:00'
+response_sha256: 62f4e8863f7549e81c5b966b030fa5ad6ce68ac031e86bb920dcc73aee8f78b5
+warnings: []

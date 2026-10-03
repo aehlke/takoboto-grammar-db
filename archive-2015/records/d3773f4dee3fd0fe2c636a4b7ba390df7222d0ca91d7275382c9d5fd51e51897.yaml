@@ -1,0 +1,80 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1680
+label: tekoso
+title_raw: 〜てこそ ([〜てこそ] )(tekoso)
+title: 〜てこそ
+reading: 〜てこそ
+romanized_label: tekoso
+category: null
+jlpt_level_original: '0'
+meaning: not until, only after 「〜てはじめて」と同じ意味だ。
+meaning_example: Only after playing a sport you'll understand the fun of it.
+credits_raw: ZekkDistor
+source_url: http://jgram.org/pages/viewOne.php?tagE=tekoso
+archive_url: https://web.archive.org/web/20150224225959id_/http://jgram.org/pages/viewOne.php?tagE=tekoso
+archive_timestamp: '20150224225959'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: PDVY7YZGKSUTN6NBQCES2VODZNFILXLX
+response_sha256: 329f4a18767ccb9f0e5674c7c65a73c10f371b4b55105e38b757c47acfa130c8
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 7076
+    position: 0
+    japanese: スポーツでもゲームでも自分でやってこそ、おもしろさが分かる。
+    body_text: "スポーツでもゲームでも自分でやってこそ、おもしろさが分かる。 \n\n\t\tYou'll understand the fun of a sport or a game only after playing it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJスポーツでもゲームでも自分でやってこそ、おもしろさが分かる。\">\n\t\t\t\tスポーツでもゲームでも自分でやっ<strong>てこそ</strong>、おもしろさが分かる。<strong></strong></a> <br/>\n\t\tYou'll understand the fun of a sport or a game only after playing it. \n\t\t<strong> </strong>"
+    credits_raw: ZekkDistor
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8074
+    position: 1
+    japanese: 日本の文化は、日本へ行ってこそ分かるものだ。
+    body_text: "日本の文化は、日本へ行ってこそ分かるものだ。 \n\nOnly once you \n\t\tvisit Japan will you understand Japanese culture."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ日本の文化は、日本へ行ってこそ分かるものだ。\">\n\t\t\t\t日本の文化は、日本へ行っ<strong>てこそ</strong>分かるものだ。<strong></strong></a> <br/>\n<strong>Only once you </strong>\n\t\tvisit Japan will you understand Japanese culture."
+    credits_raw: waywren
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries:
+  - position: 0
+    target_label: tehajimete
+    label: tehajimete
+    annotation_text: tehajimete [ZekkDistor]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=tehajimete">tehajimete</a> [<a href="http://jgram.org/pages/contributions.php?author=ZekkDistor">ZekkDistor</a>]
+    credits_raw: ZekkDistor
+sections:
+  - kind: header
+    text: |-
+      〜てこそ ([〜てこそ] )(tekoso)
+          Meaning: not until, only after 「〜てはじめて」と同じ意味だ。
+          Example: Only after playing a sport you'll understand the fun of it.
+          JLPT Level: 0
+          Author: ZekkDistor
+    html: |-
+      <span>〜てこそ ([〜てこそ] )(tekoso)</span><br/>    <span><b>Meaning</b>: not until, only after 「〜てはじめて」と同じ意味だ。</span><br/>    <b>Example</b>: <i>Only after playing a sport you'll understand the fun of it.</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Author</b>: <i>ZekkDistor</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225959'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 8570307
+  length: 5201
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 2e4a677200f6623daa0c4d0af0725521f7a5e248ee35e523991f5a2b0cad57e4

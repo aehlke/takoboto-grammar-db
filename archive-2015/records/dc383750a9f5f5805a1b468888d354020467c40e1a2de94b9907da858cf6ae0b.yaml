@@ -1,0 +1,369 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 413
+label: tatokoro
+title_raw: た形ところ [たところ] (tatokoro)
+title: た形ところ
+reading: たところ
+romanized_label: tatokoro
+category: grammar
+jlpt_level_original: '2'
+meaning: just as I'd,  right at the moment when I'd
+meaning_example: just as I thought to call her, she called me
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=tatokoro
+archive_url: https://web.archive.org/web/20150224225520id_/http://jgram.org/pages/viewOne.php?tagE=tatokoro
+archive_timestamp: '20150224225520'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: OC5XMEPWCO2HDKSXMBPRICPOLNZ3AT2V
+response_sha256: 935518f48d70899ea2918e2cf5f809b9608a0f89eac6c23f9eb6d38119a76b4d
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "「Aたところ、Bた」: B is the subsequent result or acquired knowledge, et cetera, after doing A. This is a one-time-only action & result.\n\n\n\r\nVた + ところ\n\r\n* the most common use is 〜てみたところ"
+    html: "「Aたところ、Bた」: B is the subsequent result or acquired knowledge, et cetera, after doing A. This is a one-time-only action &amp; result.<br/>\n<br/>\r\nVた + ところ<br/>\r\n* the most common use is 〜てみたところ"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: 〜たら　＜あることをしたら，その結果がどうなったかを浮ｷ阜ｻ。＞
+    html: 〜たら　＜あることをしたら，その結果がどうなったかを浮ｷ阜ｻ。＞
+    credits_raw: sureshnihon
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 368
+    position: 0
+    japanese: マニュアルの説明通りにやってみたところうまくいった。
+    body_text: "マニュアルの説明通りにやってみたところうまくいった。 \n\nWhen \n\t\tI tried doing it as said in the manual, it went well."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJマニュアルの説明通りにやってみたところうまくいった。\">\n\t\t\t\tマニュアルの説明通りにやってみ<strong>たところ</strong>うまくいった。<strong></strong></a> <br/>\n<strong>When </strong>\n\t\tI tried doing it as said in the manual, it went well."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 369
+    position: 1
+    japanese: 彼女に電話をかけようと考えていたところ、彼女の方から、電話をかけて来た
+    body_text: "彼女に電話をかけようと考えていたところ、彼女の方から、電話をかけて来た \n\nJust when \n\t\tI'd thought I'd call her, she called me."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女に電話をかけようと考えていたところ、彼女の方から、電話をかけて来た\">\n\t\t\t\t彼女に電話をかけようと考えていた<strong>ところ</strong>、彼女の方から、電話をかけて来た<strong></strong></a> <br/>\n<strong>Just when </strong>\n\t\tI'd thought I'd call her, she called me."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 371
+    position: 2
+    japanese: 自宅でのインターネット利用についてたずねたところ、「利用している」が28.6％であった。
+    body_text: "自宅でのインターネット利用についてたずねたところ、「利用している」が28.6％であった。 \n\nWhen \n\t\tquestioned whether they used the Internet at home 28.6% said they \"currently use it\"."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ自宅でのインターネット利用についてたずねたところ、「利用している」が28.6％であった。\">\n\t\t\t\t自宅でのインターネット利用についてたずねた<strong>ところ</strong>、「利用している」が28.6％であった。<strong></strong></a> <br/>\n<strong>When </strong>\n\t\tquestioned whether they used the Internet at home 28.6% said they \"currently use it\"."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 686
+    position: 3
+    japanese: 彼女に電話をしようとしたところ、電話がかかってきた。
+    body_text: "彼女に電話をしようとしたところ、電話がかかってきた。 \n\nJust as I \n\t\tthought to phone her the phone rang."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女に電話をしようとしたところ、電話がかかってきた\">\n\t\t\t\t彼女に電話をしようとし<strong>たところ</strong>、電話がかかってきた<strong></strong>。</a> <br/>\n<strong>Just as I </strong>\n\t\tthought to phone her the phone rang."
+    credits_raw: Amatuka
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 756
+    position: 4
+    japanese: 犯人が店から出てきたところで警官に捕らえられた。
+    body_text: "犯人が店から出てきたところで警官に捕らえられた。 \n\n\t\tAs the criminal \n\t\twas coming out \n\t\tof the shop, the police grabbed him."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ犯人が店から出てきたところで警官に捕らえられた。\">\n\t\t\t\t犯人が店から出てきた<strong>ところで</strong>警官に捕らえられた。<strong></strong></a> <br/>\n\t\tAs the criminal \n\t\t<strong>was coming out </strong>\n\t\tof the shop, the police grabbed him."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6202
+    position: 5
+    japanese: 担当者に電話で問い合わせてみたところ、社員旅行の申し込みはもう終わっていた。
+    body_text: "担当者に電話で問い合わせてみたところ、社員旅行の申し込みはもう終わっていた。 \n\nOnce I had tried \n\t\tcalling the person in charge to inquire, application for the company trip was already over."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ担当者に電話で問い合わせてみたところ、社員旅行の申し込みはもう終わっていた。\">\n\t\t\t\t担当者に電話で問い合わせてみ<strong>たところ</strong>、社員旅行の申し込みはもう終わっていた。<strong></strong></a> <br/>\n<strong>Once I had tried </strong>\n\t\tcalling the person in charge to inquire, application for the company trip was already over."
+    credits_raw: rubyhatchet
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6948
+    position: 6
+    japanese: 実際、日本へ行ってみたところ、想像以上に素晴らしかったです。
+    body_text: "実際、日本へ行ってみたところ、想像以上に素晴らしかったです。 \n\n\t\tActually, \n\t\tonce \nI came  to Japan it was more wonderful than I had imagined."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ実際、日本へ行ってみたところ\">\n\t\t\t\t実際、日本へ行ってみた<strong>ところ</strong><strong></strong>、想像以上に素晴らしかったです。</a> <br/>\n\t\tActually, \n\t\t<strong>once </strong>\nI came  to Japan it was more wonderful than I had imagined."
+    credits_raw: 赤毛
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6949
+    position: 7
+    japanese: しっ、静かに。少し前に赤ちゃんがやっと寝たところなんだから。
+    body_text: "しっ、静かに。少し前に赤ちゃんがやっと寝たところなんだから。 \n\n\t\tFinally a little calm. I say that because we are \n\t\tjust having \n\t\tthe baby  fallen asleep."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJしっ、静かに。少し前に赤ちゃんがやっと寝たところ\">\n\t\t\t\tしっ、静かに。少し前に赤ちゃんがやっと寝た<strong>ところ</strong><strong></strong>なんだから。</a> <br/>\n\t\tFinally a little calm. I say that because we are \n\t\t<strong>just having </strong>\n\t\tthe baby  fallen asleep."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6955
+    position: 8
+    japanese: 電話帳で調べたところそういう名前の会社はなかった。
+    body_text: "電話帳で調べたところそういう名前の会社はなかった。 \n\nOnce I had \nchecked up  the telephone directory, such firm name didn't appear."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ電話帳で調べたところ\">\n\t\t\t\t電話帳で調べた<strong>ところ</strong><strong></strong>そういう名前の会社はなかった。</a> <br/>\n<strong>Once I had </strong>\nchecked up  the telephone directory, such firm name didn't appear."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6965
+    position: 9
+    japanese: 会社の問い合わせをしたところ、地図を送ってくれた。
+    body_text: "会社の問い合わせをしたところ、地図を送ってくれた。 \n\nOnce I had \ninquired  it to the firm, they sent the map to me."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ会社の問い合わせをしたところ\">\n\t\t\t\t会社の問い合わせをした<strong>ところ</strong><strong></strong>、地図を送ってくれた。</a> <br/>\n<strong>Once I had </strong>\ninquired  it to the firm, they sent the map to me."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7197
+    position: 10
+    japanese: 新しいヲープロを使ってみたところ、とてもつかいやすかった。
+    body_text: "新しいヲープロを使ってみたところ、とてもつかいやすかった。 \n\n\t\tIt is easy to have used it very much \n\t\twhen \n\t\tnew [wo-puro] was used."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ新しいヲープロを使ってみたところ、とてもつかいやすかった。\">\n\t\t\t\t新しいヲープロを使ってみ<strong>たところ、</strong>とてもつかいやすかった。<strong></strong></a> <br/>\n\t\tIt is easy to have used it very much \n\t\t<strong>when </strong>\n\t\tnew [wo-puro] was used."
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8466
+    position: 11
+    japanese: 角を曲がった所に郵便があります。
+    body_text: "角を曲がった所に郵便があります。\r \n\n\t\tYou will find a post office around the corner."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ角を曲がった所に郵便があります。\">\n\t\t\t\t角を曲がった所に郵便があります。\r<strong></strong><strong></strong></a> <br/>\n\t\tYou will find a post office around the corner. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8467
+    position: 12
+    japanese: 仕事が終わったところで電話します。
+    body_text: "仕事が終わったところで電話します。\r \n\n\t\tI`ll call you when I`ve finished the work."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ仕事が終わったところで電話します。\">\n\t\t\t\t仕事が終わったところで電話します。\r<strong></strong><strong></strong></a> <br/>\n\t\tI`ll call you when I`ve finished the work. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8468
+    position: 13
+    japanese: 駅に着いたところ列車はもう出てしまっていた。
+    body_text: "駅に着いたところ列車はもう出てしまっていた。\r \n\n\t\tWhen I arrived at the station, the train had already left."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ駅に着いたところ列車はもう出てしまっていた。\">\n\t\t\t\t駅に着いたところ列車はもう出てしまっていた。\r<strong></strong><strong></strong></a> <br/>\n\t\tWhen I arrived at the station, the train had already left. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: often has a result implied ~tara
+    html: often has a result implied ~tara
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: ＾たところ implies you'd just done (e.g. past tense) something.  See also ^るところ for just as I was about to.
+    html: ＾たところ implies you'd just done (e.g. past tense) something.  See also ^るところ for just as I was about to.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: |-
+      Don't forget that V-たところ can be a literal place where V-た took place. e.g. パーティーをやったところはどこだっけ。'Where was it you had the party again?'
+    html: |-
+      Don't forget that V-たところ can be a literal place where V-た took place. e.g. パーティーをやったところはどこだっけ。'Where was it you had the party again?'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: |-
+      there seems to be a big overlap between "just as", and "when" here. I think tatokoro is much more the former, with the emphasis.
+    html: |-
+      there seems to be a big overlap between "just as", and "when" here. I think tatokoro is much more the former, with the emphasis.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Amatuka
+    text: Still don't know what you mean by 'result implied'.
+    html: Still don't know what you mean by 'result implied'.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Amatuka
+    text: "If you mean that there should be different tokoro entries for 'just when' vs 'when' then I disagree.  I don't think \x01-たところ has as strong an implication of 'instant' as (for instance) とたん."
+    html: "If you mean that there should be <b>different tokoro entries</b> for 'just when' vs 'when' then I disagree.  I don't think <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>-たところ has as strong an implication of 'instant' as (for instance) とたん."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: Amatuka
+    text: "一番目の例文には、「ところ」というは場所ですか、それともときですか。\n\r\nみきさんはどう思いますか。"
+    html: "一番目の例文には、「ところ」というは場所ですか、それともときですか。<br/>\r\nみきさんはどう思いますか。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Miki
+    text: "This 「ところ」implys 'when'.\n\r\nIt is a bit natural to think the 「ところ」as a place due to the part 店から出てきた。"
+    html: "This 「ところ」implys 'when'.<br/>\r\nIt is a bit natural to think the 「ところ」as a place due to the part 店から出てきた。<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: Amatuka
+    text: Hmm, 微妙なところですね。
+    html: Hmm, 微妙なところですね。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: Amatuka
+    text: First example set back to 0 Check.
+    html: First example set back to 0 Check.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: bamboo4
+    text: |-
+      I would say that ところで more or less has location-orientation whereas ところを would have temporal-orientation. Still contrary construction is possible for both of these phrases. I would wager that most of the authors most probably would not have used either of these phrases with any degree of conscious effort to have it meant either way.
+    html: |-
+      I would say that ところで more or less has location-orientation whereas ところを would have temporal-orientation. Still contrary construction is possible for both of these phrases. I would wager that most of the authors most probably would not have used either of these phrases with any degree of conscious effort to have it meant either way.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: 誠
+    text: "1.volitional form + としたところ＝to be on the point of...／going to/about to/on the verge of (doing something) but just before doing\n\n\n\r\n   Has a similar meaning to 〜(す)るところ＝今からすぐする（まだしていない）\n\r\nE.g. : 引っ越そうとしたところです。\n\r\n　　　　I am on the point of moving.\n\r\n       これから、説明するところです。\n\r\n　　　　From now on, I am going to explain.\n\n\n\r\n２．〜(し)ているところ＝just started doing 〜\n\r\n今ちょうどしている（まだ終わっていない）\n\r\nE.g. 今、お風呂に入っているところだから、後で電話　　　してください。\n\r\n　　　Now I am just having my bath, so please \n\r\n      phone me later.\n\n\n\r\n3. 〜たところ＝just finished 〜ing\n\r\n  ＝今終わったばかり \n\r\nE.g. : 病気が治ったところなので、まだ泳ぐことができない。\n\r\n　　　Since he had just recovered from the illness, therefore he still can't swim.\n\n\n\r\n４．Another very similar meaning of 〜たところ＝\n\r\n　　〜たらその結果＝once (he/she) had 〜\n\r\nE.g. : 電話で問い合わせたところ、休館日は月曜日だということです。\n\r\n　　Once I had enquired by phone, I was told that the off day is Monday.\n\n\n\r\n5. 〜ている／ていたところに＝just at that moment, one is/was/were about to(present / past tense depends on the sentence)\n\r\n 　also under 〜ところに／へ／を＝〜という状況、場面に／へ／を\n\n\n\r\nE.g. : 出掛けようとしているところに、電話がかかってきた。\n\r\n      Just when I was about to go out, the phone came.\n\r\n       一人で寂しくテレビを見ているところへ、友達が訪ねてきた。\n\r\n　　　Just when I was watching the TV, my friend came to visit me.\n\r\n        恋人と話しているところを、先生にみられちゃった。\n\r\n　　　　Just when I was talking to my lover, my teacher caught an eye of us/we were spotted by the teacher.\n\n\n\r\n６．Another meaning of 〜ところ(を)＝〜という状態なのに、（挨拶で相手に対してよく使われる）\n\r\n   = although, despite (polite sense)\n\n\n\r\nE.g.: お忙しいところをわざわざおいで頂き、誠にありがとうございました。\n\r\n　　 I would like to thank you sincerely for coming despite being busy."
+    html: "1.volitional form + としたところ＝to be on the point of...／going to/about to/on the verge of (doing something) but just before doing<br/>\n<br/>\r\n   Has a similar meaning to 〜(す)るところ＝今からすぐする（まだしていない）<br/>\r\nE.g. : 引っ越そうとしたところです。<br/>\r\n　　　　I am on the point of moving.<br/>\r\n       これから、説明するところです。<br/>\r\n　　　　From now on, I am going to explain.<br/>\n<br/>\r\n２．〜(し)ているところ＝just started doing 〜<br/>\r\n今ちょうどしている（まだ終わっていない）<br/>\r\nE.g. 今、お風呂に入っているところだから、後で電話　　　してください。<br/>\r\n　　　Now I am just having my bath, so please <br/>\r\n      phone me later.<br/>\n<br/>\r\n3. 〜たところ＝just finished 〜ing<br/>\r\n  ＝今終わったばかり <br/>\r\nE.g. : 病気が治ったところなので、まだ泳ぐことができない。<br/>\r\n　　　Since he had just recovered from the illness, therefore he still can't swim.<br/>\n<br/>\r\n４．Another very similar meaning of 〜たところ＝<br/>\r\n　　〜たらその結果＝once (he/she) had 〜<br/>\r\nE.g. : 電話で問い合わせたところ、休館日は月曜日だということです。<br/>\r\n　　Once I had enquired by phone, I was told that the off day is Monday.<br/>\n<br/>\r\n5. 〜ている／ていたところに＝just at that moment, one is/was/were about to(present / past tense depends on the sentence)<br/>\r\n 　also under 〜ところに／へ／を＝〜という状況、場面に／へ／を<br/>\n<br/>\r\nE.g. : 出掛けようとしているところに、電話がかかってきた。<br/>\r\n      Just when I was about to go out, the phone came.<br/>\r\n       一人で寂しくテレビを見ているところへ、友達が訪ねてきた。<br/>\r\n　　　Just when I was watching the TV, my friend came to visit me.<br/>\r\n        恋人と話しているところを、先生にみられちゃった。<br/>\r\n　　　　Just when I was talking to my lover, my teacher caught an eye of us/we were spotted by the teacher.<br/>\n<br/>\r\n６．Another meaning of 〜ところ(を)＝〜という状態なのに、（挨拶で相手に対してよく使われる）<br/>\r\n   = although, despite (polite sense)<br/>\n<br/>\r\nE.g.: お忙しいところをわざわざおいで頂き、誠にありがとうございました。<br/>\r\n　　 I would like to thank you sincerely for coming despite being busy."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: 赤毛
+    text: "誠さんへ\n\r\nI think your explanation is very interesting. It would be very kind of you if you can move it to the notes, and add links to the main 4 entries which give examples for the various cases above:\n\r\n- \x01\n\r\n- \x01\n\r\n- \x01\n\r\n- [tokoroni, tokorohe, tokorowo] (http://www.jgram.org/pages/viewOne.php?tagE=tokoroni,%20tokorohe,%20tokorowo)"
+    html: "誠さんへ<br/>\r\nI think your explanation is very interesting. It would be very kind of you if you can move it to the notes, and add links to the main 4 entries which give examples for the various cases above:<br/>\r\n- <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b><br/>\r\n- <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b><br/>\r\n- <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b><br/>\r\n- [tokoroni, tokorohe, tokorowo] (<a href=\"http://www.jgram.org/pages/viewOne.php?tagE=tokoroni,%20tokorohe,%20tokorowo\">http://www.jgram.org/pages/viewOne.php?tagE=tokoroni,%20tokorohe,%20tokorowo</a>)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: karekano
+    text: Hmm, I can't understand. What is wo-puro?　Isn`t it ワープロ？
+    html: Hmm, I can't understand. What is wo-puro?　Isn`t it ワープロ？
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: sai
+    label: sai
+    annotation_text: sai [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=sai">sai</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: nisaishite
+    label: nisaishite
+    annotation_text: nisaishite [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=nisaishite">nisaishite</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 2
+    target_label: totan(ni)
+    label: totan(ni)
+    annotation_text: |-
+      totan(ni)    (〜たところ can be used similarly to 〜たとたん but the latter is definitely 'timelike' and (IMO) more firmly 'instant'.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=totan(ni)">totan(ni)</a>    (〜たところ can be used similarly to 〜たとたん but the latter is definitely 'timelike' and (IMO) more firmly 'instant'.) [<a href="http://jgram.org/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 3
+    target_label: ~tokoro (da)
+    label: ~tokoro (da)
+    annotation_text: "~tokoro (da)    (\x01たところ and \x01るところ same principle, different case.) [Amatuka]"
+    annotation_html: "<a href=\"http://jgram.org/pages/viewOne.php?tagE=~tokoro (da)\">~tokoro (da)</a>    (<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>たところ and <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>るところ same principle, different case.) [<a href=\"http://jgram.org/pages/contributions.php?author=Amatuka\">Amatuka</a>]"
+    credits_raw: Amatuka
+  - position: 4
+    target_label: shidai
+    label: shidai
+    annotation_text: shidai [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=shidai">shidai</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+  - position: 5
+    target_label: yainaya
+    label: yainaya
+    annotation_text: yainaya [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=yainaya">yainaya</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+  - position: 6
+    target_label: nari
+    label: nari
+    annotation_text: nari [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=nari">nari</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+  - position: 7
+    target_label: kadoukanouchini
+    label: kadoukanouchini
+    annotation_text: kadoukanouchini [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kadoukanouchini">kadoukanouchini</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+  - position: 8
+    target_label: kanaikanouchini
+    label: kanaikanouchini
+    annotation_text: kanaikanouchini [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kanaikanouchini">kanaikanouchini</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+sections:
+  - kind: header
+    text: "た形ところ [たところ] (tatokoro)\n    Meaning: just as I'd,  right at the moment when I'd \n    Example: just as I thought to call her, she called me\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>た形ところ [たところ] (tatokoro)</span><br/>    <span><b>Meaning</b>: just as I'd,  right at the moment when I'd </span><br/>    <b>Example</b>: <i>just as I thought to call her, she called me</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225520'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3236997
+  length: 9098
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 3230014d39ceeb5ea4023c0a14e91c1a7e90370c913774e83638f6effe8dc134

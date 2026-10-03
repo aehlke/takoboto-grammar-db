@@ -1,0 +1,295 @@
+schema_version: 2
+id: 1330
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1330/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜にたえない
+romanized_label: nitaenai1
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: cannot stand; cannot do; no value to
+meaning_example: I can't stand listening to his karaoke
+meaning_notes:
+  - language: ja
+    text: ~は我慢(がまん)できない
+    html: ~は我慢(がまん)できない
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1330
+    body_text: |-
+      cannot stand; cannot do; no value to 
+       I can't stand listening to his karaoke 
+       ~は我慢(がまん)できない
+    body_html: |-
+      <span>cannot stand; cannot do; no value to</span> <br/> <span>I can't stand listening to his karaoke</span> <br/> <span>~は我慢(がまん)できない</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1330
+    body_text: Verb dictionary form+にたえない
+    body_html: |-
+      <div><div><div>Verb dictionary form</div></div><div><div>+</div><div>にたえない</div></div></div>
+    credits_raw: null
+formations:
+  - Verb dictionary form + にたえない
+examples:
+  - source_id: 4242
+    position: 0
+    japanese: これは芸術作品どころか、見るにたえないほどのできだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af%e8%8a%b8%e8%a1%93%e4%bd%9c%e5%93%81%e3%81%a9%e3%81%93%e3%82%8d%e3%81%8b%e3%80%81%e8%a6%8b%e3%82%8b"><span>これは芸術作品どころか、見る</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%9f%e3%81%88%e3%81%aa%e3%81%84"><strong>にたえない</strong></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9%e3%81%ae%e3%81%a7%e3%81%8d%e3%81%a0%e3%80%82"><span>ほどのできだ。</span></a>
+    segments:
+      - text: これは芸術作品どころか、見る
+        grammar_highlight: false
+      - text: にたえない
+        grammar_highlight: true
+      - text: ほどのできだ。
+        grammar_highlight: false
+    reading: これはげいじゅつさくひんどころか、みるにたえないほどのできだ。
+    credits_raw: dc, Pomu
+    translations:
+      - language: en
+        text: This is far from being an artist's work, it's so bad it's hard to  look at.
+        html: |-
+          <span>This is far from being an artist's work, it's so bad </span><strong>it's hard to </strong><span> look at. </span>
+        segments:
+          - text: 'This is far from being an artist''s work, it''s so bad '
+            grammar_highlight: false
+          - text: 'it''s hard to '
+            grammar_highlight: true
+          - text: ' look at. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5158
+    position: 1
+    japanese: 聞くに耐えない歌いぶり
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%8f%e3%81%ab"><span>聞くに</span></a><a href="https://takoboto.jp/?q=%e8%80%90%e3%81%88%e3%81%aa%e3%81%84"><span>耐えない</span></a><a href="https://takoboto.jp/?q=%e6%ad%8c%e3%81%84%e3%81%b6%e3%82%8a"><span>歌いぶり</span></a>
+    segments:
+      - text: 聞くに耐えない歌いぶり
+        grammar_highlight: false
+    reading: きくにたえないうたいぶり
+    credits_raw: dc
+    translations:
+      - language: en
+        text: execrable singing
+        html: |-
+          <span>execrable singing </span>
+        segments:
+          - text: 'execrable singing '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5159
+    position: 2
+    japanese: 最近のテレビには、見るにたえないほどひどい番組がある
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%80%e8%bf%91%e3%81%ae%e3%83%86%e3%83%ac%e3%83%93%e3%81%ab%e3%81%af%e3%80%81"><span>最近のテレビには、</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8b"><span>見る</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%9f%e3%81%88%e3%81%aa%e3%81%84"><strong>にたえない</strong></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9%e3%81%b2%e3%81%a9%e3%81%84"><span>ほどひどい</span></a><a href="https://takoboto.jp/?q=%e7%95%aa%e7%b5%84%e3%81%8c%e3%81%82%e3%82%8b"><span>番組がある</span></a>
+    segments:
+      - text: 最近のテレビには、見る
+        grammar_highlight: false
+      - text: にたえない
+        grammar_highlight: true
+      - text: ほどひどい番組がある
+        grammar_highlight: false
+    reading: さいきんのテレビには、みるにたえないほどひどいばんぐみがある
+    credits_raw: dc
+    translations:
+      - language: en
+        text: TV of late, the programs are so terrible, I can't stand to watch them
+        html: |-
+          <span>TV of late, the programs are so terrible, I </span><strong>can't stand to </strong><span>watch them </span>
+        segments:
+          - text: 'TV of late, the programs are so terrible, I '
+            grammar_highlight: false
+          - text: 'can''t stand to '
+            grammar_highlight: true
+          - text: 'watch them '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5160
+    position: 3
+    japanese: 見るに耐えない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8b%e3%81%ab"><span>見るに</span></a><a href="https://takoboto.jp/?q=%e8%80%90%e3%81%88%e3%81%aa%e3%81%84"><span>耐えない</span></a>
+    segments:
+      - text: 見るに耐えない
+        grammar_highlight: false
+    reading: みるにたえない
+    credits_raw: dc
+    translations:
+      - language: en
+        text: butt-ugly
+        html: |-
+          <span>butt-ugly </span>
+        segments:
+          - text: 'butt-ugly '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5161
+    position: 4
+    japanese: 言うに耐えない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%ab"><span>言うに</span></a><a href="https://takoboto.jp/?q=%e8%80%90%e3%81%88%e3%81%aa%e3%81%84"><span>耐えない</span></a>
+    segments:
+      - text: 言うに耐えない
+        grammar_highlight: false
+    reading: いうにたえない
+    credits_raw: dc
+    translations:
+      - language: en
+        text: unspeakable
+        html: |-
+          <span>unspeakable </span>
+        segments:
+          - text: 'unspeakable '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5162
+    position: 5
+    japanese: ああいう陰口は聞くにたえません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%82%e3%81%84%e3%81%86"><span>ああいう</span></a><a href="https://takoboto.jp/?q=%e9%99%b0%e5%8f%a3%e3%81%af"><span>陰口は</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%8f"><span>聞く</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%9f%e3%81%88%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><strong>にたえません。</strong></a>
+    segments:
+      - text: ああいう陰口は聞く
+        grammar_highlight: false
+      - text: にたえません。
+        grammar_highlight: true
+    reading: ああいうかげぐちはきくにたえません。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I can't stand to hear that kind of bitching behind people's backs.
+        html: |-
+          <span>I </span><strong>can't stand </strong><span>to hear that kind of bitching behind people's backs. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'can''t stand '
+            grammar_highlight: true
+          - text: 'to hear that kind of bitching behind people''s backs. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8019
+    position: 6
+    japanese: 国会議員と言う要職にある彼が酒に酔って魔黷ﾄいる状態は、全く見るにたえない姿だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%9b%bd%e4%bc%9a%e8%ad%b0%e5%93%a1%e3%81%a8"><span>国会議員と</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86"><span>言う</span></a><a href="https://takoboto.jp/?q=%e8%a6%81%e8%81%b7%e3%81%ab%e3%81%82%e3%82%8b"><span>要職にある</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c"><span>彼が</span></a><a href="https://takoboto.jp/?q=%e9%85%92%e3%81%ab"><span>酒に</span></a><a href="https://takoboto.jp/?q=%e9%85%94%e3%81%a3%e3%81%a6"><span>酔って</span></a><a href="https://takoboto.jp/?q=%e9%ad%94%e9%bb%b7%ef%be%84%e3%81%84%e3%82%8b"><span>魔黷ﾄいる</span></a><a href="https://takoboto.jp/?q=%e7%8a%b6%e6%85%8b%e3%81%af%e3%80%81"><span>状態は、</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e3%81%8f"><span>全く</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8b"><span>見る</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%9f%e3%81%88%e3%81%aa%e3%81%84"><strong>にたえない</strong></a><a href="https://takoboto.jp/?q=%e5%a7%bf%e3%81%a0%e3%80%82"><span>姿だ。</span></a>
+    segments:
+      - text: 国会議員と言う要職にある彼が酒に酔って魔黷ﾄいる状態は、全く見る
+        grammar_highlight: false
+      - text: にたえない
+        grammar_highlight: true
+      - text: 姿だ。
+        grammar_highlight: false
+    reading: こっかいぎいんというようしょくにあるかれがさけによってまいるじょうたいは、まったくみるにたえないすがただ。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          Holding such an important job as he does as a member of the diet, I utterly cannot endure seeing him behaving so unruly under the influence of alcohol. (1999 paper)
+        html: |-
+          <span>Holding such an important job as he does as a member of the diet, I utterly </span><strong>cannot endure </strong><span>seeing him behaving so unruly under the influence of alcohol. (1999 paper) </span>
+        segments:
+          - text: 'Holding such an important job as he does as a member of the diet, I utterly '
+            grammar_highlight: false
+          - text: 'cannot endure '
+            grammar_highlight: true
+          - text: 'seeing him behaving so unruly under the influence of alcohol. (1999 paper) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      耐える means to bear. 
+
+      Vdic + に + 耐えない = (Verb) is unbearable
+    html: |-
+      耐える means to bear. <br/><br/>Vdic + に + 耐えない = (Verb) is unbearable
+    credits_raw: dc
+    content_sha256: 2c094be5a7ac622886dc1774e2e4ec40ce2adfdc56e693bccfea46c04ddf77d5
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      On the difference between [nitaienai1] and [nitaienai2]
+      There are two たえないs of note in the Japanese language... hurray.　How to distinguish them?
+      [nitaienai1] is for saying you just can't stand something and should be constructed from VERB辞書形 + にたえない
+      [nitaienai2] is for saying that you have a strong emotional reaction to something - "氏の当会へのご援助はまことに感謝に堪えません｜We cannot be too grateful to him for the help he has given our society." and should be constructed NOUN + たえない.
+
+      Both are on the old JLPT 1 syllabus, if anyone knows what's on the new N1, please advise
+    html: |-
+      <b>On the difference between [nitaienai1] and [nitaienai2]</b><br/>There are two たえないs of note in the Japanese language... hurray.　How to distinguish them?<br/>[nitaienai1] is for saying you just can't stand something and should be constructed from VERB辞書形 + にたえない<br/>[nitaienai2] is for saying that you have a strong emotional reaction to something - "氏の当会へのご援助はまことに感謝に堪えません｜We cannot be too grateful to him for the help he has given our society." and should be constructed NOUN + たえない.<br/><br/>Both are on the old JLPT 1 syllabus, if anyone knows what's on the new N1, please advise
+    credits_raw: LR
+    content_sha256: 20eeef65c858bdd08a1273d5628361d9b196106cd83e40d5e22f324b002c1c0f
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p67 - no.63'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p67 - no.63
+    credits_raw: LR
+    content_sha256: 01ef3087def69b4a25c598d3e16b52d69277d32800ee659925d47a488461d55e
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Customarily used only with a set number of verbs like "can't stand to look", "can't stand to hear" "can't stand to read" "can't stand to face up to" - 見る、聴く、読む、正視する
+    html: |-
+      Customarily used only with a set number of verbs like "can't stand to look", "can't stand to hear" "can't stand to read" "can't stand to face up to" - 見る、聴く、読む、正視する
+    credits_raw: LR
+    content_sha256: 74af47e7ce689bd8d6e12705ddfb841e7c03cd3c203472816cf35fad9b8feed4
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Moving this to level 1, 2010/12/4
+    html: Moving this to level 1, 2010/12/4
+    credits_raw: LR
+    content_sha256: 5eda7f04a324f0ec98e2ed4a52a232b301c1b3e28ce9de87c6cdb167ee5abf95
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: This entry should be listed as belonging to Level 1.
+    html: This entry should be listed as belonging to Level 1.
+    credits_raw: Olivier
+    content_sha256: 1c4386663de13a4384d64bdc46914cc74e344bb31af8ab7127acaaeb524ebbe2
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      Should it not be 耐えられない instead, since it's a potential verb?
+
+      I looked it up at ALC Space, and most of the examples have a られる ending: http://eow.alc.co.jp/%E8%80%90/UTF-8/
+    html: |-
+      Should it not be 耐えられない instead, since it's a potential verb?<br/><br/>I looked it up at ALC Space, and most of the examples have a られる ending: http://eow.alc.co.jp/%E8%80%90/UTF-8/
+    credits_raw: kin_sama
+    content_sha256: 477217d2c171d7f5385aa00702dc24435d4ab0a519c4d32af8892bbf281c4650
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1328
+    label: 〜にたえる
+    source_url: https://takoboto.jp/bunpo/1328
+  - target_id: 1756
+    label: 〜堪えない
+    source_url: https://takoboto.jp/bunpo/1756
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:43:43+00:00'
+response_sha256: 13bae6bc3655e080841b6b001240b99398d7c034b402cec6d5ca504d1dbdb35a
+warnings: []

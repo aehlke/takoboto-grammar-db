@@ -1,0 +1,208 @@
+schema_version: 2
+id: 750
+source: takoboto
+source_url: https://takoboto.jp/bunpo/750/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ~ず もがな
+romanized_label: zumogana
+alternate_forms: []
+jlpt_level: 1
+credits_raw: Amatuka
+meaning: Vn, As well not to ~
+meaning_example: as well not to buy them
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_750
+    body_text: |-
+      Vn, As well not to ~ 
+       as well not to buy them
+    body_html: |-
+      <span>Vn, As well not to ~</span> <br/> <span>as well not to buy them</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 512
+    position: 0
+    japanese: サッカーで日本が勝って、韓国人の金さんがどんな気持ちかなんて、そんなこと、言わずもがなのことだよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e3%81%a7"><span>サッカーで</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%8c"><span>日本が</span></a><a href="https://takoboto.jp/?q=%e5%8b%9d%e3%81%a3%e3%81%a6%e3%80%81"><span>勝って、</span></a><a href="https://takoboto.jp/?q=%e9%9f%93%e5%9b%bd%e4%ba%ba%e3%81%ae"><span>韓国人の</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%81%95%e3%82%93%e3%81%8c%e3%81%a9%e3%82%93%e3%81%aa"><span>金さんがどんな</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e6%8c%81%e3%81%a1%e3%81%8b%e3%81%aa%e3%82%93%e3%81%a6%e3%80%81%e3%81%9d%e3%82%93%e3%81%aa%e3%81%93%e3%81%a8%e3%80%81"><span>気持ちかなんて、そんなこと、</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%82%8f"><span>言わ</span></a><a href="https://takoboto.jp/?q=%e3%81%9a%e3%82%82%e3%81%8c%e3%81%aa"><strong>ずもがな</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%93%e3%81%a8%e3%81%a0%e3%82%88%e3%80%82"><span>のことだよ。</span></a>
+    segments:
+      - text: サッカーで日本が勝って、韓国人の金さんがどんな気持ちかなんて、そんなこと、言わ
+        grammar_highlight: false
+      - text: ずもがな
+        grammar_highlight: true
+      - text: のことだよ。
+        grammar_highlight: false
+    reading: サッカーでにほんがかって、かんこくじんのきむさんがどんなきもちかなんて、そんなこと、いわずもがなのことだよ。
+    credits_raw: Amatuka, kimchi314
+    translations:
+      - language: en
+        text: When Japan wins at football (soccer), you don't even need to ask to know how the Korean Mr. Kim feels.
+        html: |-
+          <span>When Japan wins at football (soccer), </span><strong>you don't even need to </strong><span>ask to know how the Korean Mr. Kim feels. </span>
+        segments:
+          - text: 'When Japan wins at football (soccer), '
+            grammar_highlight: false
+          - text: 'you don''t even need to '
+            grammar_highlight: true
+          - text: 'ask to know how the Korean Mr. Kim feels. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 537
+    position: 1
+    japanese: 新しい電気製品なんて、買わずもがなで、買うとろくなものがない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84"><span>新しい</span></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e6%b0%97%e8%a3%bd%e5%93%81%e3%81%aa%e3%82%93%e3%81%a6%e3%80%81"><span>電気製品なんて、</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%82%8f"><span>買わ</span></a><a href="https://takoboto.jp/?q=%e3%81%9a%e3%82%82%e3%81%8c%e3%81%aa"><strong>ずもがな</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%80%81"><span>で、</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%86%e3%81%a8%e3%82%8d%e3%81%8f%e3%81%aa%e3%82%82%e3%81%ae%e3%81%8c%e3%81%aa%e3%81%84%e3%80%82"><span>買うとろくなものがない。</span></a>
+    segments:
+      - text: 新しい電気製品なんて、買わ
+        grammar_highlight: false
+      - text: ずもがな
+        grammar_highlight: true
+      - text: で、買うとろくなものがない。
+        grammar_highlight: false
+    reading: あたらしいでんきせいひんなんて、かわずもがなで、かうとろくなものがない。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: You might as well not buy those new electronic gadgets. If you do then nothing good will come of it.
+        html: |-
+          <span>You </span><strong>might as well not </strong><span>buy those new electronic gadgets. If you do then nothing good will come of it. </span>
+        segments:
+          - text: 'You '
+            grammar_highlight: false
+          - text: 'might as well not '
+            grammar_highlight: true
+          - text: 'buy those new electronic gadgets. If you do then nothing good will come of it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3254
+    position: 2
+    japanese: あの人の書く文章には無くもがなといえる言葉が多い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%ae"><span>人の</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%8f"><span>書く</span></a><a href="https://takoboto.jp/?q=%e6%96%87%e7%ab%a0%e3%81%ab%e3%81%af"><span>文章には</span></a><a href="https://takoboto.jp/?q=%e7%84%a1%e3%81%8f%e3%82%82%e3%81%8c%e3%81%aa"><strong>無くもがな</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%88%e3%82%8b"><span>といえる</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e8%91%89%e3%81%8c"><span>言葉が</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%84%e3%80%82"><span>多い。</span></a>
+    segments:
+      - text: あの人の書く文章には
+        grammar_highlight: false
+      - text: 無くもがな
+        grammar_highlight: true
+      - text: といえる言葉が多い。
+        grammar_highlight: false
+    reading: あのひとのかくぶんしょうにはむくもがなといえることばがおおい。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: In his writings, there are a number of words which might better have been left out.
+        html: |-
+          <span>In his writings, there are a number of words which might </span><strong>better have been left out. </strong>
+        segments:
+          - text: 'In his writings, there are a number of words which might '
+            grammar_highlight: false
+          - text: 'better have been left out. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Conists of verb in 未然形+ず, the classical verb of negation, and the sentence-final classical particle もがな.
+      もがな:願望を表す。〜といいなあ。
+    html: |-
+      Conists of verb in 未然形+ず, the classical verb of negation, and the sentence-final classical particle もがな.<br/>もがな:願望を表す。〜といいなあ。
+    credits_raw: blutorange
+    content_sha256: 2fedea100652aa17791fa92507d04273a995ddf4a532d5cbeb778eb0b8cb530e
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Two general uses, 1. Something doesn't need doing / saying.
+    html: Two general uses, 1. Something doesn't need doing / saying.
+    credits_raw: Amatuka
+    content_sha256: 164b9ba19aafd80edfdf0b07b9334ba6220e6088b0b9aa8b76d07c0b30b9d5ae
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 2. Something should not be done / said [although may be anyway to ones regret]
+    html: 2. Something should not be done / said [although may be anyway to ones regret]
+    credits_raw: Amatuka
+    content_sha256: 2724fc85e8c380fe5468d88aa917721d1476921855f80bdd6b909d5c70bd1ce7
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: 'NOTE: This is /relatively/ low usage in modern Japanese - but appeared on 2000 JLPT level 1.'
+    html: 'NOTE: This is /relatively/ low usage in modern Japanese - but appeared on 2000 JLPT level 1.'
+    credits_raw: Amatuka
+    content_sha256: fa29e9cd944a98a638401308896e1ad70054a8928fd6e68d5cde68ac90ae1991
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: I agree with NOTE. I asked J co-workers if they use 買わずもがな, I was asked the meanings. I know only 言わずもがな.
+    html: I agree with NOTE. I asked J co-workers if they use 買わずもがな, I was asked the meanings. I know only 言わずもがな.
+    credits_raw: Miki
+    content_sha256: f07765f8f73e12cf3abbd027f1726616bd751ed2e734d2a91e9cf907d72efe18
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      Formed by V-nai base + ずもがな
+      e.g. 買う→買わない→買わずもがな
+
+      Vn = V-nai base
+    html: |-
+      Formed by V-nai base + ずもがな<br/>e.g. 買う→買わない→買わずもがな<br/><br/>Vn = V-nai base
+    credits_raw: Amatuka
+    content_sha256: 8fbf6e6f4fc27a97548450fff41b9ad2ed9d963b5a63e3efc51ad51b42104d80
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      もがな dates bqck to the Heian era, and it means that what precedes もがな would be the desire of the speaker. It is an archaic Japanese which only finds its use in some set expressions, such as 言わずもがな,which literally would mean "I desire that I do not say that" that would include the case of my regret for having said what I said.
+      My 広辞苑 shows the following:
+      あらずもがな、言わずもがな、無くもがな、やらずもがな and 由もがな.
+      While 買わずもがな is grammatically correct, I am not sure if it is actually used.
+      In any event, except perhaps 言わずもがな, all other instances of the use of もがな are pretty archaic.
+    html: |-
+      もがな dates bqck to the Heian era, and it means that what precedes もがな would be the desire of the speaker. It is an archaic Japanese which only finds its use in some set expressions, such as 言わずもがな,which literally would mean "I desire that I do not say that" that would include the case of my regret for having said what I said.<br/>My 広辞苑 shows the following:<br/>あらずもがな、言わずもがな、無くもがな、やらずもがな and 由もがな.<br/>While 買わずもがな is grammatically correct, I am not sure if it is actually used.<br/>In any event, except perhaps 言わずもがな, all other instances of the use of もがな are pretty archaic.
+    credits_raw: bamboo4
+    content_sha256: ed5f36c85a18a8d983b905b241b5a62082f7c89264a7425ef852db03b7588fd0
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      なくもがな 【無くもがな】 
+
+      （連語）
+
+      ないほうがよい。あらずもがな。
+      「あの一言は≠ｾった」「≠ﾌ差しで口」
+    html: |-
+      なくもがな 【無くもがな】 <br/><br/>（連語）<br/><br/>ないほうがよい。あらずもがな。<br/>「あの一言は≠ｾった」「≠ﾌ差しで口」
+    credits_raw: kanoko
+    content_sha256: 7ec75d1e16b47e2c2aa68444bd4624b67488c949f408a1d49c1e971fd818131e
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: Thanks for examples. I have been going through old JLPT and was stumped by this one.
+    html: Thanks for examples. I have been going through old JLPT and was stumped by this one.
+    credits_raw: higashinoK:go
+    content_sha256: 874eb11f6e0e0579ce5cf9e88f99f129e4cdfeeb815d5cda5fa5bb7b346a68ef
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:45:05+00:00'
+response_sha256: 2cbadfe31c8ea79a3ebcb344255fc439b424a18d821d8dc3177c3d1cf9d8ea22
+warnings: []

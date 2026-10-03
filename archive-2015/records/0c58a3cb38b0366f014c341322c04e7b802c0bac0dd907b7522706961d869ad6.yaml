@@ -1,0 +1,71 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1736
+label: kakeda
+title_raw: かけだ ([かけだ] )(kakeda)
+title: かけだ
+reading: かけだ
+romanized_label: kakeda
+category: grammar
+jlpt_level_original: '2'
+meaning: in the middle of something 何か始めたけれど、途中で止めてしまいました。完成はまだです。
+meaning_example: these files are yet to be completed.
+credits_raw: ashishjoshi
+source_url: http://jgram.org/pages/viewOne.php?tagE=kakeda
+archive_url: https://web.archive.org/web/20150224225511id_/http://jgram.org/pages/viewOne.php?tagE=kakeda
+archive_timestamp: '20150224225511'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: NBYQBQJO7H3ZTJZRCZGGZXWYSGDNS2FM
+response_sha256: 610ded2da62ffb0f63bcb1a9fab653db9b291c0a44d9a71354f685d1a49b7470
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: '[v(-masu)+kake] is a pattern used to show that something was stopped in the middle or before the actual completion.'
+    html: '[v(-masu)+kake] is a pattern used to show that something was stopped in the middle or before the actual completion.'
+    credits_raw: ashishjoshi
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 8590
+    position: 0
+    japanese: お風呂に入りかけたときに電話が鳴った。
+    body_text: "お風呂に入りかけたときに電話が鳴った。 \n\n\t\tThe phone rang when I was about to get in the bath."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJお風呂に入りかけたときに電話が鳴った。\">\n\t\t\t\tお風呂に入りかけたときに電話が鳴った。<strong></strong><strong></strong></a> <br/>\n\t\tThe phone rang when I was about to get in the bath. \n\t\t<strong> </strong>"
+    credits_raw: hungry-sumo
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      かけだ ([かけだ] )(kakeda)
+          Meaning: in the middle of something 何か始めたけれど、途中で止めてしまいました。完成はまだです。
+          Example: these files are yet to be completed.
+          JLPT Level: 2
+          Category: grammar
+          Author: ashishjoshi
+    html: |-
+      <span>かけだ ([かけだ] )(kakeda)</span><br/>    <span><b>Meaning</b>: in the middle of something 何か始めたけれど、途中で止めてしまいました。完成はまだです。</span><br/>    <b>Example</b>: <i>these files are yet to be completed.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>ashishjoshi</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225511'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3090563
+  length: 5167
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 3b9aa25d4740c20697d6dd962b58e9f59205768ba09f4fc9c8fe2727924a8bae

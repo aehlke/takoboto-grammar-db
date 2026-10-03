@@ -1,0 +1,557 @@
+schema_version: 2
+id: 1266
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1266/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 兼ねる
+romanized_label: kaneru
+alternate_forms:
+  - かねる
+jlpt_level: 2
+credits_raw: dc
+meaning: hesitate to, cannot, hard to do
+meaning_example: その点は賛成しかねる。/ I am unable to agree on that point.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1266
+    body_text: |-
+      hesitate to, cannot, hard to do 
+       その点は賛成しかねる。/ I am unable to agree on that point.
+    body_html: |-
+      <span>hesitate to, cannot, hard to do</span> <br/> <span>その点は賛成しかねる。/ I am unable to agree on that point.</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 223
+    position: 0
+    japanese: 言いかねる
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%84"><span>言い</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%ad%e3%82%8b"><strong>かねる</strong></a>
+    segments:
+      - text: 言い
+        grammar_highlight: false
+      - text: かねる
+        grammar_highlight: true
+    reading: いいかねる
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: find it hard to say
+        html: |-
+          <span>find it </span><strong>hard to </strong><span>say </span>
+        segments:
+          - text: 'find it '
+            grammar_highlight: false
+          - text: 'hard to '
+            grammar_highlight: true
+          - text: 'say '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 224
+    position: 1
+    japanese: たまりかねる
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%be%e3%82%8a"><span>たまり</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%ad%e3%82%8b"><strong>かねる</strong></a>
+    segments:
+      - text: たまり
+        grammar_highlight: false
+      - text: かねる
+        grammar_highlight: true
+    reading: たまりかねる
+    credits_raw: dc
+    translations:
+      - language: en
+        text: find it hard to bear (something any longer)
+        html: |-
+          <span>find it </span><strong>hard to bear </strong><span>(something any longer) </span>
+        segments:
+          - text: 'find it '
+            grammar_highlight: false
+          - text: 'hard to bear '
+            grammar_highlight: true
+          - text: '(something any longer) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 340
+    position: 2
+    japanese: こんな高価な贈り物、頂きかねます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><span>こんな</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e4%be%a1%e3%81%aa"><span>高価な</span></a><a href="https://takoboto.jp/?q=%e8%b4%88%e3%82%8a"><span>贈り</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%80%81"><span>物、</span></a><a href="https://takoboto.jp/?q=%e9%a0%82%e3%81%8d"><span>頂き</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%ad%e3%81%be%e3%81%99%e3%80%82"><strong>かねます。</strong></a>
+    segments:
+      - text: こんな高価な贈り物、頂き
+        grammar_highlight: false
+      - text: かねます。
+        grammar_highlight: true
+    reading: こんなこうかなおくりもの、いただきかねます。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I cannot accept such an expensive gift.
+        html: |-
+          <strong>I cannot </strong><span>accept such an expensive gift. </span>
+        segments:
+          - text: 'I cannot '
+            grammar_highlight: true
+          - text: 'accept such an expensive gift. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 516
+    position: 3
+    japanese: 彼女に本当の事を言いかねて彼はだまった
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ab"><span>彼女に</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ae"><span>本当の</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b"><span>事</span></a><a href="https://takoboto.jp/?q=%e3%82%92"><span>を</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%84%e3%81%8b%e3%81%ad%e3%81%a6"><strong>言いかねて</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%a0%e3%81%be%e3%81%a3%e3%81%9f"><span>彼はだまった</span></a>
+    segments:
+      - text: 彼女に本当の事を
+        grammar_highlight: false
+      - text: 言いかねて
+        grammar_highlight: true
+      - text: 彼はだまった
+        grammar_highlight: false
+    reading: かのじょにほんとうのことをいいかねてかれはだまった
+    credits_raw: Amatuka, dc
+    translations:
+      - language: en
+        text: he found it hard to say the truth to her, and remained silent.
+        html: |-
+          <strong>he found it hard to </strong><span>say the truth to her, and remained silent. </span>
+        segments:
+          - text: 'he found it hard to '
+            grammar_highlight: true
+          - text: 'say the truth to her, and remained silent. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3155
+    position: 4
+    japanese: そのことについては、即答しかねます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%af%e3%80%81"><span>そのことについては、</span></a><a href="https://takoboto.jp/?q=%e5%8d%b3%e7%ad%94%e3%81%97%e3%81%8b%e3%81%ad%e3%81%be%e3%81%99%e3%80%82"><strong>即答しかねます。</strong></a>
+    segments:
+      - text: そのことについては、
+        grammar_highlight: false
+      - text: 即答しかねます。
+        grammar_highlight: true
+    reading: そのことについては、そくとうしかねます。
+    credits_raw: bitco, bamboo4
+    translations:
+      - language: en
+        text: I find it hard to  respond to that matter immediately
+        html: |-
+          <strong>I find it hard to </strong><span> respond to that matter immediately </span>
+        segments:
+          - text: 'I find it hard to '
+            grammar_highlight: true
+          - text: ' respond to that matter immediately '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3390
+    position: 5
+    japanese: こういう事情ですから、残念ながら、せっかくのご招待をお受けいたしかねるのです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%86%e3%81%84%e3%81%86"><span>こういう</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e6%83%85%e3%81%a7%e3%81%99%e3%81%8b%e3%82%89%e3%80%81"><span>事情ですから、</span></a><a href="https://takoboto.jp/?q=%e6%ae%8b%e5%bf%b5%e3%81%aa%e3%81%8c%e3%82%89%e3%80%81%e3%81%9b%e3%81%a3%e3%81%8b%e3%81%8f%e3%81%ae%e3%81%94"><span>残念ながら、せっかくのご</span></a><a href="https://takoboto.jp/?q=%e6%8b%9b%e5%be%85%e3%82%92%e3%81%8a"><span>招待をお</span></a><a href="https://takoboto.jp/?q=%e5%8f%97%e3%81%91%e3%81%84%e3%81%9f%e3%81%97"><span>受けいたし</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%ad%e3%82%8b"><strong>かねる</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82"><span>のです。</span></a>
+    segments:
+      - text: こういう事情ですから、残念ながら、せっかくのご招待をお受けいたし
+        grammar_highlight: false
+      - text: かねる
+        grammar_highlight: true
+      - text: のです。
+        grammar_highlight: false
+    reading: こういうじじょうですから、ざんねんながら、せっかくのごしょうたいをおうけいたしかねるのです。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: As such is the case, I am sorry I can't accept your kind invitation.
+        html: |-
+          <span>As such is the case, I am sorry I can't accept your kind invitation. </span>
+        segments:
+          - text: 'As such is the case, I am sorry I can''t accept your kind invitation. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3391
+    position: 6
+    japanese: その点は賛成しかねる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e7%82%b9%e3%81%af"><span>点は</span></a><a href="https://takoboto.jp/?q=%e8%b3%9b%e6%88%90%e3%81%97"><span>賛成し</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%ad%e3%82%8b"><strong>かねる</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: その点は賛成し
+        grammar_highlight: false
+      - text: かねる
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: そのてんはさんせいしかねる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I cannot agree with you on that point
+        html: |-
+          <span>I cannot agree with you on that point </span>
+        segments:
+          - text: 'I cannot agree with you on that point '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3392
+    position: 7
+    japanese: 一年間で浪費するはした金がいくらになるか、だれにも決めかねる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%80%e5%b9%b4%e9%96%93%e3%81%a7"><span>一年間で</span></a><a href="https://takoboto.jp/?q=%e6%b5%aa%e8%b2%bb%e3%81%99%e3%82%8b%e3%81%af%e3%81%97%e3%81%9f"><span>浪費するはした</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%81%8c%e3%81%84%e3%81%8f%e3%82%89%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%8b%e3%80%81%e3%81%a0%e3%82%8c%e3%81%ab%e3%82%82"><span>金がいくらになるか、だれにも</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e3%82%81"><span>決め</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%ad%e3%82%8b"><strong>かねる</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 一年間で浪費するはした金がいくらになるか、だれにも決め
+        grammar_highlight: false
+      - text: かねる
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: いちねんかんでろうひするはしたがねがいくらになるか、だれにもきめかねる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: No one can determine the amount of pin - money we waste in a year.
+        html: |-
+          <span>No one can determine the amount of pin - money we waste in a year. </span>
+        segments:
+          - text: 'No one can determine the amount of pin - money we waste in a year. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3393
+    position: 8
+    japanese: 彼女の態度は少々腹にすえかねる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae"><span>彼女の</span></a><a href="https://takoboto.jp/?q=%e6%85%8b%e5%ba%a6%e3%81%af"><span>態度は</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%80%85"><span>少々</span></a><a href="https://takoboto.jp/?q=%e8%85%b9%e3%81%ab%e3%81%99%e3%81%88"><span>腹にすえ</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%ad%e3%82%8b"><strong>かねる</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼女の態度は少々腹にすえ
+        grammar_highlight: false
+      - text: かねる
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かのじょのたいどはしょうしょうはらにすえかねる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I find her manner a little hard to take.
+        html: |-
+          <span>I find her manner a little hard to take. </span>
+        segments:
+          - text: 'I find her manner a little hard to take. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6854
+    position: 9
+    japanese: その意見に賛成とは言いかねます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e6%84%8f%e8%a6%8b%e3%81%ab"><span>意見に</span></a><a href="https://takoboto.jp/?q=%e8%b3%9b%e6%88%90%e3%81%a8%e3%81%af"><span>賛成とは</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%84"><span>言い</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%ad%e3%81%be%e3%81%99"><strong>かねます</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: その意見に賛成とは言い
+        grammar_highlight: false
+      - text: かねます
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: そのいけんにさんせいとはいいかねます。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I am unable to agree with that opinion.
+        html: |-
+          <span>I am </span><strong>unable to </strong><span>agree with </span><span>that opinion. </span>
+        segments:
+          - text: 'I am '
+            grammar_highlight: false
+          - text: 'unable to '
+            grammar_highlight: true
+          - text: 'agree with that opinion. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8203
+    position: 10
+    japanese: そんな方法には賛成し兼ねる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%93%e3%81%aa"><span>そんな</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e6%b3%95%e3%81%ab%e3%81%af"><span>方法には</span></a><a href="https://takoboto.jp/?q=%e8%b3%9b%e6%88%90%e3%81%97"><span>賛成し</span></a><a href="https://takoboto.jp/?q=%e5%85%bc%e3%81%ad%e3%82%8b"><strong>兼ねる</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: そんな方法には賛成し
+        grammar_highlight: false
+      - text: 兼ねる
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: そんなほうほうにはさんせいしかねる。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I can't approve such methods.
+        html: |-
+          <span>I can't approve such methods. </span>
+        segments:
+          - text: 'I can''t approve such methods. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8204
+    position: 11
+    japanese: 髪をもっと短く切ろうかどうか決め兼ねている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%ab%aa%e3%82%92%e3%82%82%e3%81%a3%e3%81%a8"><span>髪をもっと</span></a><a href="https://takoboto.jp/?q=%e7%9f%ad%e3%81%8f"><span>短く</span></a><a href="https://takoboto.jp/?q=%e5%88%87%e3%82%8d%e3%81%86%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b"><span>切ろうかどうか</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e3%82%81"><span>決め</span></a><a href="https://takoboto.jp/?q=%e5%85%bc%e3%81%ad%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><strong>兼ねている。</strong></a>
+    segments:
+      - text: 髪をもっと短く切ろうかどうか決め
+        grammar_highlight: false
+      - text: 兼ねている。
+        grammar_highlight: true
+    reading: かみをもっとみじかくきろうかどうかきめかねている。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I can`t decide whether or not to cut my hair shorter.
+        html: |-
+          <strong>I can`t decide </strong><span>whether or not to cut my hair shorter. </span>
+        segments:
+          - text: 'I can`t decide '
+            grammar_highlight: true
+          - text: 'whether or not to cut my hair shorter. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8556
+    position: 12
+    japanese: 今日は晴天だから、雷雨がありかねる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%af"><span>今日は</span></a><a href="https://takoboto.jp/?q=%e6%99%b4%e5%a4%a9%e3%81%a0%e3%81%8b%e3%82%89%e3%80%81"><span>晴天だから、</span></a><a href="https://takoboto.jp/?q=%e9%9b%b7%e9%9b%a8%e3%81%8c%e3%81%82%e3%82%8a%e3%81%8b%e3%81%ad%e3%82%8b%e3%80%82"><span>雷雨がありかねる。</span></a>
+    segments:
+      - text: 今日は晴天だから、雷雨がありかねる。
+        grammar_highlight: false
+    reading: きょうはせいてんだから、らいうがありかねる。
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: Today because the sunny weather,it's hard to rain storm.
+        html: |-
+          <span>Today because the sunny weather,it's hard to rain storm. </span>
+        segments:
+          - text: 'Today because the sunny weather,it''s hard to rain storm. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6855
+    position: 13
+    japanese: 労働条件の変更について会社から説明を受けたが、私はどうも納得しかねる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8a%b4%e5%83%8d%e6%9d%a1%e4%bb%b6%e3%81%ae"><span>労働条件の</span></a><a href="https://takoboto.jp/?q=%e5%a4%89%e6%9b%b4%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6"><span>変更について</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%8b%e3%82%89"><span>会社から</span></a><a href="https://takoboto.jp/?q=%e8%aa%ac%e6%98%8e%e3%82%92"><span>説明を</span></a><a href="https://takoboto.jp/?q=%e5%8f%97%e3%81%91%e3%81%9f%e3%81%8c%e3%80%81"><span>受けたが、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%a9%e3%81%86%e3%82%82"><span>私はどうも</span></a><a href="https://takoboto.jp/?q=%e7%b4%8d%e5%be%97%e3%81%97"><span>納得し</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%ad%e3%82%8b"><strong>かねる</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 労働条件の変更について会社から説明を受けたが、私はどうも納得し
+        grammar_highlight: false
+      - text: かねる
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ろうどうじょうけんのへんこうについてかいしゃからせつめいをうけたが、わたしはどうもなっとくしかねる。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: |-
+          I received an explanation from my Company about the changes in the working conditions, but I really hesitate to agree with them.
+        html: |-
+          <span>I received an explanation from my Company about the changes in the working conditions, but I really </span><strong>hesitate to </strong><span>agree with them. </span>
+        segments:
+          - text: 'I received an explanation from my Company about the changes in the working conditions, but I really '
+            grammar_highlight: false
+          - text: 'hesitate to '
+            grammar_highlight: true
+          - text: 'agree with them. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6856
+    position: 14
+    japanese: 面接試験ではどんな質問が出るのかと聞かれたが、そのようなことを聞かれてもちょっと答えかねる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9d%a2%e6%8e%a5%e8%a9%a6%e9%a8%93%e3%81%a7%e3%81%af%e3%81%a9%e3%82%93%e3%81%aa"><span>面接試験ではどんな</span></a><a href="https://takoboto.jp/?q=%e8%b3%aa%e5%95%8f%e3%81%8c"><span>質問が</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%82%8b%e3%81%ae%e3%81%8b%e3%81%a8"><span>出るのかと</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%8b%e3%82%8c%e3%81%9f%e3%81%8c%e3%80%81%e3%81%9d%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e3%81%93%e3%81%a8%e3%82%92"><span>聞かれたが、そのようなことを</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%8b%e3%82%8c%e3%81%a6%e3%82%82%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8"><span>聞かれてもちょっと</span></a><a href="https://takoboto.jp/?q=%e7%ad%94%e3%81%88"><span>答え</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%ad%e3%82%8b"><strong>かねる</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 面接試験ではどんな質問が出るのかと聞かれたが、そのようなことを聞かれてもちょっと答え
+        grammar_highlight: false
+      - text: かねる
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: めんせつしけんではどんなしつもんがでるのかときかれたが、そのようなことをきかれてもちょっとこたえかねる。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: |-
+          In the oral examination, every question coming forth have been heard, but even if I heard the question, I hesitate a little to respond.
+        html: |-
+          <span>In the oral examination, every question coming forth have been heard, but even if I heard the question, I </span><strong>hesitate </strong><span>a little to respond. </span>
+        segments:
+          - text: 'In the oral examination, every question coming forth have been heard, but even if I heard the question, I '
+            grammar_highlight: false
+          - text: 'hesitate '
+            grammar_highlight: true
+          - text: 'a little to respond. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: "言いかねる\nii-kaneru \n= i hestitate/don't want to say...\neg \"I hesitate to say this, but please don't come to the party\"\n\n言い難い （　いいがたい ）\nii-gatai \n= this is hard to say\neg \"It's hard to say what he was thinking...\""
+    html: |-
+      言いかねる<br/>ii-kaneru <br/>= i hestitate/don't want to say...<br/>eg "I hesitate to say this, but please don't come to the party"<br/><br/>言い難い （　いいがたい ）<br/>ii-gatai <br/>= this is hard to say<br/>eg "It's hard to say what he was thinking..."
+    credits_raw: dc
+    content_sha256: 86414b1581b2951e4cf305c1a6e8c4ef822c77d77d590c5c24c79ebf1eeca19e
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Verb-masu stem
+
+      言います ＞ 言いかねます 言いかねる
+    html: |-
+      Verb-masu stem<br/><br/>言います ＞ 言いかねます 言いかねる
+    credits_raw: dc
+    content_sha256: 63d8d291270d0a39d5431148b13783a6f1a6d242bb4f191bafb64922e264c3e4
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Snake said >
+      this is just like a stronger version of [gatai] then?
+      e.g.
+      言い難い - hard to say
+      言い兼ねる - can't say (because it is so hard to)
+
+      but i guess, iigatai isn't a verb is it, it's more like an adjective.. how about 'iigatai ga suru' or something (k so i made that up but...^_^)
+    html: |-
+      Snake said &gt;<br/>this is just like a stronger version of [gatai] then?<br/>e.g.<br/>言い難い - hard to say<br/>言い兼ねる - can't say (because it is so hard to)<br/><br/>but i guess, iigatai isn't a verb is it, it's more like an adjective.. how about 'iigatai ga suru' or something (k so i made that up but...^_^)
+    credits_raw: dc
+    content_sha256: f8fb0639cf000ee65947c2688a1ebc62e64568ccaad512be3b6b0632ebf29450
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      ii-kaneru seems to have a particularly japanese feeling, something like "well, i don't really want to say that, but... (its true)".
+
+      Like, I hesitate to say this, but I must.
+
+      But hopefully a japanese native can clear up the difference some more.
+    html: |-
+      ii-kaneru seems to have a particularly japanese feeling, something like "well, i don't really want to say that, but... (its true)".<br/><br/>Like, I hesitate to say this, but I must.<br/><br/>But hopefully a japanese native can clear up the difference some more.
+    credits_raw: dc
+    content_sha256: 86ba0efa6b2cce30de98c966addf235ca03e098851e7351b4c5ad893e5a06354
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      分かりーかねる was also explained as what people at depato stores are taught to say to customers. If someone asks "do you sell X" and you absolutely know you don't sell it, you cannot say that. No, instead it's far better to waste the customer's time and pretend to look for it, and then say "wakari-kaneru" so they don't know. Maybe then they might buy something else while waiting?
+    html: |-
+      分かりーかねる was also explained as what people at depato stores are taught to say to customers. If someone asks "do you sell X" and you absolutely know you don't sell it, you cannot say that. No, instead it's far better to waste the customer's time and pretend to look for it, and then say "wakari-kaneru" so they don't know. Maybe then they might buy something else while waiting?
+    credits_raw: dc
+    content_sha256: ac997e54cfd92cc5e736024a7d9df69906904257348ced5e1ee228aae1f108b4
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      いいかねる (not いい兼ねる) and 言い難い has different nuance. The former is subjective, in that you "hesitate to say" whereas the latter means "it is hard to say" and thus principally objective, even though in such expression as 必ずしも言い難い(not necessarily can be said) may not necessarily objective.
+    html: |-
+      いいかねる (not いい兼ねる) and 言い難い has different nuance. The former is subjective, in that you "hesitate to say" whereas the latter means "it is hard to say" and thus principally objective, even though in such expression as 必ずしも言い難い(not necessarily can be said) may not necessarily objective.
+    credits_raw: bamboo4
+    content_sha256: 660ca19662223eff33e881ab112009e20d941475fc535ba768ba662b2e2a7102
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: thanks! pls review "note" at top...
+    html: thanks! pls review "note" at top...
+    credits_raw: dc
+    content_sha256: 88af026cf314ccd259b13758f1be5a34664c5ae7ed2d1c7da3adbf73b9b77da4
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      言い難い is also read as いいにくい。this is more casual than 言いかねる。
+      こんなこと言いにくいのですが、パーティに来ないでくれませんか。:P
+    html: |-
+      言い難い is also read as いいにくい。this is more casual than 言いかねる。<br/>こんなこと言いにくいのですが、パーティに来ないでくれませんか。:P
+    credits_raw: your name
+    content_sha256: d496217923ce3a8efe3a2ff0ee9530fffab84fbcfea34e3aabf8ec1c783099af
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      Agree that 言いにくい is more casual in a situation such as こんなこと言いにくいのですが、パーティに来ないでくれませんか = I hesitate to say this, but please don't come to the party.
+    html: |-
+      Agree that 言いにくい is more casual in a situation such as こんなこと言いにくいのですが、パーティに来ないでくれませんか = I hesitate to say this, but please don't come to the party.
+    credits_raw: bamboo4
+    content_sha256: 8caa5b7390ef46c76a4882e0532824c9f60bfc487cf9a58e38f9cbb876ee23db
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      Formed from Verb -masu base + kaneru
+      Note that kaneru conjugates as a normal verb (e.g. かねた、かねます etc are possible)
+      Vm = Verb -masu base
+    html: |-
+      Formed from Verb -masu base + kaneru<br/>Note that kaneru conjugates as a normal verb (e.g. かねた、かねます etc are possible)<br/>Vm = Verb -masu base
+    credits_raw: Amatuka
+    content_sha256: f4cda4ebce483b1ff4a59836110ddd2f277ec61e6da1a6aa26731df198136754
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      From a native Japanese teacher I know that にくい is mostly for object characteristics and 難い is for human thinking. So the above comment is not really true.
+    html: |-
+      From a native Japanese teacher I know that にくい is mostly for object characteristics and 難い is for human thinking. So the above comment is not really true.
+    credits_raw: kupokomapa
+    content_sha256: 870ec47f4d66494a04ca11f3a070e9dd0ac1937172f663b2b8508c4be340355f
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      In casual conversation you'll hear いいにくい used all over the place. Learn both!
+
+      彼女に本当の事を言い かねて彼はだまった 
+      He said nothing, it was too hard to tell her the truth.
+
+      一年間で浪費するはした金がいくらになるか、だれにも決めかねる。 
+      No one can determine the amount of money wasted in a year.
+    html: |-
+      In casual conversation you'll hear いいにくい used all over the place. Learn both!<br/><br/>彼女に本当の事を言い かねて彼はだまった <br/>He said nothing, it was too hard to tell her the truth.<br/><br/>一年間で浪費するはした金がいくらになるか、だれにも決めかねる。 <br/>No one can determine the amount of money wasted in a year.
+    credits_raw: slopethisway
+    content_sha256: 65de9da4011310ff81dcab7b581d6530e459012717f8438c55a9cf42e9033abb
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 672
+    label: かねない
+    source_url: https://takoboto.jp/bunpo/672
+  - target_id: 668
+    label: がたい
+    source_url: https://takoboto.jp/bunpo/668
+  - target_id: 1355
+    label: 兼ねて
+    source_url: https://takoboto.jp/bunpo/1355
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:41:25+00:00'
+response_sha256: 674934941054f5f7dd7dd77e2e1b4bcea3457102f967346185fd47147cdfc3f5
+warnings: []

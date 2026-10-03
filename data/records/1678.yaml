@@ -1,0 +1,100 @@
+schema_version: 2
+id: 1678
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1678/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ときたら
+romanized_label: tokitara
+alternate_forms: []
+jlpt_level: null
+credits_raw: jmadsen
+meaning: when it comes to~ (neg. sense)
+meaning_example: Speaking of my son, he really isn't very good at sports
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1678
+    body_text: |-
+      when it comes to~ (neg. sense) 
+       Speaking of my son, he really isn't very good at sports
+    body_html: |-
+      <span>when it comes to~ (neg. sense)</span> <br/> <span>Speaking of my son, he really isn't very good at sports</span>
+    credits_raw: jmadsen
+formations: []
+examples:
+  - source_id: 7063
+    position: 0
+    japanese: うちの息子ときたら、全然勉強しないで、ゲームばっかりしてるのよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ae"><span>うちの</span></a><a href="https://takoboto.jp/?q=%e6%81%af%e5%ad%90"><span>息子</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%8d%e3%81%9f%e3%82%89"><strong>ときたら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e7%84%b6%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%aa%e3%81%84%e3%81%a7%e3%80%81%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%b0%e3%81%a3%e3%81%8b%e3%82%8a%e3%81%97%e3%81%a6%e3%82%8b%e3%81%ae%e3%82%88%e3%80%82"><span>全然勉強しないで、ゲームばっかりしてるのよ。</span></a>
+    segments:
+      - text: うちの息子
+        grammar_highlight: false
+      - text: ときたら
+        grammar_highlight: true
+      - text: 、全然勉強しないで、ゲームばっかりしてるのよ。
+        grammar_highlight: false
+    reading: うちのむすこときたら、ぜんぜんべんきょうしないで、ゲームばっかりしてるのよ。
+    credits_raw: jmadsen
+    translations:
+      - language: en
+        text: Speaking of my son, he is always playing games without studying.
+        html: |-
+          <span>Speaking of my son, he is always playing games without studying. </span>
+        segments:
+          - text: 'Speaking of my son, he is always playing games without studying. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7064
+    position: 1
+    japanese: 私ときたら、料理はまったくだめなのよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81"><span>私</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%8d%e3%81%9f%e3%82%89"><strong>ときたら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%96%99%e7%90%86%e3%81%af%e3%81%be%e3%81%a3%e3%81%9f%e3%81%8f%e3%81%a0%e3%82%81%e3%81%aa%e3%81%ae%e3%82%88%e3%80%82"><span>料理はまったくだめなのよ。</span></a>
+    segments:
+      - text: 私
+        grammar_highlight: false
+      - text: ときたら
+        grammar_highlight: true
+      - text: 、料理はまったくだめなのよ。
+        grammar_highlight: false
+    reading: わたしときたら、りょうりはまったくだめなのよ。
+    credits_raw: jmadsen
+    translations:
+      - language: en
+        text: I really can't cook at all.
+        html: |-
+          <span>I really can't cook at all. </span>
+        segments:
+          - text: 'I really can''t cook at all. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: This is like [toittara], but only used in a negative, often self-deprecating sense.
+    html: This is like [toittara], but only used in a negative, often self-deprecating sense.
+    credits_raw: jmadsen
+    content_sha256: 916c53b4915687db6ac18335541ad19d379df85558246ab949054a240bdafb50
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Since this is always negative, one should only use it when talking their in-group members.
+    html: Since this is always negative, one should only use it when talking their in-group members.
+    credits_raw: claytonian
+    content_sha256: 87c81f351143b260d26a550f0c495c6cc90136fcbac0cb50c6ffacac844b9c29
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1610
+    label: といったら
+    source_url: https://takoboto.jp/bunpo/1610
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:47:13+00:00'
+response_sha256: 862efdd496ee089f3aac11e829e4febea6833bb0368cac154f4e064bd50a6a21
+warnings: []

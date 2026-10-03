@@ -1,0 +1,498 @@
+schema_version: 2
+id: 1400
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1400/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: て形+しまう (て仕舞う・て終う・て了う)
+romanized_label: teshimau
+alternate_forms:
+  - てしまう
+jlpt_level: 3
+credits_raw: sanskritip
+meaning: wind up ____ing, end up ___ing, finish ____ing
+meaning_example: I wound up laughing.
+meaning_notes:
+  - language: ja
+    text: その動作・作用が完了して、もとへ戻らない意を表す。特に、取り返しがつかない意を表す。
+    html: その動作・作用が完了して、もとへ戻らない意を表す。特に、取り返しがつかない意を表す。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1400
+    body_text: |-
+      wind up ____ing, end up ___ing, finish ____ing 
+       I wound up laughing. 
+       その動作・作用が完了して、もとへ戻らない意を表す。特に、取り返しがつかない意を表す。
+    body_html: |-
+      <span>wind up ____ing, end up ___ing, finish ____ing</span> <br/> <span>I wound up laughing.</span> <br/> <span>その動作・作用が完了して、もとへ戻らない意を表す。特に、取り返しがつかない意を表す。</span>
+    credits_raw: sanskritip
+formations: []
+examples:
+  - source_id: 6786
+    position: 0
+    japanese: 前から欲しかった本がやっと手に入ったものだから、早速徹夜して終わりまで読んでしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%89%8d%e3%81%8b%e3%82%89"><span>前から</span></a><a href="https://takoboto.jp/?q=%e6%ac%b2%e3%81%97%e3%81%8b%e3%81%a3%e3%81%9f"><span>欲しかった</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%81%8c%e3%82%84%e3%81%a3%e3%81%a8"><span>本がやっと</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e3%81%ab"><span>手に</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%81%a3%e3%81%9f%e3%82%82%e3%81%ae%e3%81%a0%e3%81%8b%e3%82%89%e3%80%81"><span>入ったものだから、</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e9%80%9f%e5%be%b9%e5%a4%9c%e3%81%97%e3%81%a6"><span>早速徹夜して</span></a><a href="https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%82%8a%e3%81%be%e3%81%a7"><span>終わりまで</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%93%e3%81%a7"><span>読んで</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f"><strong>しまった</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 前から欲しかった本がやっと手に入ったものだから、早速徹夜して終わりまで読んで
+        grammar_highlight: false
+      - text: しまった
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: まえからほしかったほんがやっとてにはいったものだから、さっそくてつやしておわりまでよんでしまった。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: |-
+          Because I finally came into possession of a book I was looking after for a long time, at once in a sleepless night I finished reading it until the end.
+        html: |-
+          <span>Because I finally came into possession of a book I was looking after for a long time, at once in a sleepless night </span><strong>I finished </strong><span>reading </span><span>it until the end. </span>
+        segments:
+          - text: 'Because I finally came into possession of a book I was looking after for a long time, at once in a sleepless night '
+            grammar_highlight: false
+          - text: 'I finished '
+            grammar_highlight: true
+          - text: 'reading it until the end. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4754
+    position: 1
+    japanese: その映画を見て泣いてしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e6%98%a0%e7%94%bb%e3%82%92"><span>映画を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%a6"><span>見て</span></a><a href="https://takoboto.jp/?q=%e6%b3%a3%e3%81%84%e3%81%a6"><span>泣いて</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f"><strong>しまった</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: その映画を見て泣いて
+        grammar_highlight: false
+      - text: しまった
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: そのえいがをみてないてしまった。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Watching that movie, I ended up crying.
+        html: |-
+          <span>Watching that movie, I </span><strong>ended up </strong><span>crying. </span>
+        segments:
+          - text: 'Watching that movie, I '
+            grammar_highlight: false
+          - text: 'ended up '
+            grammar_highlight: true
+          - text: 'crying. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5275
+    position: 2
+    japanese: 宿題はもうやってしまいました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ae%bf%e9%a1%8c%e3%81%af%e3%82%82%e3%81%86%e3%82%84%e3%81%a3%e3%81%a6"><span>宿題はもうやって</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%84%e3%81%be%e3%81%97%e3%81%9f"><strong>しまいました</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 宿題はもうやって
+        grammar_highlight: false
+      - text: しまいました
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: しゅくだいはもうやってしまいました。
+    credits_raw: eastmael
+    translations:
+      - language: en
+        text: I've finished my homework.
+        html: |-
+          <span>I've </span><strong>finished </strong><span>my homework. </span>
+        segments:
+          - text: 'I''ve '
+            grammar_highlight: false
+          - text: 'finished '
+            grammar_highlight: true
+          - text: 'my homework. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5277
+    position: 3
+    japanese: いつも本を読んでいるうちに眠ってしまう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%a4%e3%82%82%e6%9c%ac%e3%82%92%e8%aa%ad%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b%e3%81%86%e3%81%a1%e3%81%ab%e7%9c%a0%e3%81%a3%e3%81%a6"><span>いつも本を読んでいるうちに眠って</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%86"><strong>しまう</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: いつも本を読んでいるうちに眠って
+        grammar_highlight: false
+      - text: しまう
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: いつもほんをよんでいるうちにねむってしまう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I always fall asleep while reading a book.
+        html: |-
+          <span>I always fall asleep while reading a book. </span>
+        segments:
+          - text: 'I always fall asleep while reading a book. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5278
+    position: 4
+    japanese: 彼は稼ぐ金をすべて本に使ってしまう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e7%a8%bc%e3%81%90"><span>稼ぐ</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92%e3%81%99%e3%81%b9%e3%81%a6"><span>金をすべて</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%81%ab"><span>本に</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%a3%e3%81%a6"><span>使って</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%86"><strong>しまう</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼は稼ぐ金をすべて本に使って
+        grammar_highlight: false
+      - text: しまう
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かれはかせぐきんをすべてほんにつかってしまう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: What money he earns he spends on books.
+        html: |-
+          <span>What money he earns he </span><strong>spends on books. </strong>
+        segments:
+          - text: 'What money he earns he '
+            grammar_highlight: false
+          - text: 'spends on books. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5279
+    position: 5
+    japanese: そういった話をしていると議論になってしまう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86%e3%81%84%e3%81%a3%e3%81%9f"><span>そういった</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%a8"><span>話をしていると</span></a><a href="https://takoboto.jp/?q=%e8%ad%b0%e8%ab%96%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6"><span>議論になって</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%86"><strong>しまう</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: そういった話をしていると議論になって
+        grammar_highlight: false
+      - text: しまう
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: そういったはなしをしているとぎろんになってしまう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: That kind of talk leads to an argument.
+        html: |-
+          <span>That kind of talk </span><strong>leads to </strong><span>an argument. </span>
+        segments:
+          - text: 'That kind of talk '
+            grammar_highlight: false
+          - text: 'leads to '
+            grammar_highlight: true
+          - text: 'an argument. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5280
+    position: 6
+    japanese: それをやってしまうまで、ここを出てはなりません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%82%92"><span>それを</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%a3%e3%81%a6"><span>やって</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%86"><strong>しまう</strong></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%a7%e3%80%81%e3%81%93%e3%81%93%e3%82%92"><span>まで、ここを</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%a6%e3%81%af%e3%81%aa%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>出てはなりません。</span></a>
+    segments:
+      - text: それをやって
+        grammar_highlight: false
+      - text: しまう
+        grammar_highlight: true
+      - text: まで、ここを出てはなりません。
+        grammar_highlight: false
+    reading: それをやってしまうまで、ここをでてはなりません。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Don't leave here until you have done it.
+        html: |-
+          <span>Don't leave here </span><strong>until you have done </strong><span>it. </span>
+        segments:
+          - text: 'Don''t leave here '
+            grammar_highlight: false
+          - text: 'until you have done '
+            grammar_highlight: true
+          - text: 'it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5281
+    position: 7
+    japanese: 「あら、ごめんなさい。どうやら間違え電話をしてしまったようだね。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%81%82%e3%82%89%e3%80%81%e3%81%94%e3%82%81%e3%82%93%e3%81%aa%e3%81%95%e3%81%84%e3%80%82%e3%81%a9%e3%81%86%e3%82%84%e3%82%89"><span>「あら、ごめんなさい。どうやら</span></a><a href="https://takoboto.jp/?q=%e9%96%93%e9%81%95%e3%81%88"><span>間違え</span></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%82%92%e3%81%97%e3%81%a6"><span>電話をして</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f"><strong>しまった</strong></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%a0%e3%81%ad%e3%80%82%e3%80%8d"><span>ようだね。」</span></a>
+    segments:
+      - text: 「あら、ごめんなさい。どうやら間違え電話をして
+        grammar_highlight: false
+      - text: しまった
+        grammar_highlight: true
+      - text: ようだね。」
+        grammar_highlight: false
+    reading: 「あら、ごめんなさい。どうやらまちがえでんわをしてしまったようだね。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"Oh, I''m sorry. I guess I (ended up) have the wrong number."'
+        html: |-
+          <span>"Oh, I'm sorry. I guess I </span><strong>(ended up) </strong><span>have the wrong number." </span>
+        segments:
+          - text: '"Oh, I''m sorry. I guess I '
+            grammar_highlight: false
+          - text: '(ended up) '
+            grammar_highlight: true
+          - text: 'have the wrong number." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5282
+    position: 8
+    japanese: ２日後に食べ物がなくなってしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%92%e6%97%a5%e5%be%8c%e3%81%ab"><span>２日後に</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9"><span>食べ</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%81%8c"><span>物が</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6"><span>なくなって</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f"><strong>しまった</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ２日後に食べ物がなくなって
+        grammar_highlight: false
+      - text: しまった
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ２にちごにたべものがなくなってしまった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: After two days our food gave out.
+        html: |-
+          <span>After two days our food </span><strong>gave out. </strong>
+        segments:
+          - text: 'After two days our food '
+            grammar_highlight: false
+          - text: 'gave out. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5283
+    position: 9
+    japanese: ５分と走らないうちに息切れしてしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%95%e5%88%86%e3%81%a8"><span>５分と</span></a><a href="https://takoboto.jp/?q=%e8%b5%b0%e3%82%89%e3%81%aa%e3%81%84%e3%81%86%e3%81%a1%e3%81%ab"><span>走らないうちに</span></a><a href="https://takoboto.jp/?q=%e6%81%af%e5%88%87%e3%82%8c%e3%81%97%e3%81%a6"><span>息切れして</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f"><strong>しまった</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ５分と走らないうちに息切れして
+        grammar_highlight: false
+      - text: しまった
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ５ふんとはしらないうちにいきぎれしてしまった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I had not run five minutes when I got out of breath.
+        html: |-
+          <span>I had not run five minutes </span><strong>when I got out of breath. </strong>
+        segments:
+          - text: 'I had not run five minutes '
+            grammar_highlight: false
+          - text: 'when I got out of breath. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6999
+    position: 10
+    japanese: 遅れてしまいました、すみません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%81%85%e3%82%8c%e3%81%a6%e3%81%97%e3%81%be%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%81%e3%81%99%e3%81%bf%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>遅れてしまいました、すみません。</span></a>
+    segments:
+      - text: 遅れてしまいました、すみません。
+        grammar_highlight: false
+    reading: おくれてしまいました、すみません。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: Sorry I'm late.
+        html: |-
+          <span>Sorry I'm late. </span>
+        segments:
+          - text: 'Sorry I''m late. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7000
+    position: 11
+    japanese: 遅れちゃった、すみません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%81%85%e3%82%8c%e3%81%a1%e3%82%83%e3%81%a3%e3%81%9f%e3%80%81%e3%81%99%e3%81%bf%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>遅れちゃった、すみません。</span></a>
+    segments:
+      - text: 遅れちゃった、すみません。
+        grammar_highlight: false
+    reading: おくれちゃった、すみません。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: Sorry I'm late.
+        html: |-
+          <span>Sorry I'm late. </span>
+        segments:
+          - text: 'Sorry I''m late. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8608
+    position: 12
+    japanese: 春名は出来ないとドンドン振り付け変えちゃうからわけ分かんなくなちゃう.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%98%a5%e5%90%8d%e3%81%af"><span>春名は</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e6%9d%a5%e3%81%aa%e3%81%84%e3%81%a8%e3%83%89%e3%83%b3%e3%83%89%e3%83%b3"><span>出来ないとドンドン</span></a><a href="https://takoboto.jp/?q=%e6%8c%af%e3%82%8a"><span>振り</span></a><a href="https://takoboto.jp/?q=%e4%bb%98%e3%81%91"><span>付け</span></a><a href="https://takoboto.jp/?q=%e5%a4%89%e3%81%88%e3%81%a1%e3%82%83%e3%81%86%e3%81%8b%e3%82%89%e3%82%8f%e3%81%91"><span>変えちゃうからわけ</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%93%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a1%e3%82%83%e3%81%86"><span>分かんなくなちゃう</span></a><a href="https://takoboto.jp/?q=."><strong>.</strong></a>
+    segments:
+      - text: 春名は出来ないとドンドン振り付け変えちゃうからわけ分かんなくなちゃう
+        grammar_highlight: false
+      - text: .
+        grammar_highlight: true
+    reading: はるなはできないとドンドンふりつけかえちゃうからわけわかんなくなちゃう
+    credits_raw: lajka
+    translations:
+      - language: en
+        text: Whenever you can't do the moves, you change the choreography more and more, and it's making me totally lost! .
+        html: |-
+          <span>Whenever you can't do the moves, you change the choreography more and more, and it's making me totally lost! </span><strong>. </strong>
+        segments:
+          - text: 'Whenever you can''t do the moves, you change the choreography more and more, and it''s making me totally lost! '
+            grammar_highlight: false
+          - text: '. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Verb(て) ＋ しまう。
+    html: Verb(て) ＋ しまう。
+    credits_raw: root1984
+    content_sha256: 591e1c2e8b2f9b64fbb95c7be38dac865dddef17d79bf104a1ce362071a85055
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: "It may be worth mentioning that sometimes \nVて　しまいました is sometimes shortened to \nVちゃった."
+    html: |-
+      It may be worth mentioning that sometimes <br/>Vて　しまいました is sometimes shortened to <br/>Vちゃった.
+    credits_raw: agnestan
+    content_sha256: 373a159fb77e8f016c81dc8221e890c86a8edc1bf838c6eda771353fb3e18b36
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Literally, しまう means "to finish." Do not be surprised to find this word used only in this meaning sometimes, with no "undesired"-connotation.
+    html: |-
+      Literally, しまう means "to finish." Do not be surprised to find this word used only in this meaning sometimes, with no "undesired"-connotation.
+    credits_raw: blutorange
+    content_sha256: 5959112f3137017070343f12e629a155729d7bf8206a67ea0cf2bf3bd8af0d47
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: -てしまう - sometimes contracted to ちゃう
+    html: -てしまう - sometimes contracted to ちゃう
+    credits_raw: lajka
+    content_sha256: a267f7bc8d71f607d0be965c267e271175477ded209dbcb1c1edb5d379911f66
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: The title should be "shimau" instead of "teshimau." "te" is a particle and does not form the root of "shimau."
+    html: The title should be "shimau" instead of "teshimau." "te" is a particle and does not form the root of "shimau."
+    credits_raw: bamboo4
+    content_sha256: 2ee419ed612509ba85cfb9a85ee7fb12d53b5a3bda3b770b162e4410903b6b3c
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      Wouldn't this fall under the other category of しまう？「その映画を見て泣いてしまった」にはほかの翻訳あると思いますが。。。 Watching that movie, I cried (not that I wanted to, or expected to cry). Perhaps because this would be a case where there isn't regret?
+    html: |-
+      Wouldn't this fall under the other category of しまう？「その映画を見て泣いてしまった」にはほかの翻訳あると思いますが。。。 Watching that movie, I cried (not that I wanted to, or expected to cry). Perhaps because this would be a case where there isn't regret?
+    credits_raw: ninja_k
+    content_sha256: e566cef585a39701e0542359d452e017bd8fbc3ecfd5456b91f290631616502b
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      I think 〜てしまう can imply two meanings:
+      1) completed
+      2) to my regret
+      I'm really not sure how one can distinguish which one a person is trying to imply.. I guess it's based on the context of what one is saying?
+    html: |-
+      I think 〜てしまう can imply two meanings:<br/>1) completed<br/>2) to my regret<br/>I'm really not sure how one can distinguish which one a person is trying to imply.. I guess it's based on the context of what one is saying?
+    credits_raw: eastmael
+    content_sha256: 51828a2dd9f1184f9edb2fefb929665bb0735ca6f4f8374902bb699fcbb0f9cc
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      I agree with eastmael. Here is some explanation from text :
+      〜てしまう
+      １．全部終わる
+      E.g. : 作文をかいてしまったら、公園に行きましょう
+
+      ２．失敗する・残念だと思う
+      E.g.: 1.大切な結婚指輪を無くしてしまいました。
+      　　　2.大好きな猫が既に死んでしまったんだ。
+
+      I think if something bad happened unwillingly, 〜しまう goes to the 2nd meaning.Otherwise, if it is something done without any special adverse effects or just a plain task or action, it goes to the 1st meaning.
+    html: |-
+      I agree with eastmael. Here is some explanation from text :<br/>〜てしまう<br/>１．全部終わる<br/>E.g. : 作文をかいてしまったら、公園に行きましょう<br/><br/>２．失敗する・残念だと思う<br/>E.g.: 1.大切な結婚指輪を無くしてしまいました。<br/>　　　2.大好きな猫が既に死んでしまったんだ。<br/><br/>I think if something bad happened unwillingly, 〜しまう goes to the 2nd meaning.Otherwise, if it is something done without any special adverse effects or just a plain task or action, it goes to the 1st meaning.
+    credits_raw: 誠
+    content_sha256: 9ca3324b6d84cc3539fa34fde5651a25f527aea9472954dedb05a6342139bc31
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      I don`t know about everyone else, but I have never heard しまう used to mean "I finished Ving"
+      It always seems to have a negative meaning attached to it.
+    html: |-
+      I don`t know about everyone else, but I have never heard しまう used to mean "I finished Ving"<br/>It always seems to have a negative meaning attached to it.
+    credits_raw: tigert
+    content_sha256: fe5943caf793016cb48f4ba00e609e8aa2bcedf284b69208badb1f002db2bc5d
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: 'Tigertさん, I added example #6786 caught from JPLT2 in this level 3 entry exactly for the note you wrote.'
+    html: 'Tigertさん, I added example #6786 caught from JPLT2 in this level 3 entry exactly for the note you wrote.'
+    credits_raw: 赤毛
+    content_sha256: c4ea77bcadea44c04b8624b54152901d653ddc1937ebdcfaab31805b3b0359cd
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      I'd like to offer a more natural translation of the sentence beginning with 前から欲しかった本。。。
+
+      I got a book I had craved for a long time, so I immediately began reading, and read all night long until I finally finished it.
+    html: |-
+      I'd like to offer a more natural translation of the sentence beginning with 前から欲しかった本。。。<br/><br/>I got a book I had craved for a long time, so I immediately began reading, and read all night long until I finally finished it.
+    credits_raw: kaligal
+    content_sha256: 57423423eb325b73939176ab70125996bf4fe8966490f55eedaff3815d209401
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 859
+    label: 切る
+    source_url: https://takoboto.jp/bunpo/859
+  - target_id: 718
+    label: しまう (仕舞う・終う・了う)
+    source_url: https://takoboto.jp/bunpo/718
+  - target_id: 1512
+    label: 始末だ
+    source_url: https://takoboto.jp/bunpo/1512
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:36:01+00:00'
+response_sha256: 0e0f6c358178f0f75dae5e33727d9613e50364991ad2a23b0c25582d9549213c
+warnings: []

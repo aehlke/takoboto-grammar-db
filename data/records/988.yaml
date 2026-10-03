@@ -1,0 +1,555 @@
+schema_version: 2
+id: 988
+source: takoboto
+source_url: https://takoboto.jp/bunpo/988/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: こんな
+romanized_label: konna
+alternate_forms: []
+jlpt_level: 3
+credits_raw: drgon76
+meaning: such; this; like this; such.....as this; of this kind
+meaning_example: in this way
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_988
+    body_text: |-
+      such; this; like this; such.....as this; of this kind 
+       in this way
+    body_html: |-
+      <span>such; this; like this; such.....as this; of this kind</span> <br/> <span>in this way</span>
+    credits_raw: drgon76
+formations: []
+examples:
+  - source_id: 7770
+    position: 0
+    japanese: こんなに心配しないでください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e5%bf%83%e9%85%8d%e3%81%97%e3%81%aa%e3%81%84%e3%81%a7%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>心配しないでください。</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: に心配しないでください。
+        grammar_highlight: false
+    reading: こんなにしんぱいしないでください。
+    credits_raw: kitakaze
+    translations:
+      - language: en
+        text: Please don't worry like this(so hard).
+        html: |-
+          <span>Please don't worry like this(so hard). </span>
+        segments:
+          - text: 'Please don''t worry like this(so hard). '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1254
+    position: 1
+    japanese: こんな面白いことはない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e9%9d%a2%e7%99%bd%e3%81%84%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84"><span>面白いことはない</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: 面白いことはない
+        grammar_highlight: false
+    reading: こんなおもしろいことはない
+    credits_raw: drgon76
+    translations:
+      - language: en
+        text: Nothing is more interesting (than this)
+        html: |-
+          <span>Nothing is more interesting </span><strong>(than this) </strong>
+        segments:
+          - text: 'Nothing is more interesting '
+            grammar_highlight: false
+          - text: '(than this) '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1255
+    position: 2
+    japanese: こんなに夜遅く
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e5%a4%9c%e9%81%85%e3%81%8f"><span>夜遅く</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: に夜遅く
+        grammar_highlight: false
+    reading: こんなによるおそく
+    credits_raw: drgon76
+    translations:
+      - language: en
+        text: so late at night (as this).
+        html: |-
+          <span>so late at night </span><strong>(as this). </strong>
+        segments:
+          - text: 'so late at night '
+            grammar_highlight: false
+          - text: '(as this). '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 2911
+    position: 3
+    japanese: こんな風に持って下さい
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e3%81%ab"><span>風に</span></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6"><span>持って</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84"><span>下さい</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: 風に持って下さい
+        grammar_highlight: false
+    reading: こんなかぜにもってください
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Please hold it in this way
+        html: |-
+          <span>Please hold it </span><strong>in this way </strong>
+        segments:
+          - text: 'Please hold it '
+            grammar_highlight: false
+          - text: 'in this way '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 2913
+    position: 4
+    japanese: こんなことになろうとは、正に「お釈迦様でも気がつくめい」だね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%82%8d%e3%81%86%e3%81%a8%e3%81%af%e3%80%81"><span>ことになろうとは、</span></a><a href="https://takoboto.jp/?q=%e6%ad%a3%e3%81%ab%e3%80%8c%e3%81%8a"><span>正に「お</span></a><a href="https://takoboto.jp/?q=%e9%87%88%e8%bf%a6%e6%a7%98%e3%81%a7%e3%82%82"><span>釈迦様でも</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%8c%e3%81%a4%e3%81%8f%e3%82%81%e3%81%84%e3%80%8d%e3%81%a0%e3%81%ad%e3%80%82"><span>気がつくめい」だね。</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: ことになろうとは、正に「お釈迦様でも気がつくめい」だね。
+        grammar_highlight: false
+    reading: こんなことになろうとは、まさに「おしゃかさまでもきがつくめい」だね。
+    credits_raw: bamboo4, dc
+    translations:
+      - language: en
+        text: It's precisely "Even the Buddha could not have guessed it"in the sense that things turned out this way.
+        html: |-
+          <span>It's precisely "Even the Buddha could not have guessed it"in the sense that things turned out </span><strong>this way. </strong>
+        segments:
+          - text: 'It''s precisely "Even the Buddha could not have guessed it"in the sense that things turned out '
+            grammar_highlight: false
+          - text: 'this way. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4028
+    position: 5
+    japanese: 「マイク、飛行機って普通はこんなふうに揺れるものなのかい」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%83%9e%e3%82%a4%e3%82%af%e3%80%81"><span>「マイク、</span></a><a href="https://takoboto.jp/?q=%e9%a3%9b%e8%a1%8c%e6%a9%9f%e3%81%a3%e3%81%a6"><span>飛行機って</span></a><a href="https://takoboto.jp/?q=%e6%99%ae%e9%80%9a%e3%81%af"><span>普通は</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%86%e3%81%ab"><span>ふうに</span></a><a href="https://takoboto.jp/?q=%e6%8f%ba%e3%82%8c%e3%82%8b%e3%82%82%e3%81%ae%e3%81%aa%e3%81%ae%e3%81%8b%e3%81%84%e3%80%8d"><span>揺れるものなのかい」</span></a>
+    segments:
+      - text: 「マイク、飛行機って普通は
+        grammar_highlight: false
+      - text: こんな
+        grammar_highlight: true
+      - text: ふうに揺れるものなのかい」
+        grammar_highlight: false
+    reading: 「マイク、ひこうきってふつうはこんなふうにゆれるものなのかい」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"Mike, do planes usually rock like this?"'
+        html: |-
+          <span>"Mike, do planes usually rock like </span><strong>this?" </strong>
+        segments:
+          - text: '"Mike, do planes usually rock like '
+            grammar_highlight: false
+          - text: 'this?" '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4029
+    position: 6
+    japanese: あなたがこんなに早くまた起きて動き回れるようになって本当に良かった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c"><span>あなたが</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e3%81%8f%e3%81%be%e3%81%9f"><span>早くまた</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%8d%e3%81%a6"><span>起きて</span></a><a href="https://takoboto.jp/?q=%e5%8b%95%e3%81%8d"><span>動き</span></a><a href="https://takoboto.jp/?q=%e5%9b%9e%e3%82%8c%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6"><span>回れるようになって</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ab"><span>本当に</span></a><a href="https://takoboto.jp/?q=%e8%89%af%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>良かった。</span></a>
+    segments:
+      - text: あなたが
+        grammar_highlight: false
+      - text: こんな
+        grammar_highlight: true
+      - text: に早くまた起きて動き回れるようになって本当に良かった。
+        grammar_highlight: false
+    reading: あなたがこんなにはやくまたおきてうごきまわれるようになってほんとうによかった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How nice to see you up and about again so soon!
+        html: |-
+          <span>How nice to see you up and about again </span><strong>so soon! </strong>
+        segments:
+          - text: 'How nice to see you up and about again '
+            grammar_highlight: false
+          - text: 'so soon! '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4030
+    position: 7
+    japanese: あなたは昔私をこんなふうに扱わなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e6%98%94"><span>昔</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%82%92"><span>私を</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%86%e3%81%ab"><span>ふうに</span></a><a href="https://takoboto.jp/?q=%e6%89%b1%e3%82%8f%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>扱わなかった。</span></a>
+    segments:
+      - text: あなたは昔私を
+        grammar_highlight: false
+      - text: こんな
+        grammar_highlight: true
+      - text: ふうに扱わなかった。
+        grammar_highlight: false
+    reading: あなたはむかしわたしをこんなふうにあつかわなかった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You never used to treat me like this.
+        html: |-
+          <span>You never used to treat me like </span><strong>this. </strong>
+        segments:
+          - text: 'You never used to treat me like '
+            grammar_highlight: false
+          - text: 'this. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4031
+    position: 8
+    japanese: あなたをこんなに長い間待たせてすみません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92"><span>あなたを</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e9%95%b7%e3%81%84"><span>長い</span></a><a href="https://takoboto.jp/?q=%e9%96%93%e5%be%85%e3%81%9f%e3%81%9b%e3%81%a6%e3%81%99%e3%81%bf%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>間待たせてすみません。</span></a>
+    segments:
+      - text: あなたを
+        grammar_highlight: false
+      - text: こんな
+        grammar_highlight: true
+      - text: に長い間待たせてすみません。
+        grammar_highlight: false
+    reading: あなたをこんなにながいままたせてすみません。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I am sorry to have kept you waiting so long.
+        html: |-
+          <span>I am sorry to have kept you waiting </span><strong>so </strong><span>long. </span>
+        segments:
+          - text: 'I am sorry to have kept you waiting '
+            grammar_highlight: false
+          - text: 'so '
+            grammar_highlight: true
+          - text: 'long. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4032
+    position: 9
+    japanese: いつもこんなに混雑しているのですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%a4%e3%82%82"><span>いつも</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e6%b7%b7%e9%9b%91%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>混雑しているのですか。</span></a>
+    segments:
+      - text: いつも
+        grammar_highlight: false
+      - text: こんな
+        grammar_highlight: true
+      - text: に混雑しているのですか。
+        grammar_highlight: false
+    reading: いつもこんなにこんざつしているのですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Is it always so crowded here?
+        html: |-
+          <span>Is it always so crowded </span><strong>here? </strong>
+        segments:
+          - text: 'Is it always so crowded '
+            grammar_highlight: false
+          - text: 'here? '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4033
+    position: 10
+    japanese: いやはや、こんなにはっきりものを言う秘書は初めてだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%82%84%e3%81%af%e3%82%84%e3%80%81"><span>いやはや、</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%af%e3%81%a3%e3%81%8d%e3%82%8a%e3%82%82%e3%81%ae%e3%82%92"><span>にはっきりものを</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86"><span>言う</span></a><a href="https://takoboto.jp/?q=%e7%a7%98%e6%9b%b8%e3%81%af"><span>秘書は</span></a><a href="https://takoboto.jp/?q=%e5%88%9d%e3%82%81%e3%81%a6%e3%81%a0%e3%80%82"><span>初めてだ。</span></a>
+    segments:
+      - text: いやはや、
+        grammar_highlight: false
+      - text: こんな
+        grammar_highlight: true
+      - text: にはっきりものを言う秘書は初めてだ。
+        grammar_highlight: false
+    reading: いやはや、こんなにはっきりものをいうひしょははじめてだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Do you know, girl, that you're the first secretary I've ever had who stood up to me?
+        html: |-
+          <span>Do you know, girl, that you're the first secretary I've ever had who stood up to me? </span>
+        segments:
+          - text: 'Do you know, girl, that you''re the first secretary I''ve ever had who stood up to me? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4034
+    position: 11
+    japanese: かつて一度もこんな大群衆を見たことがない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%a4%e3%81%a6"><span>かつて</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%ba%a6%e3%82%82"><span>一度も</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e7%be%a4%e8%a1%86%e3%82%92"><span>大群衆を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8c%e3%81%aa%e3%81%84%e3%80%82"><span>見たことがない。</span></a>
+    segments:
+      - text: かつて一度も
+        grammar_highlight: false
+      - text: こんな
+        grammar_highlight: true
+      - text: 大群衆を見たことがない。
+        grammar_highlight: false
+    reading: かつていちどもこんなだいぐんしゅうをみたことがない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Never have I seen such a crowd of people.
+        html: |-
+          <span>Never have I seen </span><strong>such </strong><span>a crowd of people. </span>
+        segments:
+          - text: 'Never have I seen '
+            grammar_highlight: false
+          - text: 'such '
+            grammar_highlight: true
+          - text: 'a crowd of people. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4035
+    position: 12
+    japanese: きみがこんなに料理が上手だとは知らなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8d%e3%81%bf%e3%81%8c"><span>きみが</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e6%96%99%e7%90%86%e3%81%8c"><span>料理が</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%a0%e3%81%a8%e3%81%af"><span>上手だとは</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>知らなかった。</span></a>
+    segments:
+      - text: きみが
+        grammar_highlight: false
+      - text: こんな
+        grammar_highlight: true
+      - text: に料理が上手だとは知らなかった。
+        grammar_highlight: false
+    reading: きみがこんなにりょうりがじょうずだとはしらなかった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I didn't know you were such a good cook.
+        html: |-
+          <span>I didn't know you were </span><strong>such </strong><span>a good cook. </span>
+        segments:
+          - text: 'I didn''t know you were '
+            grammar_highlight: false
+          - text: 'such '
+            grammar_highlight: true
+          - text: 'a good cook. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4036
+    position: 13
+    japanese: こんなあしらいをされたら誰だって承知しないでしょう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%97%e3%82%89%e3%81%84%e3%82%92%e3%81%95%e3%82%8c%e3%81%9f%e3%82%89"><span>あしらいをされたら</span></a><a href="https://takoboto.jp/?q=%e8%aa%b0%e3%81%a0%e3%81%a3%e3%81%a6"><span>誰だって</span></a><a href="https://takoboto.jp/?q=%e6%89%bf%e7%9f%a5%e3%81%97%e3%81%aa%e3%81%84%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%80%82"><span>承知しないでしょう。</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: あしらいをされたら誰だって承知しないでしょう。
+        grammar_highlight: false
+    reading: こんなあしらいをされたらだれだってしょうちしないでしょう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Such treatment would make anybody rebel.
+        html: |-
+          <strong>Such </strong><span>treatment would make anybody rebel. </span>
+        segments:
+          - text: 'Such '
+            grammar_highlight: true
+          - text: 'treatment would make anybody rebel. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4037
+    position: 14
+    japanese: こんないい天気の日に、あなたは家の中に居なければならないなんてかわいそうだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%84"><span>いい</span></a><a href="https://takoboto.jp/?q=%e5%a4%a9%e6%b0%97%e3%81%ae"><span>天気の</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e3%81%ab%e3%80%81%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>日に、あなたは</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e3%81%ae"><span>家の</span></a><a href="https://takoboto.jp/?q=%e4%b8%ad%e3%81%ab"><span>中に</span></a><a href="https://takoboto.jp/?q=%e5%b1%85%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%81%aa%e3%82%93%e3%81%a6%e3%81%8b%e3%82%8f%e3%81%84%e3%81%9d%e3%81%86%e3%81%a0%e3%80%82"><span>居なければならないなんてかわいそうだ。</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: いい天気の日に、あなたは家の中に居なければならないなんてかわいそうだ。
+        grammar_highlight: false
+    reading: こんないいてんきのひに、あなたはいえのなかにいなければならないなんてかわいそうだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It's a pity for you to have to stay indoors in this weather.
+        html: |-
+          <span>It's a pity for you to have to stay indoors in </span><strong>this </strong><span>weather. </span>
+        segments:
+          - text: 'It''s a pity for you to have to stay indoors in '
+            grammar_highlight: false
+          - text: 'this '
+            grammar_highlight: true
+          - text: 'weather. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4038
+    position: 15
+    japanese: こんなおいしいスープを味わったことがありますか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%84%e3%81%97%e3%81%84%e3%82%b9%e3%83%bc%e3%83%97%e3%82%92"><span>おいしいスープを</span></a><a href="https://takoboto.jp/?q=%e5%91%b3%e3%82%8f%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%81%8b%e3%80%82"><span>味わったことがありますか。</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: おいしいスープを味わったことがありますか。
+        grammar_highlight: false
+    reading: こんなおいしいスープをあじわったことがありますか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Have you ever tasted such a good soup?
+        html: |-
+          <span>Have you ever tasted </span><strong>such </strong><span>a good soup? </span>
+        segments:
+          - text: 'Have you ever tasted '
+            grammar_highlight: false
+          - text: 'such '
+            grammar_highlight: true
+          - text: 'a good soup? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4039
+    position: 16
+    japanese: こんなきつい仕事はこりごりだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%81%a4%e3%81%84"><span>きつい</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%af%e3%81%93%e3%82%8a%e3%81%94%e3%82%8a%e3%81%a0%e3%80%82"><span>仕事はこりごりだ。</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: きつい仕事はこりごりだ。
+        grammar_highlight: false
+    reading: こんなきついしごとはこりごりだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I can't stand an awful sweat like this.
+        html: |-
+          <span>I can't stand an awful sweat like </span><strong>this. </strong>
+        segments:
+          - text: 'I can''t stand an awful sweat like '
+            grammar_highlight: false
+          - text: 'this. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4040
+    position: 17
+    japanese: こんなきれいな夕焼けは見たことが無い｡
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%82%8c%e3%81%84%e3%81%aa"><span>きれいな</span></a><a href="https://takoboto.jp/?q=%e5%a4%95%e7%84%bc%e3%81%91%e3%81%af"><span>夕焼けは</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8c"><span>見たことが</span></a><a href="https://takoboto.jp/?q=%e7%84%a1%e3%81%84"><span>無い</span></a><a href="https://takoboto.jp/?q=%ef%bd%a1"><span>｡</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: きれいな夕焼けは見たことが無い｡
+        grammar_highlight: false
+    reading: こんなきれいなゆうやけはみたことがない
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Never did I see such a beautiful sunset.
+        html: |-
+          <span>Never did I see </span><strong>such </strong><span>a beautiful sunset. </span>
+        segments:
+          - text: 'Never did I see '
+            grammar_highlight: false
+          - text: 'such '
+            grammar_highlight: true
+          - text: 'a beautiful sunset. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4041
+    position: 18
+    japanese: こんなくだらないことに多額の金を支払うとはけしからん。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><strong>こんな</strong></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%82%89%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%ab"><span>くだらないことに</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e9%a1%8d%e3%81%ae"><span>多額の</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%e6%94%af%e6%89%95%e3%81%86%e3%81%a8%e3%81%af%e3%81%91%e3%81%97%e3%81%8b%e3%82%89%e3%82%93%e3%80%82"><span>支払うとはけしからん。</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: true
+      - text: くだらないことに多額の金を支払うとはけしからん。
+        grammar_highlight: false
+    reading: こんなくだらないことにたがくのきんをしはらうとはけしからん。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It is criminal to pay much money for much trifles.
+        html: |-
+          <span>It is criminal to pay much money for much trifles. </span>
+        segments:
+          - text: 'It is criminal to pay much money for much trifles. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: "not to be confused with \n　そんな\n＝not so\n　そんなに高くない\n＝not so expensive\n\n(almost an antonym)"
+    html: |-
+      not to be confused with <br/>　そんな<br/>＝not so<br/>　そんなに高くない<br/>＝not so expensive<br/><br/>(almost an antonym)
+    credits_raw: dc
+    content_sha256: b02d3713ad67159768518bbc253e7b60b4c5a12f8374710f7dbe8e9cd78d9441
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: The Japanese in the third example should be こんな 風にもって（持って）下さい
+    html: The Japanese in the third example should be こんな 風にもって（持って）下さい
+    credits_raw: bamboo4
+    content_sha256: 6684e049a0f2528ac488016558303f664a577a7d4db82011ffdc11e4cfef1f93
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: '#2911 corrected. The quote in #2913 is a dialogue from a famous Kabuki play, commonly known as 源治店.'
+    html: '#2911 corrected. The quote in #2913 is a dialogue from a famous Kabuki play, commonly known as 源治店.'
+    credits_raw: bamboo4
+    content_sha256: 7afbdfd9425a5286f0f38fc5c15c7b7bfefb608f216f4593a70b4931aaae6c6d
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: no way this is JLPT 1
+    html: no way this is JLPT 1
+    credits_raw: yookoso
+    content_sha256: 3d1e7acf6a4bd00f4230cf8257f6fdf6f22e68de3f98dbeed5580353e4242079
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: changed.
+    html: changed.
+    credits_raw: dc
+    content_sha256: 442febdf382b08f87118d3f63c9cda512a724014af3626a249e15c4deaaa7d89
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 830
+    label: という風に
+    source_url: https://takoboto.jp/bunpo/830
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:35:53+00:00'
+response_sha256: 40e09ba42ec91f14952c4250eb1d50cde6fafa6043ac86e951a1b649cb9523de
+warnings: []

@@ -1,0 +1,83 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1631
+label: tossani
+title_raw: とっさに ([とっさに] )(tossani)
+title: とっさに
+reading: とっさに
+romanized_label: tossani
+category: grammar
+jlpt_level_original: '0'
+meaning: To reflexively react; an unconscious movement. 無意識に、反射的に行動する。
+meaning_example: とっさの機転で、災難を逃れることができた。
+credits_raw: Groove
+source_url: http://jgram.org/pages/viewOne.php?tagE=tossani
+archive_url: https://web.archive.org/web/20150224225711id_/http://jgram.org/pages/viewOne.php?tagE=tossani
+archive_timestamp: '20150224225711'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: GGQGF22LG2JIQQ6MZTPHS6WJRGZZPAWY
+response_sha256: bc9f2c02ab6f1832c8176f5a8fe2b345b2f3b707a684f9cc20dd60b989cd43a8
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      An interesting piece of grammar that showed up in my textbook that was hard to find on the web. If this grammar has been erroneously placed, please feel free to point it out to me so I may learn from it and take it down. Thanks.
+    html: |-
+      An interesting piece of grammar that showed up in my textbook that was hard to find on the web. If this grammar has been erroneously placed, please feel free to point it out to me so I may learn from it and take it down. Thanks.
+    credits_raw: Groove
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 6546
+    position: 0
+    japanese: とっさの機転で、災難を逃れることができた。
+    body_text: "とっさの機転で、災難を逃れることができた。 \n\n\t\tDue to my \n\t\t(instinctive) \n\t\tquick wits, I was able to escape the calamity."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJとっさの機転で、災難を逃れることができた。\">\n<strong>とっさの</strong>機転で、災難を逃れることができた。<strong></strong></a> <br/>\n\t\tDue to my \n\t\t<strong>(instinctive) </strong>\n\t\tquick wits, I was able to escape the calamity."
+    credits_raw: Groove
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8092
+    position: 1
+    japanese: 彼の反応はとっさに出たものだ。
+    body_text: "彼の反応はとっさに出たものだ。\r \n\n\t\tHis response is automatic."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼の反応はとっさに出たものだ。\">\n\t\t\t\t彼の反応は<strong>とっさに</strong>出たものだ。\r<strong></strong></a> <br/>\n\t\tHis response is automatic. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      とっさに ([とっさに] )(tossani)
+          Meaning: To reflexively react; an unconscious movement. 無意識に、反射的に行動する。
+          Example: とっさの機転で、災難を逃れることができた。
+          JLPT Level: 0
+          Category: grammar
+          Author: Groove
+    html: |-
+      <span>とっさに ([とっさに] )(tossani)</span><br/>    <span><b>Meaning</b>: To reflexively react; an unconscious movement. 無意識に、反射的に行動する。</span><br/>    <b>Example</b>: <i>とっさの機転で、災難を逃れることができた。</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Groove</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225711'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 5795094
+  length: 5299
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: f9e24780ab2ba21c11b6be72d3b783dc3176a04c056d3b1c862535d44c0138ad

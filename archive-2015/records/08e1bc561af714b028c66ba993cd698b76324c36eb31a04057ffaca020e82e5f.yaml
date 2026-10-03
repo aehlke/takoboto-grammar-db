@@ -1,0 +1,144 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1494
+label: dakarakoso
+title_raw: だからこそ [だからこそ] (dakarakoso)
+title: だからこそ
+reading: だからこそ
+romanized_label: dakarakoso
+category: grammar
+jlpt_level_original: '0'
+meaning: (just) because of
+meaning_example: only because he was a scholar, he could understand
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=dakarakoso
+archive_url: https://web.archive.org/web/20150224225837id_/http://jgram.org/pages/viewOne.php?tagE=dakarakoso
+archive_timestamp: '20150224225837'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: 4VUWKGGCD7M2C5LDQ7QI7NYHWDP2I4C5
+response_sha256: b21873cb171e79d20cbb5febd8071c33c58e3a6584c1f75221db71116e540e33
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "\x01 is a connector meaning because. \x01 adds emphasis.\n\n\n\r\n科学者だから、分かりました\n\r\nHe is a scholar, so he understood\n\n\n\r\n科学者だからこそ、分かりました\n\r\n(only because) he is a scholar, he was able to understand"
+    html: "<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> is a connector meaning because. <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> adds emphasis.<br/>\n<br/>\r\n科学者だから、分かりました<br/>\r\nHe is a scholar, so he understood<br/>\n<br/>\r\n科学者だからこそ、分かりました<br/>\r\n(only because) he is a scholar, he was able to understand"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 5147
+    position: 0
+    japanese: だからこそ気になるものだ
+    body_text: "だからこそ気になるものだ\r \n\n\t\tprecisely what is so worrisome"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJだからこそ気になるものだ\">\n<strong>だからこそ</strong>気になるものだ\r<strong></strong></a> <br/>\n\t\tprecisely what is so worrisome \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5148
+    position: 1
+    japanese: だからこそ私は本当に〜したい。
+    body_text: "だからこそ私は本当に〜したい。\r \n\n\t\tand that's exactly why I would really like to..."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJだからこそ私は本当に〜したい。\">\n<strong>だからこそ</strong>私は本当に〜したい。\r<strong></strong></a> <br/>\n\t\tand that's exactly why I would really like to... \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5149
+    position: 2
+    japanese: だからこそ注意しないといけないんだよ。
+    body_text: "だからこそ注意しないといけないんだよ。\r \n\n\t\tAll the more reason to be careful."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJだからこそ注意しないといけないんだよ。\">\n<strong>だからこそ</strong>注意しないといけないんだよ。\r<strong></strong></a> <br/>\n\t\tAll the more reason to be careful. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5461
+    position: 3
+    japanese: あなたが来いと言ったからこそ私は来たんです。
+    body_text: "あなたが来いと言ったからこそ私は来たんです。 \n\n\t\tI came especially because you said to."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあなたが来いと言ったからこそ私は来たんです。\">\n\t\t\t\tあなたが来いと言ったからこそ私は来たんです。<strong></strong><strong></strong></a> <br/>\n\t\tI came especially because you said to. \n\t\t<strong> </strong>"
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: srobertson
+    text: "I think the english explanation for this grammar point should be \"especially because of...\" to avoid confusion with \x01, which has a stronger sense of highlighting an exclusive reason."
+    html: "I think the english explanation for this grammar point should be \"especially because of...\" to avoid confusion with <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>, which has a stronger sense of highlighting an exclusive reason."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: srobertson
+    text: "Note that \x01 is not usually (cannot be?) used to give a negative emphasis. You would not say that you *didn't* do something especially because of a particular reason. \n\n\n\r\n(X) 勉強しなかったからこそ、試験に落ちたんだよ。"
+    html: "Note that <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> is not usually (cannot be?) used to give a negative emphasis. You would not say that you *didn't* do something especially because of a particular reason. <br/>\n<br/>\r\n(X) 勉強しなかったからこそ、試験に落ちたんだよ。<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: srobertson
+    text: "One other thing - I think this entry should be changed to \"karakoso\", since the \"da\" copula is used only connect karakoso with a noun or noun adjective (or to refer back to a previous sentence, as in examples \x01, \x01 and \x01). You can use karakoso after verbs and い adjectives as well."
+    html: "One other thing - I think this entry should be changed to \"karakoso\", since the \"da\" copula is used only connect karakoso with a noun or noun adjective (or to refer back to a previous sentence, as in examples <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dakarakoso#\x01\">\x01</a></b>, <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dakarakoso#\x01\">\x01</a></b> and <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dakarakoso#\x01\">\x01</a></b>). You can use karakoso after verbs and い adjectives as well."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: winterkoninkje
+    text: "I think the important thing is that it's a direct form, whether perfective or imperfective (and whether positive or negative, as I recall) plus から. As opposed to a gerund form which gives the meaning of a sequence of events (AてからB, \" after A, B (happened)\") instead of giving causality.\n\n\n\r\nAs for the こそ part, doesn't that have it's own page yet? Seems like it'd make sense to separate that from the rest of the pattern, or just make a note about \"if using こそ it follows the から\""
+    html: "I think the important thing is that it's a direct form, whether perfective or imperfective (and whether positive or negative, as I recall) plus から. As opposed to a gerund form which gives the meaning of a sequence of events (AてからB, \" after A, B (happened)\") instead of giving causality.<br/>\n<br/>\r\nAs for the こそ part, doesn't that have it's own page yet? Seems like it'd make sense to separate that from the rest of the pattern, or just make a note about \"if using こそ it follows the から\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: arebakoso
+    label: arebakoso
+    annotation_text: arebakoso [blabby]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=arebakoso">arebakoso</a> [<a href="http://jgram.org/pages/contributions.php?author=blabby">blabby</a>]
+    credits_raw: blabby
+  - position: 1
+    target_label: koso
+    label: koso
+    annotation_text: koso [blabby]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=koso">koso</a> [<a href="http://jgram.org/pages/contributions.php?author=blabby">blabby</a>]
+    credits_raw: blabby
+  - position: 2
+    target_label: karakoso-2
+    label: karakoso-2
+    annotation_text: karakoso-2 [srobertson]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=karakoso-2">karakoso-2</a> [<a href="http://jgram.org/pages/contributions.php?author=srobertson">srobertson</a>]
+    credits_raw: srobertson
+sections:
+  - kind: header
+    text: "だからこそ [だからこそ] (dakarakoso)\n    Meaning: (just) because of  \n    Example: only because he was a scholar, he could understand\n    JLPT Level: 0\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>だからこそ [だからこそ] (dakarakoso)</span><br/>    <span><b>Meaning</b>: (just) because of  </span><br/>    <b>Example</b>: <i>only because he was a scholar, he could understand</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225837'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 7251930
+  length: 6066
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 842ba8bb40ed27d399790b7c19f2ea0460589396fb6fe07b70d228a3b99e9e34

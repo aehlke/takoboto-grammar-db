@@ -12,7 +12,7 @@ from urllib.request import Request
 from urllib.robotparser import RobotFileParser
 
 from .parser import BASE, ParseError, parse_entry, parse_index
-from .storage import output_root, safe_target, write_json, cache_response
+from .storage import output_root, safe_target, write_json, write_record, cache_response
 from .http import HttpxOpener, RequestPacer
 
 
@@ -194,7 +194,7 @@ def crawl(fetcher, inventory, limit=None):
         try:
             body, meta = fetcher.get(item["source_url"])
             record = parse_entry(body, gid, meta["retrieved_at"], meta["sha256"])
-            write_json(fetcher.root, f"records/{gid}.json", record)
+            write_record(fetcher.root, f"records/{gid}.yaml", record)
             report["parsed"].append(gid)
             if record["warnings"]:
                 report["warnings"].append({"id": gid, "messages": record["warnings"]})

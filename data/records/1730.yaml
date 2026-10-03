@@ -1,0 +1,204 @@
+schema_version: 2
+id: 1730
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1730/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: といえども
+romanized_label: toiedomo
+alternate_forms: []
+jlpt_level: 1
+credits_raw: LR
+meaning: even, although, though, even though
+meaning_example: Even though I live in Tokyo, there are many sightseeing spots in the city that I don't know.
+meaning_notes:
+  - language: ja
+    text: けれども、〜ても、〜であっても (文語体の逆説の表現。後ろには、前の内容から当然予想されることと反対の内容を表すぶんがくることが多い。「いかに〜といえども」や「たとえ〜といえども」のような形をとると、特別な状況を強調する表現になる。)
+    html: けれども、〜ても、〜であっても (文語体の逆説の表現。後ろには、前の内容から当然予想されることと反対の内容を表すぶんがくることが多い。「いかに〜といえども」や「たとえ〜といえども」のような形をとると、特別な状況を強調する表現になる。)
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1730
+    body_text: |-
+      even, although, though, even though 
+       Even though I live in Tokyo, there are many sightseeing spots in the city that I don't know. 
+       けれども、〜ても、〜であっても (文語体の逆説の表現。後ろには、前の内容から当然予想されることと反対の内容を表すぶんがくることが多い。「いかに〜といえども」や「たとえ〜といえども」のような形をとると、特別な状況を強調する表現になる。)
+    body_html: |-
+      <span>even, although, though, even though</span> <br/> <span>Even though I live in Tokyo, there are many sightseeing spots in the city that I don't know.</span> <br/> <span>けれども、〜ても、〜であっても (文語体の逆説の表現。後ろには、前の内容から当然予想されることと反対の内容を表すぶんがくることが多い。「いかに〜といえども」や「たとえ〜といえども」のような形をとると、特別な状況を強調する表現になる。)</span>
+    credits_raw: LR
+formations: []
+examples:
+  - source_id: 7891
+    position: 0
+    japanese: 近年、医学が目覚ましく進歩したといえども、病人の数は減少傾向にはない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%bf%91%e5%b9%b4%e3%80%81"><span>近年、</span></a><a href="https://takoboto.jp/?q=%e5%8c%bb%e5%ad%a6%e3%81%8c"><span>医学が</span></a><a href="https://takoboto.jp/?q=%e7%9b%ae%e8%a6%9a%e3%81%be%e3%81%97%e3%81%8f"><span>目覚ましく</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e6%ad%a9%e3%81%97%e3%81%9f"><span>進歩した</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%88%e3%81%a9%e3%82%82"><strong>といえども</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%97%85%e4%ba%ba%e3%81%ae"><span>病人の</span></a><a href="https://takoboto.jp/?q=%e6%95%b0%e3%81%af"><span>数は</span></a><a href="https://takoboto.jp/?q=%e6%b8%9b%e5%b0%91%e5%82%be%e5%90%91%e3%81%ab%e3%81%af%e3%81%aa%e3%81%84"><span>減少傾向にはない</span></a>
+    segments:
+      - text: 近年、医学が目覚ましく進歩した
+        grammar_highlight: false
+      - text: といえども
+        grammar_highlight: true
+      - text: 、病人の数は減少傾向にはない
+        grammar_highlight: false
+    reading: きんねん、いがくがめざましくしんぽしたといえども、びょうにんのかずはげんしょうけいこうにはない
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          in recent years, even though you could say medical science has been progressing greatly, the number of sick people has not decreased
+        html: |-
+          <span>in recent years, </span><strong>even though </strong><span>you could say medical science has been progressing greatly, the number of sick people has not decreased </span>
+        segments:
+          - text: 'in recent years, '
+            grammar_highlight: false
+          - text: 'even though '
+            grammar_highlight: true
+          - text: 'you could say medical science has been progressing greatly, the number of sick people has not decreased '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7892
+    position: 1
+    japanese: いかに多忙といえども、健康管理を怠ってはならない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8b%e3%81%ab"><span>いかに</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e5%bf%99"><span>多忙</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%88%e3%81%a9%e3%82%82"><strong>といえども</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%81%a5%e5%ba%b7%e7%ae%a1%e7%90%86%e3%82%92"><span>健康管理を</span></a><a href="https://takoboto.jp/?q=%e6%80%a0%e3%81%a3%e3%81%a6%e3%81%af%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84"><span>怠ってはならない</span></a>
+    segments:
+      - text: いかに多忙
+        grammar_highlight: false
+      - text: といえども
+        grammar_highlight: true
+      - text: 、健康管理を怠ってはならない
+        grammar_highlight: false
+    reading: いかにたぼうといえども、けんこうかんりをおこたってはならない
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Even though you might be so busy, you must not neglect your health
+        html: |-
+          <strong>Even though </strong><span>you might be so busy, you must not neglect your health </span>
+        segments:
+          - text: 'Even though '
+            grammar_highlight: true
+          - text: 'you might be so busy, you must not neglect your health '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7893
+    position: 2
+    japanese: たとえ外国人といえども「郷に入って、郷に従え」です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%a8%e3%81%88"><span>たとえ</span></a><a href="https://takoboto.jp/?q=%e5%a4%96%e5%9b%bd%e4%ba%ba"><span>外国人</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%88%e3%81%a9%e3%82%82"><strong>といえども</strong></a><a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e9%83%b7%e3%81%ab"><span>郷に</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%81%a3%e3%81%a6%e3%80%81"><span>入って、</span></a><a href="https://takoboto.jp/?q=%e9%83%b7%e3%81%ab"><span>郷に</span></a><a href="https://takoboto.jp/?q=%e5%be%93%e3%81%88%e3%80%8d%e3%81%a7%e3%81%99%e3%80%82"><span>従え」です。</span></a>
+    segments:
+      - text: たとえ外国人
+        grammar_highlight: false
+      - text: といえども
+        grammar_highlight: true
+      - text: 「郷に入って、郷に従え」です。
+        grammar_highlight: false
+    reading: たとえがいこくじんといえども「さとにはいって、さとにしたがえ」です。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Even though he is a foreigner, it's a case of when in Rome, do as the Romans do.
+        html: |-
+          <strong>Even though </strong><span>he is a foreigner, it's a case of when in Rome, do as the Romans do. </span>
+        segments:
+          - text: 'Even though '
+            grammar_highlight: true
+          - text: 'he is a foreigner, it''s a case of when in Rome, do as the Romans do. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7894
+    position: 3
+    japanese: 老いたりといえども、まだまだ若いものには負けないつもりだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%80%81%e3%81%84%e3%81%9f%e3%82%8a"><span>老いたり</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%88%e3%81%a9%e3%82%82"><strong>といえども</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%be%e3%81%a0%e3%81%be%e3%81%a0"><span>、まだまだ</span></a><a href="https://takoboto.jp/?q=%e8%8b%a5%e3%81%84%e3%82%82%e3%81%ae%e3%81%ab%e3%81%af"><span>若いものには</span></a><a href="https://takoboto.jp/?q=%e8%b2%a0%e3%81%91%e3%81%aa%e3%81%84%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a0%e3%80%82"><span>負けないつもりだ。</span></a>
+    segments:
+      - text: 老いたり
+        grammar_highlight: false
+      - text: といえども
+        grammar_highlight: true
+      - text: 、まだまだ若いものには負けないつもりだ。
+        grammar_highlight: false
+    reading: おいたりといえども、まだまだわかいものにはまけないつもりだ。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Even though I am getting on a bit, I don't intend to lose out to the youngsters for some time to come.
+        html: |-
+          <strong>Even though </strong><span>I am getting on a bit, I don't intend to lose out to the youngsters for some time to come. </span>
+        segments:
+          - text: 'Even though '
+            grammar_highlight: true
+          - text: 'I am getting on a bit, I don''t intend to lose out to the youngsters for some time to come. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7895
+    position: 4
+    japanese: いかに日本での生活が長いといえども、言葉の問題には常に遭遇する。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8b%e3%81%ab"><span>いかに</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%a7%e3%81%ae"><span>日本での</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e6%b4%bb%e3%81%8c"><span>生活が</span></a><a href="https://takoboto.jp/?q=%e9%95%b7%e3%81%84"><span>長い</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%88%e3%81%a9%e3%82%82"><strong>といえども</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e8%91%89%e3%81%ae"><span>言葉の</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%ab%e3%81%af"><span>問題には</span></a><a href="https://takoboto.jp/?q=%e5%b8%b8%e3%81%ab"><span>常に</span></a><a href="https://takoboto.jp/?q=%e9%81%ad%e9%81%87%e3%81%99%e3%82%8b%e3%80%82"><span>遭遇する。</span></a>
+    segments:
+      - text: いかに日本での生活が長い
+        grammar_highlight: false
+      - text: といえども
+        grammar_highlight: true
+      - text: 、言葉の問題には常に遭遇する。
+        grammar_highlight: false
+    reading: いかににほんでのせいかつがながいといえども、ことばのもんだいにはつねにそうぐうする。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Although I've lived in Japan for a long time, I constantly encounter language problems
+        html: |-
+          <strong>Although </strong><span>I've lived in Japan for a long time, I constantly encounter language problems </span>
+        segments:
+          - text: 'Although '
+            grammar_highlight: true
+          - text: 'I''ve lived in Japan for a long time, I constantly encounter language problems '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 'Ref # A Dictionary of Advanced Japanese Grammar p625'
+    html: |-
+      <b>Ref #</b> A Dictionary of Advanced Japanese Grammar p625
+    credits_raw: LR
+    content_sha256: 8812dc024a766ef48b1d392a5fc9b10257c7f8adc48e8e80f3bdf1a4e9a560b5
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p25 - no.26'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p25 - no.26
+    credits_raw: LR
+    content_sha256: 963bfffda0330b5fe87741c181d78dc04d3e97431140d3d6e25a545f8c48c174
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Written Japanese,
+      Old form of itte mo.
+      Used in writing or formal speech.
+      The colloquial version is [toittemo] (Level 2)
+    html: |-
+      Written Japanese,<br/>Old form of itte mo.<br/>Used in writing or formal speech.<br/>The colloquial version is [toittemo] (Level 2)
+    credits_raw: LR
+    content_sha256: 78ea0e441b297072bede5ede52c7ecfb25af4913b03737e45d155e4723522214
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 411
+    label: といっても
+    source_url: https://takoboto.jp/bunpo/411
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:44:27+00:00'
+response_sha256: 5a26ae49e6ff6ed336ace98ef9623ae2ac7ce38cdd033c112b67cfd1b7457eee
+warnings: []

@@ -1,0 +1,79 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1566
+label: rashite
+title_raw: 〜からして [〜からして] (rashite)
+title: 〜からして
+reading: 〜からして
+romanized_label: rashite
+category: grammar
+jlpt_level_original: '2'
+meaning: starting from
+meaning_example: villages are different even starting from weather
+credits_raw: Meghana
+source_url: http://jgram.org/pages/viewOne.php?tagE=rashite
+archive_url: https://web.archive.org/web/20150224225603id_/http://jgram.org/pages/viewOne.php?tagE=rashite
+archive_timestamp: '20150224225603'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: QXFSFUVMA3QSOCTJSKTXZCS35GZY4NQT
+response_sha256: 7e40fbfe696d83374844f3df32f21327b4ef12e215bfacb65c8d205681fa83c5
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 5932
+    position: 0
+    japanese: 田舎は天気からして違う。
+    body_text: "田舎は天気からして違う。 \n\n\t\tVillages are different even starting from weather"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ田舎は天気からして違う。\">\n\t\t\t\t田舎は天気か<strong>らして</strong>違う。<strong></strong></a> <br/>\n\t\tVillages are different even starting from weather \n\t\t<strong> </strong>"
+    credits_raw: Meghana
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "Is this enry is the same as \x01?"
+    html: "Is this enry is the same as <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: skottt
+    text: I would say so
+    html: I would say so
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: KyleGoetz
+    text: I suggest we merge or something, but I'm not sure how to do that myself.
+    html: I suggest we merge or something, but I'm not sure how to do that myself.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "〜からして [〜からして] (rashite)\n    Meaning: starting from \n    Example: villages are different even starting from weather\n    JLPT Level: 2\n    Category: grammar\n    Author: Meghana"
+    html: |-
+      <span>〜からして [〜からして] (rashite)</span><br/>    <span><b>Meaning</b>: starting from </span><br/>    <b>Example</b>: <i>villages are different even starting from weather</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Meghana</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225603'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3797743
+  length: 5088
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 5ac9ae3193f1482303475358676d784c2129552ae0e3941cf800328d848b7155

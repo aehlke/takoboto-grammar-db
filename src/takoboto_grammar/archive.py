@@ -20,7 +20,7 @@ from urllib.robotparser import RobotFileParser
 from .archive_parser import NotGrammar, LicenseReviewRequired, parse_archive
 from .crawl import now
 from .parser import ParseError
-from .storage import output_root, safe_target, write_json, cache_response, record_digest
+from .storage import output_root, safe_target, write_json, write_record, cache_response, record_digest
 from .http import HttpxOpener, RequestPacer
 
 CDX = 'https://web.archive.org/cdx/search/cdx'
@@ -332,7 +332,7 @@ def crawl_archive(fetcher, inventory, eligible_ids=(), limit=None):
                     record['selection_attempts'] = attempts
                     record['latest_indexed_timestamp'] = item['captures'][0]['timestamp']
                     folder = 'review-records' if record['warnings'] else 'records'
-                    write_json(fetcher.root, f'{folder}/{key}.json', record)
+                    write_record(fetcher.root, f'{folder}/{key}.yaml', record)
                     state.update(status='review_required' if record['warnings'] else 'parsed',
                                  record_sha256=record_digest(record))
                     if record['warnings']:

@@ -1,0 +1,138 @@
+schema_version: 2
+id: 1487
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1487/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: それっきり
+romanized_label: Sorekkiri
+alternate_forms: []
+jlpt_level: 1
+credits_raw: Pan
+meaning: Since, since then
+meaning_example: Since then, I haven't seen Spike.
+meaning_notes:
+  - language: ja
+    text: それ以来ずっと、それ以来
+    html: それ以来ずっと、それ以来
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1487
+    body_text: |-
+      Since, since then 
+       Since then, I haven't seen Spike. 
+       それ以来ずっと、それ以来
+    body_html: |-
+      <span>Since, since then</span> <br/> <span>Since then, I haven't seen Spike.</span> <br/> <span>それ以来ずっと、それ以来</span>
+    credits_raw: Pan
+formations: []
+examples:
+  - source_id: 5040
+    position: 0
+    japanese: 僕はそれっきりスパイクと会っていない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%83%95%e3%81%af"><span>僕は</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a3%e3%81%8d%e3%82%8a"><strong>それっきり</strong></a><a href="https://takoboto.jp/?q=%e3%82%b9%e3%83%91%e3%82%a4%e3%82%af%e3%81%a8"><span>スパイクと</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e3%81%a3%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84"><span>会っていない</span></a>
+    segments:
+      - text: 僕は
+        grammar_highlight: false
+      - text: それっきり
+        grammar_highlight: true
+      - text: スパイクと会っていない
+        grammar_highlight: false
+    reading: ぼくはそれっきりスパイクとあっていない
+    credits_raw: pan
+    translations:
+      - language: en
+        text: Since then, I haven't seen Spike.
+        html: |-
+          <strong>Since then, </strong><span>I haven't seen Spike. </span>
+        segments:
+          - text: 'Since then, '
+            grammar_highlight: true
+          - text: 'I haven''t seen Spike. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5042
+    position: 1
+    japanese: 店はたたれたまま、それっきりだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ba%97%e3%81%af%e3%81%9f%e3%81%9f%e3%82%8c%e3%81%9f%e3%81%be%e3%81%be%e3%80%81"><span>店はたたれたまま、</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a3%e3%81%8d%e3%82%8a"><strong>それっきり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>だった。</span></a>
+    segments:
+      - text: 店はたたれたまま、
+        grammar_highlight: false
+      - text: それっきり
+        grammar_highlight: true
+      - text: だった。
+        grammar_highlight: false
+    reading: みせはたたれたまま、それっきりだった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The store closed down for good.
+        html: |-
+          <span>The store closed down for good. </span>
+        segments:
+          - text: 'The store closed down for good. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6063
+    position: 2
+    japanese: 去年１１月プネに移りました。それっきり先生と連絡しなかったです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8e%bb%e5%b9%b4%ef%bc%91%ef%bc%91%e6%9c%88%e3%83%97%e3%83%8d%e3%81%ab"><span>去年１１月プネに</span></a><a href="https://takoboto.jp/?q=%e7%a7%bb%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>移りました。</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%a3%e3%81%8d%e3%82%8a"><strong>それっきり</strong></a><a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%a8"><span>先生と</span></a><a href="https://takoboto.jp/?q=%e9%80%a3%e7%b5%a1%e3%81%97%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%a7%e3%81%99%e3%80%82"><span>連絡しなかったです。</span></a>
+    segments:
+      - text: 去年１１月プネに移りました。
+        grammar_highlight: false
+      - text: それっきり
+        grammar_highlight: true
+      - text: 先生と連絡しなかったです。
+        grammar_highlight: false
+    reading: きょねんじゅういちがつにうつりました。それっきりせんせいとれんらくしなかったです。
+    credits_raw: ppmohapatra
+    translations:
+      - language: en
+        text: I shiefted to pune in november last year. After that I have not communicated with my teacher.
+        html: |-
+          <span>I shiefted to pune in november last year. After that I have not communicated with my teacher. </span>
+        segments:
+          - text: 'I shiefted to pune in november last year. After that I have not communicated with my teacher. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: それきり is the same as それっきり。
+    html: それきり is the same as それっきり。
+    credits_raw: pan
+    content_sha256: 0ddf659547f6e0d05cc77c792ef0bf103e2bab74016fef64e123980930dc0cc1
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      ex #5042の英訳はちょっと違う気がしている。
+      The shop remained as it was since when it was established.のようなやくするとどうですかと思う。
+    html: |-
+      ex #5042の英訳はちょっと違う気がしている。<br/>The shop remained as it was since when it was established.のようなやくするとどうですかと思う。
+    credits_raw: ppmohapatra
+    content_sha256: fe4600ae202dc318565e08b62441f25306241987bce255eacfcfbe73225b0c66
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 'ex #5042, the current translation is wrong. ppmohapatra''s translation is better.'
+    html: 'ex #5042, the current translation is wrong. ppmohapatra''s translation is better.'
+    credits_raw: yuzuha
+    content_sha256: 6f59565c4e6686f691c7a92299270248f5b6b8a3a9e63888624ea20ed5bc958c
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:45:14+00:00'
+response_sha256: 04a0b6d24e9ec8b04484ffbb0f50caa403054e82915176992506990a5a7cf3b5
+warnings: []

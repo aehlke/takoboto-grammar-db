@@ -1,0 +1,90 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 928
+label: kawaru-group
+title_raw: かわる [かわる] (kawaru-group)
+title: かわる
+reading: かわる
+romanized_label: kawaru-group
+category: lesson
+jlpt_level_original: '2'
+meaning: instead of / in place of
+meaning_example: I will go instead of you
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=kawaru-group
+archive_url: https://web.archive.org/web/20150224225414id_/http://jgram.org/pages/viewOne.php?tagE=kawaru-group
+archive_timestamp: '20150224225414'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: PB52CEYIVEKII3PKOGXP4HMAT5PED7Y2
+response_sha256: 7edf1f2c8607f03c155c9d778ad7f2c2d488492dff305af5c35b9ecd8b657945
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "\x01 can be used for all the meanings below\n\n\x01 is mainly for \"instead\"\n\n\n\r\n- on behalf of\n\r\nI will go on your behalf\n\n\n\r\n- instead of\n\r\nI want coffee instead of tea\n\n\n\r\n- to make up for\n\r\nI am going to enjoy myself in the daytime, but to make up for it I intend to study at night."
+    html: "<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> can be used for all the meanings below<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> is mainly for \"instead\"<br/>\n<br/>\r\n- on behalf of<br/>\r\nI will go on your behalf<br/>\n<br/>\r\n- instead of<br/>\r\nI want coffee instead of tea<br/>\n<br/>\r\n- to make up for<br/>\r\nI am going to enjoy myself in the daytime, but to make up for it I intend to study at night.<br/>\n<br/>\n<br/>"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Usage:\n\n\n\r\nnoun + no+kawarini\n\r\n　先生の代わりに\n\r\n　sensei no kawarini\n\n\n\r\nnoun+ ni kawatte\n\r\n　先生に代わって\n\n\n\r\nverb-masu + kawarini\n\r\n　遊ぶ代わりに\n\r\n　asobu kawarini\n\n\n\r\nadj+ kawarini\n\r\n　高い代わりに\n\r\n　takai kawarini"
+    html: "Usage:<br/>\n<br/>\r\nnoun + no+kawarini<br/>\r\n　先生の代わりに<br/>\r\n　sensei no kawarini<br/>\n<br/>\r\nnoun+ ni kawatte<br/>\r\n　先生に代わって<br/>\n<br/>\r\nverb-masu + kawarini<br/>\r\n　遊ぶ代わりに<br/>\r\n　asobu kawarini<br/>\n<br/>\r\nadj+ kawarini<br/>\r\n　高い代わりに<br/>\r\n　takai kawarini"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples: []
+comments:
+  - position: 0
+    credits_raw: joy
+    text: Verb-masu + kawarini? The example shows dictionary form of the verb (あそぶ).
+    html: Verb-masu + kawarini? The example shows dictionary form of the verb (あそぶ).
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: nikawatte
+    label: nikawatte
+    annotation_text: nikawatte [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=nikawatte">nikawatte</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: kawarini
+    label: kawarini
+    annotation_text: kawarini [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kawarini">kawarini</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 2
+    target_label: kawarini-2
+    label: kawarini-2
+    annotation_text: kawarini-2 [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kawarini-2">kawarini-2</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "かわる [かわる] (kawaru-group)\n    Meaning: instead of / in place of \n    Example: I will go instead of you\n    JLPT Level: 2\n    Category: lesson\n    Author: dc"
+    html: |-
+      <span>かわる [かわる] (kawaru-group)</span><br/>    <span><b>Meaning</b>: instead of / in place of </span><br/>    <b>Example</b>: <i>I will go instead of you</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225414'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 2342452
+  length: 5168
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: beb06a1dfe8be1b62e1355e1569406d692dd92c589eb59e532ecb77923c45f75

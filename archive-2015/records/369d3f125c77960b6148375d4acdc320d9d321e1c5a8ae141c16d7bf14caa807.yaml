@@ -1,0 +1,126 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1492
+label: womotte1
+title_raw: 〜をもって (を以て) ([〜をもって] )(womotte1)
+title: 〜をもって (を以て)
+reading: 〜をもって
+romanized_label: womotte1
+category: grammar
+jlpt_level_original: '1'
+meaning: at (time / momen) 期限を表す。〜で。
+meaning_example: today's business will close at 7
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=womotte1
+archive_url: https://web.archive.org/web/20150224225745id_/http://jgram.org/pages/viewOne.php?tagE=womotte1
+archive_timestamp: '20150224225745'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: Q52GKXKYXQNFU7UHLEYOA7LQ7PMGYICR
+response_sha256: dcb71f8d69f58a3aac10017c2e7e7dfaf25ec90c61af99d16acd5b6a914bf360
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: '[名]＋をもって'
+    html: '[名]＋をもって'
+    credits_raw: deltafour
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: This is a formal expression.
+    html: This is a formal expression.
+    credits_raw: deltafour
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "Ref #\x01 Kanzen Master Level 1 - p7 - no.11"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=womotte1#\x01\">#\x01</a></b></b> Kanzen Master Level 1 - p7 - no.11"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: "On the difference between \x01 and \x01\n\n\x01 is a Time phrase\n\r\nmeaning \"at\"  - marks beginnings, ends, or borders between times.\n\r\nIt is often used as a greeting to お客 with the extended form  をもちまして.\n\n\x01 is the method by which you do something - victory achieved via effort, announcement made via a blackboard.\n\n\n\r\nBoth are formal, both are NOUN + をもって\n\r\nbe careful."
+    html: "<b>On the difference between <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> and <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b></b><br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> is a Time phrase<br/>\r\nmeaning \"at\"  - marks beginnings, ends, or borders between times.<br/>\r\nIt is often used as a greeting to お客 with the extended form  をもちまして.<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> is the method by which you do something - victory achieved via effort, announcement made via a blackboard.<br/>\n<br/>\r\nBoth are formal, both are NOUN + をもって<br/>\r\nbe careful."
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7038
+    position: 0
+    japanese: 本日の営業は午後7時をもって終了いたします。
+    body_text: "本日の営業は午後7時をもって終了いたします。 \n\n\t\tThe store will close today \n\t\tat \n\t\tseven o'clock."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ本日の営業は午後7時をもって終了いたします。\">\n\t\t\t\t本日の営業は午後7時<strong>をもって</strong>終了いたします。<strong></strong></a> <br/>\n\t\tThe store will close today \n\t\t<strong>at </strong>\n\t\tseven o'clock."
+    credits_raw: deltafour
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7275
+    position: 1
+    japanese: これをもちまして本日の披露宴をめでたくお開きとあさせていただきます。
+    body_text: "これをもちまして本日の披露宴をめでたくお開きとあさせていただきます。  \n\nAt this point \n\t\tI would like to open this auspicious wedding reception."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこれをもちまして本日の披露宴をめでたくお開きとあさせていただきます。 \">\n\t\t\t\tこれを<strong>もちまして</strong>本日の披露宴をめでたくお開きとあさせていただきます。 <strong></strong></a> <br/>\n<strong>At this point </strong>\n\t\tI would like to open this auspicious wedding reception."
+    credits_raw: Dom
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7797
+    position: 2
+    japanese: 店内改装のため、今月末をもって一時閉店することになりました。
+    body_text: "店内改装のため、今月末をもって一時閉店することになりました。 \n\n\t\tDue to redecoration of the store, we will be closed \n\t\tat \n\t\tthe end of this month."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ店内改装のため、今月末をもって一時閉店することになりました。\">\n\t\t\t\t店内改装のため、今月末<strong>をもって</strong>一時閉店することになりました。<strong></strong></a> <br/>\n\t\tDue to redecoration of the store, we will be closed \n\t\t<strong>at </strong>\n\t\tthe end of this month."
+    credits_raw: inakaluke
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: rad
+    text: 本日の営業は午後7時をもって終了いたします。
+    html: 本日の営業は午後7時をもって終了いたします。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: womotte2
+    label: womotte2
+    annotation_text: womotte2 [LR]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=womotte2">womotte2</a> [<a href="http://jgram.org/pages/contributions.php?author=LR">LR</a>]
+    credits_raw: LR
+sections:
+  - kind: header
+    text: |-
+      〜をもって (を以て) ([〜をもって] )(womotte1)
+          Meaning: at (time / momen) 期限を表す。〜で。
+          Example: today's business will close at 7
+          JLPT Level: 1
+          Category: grammar
+          Author: dc
+    html: |-
+      <span>〜をもって (を以て) ([〜をもって] )(womotte1)</span><br/>    <span><b>Meaning</b>: at (time / momen) 期限を表す。〜で。</span><br/>    <b>Example</b>: <i>today's business will close at 7</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225745'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6397099
+  length: 5715
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: e9b56fb36403a920a8fd2da988031b498a03e32fd3729752b5e3db879ed9135c

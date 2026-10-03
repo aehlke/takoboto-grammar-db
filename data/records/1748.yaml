@@ -1,0 +1,180 @@
+schema_version: 2
+id: 1748
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1748/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ないまでも
+romanized_label: naimademo
+alternate_forms: []
+jlpt_level: 1
+credits_raw: LR
+meaning: |-
+  expressing the speaker's feeling that although an ideal action or state isn't possible, at least the next best action or stat is or should be available
+meaning_example: Although you may not be able to call this public performance a great success, it produced results of a sort.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1748
+    body_text: |-
+      expressing the speaker's feeling that although an ideal action or state isn't possible, at least the next best action or stat is or should be available 
+       Although you may not be able to call this public performance a great success, it produced results of a sort.
+    body_html: |-
+      <span>expressing the speaker's feeling that although an ideal action or state isn't possible, at least the next best action or stat is or should be available</span> <br/> <span>Although you may not be able to call this public performance a great success, it produced results of a sort.</span>
+    credits_raw: LR
+formations: []
+examples:
+  - source_id: 7928
+    position: 0
+    japanese: この公演は大成功とは言えないまでも、それなりの成果をもたらした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%85%ac%e6%bc%94%e3%81%af"><span>公演は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e6%88%90%e5%8a%9f%e3%81%a8%e3%81%af"><span>大成功とは</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%88"><span>言え</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%be%e3%81%a7%e3%82%82"><strong>ないまでも</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%82%8c%e3%81%aa%e3%82%8a%e3%81%ae"><span>、それなりの</span></a><a href="https://takoboto.jp/?q=%e6%88%90%e6%9e%9c%e3%82%92%e3%82%82%e3%81%9f%e3%82%89%e3%81%97%e3%81%9f%e3%80%82"><span>成果をもたらした。</span></a>
+    segments:
+      - text: この公演は大成功とは言え
+        grammar_highlight: false
+      - text: ないまでも
+        grammar_highlight: true
+      - text: 、それなりの成果をもたらした。
+        grammar_highlight: false
+    reading: このこうえんはだいせいこうとはいえないまでも、それなりのせいかをもたらした。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Although you may not be able to call this public performance a great success, it produced results of a sort.
+        html: |-
+          <strong>Although you may not be able to </strong><span>call this public performance a great success, it produced results of a sort. </span>
+        segments:
+          - text: 'Although you may not be able to '
+            grammar_highlight: true
+          - text: 'call this public performance a great success, it produced results of a sort. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7929
+    position: 1
+    japanese: 彼の論文は決して多くないまでも、その質は非常に高い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e8%ab%96%e6%96%87%e3%81%af"><span>論文は</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e3%81%97%e3%81%a6"><span>決して</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%8f"><span>多く</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%be%e3%81%a7%e3%82%82"><strong>ないまでも</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%81%ae"><span>、その</span></a><a href="https://takoboto.jp/?q=%e8%b3%aa%e3%81%af"><span>質は</span></a><a href="https://takoboto.jp/?q=%e9%9d%9e%e5%b8%b8%e3%81%ab"><span>非常に</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84%e3%80%82"><span>高い。</span></a>
+    segments:
+      - text: 彼の論文は決して多く
+        grammar_highlight: false
+      - text: ないまでも
+        grammar_highlight: true
+      - text: 、その質は非常に高い。
+        grammar_highlight: false
+    reading: かれのろんぶんはけっしておおくないまでも、そのしつはひじょうにたかい。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Although he hasn't published many papers at all, the quality of those he has published is extremely high.
+        html: |-
+          <span>Although he hasn't published many papers at all, the quality of those he has published is extremely high. </span>
+        segments:
+          - text: 'Although he hasn''t published many papers at all, the quality of those he has published is extremely high. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7930
+    position: 2
+    japanese: 彼が犯人だと断定できないまでも、いろいろと怪しいところがある
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c"><span>彼が</span></a><a href="https://takoboto.jp/?q=%e7%8a%af%e4%ba%ba%e3%81%a0%e3%81%a8"><span>犯人だと</span></a><a href="https://takoboto.jp/?q=%e6%96%ad%e5%ae%9a%e3%81%a7%e3%81%8d"><span>断定でき</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%be%e3%81%a7%e3%82%82"><strong>ないまでも</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d%e3%81%a8"><span>、いろいろと</span></a><a href="https://takoboto.jp/?q=%e6%80%aa%e3%81%97%e3%81%84%e3%81%a8%e3%81%93%e3%82%8d%e3%81%8c%e3%81%82%e3%82%8b"><span>怪しいところがある</span></a>
+    segments:
+      - text: 彼が犯人だと断定でき
+        grammar_highlight: false
+      - text: ないまでも
+        grammar_highlight: true
+      - text: 、いろいろと怪しいところがある
+        grammar_highlight: false
+    reading: かれがはんにんだとだんていできないまでも、いろいろとあやしいところがある
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Even though we can't conclude he's the culprit, he has many suspicious points
+        html: |-
+          <span>Even though we can't conclude he's the culprit, he has many suspicious points </span>
+        segments:
+          - text: 'Even though we can''t conclude he''s the culprit, he has many suspicious points '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7931
+    position: 3
+    japanese: この彫刻は完璧とは言えないまでも、非常に可能性を感じさせる作品だった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%bd%ab%e5%88%bb%e3%81%af"><span>彫刻は</span></a><a href="https://takoboto.jp/?q=%e5%ae%8c%e7%92%a7%e3%81%a8%e3%81%af"><span>完璧とは</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%88"><span>言え</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%be%e3%81%a7%e3%82%82"><strong>ないまでも</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e9%9d%9e%e5%b8%b8%e3%81%ab"><span>非常に</span></a><a href="https://takoboto.jp/?q=%e5%8f%af%e8%83%bd%e6%80%a7%e3%82%92"><span>可能性を</span></a><a href="https://takoboto.jp/?q=%e6%84%9f%e3%81%98%e3%81%95%e3%81%9b%e3%82%8b"><span>感じさせる</span></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e5%93%81%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>作品だった。</span></a>
+    segments:
+      - text: この彫刻は完璧とは言え
+        grammar_highlight: false
+      - text: ないまでも
+        grammar_highlight: true
+      - text: 、非常に可能性を感じさせる作品だった。
+        grammar_highlight: false
+    reading: このちょうこくはかんぺきとはいえないまでも、ひじょうにかのうせいをかんじさせるさくひんだった。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: The sculpture may not be called a perfect work, but it is a work that makes you feel there is much potential.
+        html: |-
+          <span>The sculpture may not be called a perfect work, but it is a work that makes you feel there is much potential. </span>
+        segments:
+          - text: 'The sculpture may not be called a perfect work, but it is a work that makes you feel there is much potential. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p44 - no.41'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p44 - no.41
+    credits_raw: LR
+    content_sha256: e13d0520a2eefcf00b9f7441cf8be164e0b3ee90e5a65e029e19bbf3c7a9a8cf
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'Ref # A Dictionary of Advanced Japanese Grammar p305'
+    html: |-
+      <b>Ref #</b> A Dictionary of Advanced Japanese Grammar p305
+    credits_raw: LR
+    content_sha256: f42f683c567cc1ee32d0cf45acf978e2aefc654976c11244f3a833e497343573
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Often used with the verb 言う　{~言えないまでも~}
+      but can be used with other verbs too.
+      "We may not be able to call this === but at least we can say it is"
+    html: |-
+      Often used with the verb 言う　{~言えないまでも~}<br/>but can be used with other verbs too.<br/>"We may not be able to call this === but at least we can say it is"
+    credits_raw: LR
+    content_sha256: 2c108543e72ba8d3d71d5d89688a9902a905f746d6a907cb933535627fe767b9
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: '{VERB ない 形} + ないまでも'
+    html: '{VERB ない 形} + ないまでも'
+    credits_raw: LR
+    content_sha256: 095f40d81bc6681ba38800eb13d94a4017d79bf3e9f20fd84de6c95ea3675a35
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      In ex # 7931, what Japanese word was meant by 可柏ｫ ? This looks like an error, and doesn't translate to anything intelligible. If it was supposed to mean "potential," could 可能 be substituted for it?
+    html: |-
+      In ex # 7931, what Japanese word was meant by 可柏ｫ ? This looks like an error, and doesn't translate to anything intelligible. If it was supposed to mean "potential," could 可能 be substituted for it?
+    credits_raw: bshock
+    content_sha256: 9cb7df0a2cd9b9d0b607dd777423483b6df2e7863e598eac3fd76ac457ca27ba
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:44:56+00:00'
+response_sha256: 42e3de9279876fdaba759f9a8619d5cb7f7752bd426e2745355228ce494caddb
+warnings: []

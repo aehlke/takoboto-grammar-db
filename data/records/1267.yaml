@@ -1,0 +1,184 @@
+schema_version: 2
+id: 1267
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1267/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ようではないか
+romanized_label: youdehanaika-2
+alternate_forms: []
+jlpt_level: 2
+credits_raw: Amatuka
+meaning: doesn't it seem ~ ?
+meaning_example: seems like it will rain?
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1267
+    body_text: |-
+      doesn't it seem ~ ? 
+       seems like it will rain?
+    body_html: |-
+      <span>doesn't it seem ~ ?</span> <br/> <span>seems like it will rain?</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 487
+    position: 0
+    japanese: 雨が降るようではないか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%8b"><span>降る</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%8b"><strong>ようではないか</strong></a>
+    segments:
+      - text: 雨が降る
+        grammar_highlight: false
+      - text: ようではないか
+        grammar_highlight: true
+    reading: あめがふるようではないか
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: seems like its going to rain doesn't it?
+        html: |-
+          <span>seems like its going to rain </span><strong>doesn't it? </strong>
+        segments:
+          - text: 'seems like its going to rain '
+            grammar_highlight: false
+          - text: 'doesn''t it? '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 897
+    position: 1
+    japanese: 空にのびる枝が我々を導いてくれてるようではないか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a9%ba%e3%81%ab%e3%81%ae%e3%81%b3%e3%82%8b"><span>空にのびる</span></a><a href="https://takoboto.jp/?q=%e6%9e%9d%e3%81%8c"><span>枝が</span></a><a href="https://takoboto.jp/?q=%e6%88%91%e3%80%85%e3%82%92"><span>我々を</span></a><a href="https://takoboto.jp/?q=%e5%b0%8e%e3%81%84%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%a6%e3%82%8b"><span>導いてくれてる</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%8b"><strong>ようではないか</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 空にのびる枝が我々を導いてくれてる
+        grammar_highlight: false
+      - text: ようではないか
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: そらにのびるえだがわれわれをみちびいてくれてるようではないか。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Doesn't it seem as if the branches extending into the sky are guiding us?
+        html: |-
+          <strong>Doesn't it seem as if </strong><span>the branches extending into the sky are guiding us? </span>
+        segments:
+          - text: 'Doesn''t it seem as if '
+            grammar_highlight: true
+          - text: 'the branches extending into the sky are guiding us? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4767
+    position: 2
+    japanese: 動いているのに、進んでいないようではないか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8b%95%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%ab%e3%80%81"><span>動いているのに、</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%93%e3%81%a7%e3%81%84%e3%81%aa%e3%81%84"><span>進んでいない</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%8b%e3%80%82"><strong>ようではないか。</strong></a>
+    segments:
+      - text: 動いているのに、進んでいない
+        grammar_highlight: false
+      - text: ようではないか。
+        grammar_highlight: true
+    reading: うごいているのに、すすんでいないようではないか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Een though you're moving it doesn't seems as if you're going anywhere.
+        html: |-
+          <span>Een though you're moving </span><strong>it doesn't seems as if </strong><span>you're going anywhere. </span>
+        segments:
+          - text: 'Een though you''re moving '
+            grammar_highlight: false
+          - text: 'it doesn''t seems as if '
+            grammar_highlight: true
+          - text: 'you''re going anywhere. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8733
+    position: 3
+    japanese: みんなで力を合わせて環境を守っていこうではないか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%bf%e3%82%93%e3%81%aa%e3%81%a7"><span>みんなで</span></a><a href="https://takoboto.jp/?q=%e5%8a%9b%e3%82%92"><span>力を</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e3%82%8f%e3%81%9b%e3%81%a6"><span>合わせて</span></a><a href="https://takoboto.jp/?q=%e7%92%b0%e5%a2%83%e3%82%92"><span>環境を</span></a><a href="https://takoboto.jp/?q=%e5%ae%88%e3%81%a3%e3%81%a6%e3%81%84%e3%81%93%e3%81%86%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%8b%e3%80%82"><span>守っていこうではないか。</span></a>
+    segments:
+      - text: みんなで力を合わせて環境を守っていこうではないか。
+        grammar_highlight: false
+    reading: みんなでちからをあわせてかんきょうをまもっていこうではないか。
+    credits_raw: masakitenchi
+    translations:
+      - language: en
+        text: We should cooperation and protect our environment.
+        html: |-
+          <span>We should cooperation and protect our environment. </span>
+        segments:
+          - text: 'We should cooperation and protect our environment. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      This sentence is not so natural.
+      I would say 雨が降り_そう_ではないか。
+      ではないか can be replaced by じゃないか。(conv)
+    html: |-
+      This sentence is not so natural.<br/>I would say 雨が降り_そう_ではないか。<br/>ではないか can be replaced by じゃないか。(conv)
+    credits_raw: Miki
+    content_sha256: 79211614fa8b23191235659a4277c6a4f5935ee09991670481347168d172e2c7
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: With this example, it is difficult to make it any better to suit the entry.
+    html: With this example, it is difficult to make it any better to suit the entry.
+    credits_raw: Miki
+    content_sha256: a71bba1de3d51b3a155d97afe44ce40c3b58594a4b3b4d27aed5fbf94577c4bd
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: ようではないか is a book Japanese. It is hardly used in conversation.
+    html: ようではないか is a book Japanese. It is hardly used in conversation.
+    credits_raw: bamboo4
+    content_sha256: 9dc4e77d4cee0d14f15a0cf2c379f4ba4920a380812c9626d60e627a818a9a6d
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Doesn't seem to be very common usage.
+    html: Doesn't seem to be very common usage.
+    credits_raw: Amatuka
+    content_sha256: e9c6fecd921a7eba15658852ac470bb01958d98908b73d919069c344d5e48fb4
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Is that example any better?
+    html: Is that example any better?
+    credits_raw: Amatuka
+    content_sha256: 232e34ac983ce9a39ee59f1d100422698f300fa051ce9162257f1abc01f4c096
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      一緒にーしよう
+      話し言葉では『V+よう+じゃないか』も使われる。
+    html: |-
+      一緒にーしよう<br/>話し言葉では『V+よう+じゃないか』も使われる。
+    credits_raw: 天候狐
+    content_sha256: a66e2fce84c98827eb70972fcd2bc7feae2dbcf682290970dc5f78c83e7eb8f1
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:39:39+00:00'
+response_sha256: 6dab5002a3620fe713847fdaa73d2ab0548aa03d989a6a6f0ea2dc0e2e0a91b3
+warnings: []

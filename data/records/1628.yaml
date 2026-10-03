@@ -1,0 +1,218 @@
+schema_version: 2
+id: 1628
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1628/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: にしろ; にせ(も)よ; にしても
+romanized_label: nishiro,niseyo,nishitemo-2
+alternate_forms: []
+jlpt_level: 2
+credits_raw: maikeru
+meaning: It doesn’t matter which; It doesn’t matter whether.
+meaning_example: 日本にしろ、中国にしろ、アジアの国へ行くのは面白い。
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1628
+    body_text: |-
+      It doesn’t matter which; It doesn’t matter whether. 
+       日本にしろ、中国にしろ、アジアの国へ行くのは面白い。
+    body_html: |-
+      <span>It doesn’t matter which; It doesn’t matter whether.</span> <br/> <span>日本にしろ、中国にしろ、アジアの国へ行くのは面白い。</span>
+    credits_raw: maikeru
+formations: []
+examples:
+  - source_id: 6531
+    position: 0
+    japanese: 日本、にしろ中国にしろ、アジアの国へ行くのは面白い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%80%81"><span>日本、</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%82%8d"><strong>にしろ</strong></a><a href="https://takoboto.jp/?q=%e4%b8%ad%e5%9b%bd"><span>中国</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%82%8d"><strong>にしろ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%82%a2%e3%82%b8%e3%82%a2%e3%81%ae"><span>、アジアの</span></a><a href="https://takoboto.jp/?q=%e5%9b%bd%e3%81%b8"><span>国へ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f%e3%81%ae%e3%81%af"><span>行くのは</span></a><a href="https://takoboto.jp/?q=%e9%9d%a2%e7%99%bd%e3%81%84%e3%80%82"><span>面白い。</span></a>
+    segments:
+      - text: 日本、
+        grammar_highlight: false
+      - text: にしろ
+        grammar_highlight: true
+      - text: 中国
+        grammar_highlight: false
+      - text: にしろ
+        grammar_highlight: true
+      - text: 、アジアの国へ行くのは面白い。
+        grammar_highlight: false
+    reading: にほん、にしろちゅうごくにしろ、アジアのくにへいくのはおもしろい。
+    credits_raw: maikeru
+    translations:
+      - language: en
+        text: It doesn’t matter whether it’s Japan or China, going to Asian countries is interesting.
+        html: |-
+          <span>It doesn’t matter </span><strong>whether </strong><span>it’s Japan or China, going to Asian countries is interesting. </span>
+        segments:
+          - text: 'It doesn’t matter '
+            grammar_highlight: false
+          - text: 'whether '
+            grammar_highlight: true
+          - text: 'it’s Japan or China, going to Asian countries is interesting. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8612
+    position: 1
+    japanese: Whether true or not true.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=Whether+true+or+not+true."><span>Whether true or not true.</span></a>
+    segments:
+      - text: Whether true or not true.
+        grammar_highlight: false
+    reading: null
+    credits_raw: leonardo.stylish
+    translations:
+      - language: en
+        text: 本当にしろうそにしろ。
+        html: |-
+          <span>本当にしろうそにしろ。 </span>
+        segments:
+          - text: '本当にしろうそにしろ。 '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8614
+    position: 2
+    japanese: ビールにしろ、日本酒にしろビール飲んだら運転できない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%93%e3%83%bc%e3%83%ab"><span>ビール</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%82%8d"><strong>にしろ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e9%85%92"><span>日本酒</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%82%8d"><strong>にしろ</strong></a><a href="https://takoboto.jp/?q=%e3%83%93%e3%83%bc%e3%83%ab"><span>ビール</span></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%93%e3%81%a0%e3%82%89"><span>飲んだら</span></a><a href="https://takoboto.jp/?q=%e9%81%8b%e8%bb%a2%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%82"><span>運転できない。</span></a>
+    segments:
+      - text: ビール
+        grammar_highlight: false
+      - text: にしろ
+        grammar_highlight: true
+      - text: 、日本酒
+        grammar_highlight: false
+      - text: にしろ
+        grammar_highlight: true
+      - text: ビール飲んだら運転できない。
+        grammar_highlight: false
+    reading: ビールにしろ、にほんしゅにしろビールのんだらうんてんできない。
+    credits_raw: leonardo.stylish
+    translations:
+      - language: en
+        text: If you drank whether beer or Japanese alcohol, you cannot drive.
+        html: |-
+          <span>If you drank </span><strong>whether </strong><span>beer </span><strong>or </strong><span>Japanese alcohol, you cannot drive. </span>
+        segments:
+          - text: 'If you drank '
+            grammar_highlight: false
+          - text: 'whether '
+            grammar_highlight: true
+          - text: 'beer '
+            grammar_highlight: false
+          - text: 'or '
+            grammar_highlight: true
+          - text: 'Japanese alcohol, you cannot drive. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8615
+    position: 3
+    japanese: 好きにせよ嫌いにせよ、彼女が優れた歌手であることはみんなが認めている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d"><span>好き</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%9b%e3%82%88"><strong>にせよ</strong></a><a href="https://takoboto.jp/?q=%e5%ab%8c%e3%81%84"><span>嫌い</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%9b%e3%82%88"><strong>にせよ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c"><span>彼女が</span></a><a href="https://takoboto.jp/?q=%e5%84%aa%e3%82%8c%e3%81%9f"><span>優れた</span></a><a href="https://takoboto.jp/?q=%e6%ad%8c%e6%89%8b%e3%81%a7%e3%81%82%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af%e3%81%bf%e3%82%93%e3%81%aa%e3%81%8c"><span>歌手であることはみんなが</span></a><a href="https://takoboto.jp/?q=%e8%aa%8d%e3%82%81%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>認めている。</span></a>
+    segments:
+      - text: 好き
+        grammar_highlight: false
+      - text: にせよ
+        grammar_highlight: true
+      - text: 嫌い
+        grammar_highlight: false
+      - text: にせよ
+        grammar_highlight: true
+      - text: 、彼女が優れた歌手であることはみんなが認めている。
+        grammar_highlight: false
+    reading: すきにせよきらいにせよ、かのじょがすぐれたかしゅであることはみんながみとめている。
+    credits_raw: leonardo.stylish
+    translations:
+      - language: en
+        text: Whether you like it or hate it, she is an excellent singer that everyone acknowledges.
+        html: |-
+          <strong>Whether </strong><span>you like it </span><strong>or </strong><span>hate it, she is an excellent singer that everyone acknowledges. </span>
+        segments:
+          - text: 'Whether '
+            grammar_highlight: true
+          - text: 'you like it '
+            grammar_highlight: false
+          - text: 'or '
+            grammar_highlight: true
+          - text: 'hate it, she is an excellent singer that everyone acknowledges. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6756
+    position: 4
+    japanese: 引き受けるにしろ引き受けないにしろ、なるべく早く決めたほうがいい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bc%95%e3%81%8d"><span>引き</span></a><a href="https://takoboto.jp/?q=%e5%8f%97%e3%81%91%e3%82%8b"><span>受ける</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%82%8d"><strong>にしろ</strong></a><a href="https://takoboto.jp/?q=%e5%bc%95%e3%81%8d"><span>引き</span></a><a href="https://takoboto.jp/?q=%e5%8f%97%e3%81%91%e3%81%aa%e3%81%84"><span>受けない</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%82%8d"><strong>にしろ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%aa%e3%82%8b%e3%81%b9%e3%81%8f"><span>、なるべく</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e3%81%8f"><span>早く</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e3%82%81%e3%81%9f%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84%e3%80%82"><span>決めたほうがいい。</span></a>
+    segments:
+      - text: 引き受ける
+        grammar_highlight: false
+      - text: にしろ
+        grammar_highlight: true
+      - text: 引き受けない
+        grammar_highlight: false
+      - text: にしろ
+        grammar_highlight: true
+      - text: 、なるべく早く決めたほうがいい。
+        grammar_highlight: false
+    reading: ひきうけるにしろひきうけないにしろ、なるべくはやくきめたほうがいい。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: It doesn't matter whether you undertake or not , but you'd better decide as quickly as possible.
+        html: |-
+          <strong>It doesn't matter whether </strong><span>you undertake </span><strong>or not </strong><span>, but you'd better decide as quickly as possible. </span>
+        segments:
+          - text: 'It doesn''t matter whether '
+            grammar_highlight: true
+          - text: 'you undertake '
+            grammar_highlight: false
+          - text: 'or not '
+            grammar_highlight: true
+          - text: ', but you''d better decide as quickly as possible. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      'De aru' always follows a noun or a na adjective. In the case of an I adjective, the form changes to 'kare'. Usually written. After verbs, use 'ni shiro'.
+    html: |-
+      'De aru' always follows a noun or a na adjective. In the case of an I adjective, the form changes to 'kare'. Usually written. After verbs, use 'ni shiro'.
+    credits_raw: maikeru
+    content_sha256: 7c43c4d16656a961993a9aef1385edc0454f0f71b66015b621a954a236a16ec4
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      接続：
+      [動詞 ・ い刑 ・ な刑 ・ 名] の普通刑 + にしろ
+
+      *ただし[な刑]と[名]の「だ」はつかない。[な刑-である][名-である]も使う
+    html: |-
+      接続：<br/>[動詞 ・ い刑 ・ な刑 ・ 名] の普通刑 + にしろ<br/><br/>*ただし[な刑]と[名]の「だ」はつかない。[な刑-である][名-である]も使う
+    credits_raw: leonardo.stylish
+    content_sha256: 494473d8992c2eebb3b3eb195aa5f90b46b27ff82561c723563e215f7a2cd6a5
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1235
+    label: にしろ; にせ(も)よ; にしても
+    source_url: https://takoboto.jp/bunpo/1235
+  - target_id: 1245
+    label: 〜であれ
+    source_url: https://takoboto.jp/bunpo/1245
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:42:21+00:00'
+response_sha256: c17cd6e061f5698056d4b903d1b7626924dc0688bcfb366bb1ad4bc8c768e0fd
+warnings: []

@@ -1,0 +1,119 @@
+schema_version: 2
+id: 1641
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1641/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜を限りに
+romanized_label: wo kagiri ni
+alternate_forms:
+  - をかぎりに
+jlpt_level: 1
+credits_raw: claytonian
+meaning: with 〜, some continuing activity will end (or a prohibition on an activity will start)
+meaning_example: Starting today, I've decided to stop smoking.
+meaning_notes:
+  - language: ja
+    text: 今まで続いていたことが今後はもう続かなくなることを浮ｷ
+    html: 今まで続いていたことが今後はもう続かなくなることを浮ｷ
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1641
+    body_text: |-
+      with 〜, some continuing activity will end (or a prohibition on an activity will start) 
+       Starting today, I've decided to stop smoking. 
+       今まで続いていたことが今後はもう続かなくなることを浮ｷ
+    body_html: |-
+      <span>with 〜, some continuing activity will end (or a prohibition on an activity will start)</span> <br/> <span>Starting today, I've decided to stop smoking.</span> <br/> <span>今まで続いていたことが今後はもう続かなくなることを浮ｷ</span>
+    credits_raw: claytonian
+formations: []
+examples:
+  - source_id: 7037
+    position: 0
+    japanese: 今日を限りに、この学校ともお別れです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5"><span>今日</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e9%99%90%e3%82%8a%e3%81%ab"><strong>を限りに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%93%e3%81%ae"><span>、この</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e6%a0%a1%e3%81%a8%e3%82%82%e3%81%8a"><span>学校ともお</span></a><a href="https://takoboto.jp/?q=%e5%88%a5%e3%82%8c%e3%81%a7%e3%81%99%e3%80%82"><span>別れです。</span></a>
+    segments:
+      - text: 今日
+        grammar_highlight: false
+      - text: を限りに
+        grammar_highlight: true
+      - text: 、この学校ともお別れです。
+        grammar_highlight: false
+    reading: きょうをかぎりに、このがっこうともおわかれです。
+    credits_raw: deltafour
+    translations:
+      - language: en
+        text: After today I'll say goodbye to this school, too.
+        html: |-
+          <span>After today I'll say goodbye to this school, too. </span>
+        segments:
+          - text: 'After today I''ll say goodbye to this school, too. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8027
+    position: 1
+    japanese: その映画の上映は１５日を限りに打ち切られることとなった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e6%98%a0%e7%94%bb%e3%81%ae"><span>映画の</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e6%98%a0%e3%81%af"><span>上映は</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%ef%bc%95%e6%97%a5"><span>１５日</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e9%99%90%e3%82%8a%e3%81%ab"><strong>を限りに</strong></a><a href="https://takoboto.jp/?q=%e6%89%93%e3%81%a1"><span>打ち</span></a><a href="https://takoboto.jp/?q=%e5%88%87%e3%82%89%e3%82%8c%e3%82%8b%e3%81%93%e3%81%a8%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>切られることとなった。</span></a>
+    segments:
+      - text: その映画の上映は１５日
+        grammar_highlight: false
+      - text: を限りに
+        grammar_highlight: true
+      - text: 打ち切られることとなった。
+        grammar_highlight: false
+    reading: そのえいがのじょうえいは１５にちをかぎりにうちきられることとなった。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: That film was pulled just 15 days after it was first shown.
+        html: |-
+          <span>That film was pulled just 15 days after it was first shown. </span>
+        segments:
+          - text: 'That film was pulled just 15 days after it was first shown. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8028
+    position: 2
+    japanese: 人事部の山田さんは、明日を限りに退職します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%ba%ba%e4%ba%8b%e9%83%a8%e3%81%ae"><span>人事部の</span></a><a href="https://takoboto.jp/?q=%e5%b1%b1%e7%94%b0%e3%81%95%e3%82%93%e3%81%af%e3%80%81"><span>山田さんは、</span></a><a href="https://takoboto.jp/?q=%e6%98%8e%e6%97%a5"><span>明日</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e9%99%90%e3%82%8a%e3%81%ab"><strong>を限りに</strong></a><a href="https://takoboto.jp/?q=%e9%80%80%e8%81%b7%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>退職します。</span></a>
+    segments:
+      - text: 人事部の山田さんは、明日
+        grammar_highlight: false
+      - text: を限りに
+        grammar_highlight: true
+      - text: 退職します。
+        grammar_highlight: false
+    reading: じんじぶのやまださんは、あしたをかぎりにたいしょくします。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Mr. Yamada from personnel will quit this job as of tomorrow.
+        html: |-
+          <span>Mr. Yamada from personnel will quit this job as of tomorrow. </span>
+        segments:
+          - text: 'Mr. Yamada from personnel will quit this job as of tomorrow. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p6 - no.9'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p6 - no.9
+    credits_raw: LR
+    content_sha256: 99d12ee02816c0847c5fb6676b544e24faa43455b8e8f37e10e444e84021396e
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:45:21+00:00'
+response_sha256: 00d3aaf3bae10868acb83c0f2b9c1c346ba04a399d2622679ea37e3c6ecd3c01
+warnings: []

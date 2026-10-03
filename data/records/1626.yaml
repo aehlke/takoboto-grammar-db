@@ -1,0 +1,114 @@
+schema_version: 2
+id: 1626
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1626/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 出す、出して、出した
+romanized_label: dasu dashite dashita
+alternate_forms:
+  - だす、だして、だした
+jlpt_level: 3
+credits_raw: Daryn
+meaning: to pay, to place, to issue, to stick out, to put forth, to serve
+meaning_example: to pay, to place, to issue, to stick out, to put forth, to serve
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1626
+    body_text: |-
+      to pay, to place, to issue, to stick out, to put forth, to serve 
+       to pay, to place, to issue, to stick out, to put forth, to serve
+    body_html: |-
+      <span>to pay, to place, to issue, to stick out, to put forth, to serve</span> <br/> <span>to pay, to place, to issue, to stick out, to put forth, to serve</span>
+    credits_raw: Daryn
+formations: []
+examples:
+  - source_id: 8671
+    position: 0
+    japanese: まど　から　くび　を　だす。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%a9%e3%80%80%e3%81%8b%e3%82%89%e3%80%80%e3%81%8f%e3%81%b3%e3%80%80%e3%82%92%e3%80%80%e3%81%a0%e3%81%99%e3%80%82"><span>まど　から　くび　を　だす。</span></a>
+    segments:
+      - text: まど　から　くび　を　だす。
+        grammar_highlight: false
+    reading: まどからくをだす。
+    credits_raw: katchup
+    translations:
+      - language: en
+        text: Lean out the window.
+        html: |-
+          <span>Lean out the window. </span>
+        segments:
+          - text: 'Lean out the window. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8672
+    position: 1
+    japanese: わたし　の　かいしゃ　は　ほん　を　出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%80%80%e3%81%ae%e3%80%80%e3%81%8b%e3%81%84%e3%81%97%e3%82%83%e3%80%80%e3%81%af%e3%80%80%e3%81%bb%e3%82%93%e3%80%80%e3%82%92%e3%80%80"><span>わたし　の　かいしゃ　は　ほん　を　</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: わたし　の　かいしゃ　は　ほん　を　出した。
+        grammar_highlight: false
+    reading: わたしのかいしゃはほんをだした。
+    credits_raw: katchup
+    translations:
+      - language: en
+        text: My company published a book.
+        html: |-
+          <span>My company published a book. </span>
+        segments:
+          - text: 'My company published a book. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8673
+    position: 2
+    japanese: ごみ　を　出す。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%94%e3%81%bf%e3%80%80%e3%82%92%e3%80%80"><span>ごみ　を　</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%99%e3%80%82"><span>出す。</span></a>
+    segments:
+      - text: ごみ　を　出す。
+        grammar_highlight: false
+    reading: ごみをだす。
+    credits_raw: katchup
+    translations:
+      - language: en
+        text: Take out the garbage.
+        html: |-
+          <span>Take out the garbage. </span>
+        segments:
+          - text: 'Take out the garbage. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8754
+    position: 3
+    japanese: お金　を　出す　から　買って　ください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%80%80%e3%82%92%e3%80%80"><span>金　を　</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%99%e3%80%80%e3%81%8b%e3%82%89%e3%80%80"><span>出す　から　</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%a6%e3%80%80%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>買って　ください。</span></a>
+    segments:
+      - text: お金　を　出す　から　買って　ください。
+        grammar_highlight: false
+    reading: おかねをだすからかってください。
+    credits_raw: zalahuddin
+    translations:
+      - language: en
+        text: I will pay (for it), please buy it.
+        html: |-
+          <span>I will pay (for it), please buy it. </span>
+        segments:
+          - text: 'I will pay (for it), please buy it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:35:03+00:00'
+response_sha256: 44075c0c800aab65b08e846187241dd0d69816f604f5b65f0f7a8d476b1063fc
+warnings: []

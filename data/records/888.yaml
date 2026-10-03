@@ -1,0 +1,248 @@
+schema_version: 2
+id: 888
+source: takoboto
+source_url: https://takoboto.jp/bunpo/888/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ところ
+romanized_label: tokoro
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: place, time, occasion
+meaning_example: null
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_888
+    body_text: place, time, occasion
+    body_html: |-
+      <span>place, time, occasion</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 1106
+    position: 0
+    japanese: 今着いたところです
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a"><span>今</span></a><a href="https://takoboto.jp/?q=%e7%9d%80%e3%81%84%e3%81%9f"><span>着いた</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d"><strong>ところ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99"><span>です</span></a>
+    segments:
+      - text: 今着いた
+        grammar_highlight: false
+      - text: ところ
+        grammar_highlight: true
+      - text: です
+        grammar_highlight: false
+    reading: いまついたところです
+    credits_raw: dc
+    translations:
+      - language: en
+        text: 'I am just now arriving (Lit: now arrival time is)'
+        html: |-
+          <span>I </span><strong>am just now </strong><span>arriving </span><span>(Lit: now arrival time is) </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'am just now '
+            grammar_highlight: true
+          - text: 'arriving (Lit: now arrival time is) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1107
+    position: 1
+    japanese: このホテルは公共交通機関の点から見ると便利な所に位置している。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%9b%e3%83%86%e3%83%ab%e3%81%af"><span>このホテルは</span></a><a href="https://takoboto.jp/?q=%e5%85%ac%e5%85%b1%e4%ba%a4%e9%80%9a%e6%a9%9f%e9%96%a2%e3%81%ae"><span>公共交通機関の</span></a><a href="https://takoboto.jp/?q=%e7%82%b9%e3%81%8b%e3%82%89"><span>点から</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8b%e3%81%a8"><span>見ると</span></a><a href="https://takoboto.jp/?q=%e4%be%bf%e5%88%a9%e3%81%aa"><span>便利な</span></a><a href="https://takoboto.jp/?q=%e6%89%80"><strong>所</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e4%bd%8d%e7%bd%ae%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>位置している。</span></a>
+    segments:
+      - text: このホテルは公共交通機関の点から見ると便利な
+        grammar_highlight: false
+      - text: 所
+        grammar_highlight: true
+      - text: に位置している。
+        grammar_highlight: false
+    reading: このホテルはこうきょうこうつうきかんのてんからみるとべんりなところにいちしている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: This hotel is in a convenient place in terms of public transportation.
+        html: |-
+          <span>This hotel is in a convenient </span><strong>place </strong><span>in terms of public transportation. </span>
+        segments:
+          - text: 'This hotel is in a convenient '
+            grammar_highlight: false
+          - text: 'place '
+            grammar_highlight: true
+          - text: 'in terms of public transportation. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3465
+    position: 2
+    japanese: あなたはそれを終えましたか。それどこか、今始めたところです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%9d%e3%82%8c%e3%82%92"><span>あなたはそれを</span></a><a href="https://takoboto.jp/?q=%e7%b5%82%e3%81%88%e3%81%be%e3%81%97%e3%81%9f%e3%81%8b%e3%80%82%e3%81%9d%e3%82%8c%e3%81%a9%e3%81%93%e3%81%8b%e3%80%81"><span>終えましたか。それどこか、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e5%a7%8b%e3%82%81%e3%81%9f"><span>今始めた</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d"><strong>ところ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82"><span>です。</span></a>
+    segments:
+      - text: あなたはそれを終えましたか。それどこか、今始めた
+        grammar_highlight: false
+      - text: ところ
+        grammar_highlight: true
+      - text: です。
+        grammar_highlight: false
+    reading: あなたはそれをおえましたか。それどこか、いまはじめたところです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Have you finished it? On the contrary, I've just begun.
+        html: |-
+          <span>Have you finished it? On the contrary, I've just begun. </span>
+        segments:
+          - text: 'Have you finished it? On the contrary, I''ve just begun. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3466
+    position: 3
+    japanese: あなたは昨晩私が彼女と二人っきりでいるところを見つけて驚いたにちがいない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e6%98%a8%e6%99%a9%e7%a7%81%e3%81%8c"><span>昨晩私が</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%a8"><span>彼女と</span></a><a href="https://takoboto.jp/?q=%e4%ba%8c%e4%ba%ba%e3%81%a3%e3%81%8d%e3%82%8a%e3%81%a7%e3%81%84%e3%82%8b"><span>二人っきりでいる</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d"><strong>ところ</strong></a><a href="https://takoboto.jp/?q=%e3%82%92"><span>を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%a4%e3%81%91%e3%81%a6"><span>見つけて</span></a><a href="https://takoboto.jp/?q=%e9%a9%9a%e3%81%84%e3%81%9f%e3%81%ab%e3%81%a1%e3%81%8c%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>驚いたにちがいない。</span></a>
+    segments:
+      - text: あなたは昨晩私が彼女と二人っきりでいる
+        grammar_highlight: false
+      - text: ところ
+        grammar_highlight: true
+      - text: を見つけて驚いたにちがいない。
+        grammar_highlight: false
+    reading: あなたはさくばんわたしがかのじょとににんっきりでいるところをみつけておどろいたにちがいない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You must have been surprised to find me with her alone last night.
+        html: |-
+          <span>You must have been surprised to find me with her alone last night. </span>
+        segments:
+          - text: 'You must have been surprised to find me with her alone last night. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3467
+    position: 4
+    japanese: あなたは当分の間私のところにいても良い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e5%bd%93%e5%88%86%e3%81%ae"><span>当分の</span></a><a href="https://takoboto.jp/?q=%e9%96%93%e7%a7%81%e3%81%ae"><span>間私の</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d"><strong>ところ</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%84%e3%81%a6%e3%82%82"><span>にいても</span></a><a href="https://takoboto.jp/?q=%e8%89%af%e3%81%84%e3%80%82"><span>良い。</span></a>
+    segments:
+      - text: あなたは当分の間私の
+        grammar_highlight: false
+      - text: ところ
+        grammar_highlight: true
+      - text: にいても良い。
+        grammar_highlight: false
+    reading: あなたはとうぶんのまわたしのところにいてもよい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You may stay with me for the time being.
+        html: |-
+          <span>You may stay with me for the time being. </span>
+        segments:
+          - text: 'You may stay with me for the time being. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Use: to say you are just about to do something/ are in the middle of doing something, have just done some thing.
+      Formation： Verb Plain form +ところ
+
+      食べる　+　ところだ　I'm just about to eat
+      食べている　＋　ところだ I'm just in the middle of eating
+      食べた　+　ところだ I just eaten
+
+      Compare Verb Plain past form +ところ with Verb Plain past form + ばかり
+
+      たべた　ところだ　ＶＳ　たべた　ばかり　だ
+
+      〜ところだ　means literally at that moment
+      〜ばかりだ can have a time lapse. As in Would you like a coffee? "I've just had one (drank one before I came here)
+    html: |-
+      Use: to say you are just about to do something/ are in the middle of doing something, have just done some thing.<br/>Formation： Verb Plain form +ところ<br/><br/>食べる　+　ところだ　I'm just about to eat<br/>食べている　＋　ところだ I'm just in the middle of eating<br/>食べた　+　ところだ I just eaten<br/><br/>Compare Verb Plain past form +ところ with Verb Plain past form + ばかり<br/><br/>たべた　ところだ　ＶＳ　たべた　ばかり　だ<br/><br/>〜ところだ　means literally at that moment<br/>〜ばかりだ can have a time lapse. As in Would you like a coffee? "I've just had one (drank one before I came here)
+    credits_raw: leanne.nz
+    content_sha256: c494cb5347f29df6012828673010a1bfa86871d616f6a8bee2d90555ab9fa678
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: i changed the E trans to be a bit more literal and hilite the keyword.
+    html: i changed the E trans to be a bit more literal and hilite the keyword.
+    credits_raw: dc
+    content_sha256: 7dd8ef7cd437e2c319eb608487c2d8d474a6579dc78c1c35817ecf55824791f1
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: ところ in the first example and that in the second example has completely different meaning, like apples and oranges!
+    html: ところ in the first example and that in the second example has completely different meaning, like apples and oranges!
+    credits_raw: bamboo4
+    content_sha256: 4ab64fc4c46676e440639da799e2052ea5bd7359375a0467b765e80f6efc90c7
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: hmm, are they different enough to require different entries? i guess thats what you're saying..
+    html: hmm, are they different enough to require different entries? i guess thats what you're saying..
+    credits_raw: dc
+    content_sha256: 06efd0c77fe2bdb0f6e6e57e4df0fab11db1257879676f7f72690ec4a858542a
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Not necessarily. The commentary added to "tokoro" in linking it to "tokorode" should work.
+    html: Not necessarily. The commentary added to "tokoro" in linking it to "tokorode" should work.
+    credits_raw: bamboo4
+    content_sha256: afe28cbd3b5e93afea882e859dafc710d545de2fe269d5f45161f668b807326b
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: 'Lit: Located in a convenient place'
+    html: 'Lit: Located in a convenient place'
+    credits_raw: Amatuka
+    content_sha256: f1b067557e3db7e1bb26a456d7a63a3645ba453ba07c80a026759b8907633676
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      agreed. ex #1107 and ex #3467 mean "place". So it shouldn't be considered a grammar. So can be safely removed. ex #3466 has a quite different meaning from the remaining two. Here is 〜ところを : 〜という状況、場面（を）and + 動詞 at the back. 
+      〜たところ has two meanings:
+       1. ちょっと前に〜終わった, 今〜終わったばかり ； just (finished doin some action)
+       2. 〜たらその結果.... ；once one had just〜, then it is known that/found out that ....
+    html: |-
+      agreed. ex #1107 and ex #3467 mean "place". So it shouldn't be considered a grammar. So can be safely removed. ex #3466 has a quite different meaning from the remaining two. Here is 〜ところを : 〜という状況、場面（を）and + 動詞 at the back. <br/>〜たところ has two meanings:<br/> 1. ちょっと前に〜終わった, 今〜終わったばかり ； just (finished doin some action)<br/> 2. 〜たらその結果.... ；once one had just〜, then it is known that/found out that ....
+    credits_raw: 誠
+    content_sha256: 8e52a7ef75498b0196713ecf4520c42dfe0f233fc238a3c5b902eb73d7806f6d
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      In ex #3465, I think there the ろ being missed out in どころか,
+      それどころか、今始めたところです
+    html: |-
+      In ex #3465, I think there the ろ being missed out in どころか,<br/>それどころか、今始めたところです
+    credits_raw: 誠
+    content_sha256: 1f57b5b2fdae6ba59f0285869c8154cd2840d964835c082ab67015b92003fd3b
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 868
+    label: ところで
+    source_url: https://takoboto.jp/bunpo/868
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:39+00:00'
+response_sha256: c5dba8369822ecc345f0f0bab5ada0f465bf6abb3dfb88d67081a378c4fbb606
+warnings: []

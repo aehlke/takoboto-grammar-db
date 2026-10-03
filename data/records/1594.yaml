@@ -1,0 +1,295 @@
+schema_version: 2
+id: 1594
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1594/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜やら〜やら
+romanized_label: yara-yara
+alternate_forms: []
+jlpt_level: 2
+credits_raw: The General
+meaning: particle denoting uncertainty or a listing used for both words and clauses
+meaning_example: such as...and (?)
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1594
+    body_text: |-
+      particle denoting uncertainty or a listing used for both words and clauses 
+       such as...and (?)
+    body_html: |-
+      <span>particle denoting uncertainty or a listing used for both words and clauses</span> <br/> <span>such as...and (?)</span>
+    credits_raw: The General
+formations: []
+examples:
+  - source_id: 6157
+    position: 0
+    japanese: 帰国する前は飛行機のよやくをするやらおみやげを買うやらで忙しい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%b8%b0%e5%9b%bd%e3%81%99%e3%82%8b"><span>帰国する</span></a><a href="https://takoboto.jp/?q=%e5%89%8d%e3%81%af"><span>前は</span></a><a href="https://takoboto.jp/?q=%e9%a3%9b%e8%a1%8c%e6%a9%9f%e3%81%ae%e3%82%88%e3%82%84%e3%81%8f%e3%82%92%e3%81%99%e3%82%8b"><span>飛行機のよやくをする</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%bf%e3%82%84%e3%81%92%e3%82%92"><span>おみやげを</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%86"><span>買う</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7"><span>で</span></a><a href="https://takoboto.jp/?q=%e5%bf%99%e3%81%97%e3%81%84%e3%80%82"><span>忙しい。</span></a>
+    segments:
+      - text: 帰国する前は飛行機のよやくをする
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: おみやげを買う
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: で忙しい。
+        grammar_highlight: false
+    reading: きこくするまえはひこうきのよやくをするやらおみやげをかうやらでいそがしい。
+    credits_raw: sagittarius
+    translations:
+      - language: en
+        text: What with booking an airline and buying presents for everyone, I've been really busy before going home.
+        html: |-
+          <strong>What with </strong><span>booking an airline and buying presents for everyone, I've been really busy before going home. </span>
+        segments:
+          - text: 'What with '
+            grammar_highlight: true
+          - text: 'booking an airline and buying presents for everyone, I''ve been really busy before going home. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6459
+    position: 1
+    japanese: 宿題やらレポートやらで、のんびりする暇もない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ae%bf%e9%a1%8c"><span>宿題</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88"><span>レポート</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%80%81%e3%81%ae%e3%82%93%e3%81%b3%e3%82%8a%e3%81%99%e3%82%8b"><span>で、のんびりする</span></a><a href="https://takoboto.jp/?q=%e6%9a%87%e3%82%82%e3%81%aa%e3%81%84%e3%80%82"><span>暇もない。</span></a>
+    segments:
+      - text: 宿題
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: レポート
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: で、のんびりする暇もない。
+        grammar_highlight: false
+    reading: しゅくだいやらレポートやらで、のんびりするひまもない。
+    credits_raw: iritkav
+    translations:
+      - language: en
+        text: With all the homework and reports, I don't have a free leisure time.
+        html: |-
+          <strong>With all </strong><span>the homework and reports, I don't have a free leisure time. </span>
+        segments:
+          - text: 'With all '
+            grammar_highlight: true
+          - text: 'the homework and reports, I don''t have a free leisure time. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6788
+    position: 2
+    japanese: 彼女には、宝石やらバックやら、たくさんのプレゼントを買いましたよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ab%e3%81%af%e3%80%81"><span>彼女には、</span></a><a href="https://takoboto.jp/?q=%e5%ae%9d%e7%9f%b3"><span>宝石</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e3%83%90%e3%83%83%e3%82%af"><span>バック</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9f%e3%81%8f%e3%81%95%e3%82%93%e3%81%ae%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%e3%82%92"><span>、たくさんのプレゼントを</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%82%88%e3%80%82"><span>買いましたよ。</span></a>
+    segments:
+      - text: 彼女には、宝石
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: バック
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: 、たくさんのプレゼントを買いましたよ。
+        grammar_highlight: false
+    reading: かのじょには、ほうせきやらバックやら、たくさんのプレゼントをかいましたよ。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I bought lots of gifts for my girlfriend such as jewelry and bags.
+        html: |-
+          <span>I bought lots of gifts for my girlfriend </span><strong>such as </strong><span>jewelry </span><strong>and </strong><span>bags. </span>
+        segments:
+          - text: 'I bought lots of gifts for my girlfriend '
+            grammar_highlight: false
+          - text: 'such as '
+            grammar_highlight: true
+          - text: 'jewelry '
+            grammar_highlight: false
+          - text: 'and '
+            grammar_highlight: true
+          - text: 'bags. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8535
+    position: 3
+    japanese: 料理やら洗濯やら掃除で彼女の母は大変忙しかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%96%99%e7%90%86"><span>料理</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e6%b4%97%e6%bf%af%e3%82%84%e3%82%89"><span>洗濯やら</span></a><a href="https://takoboto.jp/?q=%e6%8e%83%e9%99%a4%e3%81%a7"><span>掃除で</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae"><span>彼女の</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%af"><span>母は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a4%89%e5%bf%99%e3%81%97%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>大変忙しかった。</span></a>
+    segments:
+      - text: 料理
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: 洗濯やら掃除で彼女の母は大変忙しかった。
+        grammar_highlight: false
+    reading: りょうりやらせんたくやらそうじでかのじょのはははたいへんいそがしかった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Between cooking, washing and cleaning, her mother was very busy.
+        html: |-
+          <span>Between cooking, washing and cleaning, her mother was very busy. </span>
+        segments:
+          - text: 'Between cooking, washing and cleaning, her mother was very busy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8536
+    position: 4
+    japanese: 暑いやらむしむしするやらで熟睡出来なかった
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9a%91%e3%81%84"><span>暑い</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e3%82%80%e3%81%97%e3%82%80%e3%81%97%e3%81%99%e3%82%8b"><span>むしむしする</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7"><span>で</span></a><a href="https://takoboto.jp/?q=%e7%86%9f%e7%9d%a1%e5%87%ba%e6%9d%a5%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f"><span>熟睡出来なかった</span></a>
+    segments:
+      - text: 暑い
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: むしむしする
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: で熟睡出来なかった
+        grammar_highlight: false
+    reading: あついやらむしむしするやらでじゅくすいできなかった
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Because of heat , humidity ... I could not sleep well.
+        html: |-
+          <span>Because of heat </span><strong>, </strong><span>humidity </span><strong>... </strong><span>I could not sleep well. </span>
+        segments:
+          - text: 'Because of heat '
+            grammar_highlight: false
+          - text: ', '
+            grammar_highlight: true
+          - text: 'humidity '
+            grammar_highlight: false
+          - text: '... '
+            grammar_highlight: true
+          - text: 'I could not sleep well. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6789
+    position: 5
+    japanese: ポケットにはハンカチやらガムやらが入っている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88%e3%81%ab%e3%81%af"><span>ポケットには</span></a><a href="https://takoboto.jp/?q=%e3%83%8f%e3%83%b3%e3%82%ab%e3%83%81"><span>ハンカチ</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e3%82%ac%e3%83%a0"><span>ガム</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%89"><strong>やら</strong></a><a href="https://takoboto.jp/?q=%e3%81%8c"><span>が</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>入っている。</span></a>
+    segments:
+      - text: ポケットにはハンカチ
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: ガム
+        grammar_highlight: false
+      - text: やら
+        grammar_highlight: true
+      - text: が入っている。
+        grammar_highlight: false
+    reading: ポケットにはハンカチやらガムやらがはいっている。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: In the pocket, there are handkerchief, chewing gum, among other things.
+        html: |-
+          <span>In the pocket, there are handkerchief, chewing gum, </span><strong>among other things. </strong>
+        segments:
+          - text: 'In the pocket, there are handkerchief, chewing gum, '
+            grammar_highlight: false
+          - text: 'among other things. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: I think it expresses feeling and a bit of a sense of that's bad/unfortunate?
+    html: I think it expresses feeling and a bit of a sense of that's bad/unfortunate?
+    credits_raw: Aes
+    content_sha256: 051690f85561b983fdbdb5b71b3f7cf6f386dc10fda8bda3c2be19b9242662b9
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: I'm confused. What is the difference between using 「やら、やら」 and 「や、 など」?
+    html: I'm confused. What is the difference between using 「やら、やら」 and 「や、 など」?
+    credits_raw: Nabeshin
+    content_sha256: 6f2a0deac51d9d1e8873461d14a838031f28c5dd21d02e46c9472dbfbaa781ba
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      I disagree, やら　やら　seems to translate into English as 'Things like...' or 'Do things like...' while や、や、など translates more accurately as 'and, and, etc.'
+
+      など states explicitely that there are further things in the category, やら やら only implies it.
+    html: |-
+      I disagree, やら　やら　seems to translate into English as 'Things like...' or 'Do things like...' while や、や、など translates more accurately as 'and, and, etc.'<br/><br/>など states explicitely that there are further things in the category, やら やら only implies it.
+    credits_raw: lou1sb
+    content_sha256: 7aecf36bee6d1105c1f78032a966984db01ed3fa1da9bf86c2afbaefef5d2851
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Is this a dialect? I have never heard it used in hokkaido or the tohoku area.
+    html: Is this a dialect? I have never heard it used in hokkaido or the tohoku area.
+    credits_raw: tigert
+    content_sha256: 81b68a459f28db525b483ab2526d30ce1c1ed6c3ef17d3d6e8f89b7f405372e2
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Apparently, 'やら' is similar to using 'や' or 'とか' but indicates less certainty, and also has other uses as well. For example:
+      "彼のクローゼットには、帽子やスカーフはありました。"
+      "In his closet, there were things like caps and scarves."
+      as opposed to:
+      "彼のクローゼットには、帽子やらスカーフはありました。"
+      "In his closet, (I'm fairly certain... I think) there were things like caps and scarves (or something like that)."
+
+      Although it apparently (according to The Handbook of Japanese Grammar by Harold G. Henderson) has other usages, in this case this is how it would be used. I heard it used in the sentence:
+      「試してみるのか？お前が言う光とやらの力を？」
+      I take this to mean:
+      "Are you trying this? The power of this(uncertain of meaning)light you speak of?"
+      Apparently とやら is the same as やら. I'm not really sure, there doesn't seem to be much info on this anywhere.
+      ***EDIT: とやら actually means "and the like" and works similarly to "nado" but once again, with less certainty and more of that "something-like-that" nuance. So the previous sentence actually should translate to:
+      "The power of this 'light' (and such/and the like/ and stuff like that) that you speak of."
+
+      To be honest, it sounds like "and stuff like that" would be the closest definition. The words you are listing are said with partial certainty, and like the previous commenter said, や and とか can often be translated to "and."
+    html: |-
+      Apparently, 'やら' is similar to using 'や' or 'とか' but indicates less certainty, and also has other uses as well. For example:<br/>"彼のクローゼットには、帽子やスカーフはありました。"<br/>"In his closet, there were things like caps and scarves."<br/>as opposed to:<br/>"彼のクローゼットには、帽子やらスカーフはありました。"<br/>"In his closet, (I'm fairly certain... I think) there were things like caps and scarves (or something like that)."<br/><br/>Although it apparently (according to The Handbook of Japanese Grammar by Harold G. Henderson) has other usages, in this case this is how it would be used. I heard it used in the sentence:<br/>「試してみるのか？お前が言う光とやらの力を？」<br/>I take this to mean:<br/>"Are you trying this? The power of this(uncertain of meaning)light you speak of?"<br/>Apparently とやら is the same as やら. I'm not really sure, there doesn't seem to be much info on this anywhere.<br/>***EDIT: とやら actually means "and the like" and works similarly to "nado" but once again, with less certainty and more of that "something-like-that" nuance. So the previous sentence actually should translate to:<br/>"The power of this 'light' (and such/and the like/ and stuff like that) that you speak of."<br/><br/>To be honest, it sounds like "and stuff like that" would be the closest definition. The words you are listing are said with partial certainty, and like the previous commenter said, や and とか can often be translated to "and."
+    credits_raw: Socky
+    content_sha256: a2b882dcab7e8b20328a2de7b95bfd8852a11e639952a6cc9a11010d8f4aba29
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      (If this goes through twice, sorry; I posted my response and then it left it blank for some reason, so I'll write it again.)
+
+      According to my professor, やら is kind of like ~かわからない.
+      In this case, it probably is something closer to か/かどうか.
+      For example:
+      わたしには何のことやらさっぱりわからない。
+    html: |-
+      (If this goes through twice, sorry; I posted my response and then it left it blank for some reason, so I'll write it again.)<br/><br/>According to my professor, やら is kind of like ~かわからない.<br/>In this case, it probably is something closer to か/かどうか.<br/>For example:<br/>わたしには何のことやらさっぱりわからない。
+    credits_raw: Syintaex
+    content_sha256: 499fad4376d247146be9a1b9e97cc2d708049f7b6e5bbf4b08b71046450eba3f
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:42:18+00:00'
+response_sha256: 429f6ae50de85ebdce67d35a37bb19519cc073c891646a37d96509b44fcae93e
+warnings: []

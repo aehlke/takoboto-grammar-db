@@ -24,7 +24,7 @@ The optional JGram supplement uses Internet Archive's Wayback Machine. Follow
 [the archive request rules](docs/archive.md) and any applicable Archive.org
 restrictions; Takoboto's permission does not authorize bypassing those rules.
 
-Downloading the released database or building exports from the committed JSON
+Downloading the released database or building exports from the committed YAML
 records requires no requests to Takoboto or Archive.org. Data redistribution
 follows [CC BY-SA 2.0](LICENSE-DATA.md), with [source and contributor credits](ATTRIBUTION.md).
 This project is independently maintained and does not claim official endorsement.

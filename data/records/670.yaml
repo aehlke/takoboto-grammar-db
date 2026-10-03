@@ -1,0 +1,465 @@
+schema_version: 2
+id: 670
+source: takoboto
+source_url: https://takoboto.jp/bunpo/670/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 気味
+romanized_label: gimi
+alternate_forms:
+  - ぎみ
+jlpt_level: 2
+credits_raw: dc
+meaning: Vm、N slight tendency toward, seems like, feels so..
+meaning_example: He is on the heavy side.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_670
+    body_text: |-
+      Vm、N slight tendency toward, seems like, feels so.. 
+       He is on the heavy side.
+    body_html: |-
+      <span>Vm、N slight tendency toward, seems like, feels so..</span> <br/> <span>He is on the heavy side.</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_670
+    body_text: Verb ます-stem+ぎみNoun+ぎみ
+    body_html: |-
+      <div><div><div>Verb ます-stem</div></div><div><div>+</div><div>ぎみ</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>ぎみ</div></div></div>
+    credits_raw: null
+formations:
+  - Verb ます-stem + ぎみ
+  - Noun + ぎみ
+examples:
+  - source_id: 107
+    position: 0
+    japanese: 風邪気味だから行きたくない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a2%a8%e9%82%aa"><span>風邪</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e5%91%b3"><strong>気味</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%8b%e3%82%89"><span>だから</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d%e3%81%9f%e3%81%8f%e3%81%aa%e3%81%84%e3%80%82"><span>行きたくない。</span></a>
+    segments:
+      - text: 風邪
+        grammar_highlight: false
+      - text: 気味
+        grammar_highlight: true
+      - text: だから行きたくない。
+        grammar_highlight: false
+    reading: かぜぎみだからいきたくない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I have a slight feeling that I (will) have a cold, so I don't want to go.
+        html: |-
+          <strong>I have a slight feeling </strong><span>that I (will) have a cold, so I don't want to go. </span>
+        segments:
+          - text: 'I have a slight feeling '
+            grammar_highlight: true
+          - text: 'that I (will) have a cold, so I don''t want to go. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 145
+    position: 1
+    japanese: 彼はいくぶん太り気味だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%84%e3%81%8f%e3%81%b6%e3%82%93"><span>彼はいくぶん</span></a><a href="https://takoboto.jp/?q=%e5%a4%aa%e3%82%8a"><span>太り</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e5%91%b3"><strong>気味</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%80%82"><span>だ。</span></a>
+    segments:
+      - text: 彼はいくぶん太り
+        grammar_highlight: false
+      - text: 気味
+        grammar_highlight: true
+      - text: だ。
+        grammar_highlight: false
+    reading: かれはいくぶんふとりぎみだ。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: He is on the heavy side.
+        html: |-
+          <span>He is </span><strong>on the </strong><span>heavy </span><span>side. </span>
+        segments:
+          - text: 'He is '
+            grammar_highlight: false
+          - text: 'on the '
+            grammar_highlight: true
+          - text: 'heavy side. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 146
+    position: 2
+    japanese: 風邪気味
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a2%a8%e9%82%aa"><span>風邪</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e5%91%b3"><strong>気味</strong></a>
+    segments:
+      - text: 風邪
+        grammar_highlight: false
+      - text: 気味
+        grammar_highlight: true
+    reading: かぜぎみ
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: feel sick.
+        html: |-
+          <span>feel sick. </span>
+        segments:
+          - text: 'feel sick. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5808
+    position: 3
+    japanese: 仕事が忙しくて最近少し疲れ気味だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%8c"><span>仕事が</span></a><a href="https://takoboto.jp/?q=%e5%bf%99%e3%81%97%e3%81%8f%e3%81%a6"><span>忙しくて</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e8%bf%91%e5%b0%91%e3%81%97"><span>最近少し</span></a><a href="https://takoboto.jp/?q=%e7%96%b2%e3%82%8c"><span>疲れ</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e5%91%b3"><strong>気味</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%80%82"><span>だ。</span></a>
+    segments:
+      - text: 仕事が忙しくて最近少し疲れ
+        grammar_highlight: false
+      - text: 気味
+        grammar_highlight: true
+      - text: だ。
+        grammar_highlight: false
+    reading: しごとがいそがしくてさいきんすこしつかれぎみだ。
+    credits_raw: Meghana
+    translations:
+      - language: en
+        text: Because I am busy with work, nowadays I feel little bit tired .
+        html: |-
+          <span>Because I am busy with work, nowadays </span><strong>I feel little bit </strong><span>tired </span><span>. </span>
+        segments:
+          - text: 'Because I am busy with work, nowadays '
+            grammar_highlight: false
+          - text: 'I feel little bit '
+            grammar_highlight: true
+          - text: 'tired . '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6028
+    position: 4
+    japanese: 私は最近太りぎみなのでジョギングを始めました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e8%bf%91"><span>最近</span></a><a href="https://takoboto.jp/?q=%e5%a4%aa%e3%82%8a"><span>太り</span></a><a href="https://takoboto.jp/?q=%e3%81%8e%e3%81%bf"><strong>ぎみ</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7%e3%82%b8%e3%83%a7%e3%82%ae%e3%83%b3%e3%82%b0%e3%82%92"><span>なのでジョギングを</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>始めました。</span></a>
+    segments:
+      - text: 私は最近太り
+        grammar_highlight: false
+      - text: ぎみ
+        grammar_highlight: true
+      - text: なのでジョギングを始めました。
+        grammar_highlight: false
+    reading: わたしはさいきんふとりぎみなのでジョギングをはじめました。
+    credits_raw: angelitosh2004
+    translations:
+      - language: en
+        text: I've taken up jogging because I feel I've gotten a bit heavy recently.
+        html: |-
+          <span>I've taken up jogging because </span><strong>I feel I've gotten a bit </strong><span>heavy </span><span>recently. </span>
+        segments:
+          - text: 'I''ve taken up jogging because '
+            grammar_highlight: false
+          - text: 'I feel I''ve gotten a bit '
+            grammar_highlight: true
+          - text: 'heavy recently. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6029
+    position: 5
+    japanese: 私の時計はおくれぎみなので、修理に出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e8%a8%88%e3%81%af"><span>時計は</span></a><a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%8f%e3%82%8c"><span>おくれ</span></a><a href="https://takoboto.jp/?q=%e3%81%8e%e3%81%bf"><strong>ぎみ</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7%e3%80%81"><span>なので、</span></a><a href="https://takoboto.jp/?q=%e4%bf%ae%e7%90%86%e3%81%ab"><span>修理に</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: 私の時計はおくれ
+        grammar_highlight: false
+      - text: ぎみ
+        grammar_highlight: true
+      - text: なので、修理に出した。
+        grammar_highlight: false
+    reading: わたしのとけいはおくれぎみなので、しゅうりにだした。
+    credits_raw: angelitosh2004
+    translations:
+      - language: en
+        text: My watch seemed to be running slow , so I took it in to be repaired.
+        html: |-
+          <span>My watch </span><strong>seemed to be </strong><span>running slow </span><span>, so I took it in to be repaired. </span>
+        segments:
+          - text: 'My watch '
+            grammar_highlight: false
+          - text: 'seemed to be '
+            grammar_highlight: true
+          - text: 'running slow , so I took it in to be repaired. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7054
+    position: 6
+    japanese: 新入社員は緊張気味の顔をしていた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%96%b0%e5%85%a5%e7%a4%be%e5%93%a1%e3%81%af"><span>新入社員は</span></a><a href="https://takoboto.jp/?q=%e7%b7%8a%e5%bc%b5"><span>緊張</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e5%91%b3"><strong>気味</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%81%9f%e3%80%82"><span>顔をしていた。</span></a>
+    segments:
+      - text: 新入社員は緊張
+        grammar_highlight: false
+      - text: 気味
+        grammar_highlight: true
+      - text: の顔をしていた。
+        grammar_highlight: false
+    reading: しんにゅうしゃいんはきんちょうぎみのかおをしていた。
+    credits_raw: lilibr
+    translations:
+      - language: en
+        text: The new employee looked a little bit nervous
+        html: |-
+          <span>The new employee looked a little bit nervous </span>
+        segments:
+          - text: 'The new employee looked a little bit nervous '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7107
+    position: 7
+    japanese: この所忙しくて少し疲れ気味だから、今日は早く帰る事にした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%89%80%e5%bf%99%e3%81%97%e3%81%8f%e3%81%a6"><span>所忙しくて</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><span>少し</span></a><a href="https://takoboto.jp/?q=%e7%96%b2%e3%82%8c"><span>疲れ</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e5%91%b3"><strong>気味</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%8b%e3%82%89%e3%80%81"><span>だから、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%af"><span>今日は</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e3%81%8f"><span>早く</span></a><a href="https://takoboto.jp/?q=%e5%b8%b0%e3%82%8b"><span>帰る</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%81%ab%e3%81%97%e3%81%9f%e3%80%82"><span>事にした。</span></a>
+    segments:
+      - text: この所忙しくて少し疲れ
+        grammar_highlight: false
+      - text: 気味
+        grammar_highlight: true
+      - text: だから、今日は早く帰る事にした。
+        grammar_highlight: false
+    reading: このところいそがしくてすこしつかれぎみだから、きょうははやくかえることにした。
+    credits_raw: Rollocoasta
+    translations:
+      - language: en
+        text: I've been feeling a bit tired recently, so I decided to go home early today.
+        html: |-
+          <span>I've been feeling a bit tired recently, so I decided to go home early today. </span>
+        segments:
+          - text: 'I''ve been feeling a bit tired recently, so I decided to go home early today. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7265
+    position: 8
+    japanese: 今朝は一寸風邪気味だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e6%9c%9d%e3%81%af"><span>今朝は</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%af%b8%e9%a2%a8%e9%82%aa"><span>一寸風邪</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e5%91%b3"><strong>気味</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%80%82"><span>だ。</span></a>
+    segments:
+      - text: 今朝は一寸風邪
+        grammar_highlight: false
+      - text: 気味
+        grammar_highlight: true
+      - text: だ。
+        grammar_highlight: false
+    reading: けさはちょっとかぜぎみだ。
+    credits_raw: IMABI
+    translations:
+      - language: en
+        text: I have a slight feeling of a cold this morning.
+        html: |-
+          <span>I have a </span><strong>slight feeling of a </strong><span>cold this morning. </span>
+        segments:
+          - text: 'I have a '
+            grammar_highlight: false
+          - text: 'slight feeling of a '
+            grammar_highlight: true
+          - text: 'cold this morning. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8168
+    position: 9
+    japanese: 彼は少し太り気味だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><span>少し</span></a><a href="https://takoboto.jp/?q=%e5%a4%aa%e3%82%8a"><span>太り</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e5%91%b3"><strong>気味</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%80%82"><span>だ。</span></a>
+    segments:
+      - text: 彼は少し太り
+        grammar_highlight: false
+      - text: 気味
+        grammar_highlight: true
+      - text: だ。
+        grammar_highlight: false
+    reading: かれはすこしふとりぎみだ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He is on the fat side.
+        html: |-
+          <span>He is on the fat side. </span>
+        segments:
+          - text: 'He is on the fat side. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6795
+    position: 10
+    japanese: 今日は風邪気味だから、家にいよう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%af"><span>今日は</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e9%82%aa"><span>風邪</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e5%91%b3"><strong>気味</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%8b%e3%82%89%e3%80%81"><span>だから、</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e3%81%ab%e3%81%84%e3%82%88%e3%81%86%e3%80%82"><span>家にいよう。</span></a>
+    segments:
+      - text: 今日は風邪
+        grammar_highlight: false
+      - text: 気味
+        grammar_highlight: true
+      - text: だから、家にいよう。
+        grammar_highlight: false
+    reading: きょうはかぜぎみだから、いえにいよう。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: Because I feel as if I caught cold today, I want to stay at home.
+        html: |-
+          <span>Because </span><strong>I feel as if </strong><span>I caught cold </span><span>today, I want to stay at home. </span>
+        segments:
+          - text: 'Because '
+            grammar_highlight: false
+          - text: 'I feel as if '
+            grammar_highlight: true
+          - text: 'I caught cold today, I want to stay at home. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      gimi
+
+      Verbs = V conjunctive form + 気味
+      疲れ気味
+
+      Nouns = N + 気味
+      きんちょうぎみ
+    html: |-
+      <b>gimi</b><br/><br/>Verbs = V conjunctive form + 気味<br/><strong>疲れ気味<br/><br/>Nouns = N + 気味<br/><strong>きんちょうぎみ </strong></strong>
+    credits_raw: hana
+    content_sha256: db0dc5f2456f5458d231f5ffc559d71c8e8fe5e3d55747188a0c6181b0d61f46
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Formed from verb-masu base + gimi
+      or from noun + gimi
+      Vm = Verb -masu base
+      N = noun
+    html: |-
+      Formed from verb-masu base + gimi<br/>or from noun + gimi<br/>Vm = Verb -masu base<br/>N = noun
+    credits_raw: Amatuka
+    content_sha256: b19f6092dff6e4de1e2284fe604928617d155db07649c5190631b3b22d5c950c
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      expresses a feeling that, although not serious at the moment, there seems to be a sign of or a tendency toward a particular condition, as in, feeling a cold coming on or sensing that one is a little overweight (see my examples above).
+    html: |-
+      expresses a feeling that, although not serious at the moment, there seems to be a sign of or a tendency toward a particular condition, as in, feeling a cold coming on or sensing that one is a little overweight (see my examples above).
+    credits_raw: angelitosh2004
+    content_sha256: b19295d9d4d685f719f5354d550312828ebca4b27fb6ff8c472773e958d4a594
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      how would you say 'I tend to slack off at work'?
+      (is this ok?「仕事やってるときに怠け者気味です」)
+    html: |-
+      how would you say 'I tend to slack off at work'?<br/>(is this ok?「仕事やってるときに怠け者気味です」)
+    credits_raw: EvilKyra
+    content_sha256: 896e4c1d52784fc066d6a69483f70905415983dfa22f69d245afb6de761e7db7
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Yes I am also interested in this question above, it seems right to me.
+
+      彼は哀しい気味です。He tends to be a bit sad
+      -ish. i know it's not correct English, but people still use "ish" to make words. Can it be used in this way with 気味？
+    html: |-
+      Yes I am also interested in this question above, it seems right to me.<br/><br/>彼は哀しい気味です。He tends to be a bit sad<br/>-ish. i know it's not correct English, but people still use "ish" to make words. Can it be used in this way with 気味？
+    credits_raw: anna.kendall
+    content_sha256: cd92892418c371533f6d169f6b76ee5c2229fb8ac5ddc66e2966009586976a41
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: So what is the difference between 「がち」and 「ぎみ」？
+    html: So what is the difference between 「がち」and 「ぎみ」？
+    credits_raw: erekose200
+    content_sha256: a883942fbe2248a92f0307fa7ea0c2592fb5ca1690bcff1b55f81d775997168c
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      The main difference between 「がち」and ぎみ is that 「がち」usually describes a general tendency in someone or something while 「ぎみ」describes a visible indication of a tendency. 
+      e.g. 1 田中は最近太りがちだ
+      Tanaka has a general tendency to gain weigh but is not necessarily overweight at the moment of speech。Compare with;
+      ２）田中は最近太り気味だ
+      Tanaka is showing signs of being overweight。
+
+      Also 「がち」Cannot express the idea of "a touch of" or " a little".
+      (taken from the Intermediate grammar dictionary)
+    html: |-
+      The main difference between 「がち」and ぎみ is that 「がち」usually describes a general tendency in someone or something while 「ぎみ」describes a visible indication of a tendency. <br/>e.g. 1 田中は最近太りがちだ<br/>Tanaka has a general tendency to gain weigh but is not necessarily overweight at the moment of speech。Compare with;<br/>２）田中は最近太り気味だ<br/>Tanaka is showing signs of being overweight。<br/><br/>Also 「がち」Cannot express the idea of "a touch of" or " a little".<br/>(taken from the Intermediate grammar dictionary)
+    credits_raw: bluntcrayon
+    content_sha256: cf28982c73a8aeb3513da438546367d73f817963099ffa3c8cf3082270e4ca85
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      does gimi work with adjectives?
+
+      like 暑い気味
+    html: |-
+      does gimi work with adjectives?<br/><br/>like 暑い気味
+    credits_raw: hungry-sumo
+    content_sha256: 97047fdc21362be8351e736f7f2efbf30f73bd03cc1fa492d3827113b092c668
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: gimi cannot be used with i-adjectives
+    html: gimi cannot be used with i-adjectives
+    credits_raw: geddoe
+    content_sha256: 50f74ca4fc53edc3b331e6b49cb3feed3b0c58350da5b93f390879b67d529c53
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: Feeling a little~
+    html: Feeling a little~
+    credits_raw: キツネ
+    content_sha256: 87a2dea26f71cff2c1143e0b48e3164102281f8c2e8cbcf456497c317e7a433e
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: Can I use 'i tend to like you'as "俺があなたの事を好き気味だ"?
+    html: Can I use 'i tend to like you'as "俺があなたの事を好き気味だ"?
+    credits_raw: Ren Riku
+    content_sha256: 56ad5b73a94e6a9d6b7d5bde13e42ed9a0f5208c94867ff8c40d9a456e745944
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: Awesome
+    html: Awesome
+    credits_raw: K
+    content_sha256: 3b826bcabf3557dfe0ccd101e0230e23166636db23a4d17507bff0ddf7f36659
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1530
+    label: っぽい
+    source_url: https://takoboto.jp/bunpo/1530
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:41:46+00:00'
+response_sha256: d779e29c8f1253588f1ec1a0b23d94d1af551d9f8957234af78ceeb8e505b428
+warnings: []

@@ -1,0 +1,95 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1638
+label: Naibakarika
+title_raw: ないばかりか ([ないばかりか] )(naibakarika)
+title: ないばかりか
+reading: ないばかりか
+romanized_label: naibakarika
+category: grammar
+jlpt_level_original: '2'
+meaning: Not only ないだけでなく
+meaning_example: He is not only talkative in the class moreover he disburbed other students
+credits_raw: makara
+source_url: http://jgram.org/pages/viewOne.php?tagE=Naibakarika
+archive_url: https://web.archive.org/web/20150225002547id_/http://jgram.org/pages/viewOne.php?tagE=Naibakarika
+archive_timestamp: '20150225002547'
+retrieved_at: '2026-10-03T16:10:24+00:00'
+archive_digest: UXG7TIDKLHH4HCXOKALGDRN2T3NRUTGM
+response_sha256: 4e118fd02f59630c127dffcd2fe227c44a6ef31c83ff93296359903f68cbd421
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 6550
+    position: 0
+    japanese: 彼は会社へ来ても仕事をしないばかりか女性社員としゃべってばかりいる。
+    body_text: "彼は会社へ来ても仕事をしないばかりか女性社員としゃべってばかりいる。 \n\n\t\tHe is \n\t\tnot only \n\t\tcome for not working moreover he is talking with other  ladies."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼は会社へ来ても仕事をしないばかりか\">\n\t\t\t\t彼は会社へ来ても仕事をし<strong>ないばかりか</strong><strong></strong>女性社員としゃべってばかりいる。</a> <br/>\n\t\tHe is \n\t\t<strong>not only </strong>\n\t\tcome for not working moreover he is talking with other  ladies."
+    credits_raw: makara
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6810
+    position: 1
+    japanese: 彼女は歌をよく歌えないばかりかピアノもよく弾けます。
+    body_text: "彼女は歌をよく歌えないばかりかピアノもよく弾けます。 \n\n\t\tShe not only sings well, but she also plays the piano well too."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女は歌をよく歌えないばかりかピアノもよく弾けます。\">\n\t\t\t\t彼女は歌をよく歌え<strong>ないばかりか</strong>ピアノもよく弾けます。<strong></strong></a> <br/>\n\t\tShe not only sings well, but she also plays the piano well too. \n\t\t<strong> </strong>"
+    credits_raw: anna.kendall
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "Is this entry active? \"Meaning\" doesn't look correct. neg + neg\n\r\nex#\x01 Japanese make sense. \n\r\nex#\x01 Japanese does not make sense.　suggestion1: 彼女はうまく歌えないばかりかピアノもよく弾けません。"
+    html: "Is this entry active? \"Meaning\" doesn't look correct. neg + neg<br/>\r\nex<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=Naibakarika#\x01\">#\x01</a></b> Japanese make sense. <br/>\r\nex<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=Naibakarika#\x01\">#\x01</a></b> Japanese does not make sense.　suggestion1: 彼女はうまく歌えないばかりかピアノもよく弾けません。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: ppmohapatra
+    text: "Completely agree with MikiSan.\n\r\nLet me give another suggestion.\n\r\n彼女は歌をよく歌うにもまして、ピアノもっとよく弾けます。\n\r\nMikiSan please review my suggestion."
+    html: "Completely agree with MikiSan.<br/>\r\nLet me give another suggestion.<br/>\r\n彼女は歌をよく歌うにもまして、ピアノもっとよく弾けます。<br/>\r\nMikiSan please review my suggestion."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: bakarika
+    label: bakarika
+    annotation_text: bakarika    (Is it useful to have 2 entries?) [赤毛]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=bakarika">bakarika</a>    (Is it useful to have 2 entries?) [<a href="http://jgram.org/pages/contributions.php?author=赤毛">赤毛</a>]
+    credits_raw: 赤毛
+sections:
+  - kind: header
+    text: |-
+      ないばかりか ([ないばかりか] )(naibakarika)
+          Meaning: Not only ないだけでなく
+          Example: He is not only talkative in the class moreover he disburbed other students
+          JLPT Level: 2
+          Category: grammar
+          Author: makara
+    html: |-
+      <span>ないばかりか ([ないばかりか] )(naibakarika)</span><br/>    <span><b>Meaning</b>: Not only ないだけでなく</span><br/>    <b>Example</b>: <i>He is not only talkative in the class moreover he disburbed other students</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>makara</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225002547'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 95438165
+  length: 5520
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 9d32679a0e874084f23c2a53f30c9a30f48b5c16177915703bb6b9cc36a0d0a5

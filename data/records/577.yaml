@@ -1,0 +1,757 @@
+schema_version: 2
+id: 577
+source: takoboto
+source_url: https://takoboto.jp/bunpo/577/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 下さい
+romanized_label: kudasai
+alternate_forms:
+  - ください
+jlpt_level: 4
+credits_raw: Amatuka
+meaning: please
+meaning_example: Please give me that
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_577
+    body_text: |-
+      please 
+       Please give me that
+    body_html: |-
+      <span>please</span> <br/> <span>Please give me that</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_577
+    body_text: て-form+くださいを+ください
+    body_html: |-
+      <div><div><div>て-form</div></div><div><div>+</div><div>ください</div></div></div><div><div><div>を</div></div><div><div>+</div><div>ください</div></div></div>
+    credits_raw: null
+formations:
+  - て-form + ください
+  - を + ください
+examples:
+  - source_id: 638
+    position: 0
+    japanese: それをください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%82%92"><span>それを</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84"><strong>ください</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: それを
+        grammar_highlight: false
+      - text: ください
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: それをください。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: That, please .
+        html: |-
+          <span>That, </span><strong>please </strong><span>. </span>
+        segments:
+          - text: 'That, '
+            grammar_highlight: false
+          - text: 'please '
+            grammar_highlight: true
+          - text: '. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 640
+    position: 1
+    japanese: 見せてください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%9b%e3%81%a6"><span>見せて</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84"><strong>ください</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 見せて
+        grammar_highlight: false
+      - text: ください
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: みせてください。
+    credits_raw: Amatuka, Dominicus
+    translations:
+      - language: en
+        text: Please  show me.
+        html: |-
+          <strong>Please </strong><span> show me. </span>
+        segments:
+          - text: 'Please '
+            grammar_highlight: true
+          - text: ' show me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4848
+    position: 2
+    japanese: あの方が言われる事を、何でもしてあげてください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c"><span>方が</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%82%8f%e3%82%8c%e3%82%8b"><span>言われる</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%82%92%e3%80%81"><span>事を、</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%a7%e3%82%82"><span>何でも</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%a6%e3%81%82%e3%81%92%e3%81%a6"><span>してあげて</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><strong>ください。</strong></a>
+    segments:
+      - text: あの方が言われる事を、何でもしてあげて
+        grammar_highlight: false
+      - text: ください。
+        grammar_highlight: true
+    reading: あのほうがいわれることを、なにでもしてあげてください。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Do whatever he tells you.
+        html: |-
+          <strong>Do </strong><span>whatever he tells you. </span>
+        segments:
+          - text: 'Do '
+            grammar_highlight: true
+          - text: 'whatever he tells you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4849
+    position: 3
+    japanese: みなさま、ようこそご搭乗くださいました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%bf%e3%81%aa%e3%81%95%e3%81%be%e3%80%81%e3%82%88%e3%81%86%e3%81%93%e3%81%9d"><span>みなさま、ようこそ</span></a><a href="https://takoboto.jp/?q=%e3%81%94"><span>ご</span></a><a href="https://takoboto.jp/?q=%e6%90%ad%e4%b9%97"><span>搭乗</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><strong>くださいました。</strong></a>
+    segments:
+      - text: みなさま、ようこそご搭乗
+        grammar_highlight: false
+      - text: くださいました。
+        grammar_highlight: true
+    reading: みなさま、ようこそごとうじょうくださいました。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Ladies and gentlemen, welcome aboard.
+        html: |-
+          <span>Ladies and gentlemen, </span><strong>welcome </strong><span>aboard. </span>
+        segments:
+          - text: 'Ladies and gentlemen, '
+            grammar_highlight: false
+          - text: 'welcome '
+            grammar_highlight: true
+          - text: 'aboard. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4850
+    position: 4
+    japanese: 「塩をとってください。」「はい、どうぞ。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e5%a1%a9%e3%82%92"><span>塩を</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%a3%e3%81%a6"><span>とって</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><strong>ください。</strong></a><a href="https://takoboto.jp/?q=%e3%80%8d%e3%80%8c%e3%81%af%e3%81%84%e3%80%81%e3%81%a9%e3%81%86%e3%81%9e%e3%80%82%e3%80%8d"><span>」「はい、どうぞ。」</span></a>
+    segments:
+      - text: 「塩をとって
+        grammar_highlight: false
+      - text: ください。
+        grammar_highlight: true
+      - text: 」「はい、どうぞ。」
+        grammar_highlight: false
+    reading: 「しおをとってください。」「はい、どうぞ。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"Pass me the salt, please". "Here you are".'
+        html: |-
+          <span>"Pass me the salt, </span><strong>please". </strong><span>"Here you are". </span>
+        segments:
+          - text: '"Pass me the salt, '
+            grammar_highlight: false
+          - text: 'please". '
+            grammar_highlight: true
+          - text: '"Here you are". '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4851
+    position: 5
+    japanese: 「芝生に入らないでください」という標識があった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e8%8a%9d%e7%94%9f%e3%81%ab"><span>芝生に</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%89%e3%81%aa%e3%81%84%e3%81%a7"><span>入らないで</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84"><strong>ください</strong></a><a href="https://takoboto.jp/?q=%e3%80%8d%e3%81%a8%e3%81%84%e3%81%86"><span>」という</span></a><a href="https://takoboto.jp/?q=%e6%a8%99%e8%ad%98%e3%81%8c%e3%81%82%e3%81%a3%e3%81%9f%e3%80%82"><span>標識があった。</span></a>
+    segments:
+      - text: 「芝生に入らないで
+        grammar_highlight: false
+      - text: ください
+        grammar_highlight: true
+      - text: 」という標識があった。
+        grammar_highlight: false
+    reading: 「しばふにはいらないでください」というひょうしきがあった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: There was a sign saying, "keep off the grass."
+        html: |-
+          <span>There was a sign saying, </span><strong>"keep </strong><span>off the grass." </span>
+        segments:
+          - text: 'There was a sign saying, '
+            grammar_highlight: false
+          - text: '"keep '
+            grammar_highlight: true
+          - text: 'off the grass." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4852
+    position: 6
+    japanese: 彼によろしくお伝えください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab%e3%82%88%e3%82%8d%e3%81%97%e3%81%8f"><span>彼によろしく</span></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e4%bc%9d%e3%81%88"><span>伝え</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><strong>ください。</strong></a>
+    segments:
+      - text: 彼によろしくお伝え
+        grammar_highlight: false
+      - text: ください。
+        grammar_highlight: true
+    reading: かれによろしくおつたえください。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Please give him my best regards.
+        html: |-
+          <strong>Please </strong><span>give him my best regards. </span>
+        segments:
+          - text: 'Please '
+            grammar_highlight: true
+          - text: 'give him my best regards. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4853
+    position: 7
+    japanese: ５時にお電話下さいませんか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%95%e6%99%82%e3%81%ab"><span>５時に</span></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1"><span>電話</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b%e3%80%82"><strong>下さいませんか。</strong></a>
+    segments:
+      - text: ５時にお電話
+        grammar_highlight: false
+      - text: 下さいませんか。
+        grammar_highlight: true
+    reading: ５じにおでんわくださいませんか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Would you please call me up at five o'clock?
+        html: |-
+          <strong>Would </strong><span>you </span><strong>please </strong><span>call me up at five o'clock? </span>
+        segments:
+          - text: 'Would '
+            grammar_highlight: true
+          - text: 'you '
+            grammar_highlight: false
+          - text: 'please '
+            grammar_highlight: true
+          - text: 'call me up at five o''clock? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4854
+    position: 8
+    japanese: あのビールをください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e3%83%93%e3%83%bc%e3%83%ab%e3%82%92"><span>ビールを</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><strong>ください。</strong></a>
+    segments:
+      - text: あのビールを
+        grammar_highlight: false
+      - text: ください。
+        grammar_highlight: true
+    reading: あのビールをください。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I'd like that beer, please.
+        html: |-
+          <strong>I'd like </strong><span>that beer, </span><strong>please. </strong>
+        segments:
+          - text: 'I''d like '
+            grammar_highlight: true
+          - text: 'that beer, '
+            grammar_highlight: false
+          - text: 'please. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4855
+    position: 9
+    japanese: あの窓を閉めてくださいませんか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e7%aa%93%e3%82%92"><span>窓を</span></a><a href="https://takoboto.jp/?q=%e9%96%89%e3%82%81%e3%81%a6"><span>閉めて</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b%e3%80%82"><strong>くださいませんか。</strong></a>
+    segments:
+      - text: あの窓を閉めて
+        grammar_highlight: false
+      - text: くださいませんか。
+        grammar_highlight: true
+    reading: あのまどをしめてくださいませんか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Would you be so kind as to shut that window?
+        html: |-
+          <strong>Would </strong><span>you be so kind as to shut that window? </span>
+        segments:
+          - text: 'Would '
+            grammar_highlight: true
+          - text: 'you be so kind as to shut that window? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4856
+    position: 10
+    japanese: この花を送ってくださったのは佐藤さんかもしれません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e8%8a%b1%e3%82%92"><span>花を</span></a><a href="https://takoboto.jp/?q=%e9%80%81%e3%81%a3%e3%81%a6"><span>送って</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%a3%e3%81%9f"><strong>くださった</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%af"><span>のは</span></a><a href="https://takoboto.jp/?q=%e4%bd%90%e8%97%a4%e3%81%95%e3%82%93%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>佐藤さんかもしれません。</span></a>
+    segments:
+      - text: この花を送って
+        grammar_highlight: false
+      - text: くださった
+        grammar_highlight: true
+      - text: のは佐藤さんかもしれません。
+        grammar_highlight: false
+    reading: このはなをおくってくださったのはさとうさんかもしれません。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It may have been Mr SATO who sent these flowers.
+        html: |-
+          <span>It may have been Mr SATO who </span><strong>sent </strong><span>these flowers. </span>
+        segments:
+          - text: 'It may have been Mr SATO who '
+            grammar_highlight: false
+          - text: 'sent '
+            grammar_highlight: true
+          - text: 'these flowers. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4857
+    position: 11
+    japanese: お母さんが私にかわいらしいお人形を買ってくださいました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%95%e3%82%93%e3%81%8c"><span>母さんが</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ab%e3%81%8b%e3%82%8f%e3%81%84%e3%82%89%e3%81%97%e3%81%84%e3%81%8a"><span>私にかわいらしいお</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e5%bd%a2%e3%82%92"><span>人形を</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%a6"><span>買って</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><strong>くださいました。</strong></a>
+    segments:
+      - text: お母さんが私にかわいらしいお人形を買って
+        grammar_highlight: false
+      - text: くださいました。
+        grammar_highlight: true
+    reading: おかあさんがわたしにかわいらしいおにんぎょうをかってくださいました。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Mom bought a pretty doll for me.
+        html: |-
+          <span>Mom </span><strong>bought </strong><span>a pretty doll for me. </span>
+        segments:
+          - text: 'Mom '
+            grammar_highlight: false
+          - text: 'bought '
+            grammar_highlight: true
+          - text: 'a pretty doll for me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4858
+    position: 12
+    japanese: ようこそパーティーにお越しくださいました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%93%e3%81%9d%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc%e3%81%ab"><span>ようこそパーティーに</span></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e8%b6%8a%e3%81%97"><span>越し</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><strong>くださいました。</strong></a>
+    segments:
+      - text: ようこそパーティーにお越し
+        grammar_highlight: false
+      - text: くださいました。
+        grammar_highlight: true
+    reading: ようこそパーティーにおこしくださいました。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I'm glad you could come to the party.
+        html: |-
+          <span>I'm glad you </span><strong>could come </strong><span>to the party. </span>
+        segments:
+          - text: 'I''m glad you '
+            grammar_highlight: false
+          - text: 'could come '
+            grammar_highlight: true
+          - text: 'to the party. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8240
+    position: 13
+    japanese: カードをもう一枚ください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%ab%e3%83%bc%e3%83%89%e3%82%92%e3%82%82%e3%81%86"><span>カードをもう</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%9e%9a"><span>一枚</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84"><strong>ください</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: カードをもう一枚
+        grammar_highlight: false
+      - text: ください
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: カードをもういちまいください。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Give me one more card, please 。
+        html: |-
+          <span>Give me one more card, </span><strong>please </strong><span>。 </span>
+        segments:
+          - text: 'Give me one more card, '
+            grammar_highlight: false
+          - text: 'please '
+            grammar_highlight: true
+          - text: '。 '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8241
+    position: 14
+    japanese: ビール二本ください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%93%e3%83%bc%e3%83%ab"><span>ビール</span></a><a href="https://takoboto.jp/?q=%e4%ba%8c%e6%9c%ac"><span>二本</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84"><strong>ください</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ビール二本
+        grammar_highlight: false
+      - text: ください
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ビールにほんください。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Two beers, please 。
+        html: |-
+          <span>Two beers, </span><strong>please </strong><span>。 </span>
+        segments:
+          - text: 'Two beers, '
+            grammar_highlight: false
+          - text: 'please '
+            grammar_highlight: true
+          - text: '。 '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8242
+    position: 15
+    japanese: 何か飲み物を下さい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8b"><span>何か</span></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%81%bf"><span>飲み</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%82%92"><span>物を</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84"><strong>下さい</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 何か飲み物を
+        grammar_highlight: false
+      - text: 下さい
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: なにかのみものをください。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I`d like something to drink.
+        html: |-
+          <span>I`d like something to drink. </span>
+        segments:
+          - text: 'I`d like something to drink. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8243
+    position: 16
+    japanese: 万一留守中にだれかが訪ねて来たらすぐにもどると伝えください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%87%e4%b8%80%e7%95%99%e5%ae%88%e4%b8%ad%e3%81%ab%e3%81%a0%e3%82%8c%e3%81%8b%e3%81%8c"><span>万一留守中にだれかが</span></a><a href="https://takoboto.jp/?q=%e8%a8%aa%e3%81%ad%e3%81%a6"><span>訪ねて</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%81%9f%e3%82%89%e3%81%99%e3%81%90%e3%81%ab%e3%82%82%e3%81%a9%e3%82%8b%e3%81%a8"><span>来たらすぐにもどると</span></a><a href="https://takoboto.jp/?q=%e4%bc%9d%e3%81%88"><span>伝え</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84"><strong>ください</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 万一留守中にだれかが訪ねて来たらすぐにもどると伝え
+        grammar_highlight: false
+      - text: ください
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: まんいちるすちゅうにだれかがたずねてきたらすぐにもどるとつたえください。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: If anyone should call while I`m out, please tell them (him/her) I`ll be back soon.
+        html: |-
+          <span>If anyone should call while I`m out, </span><strong>please </strong><span>tell them (him/her) I`ll be back soon. </span>
+        segments:
+          - text: 'If anyone should call while I`m out, '
+            grammar_highlight: false
+          - text: 'please '
+            grammar_highlight: true
+          - text: 'tell them (him/her) I`ll be back soon. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8244
+    position: 17
+    japanese: 彼女が来るかどうか知らせてください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c"><span>彼女が</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%82%8b%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b"><span>来るかどうか</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%81%9b%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>知らせてください。</span></a>
+    segments:
+      - text: 彼女が来るかどうか知らせてください。
+        grammar_highlight: false
+    reading: かのじょがくるかどうかしらせてください。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Let me know if she is coming.
+        html: |-
+          <span>Let me know if she is coming. </span>
+        segments:
+          - text: 'Let me know if she is coming. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8245
+    position: 18
+    japanese: どうぞうお入りください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%81%9e%e3%81%86%e3%81%8a"><span>どうぞうお</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8a%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>入りください。</span></a>
+    segments:
+      - text: どうぞうお入りください。
+        grammar_highlight: false
+    reading: どうぞうおはいりください。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Please come in.
+        html: |-
+          <span>Please come in. </span>
+        segments:
+          - text: 'Please come in. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8246
+    position: 19
+    japanese: お名前が聞きとれませんでした。　もう一度言ってください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e5%90%8d%e5%89%8d%e3%81%8c"><span>名前が</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%8d%e3%81%a8%e3%82%8c%e3%81%be%e3%81%9b%e3%82%93%e3%81%a7%e3%81%97%e3%81%9f%e3%80%82%e3%80%80%e3%82%82%e3%81%86"><span>聞きとれませんでした。　もう</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%ba%a6%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>一度言ってください。</span></a>
+    segments:
+      - text: お名前が聞きとれませんでした。　もう一度言ってください。
+        grammar_highlight: false
+    reading: おなまえがききとれませんでした。もういちどいってください。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I didn`t catch your name. Repeat it, please.
+        html: |-
+          <span>I didn`t catch your name. Repeat it, please. </span>
+        segments:
+          - text: 'I didn`t catch your name. Repeat it, please. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8247
+    position: 20
+    japanese: これをどうやったらよいか教えてくださいませんか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%82%92%e3%81%a9%e3%81%86%e3%82%84%e3%81%a3%e3%81%9f%e3%82%89%e3%82%88%e3%81%84%e3%81%8b"><span>これをどうやったらよいか</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b"><span>教えてくださいませんか</span></a>
+    segments:
+      - text: これをどうやったらよいか教えてくださいませんか
+        grammar_highlight: false
+    reading: これをどうやったらよいかおしえてくださいませんか
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Could you show me how to do this?
+        html: |-
+          <span>Could you show me how to do this? </span>
+        segments:
+          - text: 'Could you show me how to do this? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      [kudasai] is an auxiliary verb which indicates a polite request: "please do"
+
+      1) kudasai is a polite imperative form of [kudasaru], the honorofic version of [kureru] 'give'(me) and is used as an auxiliary verb with the te-form of verbs.
+      　ゆっくり飲んでください。
+      　please drink slowly/at your own pace
+
+      2) The negtative question form [kudasaimasenka] makes a request more polite　
+      　あした８時に来てくださいませんか。
+      　Won't you come tomorrow at 8 O'Clock?
+
+      3) [douzo] emphasizes the speakers request and makes it more polite.
+      　どうぞたくさん食べてください。
+      　Go ahead please, and eat as much as you like
+
+      4) In very informal speech, kudasai may drop(this form of request is often used by female speakers)
+      　はやく言って。
+      　go on say it (please)
+
+      　まだ帰らないで。
+      　dont come back yet (please)
+
+      5) [kure], the imperative form of kureru, can also be used in place of kudasai in informal male speech.[Vte/Vneg nai de] kure is the least polite request form.
+      　いっしょに来てくれ。
+      　can you come together (for me?)
+       (=can you let me go with you?)
+
+      　うちへ帰らないでくれ。
+       don't come back to our place (OK?)
+    html: |-
+      [kudasai] is an auxiliary verb which indicates a polite request: "please do"<br/><br/>1) kudasai is a polite imperative form of [kudasaru], the honorofic version of [kureru] 'give'(me) and is used as an auxiliary verb with the te-form of verbs.<br/>　ゆっくり飲んでください。<br/>　please drink slowly/at your own pace<br/><br/>2) The negtative question form [kudasaimasenka] makes a request more polite　<br/>　あした８時に来てくださいませんか。<br/>　Won't you come tomorrow at 8 O'Clock?<br/><br/>3) [douzo] emphasizes the speakers request and makes it more polite.<br/>　どうぞたくさん食べてください。<br/>　Go ahead please, and eat as much as you like<br/><br/>4) In very informal speech, kudasai may drop(this form of request is often used by female speakers)<br/>　はやく言って。<br/>　go on say it (please)<br/><br/>　まだ帰らないで。<br/>　dont come back yet (please)<br/><br/>5) [kure], the imperative form of kureru, can also be used in place of kudasai in informal male speech.[Vte/Vneg nai de] kure is the least polite request form.<br/>　いっしょに来てくれ。<br/>　can you come together (for me?)<br/> (=can you let me go with you?)<br/><br/>　うちへ帰らないでくれ。<br/> don't come back to our place (OK?)
+    credits_raw: ramu
+    content_sha256: d5eb5983627cf4ea730937a96a682e5501dd17e059d25c6d6de3bbbb50adc7d8
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'Note : The object marker を is said ''o'' but may be written as either ''wo'' or ''o'' depending on romaji system used.'
+    html: 'Note : The object marker を is said ''o'' but may be written as either ''wo'' or ''o'' depending on romaji system used.'
+    credits_raw: Amatuka
+    content_sha256: 5dd52c277daaab2273c57e9f0fb52dd7fcb4157b6665bbff4b300270c45da4fe
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      ください can be used in two ways.
+      1. To ask for an object をください ( wo kudasai )
+      2. To ask for an action verb-te ください (v-te kudasai).
+    html: |-
+      ください can be used in two ways.<br/>1. To ask for an object をください ( wo kudasai )<br/>2. To ask for an action verb-te ください (v-te kudasai).
+    credits_raw: Amatuka
+    content_sha256: 7d154a63b29cf54b9ea768e3aa06771928b5c4026474daa34b4a85dff619f088
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Note みせる (miseru) is the dictionary form of the verb meaning 'to show'.
+      みせて (misete) is the te form of the verb meaning 'to show'.
+    html: |-
+      Note みせる (miseru) is the dictionary form of the verb meaning 'to show'.<br/>みせて (misete) is the te form of the verb meaning 'to show'.
+    credits_raw: Amatuka
+    content_sha256: 14cb9ebd44fa97b7c91c0b0a4a323619087c75dcf7f7fa1da927074a35eb5328
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: i translated the examples in the notes above, can a native speaker please check?
+    html: i translated the examples in the notes above, can a native speaker please check?
+    credits_raw: dc
+    content_sha256: 58db324d17c16555eca334f1557c8aae7750beb05d6ba40012e0d7dfd43f34cb
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: what in level four grammar list(kanji and fuu )are not in level 4 JLPT syllabus.please check.
+    html: what in level four grammar list(kanji and fuu )are not in level 4 JLPT syllabus.please check.
+    credits_raw: ramu
+    content_sha256: 84e700ebc2d16ca0b0be45bc1b61abdbcfe040ae6dd8467f6ce3880ec76410b4
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: ramu - I don't understand your question? you want us to check all the JLPT4 items?
+    html: ramu - I don't understand your question? you want us to check all the JLPT4 items?
+    credits_raw: dc
+    content_sha256: 7ded048b1c3a0c7f4321fa81f7bd79d527ee03c5c1058c612c5aebf84ce29130
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      dear Dc every year JLPT test administrative comitte publishing syllabus of JLPT all levels exams.what i said before (kanji and fuu) these grammar points are not in JLPT level 4 syllabus.
+    html: |-
+      dear Dc every year JLPT test administrative comitte publishing syllabus of JLPT all levels exams.what i said before (kanji and fuu) these grammar points are not in JLPT level 4 syllabus.
+    credits_raw: ramu
+    content_sha256: bda25025d9a38e70db0dbf06852fa7816502952a07c947febe382b50ba46c0f9
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: ramu, did you check all syllabus of all levels? すごいね。So what level do you think this or other entries would be?
+    html: ramu, did you check all syllabus of all levels? すごいね。So what level do you think this or other entries would be?
+    credits_raw: Miki
+    content_sha256: 7f1e0f8fc3279765e6d94b71016ca4de8f4ea2af4a39aa16ea6c2d0740cf0342
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      kanji and fuu not listed in jlpt levels,but level miki,tow text books we can find "fuu" in intermediate level text books."kanji" is not listed in level one syllabus but i think for facing listening nad reading comprahension aprts its better to know the the student of level one
+    html: |-
+      kanji and fuu not listed in jlpt levels,but level miki,tow text books we can find "fuu" in intermediate level text books."kanji" is not listed in level one syllabus but i think for facing listening nad reading comprahension aprts its better to know the the student of level one
+    credits_raw: ramu
+    content_sha256: 774eb27be1a8ecede4f8b948e972f0ea1bc7f84a0f405d200b5bff1dd4ac1cde
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: i changed this level 3 then for now. i thot 下さい is one of the first words one learns...
+    html: i changed this level 3 then for now. i thot 下さい is one of the first words one learns...
+    credits_raw: dc
+    content_sha256: 16b5d48a20e0ab975d70041995fd331628e94400de86e2b0abacb705fbe67a46
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      indigoharp noted on Tae Kim's Japanese Guide forums that くれ is not only the least polite form, but might actually be offensive:
+
+      http://www.guidetojapanese.org/forum/viewtopic.php?pid=10832#p10832
+    html: |-
+      indigoharp noted on Tae Kim's Japanese Guide forums that くれ is not only the least polite form, but might actually be offensive:<br/><br/>http://www.guidetojapanese.org/forum/viewtopic.php?pid=10832#p10832
+    credits_raw: pazustep
+    content_sha256: 25530129e471dc56066dff559524f9670a91a99adf74b87317ffd4e50e14cd9a
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      In a 少し example (#4927), 「水を少しくださし。」「いいですよ。」, くださし is written instead of ください. Is this a typo or is there a reason for it?
+    html: |-
+      In a 少し example (#4927), 「水を少しくださし。」「いいですよ。」, くださし is written instead of ください. Is this a typo or is there a reason for it?
+    credits_raw: darkseed
+    content_sha256: 32adc04e78127bb4aa1bb82b46dc35d141401e0d67a9783d177c80a1e133e392
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      This entry seems to have been tuned from level 4 to level 2. It seems to easy to be level 2. Please tune it back to level 3. どうぞ三級に戻って下さいませんか。
+    html: |-
+      This entry seems to have been tuned from level 4 to level 2. It seems to easy to be level 2. Please tune it back to level 3. どうぞ三級に戻って下さいませんか。
+    credits_raw: 赤毛
+    content_sha256: ac021ca907706ac466b701c0d16e90b34a00678181fd4326468561098cf02723
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      I went through the examples and replaced 下 with くだ. Japanese manuals of style say to use the kanji with NOUNを下さい, contrasted with the TE-form VERBてください, in which you do not use the kanji.
+
+      It's not technically incorrect, but it's preferred, similar to how in English spelling out zero through ten is preferred, but using numbers for values greater than ten is preferred.
+    html: |-
+      I went through the examples and replaced 下 with くだ. Japanese manuals of style say to use the kanji with NOUNを下さい, contrasted with the TE-form VERBてください, in which you do not use the kanji.<br/><br/>It's not technically incorrect, but it's preferred, similar to how in English spelling out zero through ten is preferred, but using numbers for values greater than ten is preferred.
+    credits_raw: KyleGoetz
+    content_sha256: 11399f3b4ea59952565028cfce578be0ce6be167623b624d82a7a2b91a8a6ae4
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: |-
+      How does onegai compare to kudasai in usage? Can a description and demonstration be added into this article, or does it need a separate page?
+    html: |-
+      How does onegai compare to kudasai in usage? Can a description and demonstration be added into this article, or does it need a separate page?
+    credits_raw: enkephalin07
+    content_sha256: 5aabb109ef9b6d5596e26246e7b13f4a35ae20cb49230f8fb99ff74d75dabd1a
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 658
+    label: なさい
+    source_url: https://takoboto.jp/bunpo/658
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:12+00:00'
+response_sha256: 7a38d677b7e15495bc996292a77984ce5e27e42556ee4fb6c621ae3699fe3bcd
+warnings: []

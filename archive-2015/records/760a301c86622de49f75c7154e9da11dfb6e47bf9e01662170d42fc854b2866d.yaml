@@ -1,0 +1,48 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1424
+label: suru hitsuyou ga
+title_raw: する必要が　( するひつようが ) [する必要が　( するひつようが )] (suru hitsuyou ga)
+title: する必要が　( するひつようが )
+reading: する必要が　( するひつようが )
+romanized_label: suru hitsuyou ga
+category: lesson
+jlpt_level_original: '0'
+meaning: Things that must be done (or not)
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org/pages/viewOne.php?tagE=suru%20hitsuyou%20ga
+archive_url: https://web.archive.org/web/20150225004415id_/http://jgram.org/pages/viewOne.php?tagE=suru%20hitsuyou%20ga
+archive_timestamp: '20150225004415'
+retrieved_at: '2026-10-03T16:11:05+00:00'
+archive_digest: R2Y3JIBCDCK6SH6IBH4YLJ2ZXT5UTXRF
+response_sha256: eabfc82425b423bb04120c2402f5a86c865b649b4866a04110a59e6436770b67
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "する必要が　( するひつようが ) [する必要が　( するひつようが )] (suru hitsuyou ga)\n    Meaning: Things that must be done (or not) \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>する必要が　( するひつようが ) [する必要が　( するひつようが )] (suru hitsuyou ga)</span><br/>    <span><b>Meaning</b>: Things that must be done (or not) </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225004415'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 109200243
+  length: 4821
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 8e66994245e657ab1bcccc24e18324dab1032d5afc6b90bb6b6bf6599d2d8191

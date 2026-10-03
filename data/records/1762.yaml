@@ -1,0 +1,101 @@
+schema_version: 2
+id: 1762
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1762/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 見た目はともかく
+romanized_label: mitamewatomokaku
+alternate_forms:
+  - みためはともかく
+jlpt_level: 2
+credits_raw: expandover
+meaning: Whether (it/he/she~) is~~~or not,
+meaning_example: Whether it looks good or not,...........
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1762
+    body_text: |-
+      Whether (it/he/she~) is~~~or not, 
+       Whether it looks good or not,...........
+    body_html: |-
+      <span>Whether (it/he/she~) is~~~or not,</span> <br/> <span>Whether it looks good or not,...........</span>
+    credits_raw: expandover
+formations: []
+examples:
+  - source_id: 8078
+    position: 0
+    japanese: あの女優は、顔はともかくとして演技がすばらしい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e5%a5%b3%e5%84%aa%e3%81%af%e3%80%81"><span>女優は、</span></a><a href="https://takoboto.jp/?q=%e9%a1%94"><span>顔</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%a8%e3%82%82%e3%81%8b%e3%81%8f%e3%81%a8%e3%81%97%e3%81%a6"><strong>はともかくとして</strong></a><a href="https://takoboto.jp/?q=%e6%bc%94%e6%8a%80%e3%81%8c%e3%81%99%e3%81%b0%e3%82%89%e3%81%97%e3%81%84%e3%80%82"><span>演技がすばらしい。</span></a>
+    segments:
+      - text: あの女優は、顔
+        grammar_highlight: false
+      - text: はともかくとして
+        grammar_highlight: true
+      - text: 演技がすばらしい。
+        grammar_highlight: false
+    reading: あのじょゆうは、かおはともかくとしてえんぎがすばらしい。
+    credits_raw: expandover
+    translations:
+      - language: en
+        text: Whether she is a good looking or not, she is a great actress.
+        html: |-
+          <strong>Whether </strong><span>she is a good looking or not, she is a great actress. </span>
+        segments:
+          - text: 'Whether '
+            grammar_highlight: true
+          - text: 'she is a good looking or not, she is a great actress. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8079
+    position: 1
+    japanese: 母の料理は見た目はともかく味は美味しい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%ae"><span>母の</span></a><a href="https://takoboto.jp/?q=%e6%96%99%e7%90%86%e3%81%af"><span>料理は</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%9f%e7%9b%ae%e3%81%af%e3%81%a8%e3%82%82%e3%81%8b%e3%81%8f"><strong>見た目はともかく</strong></a><a href="https://takoboto.jp/?q=%e5%91%b3%e3%81%af"><span>味は</span></a><a href="https://takoboto.jp/?q=%e7%be%8e%e5%91%b3%e3%81%97%e3%81%84%e3%80%82"><span>美味しい。</span></a>
+    segments:
+      - text: 母の料理は
+        grammar_highlight: false
+      - text: 見た目はともかく
+        grammar_highlight: true
+      - text: 味は美味しい。
+        grammar_highlight: false
+    reading: ははのりょうりはみためはともかくあじはおいしい。
+    credits_raw: expandover
+    translations:
+      - language: en
+        text: My mother's cooking is delicious, whether it looks good or not.
+        html: |-
+          <span>My mother's cooking is delicious, </span><strong>whether </strong><span>it looks good or not. </span>
+        segments:
+          - text: 'My mother''s cooking is delicious, '
+            grammar_highlight: false
+          - text: 'whether '
+            grammar_highlight: true
+          - text: 'it looks good or not. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      This is used with:
+      Noun は ともかく Noun は/が.......... 
+      Also you can add として after ともかく:
+      Noun は ともかく[として] Noun は/が..........
+    html: |-
+      This is used with:<br/>Noun は ともかく Noun は/が.......... <br/>Also you can add として after ともかく:<br/>Noun は ともかく[として] Noun は/が..........
+    credits_raw: expandover
+    content_sha256: 09a087007a3f6886a7945d7315d15d2c6b025ecef5a4947bc0407134f454d8b1
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:40:15+00:00'
+response_sha256: 00aed660de0a6816a71e399b40ae1bdc2e49dda92f678cafda3bb96900590480
+warnings: []

@@ -1,0 +1,332 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1309
+label: shidai
+title_raw: 次第 [しだい] (shidai)
+title: 次第
+reading: しだい
+romanized_label: shidai
+category: grammar
+jlpt_level_original: '2'
+meaning: as soon as; depending on
+meaning_example: As soon as i get to India, I will call you.
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=shidai
+archive_url: https://web.archive.org/web/20150224225533id_/http://jgram.org/pages/viewOne.php?tagE=shidai
+archive_timestamp: '20150224225533'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: LL3QA2KC77OIA2YPRH5QVTC3ONT5OC2U
+response_sha256: 4a6d8eff9ec81e23ec31a6b289ae3cfa2976e8f8ac265c556a98bb90868dae20
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "次第: as soon as; if 〜, then immediately 〜.\n\r\nThis grammar implies a planned sequence of actions. It does NOT imply a surprising result. As a result, this grammar cannot be used with the past tense.\n\n\n\r\nＶ(ます form MINUS ます) + 次第\n\n\n\r\n次第で(は) or 次第だ: depends on; is decided by; changes depending on.\n\n\n\r\nＮ + 次第だ・次第で(は)"
+    html: "次第: as soon as; if 〜, then immediately 〜.<br/>\r\nThis grammar implies a planned sequence of actions. It does NOT imply a surprising result. As a result, this grammar cannot be used with the past tense.<br/>\n<br/>\r\nＶ(ます form MINUS ます) + 次第<br/>\n<br/>\r\n次第で(は) or 次第だ: depends on; is decided by; changes depending on.<br/>\n<br/>\r\nＮ + 次第だ・次第で(は)"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "This is a conjuction/noun which is used to express that an action indicated by a preceding verb or an action implemented by a preceding noun is a prerequisite for another action.\n\n\n\r\nインドに着き次第を電話差し上げます。\n\r\nAs soon as I get to india, I will call you."
+    html: "This is a conjuction/noun which is used to express that an action indicated by a preceding verb or an action implemented by a preceding noun is a prerequisite for another action.<br/>\n<br/>\r\nインドに着き次第を電話差し上げます。<br/>\r\nAs soon as I get to india, I will call you."
+    credits_raw: brij_shukla2000
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 3086
+    position: 0
+    japanese: その結果を聞き次第
+    body_text: "その結果を聞き次第 \n\nAs soon as \n\t\tI hear the result"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJその結果を聞き次第\">\n\t\t\t\tその結果を聞き<strong>次第</strong><strong></strong></a> <br/>\n<strong>As soon as </strong>\n\t\tI hear the result"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3087
+    position: 1
+    japanese: 事と次第によっては許さないよ。
+    body_text: "事と次第によっては許さないよ。 \n\n\t\tI will not forgive you \n\t\tdepending upon \n\t\tthe circumstances."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ事と次第によっては許さないよ。\">\n事と<strong>次第</strong>によっては許さないよ。<strong></strong></a> <br/>\n\t\tI will not forgive you \n\t\t<strong>depending upon </strong>\n\t\tthe circumstances."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3363
+    position: 2
+    japanese: ビアガーデンに客がたくさんいるかどうかは天気次第だ。
+    body_text: "ビアガーデンに客がたくさんいるかどうかは天気次第だ。\r \n\n\t\tThe financial success of beer-gardens is at the mercy of the weather."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJビアガーデンに客がたくさんいるかどうかは天気次第だ。\">\n\t\t\t\tビアガーデンに客がたくさんいるかどうかは天気<strong>次第</strong>だ。\r<strong></strong></a> <br/>\n\t\tThe financial success of beer-gardens is at the mercy of the weather. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3364
+    position: 3
+    japanese: ホームページの人気は内容次第。
+    body_text: "ホームページの人気は内容次第。\r \n\n\t\tThe popularity of a Web site depends on its content."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJホームページの人気は内容次第。\">\n\t\t\t\tホームページの人気は内容<strong>次第</strong>。\r<strong></strong></a> <br/>\n\t\tThe popularity of a Web site depends on its content. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3365
+    position: 4
+    japanese: 雨がやみ次第、家に向かって出発しよう。
+    body_text: "雨がやみ次第、家に向かって出発しよう。\r \n\n\t\tWe shall leave for home as soon as it stops raining."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ雨がやみ次第、家に向かって出発しよう。\">\n\t\t\t\t雨がやみ<strong>次第</strong>、家に向かって出発しよう。\r<strong></strong></a> <br/>\n\t\tWe shall leave for home as soon as it stops raining. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3366
+    position: 5
+    japanese: 駅に着き次第、電話します。
+    body_text: "駅に着き次第、電話します。\r \n\n\t\tOn my arrival at the station, I will call you."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ駅に着き次第、電話します。\">\n\t\t\t\t駅に着き<strong>次第</strong>、電話します。\r<strong></strong></a> <br/>\n\t\tOn my arrival at the station, I will call you. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3367
+    position: 6
+    japanese: 音は次第に弱くなり、そうしてとうとう聞こえなくなった。
+    body_text: "音は次第に弱くなり、そうしてとうとう聞こえなくなった。\r \n\n\t\tThe sound became fainter and fainter, till at last it disappeared."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ音は次第に弱くなり、そうしてとうとう聞こえなくなった。\">\n\t\t\t\t音は<strong>次第</strong>に弱くなり、そうしてとうとう聞こえなくなった。\r<strong></strong></a> <br/>\n\t\tThe sound became fainter and fainter, till at last it disappeared. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6917
+    position: 7
+    japanese: 母は赤ちゃんの世話をしてもられ次第、私の仕事の未来でしょう。
+    body_text: "母は赤ちゃんの世話をしてもられ次第、私の仕事の未来でしょう。 \n\n\t\tMy work prospects really depend on whether my mum can look after my baby."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ母は赤ちゃんの世話をしてもられ次第、私の仕事の未来でしょう。\">\n\t\t\t\t母は赤ちゃんの世話をしてもられ<strong>次第</strong>、私の仕事の未来でしょう。<strong></strong></a> <br/>\n\t\tMy work prospects really depend on whether my mum can look after my baby. \n\t\t<strong> </strong>"
+    credits_raw: anna.kendall
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8421
+    position: 8
+    japanese: 手当たり次第に土地を買い占める。
+    body_text: "手当たり次第に土地を買い占める。\r \n\n\t\tBuy up all available land."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ手当たり次第に土地を買い占める。\">\n\t\t\t\t手当たり<strong>次第</strong>に土地を買い占める。\r<strong></strong></a> <br/>\n\t\tBuy up all available land. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8422
+    position: 9
+    japanese: 万事は君のこの取り扱い方次第だ。
+    body_text: "万事は君のこの取り扱い方次第だ。\r \n\n\t\tIt all depends on how you handle this."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ万事は君のこの取り扱い方次第だ。\">\n\t\t\t\t万事は君のこの取り扱い方<strong>次第</strong>だ。\r<strong></strong></a> <br/>\n\t\tIt all depends on how you handle this. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8423
+    position: 10
+    japanese: 私たちが行くか行かないかはあなた次第です。
+    body_text: "私たちが行くか行かないかはあなた次第です。\r \n\n\t\tIt depends on you whether we go or not."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ私たちが行くか行かないかはあなた次第です。\">\n\t\t\t\t私たちが行くか行かないかはあなた<strong>次第</strong>です。\r<strong></strong></a> <br/>\n\t\tIt depends on you whether we go or not. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8424
+    position: 11
+    japanese: 昇進は迫ﾍ次第である
+    body_text: "昇進は迫ﾍ次第である\r \n\n\t\tPromotion is dependent on ability."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ昇進は迫ﾍ次第である\">\n\t\t\t\t昇進は迫ﾍ<strong>次第</strong>である\r<strong></strong></a> <br/>\n\t\tPromotion is dependent on ability. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8620
+    position: 12
+    japanese: ''
+    body_text: この世のなかはおかねしだいと言う人もいる。
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ\">\n<strong></strong><strong></strong></a> <br/>\n\t\tこの世のなかはおかねしだいと言う人もいる。 \n\t\t<strong> </strong>"
+    credits_raw: sukhdeep
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8621
+    position: 13
+    japanese: ''
+    body_text: この世のなかはおかねしだいと言う人もいる。
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ\">\n<strong></strong><strong></strong></a> <br/>\n\t\tこの世のなかはおかねしだいと言う人もいる。 \n\t\t<strong> </strong>"
+    credits_raw: sukhdeep
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: Sorry, I inadvertently deleted an example on this page. Can somebody put it back?
+    html: |-
+      Sorry, I inadvertently deleted an example on this page. Can somebody put it back?<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: use your superpowers wisely!
+    html: use your superpowers wisely!
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Leslie
+    text: I'm not an expert, but does the example given above reflect the definition "as soon as"?
+    html: I'm not an expert, but does the example given above reflect the definition "as soon as"?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: "thanks leslie - that was a mixup.\n\r\n〜次第　 = as soon\n\r\n〜次第で = depending on...\n\n\n\r\nso I added a see also to \x01 and a better example"
+    html: "thanks leslie - that was a mixup.<br/>\r\n〜次第　 = as soon<br/>\r\n〜次第で = depending on...<br/>\n<br/>\r\nso I added a see also to <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> and a better example"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bamboo4
+    text: |-
+      Yea, the example given above does reflect "as soon as" too, depending upon what follows. E.G., その結果を聞き次第、ご連絡します would be "I will contact you as soon as I hear the result."
+    html: |-
+      Yea, the example given above does reflect "as soon as" too, depending upon what follows. E.G., その結果を聞き次第、ご連絡します would be "I will contact you as soon as I hear the result."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: f.m.
+    text: 「〜次第」「〜次第で」で分けるのではなくて、"Verb(stem)+次第=as soon as"、"Noun＋次第/次第で=depending on"と、その前に来る品詞で分けてはどうでしょうか。
+    html: 「〜次第」「〜次第で」で分けるのではなくて、"Verb(stem)+次第=as soon as"、"Noun＋次第/次第で=depending on"と、その前に来る品詞で分けてはどうでしょうか。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: slopethisway
+    text: |-
+      事と次第によっては許さないよ。 
+
+
+
+      According to the facts and circumstances I cannot forgive you.
+    html: |-
+      事と次第<strong>によって</strong>は許さないよ。 <br/>
+      <br/>
+      <strong>According to</strong> the facts and circumstances I cannot forgive you.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: ikan
+    label: ikan
+    annotation_text: ikan [bamboo4]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=ikan">ikan</a> [<a href="http://jgram.org/pages/contributions.php?author=bamboo4">bamboo4</a>]
+    credits_raw: bamboo4
+  - position: 1
+    target_label: shidaide
+    label: shidaide
+    annotation_text: shidaide [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=shidaide">shidaide</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 2
+    target_label: niizon, niison
+    label: niizon, niison
+    annotation_text: niizon, niison [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=niizon, niison">niizon, niison</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 3
+    target_label: totan(ni)
+    label: totan(ni)
+    annotation_text: totan(ni) [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=totan(ni)">totan(ni)</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+  - position: 4
+    target_label: yainaya
+    label: yainaya
+    annotation_text: yainaya [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=yainaya">yainaya</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+  - position: 5
+    target_label: kadoukanouchini
+    label: kadoukanouchini
+    annotation_text: kadoukanouchini [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kadoukanouchini">kadoukanouchini</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+  - position: 6
+    target_label: nari
+    label: nari
+    annotation_text: nari [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=nari">nari</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+  - position: 7
+    target_label: kanaikanouchini
+    label: kanaikanouchini
+    annotation_text: kanaikanouchini [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kanaikanouchini">kanaikanouchini</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+  - position: 8
+    target_label: tatokoro
+    label: tatokoro
+    annotation_text: tatokoro [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=tatokoro">tatokoro</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+  - position: 9
+    target_label: todoujini
+    label: todoujini
+    annotation_text: todoujini [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=todoujini">todoujini</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+sections:
+  - kind: header
+    text: "次第 [しだい] (shidai)\n    Meaning: as soon as; depending on \n    Example: As soon as i get to India, I will call you.\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>次第 [しだい] (shidai)</span><br/>    <span><b>Meaning</b>: as soon as; depending on </span><br/>    <b>Example</b>: <i>As soon as i get to India, I will call you.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225533'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3414730
+  length: 7146
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: c6d47c92939f10c381807bc785c00c8bee50f12986544e1251d4785aa3920c5c

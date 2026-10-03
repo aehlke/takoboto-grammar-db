@@ -1,0 +1,451 @@
+schema_version: 2
+id: 846
+source: takoboto
+source_url: https://takoboto.jp/bunpo/846/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 貰う
+romanized_label: morau
+alternate_forms:
+  - もらう
+jlpt_level: 3
+credits_raw: dc
+meaning: to get
+meaning_example: my dad bought a camera for me
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_846
+    body_text: |-
+      to get 
+       my dad bought a camera for me
+    body_html: |-
+      <span>to get</span> <br/> <span>my dad bought a camera for me</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 1028
+    position: 0
+    japanese: 私は父にカメラを買って貰った
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e7%88%b6%e3%81%ab%e3%82%ab%e3%83%a1%e3%83%a9%e3%82%92"><span>父にカメラを</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%a6"><span>買って</span></a><a href="https://takoboto.jp/?q=%e8%b2%b0%e3%81%a3%e3%81%9f"><strong>貰った</strong></a>
+    segments:
+      - text: 私は父にカメラを買って
+        grammar_highlight: false
+      - text: 貰った
+        grammar_highlight: true
+    reading: わたしはちちにカメラをかってもらった
+    credits_raw: d4
+    translations:
+      - language: en
+        text: My father bought a camera for me
+        html: |-
+          <span>My father bought a camera </span><span>for me </span>
+        segments:
+          - text: 'My father bought a camera for me '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1029
+    position: 1
+    japanese: 私は友達に日本語を教えて貰っている
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%81%ab"><span>友達に</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%82%92"><span>日本語を</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%81%a6"><span>教えて</span></a><a href="https://takoboto.jp/?q=%e8%b2%b0%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b"><strong>貰っている</strong></a>
+    segments:
+      - text: 私は友達に日本語を教えて
+        grammar_highlight: false
+      - text: 貰っている
+        grammar_highlight: true
+    reading: わたしはともだちににほんごをおしえてもらっている
+    credits_raw: d4
+    translations:
+      - language: en
+        text: I am having a friend teach me japanese
+        html: |-
+          <span>I am </span><span>having </span><strong>a friend teach me japanese </strong>
+        segments:
+          - text: 'I am having '
+            grammar_highlight: false
+          - text: 'a friend teach me japanese '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4179
+    position: 2
+    japanese: ４時に医者に診てもらう予約をした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%94%e6%99%82%e3%81%ab"><span>４時に</span></a><a href="https://takoboto.jp/?q=%e5%8c%bb%e8%80%85%e3%81%ab"><span>医者に</span></a><a href="https://takoboto.jp/?q=%e8%a8%ba%e3%81%a6"><span>診て</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%82%89%e3%81%86"><strong>もらう</strong></a><a href="https://takoboto.jp/?q=%e4%ba%88%e7%b4%84%e3%82%92%e3%81%97%e3%81%9f%e3%80%82"><span>予約をした。</span></a>
+    segments:
+      - text: ４時に医者に診て
+        grammar_highlight: false
+      - text: もらう
+        grammar_highlight: true
+      - text: 予約をした。
+        grammar_highlight: false
+    reading: ４じにいしゃにみてもらうよやくをした。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I made an appointment to see the doctor at four o'clock.
+        html: |-
+          <span>I made an appointment to see the doctor at four o'clock. </span>
+        segments:
+          - text: 'I made an appointment to see the doctor at four o''clock. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4180
+    position: 3
+    japanese: あなたはグリーン先生に英語の発音を直してもらうべきだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%b3"><span>あなたはグリーン</span></a><a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%ab"><span>先生に</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%ae"><span>英語の</span></a><a href="https://takoboto.jp/?q=%e7%99%ba%e9%9f%b3%e3%82%92"><span>発音を</span></a><a href="https://takoboto.jp/?q=%e7%9b%b4%e3%81%97%e3%81%a6"><span>直して</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%82%89%e3%81%86"><strong>もらう</strong></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8d%e3%81%a0%e3%80%82"><span>べきだ。</span></a>
+    segments:
+      - text: あなたはグリーン先生に英語の発音を直して
+        grammar_highlight: false
+      - text: もらう
+        grammar_highlight: true
+      - text: べきだ。
+        grammar_highlight: false
+    reading: あなたはグリーンせんせいにえいごのはつおんをなおしてもらうべきだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You should have Mr Green correct your English pronunciation.
+        html: |-
+          <span>You should have Mr Green correct your English pronunciation. </span>
+        segments:
+          - text: 'You should have Mr Green correct your English pronunciation. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4182
+    position: 4
+    japanese: ことによると、きみにも一緒にきてもらう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8%e3%80%81%e3%81%8d%e3%81%bf%e3%81%ab%e3%82%82"><span>ことによると、きみにも</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e7%b7%92%e3%81%ab"><span>一緒に</span></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%81%a6"><span>きて</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%82%89%e3%81%86"><strong>もらう</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ことによると、きみにも一緒にきて
+        grammar_highlight: false
+      - text: もらう
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ことによると、きみにもいっしょにきてもらう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Maybe you better come with us.
+        html: |-
+          <span>Maybe you better come with us. </span>
+        segments:
+          - text: 'Maybe you better come with us. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4183
+    position: 5
+    japanese: このヒーターは故障しているようなので、彼に修理してもらう予定だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%92%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%af"><span>このヒーターは</span></a><a href="https://takoboto.jp/?q=%e6%95%85%e9%9a%9c%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%82%88%e3%81%86%e3%81%aa%e3%81%ae%e3%81%a7%e3%80%81"><span>故障しているようなので、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab"><span>彼に</span></a><a href="https://takoboto.jp/?q=%e4%bf%ae%e7%90%86%e3%81%97%e3%81%a6"><span>修理して</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%82%89%e3%81%86"><strong>もらう</strong></a><a href="https://takoboto.jp/?q=%e4%ba%88%e5%ae%9a%e3%81%a0%e3%80%82"><span>予定だ。</span></a>
+    segments:
+      - text: このヒーターは故障しているようなので、彼に修理して
+        grammar_highlight: false
+      - text: もらう
+        grammar_highlight: true
+      - text: 予定だ。
+        grammar_highlight: false
+    reading: このヒーターはこしょうしているようなので、かれにしゅうりしてもらうよていだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Since this heater seems to be out of order, I'll have him repair it.
+        html: |-
+          <span>Since this heater seems to be out of order, I'll have him repair it. </span>
+        segments:
+          - text: 'Since this heater seems to be out of order, I''ll have him repair it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4184
+    position: 6
+    japanese: この椅子を修理してもらうのにどれくらいかかるのでしょうか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%a4%85%e5%ad%90%e3%82%92"><span>椅子を</span></a><a href="https://takoboto.jp/?q=%e4%bf%ae%e7%90%86%e3%81%97%e3%81%a6"><span>修理して</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%82%89%e3%81%86"><strong>もらう</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%ab%e3%81%a9%e3%82%8c%e3%81%8f%e3%82%89%e3%81%84%e3%81%8b%e3%81%8b%e3%82%8b%e3%81%ae%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%81%8b%e3%80%82"><span>のにどれくらいかかるのでしょうか。</span></a>
+    segments:
+      - text: この椅子を修理して
+        grammar_highlight: false
+      - text: もらう
+        grammar_highlight: true
+      - text: のにどれくらいかかるのでしょうか。
+        grammar_highlight: false
+    reading: このいすをしゅうりしてもらうのにどれくらいかかるのでしょうか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: What would it cost to have this chair repaired?
+        html: |-
+          <span>What would it cost to have this chair repaired? </span>
+        segments:
+          - text: 'What would it cost to have this chair repaired? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4185
+    position: 7
+    japanese: この仕事は誰にもしてもらうわけにはいかない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%af"><span>仕事は</span></a><a href="https://takoboto.jp/?q=%e8%aa%b0%e3%81%ab%e3%82%82"><span>誰にも</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%a6"><span>して</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%82%89%e3%81%86"><strong>もらう</strong></a><a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%91%e3%81%ab%e3%81%af%e3%81%84%e3%81%8b%e3%81%aa%e3%81%84%e3%80%82"><span>わけにはいかない。</span></a>
+    segments:
+      - text: この仕事は誰にもして
+        grammar_highlight: false
+      - text: もらう
+        grammar_highlight: true
+      - text: わけにはいかない。
+        grammar_highlight: false
+    reading: このしごとはだれにもしてもらうわけにはいかない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I can't get this work done by anybody.
+        html: |-
+          <span>I can't get this work done by anybody. </span>
+        segments:
+          - text: 'I can''t get this work done by anybody. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4186
+    position: 8
+    japanese: この車は修理してもらう必要がある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e8%bb%8a%e3%81%af"><span>車は</span></a><a href="https://takoboto.jp/?q=%e4%bf%ae%e7%90%86%e3%81%97%e3%81%a6"><span>修理して</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%82%89%e3%81%86"><strong>もらう</strong></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>必要がある。</span></a>
+    segments:
+      - text: この車は修理して
+        grammar_highlight: false
+      - text: もらう
+        grammar_highlight: true
+      - text: 必要がある。
+        grammar_highlight: false
+    reading: このくるまはしゅうりしてもらうひつようがある。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: This car needs repairing.
+        html: |-
+          <span>This car needs repairing. </span>
+        segments:
+          - text: 'This car needs repairing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4187
+    position: 9
+    japanese: じゃあ、言わせてもらうけど。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%98%e3%82%83%e3%81%82%e3%80%81"><span>じゃあ、</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%82%8f%e3%81%9b%e3%81%a6"><span>言わせて</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%82%89%e3%81%86"><strong>もらう</strong></a><a href="https://takoboto.jp/?q=%e3%81%91%e3%81%a9%e3%80%82"><span>けど。</span></a>
+    segments:
+      - text: じゃあ、言わせて
+        grammar_highlight: false
+      - text: もらう
+        grammar_highlight: true
+      - text: けど。
+        grammar_highlight: false
+    reading: じゃあ、いわせてもらうけど。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Let me tell you something.
+        html: |-
+          <span>Let me tell you something. </span>
+        segments:
+          - text: 'Let me tell you something. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3153
+    position: 10
+    japanese: コンビニで、何か買って貰いたいですか？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b3%e3%83%b3%e3%83%93%e3%83%8b%e3%81%a7%e3%80%81"><span>コンビニで、</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8b"><span>何か</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%a6"><span>買って</span></a><a href="https://takoboto.jp/?q=%e8%b2%b0%e3%81%84%e3%81%9f%e3%81%84"><strong>貰いたい</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b"><span>ですか</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: コンビニで、何か買って
+        grammar_highlight: false
+      - text: 貰いたい
+        grammar_highlight: true
+      - text: ですか？
+        grammar_highlight: false
+    reading: コンビニで、なにかかってもらいたいですか？
+    credits_raw: dc
+    translations:
+      - language: en
+        text: At the store, is there anything you want me to buy for you?
+        html: |-
+          <span>At the store, is there anything </span><strong>you want </strong><span>me to buy </span><strong>for you? </strong>
+        segments:
+          - text: 'At the store, is there anything '
+            grammar_highlight: false
+          - text: 'you want '
+            grammar_highlight: true
+          - text: 'me to buy '
+            grammar_highlight: false
+          - text: 'for you? '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4181
+    position: 11
+    japanese: 今すぐ髪を切ってもらう必要はないよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e3%81%99%e3%81%90"><span>今すぐ</span></a><a href="https://takoboto.jp/?q=%e9%ab%aa%e3%82%92"><span>髪を</span></a><a href="https://takoboto.jp/?q=%e5%88%87%e3%81%a3%e3%81%a6"><span>切って</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%82%89%e3%81%86"><strong>もらう</strong></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%af%e3%81%aa%e3%81%84%e3%82%88%e3%80%82"><span>必要はないよ。</span></a>
+    segments:
+      - text: 今すぐ髪を切って
+        grammar_highlight: false
+      - text: もらう
+        grammar_highlight: true
+      - text: 必要はないよ。
+        grammar_highlight: false
+    reading: いますぐかみをきってもらうひつようはないよ。
+    credits_raw: Miki, bamboo4
+    translations:
+      - language: en
+        text: You need not have a haircut right now.
+        html: |-
+          <span>You need not have a haircut right now. </span>
+        segments:
+          - text: 'You need not have a haircut right now. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      morau is a fairly informal/plain/gruff way of asking someone to do something for you.
+
+      書いてもらうか？ = can you write it for me?
+      - something a boss might say to a junior
+
+      書いてくれる？
+      - more common, not overly polite, OK to use between friends
+
+      書いて頂けますか？
+      - slightly keigo, something you might say to your boss
+    html: |-
+      morau is a fairly informal/plain/gruff way of asking someone to do something for you.<br/><br/>書いてもらうか？ = can you write it for me?<br/>- something a boss might say to a junior<br/><br/>書いてくれる？<br/>- more common, not overly polite, OK to use between friends<br/><br/>書いて頂けますか？<br/>- slightly keigo, something you might say to your boss
+    credits_raw: dc
+    content_sha256: 3c35871f711d96d516c03d2e1b45aa4d98aa684372756c32936b176035ff917a
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      やる is a pretty rough verb. 
+      With 貰う makes things sound pretty blunt:
+       やってもらう = hey, do it for me.
+    html: |-
+      やる is a pretty rough verb. <br/>With 貰う makes things sound pretty blunt:<br/> やってもらう = hey, do it for me.
+    credits_raw: dc
+    content_sha256: c1fb16524cafe75b16a4322f28ebee9345e16d5c26c4615076d35acf6b19ce18
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      貰う and あげる are two faces of one coin. The former describes the situation from the position of a receiver, whereas the latter describes the situation from the side of the giver. Note also that やる, also the verb describing the situaiton from the standpoint of the giver, is relatively impolite as contrasted to あげる. When you feed a pet you use やる but that can also be used in case of humans if the receiver is inferior to you.In the same vein, 貰う and くれる have the same kind of semantic difference as would exist between あげる and やる.
+    html: |-
+      貰う and あげる are two faces of one coin. The former describes the situation from the position of a receiver, whereas the latter describes the situation from the side of the giver. Note also that やる, also the verb describing the situaiton from the standpoint of the giver, is relatively impolite as contrasted to あげる. When you feed a pet you use やる but that can also be used in case of humans if the receiver is inferior to you.In the same vein, 貰う and くれる have the same kind of semantic difference as would exist between あげる and やる.
+    credits_raw: bamboo4
+    content_sha256: 0f0a5a18351bd6cde4e8253c9c2039faa0624310081ff0ffbd7248b2aaca8897
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      bamboo - tried to distill your comments into a note at the top. feel free to add notes instead of comments when you think you have a summary explanation...
+    html: |-
+      bamboo - tried to distill your comments into a note at the top. feel free to add notes instead of comments when you think you have a summary explanation...
+    credits_raw: dc
+    content_sha256: d5ddb6f549f583df3c933cace7cb137375096e728b38023194df4d2fd58d6188
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      where does [itadaku] fit on this continuum? I have heard it used mainly for "receiving".
+      are [itadaku] & [itashimasu] kind of opposites like [morau] & [ageru] ? ie the polite forms of give and receive/ also used as "do for you" & "you do for me"
+    html: |-
+      where does [itadaku] fit on this continuum? I have heard it used mainly for "receiving".<br/>are [itadaku] &amp; [itashimasu] kind of opposites like [morau] &amp; [ageru] ? ie the polite forms of give and receive/ also used as "do for you" &amp; "you do for me"
+    credits_raw: dc
+    content_sha256: f88472c884361d4023bbaf3db6a2d3af81290c701252fb692ba4a98e549500fd
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: '"itadaku" ia a honorific of "morau." "itashimasu" does not belong here.'
+    html: '"itadaku" ia a honorific of "morau." "itashimasu" does not belong here.'
+    credits_raw: bamboo4
+    content_sha256: 18c163e7667327a2300a1e6aac54577edbbfd2fb29de78c2a5d12e48c7e8d772
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      bamboo4- if you put the items like itadaku in square brackets, rather than "quotes" they will come up as hilited links like this: [morau] 
+      btw can you explain [itashimasu] ?
+    html: |-
+      bamboo4- if you put the items like itadaku in square brackets, rather than "quotes" they will come up as hilited links like this: [morau] <br/>btw can you explain [itashimasu] ?
+    credits_raw: dc
+    content_sha256: 9de5e10ebabfbdabd34e6999f087d6434c47934d2fc6f4f8468a591557cd7a43
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      [itashimasu]is "to do" spoken in a modest manner, or which the Japanese call 謙譲語. 私がいたします would be directed to your superior meaning that "I will do that." It has nothing to do with "giving" or "receiving" which would be involved in 貰う and あげる.
+    html: |-
+      [itashimasu]is "to do" spoken in a modest manner, or which the Japanese call 謙譲語. 私がいたします would be directed to your superior meaning that "I will do that." It has nothing to do with "giving" or "receiving" which would be involved in 貰う and あげる.
+    credits_raw: bamboo4
+    content_sha256: 6ecdbc057ba8ff0eaa146327cd8ccbc2e4352cd0988492c355b7e4cacc5deed8
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      Another honorific for give is ｛さしあげる｝that can be used in such cases as ｛してさしあげる｝meaning [do it for you] as a very polite expression. It can be used with a number of other verbs, too.
+    html: |-
+      Another honorific for give is ｛さしあげる｝that can be used in such cases as ｛してさしあげる｝meaning [do it for you] as a very polite expression. It can be used with a number of other verbs, too.
+    credits_raw: bamboo4
+    content_sha256: 17550ae0abc3f9b2bd9cb138cb20fdeb3b1c4d0d1f2bf1f4cc2297c0ed9c6301
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      Hi, I think that "morau" is actually not a Level 1 JLPT expression. This is perhaps more like Level 3 expression, since this is normally not considered an advanced expression.
+
+      I also think that in practice, Shite Sashiageru is not really used often. Rather, they would use "shitai to omoimasu" as a replacement. I think the only situations in which you would use Shite Sashiageru is to someone who's of higher social ranking than you, and also very close to you. (Perhaps your close grandmother, or someone like that)
+    html: |-
+      Hi, I think that "morau" is actually not a Level 1 JLPT expression. This is perhaps more like Level 3 expression, since this is normally not considered an advanced expression.<br/><br/>I also think that in practice, Shite Sashiageru is not really used often. Rather, they would use "shitai to omoimasu" as a replacement. I think the only situations in which you would use Shite Sashiageru is to someone who's of higher social ranking than you, and also very close to you. (Perhaps your close grandmother, or someone like that)
+    credits_raw: nhk9
+    content_sha256: 968a7fe25cf5a99367690e4170facea99040eaec5db9dc29b60509dfea4c558b
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1596
+    label: くれる (呉れる)
+    source_url: https://takoboto.jp/bunpo/1596
+  - target_id: 1302
+    label: させる
+    source_url: https://takoboto.jp/bunpo/1302
+  - target_id: 1312
+    label: 上げる
+    source_url: https://takoboto.jp/bunpo/1312
+  - target_id: 1141
+    label: 頂く
+    source_url: https://takoboto.jp/bunpo/1141
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:36:04+00:00'
+response_sha256: eacfadad90bc3584ce8bdeaa0b3f655bb346f8ad2505ba11edaaf919837af453
+warnings: []

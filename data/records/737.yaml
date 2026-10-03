@@ -1,0 +1,574 @@
+schema_version: 2
+id: 737
+source: takoboto
+source_url: https://takoboto.jp/bunpo/737/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜の
+romanized_label: no-3
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: '? (sentence ending particle - question) [F]'
+meaning_example: What is it you don't get?
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_737
+    body_text: |-
+      ? (sentence ending particle - question) [F] 
+       What is it you don't get?
+    body_html: |-
+      <span>? (sentence ending particle - question) [F]</span> <br/> <span>What is it you don't get?</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_737
+    body_text: Phrase+の
+    body_html: |-
+      <div><div><div>Phrase</div></div><div><div>+</div><div>の</div></div></div>
+    credits_raw: null
+formations:
+  - Phrase + の
+examples:
+  - source_id: 882
+    position: 0
+    japanese: 「納得いかないんですよ」「何が？何がですの？」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e7%b4%8d%e5%be%97%e3%81%84%e3%81%8b%e3%81%aa%e3%81%84%e3%82%93%e3%81%a7%e3%81%99%e3%82%88%e3%80%8d%e3%80%8c"><span>納得いかないんですよ」「</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8c"><span>何が</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f%e4%bd%95%e3%81%8c"><span>？何が</span></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99"><span>です</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%ef%bc%9f%e3%80%8d"><span>？」</span></a>
+    segments:
+      - text: 「納得いかないんですよ」「何が？何がです
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: ？」
+        grammar_highlight: false
+    reading: 「なっとくいかないんですよ」「なにが？なにがですの？」
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: '"I just can''t accept that!" "What? What is it that you can''t accept ? "'
+        html: |-
+          <span>"I just can't accept that!" "What? What is it that you can't accept </span><strong>? </strong><span>" </span>
+        segments:
+          - text: '"I just can''t accept that!" "What? What is it that you can''t accept '
+            grammar_highlight: false
+          - text: '? '
+            grammar_highlight: true
+          - text: '" '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3260
+    position: 1
+    japanese: 男・女：もうお店やっていないの？！まだ4時だよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%94%b7%e3%83%bb%e5%a5%b3%ef%bc%9a%e3%82%82%e3%81%86%e3%81%8a%e5%ba%97%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84"><span>男・女：もうお店やっていない</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%ef%bc%9f%ef%bc%81%e3%81%be%e3%81%a04%e6%99%82%e3%81%a0%e3%82%88%e3%80%82"><span>？！まだ4時だよ。</span></a>
+    segments:
+      - text: 男・女：もうお店やっていない
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: ？！まだ4時だよ。
+        grammar_highlight: false
+    reading: おとこ・おんな：もうおみせやっていないの？！まだじだよ。
+    credits_raw: Miki, bamboo4
+    translations:
+      - language: en
+        text: This shop is already closed, is it?  It's still 4.
+        html: |-
+          <span>This shop is already closed, </span><strong>is it? </strong><span> It's still 4. </span>
+        segments:
+          - text: 'This shop is already closed, '
+            grammar_highlight: false
+          - text: 'is it? '
+            grammar_highlight: true
+          - text: ' It''s still 4. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4833
+    position: 2
+    japanese: なんで彼女がいないの？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a7"><span>なんで</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c"><span>彼女が</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%aa%e3%81%84"><span>いない</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: なんで彼女がいない
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: ？
+        grammar_highlight: false
+    reading: なんでかのじょがいないの？
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Why don't you have a girlfriend ? [M/F]
+        html: |-
+          <span>Why don't you have a girlfriend </span><strong>? </strong><span>[M/F] </span>
+        segments:
+          - text: 'Why don''t you have a girlfriend '
+            grammar_highlight: false
+          - text: '? '
+            grammar_highlight: true
+          - text: '[M/F] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4834
+    position: 3
+    japanese: 悪いけどほかに用事があるの。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%82%aa%e3%81%84%e3%81%91%e3%81%a9%e3%81%bb%e3%81%8b%e3%81%ab%e7%94%a8%e4%ba%8b%e3%81%8c%e3%81%82%e3%82%8b"><span>悪いけどほかに用事がある</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 悪いけどほかに用事がある
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: わるいけどほかにようじがあるの。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I'm sorry, I have another engagement .[F]
+        html: |-
+          <span>I'm sorry, I have another engagement </span><strong>.[F] </strong>
+        segments:
+          - text: 'I''m sorry, I have another engagement '
+            grammar_highlight: false
+          - text: '.[F] '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4835
+    position: 4
+    japanese: 「どうしたの。」「少しほうっておいて。あなたには関係ないことなの。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%81%a9%e3%81%86%e3%81%97%e3%81%9f"><span>「どうした</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%80%82%e3%80%8d%e3%80%8c"><span>。」「</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97%e3%81%bb%e3%81%86%e3%81%a3%e3%81%a6%e3%81%8a%e3%81%84%e3%81%a6%e3%80%82%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab%e3%81%af"><span>少しほうっておいて。あなたには</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e4%bf%82%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%aa%e3%81%ae%e3%80%82%e3%80%8d"><span>関係ないことなの。」</span></a>
+    segments:
+      - text: 「どうした
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: 。」「少しほうっておいて。あなたには関係ないことなの。」
+        grammar_highlight: false
+    reading: 「どうしたの。」「すこしほうっておいて。あなたにはかんけいないことなの。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"What''s wrong with you ?"[F] "Leave me alone for a while. It''s none of your business."[F]'
+        html: |-
+          <span>"What's wrong with you </span><strong>?"[F] </strong><span>"Leave me alone for a while. It's none of your business."[F] </span>
+        segments:
+          - text: '"What''s wrong with you '
+            grammar_highlight: false
+          - text: '?"[F] '
+            grammar_highlight: true
+          - text: '"Leave me alone for a while. It''s none of your business."[F] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4836
+    position: 5
+    japanese: 「今出かけてはいけない。」「どうしてだめなの。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e5%87%ba%e3%81%8b%e3%81%91%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%e3%80%82%e3%80%8d%e3%80%8c%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6"><span>今出かけてはいけない。」「どうして</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%82%81%e3%81%aa"><span>だめな</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%80%82%e3%80%8d"><span>。」</span></a>
+    segments:
+      - text: 「今出かけてはいけない。」「どうしてだめな
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: 。」
+        grammar_highlight: false
+    reading: 「いまでかけてはいけない。」「どうしてだめなの。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"You mustn''t go out now." "Why not ? "[F]'
+        html: |-
+          <span>"You mustn't go out now." "Why not </span><strong>? "[F] </strong>
+        segments:
+          - text: '"You mustn''t go out now." "Why not '
+            grammar_highlight: false
+          - text: '? "[F] '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4837
+    position: 6
+    japanese: 私、去年から新しいことを始めたの。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%80%81"><span>私、</span></a><a href="https://takoboto.jp/?q=%e5%8e%bb%e5%b9%b4%e3%81%8b%e3%82%89"><span>去年から</span></a><a href="https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84%e3%81%93%e3%81%a8%e3%82%92"><span>新しいことを</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><span>始めた</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 私、去年から新しいことを始めた
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: わたし、きょねんからあたらしいことをはじめたの。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I started a new practice last year .[F]
+        html: |-
+          <span>I started a new practice last year </span><strong>.[F] </strong>
+        segments:
+          - text: 'I started a new practice last year '
+            grammar_highlight: false
+          - text: '.[F] '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4838
+    position: 7
+    japanese: 「私、自動車にしょっちゅう乗ってるの。だから、クライアントが私にコンタクトが取れないって文句を言うの。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%80%81"><span>私、</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%8b%95%e8%bb%8a%e3%81%ab%e3%81%97%e3%82%87%e3%81%a3%e3%81%a1%e3%82%85%e3%81%86"><span>自動車にしょっちゅう</span></a><a href="https://takoboto.jp/?q=%e4%b9%97%e3%81%a3%e3%81%a6%e3%82%8b%e3%81%ae%e3%80%82%e3%81%a0%e3%81%8b%e3%82%89%e3%80%81%e3%82%af%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3%e3%83%88%e3%81%8c"><span>乗ってるの。だから、クライアントが</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ab%e3%82%b3%e3%83%b3%e3%82%bf%e3%82%af%e3%83%88%e3%81%8c"><span>私にコンタクトが</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%82%8c%e3%81%aa%e3%81%84%e3%81%a3%e3%81%a6"><span>取れないって</span></a><a href="https://takoboto.jp/?q=%e6%96%87%e5%8f%a5%e3%82%92"><span>文句を</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86"><span>言う</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%80%82%e3%80%8d"><span>。」</span></a>
+    segments:
+      - text: 「私、自動車にしょっちゅう乗ってるの。だから、クライアントが私にコンタクトが取れないって文句を言う
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: 。」
+        grammar_highlight: false
+    reading: 「わたし、じどうしゃにしょっちゅうのってるの。だから、がわたしにコンタクトがとれないってもんくをいうの。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"I''m on the road a lot, and my clients are complaining that they can never reach me." ."[F]'
+        html: |-
+          <span>"I'm on the road a lot, and my clients are complaining that they can never reach me." </span><strong>."[F] </strong>
+        segments:
+          - text: '"I''m on the road a lot, and my clients are complaining that they can never reach me." '
+            grammar_highlight: false
+          - text: '."[F] '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4839
+    position: 8
+    japanese: 女：「時々、彼と離婚しようと思うの。」男：「冗談だろう！」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a5%b3%ef%bc%9a%e3%80%8c"><span>女：「</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%80%85%e3%80%81"><span>時々、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%a8"><span>彼と</span></a><a href="https://takoboto.jp/?q=%e9%9b%a2%e5%a9%9a%e3%81%97%e3%82%88%e3%81%86%e3%81%a8"><span>離婚しようと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%86"><span>思う</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%80%82%e3%80%8d"><span>。」</span></a><a href="https://takoboto.jp/?q=%e7%94%b7%ef%bc%9a%e3%80%8c"><span>男：「</span></a><a href="https://takoboto.jp/?q=%e5%86%97%e8%ab%87%e3%81%a0%e3%82%8d%e3%81%86"><span>冗談だろう</span></a><a href="https://takoboto.jp/?q=%ef%bc%81%e3%80%8d"><span>！」</span></a>
+    segments:
+      - text: 女：「時々、彼と離婚しようと思う
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: 。」男：「冗談だろう！」
+        grammar_highlight: false
+    reading: おんな：「ときどき、かれとりこんしようとおもうの。」おとこ：「じょうだんだろう！」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"Now and then I think of divorcing him ." [F] "You must be kidding!" [M]'
+        html: |-
+          <span>"Now and then I think of divorcing him </span><strong>." [F] </strong><span>"You must be kidding!" [M] </span>
+        segments:
+          - text: '"Now and then I think of divorcing him '
+            grammar_highlight: false
+          - text: '." [F] '
+            grammar_highlight: true
+          - text: '"You must be kidding!" [M] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4840
+    position: 9
+    japanese: 「太っている人はみんなダイエットすべきだと思う。」「あなた、私のことを言ってるの。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e5%a4%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b"><span>太っている</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%af%e3%81%bf%e3%82%93%e3%81%aa%e3%83%80%e3%82%a4%e3%82%a8%e3%83%83%e3%83%88%e3%81%99%e3%81%b9%e3%81%8d%e3%81%a0%e3%81%a8"><span>人はみんなダイエットすべきだと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%86%e3%80%82%e3%80%8d%e3%80%8c%e3%81%82%e3%81%aa%e3%81%9f%e3%80%81"><span>思う。」「あなた、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae%e3%81%93%e3%81%a8%e3%82%92"><span>私のことを</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%82%8b"><span>言ってる</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%80%82%e3%80%8d"><span>。」</span></a>
+    segments:
+      - text: 「太っている人はみんなダイエットすべきだと思う。」「あなた、私のことを言ってる
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: 。」
+        grammar_highlight: false
+    reading: 「ふとっているひとはみんなダイエットすべきだとおもう。」「あなた、わたしのことをいってるの。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"I think all fat people should go on a diet."[M/F] "Are you referring to me ?"[F]'
+        html: |-
+          <span>"I think all fat people should go on a diet."[M/F] "Are you referring to me </span><strong>?"[F] </strong>
+        segments:
+          - text: '"I think all fat people should go on a diet."[M/F] "Are you referring to me '
+            grammar_highlight: false
+          - text: '?"[F] '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4841
+    position: 10
+    japanese: 7時半に起きなければいけなかったんじゃないの。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=7"><span>7</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e5%8d%8a%e3%81%ab"><span>時半に</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%8d%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0"><span>起きなければ</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%91%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%93%e3%81%98%e3%82%83%e3%81%aa%e3%81%84"><span>いけなかったんじゃない</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 7時半に起きなければいけなかったんじゃない
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: じはんにおきなければいけなかったんじゃないの。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I thought you had to get up by 7:30 .[M/F]
+        html: |-
+          <span>I thought you had to get up by 7:30 </span><strong>.[M/F] </strong>
+        segments:
+          - text: 'I thought you had to get up by 7:30 '
+            grammar_highlight: false
+          - text: '.[M/F] '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4842
+    position: 11
+    japanese: ＣＤをどれくらい持っているの。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%a3%ef%bc%a4%e3%82%92%e3%81%a9%e3%82%8c%e3%81%8f%e3%82%89%e3%81%84"><span>ＣＤをどれくらい</span></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b"><span>持っている</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ＣＤをどれくらい持っている
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: しーでぃーをどれくらいもっているの。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How many CDs do you have ?[M/F]
+        html: |-
+          <span>How many CDs do you have </span><strong>?[M/F] </strong>
+        segments:
+          - text: 'How many CDs do you have '
+            grammar_highlight: false
+          - text: '?[M/F] '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4843
+    position: 12
+    japanese: あなたのことを友達以上には考えられないの。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e3%81%93%e3%81%a8%e3%82%92"><span>あなたのことを</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e4%bb%a5%e4%b8%8a%e3%81%ab%e3%81%af"><span>友達以上には</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84"><span>考えられない</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あなたのことを友達以上には考えられない
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あなたのことをともだちいじょうにはかんがえられないの。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I can't think of you as more than a friend .[F]
+        html: |-
+          <span>I can't think of you as more than a friend </span><strong>.[F] </strong>
+        segments:
+          - text: 'I can''t think of you as more than a friend '
+            grammar_highlight: false
+          - text: '.[F] '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: In informal situations, during a conversation with friends or the family, women can use "no" instead of "ka".
+    html: In informal situations, during a conversation with friends or the family, women can use "no" instead of "ka".
+    credits_raw: Stefanie
+    content_sha256: 6149bd1bd70b11e31fdc609f99f72c435450275d562b99c584a214d5b60e57af
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Aren't there expressions that use this ending の that are used by both men and women or is it ALWAYS female speech?
+    html: Aren't there expressions that use this ending の that are used by both men and women or is it ALWAYS female speech?
+    credits_raw: yookoso
+    content_sha256: 7d533dfc4b57272f756f905dff196f0e7630c228d41bfa56f63c7c75d230e12c
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: I hear males sometimes use this の.
+    html: I hear males sometimes use this の.
+    credits_raw: Miki
+    content_sha256: aea2ae0d9a86456cf0ff765cbbf8f5dc0815db09506eb28b7e9d4145ad2753c8
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: 何がですの would mostly be female speech. Men would be prone to say 何がですか.
+    html: 何がですの would mostly be female speech. Men would be prone to say 何がですか.
+    credits_raw: bamboo4
+    content_sha256: 2035a38f6c9fcae6eaa18300e768fd1807538b5adf0b64af54d75a7b85441958
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: 何しているの is a female saying?
+    html: 何しているの is a female saying?
+    credits_raw: g
+    content_sha256: 5886d02c97bc850a87a238cae5cee4e01ec37d39c6faef06f35ce6737a81bfe1
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: You may often hear female use it but this is used by male, too.
+    html: You may often hear female use it but this is used by male, too.
+    credits_raw: Miki
+    content_sha256: 19b37a4b979a2740a28c24f5ac06717d730fa98f409c9bfbfa5729bcc5f7cd84
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      heh so that's why I get all those strange looks from guys, I sound like my GF ^_^ I'll try to add some more examples after the fact of real-world conversational stuff :)
+    html: |-
+      heh so that's why I get all those strange looks from guys, I sound like my GF ^_^ I'll try to add some more examples after the fact of real-world conversational stuff :)
+    credits_raw: ninja_k
+    content_sha256: 8dd0348b38a489572120b2831d4a7a3f2ab89aa0647bb23f88b290100e1b105f
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      何しているの is short for 何をしているのですか. Latter is polite but the former is casual. I think you use it in a wrong situation. It is not strange at all that men use it. ;)
+    html: |-
+      何しているの is short for 何をしているのですか. Latter is polite but the former is casual. I think you use it in a wrong situation. It is not strange at all that men use it. ;)
+    credits_raw: Miki
+    content_sha256: bf322a27ff574601f82af92c53161ec1806a5e7225af2dd1fedb4ee598cda2a7
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: '[F] denotes use in female speech.'
+    html: '[F] denotes use in female speech.'
+    credits_raw: Amatuka
+    content_sha256: b98da10378540eeafcd7a774339c053ffc2a9bc1c2fdc3d7a7b737e008db9538
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: Where did you pick up the example? This sounds like from anime, game or a girl from a rich family.
+    html: Where did you pick up the example? This sounds like from anime, game or a girl from a rich family.
+    credits_raw: Miki
+    content_sha256: 639791ec702e90e5517d8547a88351d7acc26c7d28d53bc0502a29c41dd25e49
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      Hmm, looks like fan-fiction actually. ^^v
+      Hope it isn't too bad.
+    html: |-
+      Hmm, looks like fan-fiction actually. ^^v<br/>Hope it isn't too bad.
+    credits_raw: Amatuka
+    content_sha256: e641723378d6590002568e2cb6bd8eb47d1ca84783876f8817debd389545c6c9
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      Yes, this example is not strange at all. I am learning Japanese from a Japanese male, and this is how he explained the familiar usage of "no". It's not uncommon, he says, and you only add "desu ka" for polite company.
+    html: |-
+      Yes, this example is not strange at all. I am learning Japanese from a Japanese male, and this is how he explained the familiar usage of "no". It's not uncommon, he says, and you only add "desu ka" for polite company.
+    credits_raw: Christopher
+    content_sha256: 2eef9ed68a5a2fac1cd13213b48309ee55363522ac8cbea64a9a5f0376dbfcda
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      Is it safe to say that the "-no" question particle is representative of the word "it", as how "it" was used in both examples?
+    html: |-
+      Is it safe to say that the "-no" question particle is representative of the word "it", as how "it" was used in both examples?
+    credits_raw: caith
+    content_sha256: ab879d3a9e6d575201dcc97953795147874107f96f210e4346888676698c7730
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      caith - not really... the translation just comes accross a bit differently in natural english. the の nominalizes the preceding clause, hence why it, in this case, is the natural equivalent. But it's not a 1-1 mapping the other way...
+    html: |-
+      caith - not really... the translation just comes accross a bit differently in natural english. the の nominalizes the preceding clause, hence why it, in this case, is the natural equivalent. But it's not a 1-1 mapping the other way...
+    credits_raw: ninja_k
+    content_sha256: 8aaebb973ff3715c82dcb211feaea89c0e358bcb230209e0ae6ba2af8268d380
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      men can say 〜の but it is technically only for females.that's becasue it sounds very effeminate. many men now are saying 〜の and even 〜ね, butif i were a guy, i would stay away from it！
+    html: |-
+      men can say 〜の but it is technically only for females.that's becasue it sounds very effeminate. many men now are saying 〜の and even 〜ね, butif i were a guy, i would stay away from it！
+    credits_raw: ellieluvsu
+    content_sha256: b9d71eb7b48334f21a6fe0defeb57a4061b0591010ea4b293d95f99e3513d24b
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: A simple rule of thumb is, if you are a man, skip "no" at the end and you won't be led into that ambivalent world.
+    html: A simple rule of thumb is, if you are a man, skip "no" at the end and you won't be led into that ambivalent world.
+    credits_raw: bamboo4
+    content_sha256: 9be1a26f029454004cbd0305bda03f11c7ab426203836d901f44b8a5403ad9ba
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: |-
+      In an interrogative sentence, の by males is common, but perfectly not in an affirmative.
+      #882 ですの is old-fashioned. We prefer to 何で?(if he/she is familiar) or 何がですか?(if not)
+    html: |-
+      In an interrogative sentence, の by males is common, but perfectly not in an affirmative.<br/>#882 ですの is old-fashioned. We prefer to 何で?(if he/she is familiar) or 何がですか?(if not)
+    credits_raw: sato
+    content_sha256: 3b589b85c57d2a8aab3b7e2ae5c99933b5fbba023ee2458faac9d8c531efc65e
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: |-
+      [#3260]: "still" should be changed to "only". "Still" implies that it has been 4 o'clock for a long time. But of course, it is only ever 4 o'clock for an instant.
+    html: |-
+      [#3260]: "still" should be changed to "only". "Still" implies that it has been 4 o'clock for a long time. But of course, it is only ever 4 o'clock for an instant.
+    credits_raw: seanohagan
+    content_sha256: 88bae29e7df87a35e1b9dd89bbf7bd3a861ef01d97e3bace18277fe4571dfdb8
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    source_id: null
+    text: どしたの？ What happened? To a child who's suddenly crying. Said by everyone, whether you're male or female.
+    html: どしたの？ What happened? To a child who's suddenly crying. Said by everyone, whether you're male or female.
+    credits_raw: bgaskin
+    content_sha256: 4394b00ca7a3409018de1a952d5a5218b103d23e2d888436606841bc00697f63
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    source_id: null
+    text: I am confused....
+    html: I am confused....
+    credits_raw: Mapel
+    content_sha256: 77697024edd98152251e3b2f33a08e97ef3b0341f85b72a252138ba654d4b48e
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 775
+    label: 〜か
+    source_url: https://takoboto.jp/bunpo/775
+  - target_id: 641
+    label: 〜の
+    source_url: https://takoboto.jp/bunpo/641
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:16+00:00'
+response_sha256: 7354a92bfecfc6b2147503b4ccc7691d789f993c27d6a9f210bf3a2267f29d34
+warnings: []

@@ -1,0 +1,132 @@
+schema_version: 2
+id: 1203
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1203/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: なし
+romanized_label: nashi
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: without
+meaning_example: without a coat on
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1203
+    body_text: |-
+      without 
+       without a coat on
+    body_html: |-
+      <span>without</span> <br/> <span>without a coat on</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 3276
+    position: 0
+    japanese: とても寒いけれど、彼女はコートなしで出かけました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%a6%e3%82%82"><span>とても</span></a><a href="https://takoboto.jp/?q=%e5%af%92%e3%81%84%e3%81%91%e3%82%8c%e3%81%a9%e3%80%81"><span>寒いけれど、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e3%82%b3%e3%83%bc%e3%83%88"><span>コート</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%97%e3%81%a7"><strong>なしで</strong></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%8b%e3%81%91%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>出かけました。</span></a>
+    segments:
+      - text: とても寒いけれど、彼女はコート
+        grammar_highlight: false
+      - text: なしで
+        grammar_highlight: true
+      - text: 出かけました。
+        grammar_highlight: false
+    reading: とてもさむいけれど、かのじょはコートなしででかけました。
+    credits_raw: tuananh, dc
+    translations:
+      - language: en
+        text: Although it is very cold, she went out without a coat on
+        html: |-
+          <span>Although it is very cold, she went out </span><strong>without </strong><span>a coat on </span>
+        segments:
+          - text: 'Although it is very cold, she went out '
+            grammar_highlight: false
+          - text: 'without '
+            grammar_highlight: true
+          - text: 'a coat on '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3283
+    position: 1
+    japanese: 彼女はコートなしで出かけました
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%82%b3%e3%83%bc%e3%83%88%e3%81%aa%e3%81%97%e3%81%a7"><span>彼女はコートなしで</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%8b%e3%81%91%e3%81%be%e3%81%97%e3%81%9f"><span>出かけました</span></a>
+    segments:
+      - text: 彼女はコートなしで出かけました
+        grammar_highlight: false
+    reading: かのじょはコートなしででかけました
+    credits_raw: dc
+    translations:
+      - language: en
+        text: she went out without wearing a coat
+        html: |-
+          <span>she went out without wearing a coat </span>
+        segments:
+          - text: 'she went out without wearing a coat '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8870
+    position: 2
+    japanese: このアパートはお風呂なしです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%a2%e3%83%91%e3%83%bc%e3%83%88%e3%81%af%e3%81%8a%e9%a2%a8%e5%91%82%e3%81%aa%e3%81%97%e3%81%a7%e3%81%99%e3%80%82"><span>このアパートはお風呂なしです。</span></a>
+    segments:
+      - text: このアパートはお風呂なしです。
+        grammar_highlight: false
+    reading: このアパートはおふろなしです。
+    credits_raw: null
+    translations:
+      - language: en
+        text: This apartment does not have a bath.
+        html: |-
+          <span>This apartment does not have a bath. </span>
+        segments:
+          - text: 'This apartment does not have a bath. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Do you have to add "de" at the end?
+    html: Do you have to add "de" at the end?
+    credits_raw: Ayumi
+    content_sha256: fc040857a60a243d125da02bb86617c9a0d8aa66d9eb1b2338b2793fc810506a
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      で indicates a way something is done. Thus コート無しで means literally "in a coatless fashion". But you don't have to always use で, for example, 名前無し means nameless or anonymous. Also, it's an noun-like suffix, and you use it with の in adjectival context、 like in 名無しの人。
+
+      For fun factor, it seems that -無し was the negative suffix in classical Japanese, equivalent of modern-day -ない. So although it's an equivalent of a suffix inflected like i-adjectives (形容詞), it behaves like a noun today.
+    html: |-
+      で indicates a way something is done. Thus コート無しで means literally "in a coatless fashion". But you don't have to always use で, for example, 名前無し means nameless or anonymous. Also, it's an noun-like suffix, and you use it with の in adjectival context、 like in 名無しの人。<br/><br/>For fun factor, it seems that -無し was the negative suffix in classical Japanese, equivalent of modern-day -ない. So although it's an equivalent of a suffix inflected like i-adjectives (形容詞), it behaves like a noun today.
+    credits_raw: mathrick
+    content_sha256: 0e795702366d9a217de73074159f21afd1b57e329c36863088a42a0f722ff629
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: An error crept in, 名前無し there should have really been 名無し.
+    html: An error crept in, 名前無し there should have really been 名無し.
+    credits_raw: mathrick
+    content_sha256: 033a2a99f943e1071e92756a0cadfc36bb967bc4f3c5b590c3b17efe7106bf98
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 352
+    label: 抜き
+    source_url: https://takoboto.jp/bunpo/352
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:35:14+00:00'
+response_sha256: 145ceb7f3ffdd2ad99a64ec66599f2691b7479f12a2f4a9a1646043cd172f476
+warnings: []

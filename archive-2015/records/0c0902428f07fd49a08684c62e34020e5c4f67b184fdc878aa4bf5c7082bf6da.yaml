@@ -1,0 +1,175 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 749
+label: kana
+title_raw: 〜かな [〜かな] (kana)
+title: 〜かな
+reading: 〜かな
+romanized_label: kana
+category: grammar
+jlpt_level_original: '3'
+meaning: I wonder.. (Based on か question particle.)
+meaning_example: I wonder if he'll be here soon?
+credits_raw: Amatuka
+source_url: http://jgram.org/pages/viewOne.php?tagE=kana
+archive_url: https://web.archive.org/web/20150224225759id_/http://jgram.org/pages/viewOne.php?tagE=kana
+archive_timestamp: '20150224225759'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: 74ITWEBY2VDDCNWXJSXZJKBLZ5JKUBDF
+response_sha256: 093944af037472f30f1950ec031583b941e5c3c8c769d23e5f10d6dfa26ae1e9
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: かな is used by males, it sounds weird if females use  it. Thus females use かしら。
+    html: |-
+      かな is used by males, it sounds weird if females use  it. Thus females use かしら。<br/>
+    credits_raw: kkat
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 5276
+    position: 0
+    japanese: この靴は高いかな
+    body_text: "この靴は高いかな  \n\n\t\tI wonder if these shoes are expensive"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの靴は高いかな\">\n\t\t\t\tこの靴は高い<strong>かな</strong> <strong></strong></a> <br/>\n\t\tI wonder if these shoes are expensive \n\t\t<strong> </strong>"
+    credits_raw: alarma
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5284
+    position: 1
+    japanese: 締め切りに間に合わなかったらどうなるかな。
+    body_text: "締め切りに間に合わなかったらどうなるかな。 \n\nWhat if \n\t\tI miss the deadline?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ締め切りに間に合わなかったらどうなるかな。\">\n\t\t\t\t締め切りに間に合わなかったらどうなる<strong>かな。</strong><strong></strong></a> <br/>\n<strong>What if </strong>\n\t\tI miss the deadline?"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5285
+    position: 2
+    japanese: 「彼の病気は重いのかな。」「そうでないといいね。」
+    body_text: "「彼の病気は重いのかな。」「そうでないといいね。」 \n\n\t\t\"Is he seriously ill \n\t\t?\" \n\t\t\"I hope not.\""
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ「彼の病気は重いのかな。」「そうでないといいね。」\">\n\t\t\t\t「彼の病気は重いの<strong>かな。」</strong>「そうでないといいね。」<strong></strong></a> <br/>\n\t\t\"Is he seriously ill \n\t\t<strong>?\" </strong>\n\t\t\"I hope not.\""
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5286
+    position: 3
+    japanese: 「肘が痛むんだよ。病院に行こうかな。」
+    body_text: "「肘が痛むんだよ。病院に行こうかな。」 \n\n\t\t\"My elbow really hurts. \n\t\tI guess \n\t\tI should go to a hospital.\""
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ「肘が痛むんだよ。病院に行こうかな。」\">\n\t\t\t\t「肘が痛むんだよ。病院に行こう<strong>かな。」</strong><strong></strong></a> <br/>\n\t\t\"My elbow really hurts. \n\t\t<strong>I guess </strong>\n\t\tI should go to a hospital.\""
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5287
+    position: 4
+    japanese: ７月の上旬に、海に行くのは早いかな。
+    body_text: "７月の上旬に、海に行くのは早いかな。 \n\nI wonder \n\t\tif the first week (or so) of July is too early to go to the beach."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ７月の上旬に、海に行くのは早いかな。\">\n\t\t\t\t７月の上旬に、海に行くのは早い<strong>かな。</strong><strong></strong></a> <br/>\n<strong>I wonder </strong>\n\t\tif the first week (or so) of July is too early to go to the beach."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: "Three main uses of かな.\n\r\n1. A question with little doubt.\n\r\ne.g. ジムならうまくいくかな。As it's Jim I wonder whether it will go well.\n\r\n2. Talking to yourself.\n\r\nゲーセンに行こうかな。Shall I go to the game center?\n\r\n3. Expressing wish / hope.\n\r\n誰かこないかな。Is anybody going to come? (I hope somebody comes.)"
+    html: "Three main uses of かな.<br/>\r\n1. A question with little doubt.<br/>\r\ne.g. ジムならうまくいくかな。As it's Jim I wonder whether it will go well.<br/>\r\n2. Talking to yourself.<br/>\r\nゲーセンに行こうかな。Shall I go to the game center?<br/>\r\n3. Expressing wish / hope.<br/>\r\n誰かこないかな。Is anybody going to come? (I hope somebody comes.)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "Placed on the end of a sentence.\n\n\n\r\nS = Sentence."
+    html: "Placed on the end of a sentence.<br/>\n<br/>\r\nS = Sentence."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: bamboo4
+    text: "かな is made up of か, a particle for interrogatory and な a particle to express one's emotion. It is used to ask oneself a question or a question to another as to the degree of uncertainty involved. When you use it in the form of ないかな, you are expressing a desire for something to come true.\n\n\n\r\n間違えたかな = Did I screw it up?\n\r\n天気にならないかな = Hope the weather clears up!"
+    html: "かな is made up of か, a particle for interrogatory and な a particle to express one's emotion. It is used to ask oneself a question or a question to another as to the degree of uncertainty involved. When you use it in the form of ないかな, you are expressing a desire for something to come true.<br/>\n<br/>\r\n間違えたかな = Did I screw it up?<br/>\r\n天気にならないかな = Hope the weather clears up!<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Ness
+    text: How would you express a desire for something to not come true? such as, "I hope the weather does not clear up." ?
+    html: How would you express a desire for something to not come true? such as, "I hope the weather does not clear up." ?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: chrispix
+    text: |-
+      I'm not sure if its a usual thing, but in Tokyo a lot of my female friends often use ...かな〜. It could be a regional thing or that I have particularly unrefined friends, but I thought I'd drop the thought in anyway.
+    html: |-
+      I'm not sure if its a usual thing, but in Tokyo a lot of my female friends often use ...かな〜. It could be a regional thing or that I have particularly unrefined friends, but I thought I'd drop the thought in anyway.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: charles
+    text: |-
+      I was told by a japanese friend that using かな with the polite form (such as 〜ですかな...) really sounded "Ojisan" (litterally, "speaking like your uncle", which does not sound young and trendy). Maybe this is the reason why it has been written in this article that 〜かな is male speech?
+    html: |-
+      I was told by a japanese friend that using かな with the polite form (such as 〜ですかな...) really sounded "Ojisan" (litterally, "speaking like your uncle", which does not sound young and trendy). Maybe this is the reason why it has been written in this article that 〜かな is male speech?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: televangelist
+    text: |-
+      Kana is usable by Japanese women, but mainly for monologues - it's more versatile for usage by men.  And yeah, go with the plain form if you're under 40.
+    html: |-
+      Kana is usable by Japanese women, but mainly for monologues - it's more versatile for usage by men.  And yeah, go with the plain form if you're under 40.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: bunbun
+    text: Girls often say かな, but a guy would never say かしら as that sounds very feminine.
+    html: Girls often say かな, but a guy would never say かしら as that sounds very feminine.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: kke
+    label: kke
+    annotation_text: kke [rubyhatchet]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kke">kke</a> [<a href="http://jgram.org/pages/contributions.php?author=rubyhatchet">rubyhatchet</a>]
+    credits_raw: rubyhatchet
+sections:
+  - kind: header
+    text: "〜かな [〜かな] (kana)\n    Meaning: I wonder.. (Based on か question particle.) \n    Example: I wonder if he'll be here soon?\n    JLPT Level: 3\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>〜かな [〜かな] (kana)</span><br/>    <span><b>Meaning</b>: I wonder.. (Based on か question particle.) </span><br/>    <b>Example</b>: <i>I wonder if he'll be here soon?</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225759'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6627743
+  length: 6515
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 238c002847ad5ca394007f93c15f316380697fcc08c43f86e71874d245611bde

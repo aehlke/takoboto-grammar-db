@@ -1,0 +1,516 @@
+schema_version: 2
+id: 1548
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1548/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜こなす
+romanized_label: konasu
+alternate_forms: []
+jlpt_level: 2
+credits_raw: bamboo4
+meaning: have the knack to deal with something; completely
+meaning_example: I dealt with it expertly
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1548
+    body_text: |-
+      have the knack to deal with something; completely 
+       I dealt with it expertly
+    body_html: |-
+      <span>have the knack to deal with something; completely</span> <br/> <span>I dealt with it expertly</span>
+    credits_raw: bamboo4
+  - kind: formation
+    source_dom_id: editable_Formation_1548
+    body_text: Verb ます-stem+こなす
+    body_html: |-
+      <div><div><div>Verb ます-stem</div></div><div><div>+</div><div>こなす</div></div></div>
+    credits_raw: null
+formations:
+  - Verb ます-stem + こなす
+examples:
+  - source_id: 5766
+    position: 0
+    japanese: この本を読みこなします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%82%92"><span>本を</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%81%bf"><span>読み</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%aa%e3%81%97%e3%81%be%e3%81%99"><strong>こなします</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: この本を読み
+        grammar_highlight: false
+      - text: こなします
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このほんをよみこなします。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I'll read the book from cover to cover .
+        html: |-
+          <span>I'll read the book </span><strong>from cover to cover </strong><span>. </span>
+        segments:
+          - text: 'I''ll read the book '
+            grammar_highlight: false
+          - text: 'from cover to cover '
+            grammar_highlight: true
+          - text: '. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5769
+    position: 1
+    japanese: 彼にはその仕事をこなす能力がある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab%e3%81%af%e3%81%9d%e3%81%ae%e4%bb%95%e4%ba%8b%e3%82%92"><span>彼にはその仕事を</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%aa%e3%81%99"><strong>こなす</strong></a><a href="https://takoboto.jp/?q=%e8%83%bd%e5%8a%9b%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>能力がある。</span></a>
+    segments:
+      - text: 彼にはその仕事を
+        grammar_highlight: false
+      - text: こなす
+        grammar_highlight: true
+      - text: 能力がある。
+        grammar_highlight: false
+    reading: かれにはそのしごとをこなすのうりょくがある。
+    credits_raw: dc, Kuval Anand
+    translations:
+      - language: en
+        text: He has the ability to handle  the work.
+        html: |-
+          <span>He has the ability to </span><strong>handle </strong><span> the work. </span>
+        segments:
+          - text: 'He has the ability to '
+            grammar_highlight: false
+          - text: 'handle '
+            grammar_highlight: true
+          - text: ' the work. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5770
+    position: 2
+    japanese: 彼の英語を使いこなす力は私とほぼ等しい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%82%92"><span>英語を</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%84"><span>使い</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%aa%e3%81%99"><strong>こなす</strong></a><a href="https://takoboto.jp/?q=%e5%8a%9b%e3%81%af"><span>力は</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%a8%e3%81%bb%e3%81%bc"><span>私とほぼ</span></a><a href="https://takoboto.jp/?q=%e7%ad%89%e3%81%97%e3%81%84%e3%80%82"><span>等しい。</span></a>
+    segments:
+      - text: 彼の英語を使い
+        grammar_highlight: false
+      - text: こなす
+        grammar_highlight: true
+      - text: 力は私とほぼ等しい。
+        grammar_highlight: false
+    reading: かれのえいごをつかいこなすちからはわたしとほぼひとしい。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: His command of English is on a par with mine.
+        html: |-
+          <span>His command </span><span>of English is on a par with mine. </span>
+        segments:
+          - text: 'His command of English is on a par with mine. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5771
+    position: 3
+    japanese: 彼はフランス語を自由に使いこなすことにかけてはだれにも劣らない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e8%aa%9e%e3%82%92%e8%87%aa%e7%94%b1%e3%81%ab%e4%bd%bf%e3%81%84"><span>彼はフランス語を自由に使い</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%aa%e3%81%99"><strong>こなす</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%91%e3%81%a6%e3%81%af%e3%81%a0%e3%82%8c%e3%81%ab%e3%82%82%e5%8a%a3%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>ことにかけてはだれにも劣らない。</span></a>
+    segments:
+      - text: 彼はフランス語を自由に使い
+        grammar_highlight: false
+      - text: こなす
+        grammar_highlight: true
+      - text: ことにかけてはだれにも劣らない。
+        grammar_highlight: false
+    reading: かれはふらんすごをじゆうにつかいこなすことにかけてはだれにもおとらない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He is second to none in his command of French.
+        html: |-
+          <span>He is second to none in his command of French. </span>
+        segments:
+          - text: 'He is second to none in his command of French. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5772
+    position: 4
+    japanese: 彼は英語をうまく使いこなす。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%82%92%e3%81%86%e3%81%be%e3%81%8f"><span>英語をうまく</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%84"><span>使い</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%aa%e3%81%99"><strong>こなす</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼は英語をうまく使い
+        grammar_highlight: false
+      - text: こなす
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かれはえいごをうまくつかいこなす。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He has a good command of English.
+        html: |-
+          <span>He has a good command of English. </span>
+        segments:
+          - text: 'He has a good command of English. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5845
+    position: 5
+    japanese: 日本語ちゃんと使いこなせてるんですね!！
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%a1%e3%82%83%e3%82%93%e3%81%a8"><span>日本語ちゃんと</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%84"><span>使い</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%aa%e3%81%9b%e3%81%a6%e3%82%8b%e3%82%93"><strong>こなせてるん</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%ad!"><span>ですね!</span></a><a href="https://takoboto.jp/?q=%ef%bc%81"><span>！</span></a>
+    segments:
+      - text: 日本語ちゃんと使い
+        grammar_highlight: false
+      - text: こなせてるん
+        grammar_highlight: true
+      - text: ですね!！
+        grammar_highlight: false
+    reading: にほんごちゃんとつかいこなせてるんですね
+    credits_raw: dc
+    translations:
+      - language: en
+        text: you speak Japanese perfectly!
+        html: |-
+          <span>you speak Japanese perfectly! </span>
+        segments:
+          - text: 'you speak Japanese perfectly! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6375
+    position: 6
+    japanese: 彼がそのゲームをやりこなしました
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c%e3%81%9d%e3%81%ae%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%92%e3%82%84%e3%82%8a%e3%81%93%e3%81%aa%e3%81%97%e3%81%be%e3%81%97%e3%81%9f"><span>彼がそのゲームをやりこなしました</span></a>
+    segments:
+      - text: 彼がそのゲームをやりこなしました
+        grammar_highlight: false
+    reading: かれがそのゲームをやりこなしました
+    credits_raw: hgtedo
+    translations:
+      - language: en
+        text: He masterfully played that game.
+        html: |-
+          <span>He masterfully played that game. </span>
+        segments:
+          - text: 'He masterfully played that game. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6401
+    position: 7
+    japanese: このシステムは、ほとんどすべての仕事をこなす
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%81%af%e3%80%81%e3%81%bb%e3%81%a8%e3%82%93%e3%81%a9%e3%81%99%e3%81%b9%e3%81%a6%e3%81%ae"><span>このシステムは、ほとんどすべての</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%82%92"><span>仕事を</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%aa%e3%81%99"><strong>こなす</strong></a>
+    segments:
+      - text: このシステムは、ほとんどすべての仕事を
+        grammar_highlight: false
+      - text: こなす
+        grammar_highlight: true
+    reading: このシステムは、ほとんどすべてのしごとをこなす
+    credits_raw: EvilKyra
+    translations:
+      - language: en
+        text: This system has the ability to accomplish virtually any task.
+        html: |-
+          <span>This system has the ability to accomplish virtually any task. </span>
+        segments:
+          - text: 'This system has the ability to accomplish virtually any task. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6787
+    position: 8
+    japanese: （服装は）個性的でもないし、洗練された着こなしというのでもない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%88%e6%9c%8d%e8%a3%85%e3%81%af"><span>（服装は</span></a><a href="https://takoboto.jp/?q=%ef%bc%89%e5%80%8b%e6%80%a7%e7%9a%84%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84%e3%81%97%e3%80%81"><span>）個性的でもないし、</span></a><a href="https://takoboto.jp/?q=%e6%b4%97%e7%b7%b4%e3%81%95%e3%82%8c%e3%81%9f"><span>洗練された</span></a><a href="https://takoboto.jp/?q=%e7%9d%80%e3%81%93%e3%81%aa%e3%81%97"><strong>着こなし</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%86%e3%81%ae%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84%e3%80%82"><span>というのでもない。</span></a>
+    segments:
+      - text: （服装は）個性的でもないし、洗練された
+        grammar_highlight: false
+      - text: 着こなし
+        grammar_highlight: true
+      - text: というのでもない。
+        grammar_highlight: false
+    reading: （ふくそうは）こせいてきでもないし、せんれんされたきこなしというのでもない。
+    credits_raw: adnim
+    translations:
+      - language: en
+        text: (His clothing) was neither individual, nor what what one would call refined and elegant clothing.
+        html: |-
+          <span>(His clothing) was neither individual, nor what what one would call refined and </span><strong>elegant clothing. </strong>
+        segments:
+          - text: '(His clothing) was neither individual, nor what what one would call refined and '
+            grammar_highlight: false
+          - text: 'elegant clothing. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8216
+    position: 9
+    japanese: 彼は新しいパャRンを使いこなせなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84%e3%83%91%e3%83%a3R%e3%83%b3%e3%82%92"><span>新しいパャRンを</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%84%e3%81%93%e3%81%aa%e3%81%9b%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>使いこなせなかった。</span></a>
+    segments:
+      - text: 彼は新しいパャRンを使いこなせなかった。
+        grammar_highlight: false
+    reading: かれはあたらしいンをつかいこなせなかった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He couldn't manage his new personal computer.
+        html: |-
+          <span>He couldn't manage his new personal computer. </span>
+        segments:
+          - text: 'He couldn''t manage his new personal computer. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8217
+    position: 10
+    japanese: 彼は主人役を見事にこなした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e4%b8%bb%e4%ba%ba%e5%bd%b9%e3%82%92"><span>主人役を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e4%ba%8b%e3%81%ab%e3%81%93%e3%81%aa%e3%81%97%e3%81%9f%e3%80%82"><span>見事にこなした。</span></a>
+    segments:
+      - text: 彼は主人役を見事にこなした。
+        grammar_highlight: false
+    reading: かれはしゅじんやくをみごとにこなした。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He played the host perfectly.
+        html: |-
+          <span>He played the host perfectly. </span>
+        segments:
+          - text: 'He played the host perfectly. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      this is similar to verb+[kiru]
+
+      読みきって　= i finished reading it
+      読みこなして = I read it thoroughly
+    html: |-
+      this is similar to verb+[kiru]<br/><br/>読みきって　= i finished reading it<br/>読みこなして = I read it thoroughly
+    credits_raw: dc
+    content_sha256: d0bd9435212403a44ad9069dcc9a687d316f74d965e1d4f627353959190b2648
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: That is not entirely correct.
+    html: That is not entirely correct.
+    credits_raw: bamboo4
+    content_sha256: 1b62d5c6c1ccfcd007a1aaf7f60d3b2446ec2ccaec15d5cc93c80ee3bdb8908f
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Yahoo辞書に下記の解説を書いてあります：
+      動詞の連用形に付いて、自分の思いのままにする意を浮ｷ。うまく…する。完全に…する。「使い―・す」「乗り―・す」「読み―・す」
+
+      だから、[使いこなす]とは、deal with expertly, skilled.
+      だが、「こなす」は単独に使う時、complete；finishの意味をあります。
+      その仕事をこなす。
+    html: |-
+      Yahoo辞書に下記の解説を書いてあります：<br/>動詞の連用形に付いて、自分の思いのままにする意を浮ｷ。うまく…する。完全に…する。「使い―・す」「乗り―・す」「読み―・す」<br/><br/>だから、[使いこなす]とは、deal with expertly, skilled.<br/>だが、「こなす」は単独に使う時、complete；finishの意味をあります。<br/>その仕事をこなす。
+    credits_raw: williamking
+    content_sha256: a604892aa6afca55494a3e16494a9d783ccf028d2c3eaff623f090533b3f368f
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Is both a verb suffix and a verb in its own right.
+
+      In the affirmative, has the connotation of doing something effectively.
+    html: |-
+      Is both a verb suffix and a verb in its own right.<br/><br/>In the affirmative, has the connotation of doing something effectively.
+    credits_raw: american57
+    content_sha256: ccacb467e5a2fbcd918b246bee03139223ccabe7601bebdc80c0c91c7a9a3623
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      #5765 the Japanese look odd if the shampoo needs special technic to use. If not, このシャンプーを使いきった。or 使いつくした。
+      #5766 E would be "I'll read and understand it." or J might change to この本を読みきります。
+      #5768, #5769 the こなす is different from others. Only こなす means to deal with .
+      #5769 even I use Firefox, the letter after こなす looks 文字化け！ It may be 能力 nouryoku
+    html: |-
+      #5765 the Japanese look odd if the shampoo needs special technic to use. If not, このシャンプーを使いきった。or 使いつくした。<br/>#5766 E would be "I'll read and understand it." or J might change to この本を読みきります。<br/>#5768, #5769 the こなす is different from others. Only こなす means to deal with .<br/>#5769 even I use Firefox, the letter after こなす looks 文字化け！ It may be 能力 nouryoku
+    credits_raw: Miki
+    content_sha256: 6edb7ac46e36f1e90973b4071f57061af6fdabcf462eb1ed8ba96a09cd39fc93
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: For 5768 to ~69, I believe 迫ﾍがない should be corrected to ことがない。
+    html: For 5768 to ~69, I believe 迫ﾍがない should be corrected to ことがない。
+    credits_raw: maikeru
+    content_sha256: 1f4d4dd612d40a0c3ae23de9e4029176762bd586bc286950381c98684d782638
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      こなす means to digest or pulverize something. Hence, 使いこなす has the connotation of knowing all the ropes of using something. Similarly, 読みこなす does not merely mean "finish reading" but it means "to read and thoroughly digest the contents of."
+    html: |-
+      こなす means to digest or pulverize something. Hence, 使いこなす has the connotation of knowing all the ropes of using something. Similarly, 読みこなす does not merely mean "finish reading" but it means "to read and thoroughly digest the contents of."
+    credits_raw: bamboo4
+    content_sha256: 701d10f3334a38710369933078c6ca86702be7998b7c352098146ce05d9f680c
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      [Hey everyone!I would like to know, for example if you could use "konasu" to say: you really eat well with your choptsicks] ==> anata ha ohashi de tabekonasu ndesu ne.
+      thank you very much
+    html: |-
+      [Hey everyone!I would like to know, for example if you could use "konasu" to say: you really eat well with your choptsicks] ==&gt; anata ha ohashi de tabekonasu ndesu ne.<br/>thank you very much
+    credits_raw: のぶた
+    content_sha256: 614462632963dfb0cc063f833eef9c8647b8cff71edd705426785acff1e92713
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      のぶたさん、Your J example is not good enough. (Anata ha) ohashi wo (yoku) tsukai konashite imasune. Someone praise you for being handling chopsticks skillfully. Anataha ohashide nandemo tabekonasundesune. (with a surprise) you can eat anything with your chopstick (such food as difficult to eat with chopstciks.)
+    html: |-
+      のぶたさん、Your J example is not good enough. (Anata ha) ohashi wo (yoku) tsukai konashite imasune. Someone praise you for being handling chopsticks skillfully. Anataha ohashide nandemo tabekonasundesune. (with a surprise) you can eat anything with your chopstick (such food as difficult to eat with chopstciks.)
+    credits_raw: Miki
+    content_sha256: b557e078d8ec7fd2b043c94402d2f1dca59b4899441929428c0d190760b51d32
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: msikrtu, ことがない does not make sense in thses sentences.
+    html: msikrtu, ことがない does not make sense in thses sentences.
+    credits_raw: Miki
+    content_sha256: 6ae3157c6f86368b699366e23f3306b3b518b84a94cdbd2c562f2977f573d101
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: do tell us why it doesnt make sense. 教えてくださいね。:-)
+    html: do tell us why it doesnt make sense. 教えてくださいね。:-)
+    credits_raw: maikerug
+    content_sha256: 8ec9c207181518eb0d06b6da4c6bb372c65bcbdd668c800c1a5c62e1bc4d3ba8
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      I got it, "仕事をこなす" means to do the work thoroughly, "迫ﾍ"，being a 文字化け, should be replace by a word that means 'ability', like "能力". I guess the one who entered it should correct it.
+    html: |-
+      I got it, "仕事をこなす" means to do the work thoroughly, "迫ﾍ"，being a 文字化け, should be replace by a word that means 'ability', like "能力". I guess the one who entered it should correct it.
+    credits_raw: maikerug
+    content_sha256: 365087f5d7c26219293f95a17dac2525f5db3c44c2ed7462f02fdd24f2ea9881
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      bamboo4's explanation makes the most sense. In example 6401, "このシステムは、ほとんどすべての仕事をこなす", it's like saying "the system gobbled up and finished all the work".
+    html: |-
+      bamboo4's explanation makes the most sense. In example 6401, "このシステムは、ほとんどすべての仕事をこなす", it's like saying "the system gobbled up and finished all the work".
+    credits_raw: EvilKyra
+    content_sha256: 8f379af921ba83d52b28cbc53d56b6c0105f41a4fda8b1bef5a0543e6c1902a5
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      can a native speaker comment on this? a friend used the phrase 使いこなす to mean "exhaustively use" but the above examples dont quite have this nuance.
+    html: |-
+      can a native speaker comment on this? a friend used the phrase 使いこなす to mean "exhaustively use" but the above examples dont quite have this nuance.
+    credits_raw: dc
+    content_sha256: fb07e1e0cc41dcb0afa114521b36d59730480921470498e7dfd94cae2fc7f92d
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      I don't see 'exhaustively use' as a nuance seen in the 大辞林 entry
+      http://dictionary.goo.ne.jp/search.php?MT=%BB%C8%A4%A4%A4%B3%A4%CA%A4%B9&kind=jn
+    html: |-
+      I don't see 'exhaustively use' as a nuance seen in the 大辞林 entry<br/>http://dictionary.goo.ne.jp/search.php?MT=%BB%C8%A4%A4%A4%B3%A4%CA%A4%B9&amp;kind=jn
+    credits_raw: Paul
+    content_sha256: fba8f1a44d4b6fbba069cc46cdac86f3a501eba0f22785d6ffc39f8c3c144f51
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: |-
+      Example 5770 is not correct. I had a native speaker look at it and she told me that it should be:
+      彼の英語を使いこなす力は私とほぼ等しい。Also, like Miki, she also agreed that examples 5769 and 5769 might be 文字化け, because the word 迫ﾍ makes absolutely no sense in that sentence and should probably be 迫ﾍ, if these can possibly be fixed.
+    html: |-
+      Example 5770 is not correct. I had a native speaker look at it and she told me that it should be:<br/>彼の英語を使いこなす力は私とほぼ等しい。Also, like Miki, she also agreed that examples 5769 and 5769 might be 文字化け, because the word 迫ﾍ makes absolutely no sense in that sentence and should probably be 迫ﾍ, if these can possibly be fixed.
+    credits_raw: violagirl
+    content_sha256: e670929ae7793461d29cfca1d281ee29db1e2de98675f71431580bd1bcb460d8
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: |-
+      I quite agree with maikerug...the word ”迫ﾍ” Should be repleced by another worｄ...Like "能力”。。Or other words with the clear meaning..
+    html: |-
+      I quite agree with maikerug...the word ”迫ﾍ” Should be repleced by another worｄ...Like "能力”。。Or other words with the clear meaning..
+    credits_raw: gahoangdai
+    content_sha256: 3233a32eeb3a8d30d84f1972924f3d1adfb1297c6ecc75f56c034703b3489546
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: |-
+      使いつくす "might mean exhaustively use". ex 食べつくす eat up
+      こなす implys somebody enough do something to make the best of. 
+      読みこなす measn read and understand the content.
+    html: |-
+      使いつくす "might mean exhaustively use". ex 食べつくす eat up<br/>こなす implys somebody enough do something to make the best of. <br/>読みこなす measn read and understand the content.
+    credits_raw: Miki
+    content_sha256: 7087d0552f4fdc19bddf4897c3a1753e4c7d5c519157fd88724665f48b3351ad
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    source_id: null
+    text: |-
+      when you want to use "used up"( such as the first sentence " I used up the shampoo completely", you cannot use 使いこなす。It must be 使い切る。
+    html: |-
+      when you want to use "used up"( such as the first sentence " I used up the shampoo completely", you cannot use 使いこなす。It must be 使い切る。
+    credits_raw: Kimmy
+    content_sha256: 34de7f8b44259e52f46d3f17fc9d279917a2a94491989819f2801383154bbe3e
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    source_id: null
+    text: '@Kimmy Thanks, I moved the sentence to the 切る entry.'
+    html: '@Kimmy Thanks, I moved the sentence to the 切る entry.'
+    credits_raw: beno
+    content_sha256: 5e6d8ec9510e46bd9b1796db377fa8447cfa1c570a904bebb12a5b09b3eac735
+    original_created_at: null
+    original_updated_at: null
+  - position: 20
+    source_id: null
+    text: Just like to add that you can also use 果たす in much the same way as 〜切る, so 使い果たす means the same thing as 使い切る
+    html: Just like to add that you can also use 果たす in much the same way as 〜切る, so 使い果たす means the same thing as 使い切る
+    credits_raw: noisecancelling
+    content_sha256: 8de72c06e7a13b6e5ae79f96758f85212b6068023a32f30536a30c4da620103c
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:13+00:00'
+response_sha256: 32e76a70d4872f639d4169503cd05a4df1701f48fdffe73af12f7ccac93ba071
+warnings: []

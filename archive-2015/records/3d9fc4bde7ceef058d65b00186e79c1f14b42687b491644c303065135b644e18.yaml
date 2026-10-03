@@ -1,0 +1,114 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 638
+label: na
+title_raw: 〜な [〜な] (na)
+title: 〜な
+reading: 〜な
+romanized_label: na
+category: grammar
+jlpt_level_original: '3'
+meaning: (particle used with na-adjectives)
+meaning_example: What a strange man!
+credits_raw: Amatuka
+source_url: http://jgram.org/pages/viewOne.php?tagE=na
+archive_url: https://web.archive.org/web/20150224225810id_/http://jgram.org/pages/viewOne.php?tagE=na
+archive_timestamp: '20150224225810'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: 5SUHYCPO6UIOIM3RTNVMMOBEABWSNZDX
+response_sha256: 7e0dad5bf4ac6270de1dea679f1bbafdb1eeec885cafeb699a12366ddf705d91
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 719
+    position: 0
+    japanese: 私はきっと変な人だと思われてる。
+    body_text: "私はきっと変な人だと思われてる。 \n\n\t\tI'm sure I'm thought of as an odd person."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ私はきっと変な人だと思われてる。\">\n\t\t\t\t私はきっと変<strong>な</strong>人だと思われてる。<strong></strong></a> <br/>\n\t\tI'm sure I'm thought of as an odd person. \n\t\t<strong> </strong>"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5324
+    position: 1
+    japanese: 彼女はきれいな足をしている。
+    body_text: "彼女はきれいな足をしている。 \n\n\t\tShe has \n\t\tbeautiful \n\t\tlegs."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女はきれいな足をしている。\">\n\t\t\t\t彼女はきれい<strong>な</strong>足をしている。<strong></strong></a> <br/>\n\t\tShe has \n\t\t<strong>beautiful </strong>\n\t\tlegs."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5325
+    position: 2
+    japanese: 静かなレストランに行きましょう。
+    body_text: "静かなレストランに行きましょう。 \n\n\t\tLet's go to a \n\t\tquiet \n\t\trestaurant."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ静かなレストランに行きましょう。\">\n静か<strong>な</strong>レストランに行きましょう。<strong></strong></a> <br/>\n\t\tLet's go to a \n\t\t<strong>quiet </strong>\n\t\trestaurant."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: "な is used by na-adjectives to modify the word that follows them. \n\r\nThis is exactly the same way の is used with nouns to modify the word that follows them.\n\r\nな derived from なる - and なる can still be used in some circumstances in the same way."
+    html: "な is used by na-adjectives to modify the word that follows them. <br/>\r\nThis is exactly the same way の is used with nouns to modify the word that follows <b>them</b>.<br/>\r\nな derived from なる - and なる can still be used in some circumstances in the same way."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "E.g. 車 - (a) Car.\n\r\nModify with な-adjective,\n\r\n大きな車 - (a) Large car.\n\r\nModify with noun\n\r\nフレッドの車 - Fred's car."
+    html: "E.g. 車 - (a) Car.<br/>\r\nModify with な-adjective,<br/>\r\n大きな車 - (a) Large car.<br/>\r\nModify with noun<br/>\r\nフレッドの車 - Fred's car."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: "Note that the same word can often be used both as a na-adjective and as a noun.\n\r\nAlso quite a lot of i-adjectives can (with the i removed) be used as na-adjectives.\n\r\ne.g. 大きい車 vs. 大きな車"
+    html: "Note that the same word can often be used <b>both</b> as a na-adjective and as a noun.<br/>\r\nAlso quite a lot of i-adjectives can (with the i removed) be used as na-adjectives.<br/>\r\ne.g. 大きい車 vs. 大きな車"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: naru
+    label: naru
+    annotation_text: |-
+      naru    (な derived from なる, but nowadays naru is fairly restricted in usage (classical and religious contexts)) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=naru">naru</a>    (な derived from なる, but nowadays naru is fairly restricted in usage (classical and religious contexts)) [<a href="http://jgram.org/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: 'no'
+    label: 'no'
+    annotation_text: no    (の can be used in modifying words with nouns much as な can with na-adjectives.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=no">no</a>    (の can be used in modifying words with nouns much as な can with na-adjectives.) [<a href="http://jgram.org/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: "〜な [〜な] (na)\n    Meaning: (particle used with na-adjectives) \n    Example: What a strange man!\n    JLPT Level: 3\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>〜な [〜な] (na)</span><br/>    <span><b>Meaning</b>: (particle used with na-adjectives) </span><br/>    <b>Example</b>: <i>What a strange man!</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225810'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6810809
+  length: 5620
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 9bbfd67106d95cbb117a3ff1a32e2e7259a70facc6fc5406587f0d9fe148602f

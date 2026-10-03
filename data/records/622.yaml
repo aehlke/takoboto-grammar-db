@@ -1,0 +1,188 @@
+schema_version: 2
+id: 622
+source: takoboto
+source_url: https://takoboto.jp/bunpo/622/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜も
+romanized_label: mo-2
+alternate_forms: []
+jlpt_level: 4
+credits_raw: Amatuka
+meaning: (with -ve) neither ... nor , also not, either
+meaning_example: That isn't mine either.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_622
+    body_text: |-
+      (with -ve) neither ... nor , also not, either 
+       That isn't mine either.
+    body_html: |-
+      <span>(with -ve) neither ... nor , also not, either</span> <br/> <span>That isn't mine either.</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 691
+    position: 0
+    japanese: コーヒーも紅茶も飲みません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc"><span>コーヒー</span></a><a href="https://takoboto.jp/?q=%e3%82%82"><strong>も</strong></a><a href="https://takoboto.jp/?q=%e7%b4%85%e8%8c%b6"><span>紅茶</span></a><a href="https://takoboto.jp/?q=%e3%82%82"><strong>も</strong></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%81%bf%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>飲みません。</span></a>
+    segments:
+      - text: コーヒー
+        grammar_highlight: false
+      - text: も
+        grammar_highlight: true
+      - text: 紅茶
+        grammar_highlight: false
+      - text: も
+        grammar_highlight: true
+      - text: 飲みません。
+        grammar_highlight: false
+    reading: コーヒーもこうちゃものみません。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I drink neither coffee nor tea.
+        html: |-
+          <span>I drink </span><strong>neither </strong><span>coffee </span><strong>nor </strong><span>tea. </span>
+        segments:
+          - text: 'I drink '
+            grammar_highlight: false
+          - text: 'neither '
+            grammar_highlight: true
+          - text: 'coffee '
+            grammar_highlight: false
+          - text: 'nor '
+            grammar_highlight: true
+          - text: 'tea. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 692
+    position: 1
+    japanese: これも会社の車じゃありません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c"><span>これ</span></a><a href="https://takoboto.jp/?q=%e3%82%82"><strong>も</strong></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%ae"><span>会社の</span></a><a href="https://takoboto.jp/?q=%e8%bb%8a%e3%81%98%e3%82%83%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>車じゃありません。</span></a>
+    segments:
+      - text: これ
+        grammar_highlight: false
+      - text: も
+        grammar_highlight: true
+      - text: 会社の車じゃありません。
+        grammar_highlight: false
+    reading: これもかいしゃのくるまじゃありません。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: This isn't a company car either.
+        html: |-
+          <span>This isn't a company car </span><strong>either. </strong>
+        segments:
+          - text: 'This isn''t a company car '
+            grammar_highlight: false
+          - text: 'either. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4864
+    position: 2
+    japanese: 「ぼくの父は酒を飲みません。」「私の父もなんです。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%81%bc%e3%81%8f%e3%81%ae%e7%88%b6%e3%81%af%e9%85%92%e3%82%92%e9%a3%b2%e3%81%bf%e3%81%be%e3%81%9b%e3%82%93%e3%80%82%e3%80%8d%e3%80%8c%e7%a7%81%e3%81%ae%e7%88%b6"><span>「ぼくの父は酒を飲みません。」「私の父</span></a><a href="https://takoboto.jp/?q=%e3%82%82"><strong>も</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a7%e3%81%99%e3%80%82%e3%80%8d"><span>なんです。」</span></a>
+    segments:
+      - text: 「ぼくの父は酒を飲みません。」「私の父
+        grammar_highlight: false
+      - text: も
+        grammar_highlight: true
+      - text: なんです。」
+        grammar_highlight: false
+    reading: 「ぼくのちちはさけをのみません。」「わたしのちちもなんです。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"My father doesn''t drink." " Neither  does my father."'
+        html: |-
+          <span>"My father doesn't drink." " </span><strong>Neither </strong><span> does my father." </span>
+        segments:
+          - text: '"My father doesn''t drink." " '
+            grammar_highlight: false
+          - text: 'Neither '
+            grammar_highlight: true
+          - text: ' does my father." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4866
+    position: 3
+    japanese: あなたがスキーに行かないのなら、私も行きません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e3%82%b9%e3%82%ad%e3%83%bc%e3%81%ab"><span>あなたがスキーに</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8b%e3%81%aa%e3%81%84%e3%81%ae%e3%81%aa%e3%82%89%e3%80%81"><span>行かないのなら、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81"><span>私</span></a><a href="https://takoboto.jp/?q=%e3%82%82"><strong>も</strong></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>行きません。</span></a>
+    segments:
+      - text: あなたがスキーに行かないのなら、私
+        grammar_highlight: false
+      - text: も
+        grammar_highlight: true
+      - text: 行きません。
+        grammar_highlight: false
+    reading: あなたがスキーにいかないのなら、わたしもいきません。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: If you don't go skiing, I won't, either.
+        html: |-
+          <span>If you don't go skiing, I won't, </span><strong>either. </strong>
+        segments:
+          - text: 'If you don''t go skiing, I won''t, '
+            grammar_highlight: false
+          - text: 'either. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8807
+    position: 4
+    japanese: 彼が死んだ理由を僕も知らない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c%e6%ad%bb%e3%82%93%e3%81%a0%e7%90%86%e7%94%b1%e3%82%92%e5%83%95"><span>彼が死んだ理由を僕</span></a><a href="https://takoboto.jp/?q=%e3%82%82"><strong>も</strong></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>知らない。</span></a>
+    segments:
+      - text: 彼が死んだ理由を僕
+        grammar_highlight: false
+      - text: も
+        grammar_highlight: true
+      - text: 知らない。
+        grammar_highlight: false
+    reading: かれがしんだりゆうをぼくもしらない。
+    credits_raw: 貴博
+    translations:
+      - language: en
+        text: I don't know the reason of his death either .
+        html: |-
+          <span>I don't know the reason of his death </span><strong>either </strong><span>. </span>
+        segments:
+          - text: 'I don''t know the reason of his death '
+            grammar_highlight: false
+          - text: 'either '
+            grammar_highlight: true
+          - text: '. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: First sentence も 'overrides' a は particle, second one an 'を' particle.
+    html: First sentence も 'overrides' a は particle, second one an 'を' particle.
+    credits_raw: Amatuka
+    content_sha256: 5e60a827f95650b01bd916d07e56d7aeff1d0c0087934cc99dd50d49d54a98a0
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 576
+    label: 〜も
+    source_url: https://takoboto.jp/bunpo/576
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:29+00:00'
+response_sha256: 7d9fb4e3e607db7b829b1a5c401a0adc75339844c032bf39173eec54134e5932
+warnings: []

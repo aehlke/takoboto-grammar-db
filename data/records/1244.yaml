@@ -1,0 +1,400 @@
+schema_version: 2
+id: 1244
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1244/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜だけの
+romanized_label: dakeno
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: As much as; As fast as; To the extent of.
+meaning_example: Have as much as you want.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1244
+    body_text: |-
+      As much as; As fast as; To the extent of. 
+       Have as much as you want.
+    body_html: |-
+      <span>As much as; As fast as; To the extent of.</span> <br/> <span>Have as much as you want.</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1244
+    body_text: Verb（casual）+だけNoun+だけい adjective+だけな adjective+な+だけ
+    body_html: |-
+      <div><div><div>Verb（casual）</div></div><div><div>+</div><div>だけ</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>だけ</div></div></div><div><div><div>い adjective</div></div><div><div>+</div><div>だけ</div></div></div><div><div><div>な adjective</div></div><div><div>+</div><div>な</div></div><div><div>+</div><div>だけ</div></div></div>
+    credits_raw: null
+formations:
+  - Verb（casual） + だけ
+  - Noun + だけ
+  - い adjective + だけ
+  - な adjective + な + だけ
+examples:
+  - source_id: 3311
+    position: 0
+    japanese: お好きなだけどうぞ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%aa"><span>好きな</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91"><strong>だけ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%81%9e%e3%80%82"><span>どうぞ。</span></a>
+    segments:
+      - text: お好きな
+        grammar_highlight: false
+      - text: だけ
+        grammar_highlight: true
+      - text: どうぞ。
+        grammar_highlight: false
+    reading: おすきなだけどうぞ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Have as much as you want.
+        html: |-
+          <span>Have </span><strong>as much </strong><span>as you want. </span>
+        segments:
+          - text: 'Have '
+            grammar_highlight: false
+          - text: 'as much '
+            grammar_highlight: true
+          - text: 'as you want. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3312
+    position: 1
+    japanese: できるだけのことはした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%8d%e3%82%8b"><span>できる</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%af%e3%81%97%e3%81%9f%e3%80%82"><span>ことはした。</span></a>
+    segments:
+      - text: できる
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: ことはした。
+        grammar_highlight: false
+    reading: できるだけのことはした。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I did as much as I could
+        html: |-
+          <span>I did </span><strong>as much </strong><span>as I could </span>
+        segments:
+          - text: 'I did '
+            grammar_highlight: false
+          - text: 'as much '
+            grammar_highlight: true
+          - text: 'as I could '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4738
+    position: 2
+    japanese: 12人座れるだけの椅子がありますか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=12"><span>12</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e5%ba%a7%e3%82%8c%e3%82%8b"><span>人座れる</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e6%a4%85%e5%ad%90%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%81%8b%e3%80%82"><span>椅子がありますか。</span></a>
+    segments:
+      - text: 12人座れる
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: 椅子がありますか。
+        grammar_highlight: false
+    reading: にんすわれるだけのいすがありますか。
+    credits_raw: miki
+    translations:
+      - language: en
+        text: Are there enough chairs to seat 12 persons?
+        html: |-
+          <span>Are there </span><strong>enough </strong><span>chairs to seat 12 persons? </span>
+        segments:
+          - text: 'Are there '
+            grammar_highlight: false
+          - text: 'enough '
+            grammar_highlight: true
+          - text: 'chairs to seat 12 persons? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4739
+    position: 3
+    japanese: 彼女は稼ぐのと同じだけのお金を使う。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e7%a8%bc%e3%81%90%e3%81%ae%e3%81%a8"><span>稼ぐのと</span></a><a href="https://takoboto.jp/?q=%e5%90%8c%e3%81%98"><span>同じ</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%86%e3%80%82"><span>使う。</span></a>
+    segments:
+      - text: 彼女は稼ぐのと同じ
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: お金を使う。
+        grammar_highlight: false
+    reading: かのじょはかせぐのとおなじだけのおかねをつかう。
+    credits_raw: miki
+    translations:
+      - language: en
+        text: She spends as much money as she earns.
+        html: |-
+          <span>She spends </span><strong>as much money as </strong><span>she earns. </span>
+        segments:
+          - text: 'She spends '
+            grammar_highlight: false
+          - text: 'as much money as '
+            grammar_highlight: true
+          - text: 'she earns. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4740
+    position: 4
+    japanese: 彼に必要なだけのお金を貸してやりなさい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab"><span>彼に</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%aa"><span>必要な</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%e8%b2%b8%e3%81%97%e3%81%a6%e3%82%84%e3%82%8a%e3%81%aa%e3%81%95%e3%81%84%e3%80%82"><span>貸してやりなさい。</span></a>
+    segments:
+      - text: 彼に必要な
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: お金を貸してやりなさい。
+        grammar_highlight: false
+    reading: かれにひつようなだけのおかねをかしてやりなさい。
+    credits_raw: miki
+    translations:
+      - language: en
+        text: Lend him as much money as he needs.
+        html: |-
+          <span>Lend him </span><strong>as much money as </strong><span>he needs. </span>
+        segments:
+          - text: 'Lend him '
+            grammar_highlight: false
+          - text: 'as much money as '
+            grammar_highlight: true
+          - text: 'he needs. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6547
+    position: 5
+    japanese: 世界に蚊が何匹いるかのだけのお金を作りたい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%96%e7%95%8c%e3%81%ab"><span>世界に</span></a><a href="https://takoboto.jp/?q=%e8%9a%8a%e3%81%8c"><span>蚊が</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e5%8c%b9%e3%81%84%e3%82%8b%e3%81%8b"><span>何匹いるか</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%a0%e3%81%91%e3%81%ae"><strong>のだけの</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e3%82%8a%e3%81%9f%e3%81%84%e3%80%82"><span>作りたい。</span></a>
+    segments:
+      - text: 世界に蚊が何匹いるか
+        grammar_highlight: false
+      - text: のだけの
+        grammar_highlight: true
+      - text: お金を作りたい。
+        grammar_highlight: false
+    reading: せかいにかがなんひきいるかのだけのおかねをつくりたい。
+    credits_raw: gandal
+    translations:
+      - language: en
+        text: I want to make as much money as there are mosquitos in the world.
+        html: |-
+          <span>I want to make </span><strong>as much </strong><span>money </span><strong>as </strong><span>there are mosquitos in the world. </span>
+        segments:
+          - text: 'I want to make '
+            grammar_highlight: false
+          - text: 'as much '
+            grammar_highlight: true
+          - text: 'money '
+            grammar_highlight: false
+          - text: 'as '
+            grammar_highlight: true
+          - text: 'there are mosquitos in the world. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8124
+    position: 6
+    japanese: とにかくやってみるだけのことだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f%e3%82%84%e3%81%a3%e3%81%a6%e3%81%bf%e3%82%8b"><span>とにかくやってみる</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0%e3%80%82"><span>ことだ。</span></a>
+    segments:
+      - text: とにかくやってみる
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: ことだ。
+        grammar_highlight: false
+    reading: とにかくやってみるだけのことだ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: We can but try.
+        html: |-
+          <span>We can but try. </span>
+        segments:
+          - text: 'We can but try. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8125
+    position: 7
+    japanese: できるだけの援助をしましょう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%8d%e3%82%8b"><span>できる</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e6%8f%b4%e5%8a%a9%e3%82%92%e3%81%97%e3%81%be%e3%81%97%e3%82%87%e3%81%86%e3%80%82"><span>援助をしましょう。</span></a>
+    segments:
+      - text: できる
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: 援助をしましょう。
+        grammar_highlight: false
+    reading: できるだけのえんじょをしましょう。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I will give you what help I can.
+        html: |-
+          <span>I will give you what help I can. </span>
+        segments:
+          - text: 'I will give you what help I can. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8126
+    position: 8
+    japanese: 彼は手に入るだけの金は受け取るだろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e3%81%ab"><span>手に</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8b"><span>入る</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%81%af"><span>金は</span></a><a href="https://takoboto.jp/?q=%e5%8f%97%e3%81%91"><span>受け</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%82%8b%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>取るだろう。</span></a>
+    segments:
+      - text: 彼は手に入る
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: 金は受け取るだろう。
+        grammar_highlight: false
+    reading: かれはてにはいるだけのきんはうけとるだろう。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He will accept any money he can get.
+        html: |-
+          <span>He will accept any money he can get. </span>
+        segments:
+          - text: 'He will accept any money he can get. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8127
+    position: 9
+    japanese: 彼女はその訴訟に勝てるだけの有能な弁護士である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%81%9d%e3%81%ae"><span>彼女はその</span></a><a href="https://takoboto.jp/?q=%e8%a8%b4%e8%a8%9f%e3%81%ab"><span>訴訟に</span></a><a href="https://takoboto.jp/?q=%e5%8b%9d%e3%81%a6%e3%82%8b"><span>勝てる</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e6%9c%89%e8%83%bd%e3%81%aa"><span>有能な</span></a><a href="https://takoboto.jp/?q=%e5%bc%81%e8%ad%b7%e5%a3%ab%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>弁護士である。</span></a>
+    segments:
+      - text: 彼女はその訴訟に勝てる
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: 有能な弁護士である。
+        grammar_highlight: false
+    reading: かのじょはそのそしょうにかてるだけのゆうのうなべんごしである。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: She is lawyer enough (enough of a lawyer) to win the case.
+        html: |-
+          <span>She is lawyer </span><strong>enough </strong><span>(enough of a lawyer) to win the case. </span>
+        segments:
+          - text: 'She is lawyer '
+            grammar_highlight: false
+          - text: 'enough '
+            grammar_highlight: true
+          - text: '(enough of a lawyer) to win the case. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8128
+    position: 10
+    japanese: 私は家を買えるだけの金を積み立ている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e3%82%92"><span>家を</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%88%e3%82%8b"><span>買える</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%e7%a9%8d%e3%81%bf"><span>積み</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>立ている。</span></a>
+    segments:
+      - text: 私は家を買える
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: 金を積み立ている。
+        grammar_highlight: false
+    reading: わたしはいえをかえるだけのきんをつみたている。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I`m accumulating enough money to buy a house.
+        html: |-
+          <span>I`m accumulating enough money to buy a house. </span>
+        segments:
+          - text: 'I`m accumulating enough money to buy a house. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8129
+    position: 11
+    japanese: 君たち全員に足りるだけの分がある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%9f%e3%81%a1"><span>君たち</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e5%93%a1%e3%81%ab"><span>全員に</span></a><a href="https://takoboto.jp/?q=%e8%b6%b3%e3%82%8a%e3%82%8b"><span>足りる</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>分がある。</span></a>
+    segments:
+      - text: 君たち全員に足りる
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: 分がある。
+        grammar_highlight: false
+    reading: きみたちぜんいんにたりるだけのぶんがある。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: There is enough for all of you.
+        html: |-
+          <span>There is enough for all of you. </span>
+        segments:
+          - text: 'There is enough for all of you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8712
+    position: 12
+    japanese: 早急に運送できるだけのお客さんの注文を満たせる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a9%e6%80%a5%e3%81%ab"><span>早急に</span></a><a href="https://takoboto.jp/?q=%e9%81%8b%e9%80%81%e3%81%a7%e3%81%8d%e3%82%8b"><span>運送できる</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ae"><strong>だけの</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e5%ae%a2%e3%81%95%e3%82%93%e3%81%ae"><span>客さんの</span></a><a href="https://takoboto.jp/?q=%e6%b3%a8%e6%96%87%e3%82%92"><span>注文を</span></a><a href="https://takoboto.jp/?q=%e6%ba%80%e3%81%9f%e3%81%9b%e3%82%8b%e3%80%82"><span>満たせる。</span></a>
+    segments:
+      - text: 早急に運送できる
+        grammar_highlight: false
+      - text: だけの
+        grammar_highlight: true
+      - text: お客さんの注文を満たせる。
+        grammar_highlight: false
+    reading: そうきゅうにうんそうできるだけのおきゃくさんのちゅうもんをみたせる。
+    credits_raw: bayur
+    translations: []
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Has no negative form. Dake no is always used before a noun.
+
+      see http://www.geocities.com/easykanji/jlptgrammar.html
+    html: |-
+      Has no negative form. Dake no is always used before a noun.<br/><br/>see http://www.geocities.com/easykanji/jlptgrammar.html
+    credits_raw: dc
+    content_sha256: c276dbe5ed23189e5c4e9e4b460b5e00486d57987028b4a853a518f05fa9aa22
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'I am not sure if the ex #6547 is correct. If anyone has feedback on this よろしく'
+    html: 'I am not sure if the ex #6547 is correct. If anyone has feedback on this よろしく'
+    credits_raw: gandal
+    content_sha256: 076852142ec9224aafaef857947794b3239a18fc812af86825effc6cbfc61f44
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:24+00:00'
+response_sha256: 2d6d09ec1639ee697b0b1e279db0dbae481903c046318552b078b5452131f791
+warnings: []

@@ -1,0 +1,322 @@
+schema_version: 2
+id: 1220
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1220/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 得る
+romanized_label: uru
+alternate_forms:
+  - うる
+jlpt_level: 2
+credits_raw: dc
+meaning: able to do
+meaning_example: All I can think of
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1220
+    body_text: |-
+      able to do 
+       All I can think of
+    body_html: |-
+      <span>able to do</span> <br/> <span>All I can think of</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 83
+    position: 0
+    japanese: 考え得る方法は全部試してみたが、どれも失敗に終わった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88"><span>考え</span></a><a href="https://takoboto.jp/?q=%e5%be%97%e3%82%8b"><strong>得る</strong></a><a href="https://takoboto.jp/?q=%e6%96%b9%e6%b3%95%e3%81%af"><span>方法は</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e9%83%a8%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%8c%e3%80%81%e3%81%a9%e3%82%8c%e3%82%82"><span>全部試してみたが、どれも</span></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e6%95%97%e3%81%ab"><span>失敗に</span></a><a href="https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f"><span>終わった</span></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 考え
+        grammar_highlight: false
+      - text: 得る
+        grammar_highlight: true
+      - text: 方法は全部試してみたが、どれも失敗に終わった。
+        grammar_highlight: false
+    reading: かんがええるほうほうはぜんぶためしてみたが、どれもしっぱいにおわった。
+    credits_raw: dc, Miki
+    translations:
+      - language: en
+        text: I tried everything I can think of, but everything failed.
+        html: |-
+          <span>I tried </span><strong>everything I can </strong><span>think of, but everything failed. </span>
+        segments:
+          - text: 'I tried '
+            grammar_highlight: false
+          - text: 'everything I can '
+            grammar_highlight: true
+          - text: 'think of, but everything failed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3041
+    position: 1
+    japanese: そのようなことをしても得るべきものはなにもない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e3%81%93%e3%81%a8%e3%82%92"><span>そのようなことを</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%a6%e3%82%82"><span>しても</span></a><a href="https://takoboto.jp/?q=%e5%be%97%e3%82%8b"><strong>得る</strong></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8d%e3%82%82%e3%81%ae%e3%81%af%e3%81%aa%e3%81%ab%e3%82%82%e3%81%aa%e3%81%84%e3%80%82"><span>べきものはなにもない。</span></a>
+    segments:
+      - text: そのようなことをしても
+        grammar_highlight: false
+      - text: 得る
+        grammar_highlight: true
+      - text: べきものはなにもない。
+        grammar_highlight: false
+    reading: そのようなことをしてもえるべきものはなにもない。
+    credits_raw: bamboo4, dc
+    translations:
+      - language: en
+        text: There is nothing whatever to be gained by resorting to such move.
+        html: |-
+          <span>There is nothing whatever </span><strong>to be gained </strong><span>by resorting to such move. </span>
+        segments:
+          - text: 'There is nothing whatever '
+            grammar_highlight: false
+          - text: 'to be gained '
+            grammar_highlight: true
+          - text: 'by resorting to such move. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4458
+    position: 2
+    japanese: これらのガスは地球規模の温暖化をもたらし得る。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%82%89%e3%81%ae%e3%82%ac%e3%82%b9%e3%81%af"><span>これらのガスは</span></a><a href="https://takoboto.jp/?q=%e5%9c%b0%e7%90%83%e8%a6%8f%e6%a8%a1%e3%81%ae"><span>地球規模の</span></a><a href="https://takoboto.jp/?q=%e6%b8%a9%e6%9a%96%e5%8c%96%e3%82%92"><span>温暖化を</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%9f%e3%82%89%e3%81%97"><span>もたらし</span></a><a href="https://takoboto.jp/?q=%e5%be%97%e3%82%8b"><strong>得る</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: これらのガスは地球規模の温暖化をもたらし
+        grammar_highlight: false
+      - text: 得る
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: これらのガスはちきゅうきぼのおんだんかをもたらしえる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: These gases can lead to global warming.
+        html: |-
+          <span>These gases </span><strong>can </strong><span>lead to global warming. </span>
+        segments:
+          - text: 'These gases '
+            grammar_highlight: false
+          - text: 'can '
+            grammar_highlight: true
+          - text: 'lead to global warming. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4459
+    position: 3
+    japanese: そういう事故は時折起こり得る事だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86%e3%81%84%e3%81%86"><span>そういう</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e6%95%85%e3%81%af"><span>事故は</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e6%8a%98"><span>時折</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%93%e3%82%8a"><span>起こり</span></a><a href="https://takoboto.jp/?q=%e5%be%97%e3%82%8b"><strong>得る</strong></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%81%a0%e3%80%82"><span>事だ。</span></a>
+    segments:
+      - text: そういう事故は時折起こり
+        grammar_highlight: false
+      - text: 得る
+        grammar_highlight: true
+      - text: 事だ。
+        grammar_highlight: false
+    reading: そういうじこはときおりおこりえることだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Such accidents can happen from time to time.
+        html: |-
+          <span>Such accidents can happen from time to time. </span>
+        segments:
+          - text: 'Such accidents can happen from time to time. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4463
+    position: 4
+    japanese: 勤勉さが経験不足を補うこともあり得る。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8b%a4%e5%8b%89%e3%81%95%e3%81%8c"><span>勤勉さが</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e9%a8%93%e4%b8%8d%e8%b6%b3%e3%82%92"><span>経験不足を</span></a><a href="https://takoboto.jp/?q=%e8%a3%9c%e3%81%86%e3%81%93%e3%81%a8%e3%82%82"><span>補うことも</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8a"><span>あり</span></a><a href="https://takoboto.jp/?q=%e5%be%97%e3%82%8b"><strong>得る</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 勤勉さが経験不足を補うこともあり
+        grammar_highlight: false
+      - text: 得る
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: きんべんさがけいけんふそくをおぎなうこともありえる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Diligence may compensate for lack of experience.
+        html: |-
+          <span>Diligence </span><strong>may </strong><span>compensate for lack of experience. </span>
+        segments:
+          - text: 'Diligence '
+            grammar_highlight: false
+          - text: 'may '
+            grammar_highlight: true
+          - text: 'compensate for lack of experience. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4464
+    position: 5
+    japanese: 計画を立てる前に、あまり慎重にし過ぎると、計画そのものがひっくり返ることも、時にはあり得るだろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%82%92"><span>計画を</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e3%81%a6%e3%82%8b"><span>立てる</span></a><a href="https://takoboto.jp/?q=%e5%89%8d%e3%81%ab%e3%80%81%e3%81%82%e3%81%be%e3%82%8a"><span>前に、あまり</span></a><a href="https://takoboto.jp/?q=%e6%85%8e%e9%87%8d%e3%81%ab%e3%81%97"><span>慎重にし</span></a><a href="https://takoboto.jp/?q=%e9%81%8e%e3%81%8e%e3%82%8b%e3%81%a8%e3%80%81"><span>過ぎると、</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%81%9d%e3%81%ae%e3%82%82%e3%81%ae%e3%81%8c%e3%81%b2%e3%81%a3%e3%81%8f%e3%82%8a"><span>計画そのものがひっくり</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e3%82%8b%e3%81%93%e3%81%a8%e3%82%82%e3%80%81"><span>返ることも、</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%81%ab%e3%81%af"><span>時には</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8a"><span>あり</span></a><a href="https://takoboto.jp/?q=%e5%be%97%e3%82%8b"><strong>得る</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>だろう。</span></a>
+    segments:
+      - text: 計画を立てる前に、あまり慎重にし過ぎると、計画そのものがひっくり返ることも、時にはあり
+        grammar_highlight: false
+      - text: 得る
+        grammar_highlight: true
+      - text: だろう。
+        grammar_highlight: false
+    reading: けいかくをたてるまえに、あまりしんちょうにしすぎると、けいかくそのものがひっくりかえることも、ときにはありえるだろう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Sometimes being overcautious in planning could upset the apple cart.
+        html: |-
+          <span>Sometimes being overcautious in planning could upset the apple cart. </span>
+        segments:
+          - text: 'Sometimes being overcautious in planning could upset the apple cart. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6482
+    position: 6
+    japanese: 彼女はオリンピックでメダルを獲得しうる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%94%e3%83%83%e3%82%af%e3%81%a7%e3%83%a1%e3%83%80%e3%83%ab%e3%82%92"><span>彼女はオリンピックでメダルを</span></a><a href="https://takoboto.jp/?q=%e7%8d%b2%e5%be%97%e3%81%97"><span>獲得し</span></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%82%8b"><strong>うる</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼女はオリンピックでメダルを獲得し
+        grammar_highlight: false
+      - text: うる
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かのじょはオリンピックでメダルをかくとくしうる。
+    credits_raw: rkmovva
+    translations:
+      - language: en
+        text: She can win a medal in the Olympics.
+        html: |-
+          <span>She </span><strong>can </strong><span>win a medal in the Olympics. </span>
+        segments:
+          - text: 'She '
+            grammar_highlight: false
+          - text: 'can '
+            grammar_highlight: true
+          - text: 'win a medal in the Olympics. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 得る means to obtain/to acquire
+    html: 得る means to obtain/to acquire
+    credits_raw: KotatsuSama
+    content_sha256: 2509156c05a257afb3b86182cef65f7ee9b12ad3e0e0de1de7f70d28b3b51a55
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: '[Note negative form is enai えない]'
+    html: '[Note negative form is enai えない]'
+    credits_raw: dc
+    content_sha256: 7c4e313ac837a9c3f8c3bc8ba1c4e8dbd993487eafba506afc80a055e8894bac
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Strictly speaking, the conjugations of 得る are:
+      - negative: えない
+      - masu form: えます
+      - te form: えて
+      - terminal form (i.e. at the end of sentences, or when attaching to べき): える／うる
+      - attributive form (i.e. akin to such things as すきな for すき; used when attaching to nouns): うる
+      - conditional form: うれば
+
+      It is the only 二段 (nidan) verb from old Japanese that hasn't fully become an 一段 (ichidan) verb in modern Japanese. (える／うる in old Japanese was う, so it has changed a little already.)
+
+      In summary, although うる is a more archaic way of saying える, the only time you can choose between える／うる is when it comes at the end of the sentence, or when attaching to べき (in which case, however, うる is also preferable due to the also archaic nature of べき). This means one should say for example うるために, うるように, うること, うるところ and so on. Additionally, ありうる is never ありえる.
+
+      However, in practice, the "wrong" forms are still somewhat often used.
+    html: |-
+      Strictly speaking, the conjugations of 得る are:<br/>- negative: えない<br/>- masu form: えます<br/>- te form: えて<br/>- terminal form (i.e. at the end of sentences, or when attaching to べき): える／うる<br/>- attributive form (i.e. akin to such things as すきな for すき; used when attaching to nouns): うる<br/>- conditional form: うれば<br/><br/>It is the only 二段 (nidan) verb from old Japanese that hasn't fully become an 一段 (ichidan) verb in modern Japanese. (える／うる in old Japanese was う, so it has changed a little already.)<br/><br/>In summary, although うる is a more archaic way of saying える, the only time you can choose between える／うる is when it comes at the end of the sentence, or when attaching to べき (in which case, however, うる is also preferable due to the also archaic nature of べき). This means one should say for example うるために, うるように, うること, うるところ and so on. Additionally, ありうる is never ありえる.<br/><br/>However, in practice, the "wrong" forms are still somewhat often used.
+    credits_raw: kittymercury
+    content_sha256: d2574e821a4788583f3463f814002bd0f82181544e482a24d4f65c5377dfd492
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: うる is archaic or 文語体 whereas える is modern. However,うる is still used, e.g., 考えうる、成しうる, etc.
+    html: うる is archaic or 文語体 whereas える is modern. However,うる is still used, e.g., 考えうる、成しうる, etc.
+    credits_raw: bamboo4
+    content_sha256: 69330008ee121b4fb9c8dfce19aa6130fb1fff6e7a9e0389769e4b391e8fbcf6
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Try not to get confused with える (same kanji /generally/ different meaning).
+    html: Try not to get confused with える (same kanji /generally/ different meaning).
+    credits_raw: Amatuka
+    content_sha256: f365978389f629cc6760f2a26e9a5dc8a3019870a0a2cbefe4eea26b23c3cbfa
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      A verb-suffix 得る will generally have this meaning and /usually/ be pronounced うる but I hear that it's increasingly common for that usage to /also/ be pronounced える
+    html: |-
+      A verb-suffix 得る will generally have this meaning and /usually/ be pronounced うる but I hear that it's increasingly common for that usage to /also/ be pronounced える
+    credits_raw: Amatuka
+    content_sha256: 8766d2680da97793a9c54ec853e70aebc6ca0de89c7dedd0092f5b19e5284746
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: 'In summary : This is a pig of a word(s) ;-)'
+    html: 'In summary : This is a pig of a word(s) ;-)'
+    credits_raw: Amatuka
+    content_sha256: b12bbdae4957ceab517d66b14fffaaf3804c2aee7e38f79e349a48f6fa318512
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: Note that Edict examples presently include える and うる in the same list.
+    html: Note that Edict examples presently include える and うる in the same list.
+    credits_raw: your name
+    content_sha256: b65d47435532493ca1a7b57059f30763944fc8a2032c7f7616bce6a217f13e91
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: '#6482 should say "medal in THE Olympics" and should have a period at the end.'
+    html: '#6482 should say "medal in THE Olympics" and should have a period at the end.'
+    credits_raw: ixtli
+    content_sha256: 3b1c9f50f024c8f1ea7d8a429ea02d6d3abb7ddf6ac72902c5f7d32b226d94a6
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 470
+    label: ありうる, ありえる (有り得る)
+    source_url: https://takoboto.jp/bunpo/470
+  - target_id: 479
+    label: 有り得る
+    source_url: https://takoboto.jp/bunpo/479
+  - target_id: 478
+    label: 得る
+    source_url: https://takoboto.jp/bunpo/478
+  - target_id: 823
+    label: ざるをえない
+    source_url: https://takoboto.jp/bunpo/823
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:38:43+00:00'
+response_sha256: 72d74434b7af17863959f10eac3161e4a46cc2b723e3c61fd566a13fa532e472
+warnings: []

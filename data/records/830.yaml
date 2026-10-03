@@ -1,0 +1,305 @@
+schema_version: 2
+id: 830
+source: takoboto
+source_url: https://takoboto.jp/bunpo/830/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: という風に
+romanized_label: fuuni
+alternate_forms:
+  - というふうに
+jlpt_level: 2
+credits_raw: d9
+meaning: in that way
+meaning_example: hold it like this
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_830
+    body_text: |-
+      in that way 
+       hold it like this
+    body_html: |-
+      <span>in that way</span> <br/> <span>hold it like this</span>
+    credits_raw: d9
+formations: []
+examples:
+  - source_id: 1014
+    position: 0
+    japanese: こんな風に持って下さい
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><span>こんな</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e3%81%ab"><strong>風に</strong></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6"><span>持って</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84"><span>下さい</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: false
+      - text: 風に
+        grammar_highlight: true
+      - text: 持って下さい
+        grammar_highlight: false
+    reading: こんなかぜにもってください
+    credits_raw: d4, Miki
+    translations:
+      - language: en
+        text: Please hold it like this
+        html: |-
+          <strong>Please hold it </strong><span>like this </span>
+        segments:
+          - text: 'Please hold it '
+            grammar_highlight: true
+          - text: 'like this '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 960
+    position: 1
+    japanese: 彼はどうしようもないという風に首を振った
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%81%97%e3%82%88%e3%81%86%e3%82%82%e3%81%aa%e3%81%84"><span>どうしようもない</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%86%e9%a2%a8%e3%81%ab"><strong>という風に</strong></a><a href="https://takoboto.jp/?q=%e9%a6%96%e3%82%92"><span>首を</span></a><a href="https://takoboto.jp/?q=%e6%8c%af%e3%81%a3%e3%81%9f"><span>振った</span></a>
+    segments:
+      - text: 彼はどうしようもない
+        grammar_highlight: false
+      - text: という風に
+        grammar_highlight: true
+      - text: 首を振った
+        grammar_highlight: false
+    reading: かれはどうしようもないというかぜにくびをふった
+    credits_raw: dc
+    translations:
+      - language: en
+        text: he shook his head in such a way as if to say there was no other way
+        html: |-
+          <span>he shook his head </span><strong>in such a way </strong><span>as if to say there was no other way </span>
+        segments:
+          - text: 'he shook his head '
+            grammar_highlight: false
+          - text: 'in such a way '
+            grammar_highlight: true
+          - text: 'as if to say there was no other way '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1013
+    position: 2
+    japanese: これはどんな風に持ったらいいんですか？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af"><span>これは</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%82%93%e3%81%aa"><span>どんな</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e3%81%ab"><strong>風に</strong></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%9f%e3%82%89%e3%81%84%e3%81%84%e3%82%93%e3%81%a7%e3%81%99%e3%81%8b"><span>持ったらいいんですか</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: これはどんな
+        grammar_highlight: false
+      - text: 風に
+        grammar_highlight: true
+      - text: 持ったらいいんですか？
+        grammar_highlight: false
+    reading: これはどんなかぜにもったらいいんですか？
+    credits_raw: d4
+    translations:
+      - language: en
+        text: How should I hold this?
+        html: |-
+          <span>How </span><strong>should I hold this? </strong>
+        segments:
+          - text: 'How '
+            grammar_highlight: false
+          - text: 'should I hold this? '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1015
+    position: 3
+    japanese: あんな風に運転していたら、きっと事故に会うよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%93%e3%81%aa"><span>あんな</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e3%81%ab"><strong>風に</strong></a><a href="https://takoboto.jp/?q=%e9%81%8b%e8%bb%a2%e3%81%97%e3%81%a6%e3%81%84%e3%81%9f%e3%82%89%e3%80%81%e3%81%8d%e3%81%a3%e3%81%a8"><span>運転していたら、きっと</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e6%95%85%e3%81%ab"><span>事故に</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e3%81%86%e3%82%88%e3%80%82"><span>会うよ。</span></a>
+    segments:
+      - text: あんな
+        grammar_highlight: false
+      - text: 風に
+        grammar_highlight: true
+      - text: 運転していたら、きっと事故に会うよ。
+        grammar_highlight: false
+    reading: あんなかぜにうんてんしていたら、きっとじこにあうよ。
+    credits_raw: d4
+    translations:
+      - language: en
+        text: If he keeps driving like that he will definitely have an accident
+        html: |-
+          <strong>If he keeps driving </strong><span>like that </span><strong>he will definitely have an accident </strong>
+        segments:
+          - text: 'If he keeps driving '
+            grammar_highlight: true
+          - text: 'like that '
+            grammar_highlight: false
+          - text: 'he will definitely have an accident '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8159
+    position: 4
+    japanese: こんな風にやりなさい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><span>こんな</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e3%81%ab"><strong>風に</strong></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%8a%e3%81%aa%e3%81%95%e3%81%84%e3%80%82"><span>やりなさい。</span></a>
+    segments:
+      - text: こんな
+        grammar_highlight: false
+      - text: 風に
+        grammar_highlight: true
+      - text: やりなさい。
+        grammar_highlight: false
+    reading: こんなかぜにやりなさい。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Do it (in) this way .
+        html: |-
+          <span>Do it (in) this </span><strong>way </strong><span>. </span>
+        segments:
+          - text: 'Do it (in) this '
+            grammar_highlight: false
+          - text: 'way '
+            grammar_highlight: true
+          - text: '. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8160
+    position: 5
+    japanese: それはこんな風に起こった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af%e3%81%93%e3%82%93%e3%81%aa"><span>それはこんな</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e3%81%ab"><span>風に</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%93%e3%81%a3%e3%81%9f%e3%80%82"><span>起こった。</span></a>
+    segments:
+      - text: それはこんな風に起こった。
+        grammar_highlight: false
+    reading: それはこんなかぜにおこった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: This is the way it happened.
+        html: |-
+          <span>This is the way it happened. </span>
+        segments:
+          - text: 'This is the way it happened. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8161
+    position: 6
+    japanese: こんな風にそれをしたのですか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><span>こんな</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e3%81%ab%e3%81%9d%e3%82%8c%e3%82%92%e3%81%97%e3%81%9f%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8b"><span>風にそれをしたのですか</span></a>
+    segments:
+      - text: こんな風にそれをしたのですか
+        grammar_highlight: false
+    reading: こんなかぜにそれをしたのですか
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Is this the manner (in which) you did it?
+        html: |-
+          <span>Is this the manner (in which) you did it? </span>
+        segments:
+          - text: 'Is this the manner (in which) you did it? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8714
+    position: 7
+    japanese: 彼は嫌がらせのことをするという風に、俺に示唆した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%ab%8c%e3%81%8c%e3%82%89%e3%81%9b%e3%81%ae%e3%81%93%e3%81%a8%e3%82%92%e3%81%99%e3%82%8b"><span>嫌がらせのことをする</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%86%e9%a2%a8%e3%81%ab"><strong>という風に</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bf%ba%e3%81%ab"><span>俺に</span></a><a href="https://takoboto.jp/?q=%e7%a4%ba%e5%94%86%e3%81%97%e3%81%9f%e3%80%82"><span>示唆した。</span></a>
+    segments:
+      - text: 彼は嫌がらせのことをする
+        grammar_highlight: false
+      - text: という風に
+        grammar_highlight: true
+      - text: 、俺に示唆した。
+        grammar_highlight: false
+    reading: かれはいやがらせのことをするというかぜに、おれにしさした。
+    credits_raw: bayur
+    translations: []
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: done
+    html: done
+    credits_raw: dc
+    content_sha256: 13b948e699c02f32e82e0c8610acfd9df2213e83851a8b482fab81e126109fbb
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: As for the thrird example, 持って下さい。is correct.
+    html: As for the thrird example, 持って下さい。is correct.
+    credits_raw: Miki
+    content_sha256: 26a2df6770decbbbc108a0457031dad1fffab80dde8c272738afcf069ff060ae
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: In the first example, you have to add "He shook his head" at the beginnig of the sentence.
+    html: In the first example, you have to add "He shook his head" at the beginnig of the sentence.
+    credits_raw: bamboo4
+    content_sha256: d00117c5f6c747dd770f5ef85a8fe2e32b961ac1db651c5bd3086374d8aa2321
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: IT seems I have often heard "ko iu fuuni" - is this the same as "konna fuuni"? Maybe spoken vs. written?
+    html: IT seems I have often heard "ko iu fuuni" - is this the same as "konna fuuni"? Maybe spoken vs. written?
+    credits_raw: yookoso
+    content_sha256: 2c4663a86f1b7f2a3036376848897cf2ed510309bb6d20b4b03850cc45b0c4f2
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: 'why not jiko wo okosu in example #1015? thx'
+    html: 'why not jiko wo okosu in example #1015? thx'
+    credits_raw: lucien
+    content_sha256: bcc798cba8d88f793cfe1f2fa45ca8628d3fabf978501b3be8403e552b158dae
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      #1015 kanji is different. 事故に遭う. 
+      あんな風に運転していたら、きっと事故を起こすよ。is also ok. If he keeps driving like that he will definitely invite an accident.
+    html: |-
+      #1015 kanji is different. 事故に遭う. <br/>あんな風に運転していたら、きっと事故を起こすよ。is also ok. If he keeps driving like that he will definitely invite an accident.
+    credits_raw: Miki
+    content_sha256: a8a396d9c4a03b6a7a25b638ce6e28451f8bdc0d752f17d1956983b378364871
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: Yes, "konna fuuni" is more colloqual.
+    html: Yes, "konna fuuni" is more colloqual.
+    credits_raw: bamboo4
+    content_sha256: e19a8671e274287f0de0c47aade9c5c69c616cef4de160a311dac8cc678c7863
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: Is 'fuuni' same as 'youni'?
+    html: Is 'fuuni' same as 'youni'?
+    credits_raw: Jiti
+    content_sha256: 622719863a74b4e0b4881fbfa56666a46fa1b58a213f10a977c1c87f087dc219
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: yes. but you cannot always replace 'fuuni' with 'youni'.
+    html: yes. but you cannot always replace 'fuuni' with 'youni'.
+    credits_raw: Miki
+    content_sha256: 8fd6f9feaf196dc206773b4ab410c8f3b65bc4a386b44e96d65e1cb2b1520c1f
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 988
+    label: こんな
+    source_url: https://takoboto.jp/bunpo/988
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:38:24+00:00'
+response_sha256: d3fe2ad5b5ecadc8b1c89b5a2c14757a9ea11eff6700e76395e835c60bda1e67
+warnings: []

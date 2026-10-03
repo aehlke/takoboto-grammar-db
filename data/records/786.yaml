@@ -1,0 +1,267 @@
+schema_version: 2
+id: 786
+source: takoboto
+source_url: https://takoboto.jp/bunpo/786/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 方が
+romanized_label: houga
+alternate_forms:
+  - ほうが
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: (often it'd be better to do __) Such-and-such an option is something
+meaning_example: You'd better study then.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_786
+    body_text: |-
+      (often it'd be better to do __) Such-and-such an option is something 
+       You'd better study then.
+    body_html: |-
+      <span>(often it'd be better to do __) Such-and-such an option is something</span> <br/> <span>You'd better study then.</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 908
+    position: 0
+    japanese: ３月１日の方が都合がよいのですが。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%93%e6%9c%88%ef%bc%91%e6%97%a5%e3%81%ae"><span>３月１日の</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c"><strong>方が</strong></a><a href="https://takoboto.jp/?q=%e9%83%bd%e5%90%88%e3%81%8c%e3%82%88%e3%81%84%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8c%e3%80%82"><span>都合がよいのですが。</span></a>
+    segments:
+      - text: ３月１日の
+        grammar_highlight: false
+      - text: 方が
+        grammar_highlight: true
+      - text: 都合がよいのですが。
+        grammar_highlight: false
+    reading: さんがつ１にちのほうがつごうがよいのですが。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: We feel that March 1 would be more convenient.
+        html: |-
+          <span>We feel that March 1 </span><strong>would be more </strong><span>convenient. </span>
+        segments:
+          - text: 'We feel that March 1 '
+            grammar_highlight: false
+          - text: 'would be more '
+            grammar_highlight: true
+          - text: 'convenient. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 910
+    position: 1
+    japanese: ９時以降に電話した方が安いですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%99%e6%99%82%e4%bb%a5%e9%99%8d%e3%81%ab"><span>９時以降に</span></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%97%e3%81%9f"><span>電話した</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c"><strong>方が</strong></a><a href="https://takoboto.jp/?q=%e5%ae%89%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>安いですか。</span></a>
+    segments:
+      - text: ９時以降に電話した
+        grammar_highlight: false
+      - text: 方が
+        grammar_highlight: true
+      - text: 安いですか。
+        grammar_highlight: false
+    reading: ９じいこうにでんわしたほうがやすいですか。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Is it cheaper to call after 9:00?
+        html: |-
+          <span>Is it cheaper to call after 9:00? </span>
+        segments:
+          - text: 'Is it cheaper to call after 9:00? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 911
+    position: 2
+    japanese: 物事を生半可に知っているくらいなら全然知らない方がましだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%89%a9%e4%ba%8b%e3%82%92"><span>物事を</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e5%8d%8a%e5%8f%af%e3%81%ab"><span>生半可に</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8f%e3%82%89%e3%81%84%e3%81%aa%e3%82%89"><span>知っているくらいなら</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e7%84%b6%e7%9f%a5%e3%82%89%e3%81%aa%e3%81%84"><span>全然知らない</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c"><strong>方が</strong></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%97%e3%81%a0%e3%80%82"><span>ましだ。</span></a>
+    segments:
+      - text: 物事を生半可に知っているくらいなら全然知らない
+        grammar_highlight: false
+      - text: 方が
+        grammar_highlight: true
+      - text: ましだ。
+        grammar_highlight: false
+    reading: ものごとをなまはんかにしっているくらいならぜんぜんしらないほうがましだ。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I would rather not know a thing at all than know it imperfectly.
+        html: |-
+          <span>I would rather not know a thing at all than know it imperfectly. </span>
+        segments:
+          - text: 'I would rather not know a thing at all than know it imperfectly. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 912
+    position: 3
+    japanese: 遅くても着実な方が競争に勝つ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%81%85%e3%81%8f%e3%81%a6%e3%82%82"><span>遅くても</span></a><a href="https://takoboto.jp/?q=%e7%9d%80%e5%ae%9f%e3%81%aa"><span>着実な</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c"><strong>方が</strong></a><a href="https://takoboto.jp/?q=%e7%ab%b6%e4%ba%89%e3%81%ab"><span>競争に</span></a><a href="https://takoboto.jp/?q=%e5%8b%9d%e3%81%a4%e3%80%82"><span>勝つ。</span></a>
+    segments:
+      - text: 遅くても着実な
+        grammar_highlight: false
+      - text: 方が
+        grammar_highlight: true
+      - text: 競争に勝つ。
+        grammar_highlight: false
+    reading: おそくてもちゃくじつなほうがきょうそうにかつ。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Slow but sure wins the race.
+        html: |-
+          <span>Slow but sure wins the race. </span>
+        segments:
+          - text: 'Slow but sure wins the race. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 913
+    position: 4
+    japanese: 私は肉より魚の方がいい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e8%82%89"><span>肉</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%82%8a"><strong>より</strong></a><a href="https://takoboto.jp/?q=%e9%ad%9a%e3%81%ae"><span>魚の</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c"><strong>方が</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%84%e3%80%82"><span>いい。</span></a>
+    segments:
+      - text: 私は肉
+        grammar_highlight: false
+      - text: より
+        grammar_highlight: true
+      - text: 魚の
+        grammar_highlight: false
+      - text: 方が
+        grammar_highlight: true
+      - text: いい。
+        grammar_highlight: false
+    reading: わたしはにくよりさかなのほうがいい。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I prefer fish to meat.
+        html: |-
+          <span>I prefer fish to meat. </span>
+        segments:
+          - text: 'I prefer fish to meat. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6994
+    position: 5
+    japanese: 無理をしない方がいいですよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%84%a1%e7%90%86%e3%82%92%e3%81%97%e3%81%aa%e3%81%84"><span>無理をしない</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c"><strong>方が</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%82%88%e3%80%82"><span>いいですよ。</span></a>
+    segments:
+      - text: 無理をしない
+        grammar_highlight: false
+      - text: 方が
+        grammar_highlight: true
+      - text: いいですよ。
+        grammar_highlight: false
+    reading: むりをしないほうがいいですよ。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: You'd better not push yourself too much.
+        html: |-
+          <span>You'd better not push yourself too much. </span>
+        segments:
+          - text: 'You''d better not push yourself too much. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8055
+    position: 6
+    japanese: もう帰ったほうがいいですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86"><span>もう</span></a><a href="https://takoboto.jp/?q=%e5%b8%b0%e3%81%a3%e3%81%9f%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>帰ったほうがいいですか。</span></a>
+    segments:
+      - text: もう帰ったほうがいいですか。
+        grammar_highlight: false
+    reading: もうかえったほうがいいですか。
+    credits_raw: lenzras
+    translations:
+      - language: en
+        text: Had I better go home now?
+        html: |-
+          <span>Had I better go home now? </span>
+        segments:
+          - text: 'Had I better go home now? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 'Format: ta-form of verb or nonpast, negative form of verb + ほうがいい（です）'
+    html: 'Format: ta-form of verb or nonpast, negative form of verb + ほうがいい（です）'
+    credits_raw: Roxsan
+    content_sha256: 4637a00f071bac77cc1aff41ca56bb0166a5ce1431e8690133c1a058bb3ef1e2
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Two forms, 
+      "[noun] no hou ga ___" (e.g. ３月１日の 方が 都合がよい)
+      "[verb] no hou ga ___" (e.g. 電話した方が安い)
+      If the verb is positive it is usually past tense, even if you are talking about actions to be taken in the future.
+      If the verb is negative it does not need to be put into past tense.
+    html: |-
+      Two forms, <br/>"[noun] no hou ga ___" (e.g. ３月１日の 方が 都合がよい)<br/>"[verb] no hou ga ___" (e.g. 電話した方が安い)<br/>If the verb is positive it is usually past tense, even if you are talking about actions to be taken in the future.<br/>If the verb is negative it does not need to be put into past tense.
+    credits_raw: Amatuka
+    content_sha256: b00d6f5455c26acc56a371c2dc5f3a4a1b12504c6b5398f4ec1dcf51eccf3635
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Several forms, 
+      "[noun] no hou ga ___" (e.g. ３月１日の 方が 都合がよい)
+      "[na-adjective] na hou ga ___" (e.g. 着実な 方が 競争に勝つ)
+      "[verb] no hou ga ___" (e.g. 電話した方が安い)
+      If the verb is positive it is usually past tense, even if you are talking about actions to be taken in the future.
+      If the verb is negative it does not need to be put into past tense.
+    html: |-
+      Several forms, <br/>"[noun] no hou ga ___" (e.g. ３月１日の 方が 都合がよい)<br/>"[na-adjective] na hou ga ___" (e.g. 着実な 方が 競争に勝つ)<br/>"[verb] no hou ga ___" (e.g. 電話した方が安い)<br/>If the verb is positive it is usually past tense, even if you are talking about actions to be taken in the future.<br/>If the verb is negative it does not need to be put into past tense.
+    credits_raw: Amatuka
+    content_sha256: 62734f4561b5f5e5844dc333af164b6206786aebe248a30e30987b5a2eb65c32
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Amatuka-san, is the 'no' in your 'verb no hou ga __'supposed to be there? If it is, then it is missing from your example.
+    html: |-
+      Amatuka-san, is the 'no' in your 'verb no hou ga __'supposed to be there? If it is, then it is missing from your example.
+    credits_raw: Buaku
+    content_sha256: 87179be34acfe8690321f4c906e0ae8467888e1c7b5acce35275146e9c5fa856
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: 'what''s happening with い-adjective. Is it simply: い-adjective 方が＿＿'
+    html: 'what''s happening with い-adjective. Is it simply: い-adjective 方が＿＿'
+    credits_raw: pop
+    content_sha256: bbbe85dbffa283eac11909a8c1ebc4ccbc93563600a105f3711fe7d9b8b41e99
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 779
+    label: べき
+    source_url: https://takoboto.jp/bunpo/779
+  - target_id: 789
+    label: より
+    source_url: https://takoboto.jp/bunpo/789
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:09+00:00'
+response_sha256: b71ec39a78003f113d4bef9483913cc8e70e876f486fcf20013b2ce7e6536392
+warnings: []

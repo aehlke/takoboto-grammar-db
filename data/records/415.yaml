@@ -1,0 +1,412 @@
+schema_version: 2
+id: 415
+source: takoboto
+source_url: https://takoboto.jp/bunpo/415/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: にとっての
+romanized_label: nitotteno
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: to; for
+meaning_example: The problem for Tarou is that he doesn't understand English.
+meaning_notes:
+  - language: ja
+    text: 〜から見た
+    html: 〜から見た
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_415
+    body_text: |-
+      to; for 
+       The problem for Tarou is that he doesn't understand English. 
+       〜から見た
+    body_html: |-
+      <span>to; for</span> <br/> <span>The problem for Tarou is that he doesn't understand English.</span> <br/> <span>〜から見た</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 290
+    position: 0
+    japanese: 視覚障害者の方にとっての「ホームページの読みやすさ」を診断するソフトウェアを無償提供開始.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a6%96%e8%a6%9a%e9%9a%9c%e5%ae%b3%e8%80%85%e3%81%ae"><span>視覚障害者の</span></a><a href="https://takoboto.jp/?q=%e6%96%b9"><span>方</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e3%80%8c%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8%e3%81%ae"><span>「ホームページの</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%81%bf%e3%82%84%e3%81%99%e3%81%95%e3%80%8d%e3%82%92"><span>読みやすさ」を</span></a><a href="https://takoboto.jp/?q=%e8%a8%ba%e6%96%ad%e3%81%99%e3%82%8b%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%92"><span>診断するソフトウェアを</span></a><a href="https://takoboto.jp/?q=%e7%84%a1%e5%84%9f%e6%8f%90%e4%be%9b%e9%96%8b%e5%a7%8b."><span>無償提供開始.</span></a>
+    segments:
+      - text: 視覚障害者の方
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 「ホームページの読みやすさ」を診断するソフトウェアを無償提供開始.
+        grammar_highlight: false
+    reading: しかくしょうがいしゃのほうにとっての「ホームページのよみやすさ」をしんだんするソフトウェアをむしょうていきょうかいし
+    credits_raw: Amatuka, dc
+    translations:
+      - language: en
+        text: |-
+          [Announcing] the start of free distribution of software to diagnose the ease of using web-pages for visually impaired people.
+        html: |-
+          <span>[Announcing] the start of free distribution of software to diagnose the ease of using web-pages </span><strong>for </strong><span>visually impaired people. </span>
+        segments:
+          - text: '[Announcing] the start of free distribution of software to diagnose the ease of using web-pages '
+            grammar_highlight: false
+          - text: 'for '
+            grammar_highlight: true
+          - text: 'visually impaired people. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3802
+    position: 1
+    japanese: この世は我々の想像力にとっての画布そのものである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e4%b8%96%e3%81%af"><span>世は</span></a><a href="https://takoboto.jp/?q=%e6%88%91%e3%80%85%e3%81%ae"><span>我々の</span></a><a href="https://takoboto.jp/?q=%e6%83%b3%e5%83%8f%e5%8a%9b"><span>想像力</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e7%94%bb%e5%b8%83%e3%81%9d%e3%81%ae%e3%82%82%e3%81%ae%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>画布そのものである。</span></a>
+    segments:
+      - text: この世は我々の想像力
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 画布そのものである。
+        grammar_highlight: false
+    reading: このよはわれわれのそうぞうりょくにとってのがふそのものである。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: This world is but canvas to our imaginations.
+        html: |-
+          <span>This world is but canvas to our imaginations. </span>
+        segments:
+          - text: 'This world is but canvas to our imaginations. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3803
+    position: 2
+    japanese: 我々自身にとっての法律は、我々の理性が法律である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%88%91%e3%80%85"><span>我々</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e8%ba%ab"><span>自身</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e6%b3%95%e5%be%8b%e3%81%af%e3%80%81"><span>法律は、</span></a><a href="https://takoboto.jp/?q=%e6%88%91%e3%80%85%e3%81%ae"><span>我々の</span></a><a href="https://takoboto.jp/?q=%e7%90%86%e6%80%a7%e3%81%8c"><span>理性が</span></a><a href="https://takoboto.jp/?q=%e6%b3%95%e5%be%8b%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>法律である。</span></a>
+    segments:
+      - text: 我々自身
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 法律は、我々の理性が法律である。
+        grammar_highlight: false
+    reading: われわれじしんにとってのほうりつは、われわれのりせいがほうりつである。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Law to ourselves, our reason is our law.
+        html: |-
+          <span>Law to ourselves, our reason is our law. </span>
+        segments:
+          - text: 'Law to ourselves, our reason is our law. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3804
+    position: 3
+    japanese: 原爆は人類にとっての重大な脅威だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8e%9f%e7%88%86%e3%81%af"><span>原爆は</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%a1%9e"><span>人類</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e9%87%8d%e5%a4%a7%e3%81%aa"><span>重大な</span></a><a href="https://takoboto.jp/?q=%e8%84%85%e5%a8%81%e3%81%a0%e3%80%82"><span>脅威だ。</span></a>
+    segments:
+      - text: 原爆は人類
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 重大な脅威だ。
+        grammar_highlight: false
+    reading: げんばくはじんるいにとってのじゅうだいなきょういだ。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: The atomic bomb is a grave threat to mankind.
+        html: |-
+          <span>The atomic bomb is a grave threat to mankind. </span>
+        segments:
+          - text: 'The atomic bomb is a grave threat to mankind. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3805
+    position: 4
+    japanese: 雇い主にとっての倒産は、従業員にとっての解雇と同じである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%87%e3%81%84"><span>雇い</span></a><a href="https://takoboto.jp/?q=%e4%b8%bb"><span>主</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e5%80%92%e7%94%a3%e3%81%af%e3%80%81"><span>倒産は、</span></a><a href="https://takoboto.jp/?q=%e5%be%93%e6%a5%ad%e5%93%a1%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><span>従業員にとっての</span></a><a href="https://takoboto.jp/?q=%e8%a7%a3%e9%9b%87%e3%81%a8"><span>解雇と</span></a><a href="https://takoboto.jp/?q=%e5%90%8c%e3%81%98%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>同じである。</span></a>
+    segments:
+      - text: 雇い主
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 倒産は、従業員にとっての解雇と同じである。
+        grammar_highlight: false
+    reading: やといぬしにとってのとうさんは、じゅうぎょういんにとってのかいことおなじである。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Bankruptcy is to the employer what dismissal is to the employee.
+        html: |-
+          <span>Bankruptcy is to the employer what dismissal is to the employee. </span>
+        segments:
+          - text: 'Bankruptcy is to the employer what dismissal is to the employee. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3806
+    position: 5
+    japanese: 私にとってこの本は、あなたにとっての聖書のような物だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%93%e3%81%ae"><span>私にとってこの</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%81%af%e3%80%81%e3%81%82%e3%81%aa%e3%81%9f"><span>本は、あなた</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e8%81%96%e6%9b%b8%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa"><span>聖書のような</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%81%a0%e3%80%82"><span>物だ。</span></a>
+    segments:
+      - text: 私にとってこの本は、あなた
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 聖書のような物だ。
+        grammar_highlight: false
+    reading: わたしにとってこのほんは、あなたにとってのせいしょのようなものだ。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: This book is to me what the Bible is to you.
+        html: |-
+          <span>This book is to me what the Bible is to you. </span>
+        segments:
+          - text: 'This book is to me what the Bible is to you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3808
+    position: 6
+    japanese: 事実は科学にとって、ちょうど詩人にとっての言葉のようなものである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%ba%8b%e5%ae%9f%e3%81%af"><span>事実は</span></a><a href="https://takoboto.jp/?q=%e7%a7%91%e5%ad%a6%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%80%81%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9"><span>科学にとって、ちょうど</span></a><a href="https://takoboto.jp/?q=%e8%a9%a9%e4%ba%ba"><span>詩人</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e8%a8%80%e8%91%89%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>言葉のようなものである。</span></a>
+    segments:
+      - text: 事実は科学にとって、ちょうど詩人
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 言葉のようなものである。
+        grammar_highlight: false
+    reading: じじつはかがくにとって、ちょうどしじんにとってのことばのようなものである。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Facts are to science what words are to the poets.
+        html: |-
+          <span>Facts are to science what words are to the poets. </span>
+        segments:
+          - text: 'Facts are to science what words are to the poets. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3809
+    position: 7
+    japanese: 精神にとっての読書は肉体にとっての運動に当たる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%b2%be%e7%a5%9e"><span>精神</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e6%9b%b8%e3%81%af"><span>読書は</span></a><a href="https://takoboto.jp/?q=%e8%82%89%e4%bd%93%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><span>肉体にとっての</span></a><a href="https://takoboto.jp/?q=%e9%81%8b%e5%8b%95%e3%81%ab"><span>運動に</span></a><a href="https://takoboto.jp/?q=%e5%bd%93%e3%81%9f%e3%82%8b%e3%80%82"><span>当たる。</span></a>
+    segments:
+      - text: 精神
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 読書は肉体にとっての運動に当たる。
+        grammar_highlight: false
+    reading: せいしんにとってのどくしょはにくたいにとってのうんどうにあたる。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Reading is to the mind what exercise is to the body.
+        html: |-
+          <span>Reading is to the mind what exercise is to the body. </span>
+        segments:
+          - text: 'Reading is to the mind what exercise is to the body. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3810
+    position: 8
+    japanese: 男性にとっての最大のストレスの原因は仕事であるが、女性の場合は人間関係が１位である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%94%b7%e6%80%a7"><span>男性</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e6%9c%80%e5%a4%a7%e3%81%ae%e3%82%b9%e3%83%88%e3%83%ac%e3%82%b9%e3%81%ae"><span>最大のストレスの</span></a><a href="https://takoboto.jp/?q=%e5%8e%9f%e5%9b%a0%e3%81%af"><span>原因は</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%a7%e3%81%82%e3%82%8b%e3%81%8c%e3%80%81"><span>仕事であるが、</span></a><a href="https://takoboto.jp/?q=%e5%a5%b3%e6%80%a7%e3%81%ae"><span>女性の</span></a><a href="https://takoboto.jp/?q=%e5%a0%b4%e5%90%88%e3%81%af"><span>場合は</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e9%96%a2%e4%bf%82%e3%81%8c"><span>人間関係が</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%e4%bd%8d%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>１位である。</span></a>
+    segments:
+      - text: 男性
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 最大のストレスの原因は仕事であるが、女性の場合は人間関係が１位である。
+        grammar_highlight: false
+    reading: だんせいにとってのさいだいのストレスのげんいんはしごとであるが、じょせいのばあいはにんげんかんけいが１いである。
+    credits_raw: dbx, bamboo4
+    translations:
+      - language: en
+        text: The greatest cause of stress for men is work, while for women human relationships come at the top of the list.
+        html: |-
+          <span>The greatest cause of stress for men is work, while for women human relationships come at the top of the list. </span>
+        segments:
+          - text: 'The greatest cause of stress for men is work, while for women human relationships come at the top of the list. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3807
+    position: 9
+    japanese: 習慣や考え方は人によって異なるので、自分にとっての常識は他人にとっての非常識でないともかぎらない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%bf%92%e6%85%a3%e3%82%84"><span>習慣や</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88"><span>考え</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%af"><span>方は</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><span>人によって</span></a><a href="https://takoboto.jp/?q=%e7%95%b0%e3%81%aa%e3%82%8b%e3%81%ae%e3%81%a7%e3%80%81"><span>異なるので、</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86"><span>自分</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e5%b8%b8%e8%ad%98%e3%81%af"><span>常識は</span></a><a href="https://takoboto.jp/?q=%e4%bb%96%e4%ba%ba"><span>他人</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%ae"><strong>にとっての</strong></a><a href="https://takoboto.jp/?q=%e9%9d%9e%e5%b8%b8%e8%ad%98%e3%81%a7%e3%81%aa%e3%81%84%e3%81%a8%e3%82%82%e3%81%8b%e3%81%8e%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>非常識でないともかぎらない。</span></a>
+    segments:
+      - text: 習慣や考え方は人によって異なるので、自分
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 常識は他人
+        grammar_highlight: false
+      - text: にとっての
+        grammar_highlight: true
+      - text: 非常識でないともかぎらない。
+        grammar_highlight: false
+    reading: しゅうかんやかんがえかたはひとによってことなるので、じぶんにとってのじょうしきはたにんにとってのひじょうしきでないともかぎらない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: |-
+          It is not necessarily true that, even if custom and way of thinking and the like differ depending on the people, with our common sense we cant see the lack of common sense in the other persons.
+        html: |-
+          <span>It is not necessarily true that, even if custom and way of thinking and the like differ depending on the people, </span><strong>with </strong><span>our common sense we cant see the lack of common sense </span><strong>in </strong><span>the other persons. </span>
+        segments:
+          - text: 'It is not necessarily true that, even if custom and way of thinking and the like differ depending on the people, '
+            grammar_highlight: false
+          - text: 'with '
+            grammar_highlight: true
+          - text: 'our common sense we cant see the lack of common sense '
+            grammar_highlight: false
+          - text: 'in '
+            grammar_highlight: true
+          - text: 'the other persons. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      ＊にとっての is simply the prenominal form of にとって. It doesn't have some mystical separate meaning from にとって, but as a compound particle, にとって(の) does have different connotations from には, which does *not* have a prenominal form.
+
+      For example:
+      太郎にとっての問題は... (The problem for Tarou is...)
+      〜にとってのいい機会 （A good opportunity for〜)
+      その歌手は私にとってのアイドルの一人だ。 (That singer is an idol to me.)
+
+      ＊にとって(の) VS には: Because of the particle は, には gives a sense of contrast in some contexts while にとって(の) does not.
+      FOR EXAMPLE: これは様々[には/にとって]無視できない問題だ。
+      In the above example, the sense with には can imply that not for others but for us, or at least for us, this is a problem which cannot be ignored. The sentence with にとって does not have this implication.
+
+      FORMATION:
+      Ｎ1 + にとっての + Ｎ2
+    html: |-
+      ＊にとっての is simply the prenominal form of にとって. It doesn't have some mystical separate meaning from にとって, but as a compound particle, にとって(の) does have different connotations from には, which does *not* have a prenominal form.<br/><br/>For example:<br/>太郎にとっての問題は... (The problem for Tarou is...)<br/>〜にとってのいい機会 （A good opportunity for〜)<br/>その歌手は私にとってのアイドルの一人だ。 (That singer is an idol to me.)<br/><br/>＊にとって(の) VS には: Because of the particle は, には gives a sense of contrast in some contexts while にとって(の) does not.<br/>FOR EXAMPLE: これは様々[には/にとって]無視できない問題だ。<br/>In the above example, the sense with には can imply that not for others but for us, or at least for us, this is a problem which cannot be ignored. The sentence with にとって does not have this implication.<br/><br/>FORMATION:<br/>Ｎ1 + にとっての + Ｎ2
+    credits_raw: rubyhatchet
+    content_sha256: cc27183f4cdb4cd1664e0be64dac7ddd0f6b586bf2405646d55a1030602d5757
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Note that ホームページ was generalised to mean any web-page by the Japanese
+    html: Note that ホームページ was generalised to mean any web-page by the Japanese
+    credits_raw: Amatuka
+    content_sha256: 14414075a6338b705d1cb9367b4716ce4e3ffec498119fddf34928c7585a31b5
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Note also that newspaper & press release headlines often drop the [する] off the end.
+    html: Note also that newspaper &amp; press release headlines often drop the [する] off the end.
+    credits_raw: Amatuka
+    content_sha256: 9be6ee034d1048d90ae86a74c5888390c1c43c90c1fe3656b179ca577befdd2b
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      What is the difference between:
+      1. 私にとっての...
+      2. 私は...
+
+      Does using にとっての create a certain feeling? Is it more bookish? I can't sense the nuance.
+    html: |-
+      What is the difference between:<br/>1. 私にとっての...<br/>2. 私は...<br/><br/>Does using にとっての create a certain feeling? Is it more bookish? I can't sense the nuance.
+    credits_raw: adamstudio
+    content_sha256: a1fad79fb6523b2e8757e822ec915d1064d2d96423961ea5f0f76200cabc5b6e
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: '#3803 is very awkward in terms of the Japanese text.'
+    html: '#3803 is very awkward in terms of the Japanese text.'
+    credits_raw: bamboo4
+    content_sha256: 7fa25ad277ecc38742a4cf1f90c2c38883292bd51019507a296feb54e32384f4
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      Ya, #3803 is awkward. 
+      It should be :
+      我々自身にとっての法律は、我々の理性に基づくものである。
+    html: |-
+      Ya, #3803 is awkward. <br/>It should be :<br/>我々自身にとっての法律は、我々の理性に基づくものである。
+    credits_raw: 誠
+    content_sha256: 0970bb25bb014492abe0cfcd4c8056a7f925320ac2542352b0c5e35e2976bc64
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      A more beautiful account given by my 先生 is :
+      我々にとっての大切な法律は、我々自信の理性に基づくものである。
+    html: |-
+      A more beautiful account given by my 先生 is :<br/>我々にとっての大切な法律は、我々自信の理性に基づくものである。
+    credits_raw: 誠
+    content_sha256: c9c0d057b56bdd43622a9d3752dbc7410c33801865a3ebdd827c31c6df6b0fcd
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: You don't need "大切な”and 我々自信の should be 我々自身の
+    html: You don't need "大切な”and 我々自信の should be 我々自身の
+    credits_raw: bamboo4
+    content_sha256: de5380ec20c2cd4287458f1979d31b434e1996849cf0a58977a9a765356da176
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: '#3807 does not belong here.'
+    html: '#3807 does not belong here.'
+    credits_raw: bamboo4
+    content_sha256: cc5e54d13afbd187d6acb8e4bd1d7314bc98a5df900256fbd195ffc80e2426f2
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: Agree. の is part of のるかそるか（伸るか反るか）
+    html: Agree. の is part of のるかそるか（伸るか反るか）
+    credits_raw: Miki
+    content_sha256: ace141d00f1a66af90259e24d213781eb7f0c1d177d7971a2d56c32a7cd5a264
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      I tried to move #3807 to #7036 of [nitotte] and put an example of JPLT1 instead. The English may be awkward, and thanks for the help for improving the translation if you can. From my point of view, the Japanese is correct and now belong here.
+    html: |-
+      I tried to move #3807 to #7036 of [nitotte] and put an example of JPLT1 instead. The English may be awkward, and thanks for the help for improving the translation if you can. From my point of view, the Japanese is correct and now belong here.
+    credits_raw: 赤毛
+    content_sha256: 350cd8bb346a6718ad4a88de9e894c917e03ee30141fd7ba32d3496ade79ccd1
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:41:50+00:00'
+response_sha256: b9eb67eb0e10834e3e55a3790076837602b37904ecd4c9b4ce479bd4e48570fb
+warnings: []

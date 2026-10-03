@@ -1,0 +1,258 @@
+schema_version: 2
+id: 984
+source: takoboto
+source_url: https://takoboto.jp/bunpo/984/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 辛うじて
+romanized_label: karoujite
+alternate_forms:
+  - かろうじて
+jlpt_level: 1
+credits_raw: dc
+meaning: barely
+meaning_example: I barely made it to the train.
+meaning_notes:
+  - language: ja
+    text: やっとのことで。何とか。ようやくのことで。わずかに。
+    html: やっとのことで。何とか。ようやくのことで。わずかに。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_984
+    body_text: |-
+      barely 
+       I barely made it to the train. 
+       やっとのことで。何とか。ようやくのことで。わずかに。
+    body_html: |-
+      <span>barely</span> <br/> <span>I barely made it to the train.</span> <br/> <span>やっとのことで。何とか。ようやくのことで。わずかに。</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 1240
+    position: 0
+    japanese: 走って行ったらかろうじて2時の電車に間に合いました
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%b5%b0%e3%81%a3%e3%81%a6"><span>走って</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%82%89"><span>行ったら</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8d%e3%81%86%e3%81%98%e3%81%a6"><strong>かろうじて</strong></a><a href="https://takoboto.jp/?q=2"><span>2</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%81%ae"><span>時の</span></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e8%bb%8a%e3%81%ab"><span>電車に</span></a><a href="https://takoboto.jp/?q=%e9%96%93%e3%81%ab"><span>間に</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e3%81%84%e3%81%be%e3%81%97%e3%81%9f"><span>合いました</span></a>
+    segments:
+      - text: 走って行ったら
+        grammar_highlight: false
+      - text: かろうじて
+        grammar_highlight: true
+      - text: 2時の電車に間に合いました
+        grammar_highlight: false
+    reading: はしっていったらかろうじてじのでんしゃにまにあいました
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I ran and barely made the 2 O'Clock train
+        html: |-
+          <span>I ran and </span><strong>barely </strong><span>made the 2 O'Clock train </span>
+        segments:
+          - text: 'I ran and '
+            grammar_highlight: false
+          - text: 'barely '
+            grammar_highlight: true
+          - text: 'made the 2 O''Clock train '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1241
+    position: 1
+    japanese: かろうじて落第せずにすんだ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8d%e3%81%86%e3%81%98%e3%81%a6"><strong>かろうじて</strong></a><a href="https://takoboto.jp/?q=%e8%90%bd%e7%ac%ac%e3%81%9b%e3%81%9a%e3%81%ab%e3%81%99%e3%82%93%e3%81%a0"><span>落第せずにすんだ</span></a>
+    segments:
+      - text: かろうじて
+        grammar_highlight: true
+      - text: 落第せずにすんだ
+        grammar_highlight: false
+    reading: かろうじてらくだいせずにすんだ
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I just barely managed to avoid dropping out of class
+        html: |-
+          <strong>I just barely </strong><span>managed to avoid dropping out of class </span>
+        segments:
+          - text: 'I just barely '
+            grammar_highlight: true
+          - text: 'managed to avoid dropping out of class '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1242
+    position: 2
+    japanese: かろうじて付き合っている
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8d%e3%81%86%e3%81%98%e3%81%a6"><strong>かろうじて</strong></a><a href="https://takoboto.jp/?q=%e4%bb%98%e3%81%8d"><span>付き</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b"><span>合っている</span></a>
+    segments:
+      - text: かろうじて
+        grammar_highlight: true
+      - text: 付き合っている
+        grammar_highlight: false
+    reading: かろうじてつきあっている
+    credits_raw: dc
+    translations:
+      - language: en
+        text: They are just barely still together
+        html: |-
+          <span>They are </span><strong>just barely </strong><span>still together </span>
+        segments:
+          - text: 'They are '
+            grammar_highlight: false
+          - text: 'just barely '
+            grammar_highlight: true
+          - text: 'still together '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3492
+    position: 3
+    japanese: １１時までにかろうじてなんとかその手紙を書いた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%91%ef%bc%91%e6%99%82%e3%81%be%e3%81%a7%e3%81%ab"><span>１１時までに</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8d%e3%81%86%e3%81%98%e3%81%a6"><strong>かろうじて</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a8%e3%81%8b%e3%81%9d%e3%81%ae"><span>なんとかその</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%82%92"><span>手紙を</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%9f%e3%80%82"><span>書いた。</span></a>
+    segments:
+      - text: １１時までに
+        grammar_highlight: false
+      - text: かろうじて
+        grammar_highlight: true
+      - text: なんとかその手紙を書いた。
+        grammar_highlight: false
+    reading: １１じまでにかろうじてなんとかそのてがみをかいた。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I barely managed to finish the letter by eleven o'clock.
+        html: |-
+          <span>I barely managed to finish the letter by eleven o'clock. </span>
+        segments:
+          - text: 'I barely managed to finish the letter by eleven o''clock. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3493
+    position: 4
+    japanese: かろうじて間に合いましたね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8d%e3%81%86%e3%81%98%e3%81%a6"><strong>かろうじて</strong></a><a href="https://takoboto.jp/?q=%e9%96%93%e3%81%ab"><span>間に</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%81%ad%e3%80%82"><span>合いましたね。</span></a>
+    segments:
+      - text: かろうじて
+        grammar_highlight: true
+      - text: 間に合いましたね。
+        grammar_highlight: false
+    reading: かろうじてまにあいましたね。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You are only just in time.
+        html: |-
+          <span>You are only just in time. </span>
+        segments:
+          - text: 'You are only just in time. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3494
+    position: 5
+    japanese: かろうじて事故に遭わずにすんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8d%e3%81%86%e3%81%98%e3%81%a6"><strong>かろうじて</strong></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e6%95%85%e3%81%ab"><span>事故に</span></a><a href="https://takoboto.jp/?q=%e9%81%ad%e3%82%8f%e3%81%9a%e3%81%ab%e3%81%99%e3%82%93%e3%81%a0%e3%80%82"><span>遭わずにすんだ。</span></a>
+    segments:
+      - text: かろうじて
+        grammar_highlight: true
+      - text: 事故に遭わずにすんだ。
+        grammar_highlight: false
+    reading: かろうじてじこにあわずにすんだ。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I escaped the accident by the skin of my teeth.
+        html: |-
+          <span>I escaped the accident by the skin of my teeth. </span>
+        segments:
+          - text: 'I escaped the accident by the skin of my teeth. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3495
+    position: 6
+    japanese: かろうじて車に当てられずにすんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8d%e3%81%86%e3%81%98%e3%81%a6"><strong>かろうじて</strong></a><a href="https://takoboto.jp/?q=%e8%bb%8a%e3%81%ab"><span>車に</span></a><a href="https://takoboto.jp/?q=%e5%bd%93%e3%81%a6%e3%82%89%e3%82%8c%e3%81%9a%e3%81%ab%e3%81%99%e3%82%93%e3%81%a0%e3%80%82"><span>当てられずにすんだ。</span></a>
+    segments:
+      - text: かろうじて
+        grammar_highlight: true
+      - text: 車に当てられずにすんだ。
+        grammar_highlight: false
+    reading: かろうじてくるまにあてられずにすんだ。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I narrowly escaped being hit by a car.
+        html: |-
+          <span>I narrowly escaped being hit by a car. </span>
+        segments:
+          - text: 'I narrowly escaped being hit by a car. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3496
+    position: 7
+    japanese: かろうじて列車に間に合った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8d%e3%81%86%e3%81%98%e3%81%a6"><strong>かろうじて</strong></a><a href="https://takoboto.jp/?q=%e5%88%97%e8%bb%8a%e3%81%ab"><span>列車に</span></a><a href="https://takoboto.jp/?q=%e9%96%93%e3%81%ab"><span>間に</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e3%81%a3%e3%81%9f%e3%80%82"><span>合った。</span></a>
+    segments:
+      - text: かろうじて
+        grammar_highlight: true
+      - text: 列車に間に合った。
+        grammar_highlight: false
+    reading: かろうじてれっしゃにまにあった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I barely managed to catch the train.
+        html: |-
+          <span>I barely managed to catch the train. </span>
+        segments:
+          - text: 'I barely managed to catch the train. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: By the look of the examples, this is spoken grammar?
+    html: By the look of the examples, this is spoken grammar?
+    credits_raw: blabby
+    content_sha256: b0e087c2f978468d25f7e16a6beceb8c9556ea19feecebfa9cdf012a297fecfe
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Kaens, I think you mistake 辛 for 幸. 幸 is used in 幸福、幸運 etc.
+      かろうじて is written as 辛うじて.
+    html: |-
+      Kaens, I think you mistake 辛 for 幸. 幸 is used in 幸福、幸運 etc.<br/>かろうじて is written as 辛うじて.
+    credits_raw: Miki
+    content_sha256: 126a77155d878cea1a966721bf344516d52547e1c58dc1edf66f08c4c55bceab
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      blabby, this is the grammar for both spoken and written language (of course).
+      Miki, true, I did mistake that ^^; So, the meaning would be 'bitter, painful, bad' - the opposite to my first comment, so I'm removing that one. Ugh.
+    html: |-
+      blabby, this is the grammar for both spoken and written language (of course).<br/>Miki, true, I did mistake that ^^; So, the meaning would be 'bitter, painful, bad' - the opposite to my first comment, so I'm removing that one. Ugh.
+    credits_raw: Kaens
+    content_sha256: 9a7fe8e00153cb841261383bcc49ff21a458ae89b698e8c584150caebfd82ae3
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:43:21+00:00'
+response_sha256: 71d86b13374a5ded02400681c3acdf43d8c705c0068165324442ae6f5a24a53c
+warnings: []

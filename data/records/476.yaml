@@ -1,0 +1,497 @@
+schema_version: 2
+id: 476
+source: takoboto
+source_url: https://takoboto.jp/bunpo/476/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: あまり　+　動詞(否定形)
+romanized_label: amari nai
+alternate_forms:
+  - あまり〜ない
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: not very, not much
+meaning_example: When used with negative verbs, [amari + v-nai] = [not very much v]
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_476
+    body_text: |-
+      not very, not much 
+       When used with negative verbs, [amari + v-nai] = [not very much v]
+    body_html: |-
+      <span>not very, not much</span> <br/> <span>When used with negative verbs, [amari + v-nai] = [not very much v]</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 6799
+    position: 0
+    japanese: 英語があまりわかりません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%8c"><span>英語が</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%8b%e3%82%8a"><span>わかり</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%9b%e3%82%93"><strong>ません</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 英語が
+        grammar_highlight: false
+      - text: あまり
+        grammar_highlight: true
+      - text: わかり
+        grammar_highlight: false
+      - text: ません
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: えいごがあまりわかりません。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: I don't understand English very well.
+        html: |-
+          <strong>I don't </strong><span>understand English </span><strong>very well. </strong>
+        segments:
+          - text: 'I don''t '
+            grammar_highlight: true
+          - text: 'understand English '
+            grammar_highlight: false
+          - text: 'very well. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 236
+    position: 1
+    japanese: 今回のことであまり思い詰めないほうがいいよ。だれにでも失敗はあるんだから。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e5%9b%9e%e3%81%ae%e3%81%93%e3%81%a8%e3%81%a7"><span>今回のことで</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e8%a9%b0%e3%82%81%e3%81%aa%e3%81%84%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84%e3%82%88%e3%80%82"><span>詰めないほうがいいよ。</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%82%8c%e3%81%ab%e3%81%a7%e3%82%82"><span>だれにでも</span></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e6%95%97%e3%81%af%e3%81%82%e3%82%8b%e3%82%93%e3%81%a0%e3%81%8b%e3%82%89%e3%80%82"><span>失敗はあるんだから。</span></a>
+    segments:
+      - text: 今回のことで
+        grammar_highlight: false
+      - text: あまり
+        grammar_highlight: true
+      - text: 思い詰めないほうがいいよ。だれにでも失敗はあるんだから。
+        grammar_highlight: false
+    reading: こんかいのことであまりおもいつめないほうがいいよ。だれにでもしっぱいはあるんだから。
+    credits_raw: Amatuka, dc
+    translations:
+      - language: en
+        text: Don't worry too much about it. Everybody blows it once in a while.
+        html: |-
+          <span>Don't worry </span><strong>too much </strong><span>about it. Everybody blows it once in a while. </span>
+        segments:
+          - text: 'Don''t worry '
+            grammar_highlight: false
+          - text: 'too much '
+            grammar_highlight: true
+          - text: 'about it. Everybody blows it once in a while. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 237
+    position: 2
+    japanese: ホテルのメイドとしてパートで仕事していますが、その仕事はあまり好きではありません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%9b%e3%83%86%e3%83%ab%e3%81%ae%e3%83%a1%e3%82%a4%e3%83%89%e3%81%a8%e3%81%97%e3%81%a6%e3%83%91%e3%83%bc%e3%83%88%e3%81%a7"><span>ホテルのメイドとしてパートで</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%97%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%81%8c%e3%80%81%e3%81%9d%e3%81%ae"><span>仕事していますが、その</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%af"><span>仕事は</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a7%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>好きではありません。</span></a>
+    segments:
+      - text: ホテルのメイドとしてパートで仕事していますが、その仕事は
+        grammar_highlight: false
+      - text: あまり
+        grammar_highlight: true
+      - text: 好きではありません。
+        grammar_highlight: false
+    reading: ホテルのメイドとしてパートでしごとしていますが、そのしごとはあまりすきではありません。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I had a part-time job as a hotel maid, but I didn't like it very much
+        html: |-
+          <span>I had a part-time job as a hotel maid, but I </span><strong>didn't </strong><span>like it </span><strong>very much </strong>
+        segments:
+          - text: 'I had a part-time job as a hotel maid, but I '
+            grammar_highlight: false
+          - text: 'didn''t '
+            grammar_highlight: true
+          - text: 'like it '
+            grammar_highlight: false
+          - text: 'very much '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3396
+    position: 3
+    japanese: あなたはあまりにも素早すぎる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%82"><span>にも</span></a><a href="https://takoboto.jp/?q=%e7%b4%a0%e6%97%a9%e3%81%99%e3%81%8e%e3%82%8b%e3%80%82"><span>素早すぎる。</span></a>
+    segments:
+      - text: あなたは
+        grammar_highlight: false
+      - text: あまり
+        grammar_highlight: true
+      - text: にも素早すぎる。
+        grammar_highlight: false
+    reading: あなたはあまりにもすばやすぎる。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You are all too quick.
+        html: |-
+          <span>You are all too quick. </span>
+        segments:
+          - text: 'You are all too quick. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3397
+    position: 4
+    japanese: あなたはあまり夜更かしをしない方がいい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e5%a4%9c%e6%9b%b4%e3%81%8b%e3%81%97%e3%82%92%e3%81%97%e3%81%aa%e3%81%84"><span>夜更かしをしない</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84%e3%80%82"><span>方がいい。</span></a>
+    segments:
+      - text: あなたは
+        grammar_highlight: false
+      - text: あまり
+        grammar_highlight: true
+      - text: 夜更かしをしない方がいい。
+        grammar_highlight: false
+    reading: あなたはあまりよるふかしをしないほうがいい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You had better not sit up late up night.
+        html: |-
+          <span>You had better not sit up late up night. </span>
+        segments:
+          - text: 'You had better not sit up late up night. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3398
+    position: 5
+    japanese: あの人はあまり威張るから好きになれない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%af"><span>人は</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e5%a8%81%e5%bc%b5%e3%82%8b%e3%81%8b%e3%82%89"><span>威張るから</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%ab%e3%81%aa%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82"><span>好きになれない。</span></a>
+    segments:
+      - text: あの人は
+        grammar_highlight: false
+      - text: あまり
+        grammar_highlight: true
+      - text: 威張るから好きになれない。
+        grammar_highlight: false
+    reading: あのひとはあまりいばるからすきになれない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: That man is too masterful for my liking.
+        html: |-
+          <span>That man is too masterful for my liking. </span>
+        segments:
+          - text: 'That man is too masterful for my liking. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3399
+    position: 6
+    japanese: あの人はあまり先が長くない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%af"><span>人は</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e5%85%88%e3%81%8c"><span>先が</span></a><a href="https://takoboto.jp/?q=%e9%95%b7%e3%81%8f%e3%81%aa%e3%81%84%e3%80%82"><span>長くない。</span></a>
+    segments:
+      - text: あの人は
+        grammar_highlight: false
+      - text: あまり
+        grammar_highlight: true
+      - text: 先が長くない。
+        grammar_highlight: false
+    reading: あのひとはあまりさきがながくない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: He doesn't have long to live.
+        html: |-
+          <span>He doesn't have long to live. </span>
+        segments:
+          - text: 'He doesn''t have long to live. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3400
+    position: 7
+    japanese: あの人は友達をつくることがあまり速くない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%af"><span>人は</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%82%92%e3%81%a4%e3%81%8f%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c"><span>友達をつくることが</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e9%80%9f%e3%81%8f%e3%81%aa%e3%81%84%e3%80%82"><span>速くない。</span></a>
+    segments:
+      - text: あの人は友達をつくることが
+        grammar_highlight: false
+      - text: あまり
+        grammar_highlight: true
+      - text: 速くない。
+        grammar_highlight: false
+    reading: あのひとはともだちをつくることがあまりはやくない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: He is not very fast at making friends.
+        html: |-
+          <span>He is not very fast at making friends. </span>
+        segments:
+          - text: 'He is not very fast at making friends. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3401
+    position: 8
+    japanese: あまりお金がないので、私はこの冬は新しいコートなしで過ごさなければならない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%81%8c%e3%81%aa%e3%81%84%e3%81%ae%e3%81%a7%e3%80%81"><span>金がないので、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%93%e3%81%ae"><span>私はこの</span></a><a href="https://takoboto.jp/?q=%e5%86%ac%e3%81%af"><span>冬は</span></a><a href="https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84%e3%82%b3%e3%83%bc%e3%83%88%e3%81%aa%e3%81%97%e3%81%a7"><span>新しいコートなしで</span></a><a href="https://takoboto.jp/?q=%e9%81%8e%e3%81%94%e3%81%95%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>過ごさなければならない。</span></a>
+    segments:
+      - text: あまり
+        grammar_highlight: true
+      - text: お金がないので、私はこの冬は新しいコートなしで過ごさなければならない。
+        grammar_highlight: false
+    reading: あまりおかねがないので、わたしはこのふゆはあたらしいコートなしですごさなければならない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As I do not have enough money, I will have to do without a new coat this winter.
+        html: |-
+          <span>As I do not have enough money, I will have to do without a new coat this winter. </span>
+        segments:
+          - text: 'As I do not have enough money, I will have to do without a new coat this winter. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3402
+    position: 9
+    japanese: あまりお金を使いすぎてはいけません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%84%e3%81%99%e3%81%8e%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>使いすぎてはいけません。</span></a>
+    segments:
+      - text: あまり
+        grammar_highlight: true
+      - text: お金を使いすぎてはいけません。
+        grammar_highlight: false
+    reading: あまりおかねをつかいすぎてはいけません。
+    credits_raw: dbx, dc
+    translations:
+      - language: en
+        text: Don't spend too much money.
+        html: |-
+          <span>Don't spend too much money. </span>
+        segments:
+          - text: 'Don''t spend too much money. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3403
+    position: 10
+    japanese: あまりきつくパーマをかけないでください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%81%a4%e3%81%8f%e3%83%91%e3%83%bc%e3%83%9e%e3%82%92%e3%81%8b%e3%81%91%e3%81%aa%e3%81%84%e3%81%a7%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>きつくパーマをかけないでください。</span></a>
+    segments:
+      - text: あまり
+        grammar_highlight: true
+      - text: きつくパーマをかけないでください。
+        grammar_highlight: false
+    reading: あまりきつくパーマをかけないでください。
+    credits_raw: dbx, dc
+    translations:
+      - language: en
+        text: Don't make the perm too strong, please.
+        html: |-
+          <span>Don't make the perm </span><strong>too </strong><span>strong, please. </span>
+        segments:
+          - text: 'Don''t make the perm '
+            grammar_highlight: false
+          - text: 'too '
+            grammar_highlight: true
+          - text: 'strong, please. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3404
+    position: 11
+    japanese: あまりご迷惑でなければ乗せていただけませんか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e3%81%94"><span>ご</span></a><a href="https://takoboto.jp/?q=%e8%bf%b7%e6%83%91%e3%81%a7%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0"><span>迷惑でなければ</span></a><a href="https://takoboto.jp/?q=%e4%b9%97%e3%81%9b%e3%81%a6%e3%81%84%e3%81%9f%e3%81%a0%e3%81%91%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b%e3%80%82"><span>乗せていただけませんか。</span></a>
+    segments:
+      - text: あまり
+        grammar_highlight: true
+      - text: ご迷惑でなければ乗せていただけませんか。
+        grammar_highlight: false
+    reading: あまりごめいわくでなければのせていただけませんか。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I was wondering if you could give me a lift, if it isn't too much trouble?
+        html: |-
+          <span>I was wondering if you could give me a lift, if it isn't too much trouble? </span>
+        segments:
+          - text: 'I was wondering if you could give me a lift, if it isn''t too much trouble? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3405
+    position: 12
+    japanese: あまりご迷惑でなければ乗せて行っていただけないでしょうか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e3%81%94"><span>ご</span></a><a href="https://takoboto.jp/?q=%e8%bf%b7%e6%83%91%e3%81%a7%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0"><span>迷惑でなければ</span></a><a href="https://takoboto.jp/?q=%e4%b9%97%e3%81%9b%e3%81%a6"><span>乗せて</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e3%81%a0%e3%81%91%e3%81%aa%e3%81%84%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%81%8b%e3%80%82"><span>行っていただけないでしょうか。</span></a>
+    segments:
+      - text: あまり
+        grammar_highlight: true
+      - text: ご迷惑でなければ乗せて行っていただけないでしょうか。
+        grammar_highlight: false
+    reading: あまりごめいわくでなければのせていっていただけないでしょうか。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I was wonder if you could give me a lift, if it isn't too much trouble?
+        html: |-
+          <span>I was wonder if you could give me a lift, if it isn't too much trouble? </span>
+        segments:
+          - text: 'I was wonder if you could give me a lift, if it isn''t too much trouble? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3406
+    position: 13
+    japanese: あまりご面倒でなければいただきます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e3%81%94"><span>ご</span></a><a href="https://takoboto.jp/?q=%e9%9d%a2%e5%80%92%e3%81%a7%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%84%e3%81%9f%e3%81%a0%e3%81%8d%e3%81%be%e3%81%99%e3%80%82"><span>面倒でなければいただきます。</span></a>
+    segments:
+      - text: あまり
+        grammar_highlight: true
+      - text: ご面倒でなければいただきます。
+        grammar_highlight: false
+    reading: あまりごめんどうでなければいただきます。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Only if it's not too much trouble.
+        html: |-
+          <span>Only if it's not too much trouble. </span>
+        segments:
+          - text: 'Only if it''s not too much trouble. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3407
+    position: 14
+    japanese: あまりそれを鼻にかけるな。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%82%92"><span>それを</span></a><a href="https://takoboto.jp/?q=%e9%bc%bb%e3%81%ab%e3%81%8b%e3%81%91%e3%82%8b%e3%81%aa%e3%80%82"><span>鼻にかけるな。</span></a>
+    segments:
+      - text: あまり
+        grammar_highlight: true
+      - text: それを鼻にかけるな。
+        grammar_highlight: false
+    reading: あまりそれをはなにかけるな。
+    credits_raw: dbx, Miki
+    translations:
+      - language: en
+        text: Don't blow your horn too much.
+        html: |-
+          <span>Don't blow your horn too much. </span>
+        segments:
+          - text: 'Don''t blow your horn too much. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8639
+    position: 15
+    japanese: 三月にあまりフランス語を勉強しませんでした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%89%e6%9c%88%e3%81%ab%e3%81%82%e3%81%be%e3%82%8a%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9"><span>三月にあまりフランス</span></a><a href="https://takoboto.jp/?q=%e8%aa%9e%e3%82%92"><span>語を</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%be%e3%81%9b%e3%82%93%e3%81%a7%e3%81%97%e3%81%9f%e3%80%82"><span>勉強しませんでした。</span></a>
+    segments:
+      - text: 三月にあまりフランス語を勉強しませんでした。
+        grammar_highlight: false
+    reading: さんがつにあまりふらんすごをべんきょうしませんでした。
+    credits_raw: Sakuratree
+    translations:
+      - language: en
+        text: In March, I didn't study French a lot.
+        html: |-
+          <span>In March, I didn't study French a lot. </span>
+        segments:
+          - text: 'In March, I didn''t study French a lot. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8640
+    position: 16
+    japanese: 私はあまり旅行しません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%82%e3%81%be%e3%82%8a"><span>私はあまり</span></a><a href="https://takoboto.jp/?q=%e6%97%85%e8%a1%8c%e3%81%97%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>旅行しません。</span></a>
+    segments:
+      - text: 私はあまり旅行しません。
+        grammar_highlight: false
+    reading: わたしはあまりりょこうしません。
+    credits_raw: Sakuratree
+    translations:
+      - language: en
+        text: I don't travel a lot.
+        html: |-
+          <span>I don't travel a lot. </span>
+        segments:
+          - text: 'I don''t travel a lot. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8708
+    position: 17
+    japanese: あんまり失敗しないので、成功の意味もよく分からない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%93%e3%81%be%e3%82%8a"><span>あんまり</span></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e6%95%97%e3%81%97%e3%81%aa%e3%81%84%e3%81%ae%e3%81%a7%e3%80%81"><span>失敗しないので、</span></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%ae"><span>成功の</span></a><a href="https://takoboto.jp/?q=%e6%84%8f%e5%91%b3%e3%82%82%e3%82%88%e3%81%8f"><span>意味もよく</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>分からない。</span></a>
+    segments:
+      - text: あんまり失敗しないので、成功の意味もよく分からない。
+        grammar_highlight: false
+    reading: あんまりしっぱいしないので、せいこうのいみもよくわからない。
+    credits_raw: bayur
+    translations: []
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6796
+    position: 18
+    japanese: 日本語をあまり使わなくてもいい仕事はありますか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%82%92"><span>日本語を</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a"><strong>あまり</strong></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%82%8f"><span>使わ</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%8f%e3%81%a6"><strong>なくて</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%84%e3%81%84"><span>もいい</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%81%8b%e3%80%82"><span>仕事はありますか。</span></a>
+    segments:
+      - text: 日本語を
+        grammar_highlight: false
+      - text: あまり
+        grammar_highlight: true
+      - text: 使わ
+        grammar_highlight: false
+      - text: なくて
+        grammar_highlight: true
+      - text: もいい仕事はありますか。
+        grammar_highlight: false
+    reading: にほんごをあまりつかわなくてもいいしごとはありますか。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: Do you have jobs in which it's OK even if you don't use Japanese language very much?
+        html: |-
+          <span>Do you have jobs in which it's OK even if you </span><strong>don't </strong><span>use Japanese language </span><strong>very much? </strong>
+        segments:
+          - text: 'Do you have jobs in which it''s OK even if you '
+            grammar_highlight: false
+          - text: 'don''t '
+            grammar_highlight: true
+          - text: 'use Japanese language '
+            grammar_highlight: false
+          - text: 'very much? '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: I think this grammar is for level 3 of JPLT so I changed it from level 2.
+    html: I think this grammar is for level 3 of JPLT so I changed it from level 2.
+    credits_raw: 赤毛
+    content_sha256: 5915ff486b2724930b3b2ce8bbc2ed6ee258a2fb02ff145f92e246aff2bed367
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:35:52+00:00'
+response_sha256: 48de9e3e9d37d48ceda34f825c1ce35004585a785b58cea78fc70392c306bf7a
+warnings: []

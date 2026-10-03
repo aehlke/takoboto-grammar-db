@@ -1,0 +1,358 @@
+schema_version: 2
+id: 1625
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1625/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ことがある
+romanized_label: koto ga aru
+alternate_forms: []
+jlpt_level: 2
+credits_raw: claytonian
+meaning: There are times when
+meaning_example: there are times when Father cooks dinner
+meaning_notes:
+  - language: ja
+    text: 動作・状態がときどき起こるという意味
+    html: 動作・状態がときどき起こるという意味
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1625
+    body_text: |-
+      There are times when 
+       there are times when Father cooks dinner 
+       動作・状態がときどき起こるという意味
+    body_html: |-
+      <span>There are times when</span> <br/> <span>there are times when Father cooks dinner</span> <br/> <span>動作・状態がときどき起こるという意味</span>
+    credits_raw: claytonian
+  - kind: formation
+    source_dom_id: editable_Formation_1625
+    body_text: Verb dictionary form+ことがあるVerb ない form+ことがある
+    body_html: |-
+      <div><div><div>Verb dictionary form</div></div><div><div>+</div><div>ことがある</div></div></div><div><div><div>Verb ない form</div></div><div><div>+</div><div>ことがある</div></div></div>
+    credits_raw: null
+formations:
+  - Verb dictionary form + ことがある
+  - Verb ない form + ことがある
+examples:
+  - source_id: 6488
+    position: 0
+    japanese: わたしの家では父が夕食を作ることがある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae"><span>わたしの</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e3%81%a7%e3%81%af"><span>家では</span></a><a href="https://takoboto.jp/?q=%e7%88%b6%e3%81%8c"><span>父が</span></a><a href="https://takoboto.jp/?q=%e5%a4%95%e9%a3%9f%e3%82%92"><span>夕食を</span></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e3%82%8b"><span>作る</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b"><strong>ことがある</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: わたしの家では父が夕食を作る
+        grammar_highlight: false
+      - text: ことがある
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: わたしのいえではちちがゆうしょくをつくることがある。
+    credits_raw: claytonian
+    translations:
+      - language: en
+        text: In my household, there are times when dad makes dinner.
+        html: |-
+          <span>In my household, </span><strong>there are times when </strong><span>dad makes dinner. </span>
+        segments:
+          - text: 'In my household, '
+            grammar_highlight: false
+          - text: 'there are times when '
+            grammar_highlight: true
+          - text: 'dad makes dinner. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6489
+    position: 1
+    japanese: たいてい私が犬を散歩させていた。しかし最近、妻が散歩させることがある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%84%e3%81%a6%e3%81%84"><span>たいてい</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e7%8a%ac%e3%82%92"><span>犬を</span></a><a href="https://takoboto.jp/?q=%e6%95%a3%e6%ad%a9%e3%81%95%e3%81%9b%e3%81%a6%e3%81%84%e3%81%9f%e3%80%82%e3%81%97%e3%81%8b%e3%81%97"><span>散歩させていた。しかし</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e8%bf%91%e3%80%81"><span>最近、</span></a><a href="https://takoboto.jp/?q=%e5%a6%bb%e3%81%8c"><span>妻が</span></a><a href="https://takoboto.jp/?q=%e6%95%a3%e6%ad%a9%e3%81%95%e3%81%9b%e3%82%8b"><span>散歩させる</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b"><strong>ことがある</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: たいてい私が犬を散歩させていた。しかし最近、妻が散歩させる
+        grammar_highlight: false
+      - text: ことがある
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: たいていわたしがいぬをさんぽさせていた。しかしさいきん、つまがさんぽさせることがある。
+    credits_raw: claytonian
+    translations:
+      - language: en
+        text: I usually was the one walking the dog, but lately there are times when my wife does it.
+        html: |-
+          <span>I usually was the one walking the dog, but lately </span><strong>there are times when </strong><span>my wife does it. </span>
+        segments:
+          - text: 'I usually was the one walking the dog, but lately '
+            grammar_highlight: false
+          - text: 'there are times when '
+            grammar_highlight: true
+          - text: 'my wife does it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6548
+    position: 2
+    japanese: チョコレートを食べ過ぎると、鼻血が出ることがある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%ac%e3%83%bc%e3%83%88%e3%82%92"><span>チョコレートを</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9"><span>食べ</span></a><a href="https://takoboto.jp/?q=%e9%81%8e%e3%81%8e%e3%82%8b%e3%81%a8%e3%80%81"><span>過ぎると、</span></a><a href="https://takoboto.jp/?q=%e9%bc%bb%e8%a1%80%e3%81%8c"><span>鼻血が</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%82%8b"><span>出る</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b"><strong>ことがある</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: チョコレートを食べ過ぎると、鼻血が出る
+        grammar_highlight: false
+      - text: ことがある
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: チョコレートをたべすぎると、はなぢがでることがある。
+    credits_raw: chohongsieudieu
+    translations:
+      - language: en
+        text: When you eat too much chocolate, there are times when you get a nosebleed.
+        html: |-
+          <span>When you eat too much chocolate, </span><strong>there are times when </strong><span>you get a nosebleed. </span>
+        segments:
+          - text: 'When you eat too much chocolate, '
+            grammar_highlight: false
+          - text: 'there are times when '
+            grammar_highlight: true
+          - text: 'you get a nosebleed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6728
+    position: 3
+    japanese: 弟は、バイオリンのコンクールで三位になったことがある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bc%9f%e3%81%af%e3%80%81%e3%83%90%e3%82%a4%e3%82%aa%e3%83%aa%e3%83%b3%e3%81%ae%e3%82%b3%e3%83%b3%e3%82%af%e3%83%bc%e3%83%ab%e3%81%a7"><span>弟は、バイオリンのコンクールで</span></a><a href="https://takoboto.jp/?q=%e4%b8%89%e4%bd%8d%e3%81%ab"><span>三位に</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%a3%e3%81%9f"><span>なった</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b"><strong>ことがある</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 弟は、バイオリンのコンクールで三位になった
+        grammar_highlight: false
+      - text: ことがある
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: おとうとは、バイオリンのコンクールでさんいになったことがある。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: There was a time when my little brother came in third place at a violin contest.
+        html: |-
+          <strong>There was a time when </strong><span>my little brother came in third place at a violin contest. </span>
+        segments:
+          - text: 'There was a time when '
+            grammar_highlight: true
+          - text: 'my little brother came in third place at a violin contest. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6729
+    position: 4
+    japanese: 考えれば考えるほど解決方法、わからなくなることがある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%8c%e3%81%b0"><span>考えれば</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%8b%e3%81%bb%e3%81%a9"><span>考えるほど</span></a><a href="https://takoboto.jp/?q=%e8%a7%a3%e6%b1%ba%e6%96%b9%e6%b3%95%e3%80%81"><span>解決方法、</span></a><a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%8f%e3%81%aa%e3%82%8b"><span>わからなくなる</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b"><strong>ことがある</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 考えれば考えるほど解決方法、わからなくなる
+        grammar_highlight: false
+      - text: ことがある
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かんがえればかんがえるほどかいけつほうほう、わからなくなることがある。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: There are times when the more you think about it, the less you understand the solution.
+        html: |-
+          <strong>There are times when </strong><span>the more you think about it, </span><strong>the less you understand </strong><span>the solution. </span>
+        segments:
+          - text: 'There are times when '
+            grammar_highlight: true
+          - text: 'the more you think about it, '
+            grammar_highlight: false
+          - text: 'the less you understand '
+            grammar_highlight: true
+          - text: 'the solution. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6733
+    position: 5
+    japanese: （教室で）ご相談したいことがあるんですが、先生の研究室にうかがってもよろしいですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%88%e6%95%99%e5%ae%a4%e3%81%a7"><span>（教室で</span></a><a href="https://takoboto.jp/?q=%ef%bc%89"><span>）</span></a><a href="https://takoboto.jp/?q=%e3%81%94"><span>ご</span></a><a href="https://takoboto.jp/?q=%e7%9b%b8%e8%ab%87%e3%81%97%e3%81%9f%e3%81%84"><span>相談したい</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b"><strong>ことがある</strong></a><a href="https://takoboto.jp/?q=%e3%82%93%e3%81%a7%e3%81%99%e3%81%8c%e3%80%81"><span>んですが、</span></a><a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%ae"><span>先生の</span></a><a href="https://takoboto.jp/?q=%e7%a0%94%e7%a9%b6%e5%ae%a4%e3%81%ab%e3%81%86%e3%81%8b%e3%81%8c%e3%81%a3%e3%81%a6%e3%82%82%e3%82%88%e3%82%8d%e3%81%97%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>研究室にうかがってもよろしいですか。</span></a>
+    segments:
+      - text: （教室で）ご相談したい
+        grammar_highlight: false
+      - text: ことがある
+        grammar_highlight: true
+      - text: んですが、先生の研究室にうかがってもよろしいですか。
+        grammar_highlight: false
+    reading: （きょうしつで）ごそうだんしたいことがあるんですが、せんせいのけんきゅうしつにうかがってもよろしいですか。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: (In the classroom) There are things I would like to consult you about, is it ok if I stop by your office?
+        html: |-
+          <span>(In the classroom) </span><strong>There are things </strong><span>I would like to consult you about, </span><span>is it ok if I stop by your office? </span>
+        segments:
+          - text: '(In the classroom) '
+            grammar_highlight: false
+          - text: 'There are things '
+            grammar_highlight: true
+          - text: 'I would like to consult you about, is it ok if I stop by your office? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7025
+    position: 6
+    japanese: 彼女は親切な人ですが、怒ることもあります。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e8%a6%aa%e5%88%87%e3%81%aa"><span>親切な</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%a7%e3%81%99%e3%81%8c%e3%80%81"><span>人ですが、</span></a><a href="https://takoboto.jp/?q=%e6%80%92%e3%82%8b%e3%81%93%e3%81%a8%e3%82%82%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%80%82"><span>怒ることもあります。</span></a>
+    segments:
+      - text: 彼女は親切な人ですが、怒ることもあります。
+        grammar_highlight: false
+    reading: かのじょはしんせつなひとですが、おこることもあります。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: She is a friendly person, but there are times when she gets angry too.
+        html: |-
+          <span>She is a friendly person, but there are times when she gets angry too. </span>
+        segments:
+          - text: 'She is a friendly person, but there are times when she gets angry too. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7222
+    position: 7
+    japanese: 私が眠られないことがある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e7%9c%a0%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84"><span>眠られない</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b"><strong>ことがある</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 私が眠られない
+        grammar_highlight: false
+      - text: ことがある
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: わたしがねむられないことがある。
+    credits_raw: nathy1985
+    translations:
+      - language: en
+        text: There are times when I cannot sleep.
+        html: |-
+          <span>There are times when I cannot sleep. </span>
+        segments:
+          - text: 'There are times when I cannot sleep. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8598
+    position: 8
+    japanese: 朝まで友達と話すことがあります。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%9d%e3%81%be%e3%81%a7"><span>朝まで</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%81%a8"><span>友達と</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%99%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%80%82"><span>話すことがあります。</span></a>
+    segments:
+      - text: 朝まで友達と話すことがあります。
+        grammar_highlight: false
+    reading: あさまでともだちとはなすことがあります。
+    credits_raw: starsandsea
+    translations:
+      - language: en
+        text: I sometimes talk with my friend until morning.
+        html: |-
+          <span>I sometimes talk with my friend until morning. </span>
+        segments:
+          - text: 'I sometimes talk with my friend until morning. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8822
+    position: 9
+    japanese: たまに夜眠れないことがあります
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%be%e3%81%ab%e5%a4%9c%e7%9c%a0%e3%82%8c%e3%81%aa%e3%81%84"><span>たまに夜眠れない</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99"><strong>ことがあります</strong></a>
+    segments:
+      - text: たまに夜眠れない
+        grammar_highlight: false
+      - text: ことがあります
+        grammar_highlight: true
+    reading: たまによるねむれないことがあります
+    credits_raw: beno
+    translations:
+      - language: en
+        text: Sometimes I can't sleep at night
+        html: |-
+          <span>Sometimes I can't sleep at night </span>
+        segments:
+          - text: 'Sometimes I can''t sleep at night '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      made of the dictionary form of a verb plus koto ga aru
+      辞書形+ことがある
+    html: |-
+      made of the dictionary form of a verb plus koto ga aru<br/>辞書形+ことがある
+    credits_raw: claytonian
+    content_sha256: 67ffa535741da4e92034f6d36d1b3cec9decfb963406e4129267cbc0e9ceeab2
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      -ta form + koto ga aru/arimasu means "ever" or "once"
+      -ta form + koto ga nai/arimasen means "never" or "not once"
+
+      Affirmative:
+      I once studied Spanish.
+      スペイン語を勉強したことがある。
+
+      Negative:
+      I've never studied Spanish.
+      スペイン語を勉強したことがない。
+    html: |-
+      -ta form + koto ga aru/arimasu means "ever" or "once"<br/>-ta form + koto ga nai/arimasen means "never" or "not once"<br/><br/>Affirmative:<br/>I once studied Spanish.<br/>スペイン語を勉強したことがある。<br/><br/>Negative:<br/>I've never studied Spanish.<br/>スペイン語を勉強したことがない。
+    credits_raw: illegalwaffles
+    content_sha256: f55f652bd3b2cb9a7c7e42b78932253aa7d9c83e38198d4ec3b31b1c8ab13b43
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      wouldn`t this translate a little better as `there are times when`, sometimes already has a word 時々
+
+      and since the grammar point uses the existance verb ある, including it in the translation makes it a little easier to remember. 
+
+      I hope you don`t mind but I made some changes to the above examples.
+
+      nosebleed is a noun so it requires a preposition article
+      "solution way" is redundant because a solution is a way
+      相談する means to consult, 会話する means to conversate.
+      研究室 translates to research room. of course it can also mean the professor`s office, but one would never say "at your professor`s office"
+    html: |-
+      wouldn`t this translate a little better as `there are times when`, sometimes already has a word 時々<br/><br/>and since the grammar point uses the existance verb ある, including it in the translation makes it a little easier to remember. <br/><br/>I hope you don`t mind but I made some changes to the above examples.<br/><br/>nosebleed is a noun so it requires a preposition article<br/>"solution way" is redundant because a solution is a way<br/>相談する means to consult, 会話する means to conversate.<br/>研究室 translates to research room. of course it can also mean the professor`s office, but one would never say "at your professor`s office"
+    credits_raw: tigert
+    content_sha256: 63724be3a53551f2adbbaf7f59751b16df1e8449e166ed51bd793797361ea9b7
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Tigertさん: Thank you for translating "a little better" and for "making some changes". I translated #6548 because Chohongsieudieuさん didn't. I am not a Japanese native speaker, neither an English native speaker. This is the reason why I all always put my contributions as suspicious. When you think they are OK, you may turn them to neutral.
+    html: |-
+      Tigertさん: Thank you for translating "a little better" and for "making some changes". I translated #6548 because Chohongsieudieuさん didn't. I am not a Japanese native speaker, neither an English native speaker. This is the reason why I all always put my contributions as suspicious. When you think they are OK, you may turn them to neutral.
+    credits_raw: 赤毛
+    content_sha256: 8a1477cf4bf10393e695ef906ffa57ffe959d326a915677b3279135e3afc8b10
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:58+00:00'
+response_sha256: 08cf530ae846a84cf7324799de55024b68623c3855505f25a800c5a8117badcb
+warnings: []

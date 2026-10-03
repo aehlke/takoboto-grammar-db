@@ -1,0 +1,394 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 965
+label: dakeatte
+title_raw: だけあって [だけあって] (dakeatte)
+title: だけあって
+reading: だけあって
+romanized_label: dakeatte
+category: grammar
+jlpt_level_original: '2'
+meaning: because,  as expected (used for positive things)
+meaning_example: the food was good as expected
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=dakeatte
+archive_url: https://web.archive.org/web/20150224225530id_/http://jgram.org/pages/viewOne.php?tagE=dakeatte
+archive_timestamp: '20150224225530'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: GGCBX6Q2Z36TS5I3KRME3OGUKOQQGZQP
+response_sha256: 147ad982760d1178355b11bedc6eda15788ce9fe1fa359ee5ebcd17774707124
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "This phrase needs a cause and effect. \n\r\n\"cause \x01 effect\"\n\r\n\"He studied hard \x01 passed the test\"\n\n\n\r\nYou cannot use just the result\n\r\nNG: \"he \x01 passed the test\"\n\n\n\r\nVery similiar to \x01 but that word can be used on its own a little more casually, as in\n\r\n\"sasuga Rob-san\" = isn't Rob great, after all.\n\n\n\r\nWorks also for negative nuance, as in the \"and got fat\" example below."
+    html: "This phrase needs a cause and effect. <br/>\r\n\"cause <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> effect\"<br/>\r\n\"He studied hard <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> passed the test\"<br/>\n<br/>\r\nYou cannot use just the result<br/>\r\nNG: \"he <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> passed the test\"<br/>\n<br/>\r\nVery similiar to <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> but that word can be used on its own a little more casually, as in<br/>\r\n\"sasuga Rob-san\" = isn't Rob great, after all.<br/>\n<br/>\r\nWorks also for negative nuance, as in the \"and got fat\" example below."
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "だけあって is used for good merits. It should not be used for negative nuances. However, だけに can be used for both good and bad merits.\n\n\n\r\nOften, さすが(に) is used in conjunction with だけあって as emphasis."
+    html: "だけあって is used for good merits. It should not be used for negative nuances. However, だけに can be used for both good and bad merits.<br/>\n<br/>\r\nOften, さすが(に) is used in conjunction with だけあって as emphasis."
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 291
+    position: 0
+    japanese: さすが毎日トレーニングしているだけあってすごい体力。
+    body_text: "さすが毎日トレーニングしているだけあってすごい体力。 \n\n\t\tImpressive as expected \n\t\tfrom \n\t\ttraining every day - amazing strength."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJさすが毎日トレーニングしているだけあってすごい体力。\">\n\t\t\t\tさすが毎日トレーニングしている<strong>だけあって</strong>すごい体力。<strong></strong></a> <br/>\n\t\tImpressive as expected \n\t\t<strong>from </strong>\n\t\ttraining every day - amazing strength."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 307
+    position: 1
+    japanese: さすが評判のレストランだけあって料理もサービスもすばらしかった。
+    body_text: "さすが評判のレストランだけあって料理もサービスもすばらしかった。 \n\n\t\tThat restaurant has a good reputation, \n\t\tand as expected \n\t\tthe food and service was great."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJさすが評判のレストランだけあって料理もサービスもすばらしかった。\">\n\t\t\t\tさすが評判のレストラン<strong>だけあって</strong>料理もサービスもすばらしかった。<strong></strong></a> <br/>\n\t\tThat restaurant has a good reputation, \n\t\t<strong>and as expected </strong>\n\t\tthe food and service was great."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1196
+    position: 2
+    japanese: 彼ははずっと運動していないだけにやっぱり太った
+    body_text: "彼ははずっと運動していないだけにやっぱり太った \n\n\t\tHe didn't do any exercise and \n\t\tas expected \n\t\tgot fat"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼ははずっと運動していないだけにやっぱり太った\">\n\t\t\t\t彼ははずっと運動していない<strong>だけに</strong>やっぱり太った<strong></strong></a> <br/>\n\t\tHe didn't do any exercise and \n\t\t<strong>as expected </strong>\n\t\tgot fat"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4439
+    position: 3
+    japanese: さすがに偉大な学者だけあって、彼はその問いに容易に答えた。
+    body_text: "さすがに偉大な学者だけあって、彼はその問いに容易に答えた。 \n\n\t\tLike the great scholar that he was, he answered the question easily."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJさすがに偉大な学者だけあって、彼はその問いに容易に答えた。\">\n\t\t\t\tさすがに偉大な学者<strong>だけあって</strong>、彼はその問いに容易に答えた。<strong></strong></a> <br/>\n\t\tLike the great scholar that he was, he answered the question easily. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4440
+    position: 4
+    japanese: 専門家だけあって彼はその分野に詳しい。
+    body_text: "専門家だけあって彼はその分野に詳しい。 \n\n\t\tAs may be expected of an expert, he's well versed in the field."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ専門家だけあって彼はその分野に詳しい。\">\n専門家<strong>だけあって</strong>彼はその分野に詳しい。<strong></strong></a> <br/>\n\t\tAs may be expected of an expert, he's well versed in the field. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4441
+    position: 5
+    japanese: 彼はボディビルが趣味というだけあって体がガシッとしている。
+    body_text: "彼はボディビルが趣味というだけあって体がガシッとしている。 \n\n\t\tBodybuilding is his hobby so he has a very firm tight body with lots of (muscle) definition."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼はボディビルが趣味というだけあって体がガシッとしている。\">\n\t\t\t\t彼はボディビルが趣味という<strong>だけあって</strong>体がガシッとしている。<strong></strong></a> <br/>\n\t\tBodybuilding is his hobby so he has a very firm tight body with lots of (muscle) definition. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5419
+    position: 6
+    japanese: Woody Allenが作った映画だけあって、面白かった。
+    body_text: "Woody Allenが作った映画だけあって、面白かった。\r \n\n\t\tAs I'd expect from a Woody Allen film, that was really interesting."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJWoody Allenが作った映画だけあって、面白かった。\">\n\t\t\t\tWoody Allenが作った映画<strong>だけあって</strong>、面白かった。\r<strong></strong></a> <br/>\n\t\tAs I'd expect from a Woody Allen film, that was really interesting. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6173
+    position: 7
+    japanese: 彼女は、美術学校を出ただけあって、絵が上手です。
+    body_text: "彼女は、美術学校を出ただけあって、絵が上手です。 \n\nAs expected \n\t\tof a woman who went to art school, she draws well."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女は、美術学校を出ただけあって、絵が上手です。\">\n\t\t\t\t彼女は、美術学校を出た<strong>だけあって</strong>、絵が上手です。<strong></strong></a> <br/>\n<strong>As expected </strong>\n\t\tof a woman who went to art school, she draws well."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6174
+    position: 8
+    japanese: あの先生は、経験が長いだけあって、授業がわかりやすくておもしろいですね。
+    body_text: "あの先生は、経験が長いだけあって、授業がわかりやすくておもしろいですね。 \n\nAs you'd expect \n\t\tof a teacher with lots of experience, his classes are easy to understand and interesting."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあの先生は、経験が長いだけあって、授業がわかりやすくておもしろいですね。\">\n\t\t\t\tあの先生は、経験が長い<strong>だけあって</strong>、授業がわかりやすくておもしろいですね。<strong></strong></a> <br/>\n<strong>As you'd expect </strong>\n\t\tof a teacher with lots of experience, his classes are easy to understand and interesting."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: だけあって can be replaced by だけに
+    html: だけあって can be replaced by だけに
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: Can だけに be used for negative nuances as well?
+    html: Can だけに be used for negative nuances as well?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Miki
+    text: えっ、you think だけあって is used for negative nuance? They don't have negative nuances.
+    html: えっ、you think だけあって is used for negative nuance? They don't have negative nuances.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Miki
+    text: |-
+      When you use the examples in a cynical way, the same sentence but different intonations, they can have negative nuances. だけに is the same as well.
+    html: |-
+      When you use the examples in a cynical way, the same sentence but different intonations, they can have negative nuances. だけに is the same as well.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Amatuka
+    text: "> えっ、you think だけあって is used for negative \n\r\n> nuance? They don't have negative nuances.  \n\r\nNo.  That's why I asked about \"だけに\".  To see if it was different from \"だけあって\"."
+    html: "&gt; えっ、you think だけあって is used for negative <br/>\r\n&gt; nuance? They don't have negative nuances.  <br/>\r\nNo.  That's why I asked about <b>\"だけに\"</b>.  To see if it was different from <b>\"だけあって\"</b>."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: dc
+    text: "I think our (english speaking) question is whether you can only use this phrase when you expect good things.\n\r\nFor example:\n\r\n  he fooled around too much, and as expected failed the test"
+    html: "I think our (english speaking) question is whether you can only use this phrase when you expect good things.<br/>\r\nFor example:<br/>\r\n  he fooled around too much, and as expected failed the test"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: dc
+    text: |-
+      For "sasuga" it definitely seems to have a very positive glowing nuance. People use sasuga just on its own to compliment you. But is dakeatte different?
+    html: |-
+      For "sasuga" it definitely seems to have a very positive glowing nuance. People use sasuga just on its own to compliment you. But is dakeatte different?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Koriyama
+    text: "Kuroshio Publication's 日本語文型辞典's entry on だけに has\n\r\n3) かれらは若いだけに徹夜をしても平気なようだ。\n\r\nwhich, to me at least, feels negative. Please inform me if otherwise."
+    html: "Kuroshio Publication's 日本語文型辞典's entry on だけに has<br/>\r\n3) かれらは若いだけに徹夜をしても平気なようだ。<br/>\r\nwhich, to me at least, feels negative. Please inform me if otherwise."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: dc
+    text: "I would translate that as \n\r\nthey are young, so as expected even after pulling an all nighter they look fine.\n\r\nwhich doesn't have a negative impression: fine as expected."
+    html: "I would translate that as <br/>\r\nthey are young, so as expected even after pulling an all nighter they look fine.<br/>\r\nwhich doesn't have a negative impression: fine as expected."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: dc
+    text: A negative would be like "as expected, he drank too much"
+    html: A negative would be like "as expected, he drank too much"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: dc
+    text: "Which is more like やっぱり.\n\r\nA cynical/sarcastic one might be, \"as expected, he managed to finish the race\" - where he was saying he would win."
+    html: "Which is more like やっぱり.<br/>\r\nA cynical/sarcastic one might be, \"as expected, he managed to finish the race\" - where he was saying he would win."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: dc
+    text: Check the last example, regarding getting fat.
+    html: Check the last example, regarding getting fat.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: bamboo4
+    text: In the last example, instead of だけに I would use せいで. ずっと運動していないせいで太った.
+    html: |-
+      In the last example, instead of だけに I would use せいで. ずっと運動していないせいで太った.<br/>
+      <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: bamboo4
+    text: Linked to "seida."
+    html: Linked to "seida."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: bamboo4
+    text: What I am saying is that the last example is not a good one.
+    html: What I am saying is that the last example is not a good one.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    credits_raw: Miki
+    text: "I think the last example is fine. \n\r\nWhen you use せいで、nuance would be changed.\n\r\nずっと運動していないために、（やっぱり）彼は太った。\n\r\nずっと運動していないせいで、彼は太った。"
+    html: "I think the last example is fine. <br/>\r\nWhen you use せいで、nuance would be changed.<br/>\r\nずっと運動していないために、（やっぱり）彼は太った。<br/>\r\nずっと運動していないせいで、彼は太った。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    credits_raw: dc
+    text: hmm, so what is the difference in nuance/meaning of these?
+    html: hmm, so what is the difference in nuance/meaning of these?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    credits_raw: bamboo4
+    text: |-
+      Even though I cannot prove it to you by specific reference (I'm looking for it), It is my gut feeling that だけに calls for a positive result. Thus, "non-exercise - obesity" is not in my mind a positive result. I may be wrong.
+    html: |-
+      Even though I cannot prove it to you by specific reference (I'm looking for it), It is my gut feeling that だけに calls for a positive result. Thus, "non-exercise - obesity" is not in my mind a positive result. I may be wrong.<br/>
+      <br/>
+      <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    credits_raw: Miki
+    text: おっと、typo. I meant ずっと運動してない_だけに_、（やっぱり）彼は太った。
+    html: おっと、typo. I meant ずっと運動してない_だけに_、（やっぱり）彼は太った。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    credits_raw: bamboo4
+    text: Make it やっぱり太った and I'll accept the last example.
+    html: Make it やっぱり太った and I'll accept the last example.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 20
+    credits_raw: Leslie
+    text: |-
+      I found this example in my grammar text, but it doesn't sound so positive.「この間買ったカメラは安いだけあって、すぐ壊れてしまった。」Is my appreciation of Japanese sarcasm lacking?
+    html: |-
+      I found this example in my grammar text, but it doesn't sound so positive.「この間買ったカメラは安いだけあって、すぐ壊れてしまった。」Is my appreciation of Japanese sarcasm lacking?<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 21
+    credits_raw: 誠
+    text: "Ｌｅｓｌｉｅさん、you are right, nothing to do with the lack of appreciation of sarcasm. だけにto be precise, means[ exactly because....]It doesn't necesarily to be positive.\n\r\n〜だけに　：\n\r\n〜という理由があるから、普通以上に。。。\n\n\n\r\nTherefore, I agree with bambooさん, that ex#\x01\n\r\nis not quite a good example, coz it is naturally expected that \" one grows fat because of not exercising\""
+    html: "Ｌｅｓｌｉｅさん、you are right, nothing to do with the lack of appreciation of sarcasm. だけにto be precise, means[ exactly because....]It doesn't necesarily to be positive.<br/>\r\n〜だけに　：<br/>\r\n〜という理由があるから、普通以上に。。。<br/>\n<br/>\r\nTherefore, I agree with bambooさん, that ex<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dakeatte#\x01\">#\x01</a></b><br/>\r\nis not quite a good example, coz it is naturally expected that \" one grows fat because of not exercising\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 22
+    credits_raw: 誠
+    text: "だけあって＝\n\r\nだけのことはある(put at the end of sentence.)"
+    html: "だけあって＝<br/>\r\nだけのことはある(put at the end of sentence.)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 23
+    credits_raw: 誠
+    text: "すみません、\n\n#\x01 is fine."
+    html: "すみません、<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dakeatte#\x01\">#\x01</a></b> is fine."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 24
+    credits_raw: xabre24
+    text: Leslieさん, could you please translate your sentence and nuance as you interpreted it? Thanks
+    html: Leslieさん, could you please translate your sentence and nuance as you interpreted it? Thanks
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 25
+    credits_raw: Pwillig
+    text: "[この間買ったカメラは安いだけあって、すぐ壊れてしまった。]\n\n\n\r\n\"As could be expected\" That cheap camera I bought the other day ended up breaking right away."
+    html: "[この間買ったカメラは安いだけあって、すぐ壊れてしまった。]<br/>\n<br/>\r\n\"As could be expected\" That cheap camera I bought the other day ended up breaking right away."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 26
+    credits_raw: MrMackerel
+    text: In my class, we have translated this to mean "precisely because", owing to specificity.
+    html: In my class, we have translated this to mean "precisely because", owing to specificity.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 27
+    credits_raw: karekano
+    text: "I can't fully understand ex #\x01. Is it \"彼は はずっと\" or \"彼は ずっと\"?"
+    html: "I can't fully understand ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dakeatte#\x01\">#\x01</a></b>. Is it \"彼は はずっと\" or \"彼は ずっと\"?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: sasuga
+    label: sasuga
+    annotation_text: sasuga [d9]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=sasuga">sasuga</a> [<a href="http://jgram.org/pages/contributions.php?author=d9">d9</a>]
+    credits_raw: d9
+  - position: 1
+    target_label: dakeni
+    label: dakeni
+    annotation_text: dakeni    (identical) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=dakeni">dakeni</a>    (identical) [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 2
+    target_label: seida
+    label: seida
+    annotation_text: seida [bamboo4]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=seida">seida</a> [<a href="http://jgram.org/pages/contributions.php?author=bamboo4">bamboo4</a>]
+    credits_raw: bamboo4
+  - position: 3
+    target_label: yappari, yahari
+    label: yappari, yahari
+    annotation_text: yappari, yahari [bamboo4]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=yappari, yahari">yappari, yahari</a> [<a href="http://jgram.org/pages/contributions.php?author=bamboo4">bamboo4</a>]
+    credits_raw: bamboo4
+  - position: 4
+    target_label: dakenokotohaaru
+    label: dakenokotohaaru
+    annotation_text: "dakenokotohaaru    (\x01haaru and \x01 are the same, but with the sentence order reversed. thus \n\r\n\"このメロンはおいしい。高かっただけのことはある。\" is essentially the same as \n\r\n\"このメロンは高かっただけあって、おいしい。”\n\r\nboth meanings are basically: \n\r\n\"as you'd expect for a melon that was so expensive, this is delicious.\") [dc]"
+    annotation_html: "<a href=\"http://jgram.org/pages/viewOne.php?tagE=dakenokotohaaru\">dakenokotohaaru</a>    (<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>haaru and <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> are the same, but with the sentence order reversed. thus <br/>\r\n\"このメロンはおいしい。高かっただけのことはある。\" is essentially the same as <br/>\r\n\"このメロンは高かっただけあって、おいしい。”<br/>\r\nboth meanings are basically: <br/>\r\n\"as you'd expect for a melon that was so expensive, this is delicious.\") [<a href=\"http://jgram.org/pages/contributions.php?author=dc\">dc</a>]"
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "だけあって [だけあって] (dakeatte)\n    Meaning: because,  as expected (used for positive things) \n    Example: the food was good as expected\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>だけあって [だけあって] (dakeatte)</span><br/>    <span><b>Meaning</b>: because,  as expected (used for positive things) </span><br/>    <b>Example</b>: <i>the food was good as expected</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225530'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3385158
+  length: 8423
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: b28ee336e973b9931336f8e411b7b8b8014f71177e3999c9e515cabb82b0ac60

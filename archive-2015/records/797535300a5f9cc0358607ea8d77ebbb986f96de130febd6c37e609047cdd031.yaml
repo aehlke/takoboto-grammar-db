@@ -1,0 +1,129 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1750
+label: deare~deare
+title_raw: 〜であれ〜であれ [〜であれ〜であれ] (deare~deare)
+title: 〜であれ〜であれ
+reading: 〜であれ〜であれ
+romanized_label: deare~deare
+category: null
+jlpt_level_original: '1'
+meaning: Whether X or Y; A structure that means "no matter which one is the case"
+meaning_example: No matter if one is famous or nameless, life is short.
+credits_raw: LR
+source_url: http://jgram.org/pages/viewOne.php?tagE=deare%7Edeare
+archive_url: https://web.archive.org/web/20150224225959id_/http://jgram.org/pages/viewOne.php?tagE=deare%7Edeare
+archive_timestamp: '20150224225959'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: JYXH5IPM7FQJHVIRO6NDYNQSFBS5HODK
+response_sha256: 854712198977bce4c25193ce4d45b3480d20e66ad2e97c26f8b2d5a6adef7599
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Ref #\x01 Kanzen Master Level 1 - p48 - no.48"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=deare%7Edeare#\x01\">#\x01</a></b></b> Kanzen Master Level 1 - p48 - no.48"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Ref #\x01 A Dictionary of Advanced Japanese Grammar p70"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=deare%7Edeare#\x01\">#\x01</a></b></b> A Dictionary of Advanced Japanese Grammar p70"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: '{NOUN1 / なadj.stem1} + であれ + {NOUN2 / なadj.stem2} + であれ'
+    html: '{NOUN1 / なadj.stem1} + であれ + {NOUN2 / なadj.stem2} + であれ'
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7960
+    position: 0
+    japanese: 男性であれ、女性であれ、人間としての権利は同じはずだ。
+    body_text: "男性であれ、女性であれ、人間としての権利は同じはずだ。 \n\nWhether \n\t\tone is a man or a woman, one's rights as a human being should be the same."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ男性であれ、女性\">\n\t\t\t\t男性<strong>であれ</strong>、女性<strong>であれ</strong>、人間としての権利は同じはずだ。</a> <br/>\n<strong>Whether </strong>\n\t\tone is a man or a woman, one's rights as a human being should be the same."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7961
+    position: 1
+    japanese: 有名であれ、無名であれ、人生は短い。
+    body_text: "有名であれ、無名であれ、人生は短い。  \n\nNo matter \n\t\tif one is famous or nameless, life is short."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ有名であれ、無名\">\n\t\t\t\t有名<strong>であれ</strong>、無名<strong>であれ、人生は短い。 </strong></a> <br/>\n<strong>No matter </strong>\n\t\tif one is famous or nameless, life is short."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7962
+    position: 2
+    japanese: 注射であれ飲み薬であれ、良く効く薬はかえって副作用が心配だ
+    body_text: "注射であれ飲み薬であれ、良く効く薬はかえって副作用が心配だ \n\nWhether \n\t\tit's an injection or oral medecine, I worry that drugs that work well will have adverse side-effects."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ注射であれ飲み薬\">\n\t\t\t\t注射<strong>であれ</strong>飲み薬<strong>であれ</strong>、良く効く薬はかえって副作用が心配だ</a> <br/>\n<strong>Whether </strong>\n\t\tit's an injection or oral medecine, I worry that drugs that work well will have adverse side-effects."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7963
+    position: 3
+    japanese: 父は菓子であれ、果物であれ、甘い者は一切口にしない。
+    body_text: "父は菓子であれ、果物であれ、甘い者は一切口にしない。 \n\n\t\tMy father won't eat any anything sweet, \n\t\twhether \n\t\tit be sweets or fruit."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ父は菓子であれ、果物\">\n\t\t\t\t父は菓子<strong>であれ</strong>、果物<strong>であれ</strong>、甘い者は一切口にしない。</a> <br/>\n\t\tMy father won't eat any anything sweet, \n\t\t<strong>whether </strong>\n\t\tit be sweets or fruit."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7964
+    position: 4
+    japanese: 正社員であれ、パートであれ、仕事に対する責任は変わりません。
+    body_text: "正社員であれ、パートであれ、仕事に対する責任は変わりません。 \n\nWhether \n\t\ta full time employee or a part-timer, your duty to your job is the same."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ正社員であれ、パート\">\n\t\t\t\t正社員<strong>であれ</strong>、パート<strong>であれ</strong>、仕事に対する責任は変わりません。</a> <br/>\n<strong>Whether </strong>\n\t\ta full time employee or a part-timer, your duty to your job is the same."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7965
+    position: 5
+    japanese: あの学者は哲学であれ、言語学であれ、人類学であれ、同じように精通している。
+    body_text: "あの学者は哲学であれ、言語学であれ、人類学であれ、同じように精通している。 \n\n\t\tThat scholar is well-versed in a number os subjects, \n\t\twhether it be \n\t\tphilosophy, linguistics or anthropology"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあの学者は哲学であれ、言語学\">\n\t\t\t\tあの学者は哲学<strong>であれ</strong>、言語学<strong>であれ</strong>、人類学であれ、同じように精通している。</a> <br/>\n\t\tThat scholar is well-versed in a number os subjects, \n\t\t<strong>whether it be </strong>\n\t\tphilosophy, linguistics or anthropology"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "〜であれ〜であれ [〜であれ〜であれ] (deare~deare)\n    Meaning: Whether X or Y; A structure that means \"no matter which one is the case\" \n    Example: No matter if one is famous or nameless, life is short.\n    JLPT Level: 1\n    Author: LR"
+    html: |-
+      <span>〜であれ〜であれ [〜であれ〜であれ] (deare~deare)</span><br/>    <span><b>Meaning</b>: Whether X or Y; A structure that means "no matter which one is the case" </span><br/>    <b>Example</b>: <i>No matter if one is famous or nameless, life is short.</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Author</b>: <i>LR</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225959'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 8575508
+  length: 5802
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 84d5d9edb39beeced2694009768853975367632fe4178a1068d1d44e2e62fca8

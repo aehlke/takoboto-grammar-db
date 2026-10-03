@@ -1,0 +1,476 @@
+schema_version: 2
+id: 780
+source: takoboto
+source_url: https://takoboto.jp/bunpo/780/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: なら
+romanized_label: nara
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: if
+meaning_example: If it's from outside, I don't mind.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_780
+    body_text: |-
+      if 
+       If it's from outside, I don't mind.
+    body_html: |-
+      <span>if</span> <br/> <span>If it's from outside, I don't mind.</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_780
+    body_text: Verb (casual)+なら+(ば)い-adjective+なら+(ば)な-adjective (without な)+なら+(ば)Noun+なら+(ば)Assumed context+なら+Result
+    body_html: |-
+      <div><div><div>Verb (casual)</div></div><div><div>+</div><div>なら</div></div><div><div>+</div><div>(ば)</div></div></div><div><div><div>い-adjective</div></div><div><div>+</div><div>なら</div></div><div><div>+</div><div>(ば)</div></div></div><div><div><div>な-adjective (without な)</div></div><div><div>+</div><div>なら</div></div><div><div>+</div><div>(ば)</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>なら</div></div><div><div>+</div><div>(ば)</div></div></div><div><div><div>Assumed context</div></div><div><div>+</div><div>なら</div></div><div><div>+</div><div>Result</div></div></div>
+    credits_raw: null
+formations:
+  - Verb (casual) + なら + (ば)
+  - い-adjective + なら + (ば)
+  - な-adjective (without な) + なら + (ば)
+  - Noun + なら + (ば)
+  - Assumed context + なら + Result
+examples:
+  - source_id: 901
+    position: 0
+    japanese: 外からなら撮ってもいいよ と言われたので，外に出て撮影しました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%96%e3%81%8b%e3%82%89"><span>外から</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89"><strong>なら</strong></a><a href="https://takoboto.jp/?q=%e6%92%ae%e3%81%a3%e3%81%a6%e3%82%82%e3%81%84%e3%81%84%e3%82%88+%e3%81%a8"><span>撮ってもいいよ と</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%82%8f%e3%82%8c%e3%81%9f%e3%81%ae%e3%81%a7"><span>言われたので</span></a><a href="https://takoboto.jp/?q=%ef%bc%8c%e5%a4%96%e3%81%ab"><span>，外に</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%a6"><span>出て</span></a><a href="https://takoboto.jp/?q=%e6%92%ae%e5%bd%b1%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>撮影しました。</span></a>
+    segments:
+      - text: 外から
+        grammar_highlight: false
+      - text: なら
+        grammar_highlight: true
+      - text: 撮ってもいいよ と言われたので，外に出て撮影しました。
+        grammar_highlight: false
+    reading: そとからならとってもいいよといわれたので，そとにでてさつえいしました。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I was told that if you're taking it from outside I don't mind so I went out and took the shot.
+        html: |-
+          <span>I was told that </span><strong>if </strong><span>you're taking it from outside I don't mind so I went out and took the shot. </span>
+        segments:
+          - text: 'I was told that '
+            grammar_highlight: false
+          - text: 'if '
+            grammar_highlight: true
+          - text: 'you''re taking it from outside I don''t mind so I went out and took the shot. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 906
+    position: 1
+    japanese: 乗るなら飲むな。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b9%97%e3%82%8b"><span>乗る</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89"><strong>なら</strong></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%80%e3%81%aa%e3%80%82"><span>飲むな。</span></a>
+    segments:
+      - text: 乗る
+        grammar_highlight: false
+      - text: なら
+        grammar_highlight: true
+      - text: 飲むな。
+        grammar_highlight: false
+    reading: のるならのむな。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: If you drive, don't drink.
+        html: |-
+          <strong>If </strong><span>you drive, don't drink. </span>
+        segments:
+          - text: 'If '
+            grammar_highlight: true
+          - text: 'you drive, don''t drink. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 907
+    position: 2
+    japanese: 自分の信念を隠すくらいなら死んだほうがましだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae%e4%bf%a1%e5%bf%b5%e3%82%92%e9%9a%a0%e3%81%99%e3%81%8f%e3%82%89%e3%81%84"><span>自分の信念を隠すくらい</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89"><strong>なら</strong></a><a href="https://takoboto.jp/?q=%e6%ad%bb%e3%82%93%e3%81%a0%e3%81%bb%e3%81%86%e3%81%8c%e3%81%be%e3%81%97%e3%81%a0%e3%80%82"><span>死んだほうがましだ。</span></a>
+    segments:
+      - text: 自分の信念を隠すくらい
+        grammar_highlight: false
+      - text: なら
+        grammar_highlight: true
+      - text: 死んだほうがましだ。
+        grammar_highlight: false
+    reading: じぶんのしんねんをかくすくらいならしんだほうがましだ。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I would rather die than conceal my belief.
+        html: |-
+          <span>I would rather die than conceal my belief. </span>
+        segments:
+          - text: 'I would rather die than conceal my belief. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1259
+    position: 3
+    japanese: よんどころない理由で参加されないのなら前払い金はお返しします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%88%e3%82%93%e3%81%a9%e3%81%93%e3%82%8d%e3%81%aa%e3%81%84"><span>よんどころない</span></a><a href="https://takoboto.jp/?q=%e7%90%86%e7%94%b1%e3%81%a7"><span>理由で</span></a><a href="https://takoboto.jp/?q=%e5%8f%82%e5%8a%a0%e3%81%95%e3%82%8c%e3%81%aa%e3%81%84%e3%81%ae"><span>参加されないの</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89"><strong>なら</strong></a><a href="https://takoboto.jp/?q=%e5%89%8d%e6%89%95%e3%81%84"><span>前払い</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%81%af%e3%81%8a"><span>金はお</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e3%81%97%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>返しします。</span></a>
+    segments:
+      - text: よんどころない理由で参加されないの
+        grammar_highlight: false
+      - text: なら
+        grammar_highlight: true
+      - text: 前払い金はお返しします。
+        grammar_highlight: false
+    reading: よんどころないりゆうでさんかされないのならまえばらいきんはおかえしします。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: If you cannot attend for unavoidable reasons, we will refund your advance payment.
+        html: |-
+          <strong>If </strong><span>you cannot attend for unavoidable reasons, we will refund your advance payment. </span>
+        segments:
+          - text: 'If '
+            grammar_highlight: true
+          - text: 'you cannot attend for unavoidable reasons, we will refund your advance payment. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1288
+    position: 4
+    japanese: ご都合により参加されないのなら前払い金はお返ししません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%94"><span>ご</span></a><a href="https://takoboto.jp/?q=%e9%83%bd%e5%90%88%e3%81%ab%e3%82%88%e3%82%8a"><span>都合により</span></a><a href="https://takoboto.jp/?q=%e5%8f%82%e5%8a%a0%e3%81%95%e3%82%8c%e3%81%aa%e3%81%84%e3%81%ae"><span>参加されないの</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89"><strong>なら</strong></a><a href="https://takoboto.jp/?q=%e5%89%8d%e6%89%95%e3%81%84"><span>前払い</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%81%af%e3%81%8a"><span>金はお</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e3%81%97%e3%81%97%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>返ししません。</span></a>
+    segments:
+      - text: ご都合により参加されないの
+        grammar_highlight: false
+      - text: なら
+        grammar_highlight: true
+      - text: 前払い金はお返ししません。
+        grammar_highlight: false
+    reading: ごつごうによりさんかされないのならまえばらいきんはおかえししません。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: If you cannot attend for reasons of your own, the advance payment will not be refunded.
+        html: |-
+          <strong>If </strong><span>you cannot attend for reasons of your own, the advance payment will not be refunded. </span>
+        segments:
+          - text: 'If '
+            grammar_highlight: true
+          - text: 'you cannot attend for reasons of your own, the advance payment will not be refunded. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3124
+    position: 5
+    japanese: その仕事がだめだと思うなら、辞めればいいと思うよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%8c%e3%81%a0%e3%82%81%e3%81%a0%e3%81%a8"><span>仕事がだめだと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%86"><span>思う</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89"><strong>なら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e8%be%9e%e3%82%81%e3%82%8c%e3%81%b0%e3%81%84%e3%81%84%e3%81%a8"><span>辞めればいいと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%86%e3%82%88%e3%80%82"><span>思うよ。</span></a>
+    segments:
+      - text: その仕事がだめだと思う
+        grammar_highlight: false
+      - text: なら
+        grammar_highlight: true
+      - text: 、辞めればいいと思うよ。
+        grammar_highlight: false
+    reading: そのしごとがだめだとおもうなら、やめればいいとおもうよ。
+    credits_raw: KotatsuSama
+    translations:
+      - language: en
+        text: If you think the job is no good, then I think it is best if you quit.
+        html: |-
+          <strong>If </strong><span>you think the job is no good, then I think it is best if you quit. </span>
+        segments:
+          - text: 'If '
+            grammar_highlight: true
+          - text: 'you think the job is no good, then I think it is best if you quit. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5288
+    position: 6
+    japanese: 仙台に来ていたなら、電話をしてくれればよかったのに。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%99%e5%8f%b0%e3%81%ab"><span>仙台に</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%81%a6%e3%81%84%e3%81%9f"><span>来ていた</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89"><strong>なら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%82%92%e3%81%97%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8c%e3%81%b0%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%ab%e3%80%82"><span>電話をしてくれればよかったのに。</span></a>
+    segments:
+      - text: 仙台に来ていた
+        grammar_highlight: false
+      - text: なら
+        grammar_highlight: true
+      - text: 、電話をしてくれればよかったのに。
+        grammar_highlight: false
+    reading: せんだいにきていたなら、でんわをしてくれればよかったのに。
+    credits_raw: ninja_k
+    translations:
+      - language: en
+        text: If you were in Sendai, you should have called me.
+        html: |-
+          <span>If you were in Sendai, you should have called me. </span>
+        segments:
+          - text: 'If you were in Sendai, you should have called me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5289
+    position: 7
+    japanese: 彼が来るならこのパーティーには出席しなかったのに。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c"><span>彼が</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%82%8b"><span>来る</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89"><strong>なら</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc%e3%81%ab%e3%81%af"><span>このパーティーには</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e5%b8%ad%e3%81%97%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%ab%e3%80%82"><span>出席しなかったのに。</span></a>
+    segments:
+      - text: 彼が来る
+        grammar_highlight: false
+      - text: なら
+        grammar_highlight: true
+      - text: このパーティーには出席しなかったのに。
+        grammar_highlight: false
+    reading: かれがくるならこのパーティーにはしゅっせきしなかったのに。
+    credits_raw: ninja_k
+    translations:
+      - language: en
+        text: If I knew HE was coming, I wouldn't have attended this party.
+        html: |-
+          <span>If I knew HE was coming, I wouldn't have attended this party. </span>
+        segments:
+          - text: 'If I knew HE was coming, I wouldn''t have attended this party. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7001
+    position: 8
+    japanese: 「打ち合わせの時間は７時どうですか。」「7時はだめですが、8時ならいいですよ。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e6%89%93%e3%81%a1"><span>打ち</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e3%82%8f%e3%81%9b%e3%81%ae"><span>合わせの</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%96%93%e3%81%af"><span>時間は</span></a><a href="https://takoboto.jp/?q=%ef%bc%97%e6%99%82%e3%81%a9%e3%81%86%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82%e3%80%8d%e3%80%8c7"><span>７時どうですか。」「7</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%81%af%e3%81%a0%e3%82%81%e3%81%a7%e3%81%99%e3%81%8c%e3%80%818"><span>時はだめですが、8</span></a><a href="https://takoboto.jp/?q=%e6%99%82"><span>時</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89"><strong>なら</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%82%88%e3%80%82%e3%80%8d"><span>いいですよ。」</span></a>
+    segments:
+      - text: 「打ち合わせの時間は７時どうですか。」「7時はだめですが、8時
+        grammar_highlight: false
+      - text: なら
+        grammar_highlight: true
+      - text: いいですよ。」
+        grammar_highlight: false
+    reading: 「うちあわせのじかんは７じどうですか。」「じはだめですが、じならいいですよ。」
+    credits_raw: タン
+    translations:
+      - language: en
+        text: uHow about meeting at 7 o'clock?」「7 is bad for me, but 8 is fine.」
+        html: |-
+          <span>uHow about meeting at 7 o'clock?」「7 is bad for me, but 8 is fine.」 </span>
+        segments:
+          - text: 'uHow about meeting at 7 o''clock?」「7 is bad for me, but 8 is fine.」 '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7002
+    position: 9
+    japanese: 中国に行くなら、航空券を早くしといた方がいいですよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%ad%e5%9b%bd%e3%81%ab%e8%a1%8c%e3%81%8f"><span>中国に行く</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89"><strong>なら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e8%88%aa%e7%a9%ba%e5%88%b8%e3%82%92%e6%97%a9%e3%81%8f%e3%81%97%e3%81%a8%e3%81%84%e3%81%9f%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%82%88%e3%80%82"><span>、航空券を早くしといた方がいいですよ。</span></a>
+    segments:
+      - text: 中国に行く
+        grammar_highlight: false
+      - text: なら
+        grammar_highlight: true
+      - text: 、航空券を早くしといた方がいいですよ。
+        grammar_highlight: false
+    reading: ちゅうごくにいくなら、こうくうけんをはやくしといたほうがいいですよ。
+    credits_raw: タン
+    translations:
+      - language: en
+        text: If  you go to China, you should book your ticket early.
+        html: |-
+          <strong>If </strong><span> you go to China, you should book your ticket early. </span>
+        segments:
+          - text: 'If '
+            grammar_highlight: true
+          - text: ' you go to China, you should book your ticket early. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: "there are a few if/when constructs:\n\n[nara] is similar to -[eba]\nformed with verb-plain form + nara\n　行くなら分かる = if/when you go you will understand\n\n[to] is used when the action is expected to happen, rather than use the english 'if' use 'when...' \nformed with verb-plain form + to\n　行かないとまずい = it will be bad if you dont go\n\n[eba] is used when PEOPLE do the actions or suggesting an action. masu-stem + ba\n　行けばいいよ　= its ok to go\n\n[tara] is used in the other cases\n 寒かったら行かない = if its cold i won't go"
+    html: |-
+      there are a few if/when constructs:<br/><br/>[nara] is similar to -[eba]<br/>formed with verb-plain form + nara<br/>　行くなら分かる = if/when you go you will understand<br/><br/>[to] is used when the action is expected to happen, rather than use the english 'if' use 'when...' <br/>formed with verb-plain form + to<br/>　行かないとまずい = it will be bad if you dont go<br/><br/>[eba] is used when PEOPLE do the actions or suggesting an action. masu-stem + ba<br/>　行けばいいよ　= its ok to go<br/><br/>[tara] is used in the other cases<br/> 寒かったら行かない = if its cold i won't go
+    credits_raw: dc
+    content_sha256: e6936831b22e22cf16028d6ba67a745745620591699befee15a332696967c1ba
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      〜なら：１．もし (if) ; 辞書形 +（の,optional)なら
+
+       2.勧告(advice); 辞書形 + (の,optional)なら
+
+       3.話題を出す時; (Speaking of.../ For...) ; 名詞 +（の,optional)なら
+    html: |-
+      〜なら：１．もし (if) ; 辞書形 +（の,optional)なら<br/><br/> 2.勧告(advice); 辞書形 + (の,optional)なら<br/><br/> 3.話題を出す時; (Speaking of.../ For...) ; 名詞 +（の,optional)なら
+    credits_raw: 誠
+    content_sha256: 105097fd274c381d0cd6f8fca544e351deaf3957018818150cee3b70ae8b9c2c
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      (GOOD)冷蔵庫を閉めた（な）ら　電気が消えますか。
+      I cannot exaplain the difference usage in [tara] and [nara]
+    html: |-
+      (GOOD)冷蔵庫を閉めた（な）ら　電気が消えますか。<br/>I cannot exaplain the difference usage in [tara] and [nara]
+    credits_raw: dc
+    content_sha256: 0e1c4ffb084bb777336df3c499f1cb0e0d76e3aaf4bad45e165d3ac7178e248c
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: であれば is closely realted to なら.
+    html: であれば is closely realted to なら.
+    credits_raw: bamboo4
+    content_sha256: df9f6a1dfe936ca2da38e084b5b759efb8520a202c88b8c35feed85fcbd9dc29
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      nara is similar to -eba
+      eba is used when PEOPLE do the actions or suggesting an action.
+      tara is used in the other cases
+      and to is used when the action is expected to happen, rather than use the english 'if' use 'when...'
+    html: |-
+      nara is similar to -eba<br/>eba is used when PEOPLE do the actions or suggesting an action.<br/>tara is used in the other cases<br/>and to is used when the action is expected to happen, rather than use the english 'if' use 'when...'
+    credits_raw: KotatsuSama
+    content_sha256: b4bbf32a3403791c8a2bf7abdf737596700e09b208412ee1cb41845df10c6f02
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: KS - I added your comment as a "note" on the above...
+    html: KS - I added your comment as a "note" on the above...
+    credits_raw: dc
+    content_sha256: 1c00bffadc804dbda64985a3255f99a0ec7d1dabb7e6844658e906c9b9405b4e
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      I also thought -tara had a bit more "when" whereas -eba was a bit more if. 
+      行ったら： when you go
+      行けば： if you go
+
+      although there is much more overlap than english
+    html: |-
+      I also thought -tara had a bit more "when" whereas -eba was a bit more if. <br/>行ったら： when you go<br/>行けば： if you go<br/><br/>although there is much more overlap than english
+    credits_raw: dc
+    content_sha256: a3f78530a25c828b6b301cdd5f398cdc13c3e9658a9fbe59ca2008cba07997e5
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      行ったら is more like "when you get there" and 行くなら would be "if you go." 行けば is either soft command or archaic "when you go."
+    html: |-
+      行ったら is more like "when you get there" and 行くなら would be "if you go." 行けば is either soft command or archaic "when you go."
+    credits_raw: bamboo4
+    content_sha256: b5928c421b983ed8062775af70846bd8df49e77536f0732942237bac21ab9c58
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: なら is used in the context of suggestions, commands, violitional sentences and such. (One example of each above ;-)
+    html: なら is used in the context of suggestions, commands, violitional sentences and such. (One example of each above ;-)
+    credits_raw: Amatuka
+    content_sha256: 7173272d1a3f85afacecb44398541a3c49a1955898bb1a516f4b9744281aee80
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      Therefore なら can't be used in sentences like the following where no such elements are present.
+      (BAD) 冷蔵庫を閉めるなら電気が消えますか。
+      (GOOD) 冷蔵庫を閉めると電気が消えますか。
+      If(when) you shut the fridge does the light go out?
+    html: |-
+      Therefore なら can't be used in sentences like the following where no such elements are present.<br/>(BAD) 冷蔵庫を閉めるなら電気が消えますか。<br/>(GOOD) 冷蔵庫を閉めると電気が消えますか。<br/>If(when) you shut the fridge does the light go out?
+    credits_raw: Amatuka
+    content_sha256: eff005a2d3eced279918c754dabe99ed68977ab2cc3f7eec7342b42a6487cc06
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      「なら」と「たら」の違い
+      例：「山田さんが来たら、私は帰ります。」の場合には、
+      山田さんが来てから私が帰るという意味であるが、「山田さんが来るなら、私は帰ります。」の場合には、山田さんが来る前に私が帰るという意味になる。
+      うふふふ、朝飯前わね＾＾
+    html: |-
+      「なら」と「たら」の違い<br/>例：「山田さんが来たら、私は帰ります。」の場合には、<br/>山田さんが来てから私が帰るという意味であるが、「山田さんが来るなら、私は帰ります。」の場合には、山田さんが来る前に私が帰るという意味になる。<br/>うふふふ、朝飯前わね＾＾
+    credits_raw: フリザ
+    content_sha256: b78b7270e112a149d434e97e0f48e8d669ba15499aea54184d90550d2ad3ecb7
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      と can also mean " that..." 
+      行かないとまずい " It is not good that (I/you/one) don't go"
+    html: |-
+      と can also mean " that..." <br/>行かないとまずい " It is not good that (I/you/one) don't go"
+    credits_raw: 誠
+    content_sha256: 85cff714b9f3e7025c9a00489b2d972120096ab03ce2a086de06967648d791c1
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: 〜なら／ならば、．．．、although なら is more common and usually, appear in conversations.
+    html: 〜なら／ならば、．．．、although なら is more common and usually, appear in conversations.
+    credits_raw: 誠
+    content_sha256: de03f70541229f28d645a4667f16f1aca4669dd5a89eda46e9c0d08aa9d5fb4b
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      One cannot use と(if/once)、with 意志形、命令形、ください、but instead use たら、なら、〜えば according to the respective situations or sentence.
+    html: |-
+      One cannot use と(if/once)、with 意志形、命令形、ください、but instead use たら、なら、〜えば according to the respective situations or sentence.
+    credits_raw: 誠
+    content_sha256: 9aff6ada0cc1b5a7c0a17983989ff662eb54b1f2bb76ee138fe1bb6743df6058
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: "Agree with フリザさん. \n「ここは禁煙です。煙草を吸うなら、外へ出てください。」→　外へ出てから、煙草を吸っては構いません。\n\n「煙草を吸ったら、入ってもいいです。」→ 煙草を吸ってから、入っても構いません。"
+    html: |-
+      Agree with フリザさん. <br/>「ここは禁煙です。煙草を吸うなら、外へ出てください。」→　外へ出てから、煙草を吸っては構いません。<br/><br/>「煙草を吸ったら、入ってもいいです。」→ 煙草を吸ってから、入っても構いません。
+    credits_raw: 誠
+    content_sha256: 8a6a55a7933f687ae9d7828d7a6b4ba284e0719fbea68f3f40f96fc5e7649c36
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: 誠さん、解釈の日本語変だと思いますが…。
+    html: 誠さん、解釈の日本語変だと思いますが…。
+    credits_raw: Miki
+    content_sha256: baf276a8c68f1aa230b8c9dc12cca11554f97e55d7c92e526831e45f08421ccf
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: Correctly, 外へ出てから、煙草を吸っても構いません。
+    html: Correctly, 外へ出てから、煙草を吸っても構いません。
+    credits_raw: bamboo4
+    content_sha256: 72a766a847116c0ba8905c873bf4c63ef2cb0a500802ed84e8c7e79bd83a002c
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 729
+    label: たら
+    source_url: https://takoboto.jp/bunpo/729
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:40+00:00'
+response_sha256: 1bf90fb5bed5bd2ea3c7e81e74d368b16f8a1c8e5e43fc59f13551ccf3f2b7e2
+warnings: []

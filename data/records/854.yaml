@@ -1,0 +1,225 @@
+schema_version: 2
+id: 854
+source: takoboto
+source_url: https://takoboto.jp/bunpo/854/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: らしい
+romanized_label: rashii
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: seem, look like, apparently, I heard
+meaning_example: It seems Tanaka will resign
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_854
+    body_text: |-
+      seem, look like, apparently, I heard 
+       It seems Tanaka will resign
+    body_html: |-
+      <span>seem, look like, apparently, I heard</span> <br/> <span>It seems Tanaka will resign</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_854
+    body_text: Noun+らしいVerb (casual)+らしいな-adjective (without な)+らしいい-adjective+らしい
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>らしい</div></div></div><div><div><div>Verb (casual)</div></div><div><div>+</div><div>らしい</div></div></div><div><div><div>な-adjective (without な)</div></div><div><div>+</div><div>らしい</div></div></div><div><div><div>い-adjective</div></div><div><div>+</div><div>らしい</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + らしい
+  - Verb (casual) + らしい
+  - な-adjective (without な) + らしい
+  - い-adjective + らしい
+examples:
+  - source_id: 715
+    position: 0
+    japanese: 動かないらしい
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8b%95%e3%81%8b%e3%81%aa%e3%81%84"><span>動かない</span></a><a href="https://takoboto.jp/?q=%e3%82%89%e3%81%97%e3%81%84"><strong>らしい</strong></a>
+    segments:
+      - text: 動かない
+        grammar_highlight: false
+      - text: らしい
+        grammar_highlight: true
+    reading: うごかないらしい
+    credits_raw: dc
+    translations:
+      - language: en
+        text: 'Seems like it doesn''t work (lit: doesn''t move)'
+        html: |-
+          <strong>Seems like </strong><span>it doesn't work (lit: doesn't move) </span>
+        segments:
+          - text: 'Seems like '
+            grammar_highlight: true
+          - text: 'it doesn''t work (lit: doesn''t move) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4985
+    position: 1
+    japanese: そんな事をするなんて君らしくない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%93%e3%81%aa"><span>そんな</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%82%92%e3%81%99%e3%82%8b%e3%81%aa%e3%82%93%e3%81%a6"><span>事をするなんて</span></a><a href="https://takoboto.jp/?q=%e5%90%9b"><span>君</span></a><a href="https://takoboto.jp/?q=%e3%82%89%e3%81%97%e3%81%8f"><strong>らしく</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%80%82"><span>ない。</span></a>
+    segments:
+      - text: そんな事をするなんて君
+        grammar_highlight: false
+      - text: らしく
+        grammar_highlight: true
+      - text: ない。
+        grammar_highlight: false
+    reading: そんなことをするなんてきみらしくない。
+    credits_raw: Pan
+    translations:
+      - language: en
+        text: It doesn't seem like you doing such a thing.
+        html: |-
+          <span>It doesn't </span><strong>seem like </strong><span>you doing such a thing. </span>
+        segments:
+          - text: 'It doesn''t '
+            grammar_highlight: false
+          - text: 'seem like '
+            grammar_highlight: true
+          - text: 'you doing such a thing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4986
+    position: 2
+    japanese: 私は彼と彼のガールフレンドらしい人を見かけた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%a8"><span>彼と</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae%e3%82%ac%e3%83%bc%e3%83%ab%e3%83%95%e3%83%ac%e3%83%b3%e3%83%89"><span>彼のガールフレンド</span></a><a href="https://takoboto.jp/?q=%e3%82%89%e3%81%97%e3%81%84"><strong>らしい</strong></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%82%92"><span>人を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%8b%e3%81%91%e3%81%9f%e3%80%82"><span>見かけた。</span></a>
+    segments:
+      - text: 私は彼と彼のガールフレンド
+        grammar_highlight: false
+      - text: らしい
+        grammar_highlight: true
+      - text: 人を見かけた。
+        grammar_highlight: false
+    reading: わたしはかれとかれのガールフレンドらしいひとをみかけた。
+    credits_raw: Pan
+    translations:
+      - language: en
+        text: I saw him and a girl who looked to be his girlfriend.
+        html: |-
+          <span>I saw him and a girl who </span><strong>looked to be </strong><span>his girlfriend. </span>
+        segments:
+          - text: 'I saw him and a girl who '
+            grammar_highlight: false
+          - text: 'looked to be '
+            grammar_highlight: true
+          - text: 'his girlfriend. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6327
+    position: 3
+    japanese: みんなさんは夕方来るらしい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%bf%e3%82%93%e3%81%aa%e3%81%95%e3%82%93%e3%81%af"><span>みんなさんは</span></a><a href="https://takoboto.jp/?q=%e5%a4%95%e6%96%b9%e6%9d%a5%e3%82%8b"><span>夕方来る</span></a><a href="https://takoboto.jp/?q=%e3%82%89%e3%81%97%e3%81%84"><strong>らしい</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: みんなさんは夕方来る
+        grammar_highlight: false
+      - text: らしい
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: みんなさんはゆうがたくるらしい。
+    credits_raw: slack.hideo
+    translations:
+      - language: en
+        text: It seems everybody will come in the evening.
+        html: |-
+          <span>It seems everybody will come in the evening. </span>
+        segments:
+          - text: 'It seems everybody will come in the evening. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6560
+    position: 4
+    japanese: kyou ha,tenki ga yoirashiidesu.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=kyou+ha%2ctenki+ga+yoirashiidesu."><span>kyou ha,tenki ga yoirashiidesu.</span></a>
+    segments:
+      - text: kyou ha,tenki ga yoirashiidesu.
+        grammar_highlight: false
+    reading: null
+    credits_raw: kanoko
+    translations:
+      - language: en
+        text: the weather today seems like good.
+        html: |-
+          <span>the weather today seems like good. </span>
+        segments:
+          - text: 'the weather today seems like good. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: "1。これは　ずいぶんふるい　ものの　（　　　）。きっと　たかかっただろう。\n 1)ようだ 2)そうだ 3)ほどだ 4)らしい \n\n2 。 「このスープ ちょっと からくないですか。」「どうですか。ちょっと のんでみましょう。うーん、ちょっと（ ）ですね。」\n 1)からいよう 2)からいらしい 3)からいため 4)からいそう \n\n\n3。 おおかわ「やまださん、どようびの パーティーに しゅっせきなさいますか。」やまだ「ええ、（ ）。」\n1)そうするつもりです 2)そうするばずです 3)そうするらしいです 4)そうするようです \n\n4。 もっと はやく はしれる（ ） なりたいです。\n 1)らしいに 2)ように 3)ことに 4)そうに \n\n5 。 「もうすぐ あめが （ ）ね。」「かさを もって いきましょう。」\n1)ふるようです 2)ふってきそうです 3)ふりはじめました 4)ふるらしいです \n\n6 。 かれは ちからがつよくて おとこ（ ）ひとです。\n 1)とおり 2)ような 3)らしい 4)そうな \n\n7 。 二人は まるで ほんとうの 兄弟（ ）。\n 1)ようだ 2)みたいだ 3)らしい 4)そうだ \n \n8 。 かのじょは プレゼントを もらって うれし（ ）な かおを しています。\n 1)そう 2)ような 3)みたい 4)らしい \n\n9 。 かのじょは ほんとうに 女（ ） ひとですね。\n 1)らしい 2)ような 3)そうな 4)ように \n\n\n10 。 彼は 本当に 男（ ） 人です。\n 1)のような 2)そうな 3)ぐらい 4)らしい\n\ncan u get 10 out of 10(ganbattene)"
+    html: |-
+      1。これは　ずいぶんふるい　ものの　（　　　）。きっと　たかかっただろう。<br/> 1)ようだ 2)そうだ 3)ほどだ 4)らしい <br/><br/>2 。 「このスープ ちょっと からくないですか。」「どうですか。ちょっと のんでみましょう。うーん、ちょっと（ ）ですね。」<br/> 1)からいよう 2)からいらしい 3)からいため 4)からいそう <br/><br/><br/>3。 おおかわ「やまださん、どようびの パーティーに しゅっせきなさいますか。」やまだ「ええ、（ ）。」<br/>1)そうするつもりです 2)そうするばずです 3)そうするらしいです 4)そうするようです <br/><br/>4。 もっと はやく はしれる（ ） なりたいです。<br/> 1)らしいに 2)ように 3)ことに 4)そうに <br/><br/>5 。 「もうすぐ あめが （ ）ね。」「かさを もって いきましょう。」<br/>1)ふるようです 2)ふってきそうです 3)ふりはじめました 4)ふるらしいです <br/><br/>6 。 かれは ちからがつよくて おとこ（ ）ひとです。<br/> 1)とおり 2)ような 3)らしい 4)そうな <br/><br/>7 。 二人は まるで ほんとうの 兄弟（ ）。<br/> 1)ようだ 2)みたいだ 3)らしい 4)そうだ <br/> <br/>8 。 かのじょは プレゼントを もらって うれし（ ）な かおを しています。<br/> 1)そう 2)ような 3)みたい 4)らしい <br/><br/>9 。 かのじょは ほんとうに 女（ ） ひとですね。<br/> 1)らしい 2)ような 3)そうな 4)ように <br/><br/><br/>10 。 彼は 本当に 男（ ） 人です。<br/> 1)のような 2)そうな 3)ぐらい 4)らしい<br/><br/>can u get 10 out of 10(ganbattene)
+    credits_raw: pradyumna_jpn
+    content_sha256: 769f5483ca1b3f8b84e4e99605fcb5e87bc8441c98042f664956c3f122c31cbd
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: -らしい is used primarily in spoken Japanese. -ようだ often takes its place when written.
+    html: -らしい is used primarily in spoken Japanese. -ようだ often takes its place when written.
+    credits_raw: Pan
+    content_sha256: 81687dc72dc08855f344514ca458d3b19052d04fab53aacdfa8dec2deac804ef
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: "-らしい and -ようだ have different meanings. \n\nYou use -らしい as a similie when something is like something else, but is expected to be like that; for example：\n\n'that man doesn't act like a woman'　\nその男女らしくしていない\n\n-ようだ is used to make a similie with a condition we don't expect the thing to be like. For example \n'That human being acts like a cat'\nあの人間は猫のようにしている\n\nIf you mean to describe how something seems to be, they differ again, as -らしい is used to make an assumption based on what you've heard (usually from other people) and -ようだ is is used to make assumptions based on what you observe or from what you gather from first hand information.\n\nhope that helps clear things up a little :)"
+    html: |-
+      -らしい and -ようだ have different meanings. <br/><br/>You use -らしい as a similie when something is like something else, but is expected to be like that; for example：<br/><br/>'that man doesn't act like a woman'　<br/>その男女らしくしていない<br/><br/>-ようだ is used to make a similie with a condition we don't expect the thing to be like. For example <br/>'That human being acts like a cat'<br/>あの人間は猫のようにしている<br/><br/>If you mean to describe how something seems to be, they differ again, as -らしい is used to make an assumption based on what you've heard (usually from other people) and -ようだ is is used to make assumptions based on what you observe or from what you gather from first hand information.<br/><br/>hope that helps clear things up a little :)
+    credits_raw: nathy1985
+    content_sha256: 9db54dd7a356af4b2f500bb1a2447aea3c0dc0ab0c85afe0e7425c6b0410776e
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      There is also another way to use rashi. When I was in Japan I learned it.
+      大阪らしい、東京らしい
+      近くに大阪らしい居酒屋がありますか。It means. Is there a oosaka style bar close by. Rashi in this case means something to do with style. I have also heard it means ish like oosakaish.子供らしい
+    html: |-
+      There is also another way to use rashi. When I was in Japan I learned it.<br/>大阪らしい、東京らしい<br/>近くに大阪らしい居酒屋がありますか。It means. Is there a oosaka style bar close by. Rashi in this case means something to do with style. I have also heard it means ish like oosakaish.子供らしい
+    credits_raw: mattypaps
+    content_sha256: ba7a217c29d31526e48b64ddbfcecfd741977b4b3df08a56839847df10cf66ea
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Sorry im new here, is there no answer provided?
+    html: Sorry im new here, is there no answer provided?
+    credits_raw: KaleNovice
+    content_sha256: cac6633d1aca44a08bf431ccd1a6fdb0c067922cd3910f1e8d3c60f6281fd0bc
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 856
+    label: だろう
+    source_url: https://takoboto.jp/bunpo/856
+  - target_id: 633
+    label: みたい
+    source_url: https://takoboto.jp/bunpo/633
+  - target_id: 663
+    label: そう
+    source_url: https://takoboto.jp/bunpo/663
+  - target_id: 861
+    label: よう
+    source_url: https://takoboto.jp/bunpo/861
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:12+00:00'
+response_sha256: 9961625e3aafa6752d060316217caffe5701475febb24d9c71e8a4049a1b78a8
+warnings: []

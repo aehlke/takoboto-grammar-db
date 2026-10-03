@@ -36,7 +36,7 @@ redistributing or adapting the material.
 
 Changes made by this project: extracted grammar content from public HTML,
 separated content from navigation and contribution controls, normalized it
-into JSON/SQLite, and generated Markdown. Japanese example spacing, readings,
+into YAML/SQLite, and generated Markdown. Japanese example spacing, readings,
 translations, grammar highlighting, credit strings, discussion order, and
 links are retained where exposed. Display HTML is sanitized. The source text
 has not been editorially corrected. The current collection was retrieved on

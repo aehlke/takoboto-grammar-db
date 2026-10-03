@@ -1,0 +1,232 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 644
+label: tabi, tabini
+title_raw: たび、たびに [たび、たびに] (tabi, tabini)
+title: たび、たびに
+reading: たび、たびに
+romanized_label: tabi, tabini
+category: grammar
+jlpt_level_original: '2'
+meaning: each time, every time, whenever
+meaning_example: Whenever I go overseas, I realize the merits of my own country.
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=tabi,%20tabini
+archive_url: https://web.archive.org/web/20150225003448id_/http://jgram.org/pages/viewOne.php?tagE=tabi,%20tabini
+archive_timestamp: '20150225003448'
+retrieved_at: '2026-10-03T16:10:29+00:00'
+archive_digest: 6K4E33I5ZUA6DMCV4RHWREIWEER2FOSI
+response_sha256: 84e850cc88558808e9c464ea2f0ac27111fbf7fd02146395048a46f165ceda34
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: As far as I know, たび, means "every time". i.e. every time I get together we have a good time.
+    html: As far as I know, たび, means "every time". i.e. every time I get together we have a good time.
+    credits_raw: bob
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "This grammar can use past and non・past verbs in front of it. The translation is therefore slightly different: \"Whenever I go\" versus \"Whenever I went.\"\n\n\n\r\nV(plain form) + たび・たびに\n\r\nN + の + たび・たびに"
+    html: "This grammar can use past and non・past verbs in front of it. The translation is therefore slightly different: \"Whenever I go\" versus \"Whenever I went.\"<br/>\n<br/>\r\nV(plain form) + たび・たびに<br/>\r\nN + の + たび・たびに"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 731
+    position: 0
+    japanese: Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。
+    body_text: "Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。  \n\nWhenever \n\t\tI sign in to Windows Messenger it wants me to upgrade the program."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJWindows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。 \">\n\t\t\t\tWindows Messenger にサインインする<strong>たびに</strong>、プログラムをアップグレードするように求められます。 <strong></strong></a> <br/>\n<strong>Whenever </strong>\n\t\tI sign in to Windows Messenger it wants me to upgrade the program."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 733
+    position: 1
+    japanese: 東京に行くたびに言っている気がする
+    body_text: "東京に行くたびに言っている気がする \n\n\t\tI get the feeling I say that \n\t\twhenever \n\t\tI go to Tokyo."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ東京に行くたびに言っている気がする\">\n\t\t\t\t東京に行く<strong>たびに</strong>言っている気がする<strong></strong></a> <br/>\n\t\tI get the feeling I say that \n\t\t<strong>whenever </strong>\n\t\tI go to Tokyo."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5745
+    position: 2
+    japanese: かのじょはあうたびにきれいになる。
+    body_text: "かのじょはあうたびにきれいになる。 \n\n\t\tEvery time I meet her, she is always beautiful."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJかのじょはあうたびにきれいになる。\">\n\t\t\t\tかのじょはあう<strong>たび</strong>にきれいになる。<strong></strong></a> <br/>\n\t\tEvery time I meet her, she is always beautiful. \n\t\t<strong> </strong>"
+    credits_raw: devking64
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6205
+    position: 3
+    japanese: 課長は出張のたびに、みんなにお土産を買ってくる。
+    body_text: "課長は出張のたびに、みんなにお土産を買ってくる。 \n\nWhenever \n\t\tthe section manager goes on a business trip, he brings back souvenirs for everyone."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ課長は出張のたびに、みんなにお土産を買ってくる。\">\n\t\t\t\t課長は出張の<strong>たびに</strong>、みんなにお土産を買ってくる。<strong></strong></a> <br/>\n<strong>Whenever </strong>\n\t\tthe section manager goes on a business trip, he brings back souvenirs for everyone."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8455
+    position: 4
+    japanese: 彼女はやるたびに失敗した。
+    body_text: "彼女はやるたびに失敗した。\r \n\n\t\tAs often as she tried, she failed."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女はやるたびに失敗した。\">\n\t\t\t\t彼女はやるたびに失敗した。\r<strong></strong><strong></strong></a> <br/>\n\t\tAs often as she tried, she failed. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8456
+    position: 5
+    japanese: 会いに行くたびに彼女は留守だった。
+    body_text: "会いに行くたびに彼女は留守だった。\r \n\n\t\tEvery time　I went to see her, she was not at home."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ会いに行くたびに彼女は留守だった。\">\n\t\t\t\t会いに行くたびに彼女は留守だった。\r<strong></strong><strong></strong></a> <br/>\n\t\tEvery time　I went to see her, she was not at home. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8589
+    position: 6
+    japanese: 私は旅行のたびに、絵葉書を買います
+    body_text: "私は旅行のたびに、絵葉書を買います \n\n\t\tEvery time I travel, I buy a postcard"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ私は旅行のたびに、絵葉書を買います\">\n\t\t\t\t私は旅行のたびに、絵葉書を買います<strong></strong><strong></strong></a> <br/>\n\t\tEvery time I travel, I buy a postcard \n\t\t<strong> </strong>"
+    credits_raw: thokyo
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Generally たびに, kanji is 度
+    html: Generally たびに, kanji is 度
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: bamboo4
+    text: |-
+      Since tense is not an important part of Japanese, you would use 行く度に(and you do not use 行った度に) and 行く度に has a strong implication that you did that in the past. How else can you say, 行く度に you did something? The sentence 日本に行く度に温泉に行きます therefore indicates that every time you visit Japan, you go to hot spring spas and you have done so in the past.
+    html: |-
+      Since tense is not an important part of Japanese, you would use 行く度に(and you do not use 行った度に) and 行く度に has a strong implication that you did that in the past. How else can you say, 行く度に you did something? The sentence 日本に行く度に温泉に行きます therefore indicates that every time you visit Japan, you go to hot spring spas and you have done so in the past.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: I don't think anybody disagrees that 行った度に is bad.
+    html: I don't think anybody disagrees that 行った度に is bad.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Miki
+    text: "I don't think the first one is translated reasonably. It algo so implys \"each time\". \n\r\nこれはどうですか？ \n\r\nI get the feeling I say that whenever I go to Tokyo."
+    html: "I don't think the first one is translated reasonably. It algo so implys \"each time\". <br/>\r\nこれはどうですか？ <br/>\r\nI get the feeling I say that whenever I go to Tokyo."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Amatuka
+    text: Aha.  So I'll clear that up change this to -1 from -3.
+    html: Aha.  So I'll clear that up change this to -1 from -3.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Amatuka
+    text: ありがとう、みきさん。
+    html: ありがとう、みきさん。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: zep3xvii
+    text: "I read in the Dictionary of Intermediate Japanese grammar that the formation for (n,vs) type verbs like 勉強するshould be 勉強度に . In that case,  サインインする度に in example #\x01 should  be   サインイン度に, shouldn't it? Please verify."
+    html: "I read in the Dictionary of Intermediate Japanese grammar that the formation for (n,vs) type verbs like 勉強するshould be 勉強度に . In that case,  サインインする度に in example <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=tabi,%20tabini#\x01\">#\x01</a></b> should  be   サインイン度に, shouldn't it? Please verify."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Miki
+    text: zep3xvii, I don't think 勉強度に is correct. 勉強する度に is correct. Therefore, サインインする度に is correct.
+    html: zep3xvii, I don't think 勉強度に is correct. 勉強する度に is correct. Therefore, サインインする度に is correct.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: sagittarius
+    text: perhaps 勉強たびに is incorrect, but how about　勉強のたびに　and サインインのたび？
+    html: perhaps 勉強たびに is incorrect, but how about　勉強のたびに　and サインインのたび？
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: Miki
+    text: 勉強のたびに and サインインのたびに are correct.
+    html: 勉強のたびに and サインインのたびに are correct.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: yookoso
+    text: "I added \x01 as a see also. Anyone care to explain the difference?"
+    html: "I added <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> as a see also. Anyone care to explain the difference?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: ichigo_venky
+    text: The particle "ni" in tabi ni can't be dropped then i wonder why this grammer pattern  is added as[tabi,tabi ni] .
+    html: The particle "ni" in tabi ni can't be dropped then i wonder why this grammer pattern  is added as[tabi,tabi ni] .
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: toki
+    label: toki
+    annotation_text: toki    (ときに can be used in much the same way as たびに) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=toki">toki</a>    (ときに can be used in much the same way as たびに) [<a href="http://jgram.org/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: nitsuke
+    label: nitsuke
+    annotation_text: nitsuke [yookoso]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=nitsuke">nitsuke</a> [<a href="http://jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+sections:
+  - kind: header
+    text: "たび、たびに [たび、たびに] (tabi, tabini)\n    Meaning: each time, every time, whenever \n    Example: Whenever I go overseas, I realize the merits of my own country.\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>たび、たびに [たび、たびに] (tabi, tabini)</span><br/>    <span><b>Meaning</b>: each time, every time, whenever </span><br/>    <b>Example</b>: <i>Whenever I go overseas, I realize the merits of my own country.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225003448'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 100632345
+  length: 6827
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: b1900647ce283bf013819441b24e61f03ad8f690b607ba0036cb457a12708dea

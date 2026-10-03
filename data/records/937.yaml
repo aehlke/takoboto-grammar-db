@@ -1,0 +1,482 @@
+schema_version: 2
+id: 937
+source: takoboto
+source_url: https://takoboto.jp/bunpo/937/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: せいぜい (精精)
+romanized_label: seizei
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: my utmost, at most
+meaning_example: try my utmost
+meaning_notes:
+  - language: ja
+    text: できるだけ。精一杯。最大限。
+    html: できるだけ。精一杯。最大限。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_937
+    body_text: |-
+      my utmost, at most 
+       try my utmost 
+       できるだけ。精一杯。最大限。
+    body_html: |-
+      <span>my utmost, at most</span> <br/> <span>try my utmost</span> <br/> <span>できるだけ。精一杯。最大限。</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 1111
+    position: 0
+    japanese: この仕事だったらせいぜい三日もあればできる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%a0%e3%81%a3%e3%81%9f%e3%82%89"><span>仕事だったら</span></a><a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=%e4%b8%89%e6%97%a5%e3%82%82%e3%81%82%e3%82%8c%e3%81%b0%e3%81%a7%e3%81%8d%e3%82%8b%e3%80%82"><span>三日もあればできる。</span></a>
+    segments:
+      - text: この仕事だったら
+        grammar_highlight: false
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 三日もあればできる。
+        grammar_highlight: false
+    reading: このしごとだったらせいぜいさんにちもあればできる。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: If it's this type of work, it can be done in about three days at the outside.
+        html: |-
+          <span>If it's this type of work, it can be done in about three days </span><strong>at the outside. </strong>
+        segments:
+          - text: 'If it''s this type of work, it can be done in about three days '
+            grammar_highlight: false
+          - text: 'at the outside. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3064
+    position: 1
+    japanese: この仕事の完成にせいぜい努力します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%ae"><span>仕事の</span></a><a href="https://takoboto.jp/?q=%e5%ae%8c%e6%88%90%e3%81%ab"><span>完成に</span></a><a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=%e5%8a%aa%e5%8a%9b%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>努力します。</span></a>
+    segments:
+      - text: この仕事の完成に
+        grammar_highlight: false
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 努力します。
+        grammar_highlight: false
+    reading: このしごとのかんせいにせいぜいどりょくします。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: I will exert my best in finishing this work.
+        html: |-
+          <span>I will exert </span><strong>my best </strong><span>in finishing this work. </span>
+        segments:
+          - text: 'I will exert '
+            grammar_highlight: false
+          - text: 'my best '
+            grammar_highlight: true
+          - text: 'in finishing this work. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4134
+    position: 2
+    japanese: あの婦人はせいぜい40歳だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e5%a9%a6%e4%ba%ba%e3%81%af"><span>婦人は</span></a><a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=40"><span>40</span></a><a href="https://takoboto.jp/?q=%e6%ad%b3%e3%81%a0%e3%80%82"><span>歳だ。</span></a>
+    segments:
+      - text: あの婦人は
+        grammar_highlight: false
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 40歳だ。
+        grammar_highlight: false
+    reading: あのふじんはせいぜいさいだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The lady is forty years old at most.
+        html: |-
+          <span>The lady is forty years old </span><strong>at most. </strong>
+        segments:
+          - text: 'The lady is forty years old '
+            grammar_highlight: false
+          - text: 'at most. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4135
+    position: 3
+    japanese: ここから歩いてせいぜい10分のところです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%8b%e3%82%89"><span>ここから</span></a><a href="https://takoboto.jp/?q=%e6%ad%a9%e3%81%84%e3%81%a6"><span>歩いて</span></a><a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=10"><span>10</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%ae%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7%e3%81%99%e3%80%82"><span>分のところです。</span></a>
+    segments:
+      - text: ここから歩いて
+        grammar_highlight: false
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 10分のところです。
+        grammar_highlight: false
+    reading: ここからあるいてせいぜいふんのところです。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It is no more than ten minutes' walk from here.
+        html: |-
+          <span>It is </span><strong>no more than </strong><span>ten minutes' walk from here. </span>
+        segments:
+          - text: 'It is '
+            grammar_highlight: false
+          - text: 'no more than '
+            grammar_highlight: true
+          - text: 'ten minutes'' walk from here. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4136
+    position: 4
+    japanese: この時計はせいぜい10ドルだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e8%a8%88%e3%81%af"><span>時計は</span></a><a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=10%e3%83%89%e3%83%ab%e3%81%a0%e3%80%82"><span>10ドルだ。</span></a>
+    segments:
+      - text: この時計は
+        grammar_highlight: false
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 10ドルだ。
+        grammar_highlight: false
+    reading: このとけいはせいぜいドルだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: This watch costs ten dollar at most.
+        html: |-
+          <span>This watch costs ten dollar </span><strong>at most. </strong>
+        segments:
+          - text: 'This watch costs ten dollar '
+            grammar_highlight: false
+          - text: 'at most. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4137
+    position: 5
+    japanese: この辞書はせいぜい２万語くらいしか載っていない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e8%be%9e%e6%9b%b8%e3%81%af"><span>辞書は</span></a><a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=%ef%bc%92%e4%b8%87%e8%aa%9e%e3%81%8f%e3%82%89%e3%81%84%e3%81%97%e3%81%8b"><span>２万語くらいしか</span></a><a href="https://takoboto.jp/?q=%e8%bc%89%e3%81%a3%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>載っていない。</span></a>
+    segments:
+      - text: この辞書は
+        grammar_highlight: false
+      - text: せいぜい
+        grammar_highlight: true
+      - text: ２万語くらいしか載っていない。
+        grammar_highlight: false
+    reading: このじしょはせいぜい２まんごくらいしかのっていない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: This dictionary contains not more than 20,000 words.
+        html: |-
+          <span>This dictionary contains </span><strong>not more than </strong><span>20,000 words. </span>
+        segments:
+          - text: 'This dictionary contains '
+            grammar_highlight: false
+          - text: 'not more than '
+            grammar_highlight: true
+          - text: '20,000 words. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4138
+    position: 6
+    japanese: せいぜい20人しかそのパーティーには来ないだろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=20"><span>20</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%97%e3%81%8b%e3%81%9d%e3%81%ae%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc%e3%81%ab%e3%81%af"><span>人しかそのパーティーには</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%81%aa%e3%81%84%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>来ないだろう。</span></a>
+    segments:
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 20人しかそのパーティーには来ないだろう。
+        grammar_highlight: false
+    reading: せいぜいにんしかそのパーティーにはこないだろう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Only twenty people will come to the party at best.
+        html: |-
+          <span>Only twenty people will come to the party </span><strong>at best. </strong>
+        segments:
+          - text: 'Only twenty people will come to the party '
+            grammar_highlight: false
+          - text: 'at best. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4139
+    position: 7
+    japanese: せいぜい40%の高校生しか大学に進学しない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=40%25%e3%81%ae"><span>40%の</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e6%a0%a1%e7%94%9f%e3%81%97%e3%81%8b"><span>高校生しか</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e3%81%ab"><span>大学に</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e5%ad%a6%e3%81%97%e3%81%aa%e3%81%84%e3%80%82"><span>進学しない。</span></a>
+    segments:
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 40%の高校生しか大学に進学しない。
+        grammar_highlight: false
+    reading: せいぜいのこうこうせいしかだいがくにしんがくしない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Not more than 40 percent of students go on to university.
+        html: |-
+          <strong>Not more than </strong><span>40 percent of students go on to university. </span>
+        segments:
+          - text: 'Not more than '
+            grammar_highlight: true
+          - text: '40 percent of students go on to university. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4140
+    position: 8
+    japanese: せいぜい自分の能力を活用しなさい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae"><span>自分の</span></a><a href="https://takoboto.jp/?q=%e8%83%bd%e5%8a%9b%e3%82%92"><span>能力を</span></a><a href="https://takoboto.jp/?q=%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%aa%e3%81%95%e3%81%84%e3%80%82"><span>活用しなさい。</span></a>
+    segments:
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 自分の能力を活用しなさい。
+        grammar_highlight: false
+    reading: せいぜいじぶんののうりょくをかつようしなさい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You should make the most of your ability.
+        html: |-
+          <span>You should </span><strong>make the most of </strong><span>your ability. </span>
+        segments:
+          - text: 'You should '
+            grammar_highlight: false
+          - text: 'make the most of '
+            grammar_highlight: true
+          - text: 'your ability. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4141
+    position: 9
+    japanese: それはせいぜい二流のホテルだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af"><span>それは</span></a><a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=%e4%ba%8c%e6%b5%81%e3%81%ae%e3%83%9b%e3%83%86%e3%83%ab%e3%81%a0%e3%80%82"><span>二流のホテルだ。</span></a>
+    segments:
+      - text: それは
+        grammar_highlight: false
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 二流のホテルだ。
+        grammar_highlight: false
+    reading: それはせいぜいにりゅうのホテルだ。
+    credits_raw: Miki, dc
+    translations:
+      - language: en
+        text: It is at best a second-rate hotel.
+        html: |-
+          <span>It is </span><strong>at best </strong><span>a second-rate hotel. </span>
+        segments:
+          - text: 'It is '
+            grammar_highlight: false
+          - text: 'at best '
+            grammar_highlight: true
+          - text: 'a second-rate hotel. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4142
+    position: 10
+    japanese: 彼はせいぜい二流の学者だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=%e4%ba%8c%e6%b5%81%e3%81%ae"><span>二流の</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e8%80%85%e3%81%a0%e3%80%82"><span>学者だ。</span></a>
+    segments:
+      - text: 彼は
+        grammar_highlight: false
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 二流の学者だ。
+        grammar_highlight: false
+    reading: かれはせいぜいにりゅうのがくしゃだ。
+    credits_raw: Miki, dc
+    translations:
+      - language: en
+        text: He is at best a second-rate scholar.
+        html: |-
+          <span>He is </span><strong>at best </strong><span>a second-rate scholar. </span>
+        segments:
+          - text: 'He is '
+            grammar_highlight: false
+          - text: 'at best '
+            grammar_highlight: true
+          - text: 'a second-rate scholar. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 923
+    position: 11
+    japanese: 今度は徹夜になりそうだ。今のうちにせいぜい休んでおこう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e5%ba%a6%e3%81%af"><span>今度は</span></a><a href="https://takoboto.jp/?q=%e5%be%b9%e5%a4%9c%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%9d%e3%81%86%e3%81%a0%e3%80%82"><span>徹夜になりそうだ。</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e3%81%ae"><span>今の</span></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ab"><span>うちに</span></a><a href="https://takoboto.jp/?q=%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><strong>せいぜい</strong></a><a href="https://takoboto.jp/?q=%e4%bc%91%e3%82%93%e3%81%a7%e3%81%8a%e3%81%93%e3%81%86%e3%80%82"><span>休んでおこう。</span></a>
+    segments:
+      - text: 今度は徹夜になりそうだ。今のうちに
+        grammar_highlight: false
+      - text: せいぜい
+        grammar_highlight: true
+      - text: 休んでおこう。
+        grammar_highlight: false
+    reading: こんどはてつやになりそうだ。いまのうちにせいぜいやすんでおこう。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It looks like overtime work ahead. For now I will do my utmost to relax.
+        html: |-
+          <span>It looks like overtime work ahead. For now I will </span><strong>do my utmost </strong><span>to relax. </span>
+        segments:
+          - text: 'It looks like overtime work ahead. For now I will '
+            grammar_highlight: false
+          - text: 'do my utmost '
+            grammar_highlight: true
+          - text: 'to relax. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Does anybody know where a good list of spoken versus writing style words (as the case seems to be here, with takadaka and seizei) can be found?
+    html: |-
+      Does anybody know where a good list of spoken versus writing style words (as the case seems to be here, with takadaka and seizei) can be found?
+    credits_raw: nks
+    content_sha256: 6ecfb54114f9fd80236bee5790ce28904d54e3f6d54089a6481889a1d3b0197f
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: hmm it would be 最長（さいちょう）instead of 最低（さいてい）. 最長⇔最短（さいたん）、最高（さいこう）⇔最低
+    html: hmm it would be 最長（さいちょう）instead of 最低（さいてい）. 最長⇔最短（さいたん）、最高（さいこう）⇔最低
+    credits_raw: Miki
+    content_sha256: 51bba70e9dfec23368a6df48ba1dbf0e8ceab0027deacbcba81476b46e62c0b3
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      You guys must mean 最悪の場合. You would not say さいていの場合、三日掛かる but could say さいてい三日掛かる, which would mean "takes the minimum of three days."The former says that it could be done in less than three days, but the latter would say it takes three days or more.
+    html: |-
+      You guys must mean 最悪の場合. You would not say さいていの場合、三日掛かる but could say さいてい三日掛かる, which would mean "takes the minimum of three days."The former says that it could be done in less than three days, but the latter would say it takes three days or more.
+    credits_raw: bamboo4
+    content_sha256: 4609647c3817c87cb03ec26fd91ee8f701759b31a04f68489483b9a6f4d4f5eb
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Note that せいぜい also has the meaning of "at th emost." For example, せいぜい３日もあればできる would mean "It can be done in about three days at the very outside," In this sense it has the meaning similar to たかだか.
+    html: |-
+      Note that せいぜい also has the meaning of "at th emost." For example, せいぜい３日もあればできる would mean "It can be done in about three days at the very outside," In this sense it has the meaning similar to たかだか.
+    credits_raw: bamboo4
+    content_sha256: 6a3b7f63a525f88888f7b363d6ec9e8a6f03fdd678c40ce9b3957d256c04653a
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: '''At the very outside''? I don''t understand this translation.'
+    html: '''At the very outside''? I don''t understand this translation.'
+    credits_raw: lupan
+    content_sha256: 770e07407b58ee7fffb02240b1665caa56f16b1c3162ea8b7b03a3ca906d677e
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      'At the very outside' means "at the worst". maybe literally, "on the border of what might and might not happen" 
+      -> さいていの場合、三日掛かる。
+    html: |-
+      'At the very outside' means "at the worst". maybe literally, "on the border of what might and might not happen" <br/>-&gt; さいていの場合、三日掛かる。
+    credits_raw: dc
+    content_sha256: 1506a558a03317b2ef3928304dda6b714efcdfd7d37ba69e602c281677b503a8
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      I thought "最低" also means "the worst". We would use it like "in the worst case, we will miss the deadline by one day". ie: you dont expect to, but...
+    html: |-
+      I thought "最低" also means "the worst". We would use it like "in the worst case, we will miss the deadline by one day". ie: you dont expect to, but...
+    credits_raw: dc
+    content_sha256: a401899b7f47d7f222785d7e33c4f1b07b0be69ab97771347bfdb3f6bee08949
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: 最低 can be "the worst" but it also could mean "minimum of"
+    html: 最低 can be "the worst" but it also could mean "minimum of"
+    credits_raw: bamboo4
+    content_sha256: d2c62191a38d55f2d7231c5fa99cd52a02c7e59c0f206fdbc6a4aa174a6949ea
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: I don't think "at the very outside" is correct English. I guess you mean "at most".
+    html: I don't think "at the very outside" is correct English. I guess you mean "at most".
+    credits_raw: Gaijin demonai
+    content_sha256: b34445aecef0932b29336dad6c5b7af76f46f86b51f2481ceca325159ff100db
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: I guess "at the very outside" is awkward, but I think "at the outside" should be acceptable.
+    html: I guess "at the very outside" is awkward, but I think "at the outside" should be acceptable.
+    credits_raw: bamboo4
+    content_sha256: 9431d991b9b7f9ebf3d8b508f0ab2de85416d4fc547b2b6fc2dc298bdd124bed
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      While I can't comment on any of the Japanese - "at the outside" is very informal in English. It refers to the expression "an outside chance" (a term from horseracing). So the first example would be better written: "If it's this type of work, there is an outside chance that it can be done in about three days."
+    html: |-
+      While I can't comment on any of the Japanese - "at the outside" is very informal in English. It refers to the expression "an outside chance" (a term from horseracing). So the first example would be better written: "If it's this type of work, there is an outside chance that it can be done in about three days."
+    credits_raw: andyclap
+    content_sha256: a647608e1be41d7f8cbd08912ba54bca9c2b751e1542785aa0f162ce314825f7
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      I have been told by a native speaker that "せいぜい" has a certain ironic or sarcastic tinge to it. It is used in the context of saying that someone "did their best", etc. in an ironic way, meaning it could have been done a bit better.
+    html: |-
+      I have been told by a native speaker that "せいぜい" has a certain ironic or sarcastic tinge to it. It is used in the context of saying that someone "did their best", etc. in an ironic way, meaning it could have been done a bit better.
+    credits_raw: somakevin
+    content_sha256: 61cd9e0bcf72c129b99833b5d1f2970286290fde2538cabf4a500a645af1f899
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: せいぜい三日もあれば出来る。−I can do it in atmost three days....... Correct me if I am wrong. Thanks
+    html: せいぜい三日もあれば出来る。−I can do it in atmost three days....... Correct me if I am wrong. Thanks
+    credits_raw: ashishjoshi
+    content_sha256: 326df22fea3bf1b0201f50ef1471c5cf24cf525c0eb81554e6d0d5abeedc8f4f
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 942
+    label: せめて
+    source_url: https://takoboto.jp/bunpo/942
+  - target_id: 1297
+    label: たかだか (高高)
+    source_url: https://takoboto.jp/bunpo/1297
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:45:57+00:00'
+response_sha256: 02cf4c40d514733758e4e23d7fa8b7fa834fcd493f9c76cdeb06849cab76593b
+warnings: []

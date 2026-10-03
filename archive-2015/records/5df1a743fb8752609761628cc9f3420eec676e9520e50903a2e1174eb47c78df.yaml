@@ -1,0 +1,55 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1663
+label: kakeru 2
+title_raw: 掛ける　２ [かける　２] (kakeru 2)
+title: 掛ける　２
+reading: かける　２
+romanized_label: kakeru 2
+category: grammar
+jlpt_level_original: '2'
+meaning: AT〜; TO〜
+meaning_example: 話しかける＝speak to/address （someone）;　笑いかける＝smile at/to
+credits_raw: deeana
+source_url: http://jgram.org/pages/viewOne.php?tagE=kakeru%202
+archive_url: https://web.archive.org/web/20150225003625id_/http://jgram.org/pages/viewOne.php?tagE=kakeru%202
+archive_timestamp: '20150225003625'
+retrieved_at: '2026-10-03T16:10:29+00:00'
+archive_digest: OKAGSEARTS2PSW35HDGECYXOL25N6YYE
+response_sha256: 1d0c537026bc5b37cb7c64e0352773fc408f96ee4d587a1b4676288a13843f2d
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "VBryk （ます）＋かける\n\r\n- a communicative action is directed toward someone \n\n\n\r\na).　彼は彼女に話しかけた。\n\r\nHe addressed/ started talking to her.\n\n\n\r\nb).彼女は彼に笑いかけた。\n\r\nShe smiled at him"
+    html: "VBryk （ます）＋かける<br/>\r\n- a communicative action is directed toward someone <br/>\n<br/>\r\na).　彼は彼女に話しかけた。<br/>\r\nHe addressed/ started talking to her.<br/>\n<br/>\r\nb).彼女は彼に笑いかけた。<br/>\r\nShe smiled at him <br/>\n<br/>\n<br/>\n<br/>"
+    credits_raw: deeana
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "掛ける　２ [かける　２] (kakeru 2)\n    Meaning: AT〜; TO〜 \n    Example: 話しかける＝speak to/address （someone）;　笑いかける＝smile at/to\n    JLPT Level: 2\n    Category: grammar\n    Author: deeana"
+    html: |-
+      <span>掛ける　２ [かける　２] (kakeru 2)</span><br/>    <span><b>Meaning</b>: AT〜; TO〜 </span><br/>    <b>Example</b>: <i>話しかける＝speak to/address （someone）;　笑いかける＝smile at/to</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>deeana</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225003625'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 101260409
+  length: 5019
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 94348b5561b87bf234047ffff15bfd1da0b948a567628c22fae60723f9d6172f

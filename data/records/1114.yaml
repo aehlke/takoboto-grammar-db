@@ -1,0 +1,121 @@
+schema_version: 2
+id: 1114
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1114/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: よもや
+romanized_label: yomoya
+alternate_forms: []
+jlpt_level: 2
+credits_raw: bamboo4
+meaning: surely not
+meaning_example: I never expected you would come
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1114
+    body_text: |-
+      surely not 
+       I never expected you would come
+    body_html: |-
+      <span>surely not</span> <br/> <span>I never expected you would come</span>
+    credits_raw: bamboo4
+formations: []
+examples:
+  - source_id: 3071
+    position: 0
+    japanese: よもやそんなことは有り得ない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%88%e3%82%82%e3%82%84"><strong>よもや</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%93%e3%81%aa%e3%81%93%e3%81%a8%e3%81%af"><span>そんなことは</span></a><a href="https://takoboto.jp/?q=%e6%9c%89%e3%82%8a"><span>有り</span></a><a href="https://takoboto.jp/?q=%e5%be%97%e3%81%aa%e3%81%84"><span>得ない</span></a>
+    segments:
+      - text: よもや
+        grammar_highlight: true
+      - text: そんなことは有り得ない
+        grammar_highlight: false
+    reading: よもやそんなことはありえない
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: That can't possbly be true!
+        html: |-
+          <span>That </span><strong>can't possbly </strong><span>be true! </span>
+        segments:
+          - text: 'That '
+            grammar_highlight: false
+          - text: 'can''t possbly '
+            grammar_highlight: true
+          - text: 'be true! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6484
+    position: 1
+    japanese: よもやそんなことはあるまい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%88%e3%82%82%e3%82%84"><strong>よもや</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%93%e3%81%aa%e3%81%93%e3%81%a8%e3%81%af%e3%81%82%e3%82%8b%e3%81%be%e3%81%84%e3%80%82"><span>そんなことはあるまい。</span></a>
+    segments:
+      - text: よもや
+        grammar_highlight: true
+      - text: そんなことはあるまい。
+        grammar_highlight: false
+    reading: よもやそんなことはあるまい。
+    credits_raw: Nyssa
+    translations:
+      - language: en
+        text: It is highly improbable.
+        html: |-
+          <span>It is highly improbable. </span>
+        segments:
+          - text: 'It is highly improbable. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8537
+    position: 2
+    japanese: 私はよもや彼女が有罪だとは思ってもみなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%82%82%e3%82%84"><strong>よもや</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c"><span>彼女が</span></a><a href="https://takoboto.jp/?q=%e6%9c%89%e7%bd%aa%e3%81%a0%e3%81%a8%e3%81%af"><span>有罪だとは</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%a6%e3%82%82%e3%81%bf%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>思ってもみなかった。</span></a>
+    segments:
+      - text: 私は
+        grammar_highlight: false
+      - text: よもや
+        grammar_highlight: true
+      - text: 彼女が有罪だとは思ってもみなかった。
+        grammar_highlight: false
+    reading: わたしはよもやかのじょがゆうざいだとはおもってもみなかった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I hadn`t the slightest suspicion of her guilt.
+        html: |-
+          <span>I hadn`t the slightest suspicion of her guilt. </span>
+        segments:
+          - text: 'I hadn`t the slightest suspicion of her guilt. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: よもや and まさか are interchangeable, but よもや I think is more critical about incredulity than まさか.
+    html: よもや and まさか are interchangeable, but よもや I think is more critical about incredulity than まさか.
+    credits_raw: bamboo4
+    content_sha256: 16abaa93ba7e418878adb9c8cfd5eaf6d4097b216d0bd5d93dd543d015417dcb
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Can よもや be used as a stand alone word (i.e. "I can't believe it!") the same way まさか can?
+    html: Can よもや be used as a stand alone word (i.e. "I can't believe it!") the same way まさか can?
+    credits_raw: vigokrell
+    content_sha256: 286cc6595dfa8bc8e407c8f6956b63dac2f560a1b92ae3efcaca6db34e910fd8
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:39:56+00:00'
+response_sha256: a30b1edce7f367de6e6a88d72c8736d0592925261b496b77df30a8bc9751a9bd
+warnings: []

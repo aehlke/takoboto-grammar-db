@@ -1,0 +1,185 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1110
+label: womonotomosezuni
+title_raw: 〜をものともせずに ([〜をものともせずに] )(womonotomosezuni)
+title: 〜をものともせずに
+reading: 〜をものともせずに
+romanized_label: womonotomosezuni
+category: grammar
+jlpt_level_original: '1'
+meaning: In the face of,  in defiance of, in spite of にもかかわらず
+meaning_example: 周囲の反対をものともせずに、二人は結婚した。
+credits_raw: watashi5000
+source_url: http://jgram.org/pages/viewOne.php?tagE=womonotomosezuni
+archive_url: https://web.archive.org/web/20150224225854id_/http://jgram.org/pages/viewOne.php?tagE=womonotomosezuni
+archive_timestamp: '20150224225854'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: 6F776TNMBA2C7JZBIZHWSOLHMRVYEPQH
+response_sha256: d36a1e9040e8b7fb48913a3dab5aed56c48886de7f4306f9bbdedb459c634755
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Ref #\x01 Kanzen Master Level 1 - p41 - no.38"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=womonotomosezuni#\x01\">#\x01</a></b></b> Kanzen Master Level 1 - p41 - no.38"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Ref #\x01 A Dictionary of Advanced Japanese Grammar p493"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=womonotomosezuni#\x01\">#\x01</a></b></b> A Dictionary of Advanced Japanese Grammar p493"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "NOUN ((or nominalized phrase)) + をものともせずに\n\r\nSometimes the に is omitted"
+    html: "NOUN ((or nominalized phrase)) + をものともせずに<br/>\r\nSometimes the に is omitted"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: |-
+      X をものともせずに "lit., without making something out of X" means that one does something bravely and fearlessly in spite of existing, unfavorable circumstances.
+    html: |-
+      X をものともせずに "lit., without making something out of X" means that one does something bravely and fearlessly in spite of existing, unfavorable circumstances.
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 3042
+    position: 0
+    japanese: 彼女は足の痛みをものともせずにマラソンを走り抜いた。
+    body_text: "彼女は足の痛みをものともせずにマラソンを走り抜いた。 \n\nUndaunted, \n\t\tdespite the pain in her legs, she finished her run in the marathon race."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女は足の痛みをものともせずにマラソンを走り抜いた。\">\n\t\t\t\t彼女は足の痛み<strong>をものともせずに</strong>マラソンを走り抜いた。<strong></strong></a> <br/>\n<strong>Undaunted, </strong>\n\t\tdespite the pain in her legs, she finished her run in the marathon race."
+    credits_raw: watashi5000
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3045
+    position: 1
+    japanese: 雪の深い道をものともせずそいつはひたすら車を駆った。
+    body_text: "雪の深い道をものともせずそいつはひたすら車を駆った。 \n\nWithout heed to \n\t\tthe road deeply covered with snow, he doggedly drove on."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ雪の深い道をものともせずそいつはひたすら車を駆った。\">\n雪の深い道を<strong>ものともせず</strong>そいつはひたすら車を駆った。<strong></strong></a> <br/>\n<strong>Without heed to </strong>\n\t\tthe road deeply covered with snow, he doggedly drove on."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3270
+    position: 2
+    japanese: 敵の攻撃を物ともせず部隊は突進した。
+    body_text: "敵の攻撃を物ともせず部隊は突進した。 \n\nHeedless of \n\t\tthe enemy advance, the troops charged."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ敵の攻撃を物ともせず部隊は突進した。\">\n敵の攻撃を<strong>物ともせず</strong>部隊は突進した。<strong></strong></a> <br/>\n<strong>Heedless of </strong>\n\t\tthe enemy advance, the troops charged."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3288
+    position: 3
+    japanese: 周囲の反対をものともせずに、二人は結婚した。
+    body_text: "周囲の反対をものともせずに、二人は結婚した。 \n\nin defiance of \n\t\teveryone around them, the two of them got married."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ周囲の反対をものともせずに、二人は結婚した。\">\n\t\t\t\t周囲の反対をも<strong>のともせずに</strong>、二人は結婚した。<strong></strong></a> <br/>\n<strong>in defiance of </strong>\n\t\teveryone around them, the two of them got married."
+    credits_raw: dc
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3349
+    position: 4
+    japanese: 寒さをものともせずに、彼は薄着で外出した
+    body_text: "寒さをものともせずに、彼は薄着で外出した\r \n\n\t\tMaking nothing of the cold he went out in thin clothes."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ寒さをものともせずに、彼は薄着で外出した\">\n\t\t\t\t寒さ<strong>をものともせずに</strong>、彼は薄着で外出した\r<strong></strong></a> <br/>\n\t\tMaking nothing of the cold he went out in thin clothes. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3350
+    position: 5
+    japanese: 氷のような水をものともせずに彼は川へ飛びこんだ
+    body_text: "氷のような水をものともせずに彼は川へ飛びこんだ\r \n\n\t\tHe jumped into the river in defiance of the icy water."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ氷のような水をものともせずに彼は川へ飛びこんだ\">\n\t\t\t\t氷のような水<strong>をものともせずに</strong>彼は川へ飛びこんだ\r<strong></strong></a> <br/>\n\t\tHe jumped into the river in defiance of the icy water. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3351
+    position: 6
+    japanese: そのおてんば娘は危険をものともせずにその木に登った
+    body_text: "そのおてんば娘は危険をものともせずにその木に登った\r \n\n\t\tThe reckless girl climbed the tree regardless of danger."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJそのおてんば娘は危険をものともせずにその木に登った\">\n\t\t\t\tそのおてんば娘は危険<strong>をものともせずに</strong>その木に登った\r<strong></strong></a> <br/>\n\t\tThe reckless girl climbed the tree regardless of danger. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7273
+    position: 7
+    japanese: 立木さんは病気をものともせずにレースを走り切って勝った。
+    body_text: "立木さんは病気をものともせずにレースを走り切って勝った。 \n\n\t\tTachiki won and completely ran the race \n\t\tin spite of \n\t\ther illness."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ立木さんは病気をものともせずにレースを走り切って勝った。\">\n立木さんは病気<strong>をものともせずに</strong>レースを走り切って勝った。<strong></strong></a> <br/>\n\t\tTachiki won and completely ran the race \n\t\t<strong>in spite of </strong>\n\t\ther illness."
+    credits_raw: IMABI
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: "added a translation and some see also links.\n\r\nbe nice to know subtelties between this and \x01"
+    html: "added a translation and some see also links.<br/>\r\nbe nice to know subtelties between this and <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: perhaps others are "despite" whereas this is a much stronger "in defiance of/against all odds" type phrase...
+    html: perhaps others are "despite" whereas this is a much stronger "in defiance of/against all odds" type phrase...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Rob
+    text: I think it also means 'regardless'; behaving as though the obstacle or whatever isn't actually there.
+    html: I think it also means 'regardless'; behaving as though the obstacle or whatever isn't actually there.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      〜をものともせずに ([〜をものともせずに] )(womonotomosezuni)
+          Meaning: In the face of,  in defiance of, in spite of にもかかわらず
+          Example: 周囲の反対をものともせずに、二人は結婚した。
+          JLPT Level: 1
+          Category: grammar
+          Author: watashi5000
+    html: |-
+      <span>〜をものともせずに ([〜をものともせずに] )(womonotomosezuni)</span><br/>    <span><b>Meaning</b>: In the face of,  in defiance of, in spite of にもかかわらず</span><br/>    <b>Example</b>: <i>周囲の反対をものともせずに、二人は結婚した。</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>watashi5000</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225854'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 7576790
+  length: 6312
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 23aa3b7a2c9504134c557f818b3291841411af5f72d7787f7d42fc55abc913f9

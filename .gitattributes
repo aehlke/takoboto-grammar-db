@@ -2,3 +2,8 @@
 tests/fixtures/* -text -whitespace
 # Reader pages retain source whitespace and Markdown hard line breaks.
 markdown/** -whitespace
+# Literal source text preserves original spaces and tabs.
+data/records/*.yaml -whitespace
+archive-data/records/*.yaml -whitespace
+archive-data/feeds/*.yaml -whitespace
+archive-2015/records/*.yaml -whitespace

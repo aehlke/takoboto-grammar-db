@@ -1,0 +1,74 @@
+# Canonical YAML records
+
+Entry records live in `data/records/*.yaml`, `archive-data/records/*.yaml`
+and `archive-2015/records/*.yaml`. Original RSS records use
+`archive-data/feeds/*.yaml`. The packaged manual scope decisions live in
+`src/takoboto_grammar/grammar-membership.yaml`.
+
+Each observation has one canonical content file. Markdown is an optional local
+rendering; SQLite is the queryable release artifact. Neither generated format
+is committed to Git. Indexes, verification states, request reports and earlier
+QA reports remain JSON metadata, separate from the content records.
+
+## Formatting and preservation
+
+The writer preserves field and list order, emits Japanese directly, and uses
+literal `|`, `|-` or `|+` blocks for multiline text and HTML. Those block markers
+retain the original trailing-newline count. Source trailing spaces are retained,
+not trimmed. `.gitattributes` disables Git whitespace warnings for these data
+paths, whose literal blocks preserve source whitespace. Carriage returns, control characters and special Unicode line
+separators use quoted escapes where necessary to preserve their exact values.
+Long strings are not arbitrarily rewrapped between runs.
+
+Date-like and numeric-looking strings are quoted; IDs, positions, booleans and
+null retain their original types. Quote such strings when editing YAML by hand.
+The reader rejects duplicate keys and non-record types, including implicitly
+constructed date objects. It uses a safe loader and validates the value tree.
+Generated files avoid anchors and aliases. Every write validates a lossless
+roundtrip before replacing the target. Identical serialized content leaves the
+existing file and its modification time untouched.
+
+For example:
+
+```yaml
+id: 725
+romanized_label: ga-2
+meaning: but, however, still
+original_created_at: null
+archive_timestamp: '20200215021200'
+body_html: |-
+  <span>Meaning with <strong>emphasis</strong>.</span>
+```
+
+The existing record schemas are unchanged: current schema 2, historical schema
+1, RSS schema 1 and SQLite schema 3. SQLite `record_json` fields remain JSON
+interchange representations of the complete parsed YAML records. Verification
+hashes also remain canonical JSON hashes of parsed values. YAML layout and
+quoting do not invalidate source evidence or silently lift review holds.
+
+## Older checkouts
+
+The readers still accept legacy `.json` records. Having both `.yaml` and
+`.json` for the same record is an error; one cannot silently shadow the other.
+New scrape writes always use YAML and move a superseded legacy JSON file to a
+fresh directory under `~/.Trash` after the YAML replacement succeeds.
+
+Convert an existing dataset offline, without scraping:
+
+```sh
+uv sync --locked
+uv run --locked takoboto-grammar migrate-yaml \
+  --input data --input archive-data --input archive-2015
+```
+
+All input content is parsed and serialized before conversion begins. Source
+files and existing YAML destinations are checked before replacement. Superseded
+JSON files are retained together in a fresh Trash directory. If conversion is
+interrupted, rerun the command; mixed directories of distinct YAML and legacy
+JSON records remain readable. Already converted files are not rewritten. If interruption leaves both formats
+for a record, migration retires JSON only after proving their parsed values match;
+conflicting copies require review and are never resolved by choosing one silently.
+
+After migration, review the Git diff and build fresh exports with the normal
+`build` command. Source audits still require the local ignored raw caches;
+offline exports need only the committed records and verification metadata.

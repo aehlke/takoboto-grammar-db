@@ -1,0 +1,297 @@
+schema_version: 2
+id: 1270
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1270/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: からいうと
+romanized_label: karaiuto
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: from the standpoint of
+meaning_example: from the grammar point of view, chinese is easy
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1270
+    body_text: |-
+      from the standpoint of 
+       from the grammar point of view, chinese is easy
+    body_html: |-
+      <span>from the standpoint of</span> <br/> <span>from the grammar point of view, chinese is easy</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1270
+    body_text: Noun+からいうと
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>からいうと</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + からいうと
+examples:
+  - source_id: 611
+    position: 0
+    japanese: 価格から言えば日本の方が高い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%be%a1%e6%a0%bc"><span>価格</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e8%a8%80%e3%81%88%e3%81%b0"><strong>から言えば</strong></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ae"><span>日本の</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c"><span>方が</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84%e3%80%82"><span>高い。</span></a>
+    segments:
+      - text: 価格
+        grammar_highlight: false
+      - text: から言えば
+        grammar_highlight: true
+      - text: 日本の方が高い。
+        grammar_highlight: false
+    reading: かかくからいえばにほんのほうがたかい。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: On the basis of prices, Japan is more expensive.
+        html: |-
+          <strong>On the basis of </strong><span>prices, Japan is more expensive. </span>
+        segments:
+          - text: 'On the basis of '
+            grammar_highlight: true
+          - text: 'prices, Japan is more expensive. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3431
+    position: 1
+    japanese: エコロジーの視点からいうと、南極は観光や商業的な探索ではなく、研究のみに利用されるべきである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a8%e3%82%b3%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%ae"><span>エコロジーの</span></a><a href="https://takoboto.jp/?q=%e8%a6%96%e7%82%b9"><span>視点</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%84%e3%81%86%e3%81%a8"><strong>からいうと</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%8d%97%e6%a5%b5%e3%81%af"><span>南極は</span></a><a href="https://takoboto.jp/?q=%e8%a6%b3%e5%85%89%e3%82%84"><span>観光や</span></a><a href="https://takoboto.jp/?q=%e5%95%86%e6%a5%ad%e7%9a%84%e3%81%aa"><span>商業的な</span></a><a href="https://takoboto.jp/?q=%e6%8e%a2%e7%b4%a2%e3%81%a7%e3%81%af%e3%81%aa%e3%81%8f%e3%80%81"><span>探索ではなく、</span></a><a href="https://takoboto.jp/?q=%e7%a0%94%e7%a9%b6%e3%81%ae%e3%81%bf%e3%81%ab"><span>研究のみに</span></a><a href="https://takoboto.jp/?q=%e5%88%a9%e7%94%a8%e3%81%95%e3%82%8c%e3%82%8b%e3%81%b9%e3%81%8d%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>利用されるべきである。</span></a>
+    segments:
+      - text: エコロジーの視点
+        grammar_highlight: false
+      - text: からいうと
+        grammar_highlight: true
+      - text: 、南極は観光や商業的な探索ではなく、研究のみに利用されるべきである。
+        grammar_highlight: false
+    reading: エコロジーのしてんからいうと、なんきょくはかんこうやしょうぎょうてきなたんさくではなく、けんきゅうのみにりようされるべきである。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: |-
+          From the standpoint of ecology, Antarctica should be reserved solely to research, not to tourism or to commercial exploration.
+        html: |-
+          <strong>From the </strong><span>standpoint of ecology, </span><span>Antarctica should be reserved solely to research, not to tourism or to commercial exploration. </span>
+        segments:
+          - text: 'From the '
+            grammar_highlight: true
+          - text: 'standpoint of ecology, Antarctica should be reserved solely to research, not to tourism or to commercial exploration. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3432
+    position: 2
+    japanese: 建築デザインの立場からいうと、このアプローチにはもっと多くの代案が考えられる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bb%ba%e7%af%89%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%81%ae"><span>建築デザインの</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e5%a0%b4"><span>立場</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%84%e3%81%86%e3%81%a8"><strong>からいうと</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%93%e3%81%ae%e3%82%a2%e3%83%97%e3%83%ad%e3%83%bc%e3%83%81%e3%81%ab%e3%81%af%e3%82%82%e3%81%a3%e3%81%a8"><span>、このアプローチにはもっと</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%8f%e3%81%ae"><span>多くの</span></a><a href="https://takoboto.jp/?q=%e4%bb%a3%e6%a1%88%e3%81%8c"><span>代案が</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%89%e3%82%8c%e3%82%8b%e3%80%82"><span>考えられる。</span></a>
+    segments:
+      - text: 建築デザインの立場
+        grammar_highlight: false
+      - text: からいうと
+        grammar_highlight: true
+      - text: 、このアプローチにはもっと多くの代案が考えられる。
+        grammar_highlight: false
+    reading: けんちくデザインのたちばからいうと、このアプローチにはもっとおおくのだいあんがかんがえられる。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: From the standpoint of architectural design, there can be more alternatives to this approach.
+        html: |-
+          <span>From the standpoint of architectural design, there can be more alternatives to this approach. </span>
+        segments:
+          - text: 'From the standpoint of architectural design, there can be more alternatives to this approach. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6368
+    position: 3
+    japanese: 文法からいうと、ウクライナ語ほど難しい言葉はない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%96%87%e6%b3%95"><span>文法</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%84%e3%81%86%e3%81%a8"><strong>からいうと</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%82%a6%e3%82%af%e3%83%a9%e3%82%a4%e3%83%8a%e8%aa%9e%e3%81%bb%e3%81%a9%e9%9b%a3%e3%81%97%e3%81%84%e8%a8%80%e8%91%89%e3%81%af%e3%81%aa%e3%81%84%e3%80%82"><span>、ウクライナ語ほど難しい言葉はない。</span></a>
+    segments:
+      - text: 文法
+        grammar_highlight: false
+      - text: からいうと
+        grammar_highlight: true
+      - text: 、ウクライナ語ほど難しい言葉はない。
+        grammar_highlight: false
+    reading: ぶんぽうからいうと、ウクライナごほどむずかしいことばはない。
+    credits_raw: MightyAtom
+    translations:
+      - language: en
+        text: From the  standpoint of grammar, there is no more difficult language than Ukrainian.
+        html: |-
+          <strong>From the </strong><span> standpoint of grammar, there is no more difficult language than Ukrainian. </span>
+        segments:
+          - text: 'From the '
+            grammar_highlight: true
+          - text: ' standpoint of grammar, there is no more difficult language than Ukrainian. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6957
+    position: 4
+    japanese: 顔からいうと、彼女がミス日本になると思います。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a1%94"><span>顔</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%84%e3%81%86%e3%81%a8"><strong>からいうと</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c%e3%83%9f%e3%82%b9"><span>彼女がミス</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%a8"><span>日本になると</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>思います。</span></a>
+    segments:
+      - text: 顔
+        grammar_highlight: false
+      - text: からいうと
+        grammar_highlight: true
+      - text: 、彼女がミス日本になると思います。
+        grammar_highlight: false
+    reading: かおからいうと、かのじょがミスにほんになるとおもいます。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: Judging by her face, I think she will become the next Miss Japan.
+        html: |-
+          <strong>Judging by </strong><span>her face, </span><span>I think she will become the next Miss Japan. </span>
+        segments:
+          - text: 'Judging by '
+            grammar_highlight: true
+          - text: 'her face, I think she will become the next Miss Japan. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6956
+    position: 5
+    japanese: 現状から言って、直ちにその計画を実行するのは無理だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%8f%be%e7%8a%b6"><span>現状</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e8%a8%80%e3%81%a3%e3%81%a6"><strong>から言って</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%9b%b4%e3%81%a1%e3%81%ab%e3%81%9d%e3%81%ae"><span>直ちにその</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%82%92"><span>計画を</span></a><a href="https://takoboto.jp/?q=%e5%ae%9f%e8%a1%8c%e3%81%99%e3%82%8b%e3%81%ae%e3%81%af"><span>実行するのは</span></a><a href="https://takoboto.jp/?q=%e7%84%a1%e7%90%86%e3%81%a0%e3%80%82"><span>無理だ。</span></a>
+    segments:
+      - text: 現状
+        grammar_highlight: false
+      - text: から言って
+        grammar_highlight: true
+      - text: 、直ちにその計画を実行するのは無理だ。
+        grammar_highlight: false
+    reading: げんじょうからいって、ただちにそのけいかくをじっこうするのはむりだ。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: From the existing state, it is impossible to realize this project immediately.
+        html: |-
+          <strong>From the </strong><span>existing state, </span><span>it is impossible to realize this project immediately. </span>
+        segments:
+          - text: 'From the '
+            grammar_highlight: true
+          - text: 'existing state, it is impossible to realize this project immediately. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: noun + からいうと
+    html: noun + からいうと
+    credits_raw: rochin
+    content_sha256: b5999165dcdb3be208494def4a3f7fd8a1491e6501fbbf07ef86edefa0788c4d
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: -からいえば/-からいって are also used instead of -からいうとbutthe meaning is same
+    html: -からいえば/-からいって are also used instead of -からいうとbutthe meaning is same
+    credits_raw: rochin
+    content_sha256: 12cc2e9563cc85045e05a93dae7e168b8a80352f864f452e5e134153180a6276
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: This is a bit like "point of view" but more based on an angle of the problem than the viewer.
+    html: This is a bit like "point of view" but more based on an angle of the problem than the viewer.
+    credits_raw: dc
+    content_sha256: 38dfa502eecac25bd68360fe976dc9d24f1f017f77be616990cc3fbda9f5ae6e
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      So, it's just like [上]?
+      計算から言えばこれで正しい is a correct sentence?
+    html: |-
+      So, it's just like [上]?<br/>計算から言えばこれで正しい is a correct sentence?
+    credits_raw: Jordi
+    content_sha256: 64cf3696945c8f0a45a1c2c36fccb655bbc2fd6a3d52328894330711d70584b6
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Yes, it is. You can also say like 計算上(で)は、これで正しい。hmm it's just like 上.
+    html: Yes, it is. You can also say like 計算上(で)は、これで正しい。hmm it's just like 上.
+    credits_raw: Miki
+    content_sha256: c8052fe9cc284b803249df163b08238a47c6b6136f10ce16b5bb9b6c277db256
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      is that 上 a [uede] or [jyoude] ? I guess from the example it is uede, which i thought was more "upon" than "based on" - ie implying a careful thought and conclusion. whereas "based on" is more like a conclusion is obvious, based on the information... is there that same difference in japanese or are they the same?
+    html: |-
+      is that 上 a [uede] or [jyoude] ? I guess from the example it is uede, which i thought was more "upon" than "based on" - ie implying a careful thought and conclusion. whereas "based on" is more like a conclusion is obvious, based on the information... is there that same difference in japanese or are they the same?
+    credits_raw: your name
+    content_sha256: 9f7133621db32e6f2cf5880fed9b67a64bd34b87f5c89e877f06f643dd297428
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: 計算上(jou)（で）は、or 計算の上(ue)では
+    html: 計算上(jou)（で）は、or 計算の上(ue)では
+    credits_raw: Miki
+    content_sha256: 1d94d986dc20a2331e6a6412049fe92fc14bacc90144cc4b940d64f7666ae345
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      Please see [uede].
+      I don't think からいうと implys a careful thought and conclusion.
+    html: |-
+      Please see [uede].<br/>I don't think からいうと implys a careful thought and conclusion.
+    credits_raw: Miki
+    content_sha256: 76703ad7f592ae089d3d369b81d0011be01fe6fb6a865d95fd81676415ec709f
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: 計算から言えばこれで正しい is somewhat awkward - 計算からするとこれで正しい is preferable.
+    html: 計算から言えばこれで正しい is somewhat awkward - 計算からするとこれで正しい is preferable.
+    credits_raw: bamboo4
+    content_sha256: f45079b53e5879424a4666b313145196702515007eaaec9cbd0b6752f6ab39ae
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: 'I think #6368 meant to say 言語 instead of 言葉'
+    html: 'I think #6368 meant to say 言語 instead of 言葉'
+    credits_raw: razortm
+    content_sha256: f9f027b86c2ef68f4fac3144e3cf78f1c6c039861d664ea7f4471674d7e77ca5
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: hey razortm, I`ve heard 言語 and 言葉 both used to mean language.
+    html: hey razortm, I`ve heard 言語 and 言葉 both used to mean language.
+    credits_raw: tigert
+    content_sha256: 6aff878948217b64a2f59464faf74710cddd57401f557adb0cc29b0ab24afc28
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1271
+    label: から見ると
+    source_url: https://takoboto.jp/bunpo/1271
+  - target_id: 614
+    label: からすると
+    source_url: https://takoboto.jp/bunpo/614
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:42:16+00:00'
+response_sha256: d51d5613bbbefcf122e60b9a3ecfb5cb189479014625930bdff9b1095bc7b3b4
+warnings: []

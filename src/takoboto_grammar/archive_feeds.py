@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from .archive import CDX, GRAMMAR_FEEDS, ArchiveAccessError, allowed_archive_url, original_label
 from .crawl import now
 from .parser import LICENSE, ParseError, cc_license_links, is_data_license, fragment, text
-from .storage import write_json, record_digest
+from .storage import write_json, write_record, record_digest
 
 
 def feed_replay(url):
@@ -122,7 +122,7 @@ def crawl_feeds(fetcher, verified_labels):
             record = parse_feed(raw, selected, meta, verified_labels)
             record['indexed_capture_count'] = len(captures)
             record['index_response_sha256'] = index_meta['sha256']
-            write_json(fetcher.root, f"feeds/{path.rsplit('/', 1)[-1][:-4]}.json", record)
+            write_record(fetcher.root, f"feeds/{path.rsplit('/', 1)[-1][:-4]}.yaml", record)
             state.update(status='review_required' if record['review_required'] or record['warnings'] else 'parsed',
                          response_sha256=record['response_sha256'], archive_url=record['archive_url'],
                          record_sha256=record_digest(record))

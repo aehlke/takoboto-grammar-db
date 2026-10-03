@@ -1,0 +1,64 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1637
+label: soreni
+title_raw: それに ([それに] )(soreni)
+title: それに
+reading: それに
+romanized_label: soreni
+category: grammar
+jlpt_level_original: '0'
+meaning: moreover, and what's more そのうえ
+meaning_example: The price of food in this restaurant is cheap moreover food is delicious.
+credits_raw: makara
+source_url: http://jgram.org/pages/viewOne.php?tagE=soreni
+archive_url: https://web.archive.org/web/20150224225712id_/http://jgram.org/pages/viewOne.php?tagE=soreni
+archive_timestamp: '20150224225712'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: NRDPQAJXZYQTNRC5TU5DZADQ7KB6P5V6
+response_sha256: 08d8ffd10d92b595dacfa7b57ef6a01879504f9c8cf2348bfef20481cba33f3e
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 6640
+    position: 0
+    japanese: The city that I live in is small,and moreover, it is very quiet.
+    body_text: "The city that I live in is small,and moreover, it is very quiet. \r \n\n\t\t住んでいる市は小さいし、それにとても静かな市です。"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJThe city that I live in is small,and moreover, it is very quiet. \">\n\t\t\t\tThe city that I live in is small,and moreover, it is very quiet. \r<strong></strong><strong></strong></a> <br/>\n\t\t住んでいる市は小さいし、それにとても静かな市です。 \n\t\t<strong> </strong>"
+    credits_raw: ryuumegami06
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      それに ([それに] )(soreni)
+          Meaning: moreover, and what's more そのうえ
+          Example: The price of food in this restaurant is cheap moreover food is delicious.
+          JLPT Level: 0
+          Category: grammar
+          Author: makara
+    html: |-
+      <span>それに ([それに] )(soreni)</span><br/>    <span><b>Meaning</b>: moreover, and what's more そのうえ</span><br/>    <b>Example</b>: <i>The price of food in this restaurant is cheap moreover food is delicious.</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>makara</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225712'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 5809094
+  length: 5045
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: a462ddfef801594864ba976bf8a426751b3f5c71faf0a66a372625c9756cef38

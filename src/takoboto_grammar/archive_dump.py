@@ -12,7 +12,6 @@ import io
 import json
 import re
 import time
-import tempfile
 from collections import defaultdict
 from pathlib import Path
 from urllib.error import HTTPError
@@ -24,7 +23,7 @@ from .archive import ArchiveAccessError, ArchiveFetcher, original_label
 from .archive_parser import parse_archive, NotGrammar, LicenseReviewRequired
 from .crawl import now
 from .http import HttpxOpener, RequestPacer
-from .storage import output_root, safe_target, write_json, cache_response, record_digest, read_archive_state
+from .storage import output_root, safe_target, write_json, write_record, cache_response, record_digest, read_archive_state, move_to_trash
 
 ITEM = 'archiveteam_archivebot_go_20150302130001'
 WARC = 'jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz'
@@ -332,13 +331,12 @@ def crawl_dump(fetcher, inventory, eligible_ids=(), labels=None, limit=None):
                             'index_sha256': inventory['index_sha256'], 'member_sha256': member_hash})
                     state.update(status='review_required' if record['warnings'] else 'parsed', record_sha256=record_digest(record))
                     folder = 'review-records' if record['warnings'] else 'records'
-                    write_json(fetcher.root, f'{folder}/{key}.json', record)
+                    write_record(fetcher.root, f'{folder}/{key}.yaml', record)
                     if record['warnings']:
-                        old = safe_target(fetcher.root, f'records/{key}.json')
-                        if old.exists():
-                            trash = output_root(Path.home() / '.Trash')
-                            destination = Path(tempfile.mkdtemp(prefix='jgram-held-record-', dir=trash))
-                            old.replace(safe_target(destination, old.name))
+                        for suffix in ('yaml', 'json'):
+                            old = safe_target(fetcher.root, f'records/{key}.{suffix}')
+                            if old.exists():
+                                move_to_trash(old, 'jgram-held-record-')
                     report['review_required' if record['warnings'] else 'parsed'].append({'label': label, 'id': record['id']})
                 except NotGrammar as exc:
                     state.update(status='excluded', reason=str(exc))

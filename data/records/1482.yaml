@@ -1,0 +1,224 @@
+schema_version: 2
+id: 1482
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1482/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 予定
+romanized_label: yotei
+alternate_forms:
+  - よてい
+jlpt_level: 3
+credits_raw: ramu
+meaning: be planning to do~
+meaning_example: i am planning to go back to my country at the end of june
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1482
+    body_text: |-
+      be planning to do~ 
+       i am planning to go back to my country at the end of june
+    body_html: |-
+      <span>be planning to do~</span> <br/> <span>i am planning to go back to my country at the end of june</span>
+    credits_raw: ramu
+formations: []
+examples:
+  - source_id: 5002
+    position: 0
+    japanese: これはあくまでも予定以外のなにものでもない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af%e3%81%82%e3%81%8f%e3%81%be%e3%81%a7%e3%82%82"><span>これはあくまでも</span></a><a href="https://takoboto.jp/?q=%e4%ba%88%e5%ae%9a"><strong>予定</strong></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e5%a4%96%e3%81%ae%e3%81%aa%e3%81%ab%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84%e3%80%82"><span>以外のなにものでもない。</span></a>
+    segments:
+      - text: これはあくまでも
+        grammar_highlight: false
+      - text: 予定
+        grammar_highlight: true
+      - text: 以外のなにものでもない。
+        grammar_highlight: false
+    reading: これはあくまでもよていいがいのなにものでもない。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: This is only a plan and nothing more than that.
+        html: |-
+          <span>This is only </span><strong>a plan </strong><span>and nothing more than that. </span>
+        segments:
+          - text: 'This is only '
+            grammar_highlight: false
+          - text: 'a plan '
+            grammar_highlight: true
+          - text: 'and nothing more than that. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5240
+    position: 1
+    japanese: 明日この宿題を終わる予定です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%98%8e%e6%97%a5%e3%81%93%e3%81%ae"><span>明日この</span></a><a href="https://takoboto.jp/?q=%e5%ae%bf%e9%a1%8c%e3%82%92"><span>宿題を</span></a><a href="https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%82%8b"><span>終わる</span></a><a href="https://takoboto.jp/?q=%e4%ba%88%e5%ae%9a"><strong>予定</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82"><span>です。</span></a>
+    segments:
+      - text: 明日この宿題を終わる
+        grammar_highlight: false
+      - text: 予定
+        grammar_highlight: true
+      - text: です。
+        grammar_highlight: false
+    reading: あしたこのしゅくだいをおわるよていです。
+    credits_raw: eastmael
+    translations:
+      - language: en
+        text: I plan to finish this assignment tomorrow.
+        html: |-
+          <span>I </span><strong>plan </strong><span>to finish this assignment tomorrow. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'plan '
+            grammar_highlight: true
+          - text: 'to finish this assignment tomorrow. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7026
+    position: 2
+    japanese: 来週帰国する予定です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9d%a5%e9%80%b1%e5%b8%b0%e5%9b%bd%e3%81%99%e3%82%8b"><span>来週帰国する</span></a><a href="https://takoboto.jp/?q=%e4%ba%88%e5%ae%9a"><strong>予定</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82"><span>です。</span></a>
+    segments:
+      - text: 来週帰国する
+        grammar_highlight: false
+      - text: 予定
+        grammar_highlight: true
+      - text: です。
+        grammar_highlight: false
+    reading: らいしゅうきこくするよていです。
+    credits_raw: ママ
+    translations:
+      - language: en
+        text: I plan to go back to my home country next week.
+        html: |-
+          <strong>I plan to </strong><span>go back to my home country next week. </span>
+        segments:
+          - text: 'I plan to '
+            grammar_highlight: true
+          - text: 'go back to my home country next week. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8846
+    position: 3
+    japanese: 来年彼女と結婚する予定です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9d%a5%e5%b9%b4%e5%bd%bc%e5%a5%b3%e3%81%a8%e7%b5%90%e5%a9%9a%e3%81%99%e3%82%8b%e4%ba%88%e5%ae%9a%e3%81%a7%e3%81%99%e3%80%82"><span>来年彼女と結婚する予定です。</span></a>
+    segments:
+      - text: 来年彼女と結婚する予定です。
+        grammar_highlight: false
+    reading: らいねんかのじょとけっこんするよていです。
+    credits_raw: null
+    translations:
+      - language: en
+        text: next year I am planning to marry her.
+        html: |-
+          <span>next year I am planning to marry her. </span>
+        segments:
+          - text: 'next year I am planning to marry her. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 予定 is a vocab and not a grammar entry. Although I provided an example, this item should be deleted.
+    html: 予定 is a vocab and not a grammar entry. Although I provided an example, this item should be deleted.
+    credits_raw: bamboo4
+    content_sha256: 3b0bb6cc0e3c6eb0f80785b8715e628949cd147543164c20c3d38b10eb987d92
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      来週帰国する嵐閧ﾅす。 [ex #7026]
+      I plan to go back to my home country next month. 
+
+      The kanji "next week" is used here. ^^;
+    html: |-
+      来週帰国する嵐閧ﾅす。 [ex #7026]<br/>I plan to go back to my home country next month. <br/><br/>The kanji "next week" is used here. ^^;
+    credits_raw: mireille
+    content_sha256: 53bf54881a22ec1e6a35a0a864a84df764c6b4ff2db5584c44c165f11a7ab43b
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      i guess you're right, although つもり often comes up as a grammar item. the usage is different too.
+
+      行くつもりがあります
+      行く予定です。
+
+      合ってる？
+    html: |-
+      i guess you're right, although つもり often comes up as a grammar item. the usage is different too.<br/><br/>行くつもりがあります<br/>行く予定です。<br/><br/>合ってる？
+    credits_raw: dc
+    content_sha256: 941e0f7c083d2060677f491e8472d6fb31d2304262fd6f5163051ada3efbfae5
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      I also have come across つもり and 予定 during class studies. If I recall correctly, つもり can only be used to discuss yourself whereas 予定 can be used to discuss yourself or others.
+    html: |-
+      I also have come across つもり and 予定 during class studies. If I recall correctly, つもり can only be used to discuss yourself whereas 予定 can be used to discuss yourself or others.
+    credits_raw: yookoso
+    content_sha256: 4a596692b65d729298cd056680c755d350b79184d367d52da35d69812e5e97fc
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Yes, dc, you are correct. yookoo is also correct in that つもり is essentuially used to express one's intentions, but you have to say that is not necessarily absolute. When you ask a question like あなたは行くつもりですか？ "tumori" in that context is not your own but somebody else's so that it is esentially equivalent to あなたは行く予定ですか？.
+
+      The example I gave for 予定,however, cannot be replaced by つもり.
+    html: |-
+      Yes, dc, you are correct. yookoo is also correct in that つもり is essentuially used to express one's intentions, but you have to say that is not necessarily absolute. When you ask a question like あなたは行くつもりですか？ "tumori" in that context is not your own but somebody else's so that it is esentially equivalent to あなたは行く予定ですか？.<br/><br/>The example I gave for 予定,however, cannot be replaced by つもり.
+    credits_raw: bamboo4
+    content_sha256: b2ab050197578760b93ab112a4a05f84883509256028b4bfd1fbbdcfc1e17191
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: I have given examples of つもり included in "See Also."
+    html: I have given examples of つもり included in "See Also."
+    credits_raw: bamboo4
+    content_sha256: e03bd9ca220deeccb2c63a0a5c8282933ba1dc806aa5397b20c2bc3c2387e18b
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      Tsumori can also be used to describe the state of mind...
+      美味しい煎餅を食べたつもりです。 in the state of mind like I ate a delicious cookie.
+    html: |-
+      Tsumori can also be used to describe the state of mind...<br/>美味しい煎餅を食べたつもりです。 in the state of mind like I ate a delicious cookie.
+    credits_raw: Campbell
+    content_sha256: e38b7538dc19af805f57b692f116d7de013c9602a0844e75c37f8451557244e9
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: If 予定 is to be deleted from this page, then つもり has to go too
+    html: If 予定 is to be deleted from this page, then つもり has to go too
+    credits_raw: twomori
+    content_sha256: 025453e4646b7875507b29a119bfdd1c5d0168492131224d8fd8f28ec27f9f95
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1483
+    label: つもり (積もり・積り)
+    source_url: https://takoboto.jp/bunpo/1483
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:35:00+00:00'
+response_sha256: ef7e70007f93c8f98d2b2a80def04dddd639f395e11f93936b6a88a1041a86d5
+warnings: []

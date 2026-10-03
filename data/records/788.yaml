@@ -1,0 +1,148 @@
+schema_version: 2
+id: 788
+source: takoboto
+source_url: https://takoboto.jp/bunpo/788/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: より
+romanized_label: yori-2
+alternate_forms: []
+jlpt_level: 4
+credits_raw: Amatuka
+meaning: more ____
+meaning_example: Don't you know a better method?
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_788
+    body_text: |-
+      more ____ 
+       Don't you know a better method?
+    body_html: |-
+      <span>more ____</span> <br/> <span>Don't you know a better method?</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_788
+    body_text: より+Something
+    body_html: |-
+      <div><div><div>より</div></div><div><div>+</div><div>Something</div></div></div>
+    credits_raw: null
+formations:
+  - より + Something
+examples:
+  - source_id: 918
+    position: 0
+    japanese: よりいい方法知りませんか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%88%e3%82%8a"><strong>より</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%84"><span>いい</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e6%b3%95%e7%9f%a5%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b%e3%80%82"><span>方法知りませんか。</span></a>
+    segments:
+      - text: より
+        grammar_highlight: true
+      - text: いい方法知りませんか。
+        grammar_highlight: false
+    reading: よりいいほうほうしりませんか。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Don't you know a better method?
+        html: |-
+          <span>Don't you know a better method? </span>
+        segments:
+          - text: 'Don''t you know a better method? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4769
+    position: 1
+    japanese: あなたと会って、より一層あなたのことが好きになりました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%a8"><span>あなたと</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e3%81%a3%e3%81%a6%e3%80%81"><span>会って、</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%82%8a"><strong>より</strong></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%b1%a4%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e3%81%93%e3%81%a8%e3%81%8c"><span>一層あなたのことが</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>好きになりました。</span></a>
+    segments:
+      - text: あなたと会って、
+        grammar_highlight: false
+      - text: より
+        grammar_highlight: true
+      - text: 一層あなたのことが好きになりました。
+        grammar_highlight: false
+    reading: あなたとあって、よりいっそうあなたのことがすきになりました。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I liked you even more when I met you.
+        html: |-
+          <span>I liked you </span><strong>even more </strong><span>when I met you. </span>
+        segments:
+          - text: 'I liked you '
+            grammar_highlight: false
+          - text: 'even more '
+            grammar_highlight: true
+          - text: 'when I met you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4781
+    position: 2
+    japanese: より早く着く電車はないのですか？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%88%e3%82%8a"><strong>より</strong></a><a href="https://takoboto.jp/?q=%e6%97%a9%e3%81%8f"><span>早く</span></a><a href="https://takoboto.jp/?q=%e7%9d%80%e3%81%8f"><span>着く</span></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e8%bb%8a%e3%81%af%e3%81%aa%e3%81%84%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8b"><span>電車はないのですか</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: より
+        grammar_highlight: true
+      - text: 早く着く電車はないのですか？
+        grammar_highlight: false
+    reading: よりはやくつくでんしゃはないのですか？
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Isn't there a train that gets there earlier?
+        html: |-
+          <span>Isn't there a train that gets there </span><strong>earlier? </strong>
+        segments:
+          - text: 'Isn''t there a train that gets there '
+            grammar_highlight: false
+          - text: 'earlier? '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: in this case, could 'motto' be raplaced by yori?
+    html: in this case, could 'motto' be raplaced by yori?
+    credits_raw: victor
+    content_sha256: 6e7b635fffe5c77832443ee8acf8e0d75c3a1528c7e2c9830de51de6123a3b98
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: '''yori'' could be replaced by ''motto''. もっといい方法'
+    html: '''yori'' could be replaced by ''motto''. もっといい方法'
+    credits_raw: Miki
+    content_sha256: 533e651c31304a93ee2b5e50fc52c6643c9b51a49250acee8ac953dd31fe4b84
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      How would you translate "yori" in this case?: 正価*より*差し引く割引の価格を選択します。
+
+      It seems its is more of "from" rather than "more". 
+
+      I understood it as "Selects the Discount Price which is deducted from the Net Price."
+      :-/
+    html: |-
+      How would you translate "yori" in this case?: 正価*より*差し引く割引の価格を選択します。<br/><br/>It seems its is more of "from" rather than "more". <br/><br/>I understood it as "Selects the Discount Price which is deducted from the Net Price."<br/>:-/
+    credits_raw: maikeru
+    content_sha256: fee06055a1af8daf27aa2a53f23a801687793e972c1f745c8d5e9e742e84dbea
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 789
+    label: より
+    source_url: https://takoboto.jp/bunpo/789
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:41+00:00'
+response_sha256: 5b2fcbdb1ac45f834ada4f16cf6617f4694e7dc7ca1d582c4e2daabd83aabd81
+warnings: []

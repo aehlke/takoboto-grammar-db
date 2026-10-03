@@ -1,0 +1,410 @@
+schema_version: 2
+id: 317
+source: takoboto
+source_url: https://takoboto.jp/bunpo/317/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: て形からでないと; て形からでなければ
+romanized_label: tekaradenaito; tekaradenakereba
+alternate_forms:
+  - てからでないと; てからでなければ
+jlpt_level: 2
+credits_raw: dc
+meaning: Not Until 〜;If I don't 〜, I can't 〜; I can't 〜 unless I 〜.
+meaning_example: If I don't consult my boss, I cannot give a reply.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_317
+    body_text: |-
+      Not Until 〜;If I don't 〜, I can't 〜; I can't 〜 unless I 〜. 
+       If I don't consult my boss, I cannot give a reply.
+    body_html: |-
+      <span>Not Until 〜;If I don't 〜, I can't 〜; I can't 〜 unless I 〜.</span> <br/> <span>If I don't consult my boss, I cannot give a reply.</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 274
+    position: 0
+    japanese: 上司に相談してからでないとお返事できません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%8a%e5%8f%b8%e3%81%ab"><span>上司に</span></a><a href="https://takoboto.jp/?q=%e7%9b%b8%e8%ab%87%e3%81%97%e3%81%a6"><span>相談して</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%a7%e3%81%aa%e3%81%84%e3%81%a8"><strong>からでないと</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e4%ba%8b%e3%81%a7%e3%81%8d%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>返事できません。</span></a>
+    segments:
+      - text: 上司に相談して
+        grammar_highlight: false
+      - text: からでないと
+        grammar_highlight: true
+      - text: お返事できません。
+        grammar_highlight: false
+    reading: じょうしにそうだんしてからでないとおへんじできません。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: If I don't consult my boss first, I cannot give a reply.
+        html: |-
+          <strong>If I don't </strong><span>consult my boss </span><strong>first, </strong><span>I cannot give a reply. </span>
+        segments:
+          - text: 'If I don''t '
+            grammar_highlight: true
+          - text: 'consult my boss '
+            grammar_highlight: false
+          - text: 'first, '
+            grammar_highlight: true
+          - text: 'I cannot give a reply. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4918
+    position: 1
+    japanese: 舞鶴に行くには京都に行ってからでないと行けません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%88%9e%e9%b6%b4%e3%81%ab"><span>舞鶴に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f%e3%81%ab%e3%81%af"><span>行くには</span></a><a href="https://takoboto.jp/?q=%e4%ba%ac%e9%83%bd%e3%81%ab"><span>京都に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%a6"><span>行って</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%a7%e3%81%aa%e3%81%84%e3%81%a8"><strong>からでないと</strong></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%91%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>行けません。</span></a>
+    segments:
+      - text: 舞鶴に行くには京都に行って
+        grammar_highlight: false
+      - text: からでないと
+        grammar_highlight: true
+      - text: 行けません。
+        grammar_highlight: false
+    reading: まいづるにいくにはきょうとにいってからでないといけません。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: You cannot go to Maizuru until you get to Kyoto.
+        html: |-
+          <span>You cannot go to Maizuru </span><strong>until </strong><span>you get </span><span>to Kyoto. </span>
+        segments:
+          - text: 'You cannot go to Maizuru '
+            grammar_highlight: false
+          - text: 'until '
+            grammar_highlight: true
+          - text: 'you get to Kyoto. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6225
+    position: 2
+    japanese: ビザが取れてからでなければ、旅行の予定は立てられない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%93%e3%82%b6%e3%81%8c"><span>ビザが</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%82%8c%e3%81%a6"><span>取れて</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%a7%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0"><strong>からでなければ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%97%85%e8%a1%8c%e3%81%ae"><span>旅行の</span></a><a href="https://takoboto.jp/?q=%e4%ba%88%e5%ae%9a%e3%81%af"><span>予定は</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e3%81%a6%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82"><span>立てられない。</span></a>
+    segments:
+      - text: ビザが取れて
+        grammar_highlight: false
+      - text: からでなければ
+        grammar_highlight: true
+      - text: 、旅行の予定は立てられない。
+        grammar_highlight: false
+    reading: ビザがとれてからでなければ、りょこうのよていはたてられない。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: If I don't get my visa, I can't plan a trip.
+        html: |-
+          <strong>If I don't </strong><span>get my visa, </span><span>I can't plan a trip. </span>
+        segments:
+          - text: 'If I don''t '
+            grammar_highlight: true
+          - text: 'get my visa, I can''t plan a trip. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6226
+    position: 3
+    japanese: この問題は、よく検討してからでないと、決定は難しい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%af%e3%80%81%e3%82%88%e3%81%8f"><span>問題は、よく</span></a><a href="https://takoboto.jp/?q=%e6%a4%9c%e8%a8%8e%e3%81%97%e3%81%a6"><span>検討して</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%a7%e3%81%aa%e3%81%84%e3%81%a8"><strong>からでないと</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e5%ae%9a%e3%81%af"><span>決定は</span></a><a href="https://takoboto.jp/?q=%e9%9b%a3%e3%81%97%e3%81%84%e3%80%82"><span>難しい。</span></a>
+    segments:
+      - text: この問題は、よく検討して
+        grammar_highlight: false
+      - text: からでないと
+        grammar_highlight: true
+      - text: 、決定は難しい。
+        grammar_highlight: false
+    reading: このもんだいは、よくけんとうしてからでないと、けっていはむずかしい。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: It's difficult to make a decision unless I carefully scrutinize the problem.
+        html: |-
+          <span>It's difficult to make a decision </span><strong>unless </strong><span>I carefully </span><strong>scrutinize </strong><span>the problem. </span>
+        segments:
+          - text: 'It''s difficult to make a decision '
+            grammar_highlight: false
+          - text: 'unless '
+            grammar_highlight: true
+          - text: 'I carefully '
+            grammar_highlight: false
+          - text: 'scrutinize '
+            grammar_highlight: true
+          - text: 'the problem. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6530
+    position: 4
+    japanese: 子供が小さい時、寝かせてからでないと、ゆっくりテレビも見れなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%8c"><span>子供が</span></a><a href="https://takoboto.jp/?q=%e5%b0%8f%e3%81%95%e3%81%84"><span>小さい</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%80%81"><span>時、</span></a><a href="https://takoboto.jp/?q=%e5%af%9d%e3%81%8b%e3%81%9b%e3%81%a6"><span>寝かせて</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%a7%e3%81%aa%e3%81%84%e3%81%a8"><strong>からでないと</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%82%86%e3%81%a3%e3%81%8f%e3%82%8a%e3%83%86%e3%83%ac%e3%83%93%e3%82%82"><span>、ゆっくりテレビも</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8c%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>見れなかった。</span></a>
+    segments:
+      - text: 子供が小さい時、寝かせて
+        grammar_highlight: false
+      - text: からでないと
+        grammar_highlight: true
+      - text: 、ゆっくりテレビも見れなかった。
+        grammar_highlight: false
+    reading: こどもがちいさいとき、ねかせてからでないと、ゆっくりテレビもみれなかった。
+    credits_raw: sagittarius
+    translations:
+      - language: en
+        text: When my children were small, I couldn't enjoy watching television until after I had put them to bed.
+        html: |-
+          <span>When my children were small, I couldn't enjoy watching television </span><strong>until after </strong><span>I had put them to bed. </span>
+        segments:
+          - text: 'When my children were small, I couldn''t enjoy watching television '
+            grammar_highlight: false
+          - text: 'until after '
+            grammar_highlight: true
+          - text: 'I had put them to bed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6894
+    position: 5
+    japanese: しっかり考えてからでないと、お答えできません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%97%e3%81%a3%e3%81%8b%e3%82%8a"><span>しっかり</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%a6"><span>考えて</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%a7%e3%81%aa%e3%81%84%e3%81%a8"><strong>からでないと</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%8a"><span>、お</span></a><a href="https://takoboto.jp/?q=%e7%ad%94%e3%81%88%e3%81%a7%e3%81%8d%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>答えできません。</span></a>
+    segments:
+      - text: しっかり考えて
+        grammar_highlight: false
+      - text: からでないと
+        grammar_highlight: true
+      - text: 、お答えできません。
+        grammar_highlight: false
+    reading: しっかりかんがえてからでないと、おこたえできません。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: If you do not think about it in depth first, you cannot find the answer.
+        html: |-
+          <strong>If you do not </strong><span>think about it in depth </span><strong>first, </strong><span>you cannot find the answer. </span>
+        segments:
+          - text: 'If you do not '
+            grammar_highlight: true
+          - text: 'think about it in depth '
+            grammar_highlight: false
+          - text: 'first, '
+            grammar_highlight: true
+          - text: 'you cannot find the answer. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6966
+    position: 6
+    japanese: 彼に示してからでないと、彼はおまえの感情が分からないよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab"><span>彼に</span></a><a href="https://takoboto.jp/?q=%e7%a4%ba%e3%81%97%e3%81%a6"><span>示して</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%a7%e3%81%aa%e3%81%84%e3%81%a8%e3%80%81"><strong>からでないと、</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%8a%e3%81%be%e3%81%88%e3%81%ae"><span>彼はおまえの</span></a><a href="https://takoboto.jp/?q=%e6%84%9f%e6%83%85%e3%81%8c"><span>感情が</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84%e3%82%88%e3%80%82"><span>分からないよ。</span></a>
+    segments:
+      - text: 彼に示して
+        grammar_highlight: false
+      - text: からでないと、
+        grammar_highlight: true
+      - text: 彼はおまえの感情が分からないよ。
+        grammar_highlight: false
+    reading: かれにしめしてからでないと、かれはおまえのかんじょうがわからないよ。
+    credits_raw: amenya
+    translations:
+      - language: en
+        text: He won't feel your love, unless you show him
+        html: |-
+          <span>He won't feel your love, </span><strong>unless </strong><span>you show him </span>
+        segments:
+          - text: 'He won''t feel your love, '
+            grammar_highlight: false
+          - text: 'unless '
+            grammar_highlight: true
+          - text: 'you show him '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8581
+    position: 7
+    japanese: 臨席をしてからでなければ、なにも分かってない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%87%a8%e5%b8%ad%e3%82%92%e3%81%97%e3%81%a6%e3%81%8b%e3%82%89%e3%81%a7%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%80%81%e3%81%aa%e3%81%ab%e3%82%82"><span>臨席をしてからでなければ、なにも</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%81%a3%e3%81%a6%e3%81%aa%e3%81%84%e3%80%82"><span>分かってない。</span></a>
+    segments:
+      - text: 臨席をしてからでなければ、なにも分かってない。
+        grammar_highlight: false
+    reading: りんせきをしてからでなければ、なにもわかってない。
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: If not present, would not understand anything.
+        html: |-
+          <span>If not present, would not understand anything. </span>
+        segments:
+          - text: 'If not present, would not understand anything. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6895
+    position: 8
+    japanese: もう少し具体的な説明を聞いてからでないと、その計画には賛成できません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86"><span>もう</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><span>少し</span></a><a href="https://takoboto.jp/?q=%e5%85%b7%e4%bd%93%e7%9a%84%e3%81%aa"><span>具体的な</span></a><a href="https://takoboto.jp/?q=%e8%aa%ac%e6%98%8e%e3%82%92"><span>説明を</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%a6"><span>聞いて</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%a7%e3%81%aa%e3%81%84%e3%81%a8"><strong>からでないと</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%81%ae"><span>、その</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%81%ab%e3%81%af"><span>計画には</span></a><a href="https://takoboto.jp/?q=%e8%b3%9b%e6%88%90%e3%81%a7%e3%81%8d%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>賛成できません。</span></a>
+    segments:
+      - text: もう少し具体的な説明を聞いて
+        grammar_highlight: false
+      - text: からでないと
+        grammar_highlight: true
+      - text: 、その計画には賛成できません。
+        grammar_highlight: false
+    reading: もうすこしぐたいてきなせつめいをきいてからでないと、そのけいかくにはさんせいできません。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: If I do not ask for a little more definite explanation first, I cannot give my agreement to this plan.
+        html: |-
+          <strong>If I do not </strong><span>ask for a little more definite explanation </span><strong>first, </strong><span>I cannot give my agreement to this plan. </span>
+        segments:
+          - text: 'If I do not '
+            grammar_highlight: true
+          - text: 'ask for a little more definite explanation '
+            grammar_highlight: false
+          - text: 'first, '
+            grammar_highlight: true
+          - text: 'I cannot give my agreement to this plan. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: The following sentence is always negative.
+    html: The following sentence is always negative.
+    credits_raw: BobMaestro
+    content_sha256: efb43f8f57e3af9ef950e6a3b78308527f9cf048d8628bb191e138c77446a0c4
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      「Ａてからでないと、Ｂ」: B should use phrases such as 「できない」、「難しい」、「無理だ」.
+
+      FORMATION:
+      Ｖて + からでないと・からでなければ
+    html: |-
+      「Ａてからでないと、Ｂ」: B should use phrases such as 「できない」、「難しい」、「無理だ」.<br/><br/>FORMATION:<br/>Ｖて + からでないと・からでなければ
+    credits_raw: rubyhatchet
+    content_sha256: 24e322da0f5f6828bd2f2c3023e658ca09516f4a9b4246ad0dea5d0ed1c21cb1
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: sometimes used for denial
+    html: sometimes used for denial
+    credits_raw: dc
+    content_sha256: 6d71f2db784e612fd7296feb3632e15446e7bf20473cd99e97f8a1290ed13173
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: 'anon: You could probably say it with the same connotation if you add just a bit more. Example: 先に上司に相談しないと、お返事できません。'
+    html: 'anon: You could probably say it with the same connotation if you add just a bit more. Example: 先に上司に相談しないと、お返事できません。'
+    credits_raw: rubyhatchet
+    content_sha256: ef4e2f78e09e1ef484657085a2933ede84ac8e5e72125eb71ac6b040f8ef7db4
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      I have the feeling that the meaning is close to "nai kagiri" in this case >> 
+      上司に相談しない限りお返事ができません。
+      What do you think about it?
+    html: |-
+      I have the feeling that the meaning is close to "nai kagiri" in this case &gt;&gt; <br/>上司に相談しない限りお返事ができません。<br/>What do you think about it?
+    credits_raw: Ludi
+    content_sha256: ccabcdc67e4086b7dbfc0ca5db3edb8f1a68c51293b96264a5846929556bb3e0
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      How would this be different from just using an "if" form with a negative verb (-ba, -tara, to)? For example, could we just say 上司に相談しないとお返事できません?
+    html: |-
+      How would this be different from just using an "if" form with a negative verb (-ba, -tara, to)? For example, could we just say 上司に相談しないとお返事できません?
+    credits_raw: anon
+    content_sha256: c45897ef4fe742ef8d30de113208bf4f04c49a828026a9a833db1fdd5a59ad0f
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      上司に相談しないとお返事できません or 上司に相談しないでお返事できません are both grammatically correct, but they are more or less blunt response when compared with 上司に相談してからでないとお返事できません.
+    html: |-
+      上司に相談しないとお返事できません or 上司に相談しないでお返事できません are both grammatically correct, but they are more or less blunt response when compared with 上司に相談してからでないとお返事できません.
+    credits_raw: bamboo4
+    content_sha256: 7d590032f369b3ed48f2d300ab682efa65b924a5387917a9a736ad65f422908a
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      Ludi, かぎり is more meant to express "As long as A continues, B will continue." It's more of a positive grammar than a negative one. It could work, but it would sound awkward: "As long as I don't consult with my boss, I can't give you an answer."
+    html: |-
+      Ludi, かぎり is more meant to express "As long as A continues, B will continue." It's more of a positive grammar than a negative one. It could work, but it would sound awkward: "As long as I don't consult with my boss, I can't give you an answer."
+    credits_raw: rubyhatchet
+    content_sha256: 20af1a6299e296b1e28f37aae1cb08060f066f2606a539df262701f692d77a91
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      So by using 〜てからでなければ instead of simply using 〜ば, you are being more emphatic? Would this be similar to the difference between から and からこそ？
+    html: |-
+      So by using 〜てからでなければ instead of simply using 〜ば, you are being more emphatic? Would this be similar to the difference between から and からこそ？
+    credits_raw: xabre24
+    content_sha256: 45796ad54286cfa173f06bfcd8cb3b560b4268cc61d51f6319df019bacaa091d
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: 〜てからでなければ sounds very much like something you would see only in writing. Can you colloquialise to 〜てからじゃなければ？
+    html: 〜てからでなければ sounds very much like something you would see only in writing. Can you colloquialise to 〜てからじゃなければ？
+    credits_raw: sagittarius
+    content_sha256: e807c7a07c9f2b105f58a5bdff3fda0602b015cd69311e361ff69fd80f512be9
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      In example #6894, 考える is translated to "teach" while it should be "think".
+      Unless the sentence should contain 教える.
+    html: |-
+      In example #6894, 考える is translated to "teach" while it should be "think".<br/>Unless the sentence should contain 教える.
+    credits_raw: kurisutofu
+    content_sha256: d32d744a9122ba3f58837de81ff0ada3f0e8bbf5fe649ca3b87bf15790f1c779
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: 'Example #6894 corrected according to your alert.Thanks to Kurisutofuさん.'
+    html: 'Example #6894 corrected according to your alert.Thanks to Kurisutofuさん.'
+    credits_raw: 赤毛
+    content_sha256: ed7e82cbce2fbd3cd81c0cde0ea7c8d07b326b507db67a5337627c79f4a53ade
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: Added proper meaning to help people see the difference in nuance between this and the "if" form.
+    html: Added proper meaning to help people see the difference in nuance between this and the "if" form.
+    credits_raw: DrJones
+    content_sha256: ed8390a910d5e1fbb09fe85460e2cb637f05117b90200e7d6b88453bd362524e
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:41:57+00:00'
+response_sha256: 54a777bc305bc79779fcea42d78d10fb6bedf0295fb64648cf8b0b5b0c37d55e
+warnings: []

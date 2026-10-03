@@ -1,0 +1,212 @@
+schema_version: 2
+id: 1791
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1791/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: に限り
+romanized_label: nikagiri
+alternate_forms:
+  - にかぎり
+jlpt_level: 2
+credits_raw: masakitenchi
+meaning: only if
+meaning_example: Only students can receive the sale
+meaning_notes:
+  - language: ja
+    text: 〜の場合だけは
+    html: 〜の場合だけは
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1791
+    body_text: |-
+      only if 
+       Only students can receive the sale 
+       〜の場合だけは
+    body_html: |-
+      <span>only if</span> <br/> <span>Only students can receive the sale</span> <br/> <span>〜の場合だけは</span>
+    credits_raw: masakitenchi
+  - kind: formation
+    source_dom_id: editable_Formation_1791
+    body_text: Noun+に限りNoun+に限る
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>に限り</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>に限る</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + に限り
+  - Noun + に限る
+examples:
+  - source_id: 8730
+    position: 0
+    japanese: 学生に限り、半額で入場できる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ad%a6%e7%94%9f"><span>学生</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%82%8a"><strong>に限り</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%8d%8a%e9%a1%8d%e3%81%a7"><span>半額で</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e5%a0%b4%e3%81%a7%e3%81%8d%e3%82%8b%e3%80%82"><span>入場できる。</span></a>
+    segments:
+      - text: 学生
+        grammar_highlight: false
+      - text: に限り
+        grammar_highlight: true
+      - text: 、半額で入場できる。
+        grammar_highlight: false
+    reading: がくせいにかぎり、はんがくでにゅうじょうできる。
+    credits_raw: masakitenchi
+    translations:
+      - language: en
+        text: Only students can enter in half price.
+        html: |-
+          <strong>Only </strong><span>students can enter in half price. </span>
+        segments:
+          - text: 'Only '
+            grammar_highlight: true
+          - text: 'students can enter in half price. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8731
+    position: 1
+    japanese: 学生に限り入場可能
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ad%a6%e7%94%9f"><span>学生</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%82%8a"><strong>に限り</strong></a><a href="https://takoboto.jp/?q=%e5%85%a5%e5%a0%b4%e5%8f%af%e8%83%bd"><span>入場可能</span></a>
+    segments:
+      - text: 学生
+        grammar_highlight: false
+      - text: に限り
+        grammar_highlight: true
+      - text: 入場可能
+        grammar_highlight: false
+    reading: がくせいにかぎりにゅうじょうかのう
+    credits_raw: masakitenchi
+    translations:
+      - language: en
+        text: Admission to students only .
+        html: |-
+          <span>Admission to students </span><strong>only </strong><span>. </span>
+        segments:
+          - text: 'Admission to students '
+            grammar_highlight: false
+          - text: 'only '
+            grammar_highlight: true
+          - text: '. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8781
+    position: 2
+    japanese: 始めてのお客様に限り、料理が半額になります。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%a6%e3%81%ae%e3%81%8a%e5%ae%a2%e6%a7%98"><span>始めてのお客様</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%82%8a"><strong>に限り</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e6%96%99%e7%90%86%e3%81%8c%e5%8d%8a%e9%a1%8d%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%99%e3%80%82"><span>、料理が半額になります。</span></a>
+    segments:
+      - text: 始めてのお客様
+        grammar_highlight: false
+      - text: に限り
+        grammar_highlight: true
+      - text: 、料理が半額になります。
+        grammar_highlight: false
+    reading: はじめてのおきゃくさまにかぎり、りょうりがはんがくになります。
+    credits_raw: Fabio Colli
+    translations:
+      - language: en
+        text: Only for  first-time customers, the food will be half price.
+        html: |-
+          <strong>Only for </strong><span> first-time customers, the food will be half price. </span>
+        segments:
+          - text: 'Only for '
+            grammar_highlight: true
+          - text: ' first-time customers, the food will be half price. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8786
+    position: 3
+    japanese: 女性の方に限り、コーヒー１杯無料です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a5%b3%e6%80%a7%e3%81%ae%e6%96%b9"><span>女性の方</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%99%90%e3%82%8a"><strong>に限り</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%ef%bc%91%e6%9d%af%e7%84%a1%e6%96%99%e3%81%a7%e3%81%99%e3%80%82"><span>、コーヒー１杯無料です。</span></a>
+    segments:
+      - text: 女性の方
+        grammar_highlight: false
+      - text: に限り
+        grammar_highlight: true
+      - text: 、コーヒー１杯無料です。
+        grammar_highlight: false
+    reading: じょせいのほうにかぎり、コーヒー１はいむりょうです。
+    credits_raw: NAUFAL
+    translations:
+      - language: en
+        text: Only  women have a free cup of coffee.
+        html: |-
+          <strong>Only </strong><span> women have a free cup of coffee. </span>
+        segments:
+          - text: 'Only '
+            grammar_highlight: true
+          - text: ' women have a free cup of coffee. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8875
+    position: 4
+    japanese: 現金にかぎり支払えます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%8f%be%e9%87%91"><span>現金</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%8e%e3%82%8a"><strong>にかぎり</strong></a><a href="https://takoboto.jp/?q=%e6%94%af%e6%89%95%e3%81%88%e3%81%be%e3%81%99%e3%80%82"><span>支払えます。</span></a>
+    segments:
+      - text: 現金
+        grammar_highlight: false
+      - text: にかぎり
+        grammar_highlight: true
+      - text: 支払えます。
+        grammar_highlight: false
+    reading: げんきんにかぎりしはらえます。
+    credits_raw: beno
+    translations:
+      - language: en
+        text: You can pay only  cash.
+        html: |-
+          <span>You can pay </span><strong>only </strong><span> cash. </span>
+        segments:
+          - text: 'You can pay '
+            grammar_highlight: false
+          - text: 'only '
+            grammar_highlight: true
+          - text: ' cash. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Also にかぎって
+    html: Also にかぎって
+    credits_raw: masakitenchi
+    content_sha256: a3eb627f173e85e6427ab9bde1fe16be310faa3276c808625a86bcaf4343a178
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: this is like "limited to"
+    html: this is like "limited to"
+    credits_raw: dcsan
+    content_sha256: 905faf6e7c7add5475f884603599e29e406c1bdadfffc38ab85b2d1b2c04eec7
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: see also [nikagiranai]
+    html: see also [nikagiranai]
+    credits_raw: dcsan
+    content_sha256: 74dc6587f0062cb8add39c2806a5fdc0a04546ae9b642aac5b04760c1a7766cf
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: 新しい商品に限り割引
+    html: 新しい商品に限り割引
+    credits_raw: 川サル
+    content_sha256: 4d1c83b9b34d5f53d8d2e9cd1f0169a4d1c4a09ed872c82e6b6ea9f076d1ff01
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:39:33+00:00'
+response_sha256: b17123be8a6b0a95b94caa73d200309a853acd5a457e86fecb54e3fd10a78e07
+warnings: []

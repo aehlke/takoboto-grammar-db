@@ -1,0 +1,125 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1751
+label: toii~toii
+title_raw: 〜といい〜といい [〜といい〜といい] (toii~toii)
+title: 〜といい〜といい
+reading: 〜といい〜といい
+romanized_label: toii~toii
+category: null
+jlpt_level_original: '1'
+meaning: In terms of both ~ and ~; in terms of ~ as well as ~; from the perspective of both ~ and ~
+meaning_example: From the perspective of the colour as well as the design, this suit is a good match for you
+credits_raw: LR
+source_url: http://jgram.org/pages/viewOne.php?tagE=toii%7Etoii
+archive_url: https://web.archive.org/web/20150224225747id_/http://jgram.org/pages/viewOne.php?tagE=toii%7Etoii
+archive_timestamp: '20150224225747'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: HFZ5MM2LRY7CANBV5C3MB7WQVH223SFX
+response_sha256: 6233cd944ce6c6ddcec698368c204a210044765dc28bb2e7f6382d77dd250f60
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Ref #\x01 Kanzen Master Level 1 - p49 - no.49"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=toii%7Etoii#\x01\">#\x01</a></b></b> Kanzen Master Level 1 - p49 - no.49"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Ref #\x01 A Dictionary of Advanced Japanese Grammar p628"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=toii%7Etoii#\x01\">#\x01</a></b></b> A Dictionary of Advanced Japanese Grammar p628"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: '{NOUN1 + といい} + {NOUN2 + といい}'
+    html: '{NOUN1 + といい} + {NOUN2 + といい}'
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: |-
+      This grammatical structure is used to present multiple perspectives when describing a person or a thing. It is often used to provide the speaker's / writer's judgment of the person or thing.
+    html: |-
+      This grammatical structure is used to present multiple perspectives when describing a person or a thing. It is often used to provide the speaker's / writer's judgment of the person or thing.
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7966
+    position: 0
+    japanese: このスーツ、色といいデザインといい、お客様はよく似合いですよ
+    body_text: "このスーツ、色といいデザインといい、お客様はよく似合いですよ\r \n\n\t\tFrom the perspective of the colour as well as the design, this suit is a good match for you"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこのスーツ、色といいデザインといい、お客様はよく似合いですよ\">\n\t\t\t\tこのスーツ、色<strong>といい</strong>デザインといい、お客様はよく似合いですよ\r<strong></strong></a> <br/>\n\t\tFrom the perspective of the colour as well as the design, this suit is a good match for you \n\t\t<strong> </strong>"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7967
+    position: 1
+    japanese: 内容といい話し方といい、見事なスピーチでした。
+    body_text: "内容といい話し方といい、見事なスピーチでした。\r \n\n\t\tIt was a splendid speech in terms of content as well as delivery."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ内容といい話し方といい、見事なスピーチでした。\">\n\t\t\t\t内容<strong>といい</strong>話し方といい、見事なスピーチでした。\r<strong></strong></a> <br/>\n\t\tIt was a splendid speech in terms of content as well as delivery. \n\t\t<strong> </strong>"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7968
+    position: 2
+    japanese: 家柄といい学歴といい、彼は非の打ちどころがない。
+    body_text: "家柄といい学歴といい、彼は非の打ちどころがない。\r \n\n\t\tHe is just perfect, both in terms of his family and educational background."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ家柄といい学歴といい、彼は非の打ちどころがない。\">\n\t\t\t\t家柄<strong>といい</strong>学歴といい、彼は非の打ちどころがない。\r<strong></strong></a> <br/>\n\t\tHe is just perfect, both in terms of his family and educational background. \n\t\t<strong> </strong>"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7969
+    position: 3
+    japanese: スピードといいパワーといい、今の彼に勝てる選手はいない。
+    body_text: "スピードといいパワーといい、今の彼に勝てる選手はいない。\r \n\n\t\tNo player can beat him now in terms of either speed or power."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJスピードといいパワーといい、今の彼に勝てる選手はいない。\">\n\t\t\t\tスピード<strong>といい</strong>パワーといい、今の彼に勝てる選手はいない。\r<strong></strong></a> <br/>\n\t\tNo player can beat him now in terms of either speed or power. \n\t\t<strong> </strong>"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Hanne
+    text: Could it be that  いい  is the stem of the verb 言う? Or perhaps the expression originated from that?
+    html: Could it be that  いい  is the stem of the verb 言う? Or perhaps the expression originated from that?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "〜といい〜といい [〜といい〜といい] (toii~toii)\n    Meaning: In terms of both ~ and ~; in terms of ~ as well as ~; from the perspective of both ~ and ~ \n    Example: From the perspective of the colour as well as the design, this suit is a good match for you\n    JLPT Level: 1\n    Author: LR"
+    html: |-
+      <span>〜といい〜といい [〜といい〜といい] (toii~toii)</span><br/>    <span><b>Meaning</b>: In terms of both ~ and ~; in terms of ~ as well as ~; from the perspective of both ~ and ~ </span><br/>    <b>Example</b>: <i>From the perspective of the colour as well as the design, this suit is a good match for you</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Author</b>: <i>LR</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225747'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6453435
+  length: 5620
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: e3fb909522e5c50b6308a19d8e526673e012091b0776790e6c485d6ba12a7237

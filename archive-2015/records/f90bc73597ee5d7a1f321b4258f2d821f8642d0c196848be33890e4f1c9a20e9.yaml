@@ -1,0 +1,74 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1662
+label: stem + dasu
+title_raw: stem + 出す ([Stem +　だす] )(stem + dasu)
+title: stem + 出す
+reading: Stem +　だす
+romanized_label: stem + dasu
+category: grammar
+jlpt_level_original: '0'
+meaning: Begin to ~ 何々をし始める
+meaning_example: It started to rain
+credits_raw: darrkangel
+source_url: http://jgram.org/pages/viewOne.php?tagE=stem+%2B+dasu
+archive_url: https://web.archive.org/web/20150224225923id_/http://jgram.org/pages/viewOne.php?tagE=stem+%2B+dasu
+archive_timestamp: '20150224225923'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: D2DMVDTKC5YBD2YQGXMWZJQVOFGSSSZX
+response_sha256: 0725d20804de2078b23f517cdf2400d5da5183d5eb13235c4143b8604783958f
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 6982
+    position: 0
+    japanese: ''
+    body_text: He became frightened and started running.
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ\">\n<strong></strong><strong></strong></a> <br/>\n\t\tHe became frightened and started running. \n\t\t<strong> </strong>"
+    credits_raw: jbraswell
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6983
+    position: 1
+    japanese: ''
+    body_text: 彼は怖くて走り出した。
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ\">\n<strong></strong><strong></strong></a> <br/>\n\t\t彼は怖くて走り出した。 \n\t\t<strong> </strong>"
+    credits_raw: jbraswell
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      stem + 出す ([Stem +　だす] )(stem + dasu)
+          Meaning: Begin to ~ 何々をし始める
+          Example: It started to rain
+          JLPT Level: 0
+          Category: grammar
+          Author: darrkangel
+    html: |-
+      <span>stem + 出す ([Stem +　だす] )(stem + dasu)</span><br/>    <span><b>Meaning</b>: Begin to ~ 何々をし始める</span><br/>    <b>Example</b>: <i>It started to rain</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>darrkangel</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225923'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 8031736
+  length: 5027
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 8abeb55a7432ef07dfd1245f55cacb0b7557d34803afffc0d8e4504ad36754f2

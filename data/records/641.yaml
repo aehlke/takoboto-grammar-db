@@ -1,0 +1,214 @@
+schema_version: 2
+id: 641
+source: takoboto
+source_url: https://takoboto.jp/bunpo/641/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜の
+romanized_label: no-2
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: Turn a phrase ending in a verb into a 'noun phrase'
+meaning_example: Getting married is such an effort!
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_641
+    body_text: |-
+      Turn a phrase ending in a verb into a 'noun phrase' 
+       Getting married is such an effort!
+    body_html: |-
+      <span>Turn a phrase ending in a verb into a 'noun phrase'</span> <br/> <span>Getting married is such an effort!</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_641
+    body_text: Verb (dictionary form)+の
+    body_html: |-
+      <div><div><div>Verb (dictionary form)</div></div><div><div>+</div><div>の</div></div></div>
+    credits_raw: null
+formations:
+  - Verb (dictionary form) + の
+examples:
+  - source_id: 720
+    position: 0
+    japanese: 結婚するのは大変だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%b5%90%e5%a9%9a"><span>結婚</span></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8b"><span>する</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%81%af"><span>は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a4%89%e3%81%a0%e3%80%82"><span>大変だ。</span></a>
+    segments:
+      - text: 結婚する
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: は大変だ。
+        grammar_highlight: false
+    reading: けっこんするのはたいへんだ。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Getting married is such an effort!
+        html: |-
+          <span>Getting married is such an effort! </span>
+        segments:
+          - text: 'Getting married is such an effort! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 757
+    position: 1
+    japanese: 「さあ、皆さん、正々堂々戦いましょう」全選手が周りに集まるのを待って先生が言った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%81%95%e3%81%82%e3%80%81"><span>「さあ、</span></a><a href="https://takoboto.jp/?q=%e7%9a%86%e3%81%95%e3%82%93%e3%80%81"><span>皆さん、</span></a><a href="https://takoboto.jp/?q=%e6%ad%a3%e3%80%85"><span>正々</span></a><a href="https://takoboto.jp/?q=%e5%a0%82%e3%80%85"><span>堂々</span></a><a href="https://takoboto.jp/?q=%e6%88%a6%e3%81%84%e3%81%be%e3%81%97%e3%82%87%e3%81%86%e3%80%8d"><span>戦いましょう」</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e9%81%b8%e6%89%8b%e3%81%8c"><span>全選手が</span></a><a href="https://takoboto.jp/?q=%e5%91%a8%e3%82%8a%e3%81%ab"><span>周りに</span></a><a href="https://takoboto.jp/?q=%e9%9b%86%e3%81%be%e3%82%8b"><span>集まる</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%82%92"><span>を</span></a><a href="https://takoboto.jp/?q=%e5%be%85%e3%81%a3%e3%81%a6"><span>待って</span></a><a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%8c"><span>先生が</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f%e3%80%82"><span>言った。</span></a>
+    segments:
+      - text: 「さあ、皆さん、正々堂々戦いましょう」全選手が周りに集まる
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: を待って先生が言った。
+        grammar_highlight: false
+    reading: 「さあ、みなさん、せいせいどうどうたたかいましょう」ぜんせんしゅがまわりにあつまるのをまってせんせいがいった。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: '"Well, everyone, let''s play fair and square." the teacher said after waiting for all the players to assemble + .'
+        html: |-
+          <span>"Well, everyone, let's play fair and square." the teacher said after waiting for all the players to assemble </span><strong>+ </strong><span>. </span>
+        segments:
+          - text: '"Well, everyone, let''s play fair and square." the teacher said after waiting for all the players to assemble '
+            grammar_highlight: false
+          - text: '+ '
+            grammar_highlight: true
+          - text: '. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 836
+    position: 2
+    japanese: 夢に耽ったり、生きることを忘れてしまうのはよくない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%a2%e3%81%ab"><span>夢に</span></a><a href="https://takoboto.jp/?q=%e8%80%bd%e3%81%a3%e3%81%9f%e3%82%8a%e3%80%81"><span>耽ったり、</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e3%81%8d%e3%82%8b%e3%81%93%e3%81%a8%e3%82%92"><span>生きることを</span></a><a href="https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%81%a6%e3%81%97%e3%81%be%e3%81%86"><span>忘れてしまう</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%82%88%e3%81%8f%e3%81%aa%e3%81%84%e3%80%82"><span>はよくない。</span></a>
+    segments:
+      - text: 夢に耽ったり、生きることを忘れてしまう
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: はよくない。
+        grammar_highlight: false
+    reading: ゆめにふけったり、いきることをわすれてしまうのはよくない。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Becoming absorbed in a dream, forgett ing to live is no good.
+        html: |-
+          <span>Becoming absorbed in a dream, forgett </span><strong>ing </strong><span>to live is no good. </span>
+        segments:
+          - text: 'Becoming absorbed in a dream, forgett '
+            grammar_highlight: false
+          - text: 'ing '
+            grammar_highlight: true
+          - text: 'to live is no good. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8635
+    position: 3
+    japanese: 私も買い物に行くのが好きです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%82%82"><span>私も</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%84"><span>買い</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%81%ab"><span>物に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%81%8c"><span>が</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a7%e3%81%99%e3%80%82"><span>好きです。</span></a>
+    segments:
+      - text: 私も買い物に行く
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: が好きです。
+        grammar_highlight: false
+    reading: わたしもかいものにいくのがすきです。
+    credits_raw: Sakuratree
+    translations:
+      - language: en
+        text: I also like to go shopping.
+        html: |-
+          <span>I also like to go shopping. </span>
+        segments:
+          - text: 'I also like to go shopping. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8689
+    position: 4
+    japanese: アルバイトをしながら学校に行くのは大変ですね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%82%a4%e3%83%88%e3%82%92%e3%81%97%e3%81%aa%e3%81%8c%e3%82%89"><span>アルバイトをしながら</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e6%a0%a1%e3%81%ab"><span>学校に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e3%81%ae"><strong>の</strong></a><a href="https://takoboto.jp/?q=%e3%81%af"><span>は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a4%89%e3%81%a7%e3%81%99%e3%81%ad%e3%80%82"><span>大変ですね。</span></a>
+    segments:
+      - text: アルバイトをしながら学校に行く
+        grammar_highlight: false
+      - text: の
+        grammar_highlight: true
+      - text: は大変ですね。
+        grammar_highlight: false
+    reading: アルバイトをしながらがっこうにいくのはたいへんですね。
+    credits_raw: doing
+    translations:
+      - language: en
+        text: Having a part time job while going to school is hard, right?
+        html: |-
+          <span>Having a part time job while going to school is hard, right? </span>
+        segments:
+          - text: 'Having a part time job while going to school is hard, right? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Possibly also 'verb phrase'. Must check some time.
+    html: Possibly also 'verb phrase'. Must check some time.
+    credits_raw: Amatuka
+    content_sha256: b32da83067385d8d6ca375260a354617271e0d6ae524ced65976b3ef927f9d69
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 大変 in context has meanings of "such an effort" or "difficult".
+    html: 大変 in context has meanings of "such an effort" or "difficult".
+    credits_raw: Miki
+    content_sha256: 8debdefce433e251029fe26d29ee9d427c9e0c22b3ec0a0fea082031d8d6d2c2
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: This use of の looks similar to use of "koto" (事) after verbs, doesn't it? Like in "話す事 が 出来る" = "I can speak".
+    html: This use of の looks similar to use of "koto" (事) after verbs, doesn't it? Like in "話す事 が 出来る" = "I can speak".
+    credits_raw: '9000'
+    content_sha256: 8cacd64ae37cd8afbb4ae49852ca3f967acea7744b8de057e337bc87bd1f13d4
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Yes, but their uses have different rules. Koto is used for more abstract things than no.
+    html: Yes, but their uses have different rules. Koto is used for more abstract things than no.
+    credits_raw: DarrkAngel
+    content_sha256: 2006340bdce15a91612a0e6b45b0ea87bfffa17ab43d7eb1d89e49d6e5bc735a
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: I was told that の (instead of 事) precedes "perception" verbs; 見る, 見える, 聞く, 聞こえる
+    html: I was told that の (instead of 事) precedes "perception" verbs; 見る, 見える, 聞く, 聞こえる
+    credits_raw: 萬池瑠
+    content_sha256: 8a6d568c41965546c741e2215502172e746b561128313e9c861d3c8b8ae3e00d
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 574
+    label: 〜の
+    source_url: https://takoboto.jp/bunpo/574
+  - target_id: 737
+    label: 〜の
+    source_url: https://takoboto.jp/bunpo/737
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:32+00:00'
+response_sha256: e910c03388d88797260ba9ffac673301cf5c038d76d3691913ad4e8d1e94eca6
+warnings: []

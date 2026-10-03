@@ -1,0 +1,89 @@
+schema_version: 2
+id: 1587
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1587/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: もとい
+romanized_label: motoi
+alternate_forms: []
+jlpt_level: null
+credits_raw: paulblay
+meaning: is wrong, rather
+meaning_example: So I was there at the pub ... no, the disco when ...
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1587
+    body_text: |-
+      is wrong, rather 
+       So I was there at the pub ... no, the disco when ...
+    body_html: |-
+      <span>is wrong, rather</span> <br/> <span>So I was there at the pub ... no, the disco when ...</span>
+    credits_raw: paulblay
+formations: []
+examples:
+  - source_id: 6061
+    position: 0
+    japanese: ２人っきりでデート・・もとい、ＯＦＦ会だと思ったけど、そこまで甘くもないよな。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%92%e4%ba%ba%e3%81%a3%e3%81%8d%e3%82%8a%e3%81%a7%e3%83%87%e3%83%bc%e3%83%88%e3%83%bb%e3%83%bb"><span>２人っきりでデート・・</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%a8%e3%81%84"><strong>もとい</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%ef%bc%af%ef%bc%a6%ef%bc%a6%e4%bc%9a%e3%81%a0%e3%81%a8"><span>ＯＦＦ会だと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%9f%e3%81%91%e3%81%a9%e3%80%81%e3%81%9d%e3%81%93%e3%81%be%e3%81%a7"><span>思ったけど、そこまで</span></a><a href="https://takoboto.jp/?q=%e7%94%98%e3%81%8f%e3%82%82%e3%81%aa%e3%81%84%e3%82%88%e3%81%aa%e3%80%82"><span>甘くもないよな。</span></a>
+    segments:
+      - text: ２人っきりでデート・・
+        grammar_highlight: false
+      - text: もとい
+        grammar_highlight: true
+      - text: 、ＯＦＦ会だと思ったけど、そこまで甘くもないよな。
+        grammar_highlight: false
+    reading: ２にんっきりでデート・・もとい、かいだとおもったけど、そこまであまくもないよな。
+    credits_raw: paulblay
+    translations:
+      - language: en
+        text: So I thought my date er rather offline-meeting was going to be just me and her but I things aren't that easy.
+        html: |-
+          <span>So I thought my date </span><strong>er rather </strong><span>offline-meeting was going to be just me and her but I things aren't that easy. </span>
+        segments:
+          - text: 'So I thought my date '
+            grammar_highlight: false
+          - text: 'er rather '
+            grammar_highlight: true
+          - text: 'offline-meeting was going to be just me and her but I things aren''t that easy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: This is used in spoken Japanese to correct yourself.
+    html: This is used in spoken Japanese to correct yourself.
+    credits_raw: paulblay
+    content_sha256: bacac10e664eeb2ddb7df389cff1f543a496ae9e8288ce8d6475482f62b6b018
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      I don't know what kanji (if any) apply to this or what the grammatical basis is for this usage. Please add details if you know them.
+    html: |-
+      I don't know what kanji (if any) apply to this or what the grammatical basis is for this usage. Please add details if you know them.
+    credits_raw: paulblay
+    content_sha256: aaf892f7dc36cf519ae34f9b469a0453aea4f0f772cbf8201a2845f89eda0446
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      The listing for 元い (もとい) in my electronic dictionary is a link to 元へ (もとへ), so 元い is probably a corrupted/alternate form of 元へ, which literally means "back to the beginning". It's probably best to think of this phrase as meaning "take back", as in "Wednesday... no, I take it back -- Thursday".
+    html: |-
+      The listing for 元い (もとい) in my electronic dictionary is a link to 元へ (もとへ), so 元い is probably a corrupted/alternate form of 元へ, which literally means "back to the beginning". It's probably best to think of this phrase as meaning "take back", as in "Wednesday... no, I take it back -- Thursday".
+    credits_raw: potaro
+    content_sha256: 9dea96fe234c19a3254d04cd9930d049a7c85512db17703ab1e848fc66842a6b
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:47:19+00:00'
+response_sha256: 167b4e6aa2d98b3583edd5fd9760b2d3441778aaa71cee0316d4d5b48aac1d74
+warnings: []

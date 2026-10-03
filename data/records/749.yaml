@@ -1,0 +1,273 @@
+schema_version: 2
+id: 749
+source: takoboto
+source_url: https://takoboto.jp/bunpo/749/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜かな
+romanized_label: kana
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: I wonder.. (Based on か question particle.)
+meaning_example: I wonder if he'll be here soon?
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_749
+    body_text: |-
+      I wonder.. (Based on か question particle.) 
+       I wonder if he'll be here soon?
+    body_html: |-
+      <span>I wonder.. (Based on か question particle.)</span> <br/> <span>I wonder if he'll be here soon?</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 5276
+    position: 0
+    japanese: この靴は高いかな
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e9%9d%b4%e3%81%af"><span>靴は</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84"><span>高い</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%aa"><strong>かな</strong></a>
+    segments:
+      - text: この靴は高い
+        grammar_highlight: false
+      - text: かな
+        grammar_highlight: true
+    reading: このくつはたかいかな
+    credits_raw: alarma
+    translations:
+      - language: en
+        text: I wonder if these shoes are expensive
+        html: |-
+          <span>I wonder if these shoes are expensive </span>
+        segments:
+          - text: 'I wonder if these shoes are expensive '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5284
+    position: 1
+    japanese: 締め切りに間に合わなかったらどうなるかな。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%b7%a0%e3%82%81"><span>締め</span></a><a href="https://takoboto.jp/?q=%e5%88%87%e3%82%8a%e3%81%ab"><span>切りに</span></a><a href="https://takoboto.jp/?q=%e9%96%93%e3%81%ab"><span>間に</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e3%82%8f%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%89"><span>合わなかったら</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%81%aa%e3%82%8b"><span>どうなる</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%aa%e3%80%82"><strong>かな。</strong></a>
+    segments:
+      - text: 締め切りに間に合わなかったらどうなる
+        grammar_highlight: false
+      - text: かな。
+        grammar_highlight: true
+    reading: しめきりにまにあわなかったらどうなるかな。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: What if I miss the deadline?
+        html: |-
+          <strong>What if </strong><span>I miss the deadline? </span>
+        segments:
+          - text: 'What if '
+            grammar_highlight: true
+          - text: 'I miss the deadline? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5285
+    position: 2
+    japanese: 「彼の病気は重いのかな。」「そうでないといいね。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e7%97%85%e6%b0%97%e3%81%af"><span>病気は</span></a><a href="https://takoboto.jp/?q=%e9%87%8d%e3%81%84%e3%81%ae"><span>重いの</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%aa%e3%80%82%e3%80%8d"><strong>かな。」</strong></a><a href="https://takoboto.jp/?q=%e3%80%8c%e3%81%9d%e3%81%86%e3%81%a7%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%84%e3%81%ad%e3%80%82%e3%80%8d"><span>「そうでないといいね。」</span></a>
+    segments:
+      - text: 「彼の病気は重いの
+        grammar_highlight: false
+      - text: かな。」
+        grammar_highlight: true
+      - text: 「そうでないといいね。」
+        grammar_highlight: false
+    reading: 「かれのびょうきはおもいのかな。」「そうでないといいね。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"Is he seriously ill ?" "I hope not."'
+        html: |-
+          <span>"Is he seriously ill </span><strong>?" </strong><span>"I hope not." </span>
+        segments:
+          - text: '"Is he seriously ill '
+            grammar_highlight: false
+          - text: '?" '
+            grammar_highlight: true
+          - text: '"I hope not." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5286
+    position: 3
+    japanese: 「肘が痛むんだよ。病院に行こうかな。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e8%82%98%e3%81%8c"><span>肘が</span></a><a href="https://takoboto.jp/?q=%e7%97%9b%e3%82%80%e3%82%93%e3%81%a0%e3%82%88%e3%80%82"><span>痛むんだよ。</span></a><a href="https://takoboto.jp/?q=%e7%97%85%e9%99%a2%e3%81%ab"><span>病院に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%93%e3%81%86"><span>行こう</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%aa%e3%80%82%e3%80%8d"><strong>かな。」</strong></a>
+    segments:
+      - text: 「肘が痛むんだよ。病院に行こう
+        grammar_highlight: false
+      - text: かな。」
+        grammar_highlight: true
+    reading: 「ひじがいたむんだよ。びょういんにいこうかな。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"My elbow really hurts. I guess I should go to a hospital."'
+        html: |-
+          <span>"My elbow really hurts. </span><strong>I guess </strong><span>I should go to a hospital." </span>
+        segments:
+          - text: '"My elbow really hurts. '
+            grammar_highlight: false
+          - text: 'I guess '
+            grammar_highlight: true
+          - text: 'I should go to a hospital." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5287
+    position: 4
+    japanese: ７月の上旬に、海に行くのは早いかな。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%97%e6%9c%88%e3%81%ae"><span>７月の</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e6%97%ac%e3%81%ab%e3%80%81"><span>上旬に、</span></a><a href="https://takoboto.jp/?q=%e6%b5%b7%e3%81%ab"><span>海に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f%e3%81%ae%e3%81%af"><span>行くのは</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e3%81%84"><span>早い</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%aa%e3%80%82"><strong>かな。</strong></a>
+    segments:
+      - text: ７月の上旬に、海に行くのは早い
+        grammar_highlight: false
+      - text: かな。
+        grammar_highlight: true
+    reading: しちがつのじょうじゅんに、うみにいくのははやいかな。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I wonder if the first week (or so) of July is too early to go to the beach.
+        html: |-
+          <strong>I wonder </strong><span>if the first week (or so) of July is too early to go to the beach. </span>
+        segments:
+          - text: 'I wonder '
+            grammar_highlight: true
+          - text: 'if the first week (or so) of July is too early to go to the beach. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: かな is used by males, it sounds weird if females use it. Thus females use かしら。
+    html: かな is used by males, it sounds weird if females use it. Thus females use かしら。
+    credits_raw: kkat
+    content_sha256: 5aa659c7a96729197632abbb15416331b07e826131534c2a8e024f9b109c60e1
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Three main uses of かな.
+      1. A question with little doubt.
+      e.g. ジムならうまくいくかな。As it's Jim I wonder whether it will go well.
+      2. Talking to yourself.
+      ゲーセンに行こうかな。Shall I go to the game center?
+      3. Expressing wish / hope.
+      誰かこないかな。Is anybody going to come? (I hope somebody comes.)
+    html: |-
+      Three main uses of かな.<br/>1. A question with little doubt.<br/>e.g. ジムならうまくいくかな。As it's Jim I wonder whether it will go well.<br/>2. Talking to yourself.<br/>ゲーセンに行こうかな。Shall I go to the game center?<br/>3. Expressing wish / hope.<br/>誰かこないかな。Is anybody going to come? (I hope somebody comes.)
+    credits_raw: Amatuka
+    content_sha256: 30f62d3d6dc572dd1a0fe5e2f4e6fc0779008a056a2ec25c1263cb79d31b4701
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Placed on the end of a sentence.
+
+      S = Sentence.
+    html: |-
+      Placed on the end of a sentence.<br/><br/>S = Sentence.
+    credits_raw: Amatuka
+    content_sha256: 3831caa1775b587a8fa48d638ed9914fa7aa36f95abb2505a16c04967e897651
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      かな is made up of か, a particle for interrogatory and な a particle to express one's emotion. It is used to ask oneself a question or a question to another as to the degree of uncertainty involved. When you use it in the form of ないかな, you are expressing a desire for something to come true.
+
+      間違えたかな = Did I screw it up?
+      天気にならないかな = Hope the weather clears up!
+    html: |-
+      かな is made up of か, a particle for interrogatory and な a particle to express one's emotion. It is used to ask oneself a question or a question to another as to the degree of uncertainty involved. When you use it in the form of ないかな, you are expressing a desire for something to come true.<br/><br/>間違えたかな = Did I screw it up?<br/>天気にならないかな = Hope the weather clears up!
+    credits_raw: bamboo4
+    content_sha256: b5af1377925f5a911c3ac6ccd1eadd39e8dbecbe7d0e845573d4a2638531c482
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: How would you express a desire for something to not come true? such as, "I hope the weather does not clear up." ?
+    html: How would you express a desire for something to not come true? such as, "I hope the weather does not clear up." ?
+    credits_raw: Ness
+    content_sha256: 6a3d9a06251aa148191284ff9a19ffd1ac9596d1f43d05cc7ddbf99ea6989fd2
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      I'm not sure if its a usual thing, but in Tokyo a lot of my female friends often use ...かな〜. It could be a regional thing or that I have particularly unrefined friends, but I thought I'd drop the thought in anyway.
+    html: |-
+      I'm not sure if its a usual thing, but in Tokyo a lot of my female friends often use ...かな〜. It could be a regional thing or that I have particularly unrefined friends, but I thought I'd drop the thought in anyway.
+    credits_raw: chrispix
+    content_sha256: 2aff3239d5ba57e0005684f243a75696a19eea461124137f9e80b28c09155750
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      I was told by a japanese friend that using かな with the polite form (such as 〜ですかな...) really sounded "Ojisan" (litterally, "speaking like your uncle", which does not sound young and trendy). Maybe this is the reason why it has been written in this article that 〜かな is male speech?
+    html: |-
+      I was told by a japanese friend that using かな with the polite form (such as 〜ですかな...) really sounded "Ojisan" (litterally, "speaking like your uncle", which does not sound young and trendy). Maybe this is the reason why it has been written in this article that 〜かな is male speech?
+    credits_raw: charles
+    content_sha256: f2eb73f41a312ff3b3ecc9d0010c096d1692d185b1e283ff8468d61b4defa4e5
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      Kana is usable by Japanese women, but mainly for monologues - it's more versatile for usage by men. And yeah, go with the plain form if you're under 40.
+    html: |-
+      Kana is usable by Japanese women, but mainly for monologues - it's more versatile for usage by men. And yeah, go with the plain form if you're under 40.
+    credits_raw: televangelist
+    content_sha256: 38e25f9752fc7da215865aa9618f627fcc4924110e599ac4101dc929831f8cb2
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: Girls often say かな, but a guy would never say かしら as that sounds very feminine.
+    html: Girls often say かな, but a guy would never say かしら as that sounds very feminine.
+    credits_raw: bunbun
+    content_sha256: 4176bcb7f82991387a5f8d00a4b0934e4e29c6f81f12c8d649b4ee74e8166507
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: testing... わたしも行こうかなぁ〜
+    html: testing... わたしも行こうかなぁ〜
+    credits_raw: yookoso
+    content_sha256: 5c38d222a9a9b9446295ebf7f5d43d02698187c5dc0f8670933539edfe3f018f
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      The comment on this entry by user "kkat" is incorrect. Females use this grammar pattern all the time. It's perfectly neutral in terms of gender. On the other hand,「かしら」sounds rather feminine and would not normally be used by straight males.
+    html: |-
+      The comment on this entry by user "kkat" is incorrect. Females use this grammar pattern all the time. It's perfectly neutral in terms of gender. On the other hand,「かしら」sounds rather feminine and would not normally be used by straight males.
+    credits_raw: 蜜畠
+    content_sha256: 4b551e2b7a35112b7cc7b1fd4a4e8a8e5e93c79d6506e1a9bd17a3d338cd3b54
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1276
+    label: 〜っけ
+    source_url: https://takoboto.jp/bunpo/1276
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:36+00:00'
+response_sha256: aab7f69281ab3bf344177d933b44ccbf5313a87cbcfd9b1e37c8acf42a49a892
+warnings: []

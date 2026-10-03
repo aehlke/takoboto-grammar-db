@@ -1,0 +1,76 @@
+schema_version: 2
+id: 1674
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1674/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: だからといって
+romanized_label: dakaratoitte
+alternate_forms: []
+jlpt_level: 2
+credits_raw: cosby kid
+meaning: However.. / It doesn't follow that .../ But it doesn't mean that..
+meaning_example: He is young. He has little experience. But it doesn't follow from this that he cannot teach
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1674
+    body_text: |-
+      However.. / It doesn't follow that .../ But it doesn't mean that.. 
+       He is young. He has little experience. But it doesn't follow from this that he cannot teach
+    body_html: |-
+      <span>However.. / It doesn't follow that .../ But it doesn't mean that..</span> <br/> <span>He is young. He has little experience. But it doesn't follow from this that he cannot teach</span>
+    credits_raw: cosby kid
+formations: []
+examples:
+  - source_id: 7048
+    position: 0
+    japanese: チェンさんは日本語が苦手だ。テストではいつも半分も出来ない。だからといって、頭が悪いわけではない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%81%95%e3%82%93%e3%81%af"><span>チェンさんは</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%8c"><span>日本語が</span></a><a href="https://takoboto.jp/?q=%e8%8b%a6%e6%89%8b%e3%81%a0%e3%80%82%e3%83%86%e3%82%b9%e3%83%88%e3%81%a7%e3%81%af%e3%81%84%e3%81%a4%e3%82%82"><span>苦手だ。テストではいつも</span></a><a href="https://takoboto.jp/?q=%e5%8d%8a%e5%88%86%e3%82%82"><span>半分も</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e6%9d%a5%e3%81%aa%e3%81%84%e3%80%82%e3%81%a0%e3%81%8b%e3%82%89%e3%81%a8%e3%81%84%e3%81%a3%e3%81%a6%e3%80%81"><span>出来ない。だからといって、</span></a><a href="https://takoboto.jp/?q=%e9%a0%ad%e3%81%8c"><span>頭が</span></a><a href="https://takoboto.jp/?q=%e6%82%aa%e3%81%84%e3%82%8f%e3%81%91%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%80%82"><span>悪いわけではない。</span></a>
+    segments:
+      - text: チェンさんは日本語が苦手だ。テストではいつも半分も出来ない。だからといって、頭が悪いわけではない。
+        grammar_highlight: false
+    reading: さんはにほんごがにがてだ。テストではいつもはんぶんもできない。だからといって、あたまがわるいわけではない。
+    credits_raw: cosby
+    translations:
+      - language: en
+        text: |-
+          Mr. Cheng is not good at Japanese. On a test he cannot even finish half of it. But it doesn't follow from this that he is not smart.
+        html: |-
+          <span>Mr. Cheng is not good at Japanese. On a test he cannot even finish half of it. But it doesn't follow from this that he is not smart. </span>
+        segments:
+          - text: "Mr. Cheng is not good at Japanese. On a test he cannot even finish half of it. But it doesn't follow from this that he is not smart. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: often occurs in a sentences with [wakedehanai] and [kagiranai]
+    html: often occurs in a sentences with [wakedehanai] and [kagiranai]
+    credits_raw: cosby kid
+    content_sha256: bc10f2710edd47d38fc6987a7eca604206ff743f83e2300bfaa52d7dd4c5010b
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      sorry, add more later, but...
+
+      1) this is JLPT 2
+      2) can be: any form + から　と　いって
+      3) more generally, meaning of "just because X, doesn't mean Y"
+    html: |-
+      sorry, add more later, but...<br/><br/>1) this is JLPT 2<br/>2) can be: any form + から　と　いって<br/>3) more generally, meaning of "just because X, doesn't mean Y"
+    credits_raw: jmadsen
+    content_sha256: 669c0635ef8891b31fa6530bc144c619172fc53d65f8be12e8824c0fbe05bd47
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:40:37+00:00'
+response_sha256: 55aad6eb80f1bbc631adfcd016743be8d139ead213cda1c0b181b7ec4051c0ca
+warnings: []

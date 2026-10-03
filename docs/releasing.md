@@ -1,6 +1,6 @@
 # Releases
 
-The public repository contains the scraper, tests, canonical extracted JSON,
+The public repository contains the scraper, tests, canonical extracted YAML,
 historical verification states, inventories and provenance reports. Generated
 Markdown, SQLite files, raw caches, local smoke tests and virtual environments
 are excluded from Git.
@@ -15,14 +15,14 @@ uv run --locked takoboto-grammar build --input data --archive archive-data --arc
   --sqlite exports/new-release/grammar.sqlite --markdown exports/new-release/markdown
 ```
 
-Review and commit changed JSON and provenance before tagging the release.
+Review and commit changed YAML and provenance before tagging the release.
 Reader Markdown is an optional local export; do not commit generated pages.
 The Markdown update command maintains its local `.generated.json`, rewrites only
 changed pages and moves obsolete generated pages to `~/.Trash`. It refuses
 manual edits to managed pages; keep corrections separate. SQLite exports require
 a fresh filename rather than overwriting an existing release database.
 
-Check SQLite integrity and foreign keys, roundtrip all full JSON records and
+Check SQLite integrity and foreign keys, roundtrip all full YAML records through the embedded SQLite JSON and
 preserve displayed credits. Where raw caches are available, also run source
 audits for current, newer historical and dated-backup observations. Builds need no network access. New live crawls require prior contact with
 Takoboto and permission under [the operator instructions](../PERMISSION.md).

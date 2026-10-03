@@ -1,0 +1,88 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1791
+label: nikagiri
+title_raw: に限り ([にかぎり] )(nikagiri)
+title: に限り
+reading: にかぎり
+romanized_label: nikagiri
+category: grammar
+jlpt_level_original: '2'
+meaning: only if 〜の場合だけは
+meaning_example: Only students can receive the sale
+credits_raw: masakitenchi
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=nikagiri
+archive_url: https://web.archive.org/web/20200215031159id_/http://jgram.org:80/pages/viewOne.php?tagE=nikagiri
+archive_timestamp: '20200215031159'
+retrieved_at: '2026-10-03T17:51:43+00:00'
+archive_digest: GH3MVI4LIK5MQJW6DKXFIDN5WBJDMHBI
+response_sha256: aa069e898682904c4ae76134a39039938f6b913fc12dcaaa2bc1fcaed2aeb982
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: Also にかぎって
+    html: Also にかぎって
+    credits_raw: masakitenchi
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: this is like "limited to"
+    html: this is like "limited to"
+    credits_raw: dcsan
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 8730
+    position: 0
+    japanese: 学生に限り、半額で入場できる。
+    body_text: "学生に限り、半額で入場できる。 \n\nOnly \n\t\tstudents can enter in half price."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ学生に限り、半額で入場できる。\">\n\t\t\t\t学生<strong>に限り</strong>、半額で入場できる。<strong></strong></a> <br/>\n<strong>Only </strong>\n\t\tstudents can enter in half price."
+    credits_raw: masakitenchi
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8731
+    position: 1
+    japanese: 学生に限り入場可能
+    body_text: "学生に限り入場可能 \n\n\t\tAdmission to students \n\t\tonly \n\t\t."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ学生に限り入場可能\">\n\t\t\t\t学生<strong>に限り</strong>入場可能<strong></strong></a> <br/>\n\t\tAdmission to students \n\t\t<strong>only </strong>\n\t\t."
+    credits_raw: masakitenchi
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dcsan
+    text: see also nikagiranai
+    html: |-
+      see also <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=nikagiranai">nikagiranai</a></b>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      に限り ([にかぎり] )(nikagiri)
+          Meaning: only if 〜の場合だけは
+          Example: Only students can receive the sale
+          JLPT Level: 2
+          Category: grammar
+          Author: masakitenchi
+    html: |-
+      <span>に限り ([にかぎり] )(nikagiri)</span><br/>    <span><b>Meaning</b>: only if 〜の場合だけは</span><br/>    <b>Example</b>: <i>Only students can receive the sale</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>masakitenchi</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215031159'

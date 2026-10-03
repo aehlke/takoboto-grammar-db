@@ -1,0 +1,109 @@
+schema_version: 2
+id: 1326
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1326/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜に難くない
+romanized_label: nikatakunai
+alternate_forms:
+  - 〜にかたくない
+jlpt_level: 1
+credits_raw: dc
+meaning: not hard to ...(名詞＋にかたくない/　Vる＋にかたくない）
+meaning_example: not hard to imagine it becoming a problem
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1326
+    body_text: "not hard to ...(名詞＋にかたくない/　Vる＋にかたくない） \n not hard to imagine it becoming a problem"
+    body_html: |-
+      <span>not hard to ...(名詞＋にかたくない/　Vる＋にかたくない）</span> <br/> <span>not hard to imagine it becoming a problem</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 4240
+    position: 0
+    japanese: 彼の不安は想像にかたくない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e4%b8%8d%e5%ae%89%e3%81%af"><span>不安は</span></a><a href="https://takoboto.jp/?q=%e6%83%b3%e5%83%8f"><span>想像</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%9f%e3%81%8f%e3%81%aa%e3%81%84"><strong>にかたくない</strong></a>
+    segments:
+      - text: 彼の不安は想像
+        grammar_highlight: false
+      - text: にかたくない
+        grammar_highlight: true
+    reading: かれのふあんはそうぞうにかたくない
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Its not hard to imagine he is worried
+        html: |-
+          <span>Its not </span><strong>hard to </strong><span>imagine he is worried </span>
+        segments:
+          - text: 'Its not '
+            grammar_highlight: false
+          - text: 'hard to '
+            grammar_highlight: true
+          - text: 'imagine he is worried '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5299
+    position: 1
+    japanese: 彼の喜びは、察するにかたくない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e5%96%9c%e3%81%b3%e3%81%af%e3%80%81"><span>喜びは、</span></a><a href="https://takoboto.jp/?q=%e5%af%9f%e3%81%99%e3%82%8b"><span>察する</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8b%e3%81%9f%e3%81%8f%e3%81%aa%e3%81%84"><strong>にかたくない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼の喜びは、察する
+        grammar_highlight: false
+      - text: にかたくない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かれのよろこびは、さっするにかたくない。
+    credits_raw: blabby
+    translations:
+      - language: en
+        text: It's not hard to guess how happy he is.
+        html: |-
+          <span>It's not hard to guess how happy he is. </span>
+        segments:
+          - text: 'It''s not hard to guess how happy he is. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      in certain circumstances, it would be possible.
+      often used with imagine "it would not be hard to imagine this happening"
+    html: |-
+      in certain circumstances, it would be possible.<br/>often used with imagine "it would not be hard to imagine this happening"
+    credits_raw: dc
+    content_sha256: cc1ec40e823b3afba3355e8d4584da50ea58737208b94643172874caec8d2116
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: This is very often used with 想像する and 察する.
+    html: This is very often used with 想像する and 察する.
+    credits_raw: blabby
+    content_sha256: e72e0fae9a2100ca32f3f57fe07690973bba21b72cbbc45e7b8440036f41cf5a
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 子供を亡くした親の悲しみは、察するにかたくない。
+    html: 子供を亡くした親の悲しみは、察するにかたくない。
+    credits_raw: khongbietboi
+    content_sha256: ff27f6d72ca6a12dbde8a755163a88d8721d4fdb4f8df1a3c6dbc3289369c73c
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:45:36+00:00'
+response_sha256: ebd757cfba4ef09f96397ed3eaf5f8ea8ca4473bc211987a4ac5bc41d7ef15dd
+warnings: []

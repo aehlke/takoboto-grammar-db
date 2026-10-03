@@ -1,0 +1,257 @@
+schema_version: 2
+id: 1557
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1557/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: まさかの〜
+romanized_label: masakano
+alternate_forms: []
+jlpt_level: 1
+credits_raw: 誠
+meaning: If unexpectedly there is anything , 〜
+meaning_example: If there is anything unexpected, please call here.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1557
+    body_text: |-
+      If unexpectedly there is anything , 〜 
+       If there is anything unexpected, please call here.
+    body_html: |-
+      <span>If unexpectedly there is anything , 〜</span> <br/> <span>If there is anything unexpected, please call here.</span>
+    credits_raw: 誠
+formations: []
+examples:
+  - source_id: 5842
+    position: 0
+    japanese: まさかの場合、ここに電話してください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%95%e3%81%8b%e3%81%ae"><strong>まさかの</strong></a><a href="https://takoboto.jp/?q=%e5%a0%b4%e5%90%88%e3%80%81%e3%81%93%e3%81%93%e3%81%ab"><span>場合、ここに</span></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%97%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>電話してください。</span></a>
+    segments:
+      - text: まさかの
+        grammar_highlight: true
+      - text: 場合、ここに電話してください。
+        grammar_highlight: false
+    reading: まさかのばあい、ここにでんわしてください。
+    credits_raw: 誠
+    translations:
+      - language: en
+        text: If there is anything unexpected/For the unexpected , please contact to this place.
+        html: |-
+          <strong>If there is anything unexpected/For the unexpected </strong><span>, please contact to this place. </span>
+        segments:
+          - text: 'If there is anything unexpected/For the unexpected '
+            grammar_highlight: true
+          - text: ', please contact to this place. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5843
+    position: 1
+    japanese: まさかの時、すぐお知らせ下さい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%95%e3%81%8b%e3%81%ae"><strong>まさかの</strong></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%80%81%e3%81%99%e3%81%90%e3%81%8a"><span>時、すぐお</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%81%9b"><span>知らせ</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84%e3%80%82"><span>下さい。</span></a>
+    segments:
+      - text: まさかの
+        grammar_highlight: true
+      - text: 時、すぐお知らせ下さい。
+        grammar_highlight: false
+    reading: まさかのとき、すぐおしらせください。
+    credits_raw: 誠
+    translations:
+      - language: en
+        text: If there is anything(unexpected) ,please let me know at once.
+        html: |-
+          <strong>If there is anything(unexpected) </strong><span>,please let me know at once. </span>
+        segments:
+          - text: 'If there is anything(unexpected) '
+            grammar_highlight: true
+          - text: ',please let me know at once. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5860
+    position: 2
+    japanese: まさかのときには貯蓄に頼ればよい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%95%e3%81%8b%e3%81%ae%e3%81%a8%e3%81%8d"><strong>まさかのとき</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%af"><span>には</span></a><a href="https://takoboto.jp/?q=%e8%b2%af%e8%93%84%e3%81%ab"><span>貯蓄に</span></a><a href="https://takoboto.jp/?q=%e9%a0%bc%e3%82%8c%e3%81%b0%e3%82%88%e3%81%84%e3%80%82"><span>頼ればよい。</span></a>
+    segments:
+      - text: まさかのとき
+        grammar_highlight: true
+      - text: には貯蓄に頼ればよい。
+        grammar_highlight: false
+    reading: まさかのときにはちょちくにたよればよい。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: In an emergency you can fall back on your savings.
+        html: |-
+          <span>In </span><strong>an emergency </strong><span>you can fall back on your savings. </span>
+        segments:
+          - text: 'In '
+            grammar_highlight: false
+          - text: 'an emergency '
+            grammar_highlight: true
+          - text: 'you can fall back on your savings. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5861
+    position: 3
+    japanese: まさかのときに備えて貯蓄せよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%95%e3%81%8b%e3%81%ae%e3%81%a8%e3%81%8d"><strong>まさかのとき</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e5%82%99%e3%81%88%e3%81%a6"><span>備えて</span></a><a href="https://takoboto.jp/?q=%e8%b2%af%e8%93%84%e3%81%9b%e3%82%88%e3%80%82"><span>貯蓄せよ。</span></a>
+    segments:
+      - text: まさかのとき
+        grammar_highlight: true
+      - text: に備えて貯蓄せよ。
+        grammar_highlight: false
+    reading: まさかのときにそなえてちょちくせよ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Keep something for a rainy day.
+        html: |-
+          <span>Keep something for </span><strong>a rainy day. </strong>
+        segments:
+          - text: 'Keep something for '
+            grammar_highlight: false
+          - text: 'a rainy day. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5862
+    position: 4
+    japanese: まさかのときの友こそ真の友。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%95%e3%81%8b%e3%81%ae"><strong>まさかの</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%8d%e3%81%ae"><span>ときの</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e3%81%93%e3%81%9d"><span>友こそ</span></a><a href="https://takoboto.jp/?q=%e7%9c%9f%e3%81%ae"><span>真の</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e3%80%82"><span>友。</span></a>
+    segments:
+      - text: まさかの
+        grammar_highlight: true
+      - text: ときの友こそ真の友。
+        grammar_highlight: false
+    reading: まさかのときのともこそしんのとも。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Friend in need is a friend indeed.
+        html: |-
+          <span>Friend </span><strong>in need </strong><span>is a friend indeed. </span>
+        segments:
+          - text: 'Friend '
+            grammar_highlight: false
+          - text: 'in need '
+            grammar_highlight: true
+          - text: 'is a friend indeed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5863
+    position: 5
+    japanese: まさかの時にはあなたを助けてやろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%95%e3%81%8b%e3%81%ae"><strong>まさかの</strong></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%81%ab%e3%81%af%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92"><span>時にはあなたを</span></a><a href="https://takoboto.jp/?q=%e5%8a%a9%e3%81%91%e3%81%a6%e3%82%84%e3%82%8d%e3%81%86%e3%80%82"><span>助けてやろう。</span></a>
+    segments:
+      - text: まさかの
+        grammar_highlight: true
+      - text: 時にはあなたを助けてやろう。
+        grammar_highlight: false
+    reading: まさかのときにはあなたをたすけてやろう。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I'll stand by you in time of need.
+        html: |-
+          <span>I'll stand by you in time </span><strong>of need. </strong>
+        segments:
+          - text: 'I''ll stand by you in time '
+            grammar_highlight: false
+          - text: 'of need. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8750
+    position: 6
+    japanese: 私の家族は天気が良かったので花見に行ったら、まさかの急な雨が降り出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e6%97%8f%e3%81%af"><span>家族は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a9%e6%b0%97%e3%81%8c"><span>天気が</span></a><a href="https://takoboto.jp/?q=%e8%89%af%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7"><span>良かったので</span></a><a href="https://takoboto.jp/?q=%e8%8a%b1%e8%a6%8b%e3%81%ab"><span>花見に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%82%89%e3%80%81%e3%81%be%e3%81%95%e3%81%8b%e3%81%ae"><span>行ったら、まさかの</span></a><a href="https://takoboto.jp/?q=%e6%80%a5%e3%81%aa"><span>急な</span></a><a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%8a"><span>降り</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: 私の家族は天気が良かったので花見に行ったら、まさかの急な雨が降り出した。
+        grammar_highlight: false
+    reading: わたしのかぞくはてんきがよかったのではなみにいったら、まさかのきゅうなあめがふりだした。
+    credits_raw: yuzuha
+    translations:
+      - language: en
+        text: When my family went to flower viewing because the weather was nice, a sudden unexpected rain began to fall.
+        html: |-
+          <span>When my family went to flower viewing because the weather was nice, a sudden unexpected rain began to fall. </span>
+        segments:
+          - text: 'When my family went to flower viewing because the weather was nice, a sudden unexpected rain began to fall. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Always come with 「まさかの場合、〜」、「まさかの時、〜」
+    html: Always come with 「まさかの場合、〜」、「まさかの時、〜」
+    credits_raw: 誠
+    content_sha256: f4024f3d3a29e9c46353f9820a9b8fc9db37b78913032f2f929885819a77e16a
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'In #5842, まさかの場合 should preferably be まさかの時は and in #5843, まさかの時 should be まさかの時は'
+    html: 'In #5842, まさかの場合 should preferably be まさかの時は and in #5843, まさかの時 should be まさかの時は'
+    credits_raw: bamboo4
+    content_sha256: 588b8b3d8621b3e0706f04aabd4bc5c3cf3d7cb5e8a2e15d7cb6d740f77cc53f
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      There are 19 まさかの時 examples in WWWJDIC
+      http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?1Q%A4%DE%A4%B5%A4%AB%A4%CE%BB%FE_0__
+      which can be "borrowed" as necessary. In WWWJDIC examples the Japanese is usually good, but the English is sometimes dodgy.
+    html: |-
+      There are 19 まさかの時 examples in WWWJDIC<br/>http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?1Q%A4%DE%A4%B5%A4%AB%A4%CE%BB%FE_0__<br/>which can be "borrowed" as necessary. In WWWJDIC examples the Japanese is usually good, but the English is sometimes dodgy.
+    credits_raw: Paul Blay
+    content_sha256: 049f2d80c5d3a1b6dbccd8df5016223ffe891648a07c9aa5be3d78f88a3ae2fe
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      a lot of those examples are duplicates, but i added the best. FYI the link on this page to "Search big database for more examples of まさかの〜" searches the same WWJDIC example database.
+    html: |-
+      a lot of those examples are duplicates, but i added the best. FYI the link on this page to "Search big database for more examples of まさかの〜" searches the same WWJDIC example database.
+    credits_raw: dc
+    content_sha256: cc75abab3e082a288a221d3af02e776b38813a928939941e791b13b53887ff2b
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Wouldn't example [#5843] be more succinctly translated as, "If there is anything unexpected, please call."? It's not really necessary to include the "to this place" (or better - "here").
+    html: |-
+      Wouldn't example [#5843] be more succinctly translated as, "If there is anything unexpected, please call."? It's not really necessary to include the "to this place" (or better - "here").
+    credits_raw: lonesoullost
+    content_sha256: cd76b494fad058981e7d38eb3097603b641aa59fa4f1a618876f9e1fb32cf03c
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: ｢まさかの時｣を「何か在ったら」と同じ意味で把握しても良いですか。
+    html: ｢まさかの時｣を「何か在ったら」と同じ意味で把握しても良いですか。
+    credits_raw: ppmohapatra
+    content_sha256: f2fff913cc9b1f018404814dc4e236594b81b6176bccf806cf397e06f87e5d02
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:43:51+00:00'
+response_sha256: da17217f41373ab8cfba76cb5d2ef12cb77368eaf7c5317b6fbe3da2f9fbf5d9
+warnings: []

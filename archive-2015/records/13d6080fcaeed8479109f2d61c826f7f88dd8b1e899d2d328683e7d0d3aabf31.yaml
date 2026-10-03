@@ -1,0 +1,120 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1267
+label: youdehanaika-2
+title_raw: ようではないか [ようではないか] (youdehanaika-2)
+title: ようではないか
+reading: ようではないか
+romanized_label: youdehanaika-2
+category: grammar
+jlpt_level_original: '2'
+meaning: doesn't it seem ~ ?
+meaning_example: seems like it will rain?
+credits_raw: Amatuka
+source_url: http://jgram.org/pages/viewOne.php?tagE=youdehanaika-2
+archive_url: https://web.archive.org/web/20150224225354id_/http://jgram.org/pages/viewOne.php?tagE=youdehanaika-2
+archive_timestamp: '20150224225354'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: X3R2F6JOXQJQJ5RVEBD462UJQS4PE6BQ
+response_sha256: 9782d24f863d2c53c84b4005a11b0edaae400c162b6e5b99ac6046b279a169f2
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 487
+    position: 0
+    japanese: 雨が降るようではないか
+    body_text: "雨が降るようではないか \n\n\t\tseems like its going to rain \n\t\tdoesn't it?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ雨が降るようではないか\">\n\t\t\t\t雨が降る<strong>ようではないか</strong><strong></strong></a> <br/>\n\t\tseems like its going to rain \n\t\t<strong>doesn't it? </strong>"
+    credits_raw: Amatuka
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 897
+    position: 1
+    japanese: 空にのびる枝が我々を導いてくれてるようではないか。
+    body_text: "空にのびる枝が我々を導いてくれてるようではないか。 \n\nDoesn't it seem as if \n\t\tthe branches extending into the sky are guiding us?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ空にのびる枝が我々を導いてくれてるようではないか。\">\n\t\t\t\t空にのびる枝が我々を導いてくれてる<strong>ようではないか</strong>。<strong></strong></a> <br/>\n<strong>Doesn't it seem as if </strong>\n\t\tthe branches extending into the sky are guiding us?"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4767
+    position: 2
+    japanese: 動いているのに、進んでいないようではないか。
+    body_text: "動いているのに、進んでいないようではないか。 \n\n\t\tEen though you're moving \n\t\tit doesn't seems as if \n\t\tyou're going anywhere."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ動いているのに、進んでいないようではないか。\">\n\t\t\t\t動いているのに、進んでいない<strong>ようではないか。</strong><strong></strong></a> <br/>\n\t\tEen though you're moving \n\t\t<strong>it doesn't seems as if </strong>\n\t\tyou're going anywhere."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "This sentence is not so natural.\n\r\nI would say 雨が降り_そう_ではないか。\n\r\nではないか can be replaced by じゃないか。(conv)"
+    html: "This sentence is not so natural.<br/>\r\nI would say 雨が降り_そう_ではないか。<br/>\r\nではないか can be replaced by じゃないか。(conv)<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: Doesn't seem to be very common usage.
+    html: Doesn't seem to be very common usage.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: Is that example any better?
+    html: Is that example any better?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Miki
+    text: With this example, it is difficult to make it any better to suit the entry.
+    html: With this example, it is difficult to make it any better to suit the entry.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bamboo4
+    text: ようではないか is a book Japanese. It is hardly used in conversation.
+    html: ようではないか is a book Japanese. It is hardly used in conversation.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: youdehanaika
+    label: youdehanaika
+    annotation_text: youdehanaika    (Don't confuse ようではないか with 様ではないか Same kana, different meaning.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=youdehanaika">youdehanaika</a>    (Don't confuse ようではないか with 様ではないか Same kana, different meaning.) [<a href="http://jgram.org/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: "ようではないか [ようではないか] (youdehanaika-2)\n    Meaning: doesn't it seem ~ ? \n    Example: seems like it will rain?\n    JLPT Level: 2\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>ようではないか [ようではないか] (youdehanaika-2)</span><br/>    <span><b>Meaning</b>: doesn't it seem ~ ? </span><br/>    <b>Example</b>: <i>seems like it will rain?</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225354'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 2034511
+  length: 5538
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 244b3e164fc25bd0f82bf53ae55a399bd07e5bafa5bd4a2d9ea087711f66fdd4

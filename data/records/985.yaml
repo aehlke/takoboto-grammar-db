@@ -1,0 +1,419 @@
+schema_version: 2
+id: 985
+source: takoboto
+source_url: https://takoboto.jp/bunpo/985/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: か〜ないかのうちに
+romanized_label: kanaikanouchini
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: No sooner than; just as, at that instant
+meaning_example: just as the doors opened they rushed in
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_985
+    body_text: |-
+      No sooner than; just as, at that instant 
+       just as the doors opened they rushed in
+    body_html: |-
+      <span>No sooner than; just as, at that instant</span> <br/> <span>just as the doors opened they rushed in</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_985
+    body_text: Verb (casual form)+か+Verb (ない-form)+うちに/かのうちに
+    body_html: |-
+      <div><div><div>Verb (casual form)</div></div><div><div>+</div><div>か</div></div><div><div>+</div><div>Verb (ない-form)</div></div><div><div>+</div><div>うちに/かのうちに</div></div></div>
+    credits_raw: null
+formations:
+  - Verb (casual form) + か + Verb (ない-form) + うちに/かのうちに
+examples:
+  - source_id: 318
+    position: 0
+    japanese: 電車のドアが開くか開かないかのうちに乗客が飛び出して来る
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%bb%e8%bb%8a%e3%81%ae%e3%83%89%e3%82%a2%e3%81%8c"><span>電車のドアが</span></a><a href="https://takoboto.jp/?q=%e9%96%8b%e3%81%8f"><span>開く</span></a><a href="https://takoboto.jp/?q=%e3%81%8b"><strong>か</strong></a><a href="https://takoboto.jp/?q=%e9%96%8b%e3%81%8b"><span>開か</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%8b%e3%81%ae%e3%81%86%e3%81%a1%e3%81%ab"><strong>ないかのうちに</strong></a><a href="https://takoboto.jp/?q=%e4%b9%97%e5%ae%a2%e3%81%8c"><span>乗客が</span></a><a href="https://takoboto.jp/?q=%e9%a3%9b%e3%81%b3"><span>飛び</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%a6"><span>出して</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%82%8b"><span>来る</span></a>
+    segments:
+      - text: 電車のドアが開く
+        grammar_highlight: false
+      - text: か
+        grammar_highlight: true
+      - text: 開か
+        grammar_highlight: false
+      - text: ないかのうちに
+        grammar_highlight: true
+      - text: 乗客が飛び出して来る
+        grammar_highlight: false
+    reading: でんしゃのドアがひらくかひらかないかのうちにじょうきゃくがとびだしてくる
+    credits_raw: dc
+    translations:
+      - language: en
+        text: just at the moment when the train doors are opening, the passengers fly out.
+        html: |-
+          <strong>just at the moment when </strong><span>the train doors are opening, the passengers fly out. </span>
+        segments:
+          - text: 'just at the moment when '
+            grammar_highlight: true
+          - text: 'the train doors are opening, the passengers fly out. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3306
+    position: 1
+    japanese: ピストルの音が鳴ったか鳴らないかのうちにスタートしました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%94%e3%82%b9%e3%83%88%e3%83%ab%e3%81%ae"><span>ピストルの</span></a><a href="https://takoboto.jp/?q=%e9%9f%b3"><span>音</span></a><a href="https://takoboto.jp/?q=%e3%81%8c"><span>が</span></a><a href="https://takoboto.jp/?q=%e9%b3%b4%e3%81%a3%e3%81%9f%e3%81%8b%e9%b3%b4%e3%82%89%e3%81%aa%e3%81%84%e3%81%8b%e3%81%ae%e3%81%86%e3%81%a1%e3%81%ab"><strong>鳴ったか鳴らないかのうちに</strong></a><a href="https://takoboto.jp/?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>スタートしました。</span></a>
+    segments:
+      - text: ピストルの音が
+        grammar_highlight: false
+      - text: 鳴ったか鳴らないかのうちに
+        grammar_highlight: true
+      - text: スタートしました。
+        grammar_highlight: false
+    reading: ピストルのおとがなったかならないかのうちにスタートしました。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Just as the pistol sounded, they started
+        html: |-
+          <strong>Just as </strong><span>the pistol sounded, they started </span>
+        segments:
+          - text: 'Just as '
+            grammar_highlight: true
+          - text: 'the pistol sounded, they started '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4603
+    position: 2
+    japanese: その一行が出発するかしないかのうちに、雨が振り出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e8%a1%8c%e3%81%8c"><span>一行が</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e7%99%ba%e3%81%99%e3%82%8b"><span>出発する</span></a><a href="https://takoboto.jp/?q=%e3%81%8b"><strong>か</strong></a><a href="https://takoboto.jp/?q=%e3%81%97"><span>し</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%8b%e3%81%ae%e3%81%86%e3%81%a1%e3%81%ab%e3%80%81"><strong>ないかのうちに、</strong></a><a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e6%8c%af%e3%82%8a"><span>振り</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: その一行が出発する
+        grammar_highlight: false
+      - text: か
+        grammar_highlight: true
+      - text: し
+        grammar_highlight: false
+      - text: ないかのうちに、
+        grammar_highlight: true
+      - text: 雨が振り出した。
+        grammar_highlight: false
+    reading: そのいっこうがしゅっぱつするかしないかのうちに、あめがふりだした。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The party had hardly left when it began to rain.
+        html: |-
+          <span>The party had hardly left when it began to rain. </span>
+        segments:
+          - text: 'The party had hardly left when it began to rain. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4604
+    position: 3
+    japanese: 私がホールに入るか入らないかのうちに式が始まった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c%e3%83%9b%e3%83%bc%e3%83%ab%e3%81%ab"><span>私がホールに</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8b"><span>入る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b"><strong>か</strong></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%89"><span>入ら</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%8b%e3%81%ae%e3%81%86%e3%81%a1%e3%81%ab"><strong>ないかのうちに</strong></a><a href="https://takoboto.jp/?q=%e5%bc%8f%e3%81%8c"><span>式が</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>始まった。</span></a>
+    segments:
+      - text: 私がホールに入る
+        grammar_highlight: false
+      - text: か
+        grammar_highlight: true
+      - text: 入ら
+        grammar_highlight: false
+      - text: ないかのうちに
+        grammar_highlight: true
+      - text: 式が始まった。
+        grammar_highlight: false
+    reading: わたしがホールにはいるかはいらないかのうちにしきがはじまった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: No sooner had I entered the hall than the ceremony began.
+        html: |-
+          <span>No sooner had I entered the hall than the ceremony began. </span>
+        segments:
+          - text: 'No sooner had I entered the hall than the ceremony began. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4605
+    position: 4
+    japanese: 私が寝入るか寝入らぬかのうちに、電話がなった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e5%af%9d%e5%85%a5%e3%82%8b"><span>寝入る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b"><strong>か</strong></a><a href="https://takoboto.jp/?q=%e5%af%9d%e5%85%a5%e3%82%89"><span>寝入ら</span></a><a href="https://takoboto.jp/?q=%e3%81%ac%e3%81%8b%e3%81%ae%e3%81%86%e3%81%a1%e3%81%ab%e3%80%81"><strong>ぬかのうちに、</strong></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%8c%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>電話がなった。</span></a>
+    segments:
+      - text: 私が寝入る
+        grammar_highlight: false
+      - text: か
+        grammar_highlight: true
+      - text: 寝入ら
+        grammar_highlight: false
+      - text: ぬかのうちに、
+        grammar_highlight: true
+      - text: 電話がなった。
+        grammar_highlight: false
+    reading: わたしがねいるかねいらぬかのうちに、でんわがなった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I had hardly fallen asleep when the telephone rang.
+        html: |-
+          <span>I had hardly fallen asleep when the telephone rang. </span>
+        segments:
+          - text: 'I had hardly fallen asleep when the telephone rang. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6923
+    position: 5
+    japanese: 彼は本当にプロ並みのDJのように、一曲が終わったか終わらないかのうちに、次の一曲を整えてくる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ab%e3%83%97%e3%83%ad"><span>本当にプロ</span></a><a href="https://takoboto.jp/?q=%e4%b8%a6%e3%81%bf%e3%81%aeDJ%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab%e3%80%81"><span>並みのDJのように、</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%9b%b2%e3%81%8c"><span>一曲が</span></a><a href="https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f"><span>終わった</span></a><a href="https://takoboto.jp/?q=%e3%81%8b"><strong>か</strong></a><a href="https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%82%89"><span>終わら</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%8b%e3%81%ae%e3%81%86%e3%81%a1%e3%81%ab"><strong>ないかのうちに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e3%81%ae"><span>次の</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%9b%b2%e3%82%92"><span>一曲を</span></a><a href="https://takoboto.jp/?q=%e6%95%b4%e3%81%88%e3%81%a6%e3%81%8f%e3%82%8b%e3%80%82"><span>整えてくる。</span></a>
+    segments:
+      - text: 彼は本当にプロ並みのDJのように、一曲が終わった
+        grammar_highlight: false
+      - text: か
+        grammar_highlight: true
+      - text: 終わら
+        grammar_highlight: false
+      - text: ないかのうちに
+        grammar_highlight: true
+      - text: 、次の一曲を整えてくる。
+        grammar_highlight: false
+    reading: かれはほんとうにプロなみののように、いちきょくがおわったかおわらないかのうちに、つぎのいちきょくをととのえてくる。
+    credits_raw: kadoka66
+    translations:
+      - language: en
+        text: He is such a good DJ, no sooner has one song finished, he already has the next record ready to play.
+        html: |-
+          <span>He is such a good DJ, </span><strong>no sooner has </strong><span>one song finished, he already has the next record ready to play. </span>
+        segments:
+          - text: 'He is such a good DJ, '
+            grammar_highlight: false
+          - text: 'no sooner has '
+            grammar_highlight: true
+          - text: 'one song finished, he already has the next record ready to play. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6924
+    position: 6
+    japanese: 電話が鳴るか鳴らないかのうちに、受話器を取りました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%8c"><span>電話が</span></a><a href="https://takoboto.jp/?q=%e9%b3%b4%e3%82%8b"><span>鳴る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b"><strong>か</strong></a><a href="https://takoboto.jp/?q=%e9%b3%b4%e3%82%89"><span>鳴ら</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%8b%e3%81%ae%e3%81%86%e3%81%a1%e3%81%ab"><strong>ないかのうちに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%8f%97%e8%a9%b1%e5%99%a8%e3%82%92"><span>受話器を</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>取りました。</span></a>
+    segments:
+      - text: 電話が鳴る
+        grammar_highlight: false
+      - text: か
+        grammar_highlight: true
+      - text: 鳴ら
+        grammar_highlight: false
+      - text: ないかのうちに
+        grammar_highlight: true
+      - text: 、受話器を取りました。
+        grammar_highlight: false
+    reading: でんわがなるかならないかのうちに、じゅわきをとりました。
+    credits_raw: kadoka66
+    translations:
+      - language: en
+        text: I took the phone off the hook before it had a chance to ring.
+        html: |-
+          <span>I took the phone off the hook </span><strong>before it had a chance to </strong><span>ring. </span>
+        segments:
+          - text: 'I took the phone off the hook '
+            grammar_highlight: false
+          - text: 'before it had a chance to '
+            grammar_highlight: true
+          - text: 'ring. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6925
+    position: 7
+    japanese: この店の寿司弁当は、店頭に並ぶか並ばないかのうちに、飛ぶように売れていく。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e5%ba%97%e3%81%ae%e5%af%bf%e5%8f%b8%e5%bc%81%e5%bd%93%e3%81%af%e3%80%81%e5%ba%97%e9%a0%ad%e3%81%ab%e4%b8%a6%e3%81%b6"><span>この店の寿司弁当は、店頭に並ぶ</span></a><a href="https://takoboto.jp/?q=%e3%81%8b"><strong>か</strong></a><a href="https://takoboto.jp/?q=%e4%b8%a6%e3%81%b0"><span>並ば</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%8b%e3%81%ae%e3%81%86%e3%81%a1%e3%81%ab"><strong>ないかのうちに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e9%a3%9b%e3%81%b6%e3%82%88%e3%81%86%e3%81%ab%e5%a3%b2%e3%82%8c%e3%81%a6%e3%81%84%e3%81%8f%e3%80%82"><span>、飛ぶように売れていく。</span></a>
+    segments:
+      - text: この店の寿司弁当は、店頭に並ぶ
+        grammar_highlight: false
+      - text: か
+        grammar_highlight: true
+      - text: 並ば
+        grammar_highlight: false
+      - text: ないかのうちに
+        grammar_highlight: true
+      - text: 、飛ぶように売れていく。
+        grammar_highlight: false
+    reading: このみせのすしべんとうは、てんとうにならぶかならばないかのうちに、とぶようにうれていく。
+    credits_raw: kadoka66, Mikuto99
+    translations:
+      - language: en
+        text: No sooner  this shops sushi lunchbox is put on sale, it sells like hot cakes.
+        html: |-
+          <strong>No sooner </strong><span> this shops sushi lunchbox is put on sale, it sells like hot cakes. </span>
+        segments:
+          - text: 'No sooner '
+            grammar_highlight: true
+          - text: ' this shops sushi lunchbox is put on sale, it sells like hot cakes. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      This grammar also gives the sense that X was not sure if action A had or hadn't occurred/started/finished before the subsequent action B commenced.
+      (note copied from Groove note in sister entry "ka nai ka no uchi ni")
+    html: |-
+      This grammar also gives the sense that X was not sure if action A had or hadn't occurred/started/finished before the subsequent action B commenced.<br/>(note copied from Groove note in sister entry "ka nai ka no uchi ni")
+    credits_raw: 赤毛
+    content_sha256: 1142194d744c704a38c39dc4301e14ca2a44bcb2aaf9c2faae8aef71c03e0c21
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      I agree that 電車のドアが 開く か 開かないかのうちに is a mouthful and an ordinary Japanese would say 電車のドアが開いたかどうかのうちに. Recommend that this item is modified accordingly.
+    html: |-
+      I agree that 電車のドアが 開く か 開かないかのうちに is a mouthful and an ordinary Japanese would say 電車のドアが開いたかどうかのうちに. Recommend that this item is modified accordingly.
+    credits_raw: bamboo4
+    content_sha256: 3615941e679b51b09f040c21e0cb9d489b7741324a3d585b7468e64188638eb1
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      bamboo - since that seems to be a different grammar construct, i added it as a new item kadoukanouchini and put miki's example there. This one should then be noted as "rare" - but it may turn up in the JLPT test...
+    html: |-
+      bamboo - since that seems to be a different grammar construct, i added it as a new item kadoukanouchini and put miki's example there. This one should then be noted as "rare" - but it may turn up in the JLPT test...
+    credits_raw: dc
+    content_sha256: 3735156923700569d4bfc4264aed166bafde488f054055bbb97de644f81a0f72
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: ex# 4605 ぬ of ねいらぬかのうちに is the same meaning as ない.
+    html: ex# 4605 ぬ of ねいらぬかのうちに is the same meaning as ない.
+    credits_raw: Miki
+    content_sha256: 16a9ae0187143a38e78f76e3aa08887bb74fe5d35b3828864d77ce7ef9a2c927
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: This usage seems to be fairly rare - most of the references to it are from Japanese grammar sites & similar.
+    html: This usage seems to be fairly rare - most of the references to it are from Japanese grammar sites &amp; similar.
+    credits_raw: Amatuka
+    content_sha256: 527abc43c07a8e6918354a761a038d429733ba700a800dd4ea5a17f8545f087e
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      You would see this expression in written word. I don't often use this in a converation as I would bite my tongue. Instead I say, 電車のドアが開いた瞬間に、--。
+    html: |-
+      You would see this expression in written word. I don't often use this in a converation as I would bite my tongue. Instead I say, 電車のドアが開いた瞬間に、--。
+    credits_raw: Miki
+    content_sha256: c404cbd485fa4965ef4dbf31374f6be8b8ad21a85bcd1e8efbae9b5fd330538e
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: 瞬間=しゅんかん ?
+    html: 瞬間=しゅんかん ?
+    credits_raw: dc
+    content_sha256: 189a230fdafbfc129ce1ad420ba42a661100c92679bbc442a42f5c88cbf41f65
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: its usually used for a small instant of time.
+    html: its usually used for a small instant of time.
+    credits_raw: dc
+    content_sha256: debc4616266eb6432c6d7769fa71608d75c94612e3015e0b0b79ddb4bb6bafd8
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: 'LIT: in the time between the doors not being open and them opening...'
+    html: 'LIT: in the time between the doors not being open and them opening...'
+    credits_raw: dc
+    content_sha256: c0cac61920ff2cc8d2524e6094c3815787b41757850e56c97046d9ebf7afba73
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: 瞬間＝しゅんかん
+    html: 瞬間＝しゅんかん
+    credits_raw: Amatuka
+    content_sha256: 80b9ce6491b0f9dbad207b630769e18e37601714d55d979a3df1125b351f3816
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: I think this one should be good to go. Any problems or should we revise the check mark up?
+    html: I think this one should be good to go. Any problems or should we revise the check mark up?
+    credits_raw: Amatuka
+    content_sha256: 32ba8d572b041cc7deb790006c15c095ad32684567a96dbc9444d6048d232c85
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: in these examples can か・・・かないこのうちに be replaced by かともうったら?
+    html: in these examples can か・・・かないこのうちに be replaced by かともうったら?
+    credits_raw: sagittarius
+    content_sha256: 278dc2eade1116eedba894200e558f0fdb8cdf916ebeb4460b37722f1f86f3ea
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      I moved ex #6923, #6924 and #6925 from sister entry 〜か〜ないかのうちに. After that I changed #6924 which was almost the same than #318.
+    html: |-
+      I moved ex #6923, #6924 and #6925 from sister entry 〜か〜ないかのうちに. After that I changed #6924 which was almost the same than #318.
+    credits_raw: 赤毛
+    content_sha256: 91746639a04b220aab4972a2f71e4f272eef51c1b9462539bd5dcafc7f9d19eb
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      I think this grammar and the かどうかのうち should be in the same entry. This grammar is just a contracted form of かどうか.
+
+      you could just add a note to the かどうか entry and save a little server space.
+    html: |-
+      I think this grammar and the かどうかのうち should be in the same entry. This grammar is just a contracted form of かどうか.<br/><br/>you could just add a note to the かどうか entry and save a little server space.
+    credits_raw: tigert
+    content_sha256: 94b489e5c2b35df3936d050bb26ece7b6d1870adad6519af0e7e26727fe87be2
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1526
+    label: なり
+    source_url: https://takoboto.jp/bunpo/1526
+  - target_id: 1303
+    label: や否や
+    source_url: https://takoboto.jp/bunpo/1303
+  - target_id: 543
+    label: 途端（に）
+    source_url: https://takoboto.jp/bunpo/543
+  - target_id: 816
+    label: かどうかのうちに
+    source_url: https://takoboto.jp/bunpo/816
+  - target_id: 1309
+    label: 次第
+    source_url: https://takoboto.jp/bunpo/1309
+  - target_id: 413
+    label: 〜たところ
+    source_url: https://takoboto.jp/bunpo/413
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:38:25+00:00'
+response_sha256: c28b3be65f759784c816f57908cb36ad58637a2bd8d3bf86a6379a8c32ef1a18
+warnings: []

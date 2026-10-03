@@ -1,0 +1,356 @@
+schema_version: 2
+id: 905
+source: takoboto
+source_url: https://takoboto.jp/bunpo/905/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: とにかく
+romanized_label: tonikaku
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: in any case, anyway
+meaning_example: anyway, you can't come
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_905
+    body_text: |-
+      in any case, anyway 
+       anyway, you can't come
+    body_html: |-
+      <span>in any case, anyway</span> <br/> <span>anyway, you can't come</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 1155
+    position: 0
+    japanese: それはとにかくとして、この問題はどうするの。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af"><span>それは</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f"><strong>とにかく</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6%e3%80%81%e3%81%93%e3%81%ae"><span>として、この</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%af%e3%81%a9%e3%81%86%e3%81%99%e3%82%8b%e3%81%ae%e3%80%82"><span>問題はどうするの。</span></a>
+    segments:
+      - text: それは
+        grammar_highlight: false
+      - text: とにかく
+        grammar_highlight: true
+      - text: として、この問題はどうするの。
+        grammar_highlight: false
+    reading: それはとにかくとして、このもんだいはどうするの。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Leaving that aside, how do you intend to deal with this problem?
+        html: |-
+          <strong>Leaving that aside, </strong><span>how do you intend to deal with this problem? </span>
+        segments:
+          - text: 'Leaving that aside, '
+            grammar_highlight: true
+          - text: 'how do you intend to deal with this problem? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1191
+    position: 1
+    japanese: とにかく私に言えるのは
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f"><strong>とにかく</strong></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ab"><span>私に</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%88%e3%82%8b%e3%81%ae%e3%81%af"><span>言えるのは</span></a>
+    segments:
+      - text: とにかく
+        grammar_highlight: true
+      - text: 私に言えるのは
+        grammar_highlight: false
+    reading: とにかくわたしにいえるのは
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Anyway, all I can say is...
+        html: |-
+          <strong>Anyway, </strong><span>all I can say is... </span>
+        segments:
+          - text: 'Anyway, '
+            grammar_highlight: true
+          - text: 'all I can say is... '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1192
+    position: 2
+    japanese: とにかく頼むからちょっと聞いてよ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f"><strong>とにかく</strong></a><a href="https://takoboto.jp/?q=%e9%a0%bc%e3%82%80%e3%81%8b%e3%82%89%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8"><span>頼むからちょっと</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%a6%e3%82%88"><span>聞いてよ</span></a>
+    segments:
+      - text: とにかく
+        grammar_highlight: true
+      - text: 頼むからちょっと聞いてよ
+        grammar_highlight: false
+    reading: とにかくたのむからちょっときいてよ
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Anyway I'm asking you to just listen for a minute
+        html: |-
+          <strong>Anyway </strong><span>I'm asking you to just listen for a minute </span>
+        segments:
+          - text: 'Anyway '
+            grammar_highlight: true
+          - text: 'I''m asking you to just listen for a minute '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1193
+    position: 3
+    japanese: とにかくやってみないことには
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f"><strong>とにかく</strong></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%ab%e3%81%af"><span>やってみないことには</span></a>
+    segments:
+      - text: とにかく
+        grammar_highlight: true
+      - text: やってみないことには
+        grammar_highlight: false
+    reading: とにかくやってみないことには
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Anyway, we won't know unless we try.
+        html: |-
+          <strong>Anyway, </strong><span>we won't know unless we try. </span>
+        segments:
+          - text: 'Anyway, '
+            grammar_highlight: true
+          - text: 'we won''t know unless we try. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4148
+    position: 4
+    japanese: とにかく、きみは上京すべきだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f"><strong>とにかく</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%8d%e3%81%bf%e3%81%af"><span>、きみは</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e4%ba%ac%e3%81%99%e3%81%b9%e3%81%8d%e3%81%a0%e3%80%82"><span>上京すべきだ。</span></a>
+    segments:
+      - text: とにかく
+        grammar_highlight: true
+      - text: 、きみは上京すべきだ。
+        grammar_highlight: false
+    reading: とにかく、きみはじょうきょうすべきだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: In any case you should come up to Tokyo.
+        html: |-
+          <strong>In any case </strong><span>you should come up to Tokyo. </span>
+        segments:
+          - text: 'In any case '
+            grammar_highlight: true
+          - text: 'you should come up to Tokyo. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4149
+    position: 5
+    japanese: とにかく、君の知ったことじゃない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f"><strong>とにかく</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%ae"><span>君の</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%80%82"><span>知ったことじゃない。</span></a>
+    segments:
+      - text: とにかく
+        grammar_highlight: true
+      - text: 、君の知ったことじゃない。
+        grammar_highlight: false
+    reading: とにかく、きみのしったことじゃない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: In any case, it's no business of yours.
+        html: |-
+          <strong>In any case, </strong><span>it's no business of yours. </span>
+        segments:
+          - text: 'In any case, '
+            grammar_highlight: true
+          - text: 'it''s no business of yours. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4150
+    position: 6
+    japanese: とにかく、君はそこに行った方がいい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f"><strong>とにかく</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%af%e3%81%9d%e3%81%93%e3%81%ab"><span>君はそこに</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f"><span>行った</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84%e3%80%82"><span>方がいい。</span></a>
+    segments:
+      - text: とにかく
+        grammar_highlight: true
+      - text: 、君はそこに行った方がいい。
+        grammar_highlight: false
+    reading: とにかく、きみはそこにいったほうがいい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: At any rate, you had better go there.
+        html: |-
+          <strong>At any rate, </strong><span>you had better go there. </span>
+        segments:
+          - text: 'At any rate, '
+            grammar_highlight: true
+          - text: 'you had better go there. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4151
+    position: 7
+    japanese: とにかく、言いづらい事を打ち明けてくれて嬉しいよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f"><strong>とにかく</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%84%e3%81%a5%e3%82%89%e3%81%84"><span>言いづらい</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%82%92"><span>事を</span></a><a href="https://takoboto.jp/?q=%e6%89%93%e3%81%a1"><span>打ち</span></a><a href="https://takoboto.jp/?q=%e6%98%8e%e3%81%91%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%a6"><span>明けてくれて</span></a><a href="https://takoboto.jp/?q=%e5%ac%89%e3%81%97%e3%81%84%e3%82%88%e3%80%82"><span>嬉しいよ。</span></a>
+    segments:
+      - text: とにかく
+        grammar_highlight: true
+      - text: 、言いづらい事を打ち明けてくれて嬉しいよ。
+        grammar_highlight: false
+    reading: とにかく、いいづらいことをうちあけてくれてうれしいよ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Anyway, I'm glad you were able to broach this difficult subject.
+        html: |-
+          <strong>Anyway, </strong><span>I'm glad you were able to broach this difficult subject. </span>
+        segments:
+          - text: 'Anyway, '
+            grammar_highlight: true
+          - text: 'I''m glad you were able to broach this difficult subject. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4152
+    position: 8
+    japanese: とにかく、私はあなたの意見には反対だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%ab%e3%81%8b%e3%81%8f"><strong>とにかく</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>私はあなたの</span></a><a href="https://takoboto.jp/?q=%e6%84%8f%e8%a6%8b%e3%81%ab%e3%81%af"><span>意見には</span></a><a href="https://takoboto.jp/?q=%e5%8f%8d%e5%af%be%e3%81%a0%e3%80%82"><span>反対だ。</span></a>
+    segments:
+      - text: とにかく
+        grammar_highlight: true
+      - text: 、私はあなたの意見には反対だ。
+        grammar_highlight: false
+    reading: とにかく、わたしはあなたのいけんにははんたいだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I am against your opinion in any case.
+        html: |-
+          <span>I am against your opinion </span><strong>in any case. </strong>
+        segments:
+          - text: 'I am against your opinion '
+            grammar_highlight: false
+          - text: 'in any case. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      [tonikaku] often comes at the beginning of a sentence
+
+
+      see all these examples at ALC
+    html: |-
+      [tonikaku] often comes at the beginning of a sentence<br/><br/><a href="http://www2.alc.co.jp/ejr/index.php?word_in=%82%C6%82%C9%82%A9%82%AD&amp;word_in2=%82%A9%82%AB%82%AD%82%AF%82%B1&amp;word_in3=PVawEWi72JXCKoa0Je"><br/>see all these examples at ALC<br/></a>
+    credits_raw: dc
+    content_sha256: 16b35252a0da2ec556494b7a79af628e9ad53d8df0444388e1ab626a9f541ae2
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: とにかく can be replaced by tomokaku ともかく.
+    html: とにかく can be replaced by tomokaku ともかく.
+    credits_raw: Miki
+    content_sha256: c0bc922b9b8f49aad638c1332bdd8ea3bd12afff4eca12f85b5ca343c091fafe
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      I would like to know more about the etymology of this expression. Does it have anything to do with the Shogi game where two pieces are named "to" and "kaku"?
+    html: |-
+      I would like to know more about the etymology of this expression. Does it have anything to do with the Shogi game where two pieces are named "to" and "kaku"?
+    credits_raw: Nizar
+    content_sha256: d9073b2906f22b81b6784e3ceaf9600628e7909a4803092868ad9371788c311d
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      why is it every time when i clikc on the title the msg below will show.
+      Return to beginning of the Text Translation function. Unable to map glossdic.xjdx! [Not enough space]
+    html: |-
+      why is it every time when i clikc on the title the msg below will show.<br/>Return to beginning of the Text Translation function. Unable to map glossdic.xjdx! [Not enough space]
+    credits_raw: snoopycheng
+    content_sha256: 3dc1079a2b865f15daaa45d6026284be5fca276158064b8bef59c6ccc3e0bbde
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Nizar, tonikaku is not to do with "to" and "kaku" of Shogi game. とにかく is used in hiragana by edo period. と of とにかく meant そのように、 かく meant このように。 Tonikaku is sometimes write as 兎に角 but this is phonetic equivalent. This is considered to come from Buddhism word 「兎角亀毛」. Rabbit doesn't have horns and turtle doesn't have hairs, which was used when you talked about something doesn't exist. So this has no relevance to current とにかく in meaning. BTW, in shogi, 「と金」 which is another side of 「歩（ふ）」 is called と because the simplified form of 金 looks like と。 角（かく） is also called 角行（かくぎょう）.
+    html: |-
+      Nizar, tonikaku is not to do with "to" and "kaku" of Shogi game. とにかく is used in hiragana by edo period. と of とにかく meant そのように、 かく meant このように。 Tonikaku is sometimes write as 兎に角 but this is phonetic equivalent. This is considered to come from Buddhism word 「兎角亀毛」. Rabbit doesn't have horns and turtle doesn't have hairs, which was used when you talked about something doesn't exist. So this has no relevance to current とにかく in meaning. BTW, in shogi, 「と金」 which is another side of 「歩（ふ）」 is called と because the simplified form of 金 looks like と。 角（かく） is also called 角行（かくぎょう）.
+    credits_raw: Miki
+    content_sha256: 1945527e20be47a34757d7a15cd9b61901057ec0d4b59f0cd92a905c4148a926
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      I have heard this word used in a lot of contexts where it couldn't mean anyway, in any case. I asked some friends who had some difficulty explaining it, but one seemed to say that it also has the meanings: "quickly", "with all haste" and maybe also "naturally". I also heard it implies that some information given is generally known by everyone. Any native speakers care to comment?
+    html: |-
+      I have heard this word used in a lot of contexts where it couldn't mean anyway, in any case. I asked some friends who had some difficulty explaining it, but one seemed to say that it also has the meanings: "quickly", "with all haste" and maybe also "naturally". I also heard it implies that some information given is generally known by everyone. Any native speakers care to comment?
+    credits_raw: yookoso
+    content_sha256: 30f883f2c12435a9e265e736becb856b053f20ef1c678b025a8fc941ed66c1ab
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      You have it wrong. とにかく急ごう means "leaving all that aside, let's hurry." Thus, とにかく does not have a meaning of "quickly" or "naturally."
+
+      Re Miki-san's comment, 角行 is pronounced かくこう.
+    html: |-
+      You have it wrong. とにかく急ごう means "leaving all that aside, let's hurry." Thus, とにかく does not have a meaning of "quickly" or "naturally."<br/><br/>Re Miki-san's comment, 角行 is pronounced かくこう.
+    credits_raw: bamboo4
+    content_sha256: b5ee74046dec1623a8fce83f24d16b3bf62560ec6365466b610f7d9b5fca204c
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: 角行 can be pronounced かっこう, かくこう and かくぎょう.
+    html: 角行 can be pronounced かっこう, かくこう and かくぎょう.
+    credits_raw: nasu
+    content_sha256: 0f3a36236ae400107afecb18725f0cbf2395a32efdf5ea168cf46a3c2d631d94
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      I see this word used often at the beginning of Amazon reviews, like "とにかく便利" for example. The translation of "anyway" does not make sense here. Can someone please explain what it means in these contexts? None of the dictionary definitions nor example sentences seem to match.
+    html: |-
+      I see this word used often at the beginning of Amazon reviews, like "とにかく便利" for example. The translation of "anyway" does not make sense here. Can someone please explain what it means in these contexts? None of the dictionary definitions nor example sentences seem to match.
+    credits_raw: starskipper
+    content_sha256: eca0be15e67e11fb0ef6c2f6acfb0bf2556a2f3f68e1a366dc917bcb3239e3bd
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      Just writing this to say that I agree: I, too, found many instances where tonikaku definitely can't be translated as "anyway" and the like.
+    html: |-
+      Just writing this to say that I agree: I, too, found many instances where tonikaku definitely can't be translated as "anyway" and the like.
+    credits_raw: Davide
+    content_sha256: e93cef1fbd5de6bd3636f786166e1555fbe229dce63d21459fa66a09196afac9
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 971
+    label: はともかく
+    source_url: https://takoboto.jp/bunpo/971
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:43:13+00:00'
+response_sha256: 4ac5b793686dc600282f44e545abdbf6e08faaad947cde8ea74a90a8a6748cc7
+warnings: []

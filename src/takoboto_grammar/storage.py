@@ -9,6 +9,7 @@ from contextlib import closing
 from pathlib import Path
 
 from . import SCHEMA_VERSION, SQLITE_SCHEMA_VERSION
+from .record_yaml import dump_yaml, load_yaml
 
 
 def output_root(path):
@@ -37,6 +38,86 @@ def safe_target(root, relative):
 def write_json(root, relative, value):
     body = (json.dumps(value, ensure_ascii=False, indent=2) + "\n").encode('utf-8')
     write_bytes(root, relative, body)
+
+
+def fresh_trash_directory(prefix):
+    trash = Path.home() / '.Trash'
+    if trash.is_symlink() or trash.resolve() != trash.absolute():
+        raise ValueError('Trash path is a symlink; inspect before moving records')
+    trash.mkdir(exist_ok=True)
+    return Path(tempfile.mkdtemp(prefix=prefix, dir=trash)).resolve(strict=True)
+
+
+def move_to_trash(path, prefix='takoboto-record-'):
+    """Preserve a superseded file without deleting it."""
+    path = Path(path).absolute()
+    if path.is_symlink() or path.resolve(strict=True) != path:
+        raise ValueError(f'Unexpected file to move: {path}')
+    destination = fresh_trash_directory(prefix)
+    path.replace(safe_target(destination, path.name))
+
+
+def write_record(root, relative, value):
+    """Write YAML only; preserve legacy JSON in Trash after successful replacement."""
+    if Path(relative).suffix != '.yaml':
+        raise ValueError('Canonical records use .yaml filenames')
+    target = safe_target(root, relative)
+    legacy = safe_target(root, str(Path(relative).with_suffix('.json')))
+    if target.exists() and legacy.exists():
+        raise ValueError(f'Duplicate YAML/JSON record: {target.stem}')
+    body = dump_yaml(value)
+    if not target.exists() or target.read_bytes() != body:
+        write_bytes(root, relative, body)
+    if legacy.exists():
+        move_to_trash(legacy)
+
+
+def record_paths(root, folder, allow_duplicate=False):
+    paths = sorted([*(root / folder).glob('*.yaml'), *(root / folder).glob('*.json')])
+    seen = set()
+    for path in paths:
+        if path.is_symlink() or not path.resolve().is_relative_to(root):
+            raise ValueError(f'Unexpected record path: {path}')
+        if path.stem in seen and not allow_duplicate:
+            raise ValueError(f'Duplicate YAML/JSON record: {path.stem}')
+        seen.add(path.stem)
+    return paths
+
+
+def load_record(path):
+    body = path.read_text(encoding='utf-8')
+    return load_yaml(body) if path.suffix == '.yaml' else json.loads(body)
+
+
+def migrate_records(directories):
+    """Preflight all content before converting; retain superseded JSON in Trash."""
+    planned = []
+    for directory in directories:
+        original = Path(directory).expanduser().absolute()
+        root = original.resolve(strict=True)
+        if original != root:
+            raise ValueError(f'Migration path contains a symlink: {original}')
+        for folder in ('records', 'feeds', 'review-records'):
+            for path in record_paths(root, folder, allow_duplicate=True):
+                value = load_record(path)
+                body = dump_yaml(value)
+                if path.suffix == '.json':
+                    target = safe_target(root, path.relative_to(root).with_suffix('.yaml'))
+                    existing = target.read_bytes() if target.exists() else None
+                    if existing is not None and record_digest(load_record(target)) != record_digest(value):
+                        raise ValueError(f'Duplicate YAML/JSON records differ: {path.stem}')
+                    planned.append((root, path, target, body, path.read_bytes(), existing))
+    trash = fresh_trash_directory('takoboto-json-migration-') if planned else None
+    roots = list(dict.fromkeys(item[0] for item in planned))
+    for root, source, target, body, original_body, existing in planned:
+        actual = target.read_bytes() if target.exists() else None
+        if source.read_bytes() != original_body or actual != existing:
+            raise ValueError(f'Record changed during YAML migration: {source}')
+        if existing is None:
+            write_bytes(root, target.relative_to(root), body)
+        preserved = f'{roots.index(root)}-{root.name}/{source.relative_to(root)}'
+        source.replace(safe_target(trash, preserved))
+    return {'converted_records': len(planned), 'legacy_json_preserved_in_trash': True}
 
 
 def write_bytes(root, relative, body):
@@ -83,10 +164,10 @@ def preflight_export(path, directory=False):
 def read_records(root):
     root = Path(root).resolve(strict=True)
     records = []
-    for path in sorted((root / "records").glob("*.json"), key=lambda p: int(p.stem)):
+    for path in sorted(record_paths(root, 'records'), key=lambda p: int(p.stem)):
         if path.is_symlink() or not path.resolve().is_relative_to(root):
             raise ValueError(f"Unexpected record path: {path}")
-        record = json.loads(path.read_text(encoding="utf-8"))
+        record = load_record(path)
         if record["schema_version"] not in {1, SCHEMA_VERSION} or record["id"] != int(path.stem):
             raise ValueError(f"Unsupported schema or mismatched record ID: {path}")
         records.append(record)
@@ -96,10 +177,10 @@ def read_records(root):
 def read_archive_records(directory, for_export=True):
     root = Path(directory).expanduser().resolve(strict=True)
     records = []
-    for path in sorted((root / 'records').glob('*.json')):
+    for path in record_paths(root, 'records'):
         if path.is_symlink() or not path.resolve().is_relative_to(root):
             raise ValueError(f'Unexpected archive record path: {path}')
-        record = json.loads(path.read_text(encoding='utf-8'))
+        record = load_record(path)
         if record['archive_schema_version'] != 1 or hashlib.sha256(record['label'].encode()).hexdigest() != path.stem:
             raise ValueError(f'Unsupported or mismatched archive record: {path}')
         if for_export:
@@ -167,10 +248,10 @@ def read_archive_snapshot(directory):
 def read_archive_feeds(directory, for_export=True):
     root = Path(directory).expanduser().resolve(strict=True)
     feeds = []
-    for path in sorted((root / 'feeds').glob('*.json')):
+    for path in record_paths(root, 'feeds'):
         if path.is_symlink() or not path.resolve().is_relative_to(root):
             raise ValueError(f'Unexpected feed record path: {path}')
-        record = json.loads(path.read_text(encoding='utf-8'))
+        record = load_record(path)
         if record['feed_schema_version'] != 1 or record['feed_path'] != '/rss/' + path.stem + '.xml':
             raise ValueError(f'Unsupported or mismatched RSS record: {path}')
         if for_export and (record['review_required'] or record['warnings']):

@@ -1,0 +1,123 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 127
+label: nomotode
+title_raw: のもとで [のもとで] (nomotode)
+title: のもとで
+reading: のもとで
+romanized_label: nomotode
+category: grammar
+jlpt_level_original: '2'
+meaning: based on,  under
+meaning_example: under his guidance I was able to pass the test
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=nomotode
+archive_url: https://web.archive.org/web/20150224225353id_/http://jgram.org/pages/viewOne.php?tagE=nomotode
+archive_timestamp: '20150224225353'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: RCBKUOYNNROKKDJ6UDOZUPMOIH7PC4VL
+response_sha256: a6c02b6c6e5a9453516f6dca7e2b98974dcc86dde3c507642e37762a5663dac8
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "see \x01 for similar items and comparisons."
+    html: "see <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> for similar items and comparisons."
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 573
+    position: 0
+    japanese: 先生の指導のもとに試験に受かる事が出来ました。
+    body_text: "先生の指導のもとに試験に受かる事が出来ました。 \n\nbased on / under \n\t\tthe teachers coaching I was able to pass the test."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ先生の指導のもとに試験に受かる事が出来ました。\">\n\t\t\t\t先生の指導<strong>のもとに</strong>試験に受かる事が出来ました。<strong></strong></a> <br/>\n<strong>based on / under </strong>\n\t\tthe teachers coaching I was able to pass the test."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3271
+    position: 1
+    japanese: 国連から派遣された医師団のもとで救援活動が続けられた
+    body_text: "国連から派遣された医師団のもとで救援活動が続けられた \n\nUnder the guidance of \n\t\ta team of doctors dispatched by the United Nations, the rescue operation continued."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ国連から派遣された医師団のもとで救援活動が続けられた\">\n\t\t\t\t国連から派遣された医師団<strong>のもとで</strong>救援活動が続けられた<strong></strong></a> <br/>\n<strong>Under the guidance of </strong>\n\t\ta team of doctors dispatched by the United Nations, the rescue operation continued."
+    credits_raw: tuananh
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6642
+    position: 2
+    japanese: 法のもとではすべての人は平等だ。
+    body_text: "法のもとではすべての人は平等だ。\r \n\n\t\tAll men are equal under the law."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ法のもとではすべての人は平等だ。\">\n\t\t\t\t法<strong>のもとで</strong>はすべての人は平等だ。\r<strong></strong></a> <br/>\n\t\tAll men are equal under the law. \n\t\t<strong> </strong>"
+    credits_raw: murillin186
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8381
+    position: 3
+    japanese: 好奇心が知識のもとである。
+    body_text: "好奇心が知識のもとである。 \n\n\t\tCuriosity is the \n\t\tbeggining of \n\t\tknowledge."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ好奇心が知識のもとである。\">\n\t\t\t\t好奇心が知識<strong>のもと</strong>である。<strong></strong></a> <br/>\n\t\tCuriosity is the \n\t\t<strong>beggining of </strong>\n\t\tknowledge."
+    credits_raw: karekano
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: "#\x01 i translated/suggested english.."
+    html: "<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=nomotode#\x01\">#\x01</a></b> i translated/suggested english.."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Miki
+    text: ex3271 Japanese is a past sentence.　続けられる→られた
+    html: ex3271 Japanese is a past sentence.　続けられる→られた
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: DrJones
+    text: "ex #\x01 is wrong; in that example, で belongs to である, not to もとで."
+    html: "ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=nomotode#\x01\">#\x01</a></b> is wrong; in that example, で belongs to である, not to もとで."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: nimotozuite
+    label: nimotozuite
+    annotation_text: nimotozuite [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=nimotozuite">nimotozuite</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "のもとで [のもとで] (nomotode)\n    Meaning: based on,  under \n    Example: under his guidance I was able to pass the test\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>のもとで [のもとで] (nomotode)</span><br/>    <span><b>Meaning</b>: based on,  under </span><br/>    <b>Example</b>: <i>under his guidance I was able to pass the test</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225353'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 2014847
+  length: 5629
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: cf640d00efa5a5080dc06f2ac0761d8a784e7335ab04c6ea415e860bace5f930

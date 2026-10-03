@@ -1,0 +1,86 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1470
+label: Jaki
+title_raw: 邪気 ([じゃき] )(Jaki)
+title: 邪気
+reading: じゃき
+romanized_label: Jaki
+category: grammar
+jlpt_level_original: '3'
+meaning: Malice, bad feeling 悪い気、悪気、悪意
+meaning_example: Have a bad feeling getting up sick.　（Formal)
+credits_raw: Xephyer
+source_url: http://jgram.org/pages/viewOne.php?tagE=Jaki
+archive_url: https://web.archive.org/web/20150224225910id_/http://jgram.org/pages/viewOne.php?tagE=Jaki
+archive_timestamp: '20150224225910'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: WXEDKSO3DBZPAARC3GP6BY7EGZQXWBES
+response_sha256: 74433ad6dae375d30da8fb0b1f57fc31f46d9831c17b79fc9ba7b2eac61e4dad
+encoding: cp932
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      I'm not familiar with the word, but it says it's read as "Jiyaki" yet the kana clearly says "Hyaki" or "Hiyaki"...(I cannot tell if the "ya" is small or regular...)
+    html: |-
+      I'm not familiar with the word, but it says it's read as "Jiyaki" yet the kana clearly says "Hyaki" or "Hiyaki"...(I cannot tell if the "ya" is small or regular...)
+    credits_raw: PowerlineTegami
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Should be Jaki 邪気\n\r\nDef:【名】\n\r\n①　病気などを引き起こす悪い気。悪気。\n\r\n②　拗けた気持ち。悪意。わるぎ。\n\r\nEnglish Def Malice, bad feeling (such as when you get up when your sick etc."
+    html: "Should be Jaki 邪気<br/>\r\nDef:【名】<br/>\r\n①　病気などを引き起こす悪い気。悪気。<br/>\r\n②　拗けた気持ち。悪意。わるぎ。<br/>\r\nEnglish Def Malice, bad feeling (such as when you get up when your sick etc."
+    credits_raw: IMABI
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples: []
+comments:
+  - position: 0
+    credits_raw: starysparkle
+    text: I think this is spelled wronggg...
+    html: I think this is spelled wronggg...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: IMABI
+    text: |-
+      I hope people will like my explanation of Jaki. I've come across it only in deep literature but I felt it was too basic to be put with JLPT 2 or 1. I also teach Japanese at www.freewebs.com/kanjiwebs/
+    html: |-
+      I hope people will like my explanation of Jaki. I've come across it only in deep literature but I felt it was too basic to be put with JLPT 2 or 1. I also teach Japanese at www.freewebs.com/kanjiwebs/
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      邪気 ([じゃき] )(Jaki)
+          Meaning: Malice, bad feeling 悪い気、悪気、悪意
+          Example: Have a bad feeling getting up sick.　（Formal)
+          JLPT Level: 3
+          Category: grammar
+          Author: Xephyer
+    html: |-
+      <span>邪気 ([じゃき] )(Jaki)</span><br/>    <span><b>Meaning</b>: Malice, bad feeling 悪い気、悪気、悪意</span><br/>    <b>Example</b>: <i>Have a bad feeling getting up sick.　（Formal)</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Xephyer</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225910'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 7851715
+  length: 5273
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 10ffc65c022bfd34049d9b5acb2d54debc8d1b614bb47e53a6d70890587a0eba

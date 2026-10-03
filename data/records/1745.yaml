@@ -1,0 +1,222 @@
+schema_version: 2
+id: 1745
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1745/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: (よ)うが, (よ)うと　ようが　ようと
+romanized_label: (yo)uga,(yo)uto
+alternate_forms: []
+jlpt_level: 1
+credits_raw: LR
+meaning: '"even if", "no matter what" (people say etc.), strong expression that contains the idea of concession'
+meaning_example: Even if people say I'm stubborn or stupid, I'll do what I believe.
+meaning_notes:
+  - language: ja
+    text: close to ても、ようとも
+    html: close to ても、ようとも
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1745
+    body_text: |-
+      "even if", "no matter what" (people say etc.), strong expression that contains the idea of concession 
+       Even if people say I'm stubborn or stupid, I'll do what I believe. 
+       close to ても、ようとも
+    body_html: |-
+      <span>"even if", "no matter what" (people say etc.), strong expression that contains the idea of concession</span> <br/> <span>Even if people say I'm stubborn or stupid, I'll do what I believe.</span> <br/> <span>close to ても、ようとも</span>
+    credits_raw: LR
+formations: []
+examples:
+  - source_id: 7912
+    position: 0
+    japanese: 人がなんと言おう（と/が）、私は自分の子供を信じている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%8c%e3%81%aa%e3%82%93%e3%81%a8"><span>人がなんと</span></a><a href="https://takoboto.jp/?q=%e8%a8%80"><span>言</span></a><a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%86%ef%bc%88%e3%81%a8%2f%e3%81%8c%ef%bc%89"><strong>おう（と/が）</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae"><span>自分の</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%82%92"><span>子供を</span></a><a href="https://takoboto.jp/?q=%e4%bf%a1%e3%81%98%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>信じている。</span></a>
+    segments:
+      - text: 人がなんと言
+        grammar_highlight: false
+      - text: おう（と/が）
+        grammar_highlight: true
+      - text: 、私は自分の子供を信じている。
+        grammar_highlight: false
+    reading: ひとがなんといおう（とが）、わたしはじぶんのこどもをしんじている。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Whatever other people say, I believe my child
+        html: |-
+          <strong>Whatever </strong><span>other people say, I believe my child </span>
+        segments:
+          - text: 'Whatever '
+            grammar_highlight: true
+          - text: 'other people say, I believe my child '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7913
+    position: 1
+    japanese: 頑固と言われよう（と／が）バカと言われよう（と／が）、私は自分の信じることをやります。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a0%91%e5%9b%ba%e3%81%a8"><span>頑固と</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%82%8f%e3%82%8c"><span>言われ</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%ef%bc%88%e3%81%a8%ef%bc%8f%e3%81%8c%ef%bc%89"><strong>よう（と／が）</strong></a><a href="https://takoboto.jp/?q=%e3%83%90%e3%82%ab%e3%81%a8"><span>バカと</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%82%8f%e3%82%8c"><span>言われ</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%ef%bc%88%e3%81%a8%ef%bc%8f%e3%81%8c%ef%bc%89"><strong>よう（と／が）</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae"><span>自分の</span></a><a href="https://takoboto.jp/?q=%e4%bf%a1%e3%81%98%e3%82%8b%e3%81%93%e3%81%a8%e3%82%92%e3%82%84%e3%82%8a%e3%81%be%e3%81%99%e3%80%82"><span>信じることをやります。</span></a>
+    segments:
+      - text: 頑固と言われ
+        grammar_highlight: false
+      - text: よう（と／が）
+        grammar_highlight: true
+      - text: バカと言われ
+        grammar_highlight: false
+      - text: よう（と／が）
+        grammar_highlight: true
+      - text: 、私は自分の信じることをやります。
+        grammar_highlight: false
+    reading: がんこといわれよう（と／が）バカといわれよう（と／が）、わたしはじぶんのしんじることをやります。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Even if people say I'm stubborn or stupid, I'll do what I believe in.
+        html: |-
+          <strong>Even if </strong><span>people say I'm stubborn or stupid, I'll do what I believe in. </span>
+        segments:
+          - text: 'Even if '
+            grammar_highlight: true
+          - text: 'people say I''m stubborn or stupid, I''ll do what I believe in. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7914
+    position: 2
+    japanese: あの教授は学生が分かろう（と／が）分かるまい（と／が）かまわず授業を進めていく。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e6%8e%88%e3%81%af"><span>教授は</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e7%94%9f%e3%81%8c"><span>学生が</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b"><span>分か</span></a><a href="https://takoboto.jp/?q=%e3%82%8d%e3%81%86%ef%bc%88%e3%81%a8%ef%bc%8f%e3%81%8c%ef%bc%89"><strong>ろう（と／が）</strong></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%8b%e3%81%be%e3%81%84"><span>分かるまい</span></a><a href="https://takoboto.jp/?q=%ef%bc%88%e3%81%a8"><span>（と</span></a><a href="https://takoboto.jp/?q=%ef%bc%8f%e3%81%8c"><span>／が</span></a><a href="https://takoboto.jp/?q=%ef%bc%89%e3%81%8b%e3%81%be%e3%82%8f%e3%81%9a"><span>）かまわず</span></a><a href="https://takoboto.jp/?q=%e6%8e%88%e6%a5%ad%e3%82%92"><span>授業を</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%81%e3%81%a6%e3%81%84%e3%81%8f%e3%80%82"><span>進めていく。</span></a>
+    segments:
+      - text: あの教授は学生が分か
+        grammar_highlight: false
+      - text: ろう（と／が）
+        grammar_highlight: true
+      - text: 分かるまい（と／が）かまわず授業を進めていく。
+        grammar_highlight: false
+    reading: あのきょうじゅはがくせいがわかろう（と／が）わかるまい（と／が）かまわずじゅぎょうをすすめていく。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: That professor keeps lecturing regardlesss of whether his students understand it or not.
+        html: |-
+          <span>That professor keeps lecturing </span><strong>regardlesss of whether </strong><span>his students understand it or not. </span>
+        segments:
+          - text: 'That professor keeps lecturing '
+            grammar_highlight: false
+          - text: 'regardlesss of whether '
+            grammar_highlight: true
+          - text: 'his students understand it or not. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7915
+    position: 3
+    japanese: 報酬が多かろう（と／が）少なかろう（と／が）私はやるべきことをやるだけだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a0%b1%e9%85%ac%e3%81%8c"><span>報酬が</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a"><span>多</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8d%e3%81%86%ef%bc%88%e3%81%a8%ef%bc%8f%e3%81%8c%ef%bc%89"><strong>かろう（と／が）</strong></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%aa%e3%81%8b%e3%82%8d%e3%81%86%ef%bc%88%e3%81%a8%ef%bc%8f%e3%81%8c%ef%bc%89"><strong>少なかろう（と／が）</strong></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%82%84%e3%82%8b%e3%81%b9%e3%81%8d%e3%81%93%e3%81%a8%e3%82%92%e3%82%84%e3%82%8b%e3%81%a0%e3%81%91%e3%81%a0%e3%80%82"><span>私はやるべきことをやるだけだ。</span></a>
+    segments:
+      - text: 報酬が多
+        grammar_highlight: false
+      - text: かろう（と／が）少なかろう（と／が）
+        grammar_highlight: true
+      - text: 私はやるべきことをやるだけだ。
+        grammar_highlight: false
+    reading: ほうしゅうがおおかろう（と／が）すくなかろう（と／が）わたしはやるべきことをやるだけだ。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Whether the compensation is high or low, I'll just do what I have to do.
+        html: |-
+          <strong>Whether </strong><span>the compensation is high or low, I'll just do what I have to do. </span>
+        segments:
+          - text: 'Whether '
+            grammar_highlight: true
+          - text: 'the compensation is high or low, I''ll just do what I have to do. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7916
+    position: 4
+    japanese: 周囲に反対されようが、自分でやると決めた以上は最後までやり抜くつもりだ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%91%a8%e5%9b%b2%e3%81%ab"><span>周囲に</span></a><a href="https://takoboto.jp/?q=%e5%8f%8d%e5%af%be%e3%81%95%e3%82%8c"><span>反対され</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%8c"><strong>ようが</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%a7%e3%82%84%e3%82%8b%e3%81%a8"><span>自分でやると</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e3%82%81%e3%81%9f"><span>決めた</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a%e3%81%af"><span>以上は</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e5%be%8c%e3%81%be%e3%81%a7%e3%82%84%e3%82%8a"><span>最後までやり</span></a><a href="https://takoboto.jp/?q=%e6%8a%9c%e3%81%8f%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a0"><span>抜くつもりだ</span></a>
+    segments:
+      - text: 周囲に反対され
+        grammar_highlight: false
+      - text: ようが
+        grammar_highlight: true
+      - text: 、自分でやると決めた以上は最後までやり抜くつもりだ
+        grammar_highlight: false
+    reading: しゅういにはんたいされようが、じぶんでやるときめたいじょうはさいごまでやりぬくつもりだ
+    credits_raw: LR
+    translations:
+      - language: en
+        text: even if those around me disagree, once I've decided I'll do it, I'll give it my all
+        html: |-
+          <strong>even if </strong><span>those around me disagree, once I've decided I'll do it, I'll give it my all </span>
+        segments:
+          - text: 'even if '
+            grammar_highlight: true
+          - text: 'those around me disagree, once I''ve decided I''ll do it, I''ll give it my all '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p29 - no.33'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p29 - no.33
+    credits_raw: LR
+    content_sha256: ae4e58e3b0dc3b25c88e260d3f94490990c407d7e9e37609bf74601389a21ab9
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'Ref # A Dictionary of Advanced Japanese Grammar p740'
+    html: |-
+      <b>Ref #</b> A Dictionary of Advanced Japanese Grammar p740
+    credits_raw: LR
+    content_sha256: 31ff95a9ddf71561e1376c143b8db208fcc38ef3576a2ba9d037a8e2e9da812a
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      VERB (~う形) + ようが (書こうが)（言われようが）
+      いadj. stem + かろうが (多かろう)
+      なadj. stem + だろうが　 （上手だろうが）
+      NOUN + だろうが （作品だろうが）
+    html: |-
+      VERB (~う形) + ようが (書こうが)（言われようが）<br/>いadj. stem + かろうが (多かろう)<br/>なadj. stem + だろうが　 （上手だろうが）<br/>NOUN + だろうが （作品だろうが）
+    credits_raw: LR
+    content_sha256: 56cfb5cac5fbaf1da9504929f621acec909ae0ab91e335d927edb043127caccf
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      I can't add examples, the system says: "Sorry - 'youga,youto' doesn't exist so I can't add any examples!". Can someone help me?
+    html: |-
+      I can't add examples, the system says: "Sorry - 'youga,youto' doesn't exist so I can't add any examples!". Can someone help me?
+    credits_raw: karekano
+    content_sha256: 9b05c38f7f6d94287de770cb666dc7d95d2fd7a2f3c77341682db8f636d217a3
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: wakatta
+    html: wakatta
+    credits_raw: tasnimsuaib
+    content_sha256: 9e89873551e94f39a62d729671befc61b655d21ae70b4017f043c4630f61a97b
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:44:28+00:00'
+response_sha256: db8ab746e33bfc43ba77b0270e5c79e36ce4428608a44b90fcba13432f2825c4
+warnings: []

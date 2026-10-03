@@ -1,0 +1,154 @@
+schema_version: 2
+id: 1478
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1478/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 少しも〜ない
+romanized_label: sukoshimo.....nai
+alternate_forms: []
+jlpt_level: null
+credits_raw: Miki
+meaning: not at all
+meaning_example: I can't swim at all.
+meaning_notes:
+  - language: ja
+    text: 私は少しも泳げない。
+    html: 私は少しも泳げない。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1478
+    body_text: |-
+      not at all 
+       I can't swim at all. 
+       私は少しも泳げない。
+    body_html: |-
+      <span>not at all</span> <br/> <span>I can't swim at all.</span> <br/> <span>私は少しも泳げない。</span>
+    credits_raw: Miki
+formations: []
+examples:
+  - source_id: 4936
+    position: 0
+    japanese: あなたはたくさんお金をもっているが、私は少しも（お金を）持ってない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%9f%e3%81%8f%e3%81%95%e3%82%93%e3%81%8a"><span>あなたはたくさんお</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92%e3%82%82%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8c%e3%80%81"><span>金をもっているが、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97%e3%82%82"><strong>少しも</strong></a><a href="https://takoboto.jp/?q=%ef%bc%88%e3%81%8a"><span>（お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%ef%bc%89%e6%8c%81%e3%81%a3%e3%81%a6"><span>）持って</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%80%82"><strong>ない。</strong></a>
+    segments:
+      - text: あなたはたくさんお金をもっているが、私は
+        grammar_highlight: false
+      - text: 少しも
+        grammar_highlight: true
+      - text: （お金を）持って
+        grammar_highlight: false
+      - text: ない。
+        grammar_highlight: true
+    reading: あなたはたくさんおかねをもっているが、わたしはすこしも（おかねを）もってない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You have a lot of money, and I have none.
+        html: |-
+          <span>You have a lot of money, and I have </span><strong>none. </strong>
+        segments:
+          - text: 'You have a lot of money, and I have '
+            grammar_highlight: false
+          - text: 'none. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4937
+    position: 1
+    japanese: あなたは少しも幸せではない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97%e3%82%82"><strong>少しも</strong></a><a href="https://takoboto.jp/?q=%e5%b9%b8%e3%81%9b%e3%81%a7%e3%81%af"><span>幸せでは</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%80%82"><strong>ない。</strong></a>
+    segments:
+      - text: あなたは
+        grammar_highlight: false
+      - text: 少しも
+        grammar_highlight: true
+      - text: 幸せでは
+        grammar_highlight: false
+      - text: ない。
+        grammar_highlight: true
+    reading: あなたはすこしもしあわせではない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You are not in the least happy.
+        html: |-
+          <span>You are </span><strong>not in the least </strong><span>happy. </span>
+        segments:
+          - text: 'You are '
+            grammar_highlight: false
+          - text: 'not in the least '
+            grammar_highlight: true
+          - text: 'happy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4938
+    position: 2
+    japanese: あなたは少しも眠れないことがある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97%e3%82%82"><strong>少しも</strong></a><a href="https://takoboto.jp/?q=%e7%9c%a0%e3%82%8c"><span>眠れ</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84"><strong>ない</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>ことがある。</span></a>
+    segments:
+      - text: あなたは
+        grammar_highlight: false
+      - text: 少しも
+        grammar_highlight: true
+      - text: 眠れ
+        grammar_highlight: false
+      - text: ない
+        grammar_highlight: true
+      - text: ことがある。
+        grammar_highlight: false
+    reading: あなたはすこしもねむれないことがある。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Sometimes you can't sleep at all.
+        html: |-
+          <span>Sometimes you </span><strong>can't </strong><span>sleep </span><strong>at all. </strong>
+        segments:
+          - text: 'Sometimes you '
+            grammar_highlight: false
+          - text: 'can''t '
+            grammar_highlight: true
+          - text: 'sleep '
+            grammar_highlight: false
+          - text: 'at all. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4939
+    position: 3
+    japanese: いいえ、少しも（ありません）。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%84%e3%81%88%e3%80%81"><span>いいえ、</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97%e3%82%82"><strong>少しも</strong></a><a href="https://takoboto.jp/?q=%ef%bc%88%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%ef%bc%89%e3%80%82"><strong>（ありません）。</strong></a>
+    segments:
+      - text: いいえ、
+        grammar_highlight: false
+      - text: 少しも（ありません）。
+        grammar_highlight: true
+    reading: いいえ、すこしも（ありません）。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Not at all.
+        html: |-
+          <strong>Not at all. </strong>
+        segments:
+          - text: 'Not at all. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries:
+  - target_id: 723
+    label: 少し
+    source_url: https://takoboto.jp/bunpo/723
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:46:49+00:00'
+response_sha256: b4cfa058d93e0b0a465dae879797b00bcdf6f802c6533f206c2dd5511cae7920
+warnings: []

@@ -1,0 +1,438 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1117
+label: kigasuru
+title_raw: 気がする [きがする] (kigasuru)
+title: 気がする
+reading: きがする
+romanized_label: kigasuru
+category: grammar
+jlpt_level_original: '2'
+meaning: to feel, realize
+meaning_example: I have a feeling he's a bad person
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=kigasuru
+archive_url: https://web.archive.org/web/20150224225401id_/http://jgram.org/pages/viewOne.php?tagE=kigasuru
+archive_timestamp: '20150224225401'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: LDWL6QY6JHGUAGSCJY37DVVPEHQIFTGJ
+response_sha256: d67b78624401459beeaafd669ddd7c5c6cc26790c6e2a6900d4b7a834c0d9a8a
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "adj+気がする\n\r\nadj+ような+気がする\n\r\n　高いような気がする\n\r\n　高い気がする\n\r\n　危ない気がする\n\n\n\r\nnoun+のような＋気がする\n\r\n　悪い人のような気がする\n\n\n\r\nverb+ような＋気がする\n\r\n　彼にどこかで会ったような気がする\n\n\n\r\n---\n\r\nnote the particle is different from と used with think\n\r\n　彼は悪い男だと思います"
+    html: "adj+気がする<br/>\r\nadj+ような+気がする<br/>\r\n　高いような気がする<br/>\r\n　高い気がする<br/>\r\n　危ない気がする<br/>\n<br/>\r\nnoun+のような＋気がする<br/>\r\n　悪い人のような気がする<br/>\n<br/>\r\nverb+ような＋気がする<br/>\r\n　彼にどこかで会ったような気がする<br/>\n<br/>\r\n---<br/>\r\nnote the particle is different from と used with think<br/>\r\n　彼は悪い男だと思います"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 1224
+    position: 0
+    japanese: 悪い人のような気がしました。
+    body_text: "悪い人のような気がしました。 \n\nI felt that \n\t\the was a bad person  ."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ悪い人のような気がしました\">\n\t\t\t\t悪い人のような<strong>気がしました</strong><strong></strong>。</a> <br/>\n<strong>I felt that </strong>\n\t\the was a bad person  ."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1225
+    position: 1
+    japanese: 高いような気がしている。
+    body_text: "高いような気がしている。 \n\nI feel like \n\t\tits expensive  ."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ高いような気がしている\">\n\t\t\t\t高いような<strong>気がしている</strong><strong></strong>。</a> <br/>\n<strong>I feel like </strong>\n\t\tits expensive  ."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1228
+    position: 2
+    japanese: いつも排尿したいような気がする。
+    body_text: "いつも排尿したいような気がする。 \n\n\t\tI have a constant \n\t\tfeeling \n\t\tI have to pee  ."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJいつも排尿したいような気がする\">\n\t\t\t\tいつも排尿したいような<strong>気がする</strong><strong></strong>。</a> <br/>\n\t\tI have a constant \n\t\t<strong>feeling </strong>\n\t\tI have to pee  ."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1229
+    position: 3
+    japanese: その話は本当のような気がする。
+    body_text: "その話は本当のような気がする。 \n\nSomething tells me \n\t\tthat this story is true  ."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJその話は本当のような気がする\">\n\t\t\t\tその話は本当のような<strong>気がする</strong><strong></strong>。</a> <br/>\n<strong>Something tells me </strong>\n\t\tthat this story is true  ."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1230
+    position: 4
+    japanese: ちょっと危ない気がする。
+    body_text: "ちょっと危ない気がする。 \n\nI have a feeling \n\t\tits a little dangerous  ."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJちょっと危ない気がする\">\n\t\t\t\tちょっと危ない<strong>気がする</strong><strong></strong>。</a> <br/>\n<strong>I have a feeling </strong>\n\t\tits a little dangerous  ."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1231
+    position: 5
+    japanese: 彼にどこかで会ったような気がする。
+    body_text: "彼にどこかで会ったような気がする。 \n\nI have a feeling \n\t\tI met him somewhere before  ."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼にどこかで会ったような気がする\">\n\t\t\t\t彼にどこかで会ったような<strong>気がする</strong><strong></strong>。</a> <br/>\n<strong>I have a feeling </strong>\n\t\tI met him somewhere before  ."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1325
+    position: 6
+    japanese: 例外が多いような気がしました。
+    body_text: "例外が多いような気がしました。 \n\nI get the feeling \n\t\tthere are a lot of exceptions  ."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ例外が多いような気がしました\">\n\t\t\t\t例外が多いような<strong>気がしました</strong><strong></strong>。</a> <br/>\n<strong>I get the feeling </strong>\n\t\tthere are a lot of exceptions  ."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1327
+    position: 7
+    japanese: 電車の中での勉強はとても無理なような気がします。
+    body_text: "電車の中での勉強はとても無理なような気がします。  \n\nI feel like it's \n\t\talmost impossible to study on the train  ."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ電車の中での勉強はとても無理なような気がします\">\n\t\t\t\t電車の中での勉強はとても無理なような<strong>気がします</strong><strong></strong>。 </a> <br/>\n<strong>I feel like it's </strong>\n\t\talmost impossible to study on the train  ."
+    credits_raw: dc
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1331
+    position: 8
+    japanese: 旅行で行きましたけど、そこには住みたくないような気がしました。
+    body_text: "旅行で行きましたけど、そこには住みたくないような気がしました。 \n\n\t\tI went travelling there, \n\t\tbut realized \n\t\tI would not like to live there  ."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ旅行で行きましたけど、そこには住みたくないような気がしました\">\n\t\t\t\t旅行で行きましたけど、そこには住みたくないような<strong>気がしました</strong><strong></strong>。</a> <br/>\n\t\tI went travelling there, \n\t\t<strong>but realized </strong>\n\t\tI would not like to live there  ."
+    credits_raw: dc
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3488
+    position: 9
+    japanese: 「天気予報、今日は涼しいそうよ。」「反対に、暑い気がする。」
+    body_text: "「天気予報、今日は涼しいそうよ。」「反対に、暑い気がする。」 \n\n\t\t\"The weather forecast says it's cool today.\" \"On the contrary \n\t\tI feel \n\t\t  hot.\""
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ「天気予報、今日は涼しいそうよ。」「反対に、暑い気がする。」\">\n\t\t\t\t「天気予報、今日は涼しいそうよ。」「反対に、暑い<strong>気がする</strong>。」<strong></strong></a> <br/>\n\t\t\"The weather forecast says it's cool today.\" \"On the contrary \n\t\t<strong>I feel </strong>\n\t\t  hot.\""
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3489
+    position: 10
+    japanese: 一週間田舎にいてすっかり元気になったような気がする。
+    body_text: "一週間田舎にいてすっかり元気になったような気がする。 \n\nI feel \n\t\t  completely restored after a week in the country."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ一週間田舎にいてすっかり元気になったような気がする。\">\n\t\t\t\t一週間田舎にいてすっかり元気になったような<strong>気がする</strong>。<strong></strong></a> <br/>\n<strong>I feel </strong>\n\t\t  completely restored after a week in the country."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3490
+    position: 11
+    japanese: うしろめたい気がする。
+    body_text: "うしろめたい気がする。\r \n\n\t\tI feel guilty."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJうしろめたい気がする。\">\n\t\t\t\tうしろめたい<strong>気がする</strong>。\r<strong></strong></a> <br/>\n\t\tI feel guilty. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3491
+    position: 12
+    japanese: お天気なので、釣りに行きたいような気がする。
+    body_text: "お天気なので、釣りに行きたいような気がする。\r \n\n\t\tIt is a fine day and I feel like going fishing."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJお天気なので、釣りに行きたいような気がする。\">\n\t\t\t\tお天気なので、釣りに行きたいような<strong>気がする</strong>。\r<strong></strong></a> <br/>\n\t\tIt is a fine day and I feel like going fishing. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5423
+    position: 13
+    japanese: やはりもっと話さないとだめな気がします
+    body_text: "やはりもっと話さないとだめな気がします \n\n\t\tI need to speak more or its no good, \n\t\tI get the feeling"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJやはりもっと話さないとだめな気がします\">\n\t\t\t\tやはりもっと話さないとだめな<strong>気がします</strong><strong></strong></a> <br/>\n\t\tI need to speak more or its no good, \n\t\t<strong>I get the feeling </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5754
+    position: 14
+    japanese: 彼、最近、私に冷たくなったような気がする。
+    body_text: "彼、最近、私に冷たくなったような気がする。\r \n\n\t\tI feel like he's grown cold toward me lately."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼、最近、私に冷たくなったような気がする。\">\n\t\t\t\t彼、最近、私に冷たくなったような<strong>気がする</strong>。\r<strong></strong></a> <br/>\n\t\tI feel like he's grown cold toward me lately. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5755
+    position: 15
+    japanese: 彼がその秘密を知っているような気がする。
+    body_text: "彼がその秘密を知っているような気がする。\r \n\n\t\tI have a impression that he knows the secret."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼がその秘密を知っているような気がする。\">\n\t\t\t\t彼がその秘密を知っているような<strong>気がする</strong>。\r<strong></strong></a> <br/>\n\t\tI have a impression that he knows the secret. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5756
+    position: 16
+    japanese: 彼が近いうちにひょっこり訪ねてくるかもしれない気がする。
+    body_text: "彼が近いうちにひょっこり訪ねてくるかもしれない気がする。\r \n\n\t\tI have a feeling that he may blow in sometime soon."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼が近いうちにひょっこり訪ねてくるかもしれない気がする。\">\n\t\t\t\t彼が近いうちにひょっこり訪ねてくるかもしれない<strong>気がする</strong>。\r<strong></strong></a> <br/>\n\t\tI have a feeling that he may blow in sometime soon. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5757
+    position: 17
+    japanese: 彼は医者のような気がする。
+    body_text: "彼は医者のような気がする。\r \n\n\t\tI fancy he is a doctor."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼は医者のような気がする。\">\n\t\t\t\t彼は医者のような<strong>気がする</strong>。\r<strong></strong></a> <br/>\n\t\tI fancy he is a doctor. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5758
+    position: 18
+    japanese: 彼は勉強を始めるとどうして眠気がするのだろうか。
+    body_text: "彼は勉強を始めるとどうして眠気がするのだろうか。 \n\n\t\tWhy should he \n\t\tfeel \n\t\t  drowsy whenever he begins to study?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼は勉強を始めるとどうして眠気がするのだろうか。\">\n\t\t\t\t彼は勉強を始めるとどうして眠<strong>気がする</strong>のだろうか。<strong></strong></a> <br/>\n\t\tWhy should he \n\t\t<strong>feel </strong>\n\t\t  drowsy whenever he begins to study?"
+    credits_raw: dc
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5759
+    position: 19
+    japanese: 彼をどう思っているか話してみたい気がする。
+    body_text: "彼をどう思っているか話してみたい気がする。\r \n\n\t\tI feel like telling him what I think of him."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼をどう思っているか話してみたい気がする。\">\n\t\t\t\t彼をどう思っているか話してみたい<strong>気がする</strong>。\r<strong></strong></a> <br/>\n\t\tI feel like telling him what I think of him. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5760
+    position: 20
+    japanese: 彼女は今日来るような気がする。
+    body_text: "彼女は今日来るような気がする。\r \n\n\t\tI have an idea she will come today."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女は今日来るような気がする。\">\n\t\t\t\t彼女は今日来るような<strong>気がする</strong>。\r<strong></strong></a> <br/>\n\t\tI have an idea she will come today. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5761
+    position: 21
+    japanese: 分かるような気がする。
+    body_text: "分かるような気がする。\r \n\n\t\tI think I understand."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ分かるような気がする。\">\n\t\t\t\t分かるような<strong>気がする</strong>。\r<strong></strong></a> <br/>\n\t\tI think I understand. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5762
+    position: 22
+    japanese: 僕の人生には何か欠けているものがあるような気がするんだ。
+    body_text: "僕の人生には何か欠けているものがあるような気がするんだ。\r \n\n\t\tI have a feeling that something is lacking in my life [M]"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ僕の人生には何か欠けているものがあるような気がするんだ。\">\n\t\t\t\t僕の人生には何か欠けているものがあるような<strong>気がする</strong>んだ。\r<strong></strong></a> <br/>\n\t\tI have a feeling that something is lacking in my life [M] \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5763
+    position: 23
+    japanese: 旅に出かけたい気がする。
+    body_text: "旅に出かけたい気がする。\r \n\n\t\tI feel like going on a trip."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ旅に出かけたい気がする。\">\n\t\t\t\t旅に出かけたい<strong>気がする</strong>。\r<strong></strong></a> <br/>\n\t\tI feel like going on a trip. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5764
+    position: 24
+    japanese: 扁桃腺がはれている気がするのですが。
+    body_text: "扁桃腺がはれている気がするのですが。  \n\n\t\tI'm afraid my tonsils are swollen."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ扁桃腺がはれている気がするのですが。 \">\n\t\t\t\t扁桃腺がはれている<strong>気がする</strong>のですが。 <strong></strong></a> <br/>\n\t\tI'm afraid my tonsils are swollen. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6745
+    position: 25
+    japanese: 日本語は、勉強すればするほど難しくなるような気がする。
+    body_text: "日本語は、勉強すればするほど難しくなるような気がする。 \n\n\t\tAbout Japanese, \n\t\tI feel like \n\t\t  the more you study, the more difficult."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ日本語は、勉強すればするほど難しくなるような気がする\">\n\t\t\t\t日本語は、勉強すればするほど難しくなるような<strong>気がする</strong><strong></strong>。</a> <br/>\n\t\tAbout Japanese, \n\t\t<strong>I feel like </strong>\n\t\t  the more you study, the more difficult."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: "seems to always be preceded with youna~\n\r\n　　ような気がする"
+    html: "seems to always be preceded with youna~<br/>\r\n　　ような気がする<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Miki
+    text: "As for the note, 悪い男と思います。is not natural.\n\r\nWe say 悪い男_だ_と思います。"
+    html: "As for the note, 悪い男と思います。is not natural.<br/>\r\nWe say 悪い男_だ_と思います。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: bamboo4
+    text: "Instead of 悪い男のようなような気がする, MIki is correct that one would normally say 悪い男のように思われます。\n\r\nIn that example, 気がする would be used in a sense of denial, such as 悪い人のような気がしない。"
+    html: "Instead of 悪い男のようなような気がする, MIki is correct that one would normally say 悪い男のように思われます。<br/>\r\nIn that example, 気がする would be used in a sense of denial, such as 悪い人のような気がしない。<br/>\n<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: "悪い　and 危ない are both adjectives, but when the adjetive is used to qulaify a noun, the noun takes + 　のような気\n\n\n\r\n危ない　気がする\n\r\n　悪い　気がする\n\n\n\r\nbut\n\r\n　悪い男のよう　な　気がする\n\n\n\r\nI find this easiest to remember as \n\r\n-like feeling\n\r\n-no\x01na 気がする"
+    html: "悪い　and 危ない are both adjectives, but when the adjetive is used to qulaify a noun, the noun takes + 　のような気<br/>\n<br/>\r\n危ない　気がする<br/>\r\n　悪い　気がする<br/>\n<br/>\r\nbut<br/>\r\n　悪い男のよう　な　気がする<br/>\n<br/>\r\nI find this easiest to remember as <br/>\r\n-like feeling<br/>\r\n-no<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>na 気がする<br/>\n<br/>\n<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bamboo4
+    text: Edited the last example.
+    html: Edited the last example.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: your name
+    text: "#\x01 I think Japanese would be more natural, 旅行で行きましたけど、（そこには）住みたい 気がしませんでした。"
+    html: "<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=kigasuru#\x01\">#\x01</a></b> I think Japanese would be more natural, 旅行で行きましたけど、（そこには）住みたい 気がしませんでした。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: bamboo4
+    text: "Corrected #\x01."
+    html: "Corrected <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=kigasuru#\x01\">#\x01</a></b>."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: dc
+    text: |-
+      for examples that have been checked/corrected by yourself, i changed the "checked" dropdown menu to +1, which makes them show up in green.
+    html: |-
+      for examples that have been checked/corrected by yourself, i changed the "checked" dropdown menu to +1, which makes them show up in green.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: bamboo4
+    text: I'm honored.
+    html: I'm honored.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: dc
+    text: "when do you use と with this?\n\n\n\r\n危ない　気がする\n\r\n危ないと気が付いた　← past tense? correct?\n\n\n\r\n納豆は美味しい＿と＿気が付いた"
+    html: "when do you use と with this?<br/>\n<br/>\r\n危ない　気がする<br/>\r\n危ないと気が付いた　← past tense? correct?<br/>\n<br/>\r\n納豆は美味しい＿と＿気が付いた<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: srobertson
+    text: |-
+      A line in the notes section of this entry should be changed from:"verb+のような＋気がする" to "verb+ような＋気がする" (the particle の needs to be dropped)
+    html: |-
+      A line in the notes section of this entry should be changed from:"verb+のような＋気がする" to "verb+ような＋気がする" (the particle の needs to be dropped)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: dc
+    text: done, thanks.
+    html: done, thanks.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: dc
+    text: "#\x01 is a little awkward translation"
+    html: "<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=kigasuru#\x01\">#\x01</a></b> is a little awkward translation"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: srobertson
+    text: "For #\x01, how about \"Still, I have the feeling that it would be wrong not to say more.\" (I'd use \"get the feeling\" if the Japanese sentence were more casual.)"
+    html: "For <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=kigasuru#\x01\">#\x01</a></b>, how about \"Still, I have the feeling that it would be wrong not to say more.\" (I'd use \"get the feeling\" if the Japanese sentence were more casual.)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: 赤毛
+    text: "I think Ex #\x01 don't fit with this grammar because the 気 in \n\r\n眠気\t【ねむけ】\t(n) sleepiness, drowsiness\n\r\nhave another meaning than in others 気がする examples.\n\r\nSo I labeled it \"suspicious\"."
+    html: "I think Ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=kigasuru#\x01\">#\x01</a></b> don't fit with this grammar because the 気 in <br/>\r\n眠気\t【ねむけ】\t(n) sleepiness, drowsiness<br/>\r\nhave another meaning than in others 気がする examples.<br/>\r\nSo I labeled it \"suspicious\".<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    credits_raw: anna.kendall
+    text: "Would this be correct...\n\r\nさびしいような気がする (I feel lonely)\n\r\n迷っているような気がする　(I feel lost)\n\n\n\r\nthen for -気がする\n\r\n私たちは迷っている気がする　(I have a feeling we are lost!)\n\n\n\r\n悪い男のように思われます。What does this sentence mean literally?"
+    html: "Would this be correct...<br/>\r\nさびしいような気がする (I feel lonely)<br/>\r\n迷っているような気がする　(I feel lost)<br/>\n<br/>\r\nthen for -気がする<br/>\r\n私たちは迷っている気がする　(I have a feeling we are lost!)<br/>\n<br/>\r\n悪い男のように思われます。What does this sentence mean literally?<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: kigatsuita
+    label: kigatsuita
+    annotation_text: kigatsuita    (these are the same...) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kigatsuita">kigatsuita</a>    (these are the same...) [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "気がする [きがする] (kigasuru)\n    Meaning: to feel, realize \n    Example: I have a feeling he's a bad person\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>気がする [きがする] (kigasuru)</span><br/>    <span><b>Meaning</b>: to feel, realize </span><br/>    <b>Example</b>: <i>I have a feeling he's a bad person</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225401'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 2152325
+  length: 8165
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 80ae706132975a92369fa1ed4ee747326b8669b6918ed126d39b41f3aa133a02

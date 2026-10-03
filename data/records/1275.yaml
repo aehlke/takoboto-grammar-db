@@ -1,0 +1,524 @@
+schema_version: 2
+id: 1275
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1275/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: かわりに
+romanized_label: kawarini
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: in place of; instead of
+meaning_example: instead of milk, sweetener
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1275
+    body_text: |-
+      in place of; instead of 
+       instead of milk, sweetener
+    body_html: |-
+      <span>in place of; instead of</span> <br/> <span>instead of milk, sweetener</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 1025
+    position: 0
+    japanese: 今朝はコーヒーの代わりにココアを飲んだ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e6%9c%9d"><span>今朝</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc"><span>はコーヒー</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e4%bb%a3%e3%82%8f%e3%82%8a%e3%81%ab"><strong>の代わりに</strong></a><a href="https://takoboto.jp/?q=%e3%82%b3%e3%82%b3%e3%82%a2%e3%82%92"><span>ココアを</span></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%93%e3%81%a0"><span>飲んだ</span></a>
+    segments:
+      - text: 今朝はコーヒー
+        grammar_highlight: false
+      - text: の代わりに
+        grammar_highlight: true
+      - text: ココアを飲んだ
+        grammar_highlight: false
+    reading: けさはコーヒーのかわりにココアをのんだ
+    credits_raw: d4
+    translations:
+      - language: en
+        text: This morning, instead of coffee, I drank cocoa
+        html: |-
+          <span>This morning, </span><span>instead of </span><strong>coffee, I drank cocoa </strong>
+        segments:
+          - text: 'This morning, instead of '
+            grammar_highlight: false
+          - text: 'coffee, I drank cocoa '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1026
+    position: 1
+    japanese: 話す代わりに
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%99"><span>話す</span></a><a href="https://takoboto.jp/?q=%e4%bb%a3%e3%82%8f%e3%82%8a%e3%81%ab"><strong>代わりに</strong></a>
+    segments:
+      - text: 話す
+        grammar_highlight: false
+      - text: 代わりに
+        grammar_highlight: true
+    reading: はなすかわりに
+    credits_raw: d4
+    translations:
+      - language: en
+        text: instead of talking
+        html: |-
+          <span>instead of </span><strong>talking </strong>
+        segments:
+          - text: 'instead of '
+            grammar_highlight: false
+          - text: 'talking '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1027
+    position: 2
+    japanese: 高い代わりに
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84"><span>高い</span></a><a href="https://takoboto.jp/?q=%e4%bb%a3%e3%82%8f%e3%82%8a%e3%81%ab"><strong>代わりに</strong></a>
+    segments:
+      - text: 高い
+        grammar_highlight: false
+      - text: 代わりに
+        grammar_highlight: true
+    reading: たかいかわりに
+    credits_raw: d4
+    translations:
+      - language: en
+        text: instead of being expensive
+        html: |-
+          <span>instead of </span><strong>being expensive </strong>
+        segments:
+          - text: 'instead of '
+            grammar_highlight: false
+          - text: 'being expensive '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1168
+    position: 3
+    japanese: 先生のかわりに私が教えた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f"><span>先生</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>のかわりに</strong></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%81%9f%e3%80%82"><span>教えた。</span></a>
+    segments:
+      - text: 先生
+        grammar_highlight: false
+      - text: のかわりに
+        grammar_highlight: true
+      - text: 私が教えた。
+        grammar_highlight: false
+    reading: せんせいのかわりにわたしがおしえた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: In place of my teacher, I taught.
+        html: |-
+          <strong>In place of </strong><span>my teacher, I taught. </span>
+        segments:
+          - text: 'In place of '
+            grammar_highlight: true
+          - text: 'my teacher, I taught. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3498
+    position: 4
+    japanese: ２階に私のかわりにもっていってください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%92%e9%9a%8e%e3%81%ab"><span>２階に</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>かわりに</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%a3%e3%81%a6%e3%81%84%e3%81%a3%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>もっていってください。</span></a>
+    segments:
+      - text: ２階に私の
+        grammar_highlight: false
+      - text: かわりに
+        grammar_highlight: true
+      - text: もっていってください。
+        grammar_highlight: false
+    reading: ２かいにわたしのかわりにもっていってください。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Would you mind carrying it up the stairs for me?
+        html: |-
+          <span>Would you mind carrying it up the stairs for me? </span>
+        segments:
+          - text: 'Would you mind carrying it up the stairs for me? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3499
+    position: 5
+    japanese: かわりに君にそこへ行って欲しい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>かわりに</strong></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%ab%e3%81%9d%e3%81%93%e3%81%b8"><span>君にそこへ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%a6"><span>行って</span></a><a href="https://takoboto.jp/?q=%e6%ac%b2%e3%81%97%e3%81%84%e3%80%82"><span>欲しい。</span></a>
+    segments:
+      - text: かわりに
+        grammar_highlight: true
+      - text: 君にそこへ行って欲しい。
+        grammar_highlight: false
+    reading: かわりにきみにそこへいってほしい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I wish you to go there instead.
+        html: |-
+          <span>I wish you to go there instead. </span>
+        segments:
+          - text: 'I wish you to go there instead. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3500
+    position: 6
+    japanese: これらの労働者を一時解雇するかわりに、彼等の労働時間を短縮すればよいじゃないか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%82%89%e3%81%ae"><span>これらの</span></a><a href="https://takoboto.jp/?q=%e5%8a%b4%e5%83%8d%e8%80%85%e3%82%92"><span>労働者を</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%99%82%e8%a7%a3%e9%9b%87%e3%81%99%e3%82%8b"><span>一時解雇する</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>かわりに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e7%ad%89%e3%81%ae"><span>彼等の</span></a><a href="https://takoboto.jp/?q=%e5%8a%b4%e5%83%8d%e6%99%82%e9%96%93%e3%82%92"><span>労働時間を</span></a><a href="https://takoboto.jp/?q=%e7%9f%ad%e7%b8%ae%e3%81%99%e3%82%8c%e3%81%b0%e3%82%88%e3%81%84%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%8b%e3%80%82"><span>短縮すればよいじゃないか。</span></a>
+    segments:
+      - text: これらの労働者を一時解雇する
+        grammar_highlight: false
+      - text: かわりに
+        grammar_highlight: true
+      - text: 、彼等の労働時間を短縮すればよいじゃないか。
+        grammar_highlight: false
+    reading: これらのろうどうしゃをいちじかいこするかわりに、かれらのろうどうじかんをたんしゅくすればよいじゃないか。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Instead of laying off these workers, why don't we just cut their hours?
+        html: |-
+          <span>Instead of laying off these workers, why don't we just cut their hours? </span>
+        segments:
+          - text: 'Instead of laying off these workers, why don''t we just cut their hours? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3501
+    position: 7
+    japanese: これを私のかわりにしていただけたらとてもありがたいのですが。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%82%92"><span>これを</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>かわりに</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%a6%e3%81%84%e3%81%9f%e3%81%a0%e3%81%91%e3%81%9f%e3%82%89%e3%81%a8%e3%81%a6%e3%82%82%e3%81%82%e3%82%8a%e3%81%8c%e3%81%9f%e3%81%84%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8c%e3%80%82"><span>していただけたらとてもありがたいのですが。</span></a>
+    segments:
+      - text: これを私の
+        grammar_highlight: false
+      - text: かわりに
+        grammar_highlight: true
+      - text: していただけたらとてもありがたいのですが。
+        grammar_highlight: false
+    reading: これをわたしのかわりにしていただけたらとてもありがたいのですが。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I would be very pleased if you do this for me.
+        html: |-
+          <span>I would be very pleased if you do this for me. </span>
+        segments:
+          - text: 'I would be very pleased if you do this for me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3502
+    position: 8
+    japanese: しばらく私のかわりに子どもから目を離さないでください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%97%e3%81%b0%e3%82%89%e3%81%8f"><span>しばらく</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>かわりに</strong></a><a href="https://takoboto.jp/?q=%e5%ad%90%e3%81%a9%e3%82%82%e3%81%8b%e3%82%89"><span>子どもから</span></a><a href="https://takoboto.jp/?q=%e7%9b%ae%e3%82%92"><span>目を</span></a><a href="https://takoboto.jp/?q=%e9%9b%a2%e3%81%95%e3%81%aa%e3%81%84%e3%81%a7%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>離さないでください。</span></a>
+    segments:
+      - text: しばらく私の
+        grammar_highlight: false
+      - text: かわりに
+        grammar_highlight: true
+      - text: 子どもから目を離さないでください。
+        grammar_highlight: false
+    reading: しばらくわたしのかわりにこどもからめをはなさないでください。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Keep an eye on the child for me for a moment.
+        html: |-
+          <span>Keep an eye on the child for me for a moment. </span>
+        segments:
+          - text: 'Keep an eye on the child for me for a moment. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3503
+    position: 9
+    japanese: そのかわりに最前定義した二つの経済学的変数に関する議論を行うことにしよう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>かわりに</strong></a><a href="https://takoboto.jp/?q=%e6%9c%80%e5%89%8d%e5%ae%9a%e7%be%a9%e3%81%97%e3%81%9f"><span>最前定義した</span></a><a href="https://takoboto.jp/?q=%e4%ba%8c%e3%81%a4%e3%81%ae"><span>二つの</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e6%b8%88%e5%ad%a6%e7%9a%84%e5%a4%89%e6%95%b0%e3%81%ab"><span>経済学的変数に</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e3%81%99%e3%82%8b"><span>関する</span></a><a href="https://takoboto.jp/?q=%e8%ad%b0%e8%ab%96%e3%82%92"><span>議論を</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%86%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%82%88%e3%81%86%e3%80%82"><span>行うことにしよう。</span></a>
+    segments:
+      - text: その
+        grammar_highlight: false
+      - text: かわりに
+        grammar_highlight: true
+      - text: 最前定義した二つの経済学的変数に関する議論を行うことにしよう。
+        grammar_highlight: false
+    reading: そのかわりにさいぜんていぎしたふたつのけいざいがくてきへんすうにかんするぎろんをおこなうことにしよう。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Instead, I will turn to a discussion of the two economic variables I defined a moment ago.
+        html: |-
+          <span>Instead, I will turn to a discussion of the two economic variables I defined a moment ago. </span>
+        segments:
+          - text: 'Instead, I will turn to a discussion of the two economic variables I defined a moment ago. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3504
+    position: 10
+    japanese: まことにすみませんが、私のかわりにそれをやっていただけませんか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%ab%e3%81%99%e3%81%bf%e3%81%be%e3%81%9b%e3%82%93%e3%81%8c%e3%80%81"><span>まことにすみませんが、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>かわりに</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%82%92%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e3%81%a0%e3%81%91%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b%e3%80%82"><span>それをやっていただけませんか。</span></a>
+    segments:
+      - text: まことにすみませんが、私の
+        grammar_highlight: false
+      - text: かわりに
+        grammar_highlight: true
+      - text: それをやっていただけませんか。
+        grammar_highlight: false
+    reading: まことにすみませんが、わたしのかわりにそれをやっていただけませんか。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Would you be good enough to do it for me?
+        html: |-
+          <span>Would you be good enough to do it for me? </span>
+        segments:
+          - text: 'Would you be good enough to do it for me? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5810
+    position: 11
+    japanese: 音楽会に行くかわりにＣＤを三枚買うほうがいいと思う。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9f%b3%e6%a5%bd%e4%bc%9a%e3%81%ab"><span>音楽会に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>かわりに</strong></a><a href="https://takoboto.jp/?q=%ef%bc%a3%ef%bc%a4%e3%82%92"><span>ＣＤを</span></a><a href="https://takoboto.jp/?q=%e4%b8%89%e6%9e%9a%e8%b2%b7%e3%81%86%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84%e3%81%a8"><span>三枚買うほうがいいと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%86%e3%80%82"><span>思う。</span></a>
+    segments:
+      - text: 音楽会に行く
+        grammar_highlight: false
+      - text: かわりに
+        grammar_highlight: true
+      - text: ＣＤを三枚買うほうがいいと思う。
+        grammar_highlight: false
+    reading: おんがくかいにいくかわりにしーでぃーをさんまいかうほうがいいとおもう。
+    credits_raw: Meghana
+    translations:
+      - language: en
+        text: I think it is better to buy 3CDs instead of going to a musical concert.
+        html: |-
+          <span>I think it is better to buy 3CDs instead of going to a musical concert. </span>
+        segments:
+          - text: 'I think it is better to buy 3CDs instead of going to a musical concert. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8219
+    position: 12
+    japanese: ビールを切らしてしまった。代わりにウイスキーを飲めよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%93%e3%83%bc%e3%83%ab%e3%82%92"><span>ビールを</span></a><a href="https://takoboto.jp/?q=%e5%88%87%e3%82%89%e3%81%97%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>切らしてしまった。</span></a><a href="https://takoboto.jp/?q=%e4%bb%a3%e3%82%8f%e3%82%8a%e3%81%ab%e3%82%a6%e3%82%a4%e3%82%b9%e3%82%ad%e3%83%bc%e3%82%92"><span>代わりにウイスキーを</span></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%81%e3%82%88%e3%80%82"><span>飲めよ。</span></a>
+    segments:
+      - text: ビールを切らしてしまった。代わりにウイスキーを飲めよ。
+        grammar_highlight: false
+    reading: ビールをきらしてしまった。かわりにウイスキーをのめよ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I have run out of beer. Drink some whisky instead.
+        html: |-
+          <span>I have run out of beer. Drink some whisky instead. </span>
+        segments:
+          - text: 'I have run out of beer. Drink some whisky instead. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8220
+    position: 13
+    japanese: お辞儀の代わりに、アメリカ人は握手をする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e8%be%9e%e5%84%80%e3%81%ae"><span>辞儀の</span></a><a href="https://takoboto.jp/?q=%e4%bb%a3%e3%82%8f%e3%82%8a%e3%81%ab%e3%80%81%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab"><span>代わりに、アメリカ</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%af"><span>人は</span></a><a href="https://takoboto.jp/?q=%e6%8f%a1%e6%89%8b%e3%82%92%e3%81%99%e3%82%8b%e3%80%82"><span>握手をする。</span></a>
+    segments:
+      - text: お辞儀の代わりに、アメリカ人は握手をする。
+        grammar_highlight: false
+    reading: おじぎのかわりに、アメリカじんはあくしゅをする。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Instead of bowing, American people shake hands.
+        html: |-
+          <span>Instead of bowing, American people shake hands. </span>
+        segments:
+          - text: 'Instead of bowing, American people shake hands. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8222
+    position: 14
+    japanese: この石は金づちのかわりになる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e7%9f%b3%e3%81%af"><span>石は</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%81%a5%e3%81%a1%e3%81%ae"><span>金づちの</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>かわりに</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%8b%e3%80%82"><span>なる。</span></a>
+    segments:
+      - text: この石は金づちの
+        grammar_highlight: false
+      - text: かわりに
+        grammar_highlight: true
+      - text: なる。
+        grammar_highlight: false
+    reading: このいしはかなづちのかわりになる。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: This rock will do for a hammer.
+        html: |-
+          <span>This rock will do for a hammer. </span>
+        segments:
+          - text: 'This rock will do for a hammer. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8831
+    position: 15
+    japanese: 英語を勉強のかわりに日本語を勉強のためにこの動画を見る
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%82%92%e5%8b%89%e5%bc%b7%e3%81%ae"><span>英語を勉強の</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab"><strong>かわりに</strong></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%82%92%e5%8b%89%e5%bc%b7%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ab%e3%81%93%e3%81%ae%e5%8b%95%e7%94%bb%e3%82%92%e8%a6%8b%e3%82%8b"><span>日本語を勉強のためにこの動画を見る</span></a>
+    segments:
+      - text: 英語を勉強の
+        grammar_highlight: false
+      - text: かわりに
+        grammar_highlight: true
+      - text: 日本語を勉強のためにこの動画を見る
+        grammar_highlight: false
+    reading: えいごをべんきょうのかわりににほんごをべんきょうのためにこのどうがをみる
+    credits_raw: KimiKemaw
+    translations:
+      - language: en
+        text: Watch this video to study Japanese instead  of studying English
+        html: |-
+          <span>Watch this video to study Japanese </span><strong>instead </strong><span> of studying English </span>
+        segments:
+          - text: 'Watch this video to study Japanese '
+            grammar_highlight: false
+          - text: 'instead '
+            grammar_highlight: true
+          - text: ' of studying English '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: see [kawaru-group] for explanation and similar items
+    html: see [kawaru-group] for explanation and similar items
+    credits_raw: dc
+    content_sha256: 785089d7ff97a0970a239a9b1e614d18ef0e29962cbaf28ca2f17e7a14064e97
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Noun + の
+      先生のかわりに
+
+      i-Adj
+      高いかわいに
+
+      ku-Adj
+      早くかわりに
+
+      verb-masu + kawarini
+      遊ぶ代わりに
+    html: |-
+      Noun + の<br/>先生のかわりに<br/><br/>i-Adj<br/>高いかわいに<br/><br/>ku-Adj<br/>早くかわりに<br/><br/>verb-masu + kawarini<br/>遊ぶ代わりに
+    credits_raw: dc
+    content_sha256: d52629743ed576f2d7aa2fe4966e16db2903a7f102fce244d6037fd1265c0a95
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Is this correct: 
+
+      彼は早くかわりに、遅かった
+      Instead of being early, he was late.
+    html: |-
+      Is this correct: <br/><br/>彼は早くかわりに、遅かった<br/>Instead of being early, he was late.
+    credits_raw: dc
+    content_sha256: 08e563833c50b43b49196d067f880a45c63c3fd1dc3d4602c5c07ab1d5f9ae61
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      In the Notes section,
+      shouldn't it be: 
+       高いかわいに→高いかわりに 
+      And:
+       "verb-dictionary + kawarini"
+    html: |-
+      In the Notes section,<br/>shouldn't it be: <br/> 高いかわいに→高いかわりに <br/>And:<br/> "verb-dictionary + kawarini"
+    credits_raw: eastmaels
+    content_sha256: ec7636686df38914d0b7ee1557f995aac562492018e594500adf09d943f5301e
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Question: My grammar book says に かわり instead of かわりに for all its examples and explanations. ex. 首相　に　かわり、　外相　が　アメリカ　を　訪問　した。
+      Can anyone clarify?
+    html: |-
+      Question: My grammar book says に かわり instead of かわりに for all its examples and explanations. ex. 首相　に　かわり、　外相　が　アメリカ　を　訪問　した。<br/>Can anyone clarify?
+    credits_raw: jmadsen
+    content_sha256: 1bd905815733da0285a3d16fb1f5e82d564f67302a103fb39efbcebff6fefcb5
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      Just got my question answered :-)
+      ni kawari is more "polite" or "official", and also shows a more passive sense of the "ni" particle. kawari + ni is more typical in spoken language. So, these two sentences are the same in meaning:
+      相　に　かわり、　外相　が　アメリカ　を　訪問　した。
+      相　の　かわり　に、　外相　が　アメリカ　を　訪問　した。
+      But the first is more likely to occur in a news report.
+    html: |-
+      Just got my question answered :-)<br/>ni kawari is more "polite" or "official", and also shows a more passive sense of the "ni" particle. kawari + ni is more typical in spoken language. So, these two sentences are the same in meaning:<br/>相　に　かわり、　外相　が　アメリカ　を　訪問　した。<br/>相　の　かわり　に、　外相　が　アメリカ　を　訪問　した。<br/>But the first is more likely to occur in a news report.
+    credits_raw: jmadsen
+    content_sha256: b20dfdbabb1b815a6cff493bbf6bfdbba5b008f495f58af3ee78e3c6ac42fa61
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      can you even use い adjectives with this form of かわりに?
+      I know it can be used for the other form , i.e some form of compensation or balance (E.g. 高い代わりに便利だった）, but all the books i have read including the dictionary of int grammar, state it cant be used in a way such as 高い代わりに （instead of being expensive)
+    html: |-
+      can you even use い adjectives with this form of かわりに?<br/>I know it can be used for the other form , i.e some form of compensation or balance (E.g. 高い代わりに便利だった）, but all the books i have read including the dictionary of int grammar, state it cant be used in a way such as 高い代わりに （instead of being expensive)
+    credits_raw: bluntcrayon
+    content_sha256: d46b396f5129c3ecbc9506fcf7251bbba396ee981b748bd7e74c06ca47953689
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      彼は早くかわりに、遅かった
+      Instead of being early, he was late.
+
+      →This is wrong. There is no "(~ku)kawarini" usage. 
+      i-adj＋かわりに
+      e.g.彼は 行動が はやいかわりに ミスが多い。
+    html: |-
+      彼は早くかわりに、遅かった<br/>Instead of being early, he was late.<br/><br/>→This is wrong. There is no "(~ku)kawarini" usage. <br/>i-adj＋かわりに<br/>e.g.彼は 行動が はやいかわりに ミスが多い。
+    credits_raw: kaz
+    content_sha256: 79b61925660aba20b1d5cd24f68371284021d8d20997d6dcd81fc11b3a004c46
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 933
+    label: 代わりに
+    source_url: https://takoboto.jp/bunpo/933
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:12+00:00'
+response_sha256: bd1e398cbc62e2878916014042beb8b62b776046dc1ee0e16fc86bab0a63dfde
+warnings: []

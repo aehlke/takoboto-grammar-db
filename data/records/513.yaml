@@ -1,0 +1,412 @@
+schema_version: 2
+id: 513
+source: takoboto
+source_url: https://takoboto.jp/bunpo/513/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: と共に
+romanized_label: totomoni
+alternate_forms:
+  - とともに
+jlpt_level: 3
+credits_raw: dc
+meaning: as well as; with; along with; at the same time; when; as; while
+meaning_example: As I'm recovering from my illness, my appetite is coming back.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_513
+    body_text: |-
+      as well as; with; along with; at the same time; when; as; while 
+       As I'm recovering from my illness, my appetite is coming back.
+    body_html: |-
+      <span>as well as; with; along with; at the same time; when; as; while</span> <br/> <span>As I'm recovering from my illness, my appetite is coming back.</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 6291
+    position: 0
+    japanese: スタインベックはとともにヘミングウェイアメリカの大分な作家の一人だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b9%e3%82%bf%e3%82%a4%e3%83%b3%e3%83%99%e3%83%83%e3%82%af%e3%81%af"><span>スタインベックは</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%a8%e3%82%82%e3%81%ab"><strong>とともに</strong></a><a href="https://takoboto.jp/?q=%e3%83%98%e3%83%9f%e3%83%b3%e3%82%b0%e3%82%a6%e3%82%a7%e3%82%a4%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%ae"><span>ヘミングウェイアメリカの</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%88%86%e3%81%aa"><span>大分な</span></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e5%ae%b6%e3%81%ae"><span>作家の</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e4%ba%ba%e3%81%a0%e3%80%82"><span>一人だ。</span></a>
+    segments:
+      - text: スタインベックは
+        grammar_highlight: false
+      - text: とともに
+        grammar_highlight: true
+      - text: ヘミングウェイアメリカの大分な作家の一人だ。
+        grammar_highlight: false
+    reading: はとともにのおおいたなさっかのいちにんだ。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: Steinbeck, along with Hemingway, is one of America's major authors.
+        html: |-
+          <span>Steinbeck, </span><strong>along with </strong><span>Hemingway, is one of America's major authors. </span>
+        segments:
+          - text: 'Steinbeck, '
+            grammar_highlight: false
+          - text: 'along with '
+            grammar_highlight: true
+          - text: 'Hemingway, is one of America''s major authors. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6292
+    position: 1
+    japanese: 私は職場の同僚達とともにそのデモに参加した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e8%81%b7%e5%a0%b4%e3%81%ae"><span>職場の</span></a><a href="https://takoboto.jp/?q=%e5%90%8c%e5%83%9a%e9%81%94"><span>同僚達</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%a8%e3%82%82%e3%81%ab"><strong>とともに</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%83%87%e3%83%a2%e3%81%ab"><span>そのデモに</span></a><a href="https://takoboto.jp/?q=%e5%8f%82%e5%8a%a0%e3%81%97%e3%81%9f%e3%80%82"><span>参加した。</span></a>
+    segments:
+      - text: 私は職場の同僚達
+        grammar_highlight: false
+      - text: とともに
+        grammar_highlight: true
+      - text: そのデモに参加した。
+        grammar_highlight: false
+    reading: わたしはしょくばのどうりょうたちとともにそのデモにさんかした。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: I took part in the demonstration with my office colleagues.
+        html: |-
+          <span>I took part in the demonstration </span><strong>with </strong><span>my office colleagues. </span>
+        segments:
+          - text: 'I took part in the demonstration '
+            grammar_highlight: false
+          - text: 'with '
+            grammar_highlight: true
+          - text: 'my office colleagues. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6293
+    position: 2
+    japanese: 終戦とともに激しいインフレが人々を襲った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%b5%82%e6%88%a6"><span>終戦</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%a8%e3%82%82%e3%81%ab"><strong>とともに</strong></a><a href="https://takoboto.jp/?q=%e6%bf%80%e3%81%97%e3%81%84%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%81%8c%e4%ba%ba%e3%80%85%e3%82%92%e8%a5%b2%e3%81%a3%e3%81%9f%e3%80%82"><span>激しいインフレが人々を襲った。</span></a>
+    segments:
+      - text: 終戦
+        grammar_highlight: false
+      - text: とともに
+        grammar_highlight: true
+      - text: 激しいインフレが人々を襲った。
+        grammar_highlight: false
+    reading: しゅうせんとともにはげしいインフレがひとびとをおそった。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: Severe inflation hit people when the war ended (lit. with the end of the war).
+        html: |-
+          <span>Severe inflation hit people when the war ended (lit. with the end of the war). </span>
+        segments:
+          - text: 'Severe inflation hit people when the war ended (lit. with the end of the war). '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6294
+    position: 3
+    japanese: 年をするとともに耳が遠くなってきた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%b9%b4%e3%82%92%e3%81%99%e3%82%8b"><span>年をする</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%a8%e3%82%82%e3%81%ab"><strong>とともに</strong></a><a href="https://takoboto.jp/?q=%e8%80%b3%e3%81%8c%e9%81%a0%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%80%82"><span>耳が遠くなってきた。</span></a>
+    segments:
+      - text: 年をする
+        grammar_highlight: false
+      - text: とともに
+        grammar_highlight: true
+      - text: 耳が遠くなってきた。
+        grammar_highlight: false
+    reading: としをするとともにみみがとおくなってきた。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: As I get older, I am losing my hearing.
+        html: |-
+          <span>As I get older, I am losing my hearing. </span>
+        segments:
+          - text: 'As I get older, I am losing my hearing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6295
+    position: 4
+    japanese: その提案は建設的であるとともに革命的であった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e6%8f%90%e6%a1%88%e3%81%af%e5%bb%ba%e8%a8%ad%e7%9a%84%e3%81%a7%e3%81%82%e3%82%8b"><span>その提案は建設的である</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%a8%e3%82%82%e3%81%ab"><strong>とともに</strong></a><a href="https://takoboto.jp/?q=%e9%9d%a9%e5%91%bd%e7%9a%84%e3%81%a7%e3%81%82%e3%81%a3%e3%81%9f%e3%80%82"><span>革命的であった。</span></a>
+    segments:
+      - text: その提案は建設的である
+        grammar_highlight: false
+      - text: とともに
+        grammar_highlight: true
+      - text: 革命的であった。
+        grammar_highlight: false
+    reading: そのていあんはけんせつてきであるとともにかくめいてきであった。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: The discovery was revolutionary as well as constructive.
+        html: |-
+          <span>The discovery was revolutionary as well as constructive. </span>
+        segments:
+          - text: 'The discovery was revolutionary as well as constructive. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 532
+    position: 5
+    japanese: 病気が回復すると共に食欲も出てきた
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%97%85%e6%b0%97%e3%81%8c"><span>病気が</span></a><a href="https://takoboto.jp/?q=%e5%9b%9e%e5%be%a9%e3%81%99%e3%82%8b"><span>回復する</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e5%85%b1%e3%81%ab"><strong>と共に</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e6%ac%b2%e3%82%82"><span>食欲も</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%a6%e3%81%8d%e3%81%9f"><span>出てきた</span></a>
+    segments:
+      - text: 病気が回復する
+        grammar_highlight: false
+      - text: と共に
+        grammar_highlight: true
+      - text: 食欲も出てきた
+        grammar_highlight: false
+    reading: びょうきがかいふくするとともにしょくよくもでてきた
+    credits_raw: dc
+    translations:
+      - language: en
+        text: As I am recovering from my illness, my appetite is coming back
+        html: |-
+          <strong>As </strong><span>I am recovering from my illness, my appetite is coming back </span>
+        segments:
+          - text: 'As '
+            grammar_highlight: true
+          - text: 'I am recovering from my illness, my appetite is coming back '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6318
+    position: 6
+    japanese: 人口が増えるとともに、それまで見られなかった都市問題が発生した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%ba%ba%e5%8f%a3%e3%81%8c"><span>人口が</span></a><a href="https://takoboto.jp/?q=%e5%a2%97%e3%81%88%e3%82%8b%e3%81%a8%e3%81%a8%e3%82%82%e3%81%ab%e3%80%81"><span>増えるとともに、</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%be%e3%81%a7"><strong>それまで</strong></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%89%e3%82%8c%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f"><span>見られなかった</span></a><a href="https://takoboto.jp/?q=%e9%83%bd%e5%b8%82%e5%95%8f%e9%a1%8c%e3%81%8c"><span>都市問題が</span></a><a href="https://takoboto.jp/?q=%e7%99%ba%e7%94%9f%e3%81%97%e3%81%9f%e3%80%82"><span>発生した。</span></a>
+    segments:
+      - text: 人口が増えるとともに、
+        grammar_highlight: false
+      - text: それまで
+        grammar_highlight: true
+      - text: 見られなかった都市問題が発生した。
+        grammar_highlight: false
+    reading: じんこうがふえるとともに、それまでみられなかったとしもんだいがはっせいした。
+    credits_raw: akiosama
+    translations:
+      - language: en
+        text: A city problem that has been unseen until then occurred as the population increased.
+        html: |-
+          <span>A city problem that has been unseen </span><strong>until then </strong><span>occurred as the population increased. </span>
+        segments:
+          - text: 'A city problem that has been unseen '
+            grammar_highlight: false
+          - text: 'until then '
+            grammar_highlight: true
+          - text: 'occurred as the population increased. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 81
+    position: 7
+    japanese: 大阪は東京とともに日本経済の中心地である
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%a7%e9%98%aa%e3%81%af"><span>大阪は</span></a><a href="https://takoboto.jp/?q=%e6%9d%b1%e4%ba%ac"><span>東京</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%a8%e3%82%82%e3%81%ab"><strong>とともに</strong></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e7%b5%8c%e6%b8%88%e3%81%ae"><span>日本経済の</span></a><a href="https://takoboto.jp/?q=%e4%b8%ad%e5%bf%83%e5%9c%b0%e3%81%a7%e3%81%82%e3%82%8b"><span>中心地である</span></a>
+    segments:
+      - text: 大阪は東京
+        grammar_highlight: false
+      - text: とともに
+        grammar_highlight: true
+      - text: 日本経済の中心地である
+        grammar_highlight: false
+    reading: おおさかはとうきょうとともににほんけいざいのちゅうしんちである
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Osaka, together with Tokyo, are the heart of Japan's economy.
+        html: |-
+          <span>Osaka, </span><strong>together with </strong><span>Tokyo, are the heart of Japan's economy. </span>
+        segments:
+          - text: 'Osaka, '
+            grammar_highlight: false
+          - text: 'together with '
+            grammar_highlight: true
+          - text: 'Tokyo, are the heart of Japan''s economy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      There are several usages:
+
+      A
+      meaning: with
+      form: noun + totomoni
+      eg. Oshyougatsu ha kazoku totomoni sugoshitai.
+       I want to spend New Year (party) with my family.
+
+      B
+      meaning: at the same time
+      form: verb (dict. form) + totomoni
+       i adj. + totomoni
+       noun + de aru + totomoni
+       na adj. + de aru + totomoni
+      eg.Kobayashisan ha gakusei wo shidou suru totomoni, kenkyuu nimo chikara wo ireteiru.
+       Mr. Kobayashi coaches the students and puts his strenght in making some researches at the same time.
+
+       Kono seihin no kaihatsu ha, konnan de aru totomoni, hiyou ga kakaru.
+       Regarding the development of this product, it is difficult and needs money at the same time.
+
+      C
+      meaning: is used when a change leads to another one.
+      form: verb (dict. form) + totomoni
+       noun + totomoni 
+      eg. Toshi wo toru totomoni, tairyoku ga otoroeru.
+       As you become older, your physical strength becomes weaker.
+    html: |-
+      There are several usages:<br/><br/>A<br/>meaning: with<br/>form: noun + totomoni<br/>eg. Oshyougatsu ha kazoku totomoni sugoshitai.<br/> I want to spend New Year (party) with my family.<br/><br/>B<br/>meaning: at the same time<br/>form: verb (dict. form) + totomoni<br/> i adj. + totomoni<br/> noun + de aru + totomoni<br/> na adj. + de aru + totomoni<br/>eg.Kobayashisan ha gakusei wo shidou suru totomoni, kenkyuu nimo chikara wo ireteiru.<br/> Mr. Kobayashi coaches the students and puts his strenght in making some researches at the same time.<br/><br/> Kono seihin no kaihatsu ha, konnan de aru totomoni, hiyou ga kakaru.<br/> Regarding the development of this product, it is difficult and needs money at the same time.<br/><br/>C<br/>meaning: is used when a change leads to another one.<br/>form: verb (dict. form) + totomoni<br/> noun + totomoni <br/>eg. Toshi wo toru totomoni, tairyoku ga otoroeru.<br/> As you become older, your physical strength becomes weaker.
+    credits_raw: Viola
+    content_sha256: 3e9ce651752c73c388de3753d7ab388553789821a2444d9035f6117aa474c1ff
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      ＊The meaning of とともに changes depending on the sentence pattern and context.
+
+      1) 「ＡはＢとともにＣ」: when A and B share the common property C, とともに means "as well as." (See example #6291.)
+
+      2) 「ＡはＢとともにＣ」: when A and B are the actors of the action C, とともに means "with; along with." (See example #6292.)
+
+      3) When とともに is preceded by a noun representing an action or event, とともに means either "at the same time as; when" or "as; with" depending on the event or action represented by the noun. (See example #6293.)
+
+      4) When とともに is preceded by a verb, とともに means "as; while." (See example #6294.)
+
+      5) When とともに is preceded by Ｎ・なＡ(stem) + である, とともに means "as well as." (See example #6295.)
+
+      FORMATION:
+      Ｖ(dict. form) + とともに
+      Ｎ・なＡ(stem) + である + とともに
+      いＡ + とともに
+      Ｎ + とともに
+    html: |-
+      ＊The meaning of とともに changes depending on the sentence pattern and context.<br/><br/>1) 「ＡはＢとともにＣ」: when A and B share the common property C, とともに means "as well as." (See example #6291.)<br/><br/>2) 「ＡはＢとともにＣ」: when A and B are the actors of the action C, とともに means "with; along with." (See example #6292.)<br/><br/>3) When とともに is preceded by a noun representing an action or event, とともに means either "at the same time as; when" or "as; with" depending on the event or action represented by the noun. (See example #6293.)<br/><br/>4) When とともに is preceded by a verb, とともに means "as; while." (See example #6294.)<br/><br/>5) When とともに is preceded by Ｎ・なＡ(stem) + である, とともに means "as well as." (See example #6295.)<br/><br/>FORMATION:<br/>Ｖ(dict. form) + とともに<br/>Ｎ・なＡ(stem) + である + とともに<br/>いＡ + とともに<br/>Ｎ + とともに
+    credits_raw: rubyhatchet
+    content_sha256: 2394ad8be880f1960d4e7038c695285b114720574088c06dbbadbbbbc135bdf4
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: when a verb comes before it, とともに means "as" - As I am recovering...
+    html: when a verb comes before it, とともに means "as" - As I am recovering...
+    credits_raw: dc
+    content_sha256: 4080f84f98ddb9fa3c64989846b3812532573940d6f13db3e092c3a5310434ac
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      when a noun comes before, とともに means "as well as" -
+      As well as Tokyo...
+    html: |-
+      when a noun comes before, とともに means "as well as" -<br/>As well as Tokyo...
+    credits_raw: dc
+    content_sha256: 0ede71e0768b743bd82a0281e9d2b55b853963542769a4fd8b376862613567a5
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      A noun case is OK.
+      と共に of 病気が回復すると共に can be replaced by ni turete.
+      病気が回復するにつれて、食欲も出てきた。
+      風が吹く とともに/につれて、雲が出てきた。
+      As it blows, clouds begin to appear.
+    html: |-
+      A noun case is OK.<br/>と共に of 病気が回復すると共に can be replaced by ni turete.<br/>病気が回復するにつれて、食欲も出てきた。<br/>風が吹く とともに/につれて、雲が出てきた。<br/>As it blows, clouds begin to appear.
+    credits_raw: Miki
+    content_sha256: 309c277320ceaf5724f1dc1857691e25b8af44b3760508fc1a0e1382026ee2c4
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: "Verb + と共に　means \n at the same time."
+    html: |-
+      Verb + と共に　means <br/> at the same time.
+    credits_raw: Miki
+    content_sha256: 842eead216c9c889542e078b65be7102b20cbef173e3754e770269f6fa2cf46a
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      Can we conclude that
+      if there is little time difference then we will use ni turete
+      and
+      When there is hardly any time difference then we will use to tomoni!!
+    html: |-
+      Can we conclude that<br/>if there is little time difference then we will use ni turete<br/>and<br/>When there is hardly any time difference then we will use to tomoni!!
+    credits_raw: ppmohapatra
+    content_sha256: 5f3c2ffffea6c79f7b1754b46ddec7a1ab6798f07edf5757fb53c1aaacfbf5a1
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      病気が回復するとともに、食欲が出てきた。I think the english would sound better if it was: "My appetite came back as I recovered from my illness"
+    html: |-
+      病気が回復するとともに、食欲が出てきた。I think the english would sound better if it was: "My appetite came back as I recovered from my illness"
+    credits_raw: akiosama
+    content_sha256: 38af67840a35d3d08de465a342239eea6a2c04f5952f2777ad159f3e7ae32ac9
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      From my point of view, the most difficult part of this grammar point is the slim difference in meaning between 「noun+であるとともに」and「noun+とともに」
+
+      成長であるとともに妹とけんかが少なくなった。
+      While growing up, quarrel with my sister has lessen.
+
+      成長とともに妹とけんかが少なくなった。
+      As I have grown up, quarrel with my sister has lessen.
+
+      (If I am wrong please correct me)
+    html: |-
+      From my point of view, the most difficult part of this grammar point is the slim difference in meaning between 「noun+であるとともに」and「noun+とともに」<br/><br/>成長であるとともに妹とけんかが少なくなった。<br/>While growing up, quarrel with my sister has lessen.<br/><br/>成長とともに妹とけんかが少なくなった。<br/>As I have grown up, quarrel with my sister has lessen.<br/><br/>(If I am wrong please correct me)
+    credits_raw: Nabeshin
+    content_sha256: b7b62f78d4b22d564de2b57843688e37125b7d9c8b00655deb1c1f775c539957
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      スタインベックはとともにヘミングウェイアメリカの大分な作家の一人だ。 
+      Shouldnt the order here be:
+      スタインベックはヘミングウェイとともにアメリカの大分な作家の一人だ。
+    html: |-
+      スタインベックはとともにヘミングウェイアメリカの大分な作家の一人だ。 <br/>Shouldnt the order here be:<br/>スタインベックはヘミングウェイとともにアメリカの大分な作家の一人だ。
+    credits_raw: pausambeat
+    content_sha256: 1c254b6ebe413a799857b6c26e88d62de1aafdb2d14c7558cd45fc7bfc435788
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1360
+    label: につれて
+    source_url: https://takoboto.jp/bunpo/1360
+  - target_id: 645
+    label: に伴って
+    source_url: https://takoboto.jp/bunpo/645
+  - target_id: 1265
+    label: がてら
+    source_url: https://takoboto.jp/bunpo/1265
+  - target_id: 972
+    label: に従って; に従い
+    source_url: https://takoboto.jp/bunpo/972
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:36:05+00:00'
+response_sha256: 4724adcbd17e400c5acc211a9684c6eee03cb18439b565d89fbd81e814760872
+warnings: []

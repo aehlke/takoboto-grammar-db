@@ -1,0 +1,49 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1782
+label: (short present) + to (ii desu ne / iin desu ga)
+title_raw: と いいですね　/　いいんですが [と いいですね　/　いいんですが] ((short present) + to (ii desu ne / iin desu ga))
+title: と いいですね　/　いいんですが
+reading: と いいですね　/　いいんですが
+romanized_label: (short present) + to (ii desu ne / iin desu ga)
+category: grammar
+jlpt_level_original: '0'
+meaning: |-
+  you can use the present tense short form + (to ii desu ne) to hope something good happens for others. If you hope for your own good, use (to iin desu ga). if the action is under your control, you should first change the verb to potential form.
+meaning_example: ii arubaito ga aru to ii desu ne / shiken ga yasashii to ii n desu ga / daigaku ni ikeru to ii n desu ga
+credits_raw: tnz187
+source_url: http://jgram.org/pages/viewOne.php?tagE=%28short+present%29+%2B+to+%28ii+desu+ne+%2F+iin+desu+ga%29
+archive_url: https://web.archive.org/web/20150224225710id_/http://jgram.org/pages/viewOne.php?tagE=%28short+present%29+%2B+to+%28ii+desu+ne+%2F+iin+desu+ga%29
+archive_timestamp: '20150224225710'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: LNYFH75XFKS3OFVOA5NYUQKT3I2XIVAU
+response_sha256: e1d640a401e47310d70fb853100b67cab91ab99b3fd7381b413d6ff1c087935d
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "と いいですね　/　いいんですが [と いいですね　/　いいんですが] ((short present) + to (ii desu ne / iin desu ga))\n    Meaning: you can use the present tense short form + (to ii desu ne) to hope something good happens for others. If you hope for your own good, use (to iin desu ga). if the action is under your control, you should first change the verb to potential form. \n    Example: ii arubaito ga aru to ii desu ne / shiken ga yasashii to ii n desu ga / daigaku ni ikeru to ii n desu ga\n    JLPT Level: 0\n    Category: grammar\n    Author: tnz187"
+    html: |-
+      <span>と いいですね　/　いいんですが [と いいですね　/　いいんですが] ((short present) + to (ii desu ne / iin desu ga))</span><br/>    <span><b>Meaning</b>: you can use the present tense short form + (to ii desu ne) to hope something good happens for others. If you hope for your own good, use (to iin desu ga). if the action is under your control, you should first change the verb to potential form. </span><br/>    <b>Example</b>: <i>ii arubaito ga aru to ii desu ne / shiken ga yasashii to ii n desu ga / daigaku ni ikeru to ii n desu ga</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>tnz187</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225710'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 5789462
+  length: 4979
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: def517cad322f3660a392768aaf1b71466fc6e8bb0243feb30500fb2ca6fa7d2

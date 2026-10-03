@@ -1,0 +1,457 @@
+schema_version: 2
+id: 1339
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1339/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜は愚か・〜は疎か
+romanized_label: haoroka
+alternate_forms:
+  - 〜はおろか
+jlpt_level: 1
+credits_raw: dc
+meaning: let alone B; not to mention; of course A but also B;
+meaning_example: He can't read hiragana let alone kanji.
+meaning_notes:
+  - language: ja
+    text: は 言うまでもない; はもちろん; 「AはおろかBも/さえ/まで」のように強調して表現されることが多い。
+    html: は 言うまでもない; はもちろん; 「AはおろかBも/さえ/まで」のように強調して表現されることが多い。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1339
+    body_text: |-
+      let alone B; not to mention; of course A but also B; 
+       He can't read hiragana let alone kanji. 
+       は 言うまでもない; はもちろん; 「AはおろかBも/さえ/まで」のように強調して表現されることが多い。
+    body_html: |-
+      <span>let alone B; not to mention; of course A but also B;</span> <br/> <span>He can't read hiragana let alone kanji.</span> <br/> <span>は 言うまでもない; はもちろん; 「AはおろかBも/さえ/まで」のように強調して表現されることが多い。</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 4249
+    position: 0
+    japanese: その赤ちゃんは走る事はおろか、歩くことさえできない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e8%b5%a4%e3%81%a1%e3%82%83%e3%82%93%e3%81%af"><span>赤ちゃんは</span></a><a href="https://takoboto.jp/?q=%e8%b5%b0%e3%82%8b"><span>走る</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b"><span>事</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%ad%a9%e3%81%8f%e3%81%93%e3%81%a8%e3%81%95%e3%81%88%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%82"><span>歩くことさえできない。</span></a>
+    segments:
+      - text: その赤ちゃんは走る事
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: 、歩くことさえできない。
+        grammar_highlight: false
+    reading: そのあかちゃんははしることはおろか、あるくことさえできない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The baby cannot even walk, much less run.
+        html: |-
+          <span>The baby cannot even walk, much less run. </span>
+        segments:
+          - text: 'The baby cannot even walk, much less run. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4250
+    position: 1
+    japanese: 私の連れは疲れすぎていて走るのはおろか、歩くこともできない、と言った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e9%80%a3%e3%82%8c%e3%81%af"><span>連れは</span></a><a href="https://takoboto.jp/?q=%e7%96%b2%e3%82%8c%e3%81%99%e3%81%8e%e3%81%a6%e3%81%84%e3%81%a6"><span>疲れすぎていて</span></a><a href="https://takoboto.jp/?q=%e8%b5%b0%e3%82%8b%e3%81%ae"><span>走るの</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%ad%a9%e3%81%8f%e3%81%93%e3%81%a8%e3%82%82%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%81%e3%81%a8"><span>歩くこともできない、と</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f%e3%80%82"><span>言った。</span></a>
+    segments:
+      - text: 私の連れは疲れすぎていて走るの
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: 、歩くこともできない、と言った。
+        grammar_highlight: false
+    reading: わたしのつれはつかれすぎていてはしるのはおろか、あるくこともできない、といった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: My companion said that she was too tired to walk, let alone run.
+        html: |-
+          <span>My companion said that she was too tired to walk, let alone run. </span>
+        segments:
+          - text: 'My companion said that she was too tired to walk, let alone run. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4251
+    position: 2
+    japanese: 私はバイオリンはおろかギターも弾けない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%83%90%e3%82%a4%e3%82%aa%e3%83%aa%e3%83%b3"><span>私はバイオリン</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e3%82%ae%e3%82%bf%e3%83%bc%e3%82%82"><span>ギターも</span></a><a href="https://takoboto.jp/?q=%e5%bc%be%e3%81%91%e3%81%aa%e3%81%84%e3%80%82"><span>弾けない。</span></a>
+    segments:
+      - text: 私はバイオリン
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: ギターも弾けない。
+        grammar_highlight: false
+    reading: わたしはバイオリンはおろかギターもひけない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I can't play the guitar, much less the violin.
+        html: |-
+          <span>I can't play the guitar, much less the violin. </span>
+        segments:
+          - text: 'I can''t play the guitar, much less the violin. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4252
+    position: 3
+    japanese: 僕はイタリア語を書くのはおろか読めもしない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%83%95%e3%81%af%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2"><span>僕はイタリア</span></a><a href="https://takoboto.jp/?q=%e8%aa%9e%e3%82%92"><span>語を</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%8f%e3%81%ae"><span>書くの</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%81%e3%82%82%e3%81%97%e3%81%aa%e3%81%84%e3%80%82"><span>読めもしない。</span></a>
+    segments:
+      - text: 僕はイタリア語を書くの
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: 読めもしない。
+        grammar_highlight: false
+    reading: ぼくはイタリアごをかくのはおろかよめもしない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I can't even read Italian, let alone write it. [M]
+        html: |-
+          <span>I can't even read Italian, let alone write it. [M] </span>
+        segments:
+          - text: 'I can''t even read Italian, let alone write it. [M] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4253
+    position: 4
+    japanese: 話すことはおろか、ささやくなんてとんでもないことです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%99%e3%81%93%e3%81%a8"><span>話すこと</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%95%e3%81%95%e3%82%84%e3%81%8f%e3%81%aa%e3%82%93%e3%81%a6%e3%81%a8%e3%82%93%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99%e3%80%82"><span>、ささやくなんてとんでもないことです。</span></a>
+    segments:
+      - text: 話すこと
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: 、ささやくなんてとんでもないことです。
+        grammar_highlight: false
+    reading: はなすことはおろか、ささやくなんてとんでもないことです。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Don't whisper, let alone speak.
+        html: |-
+          <span>Don't whisper, </span><strong>let alone </strong><span>speak. </span>
+        segments:
+          - text: 'Don''t whisper, '
+            grammar_highlight: false
+          - text: 'let alone '
+            grammar_highlight: true
+          - text: 'speak. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4254
+    position: 5
+    japanese: 彼女は漢字はおろか、ひらがなも正確に読めません
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e6%bc%a2%e5%ad%97"><span>漢字</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%b2%e3%82%89%e3%81%8c%e3%81%aa%e3%82%82"><span>、ひらがなも</span></a><a href="https://takoboto.jp/?q=%e6%ad%a3%e7%a2%ba%e3%81%ab"><span>正確に</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%81%e3%81%be%e3%81%9b%e3%82%93"><span>読めません</span></a>
+    segments:
+      - text: 彼女は漢字
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: 、ひらがなも正確に読めません
+        grammar_highlight: false
+    reading: かのじょはかんじはおろか、ひらがなもせいかくによめません
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Of course she can't read Kanji, she can't even read Hiragana accurately.
+        html: |-
+          <span>Of course she can't read Kanji, she can't even read Hiragana accurately. </span>
+        segments:
+          - text: 'Of course she can''t read Kanji, she can''t even read Hiragana accurately. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5311
+    position: 6
+    japanese: こんな成績では進学はおろか、卒業だって危ないよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa"><span>こんな</span></a><a href="https://takoboto.jp/?q=%e6%88%90%e7%b8%be%e3%81%a7%e3%81%af"><span>成績では</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e5%ad%a6"><span>進学</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%8d%92%e6%a5%ad%e3%81%a0%e3%81%a3%e3%81%a6"><span>卒業だって</span></a><a href="https://takoboto.jp/?q=%e5%8d%b1%e3%81%aa%e3%81%84%e3%82%88%e3%80%82"><span>危ないよ。</span></a>
+    segments:
+      - text: こんな成績では進学
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: 、卒業だって危ないよ。
+        grammar_highlight: false
+    reading: こんなせいせきではしんがくはおろか、そつぎょうだってあぶないよ。
+    credits_raw: blabby
+    translations:
+      - language: en
+        text: |-
+          With such bad results, not only is there a possibility you won't be able to enter university, you might not even graduate!
+        html: |-
+          <span>With such bad results, not only is there a possibility you won't be able to enter university, you might not even graduate! </span>
+        segments:
+          - text: "With such bad results, not only is there a possibility you won't be able to enter university, you might not even graduate! "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7938
+    position: 7
+    japanese: 弟は内気で、人前でスピーチはおろか簡単な挨拶さえできない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bc%9f%e3%81%af"><span>弟は</span></a><a href="https://takoboto.jp/?q=%e5%86%85%e6%b0%97%e3%81%a7%e3%80%81"><span>内気で、</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e5%89%8d%e3%81%a7%e3%82%b9%e3%83%94%e3%83%bc%e3%83%81"><span>人前でスピーチ</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e7%b0%a1%e5%8d%98%e3%81%aa"><span>簡単な</span></a><a href="https://takoboto.jp/?q=%e6%8c%a8%e6%8b%b6%e3%81%95%e3%81%88%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84"><span>挨拶さえできない</span></a>
+    segments:
+      - text: 弟は内気で、人前でスピーチ
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: 簡単な挨拶さえできない
+        grammar_highlight: false
+    reading: おとうとはうちきで、ひとまえでスピーチはおろかかんたんなあいさつさえできない
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          my brothers an introvert, so far from being able to give a speech in front of people, he can't even do simple greetings.
+        html: |-
+          <span>my brothers an introvert, so far from being able to give a speech in front of people, he can't even do simple greetings. </span>
+        segments:
+          - text: "my brothers an introvert, so far from being able to give a speech in front of people, he can't even do simple greetings. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7939
+    position: 8
+    japanese: アメリカでは隣町まで100マイル、途中途中ガソリンスタンドはおろか、民家さえないという場所がたくさんある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%a7%e3%81%af"><span>アメリカでは</span></a><a href="https://takoboto.jp/?q=%e9%9a%a3%e7%94%ba%e3%81%be%e3%81%a7100%e3%83%9e%e3%82%a4%e3%83%ab%e3%80%81"><span>隣町まで100マイル、</span></a><a href="https://takoboto.jp/?q=%e9%80%94%e4%b8%ad%e9%80%94%e4%b8%ad%e3%82%ac%e3%82%bd%e3%83%aa%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89"><span>途中途中ガソリンスタンド</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%b0%91%e5%ae%b6%e3%81%95%e3%81%88%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%86"><span>民家さえないという</span></a><a href="https://takoboto.jp/?q=%e5%a0%b4%e6%89%80%e3%81%8c%e3%81%9f%e3%81%8f%e3%81%95%e3%82%93%e3%81%82%e3%82%8b%e3%80%82"><span>場所がたくさんある。</span></a>
+    segments:
+      - text: アメリカでは隣町まで100マイル、途中途中ガソリンスタンド
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: 、民家さえないという場所がたくさんある。
+        grammar_highlight: false
+    reading: アメリカではとなりまちまでマイル、とちゅうとちゅうガソリンスタンドはおろか、みんかさえないというばしょがたくさんある。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          In America there are many places where the next town is 100 miles away and there are no houses, let alone a gas station in between.
+        html: |-
+          <span>In America there are many places where the next town is 100 miles away and there are no houses, </span><strong>let alone </strong><span>a gas station in between. </span>
+        segments:
+          - text: 'In America there are many places where the next town is 100 miles away and there are no houses, '
+            grammar_highlight: false
+          - text: 'let alone '
+            grammar_highlight: true
+          - text: 'a gas station in between. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7940
+    position: 9
+    japanese: 最近は大学はおろか、中学生でもかなりの者が海外旅行を経験している。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%80%e8%bf%91%e3%81%af"><span>最近は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6"><span>大学</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%b8%ad%e5%ad%a6%e7%94%9f%e3%81%a7%e3%82%82%e3%81%8b%e3%81%aa%e3%82%8a%e3%81%ae"><span>中学生でもかなりの</span></a><a href="https://takoboto.jp/?q=%e8%80%85%e3%81%8c"><span>者が</span></a><a href="https://takoboto.jp/?q=%e6%b5%b7%e5%a4%96%e6%97%85%e8%a1%8c%e3%82%92"><span>海外旅行を</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e9%a8%93%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>経験している。</span></a>
+    segments:
+      - text: 最近は大学
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: 、中学生でもかなりの者が海外旅行を経験している。
+        grammar_highlight: false
+    reading: さいきんはだいがくはおろか、ちゅうがくせいでもかなりのものがかいがいりょこうをけいけんしている。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          Never mind university students, these days even junior and senior high school students have experienced traveling abroad.
+        html: |-
+          <span>Never mind university students, these days even junior and senior high school students have experienced traveling abroad. </span>
+        segments:
+          - text: "Never mind university students, these days even junior and senior high school students have experienced traveling abroad. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7941
+    position: 10
+    japanese: 戦争はおろか食糧難すら経験したことがない者が口先だけで戦争を議論しているのは笑止だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%88%a6%e4%ba%89"><span>戦争</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8a%e3%82%8d%e3%81%8b"><strong>はおろか</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e7%b3%a7%e9%9b%a3%e3%81%99%e3%82%89"><span>食糧難すら</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e9%a8%93%e3%81%97%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8c%e3%81%aa%e3%81%84"><span>経験したことがない</span></a><a href="https://takoboto.jp/?q=%e8%80%85%e3%81%8c"><span>者が</span></a><a href="https://takoboto.jp/?q=%e5%8f%a3%e5%85%88%e3%81%a0%e3%81%91%e3%81%a7"><span>口先だけで</span></a><a href="https://takoboto.jp/?q=%e6%88%a6%e4%ba%89%e3%82%92"><span>戦争を</span></a><a href="https://takoboto.jp/?q=%e8%ad%b0%e8%ab%96%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%af"><span>議論しているのは</span></a><a href="https://takoboto.jp/?q=%e7%ac%91%e6%ad%a2%e3%81%a0%e3%80%82"><span>笑止だ。</span></a>
+    segments:
+      - text: 戦争
+        grammar_highlight: false
+      - text: はおろか
+        grammar_highlight: true
+      - text: 食糧難すら経験したことがない者が口先だけで戦争を議論しているのは笑止だ。
+        grammar_highlight: false
+    reading: せんそうはおろかしょくりょうなんすらけいけんしたことがないものがくちさきだけでせんそうをぎろんしているのはしょうしだ。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          It is laughable that those people who have never even experienced a food shortage, much less a war should make such glib arguments about war.
+        html: |-
+          <span>It is laughable that those people who have never even experienced a food shortage, much less a war should make such glib arguments about war. </span>
+        segments:
+          - text: "It is laughable that those people who have never even experienced a food shortage, much less a war should make such glib arguments about war. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      〜はおろか：〜というだけでは不十分で．．．も、
+       〜はもちろん
+    html: |-
+      〜はおろか：〜というだけでは不十分で．．．も、<br/> 〜はもちろん
+    credits_raw: 誠
+    content_sha256: 9fe1dccaacbfeacf7f3c2773f60083ec5c31ae9a9db9cdc526b79667ba52c8d3
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p45 - no.44'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p45 - no.44
+    credits_raw: LR
+    content_sha256: 5f5ea002117b6dab2bbc6dcdee96ad93998ead7b6598ff724de5ce904ad2169b
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 'Ref # A Dictionary of Advanced Japanese Grammar p694'
+    html: |-
+      <b>Ref #</b> A Dictionary of Advanced Japanese Grammar p694
+    credits_raw: LR
+    content_sha256: 2044cec9251618b5a9c2f4716348bd7540e643765ca01936c977c79465ea0c04
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      A phrase that is used when s.t. is not only true with one thing or person, but also with another thing or person that is less expected or understandable
+    html: |-
+      A phrase that is used when s.t. is not only true with one thing or person, but also with another thing or person that is less expected or understandable
+    credits_raw: LR
+    content_sha256: f098642c45831533be945d6349317cd50cae88ffc0dd656ace131ac0c29ef36f
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: is it different from はもちろん？
+    html: is it different from はもちろん？
+    credits_raw: infinite_trial
+    content_sha256: baacb3d92090823a20efd84f908c7d4135e6583daac20ebaca6cfe119b2ed2fc
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      i think its pretty similar but [hamochiron] is more common. [haoroka] seems more formal...
+      I added some other "see also" forms
+    html: |-
+      i think its pretty similar but [hamochiron] is more common. [haoroka] seems more formal...<br/>I added some other "see also" forms
+    credits_raw: dc
+    content_sha256: d4807b54191f4a298e76d58e6c20a43e8563d470970fa72479e1fe64ce169c15
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      upon observation i see that はもちろん has positive and negative nuance, は言うまでもなく is positive and はおろか is negative. i hope i am right.
+    html: |-
+      upon observation i see that はもちろん has positive and negative nuance, は言うまでもなく is positive and はおろか is negative. i hope i am right.
+    credits_raw: infinite_trial
+    content_sha256: 10feace8fa18111e2bc484569d170d9647f00a89d7b5a324d08842005ff0a2fa
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      I think you are right. My book says はおろか is often used for negative things.
+
+      I wonder if this is related to 愚か "stupid"?
+    html: |-
+      I think you are right. My book says はおろか is often used for negative things.<br/><br/>I wonder if this is related to 愚か "stupid"?
+    credits_raw: blabby
+    content_sha256: 9722a684f02442ea7f1ff05943a654dd880bfcf3aa3509df96a3cb1c06c36a06
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: おろか here is 疎か.
+    html: おろか here is 疎か.
+    credits_raw: Miki
+    content_sha256: dc6e1292feaaff10398db97d5838f05170c9f8357cba0990b6e378bf1db155e3
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      〜はおろか is more strong/ have a strong emphasis or feeling than 〜はもちろん and 〜はもとより. In Chinese (何只是〜／那只是〜／別説〜、就連．．．）, it is translated as " it is of course not just that 〜, but also... " or "... , not to mention 〜"
+    html: |-
+      〜はおろか is more strong/ have a strong emphasis or feeling than 〜はもちろん and 〜はもとより. In Chinese (何只是〜／那只是〜／別説〜、就連．．．）, it is translated as " it is of course not just that 〜, but also... " or "... , not to mention 〜"
+    credits_raw: 誠
+    content_sha256: 37cc6788ab71995fd40fb87d94e4aaef83df0238233a196122fbec0d8852b967
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: It is in fact a JLPT Level 1 entry.
+    html: It is in fact a JLPT Level 1 entry.
+    credits_raw: Olivier
+    content_sha256: 806ce895bcb7f94be66227fad03b8baf573badd9e1e16bb914fe8e7ca44aeade
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: I think it maybe like 'dokoroka'. And it returns a negative thing.
+    html: I think it maybe like 'dokoroka'. And it returns a negative thing.
+    credits_raw: seishun
+    content_sha256: 05c6ff61a970deb5089efc4084c5b206e21d80801f87f25af4bb236cef617cd7
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: Changing this from a JLPT Level 2 to Level 1 entry. 2010/12/3
+    html: Changing this from a JLPT Level 2 to Level 1 entry. 2010/12/3
+    credits_raw: LR
+    content_sha256: a961aca5c9dad0d71d6bee9b9e7014baf489a50290a64dcb29b04434ec58e541
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: 'Aren''t #4249 and #4250 essentially the same?'
+    html: 'Aren''t #4249 and #4250 essentially the same?'
+    credits_raw: Kuval Anand
+    content_sha256: c2575cf90957d3d53d85b48d17457a149b07024a1b1f8fb22594fbf71269b70b
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1261
+    label: はもちろん
+    source_url: https://takoboto.jp/bunpo/1261
+  - target_id: 1348
+    label: どころか
+    source_url: https://takoboto.jp/bunpo/1348
+  - target_id: 1498
+    label: は言うまでもなく
+    source_url: https://takoboto.jp/bunpo/1498
+  - target_id: 152
+    label: はもとより
+    source_url: https://takoboto.jp/bunpo/152
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:43:04+00:00'
+response_sha256: beec1a5a266cf717cbfece3c00106a3dfe14eafc22fc88fe11e5259bbe140c47
+warnings: []

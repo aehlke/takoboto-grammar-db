@@ -1,0 +1,787 @@
+schema_version: 2
+id: 978
+source: takoboto
+source_url: https://takoboto.jp/bunpo/978/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 挙げ句
+romanized_label: ageku
+alternate_forms:
+  - あげく
+jlpt_level: null
+credits_raw: dc
+meaning: in the end, after all, ended with bad results
+meaning_example: he ended up in jail
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_978
+    body_text: |-
+      in the end, after all, ended with bad results 
+       he ended up in jail
+    body_html: |-
+      <span>in the end, after all, ended with bad results</span> <br/> <span>he ended up in jail</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_978
+    body_text: Verb た-form+あげく+(に)
+    body_html: |-
+      <div><div><div>Verb た-form</div></div><div><div>+</div><div>あげく</div></div><div><div>+</div><div>(に)</div></div></div>
+    credits_raw: null
+formations:
+  - Verb た-form + あげく + (に)
+examples:
+  - source_id: 1340
+    position: 0
+    japanese: 両親に相談したあげくに、彼と離婚することにした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%a1%e8%a6%aa%e3%81%ab"><span>両親に</span></a><a href="https://takoboto.jp/?q=%e7%9b%b8%e8%ab%87%e3%81%97%e3%81%9f"><span>相談した</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%92%e3%81%8f%e3%81%ab"><strong>あげくに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%a8"><span>彼と</span></a><a href="https://takoboto.jp/?q=%e9%9b%a2%e5%a9%9a%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%81%9f%e3%80%82"><span>離婚することにした。</span></a>
+    segments:
+      - text: 両親に相談した
+        grammar_highlight: false
+      - text: あげくに
+        grammar_highlight: true
+      - text: 、彼と離婚することにした。
+        grammar_highlight: false
+    reading: りょうしんにそうだんしたあげくに、かれとりこんすることにした。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: After talking with both (his) parents the end result was that I decided to divorce him.
+        html: |-
+          <span>After talking with both (his) parents </span><strong>the end result </strong><span>was that I decided to divorce him. </span>
+        segments:
+          - text: 'After talking with both (his) parents '
+            grammar_highlight: false
+          - text: 'the end result '
+            grammar_highlight: true
+          - text: 'was that I decided to divorce him. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 818
+    position: 1
+    japanese: 挙げ句の果てに彼は刑務所行きになった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%8c%99%e3%81%92%e5%8f%a5%e3%81%ae%e6%9e%9c"><strong>挙げ句の果</strong></a><a href="https://takoboto.jp/?q=%e3%81%a6%e3%81%ab%e5%bd%bc%e3%81%af%e5%88%91%e5%8b%99%e6%89%80%e8%a1%8c%e3%81%8d%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>てに彼は刑務所行きになった。</span></a>
+    segments:
+      - text: 挙げ句の果
+        grammar_highlight: true
+      - text: てに彼は刑務所行きになった。
+        grammar_highlight: false
+    reading: あげくのはてにかれはけいむしょいきになった。
+    credits_raw: Amatuka, Awab
+    translations:
+      - language: en
+        text: In the end  he ended up in jail.
+        html: |-
+          <strong>In the end </strong><span> he ended up in jail. </span>
+        segments:
+          - text: 'In the end '
+            grammar_highlight: true
+          - text: ' he ended up in jail. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 819
+    position: 2
+    japanese: 4頭の象が酔っ払った挙句の果てに高圧線に襲い掛かって感電死。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=4"><span>4</span></a><a href="https://takoboto.jp/?q=%e9%a0%ad%e3%81%ae"><span>頭の</span></a><a href="https://takoboto.jp/?q=%e8%b1%a1%e3%81%8c"><span>象が</span></a><a href="https://takoboto.jp/?q=%e9%85%94%e3%81%a3"><span>酔っ</span></a><a href="https://takoboto.jp/?q=%e6%89%95%e3%81%a3%e3%81%9f"><span>払った</span></a><a href="https://takoboto.jp/?q=%e6%8c%99%e5%8f%a5"><strong>挙句</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e6%9e%9c%e3%81%a6%e3%81%ab"><span>果てに</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e5%9c%a7%e7%b7%9a%e3%81%ab"><span>高圧線に</span></a><a href="https://takoboto.jp/?q=%e8%a5%b2%e3%81%84"><span>襲い</span></a><a href="https://takoboto.jp/?q=%e6%8e%9b%e3%81%8b%e3%81%a3%e3%81%a6"><span>掛かって</span></a><a href="https://takoboto.jp/?q=%e6%84%9f%e9%9b%bb%e6%ad%bb%e3%80%82"><span>感電死。</span></a>
+    segments:
+      - text: 4頭の象が酔っ払った
+        grammar_highlight: false
+      - text: 挙句
+        grammar_highlight: true
+      - text: の果てに高圧線に襲い掛かって感電死。
+        grammar_highlight: false
+    reading: とうのぞうがよっぱらったあげくのはてにこうあつせんにおそいかかってかんでんし。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Four elephants get drunk and in the end crashed into high-voltage power lines, electrocuted.
+        html: |-
+          <span>Four elephants get drunk </span><strong>and in the end </strong><span>crashed into high-voltage power lines, electrocuted. </span>
+        segments:
+          - text: 'Four elephants get drunk '
+            grammar_highlight: false
+          - text: 'and in the end '
+            grammar_highlight: true
+          - text: 'crashed into high-voltage power lines, electrocuted. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1333
+    position: 3
+    japanese: 散々考えた挙げ句その計画を実行にうつした
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%95%a3%e3%80%85"><span>散々</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%9f"><span>考えた</span></a><a href="https://takoboto.jp/?q=%e6%8c%99%e3%81%92%e5%8f%a5"><strong>挙げ句</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%82%92"><span>計画を</span></a><a href="https://takoboto.jp/?q=%e5%ae%9f%e8%a1%8c%e3%81%ab%e3%81%86%e3%81%a4%e3%81%97%e3%81%9f"><span>実行にうつした</span></a>
+    segments:
+      - text: 散々考えた
+        grammar_highlight: false
+      - text: 挙げ句
+        grammar_highlight: true
+      - text: その計画を実行にうつした
+        grammar_highlight: false
+    reading: さんざんかんがえたあげくそのけいかくをじっこうにうつした
+    credits_raw: dc
+    translations:
+      - language: en
+        text: After hard thinking , I carried out the plan
+        html: |-
+          <strong>After hard thinking </strong><span>, I carried out the plan </span>
+        segments:
+          - text: 'After hard thinking '
+            grammar_highlight: true
+          - text: ', I carried out the plan '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3255
+    position: 4
+    japanese: 彼女はみんなにさんざん迷惑をかけたあげく、あいさつもしないで会社をやめていった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ab%e3%81%95%e3%82%93%e3%81%96%e3%82%93"><span>彼女はみんなにさんざん</span></a><a href="https://takoboto.jp/?q=%e8%bf%b7%e6%83%91%e3%82%92%e3%81%8b%e3%81%91%e3%81%9f"><span>迷惑をかけた</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%92%e3%81%8f"><strong>あげく</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%82%e3%81%84%e3%81%95%e3%81%a4%e3%82%82%e3%81%97%e3%81%aa%e3%81%84%e3%81%a7"><span>、あいさつもしないで</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%82%92%e3%82%84%e3%82%81%e3%81%a6%e3%81%84%e3%81%a3%e3%81%9f%e3%80%82"><span>会社をやめていった。</span></a>
+    segments:
+      - text: 彼女はみんなにさんざん迷惑をかけた
+        grammar_highlight: false
+      - text: あげく
+        grammar_highlight: true
+      - text: 、あいさつもしないで会社をやめていった。
+        grammar_highlight: false
+    reading: かのじょはみんなにさんざんめいわくをかけたあげく、あいさつもしないでかいしゃをやめていった。
+    credits_raw: Vbk, Miki
+    translations:
+      - language: en
+        text: After she gave people a great deal of trouble, she left the company without even saying good-bye.
+        html: |-
+          <strong>After </strong><span>she gave people a great deal of trouble, she left the company without even saying good-bye. </span>
+        segments:
+          - text: 'After '
+            grammar_highlight: true
+          - text: 'she gave people a great deal of trouble, she left the company without even saying good-bye. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4381
+    position: 5
+    japanese: コンピュータを物色して歩いたあげく、デイヴィッドより２００ドル安い値段で手に入れた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%82%92"><span>コンピュータを</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e8%89%b2%e3%81%97%e3%81%a6"><span>物色して</span></a><a href="https://takoboto.jp/?q=%e6%ad%a9%e3%81%84%e3%81%9f"><span>歩いた</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%92%e3%81%8f"><strong>あげく</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%83%87%e3%82%a4%e3%83%b4%e3%82%a3%e3%83%83%e3%83%89%e3%82%88%e3%82%8a"><span>、デイヴィッドより</span></a><a href="https://takoboto.jp/?q=%ef%bc%92%ef%bc%90%ef%bc%90%e3%83%89%e3%83%ab"><span>２００ドル</span></a><a href="https://takoboto.jp/?q=%e5%ae%89%e3%81%84"><span>安い</span></a><a href="https://takoboto.jp/?q=%e5%80%a4%e6%ae%b5%e3%81%a7"><span>値段で</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e3%81%ab"><span>手に</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8c%e3%81%9f%e3%80%82"><span>入れた。</span></a>
+    segments:
+      - text: コンピュータを物色して歩いた
+        grammar_highlight: false
+      - text: あげく
+        grammar_highlight: true
+      - text: 、デイヴィッドより２００ドル安い値段で手に入れた。
+        grammar_highlight: false
+    reading: コンピュータをぶっしょくしてあるいたあげく、より２００ドルやすいねだんでてにいれた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I shopped around for my computer and ended up paying $200 less than David.
+        html: |-
+          <span>I shopped around for my computer and </span><strong>ended up </strong><span>paying $200 less than David. </span>
+        segments:
+          - text: 'I shopped around for my computer and '
+            grammar_highlight: false
+          - text: 'ended up '
+            grammar_highlight: true
+          - text: 'paying $200 less than David. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4382
+    position: 6
+    japanese: 私は十分考慮したあげく申し出に応じた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%8d%81%e5%88%86"><span>十分</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e6%85%ae%e3%81%97%e3%81%9f"><span>考慮した</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%92%e3%81%8f"><strong>あげく</strong></a><a href="https://takoboto.jp/?q=%e7%94%b3%e3%81%97"><span>申し</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%ab"><span>出に</span></a><a href="https://takoboto.jp/?q=%e5%bf%9c%e3%81%98%e3%81%9f%e3%80%82"><span>応じた。</span></a>
+    segments:
+      - text: 私は十分考慮した
+        grammar_highlight: false
+      - text: あげく
+        grammar_highlight: true
+      - text: 申し出に応じた。
+        grammar_highlight: false
+    reading: わたしはじゅうぶんこうりょしたあげくもうしでにおうじた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I accepted the offer after due consideration.
+        html: |-
+          <span>I accepted the offer after due consideration. </span>
+        segments:
+          - text: 'I accepted the offer after due consideration. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6376
+    position: 7
+    japanese: 一杯食べた挙げ句に吐き出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%80%e6%9d%af"><span>一杯</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%9f"><span>食べた</span></a><a href="https://takoboto.jp/?q=%e6%8c%99%e3%81%92%e5%8f%a5"><strong>挙げ句</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e5%90%90%e3%81%8d"><span>吐き</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: 一杯食べた
+        grammar_highlight: false
+      - text: 挙げ句
+        grammar_highlight: true
+      - text: に吐き出した。
+        grammar_highlight: false
+    reading: いっぱいたべたあげくにはきだした。
+    credits_raw: hgtedo
+    translations:
+      - language: en
+        text: After a lot of eating , I threw up.
+        html: |-
+          <strong>After a lot of </strong><span>eating </span><span>, I threw up. </span>
+        segments:
+          - text: 'After a lot of '
+            grammar_highlight: true
+          - text: 'eating , I threw up. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6784
+    position: 8
+    japanese: さんざん文句を言ったあげくに、出て行ったんです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%95%e3%82%93%e3%81%96%e3%82%93"><span>さんざん</span></a><a href="https://takoboto.jp/?q=%e6%96%87%e5%8f%a5%e3%82%92"><span>文句を</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f"><span>言った</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%92%e3%81%8f"><strong>あげく</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%80%81"><span>に、</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%a6"><span>出て</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%82%93%e3%81%a7%e3%81%99%e3%80%82"><span>行ったんです。</span></a>
+    segments:
+      - text: さんざん文句を言った
+        grammar_highlight: false
+      - text: あげく
+        grammar_highlight: true
+      - text: に、出て行ったんです。
+        grammar_highlight: false
+    reading: さんざんもんくをいったあげくに、でていったんです。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: After making so many complaints , she just got up and left.
+        html: |-
+          <strong>After </strong><span>making so many complaints </span><span>, she just got up and left. </span>
+        segments:
+          - text: 'After '
+            grammar_highlight: true
+          - text: 'making so many complaints , she just got up and left. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8575
+    position: 9
+    japanese: 練成を完成したあげく、体が逞しくなりました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%b7%b4%e6%88%90%e3%82%92"><span>練成を</span></a><a href="https://takoboto.jp/?q=%e5%ae%8c%e6%88%90%e3%81%97%e3%81%9f%e3%81%82%e3%81%92%e3%81%8f%e3%80%81"><span>完成したあげく、</span></a><a href="https://takoboto.jp/?q=%e4%bd%93%e3%81%8c"><span>体が</span></a><a href="https://takoboto.jp/?q=%e9%80%9e%e3%81%97%e3%81%8f%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>逞しくなりました。</span></a>
+    segments:
+      - text: 練成を完成したあげく、体が逞しくなりました。
+        grammar_highlight: false
+    reading: ねりなるをかんせいしたあげく、からだがたくましくなりました。
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: after completing all the exercises, the body becomes stronger.
+        html: |-
+          <span>after completing all the exercises, the body becomes stronger. </span>
+        segments:
+          - text: 'after completing all the exercises, the body becomes stronger. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8873
+    position: 10
+    japanese: 一生懸命に勉強した挙句、日本語能力試験の超級で合格しました.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%80%e7%94%9f%e6%87%b8%e5%91%bd%e3%81%ab%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%9f"><span>一生懸命に勉強した</span></a><a href="https://takoboto.jp/?q=%e6%8c%99%e5%8f%a5"><strong>挙句</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e6%97%a5%e6%9c%ac%e8%aa%9e%e8%83%bd%e5%8a%9b%e8%a9%a6%e9%a8%93%e3%81%ae%e8%b6%85%e7%b4%9a%e3%81%a7%e5%90%88%e6%a0%bc%e3%81%97%e3%81%be%e3%81%97%e3%81%9f."><span>、日本語能力試験の超級で合格しました.</span></a>
+    segments:
+      - text: 一生懸命に勉強した
+        grammar_highlight: false
+      - text: 挙句
+        grammar_highlight: true
+      - text: 、日本語能力試験の超級で合格しました.
+        grammar_highlight: false
+    reading: いっしょうけんめいにべんきょうしたあげく、にほんごのうりょくしけんのちょうきゅうでごうかくしました
+    credits_raw: 寛志
+    translations:
+      - language: en
+        text: After studying hard, I finally  passed the Japanese Language Proficiency Test at the upper (hard) level.
+        html: |-
+          <span>After studying hard, </span><strong>I finally </strong><span> passed the Japanese Language Proficiency Test at the upper (hard) level. </span>
+        segments:
+          - text: 'After studying hard, '
+            grammar_highlight: false
+          - text: 'I finally '
+            grammar_highlight: true
+          - text: ' passed the Japanese Language Proficiency Test at the upper (hard) level. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1212
+    position: 11
+    japanese: 迷ったあげく彼の誘いを断ってしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%bf%b7%e3%81%a3%e3%81%9f"><span>迷った</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%92%e3%81%8f"><strong>あげく</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e8%aa%98%e3%81%84%e3%82%92"><span>誘いを</span></a><a href="https://takoboto.jp/?q=%e6%96%ad%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>断ってしまった。</span></a>
+    segments:
+      - text: 迷った
+        grammar_highlight: false
+      - text: あげく
+        grammar_highlight: true
+      - text: 彼の誘いを断ってしまった。
+        grammar_highlight: false
+    reading: まよったあげくかれのさそいをことわってしまった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: After much dithering, in the end I turned down his invitation.
+        html: |-
+          <span>After much dithering, </span><strong>in the end </strong><span>I turned down his invitation. </span>
+        segments:
+          - text: 'After much dithering, '
+            grammar_highlight: false
+          - text: 'in the end '
+            grammar_highlight: true
+          - text: 'I turned down his invitation. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6244
+    position: 12
+    japanese: 色々勉強したあげく、卒業しました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%89%b2%e3%80%85"><span>色々</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%9f"><span>勉強した</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%92%e3%81%8f"><strong>あげく</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%8d%92%e6%a5%ad%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>卒業しました。</span></a>
+    segments:
+      - text: 色々勉強した
+        grammar_highlight: false
+      - text: あげく
+        grammar_highlight: true
+      - text: 、卒業しました。
+        grammar_highlight: false
+    reading: いろいろべんきょうしたあげく、そつぎょうしました。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: After much studying, I graduated.
+        html: |-
+          <strong>After </strong><span>much studying, I graduated. </span>
+        segments:
+          - text: 'After '
+            grammar_highlight: true
+          - text: 'much studying, I graduated. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6738
+    position: 13
+    japanese: どの大学に留学しようかと、さんざん悩んだあげく、日本の大学に決めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%ae"><span>どの</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e3%81%ab"><span>大学に</span></a><a href="https://takoboto.jp/?q=%e7%95%99%e5%ad%a6%e3%81%97%e3%82%88%e3%81%86%e3%81%8b%e3%81%a8%e3%80%81"><span>留学しようかと、</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%82%93%e3%81%96%e3%82%93"><span>さんざん</span></a><a href="https://takoboto.jp/?q=%e6%82%a9%e3%82%93%e3%81%a0"><span>悩んだ</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%92%e3%81%8f"><strong>あげく</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ae"><span>日本の</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e3%81%ab"><span>大学に</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e3%82%81%e3%81%9f%e3%80%82"><span>決めた。</span></a>
+    segments:
+      - text: どの大学に留学しようかと、さんざん悩んだ
+        grammar_highlight: false
+      - text: あげく
+        grammar_highlight: true
+      - text: 、日本の大学に決めた。
+        grammar_highlight: false
+    reading: どのだいがくにりゅうがくしようかと、さんざんなやんだあげく、にほんのだいがくにきめた。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: |-
+          One way or another how much I wanted to studying abroad in an university, after much being harshly worried about it , I decided to go to a Japanese university.
+        html: |-
+          <span>One way or another how much I wanted to studying abroad in an university, </span><strong>after much </strong><span>being harshly worried about it </span><span>, I decided to go to a Japanese university. </span>
+        segments:
+          - text: 'One way or another how much I wanted to studying abroad in an university, '
+            grammar_highlight: false
+          - text: 'after much '
+            grammar_highlight: true
+          - text: 'being harshly worried about it , I decided to go to a Japanese university. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8095
+    position: 14
+    japanese: ざんざん迷ったあげく彼のプロポーズを断った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%96%e3%82%93%e3%81%96%e3%82%93%e8%bf%b7%e3%81%a3%e3%81%9f"><span>ざんざん迷った</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%92%e3%81%8f"><strong>あげく</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae%e3%83%97%e3%83%ad%e3%83%9d%e3%83%bc%e3%82%ba%e3%82%92%e6%96%ad%e3%81%a3%e3%81%9f%e3%80%82"><span>彼のプロポーズを断った。</span></a>
+    segments:
+      - text: ざんざん迷った
+        grammar_highlight: false
+      - text: あげく
+        grammar_highlight: true
+      - text: 彼のプロポーズを断った。
+        grammar_highlight: false
+    reading: まよったあげくかれのプロポーズをことわった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: After much hesitation  , Iʼve turned down his proposal.
+        html: |-
+          <span>After </span><strong>much hesitation </strong><span> , Iʼve turned down his proposal. </span>
+        segments:
+          - text: 'After '
+            grammar_highlight: false
+          - text: 'much hesitation '
+            grammar_highlight: true
+          - text: ' , Iʼve turned down his proposal. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      "after much (verb)-ing"
+
+      ageku implies doing something a lot. 
+
+      "after much to-ing and fro-ing we finally decided to .."
+
+      悩んだ挙句、
+      "after a lot of worrying, we gave up caring"
+    html: |-
+      "after much (verb)-ing"<br/><br/>ageku implies doing something a lot. <br/><br/>"after much to-ing and fro-ing we finally decided to .."<br/><br/>悩んだ挙句、<br/>"after a lot of worrying, we gave up caring"
+    credits_raw: dc
+    content_sha256: 641c83bd74117ad95c41cc360c5ecd056e46d1da4427c839109cb47f7355c1c8
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      [ageku] and [kekkyoku] do both seem to be negative
+      [yatto] seems to be mostly positive 
+      [sekkaku] can be both
+
+      勉強したあげくに卒業しました
+      after much studying, i graduated 
+      (implies a long sigh about the process of studying... even though the result was positive)
+
+      せっかく勉強したので、卒業しました
+      thanks to all the studying, I passed!
+
+      ヤット！卒業しました！
+      finally! I passed!
+
+      勉強した後、卒業しました
+      after studying, I passed.
+
+      注意→ 日本語のnative speakerチェックして下さい！
+    html: |-
+      [ageku] and [kekkyoku] do both seem to be negative<br/>[yatto] seems to be mostly positive <br/>[sekkaku] can be both<br/><br/>勉強したあげくに卒業しました<br/>after much studying, i graduated <br/>(implies a long sigh about the process of studying... even though the result was positive)<br/><br/>せっかく勉強したので、卒業しました<br/>thanks to all the studying, I passed!<br/><br/>ヤット！卒業しました！<br/>finally! I passed!<br/><br/>勉強した後、卒業しました<br/>after studying, I passed.<br/><br/>注意→ 日本語のnative speakerチェックして下さい！
+    credits_raw: dc
+    content_sha256: 6aba1b5626897cc5e113b740ea54aa37e9a89b4245e77603e3b4baccdd837000
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      corrections to note above:
+
+      勉強したあげくに卒業しました It's better to add adjectives to make it natural.
+      →suggestion : 散々（さんざん） or 色々（いろいろ）_勉強した挙句に卒業しました。
+
+      せっかく勉強したので、卒業しました
+      →suggestion : 折角（せっかく）
+      折角勉強したので、教師（きょう）の資格（しかく）を取得（しゅとく）して、卒業しました。
+      Since I studied it all the way, I passed with a teacher's license.
+      折角勉強したのに、卒業することができませんでした。
+
+      勉強した後、卒業しました→勉強した後、合格しました。
+      after studying, I passed.
+    html: |-
+      corrections to note above:<br/><br/>勉強したあげくに卒業しました It's better to add adjectives to make it natural.<br/>→suggestion : 散々（さんざん） or 色々（いろいろ）_勉強した挙句に卒業しました。<br/><br/>せっかく勉強したので、卒業しました<br/>→suggestion : 折角（せっかく）<br/>折角勉強したので、教師（きょう）の資格（しかく）を取得（しゅとく）して、卒業しました。<br/>Since I studied it all the way, I passed with a teacher's license.<br/>折角勉強したのに、卒業することができませんでした。<br/><br/>勉強した後、卒業しました→勉強した後、合格しました。<br/>after studying, I passed.
+    credits_raw: dc
+    content_sha256: 1ff2c97322684550396f26fbfab5c96e5835d8e87535dcd5e20802cdbdae0381
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Often used with さんざん
+    html: Often used with さんざん
+    credits_raw: MightyAtom
+    content_sha256: 38168717766b49d4d7a39eade09a1d48b149d8708099d64f973be2e17ff58854
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      According to a native speaker, this grammar adds a negative feeling to the sentence, so either the first part preceding the 挙句 or the following part should have a negative feel to reflect that. 
+
+      In the example:
+      「散々考えた挙げ句その計画を実行にうつした」
+      this is equivalent to 
+      「散々悩んだ挙げ句その計画を実行にうつした」
+      in feeling due to the presence of 挙句. 
+
+      Similarly in another example
+      「両親に相談したあげくに、彼と結婚することにした。」
+      sounds unnatural, because the decision to marry someone is a positive one. If it was instead 
+      「両親に相談したあげくに、彼と離婚することにした。」
+      then it would sound more natural because divorce has a negative connotation.
+    html: |-
+      According to a native speaker, this grammar adds a negative feeling to the sentence, so either the first part preceding the 挙句 or the following part should have a negative feel to reflect that. <br/><br/>In the example:<br/>「散々考えた挙げ句その計画を実行にうつした」<br/>this is equivalent to <br/>「散々悩んだ挙げ句その計画を実行にうつした」<br/>in feeling due to the presence of 挙句. <br/><br/>Similarly in another example<br/>「両親に相談したあげくに、彼と結婚することにした。」<br/>sounds unnatural, because the decision to marry someone is a positive one. If it was instead <br/>「両親に相談したあげくに、彼と離婚することにした。」<br/>then it would sound more natural because divorce has a negative connotation.
+    credits_raw: khyron
+    content_sha256: 188bed6e98c81339b837ec56a7e1b81ae1872463300b9c17f73861d03c1af5e5
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: ageku should return a bad result
+    html: ageku should return a bad result
+    credits_raw: seishun
+    content_sha256: 2fe7c55c21352571dab5b1ed42e1e929024bc25f17fb512730c6c59cc47e02fa
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      (n-adv,n-t) Noun-Adverb (a noun that can be used as an adverb) + Noun-timelike (a noun that can be used where a 'time' reference is expected).
+
+      Noun use 'ageku no hate' - ageku modifies hate
+      'time-like' use 'ageku kare no sasoi wo kotawatte shimatta.' (ageku specifies when 'kare no ...')
+    html: |-
+      (n-adv,n-t) Noun-Adverb (a noun that can be used as an adverb) + Noun-timelike (a noun that can be used where a 'time' reference is expected).<br/><br/>Noun use 'ageku no hate' - ageku modifies hate<br/>'time-like' use 'ageku kare no sasoi wo kotawatte shimatta.' (ageku specifies when 'kare no ...')
+    credits_raw: Amatuka
+    content_sha256: 491870e67e1bd17b2991b36fda10543e1386a3e57e764592cbb1b60f3562c2e6
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: あげくに seems to be used much as あげく、(obviously you can't have あげくにの though).
+    html: あげくに seems to be used much as あげく、(obviously you can't have あげくにの though).
+    credits_raw: Amatuka
+    content_sha256: 18d6516c299306c6cbce78f3192f7f53224d3535d617931b1880a09c4cb11fd4
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: 'electrocute : ile''ktrэkju`:t vt usu passive 感電しさせる'
+    html: 'electrocute : ile''ktrэkju`:t vt usu passive 感電しさせる'
+    credits_raw: Miki
+    content_sha256: 717e6e5e504bbe8154446d8fba327197de65b3d1689d3f1865a96898ac5ce8c9
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      挙げ句の果て is an emphatic way of saying 挙げ句 so that it sounds more like "at the very end." Comes from the last stanza in 連句.
+    html: |-
+      挙げ句の果て is an emphatic way of saying 挙げ句 so that it sounds more like "at the very end." Comes from the last stanza in 連句.
+    credits_raw: bamboo4
+    content_sha256: 13a8e27ea2722f09cf63a90e8ce753c2764ebdcc9518d8e070d168aa4ad82afd
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: JDict examples
+    html: JDict examples
+    credits_raw: dc
+    content_sha256: 5255f3e94d250bc254497fd7aaa0696b35bd5f67268d057b480a3161a80611d6
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: I always thought that あげく is used for negative results.
+    html: I always thought that あげく is used for negative results.
+    credits_raw: Huess
+    content_sha256: 77e770d3fc735516c779383ba3d307d929de7aa3d8e95b924435d2f442a26b28
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      It might be that the -process- has negative mood, but the result is not necessarily bad. See ex5 above.
+
+      eg After a lot of hard work, I passed the test.
+
+      I added a note to this, pending confirmation.
+    html: |-
+      It might be that the -process- has negative mood, but the result is not necessarily bad. See ex5 above.<br/><br/>eg After a lot of hard work, I passed the test.<br/><br/>I added a note to this, pending confirmation.
+    credits_raw: dc
+    content_sha256: 991117be10a18542dcc0649d283b8cdb454f22310cf138e94fb9bafac4be8000
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      In the second exmaple, 彼と結婚することにした should be translated as "I decided to marry him." If you say, 彼と結婚することとなった, than it is possible to say "it was decided that I marry him."
+    html: |-
+      In the second exmaple, 彼と結婚することにした should be translated as "I decided to marry him." If you say, 彼と結婚することとなった, than it is possible to say "it was decided that I marry him."
+    credits_raw: bamboo4
+    content_sha256: ae7652785c51dee20c4a2af6f7bd5d71476814ca84b1c716adba37aabe8677a9
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      ↑ changed. 
+      And the notes are accurate with ageku and yatto?
+    html: |-
+      ↑ changed. <br/>And the notes are accurate with ageku and yatto?
+    credits_raw: dc
+    content_sha256: f428f3c2e95eca5f00b60e481750a2260537ca2d1b214747243c8f662c45d46e
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: |-
+      In notes, they are not natural.
+      勉強したあげくに卒業しました It's better to add adjectives to make it natural.
+      →suggestion : 散々（さんざん） or 色々（いろいろ）_勉強した挙句に卒業しました。
+
+      せっかく勉強したので、卒業しました 
+      →suggestion : 折角（せっかく）
+      折角勉強したので、教師（きょう）の資格（しかく）を取得（しゅとく）して、卒業しました。
+      Since I studied it all the way, I passed with a teacher's license.
+      折角勉強したのに、卒業することができませんでした。
+
+      勉強した後、卒業しました→勉強した後、合格しました。
+      after studying, I passed.
+    html: |-
+      In notes, they are not natural.<br/>勉強したあげくに卒業しました It's better to add adjectives to make it natural.<br/>→suggestion : 散々（さんざん） or 色々（いろいろ）_勉強した挙句に卒業しました。<br/><br/>せっかく勉強したので、卒業しました <br/>→suggestion : 折角（せっかく）<br/>折角勉強したので、教師（きょう）の資格（しかく）を取得（しゅとく）して、卒業しました。<br/>Since I studied it all the way, I passed with a teacher's license.<br/>折角勉強したのに、卒業することができませんでした。<br/><br/>勉強した後、卒業しました→勉強した後、合格しました。<br/>after studying, I passed.
+    credits_raw: Miki
+    content_sha256: 849521d4a9da9da5823a9e81e8ca8347ff5562bad3851c6d4d587b0825fb190b
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: what's the difference between あげく & 後？
+    html: what's the difference between あげく &amp; 後？
+    credits_raw: shrek
+    content_sha256: bbfb088befd3c8b00a4ba8c355c473ac25d44186b3541de6ba4c0b7a9f7f7a64
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: |-
+      後 is just "after"
+      挙（げ）句 implies "there was the process to reach the result" or "after all".
+    html: |-
+      後 is just "after"<br/>挙（げ）句 implies "there was the process to reach the result" or "after all".
+    credits_raw: Miki
+    content_sha256: c9e749943c423b931ac06ba8245a5c2641e65b72c589b3105b61bb446c5c6269
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    source_id: null
+    text: |-
+      you should update your entry with Miki's corrections, she is absolutely right.
+
+      教師（きょうし）
+      Since I studied it all the way, I passed with a teacher's license -> 
+      I think i understand your Japanese but I am not sure about your English translation. Which of the two do you mean:
+      1. Since I studied all the way, I graduated with the help of my teacher's license
+
+      Or
+
+      2. Since I studied all the way, I passed my teacher's license exam.
+    html: |-
+      you should update your entry with Miki's corrections, she is absolutely right.<br/><br/>教師（きょうし）<br/>Since I studied it all the way, I passed with a teacher's license -&gt; <br/>I think i understand your Japanese but I am not sure about your English translation. Which of the two do you mean:<br/>1. Since I studied all the way, I graduated with the help of my teacher's license<br/><br/>Or<br/><br/>2. Since I studied all the way, I passed my teacher's license exam.
+    credits_raw: ezi
+    content_sha256: c884c99580b13e4c4d5228f6afbf6dcd43343f08ffce968b7ca92cab788c412c
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    source_id: null
+    text: i quickly copied these suggestions above. if someone can combine/edit the two notes, i will delete the extra ones.
+    html: i quickly copied these suggestions above. if someone can combine/edit the two notes, i will delete the extra ones.
+    credits_raw: dc
+    content_sha256: 31f5294423e60ca8bbb993d8c8580b0fce5e4a587a5f4c15fc4e970ecd92f78d
+    original_created_at: null
+    original_updated_at: null
+  - position: 20
+    source_id: null
+    text: |-
+      The use of 折角 in せっかく勉強したので is archaic. Nowadays, people would say 一生懸命 or 頑張って勉強したので. In modern usage, 折角 is used in negative sense, such as 折角勉強したのに落第した (Though or despite the fact that I studied hard, I failed to make the grade)
+    html: |-
+      The use of 折角 in せっかく勉強したので is archaic. Nowadays, people would say 一生懸命 or 頑張って勉強したので. In modern usage, 折角 is used in negative sense, such as 折角勉強したのに落第した (Though or despite the fact that I studied hard, I failed to make the grade)
+    credits_raw: bamboo4
+    content_sha256: 3982231dd9a2b34a675e03beb741fc127f0f587ac0f3b8c45b6942bc09c60ff4
+    original_created_at: null
+    original_updated_at: null
+  - position: 21
+    source_id: null
+    text: I don't think there is a に at the back of あげく、 色々勉強したあげく、卒業しました。
+    html: I don't think there is a に at the back of あげく、 色々勉強したあげく、卒業しました。
+    credits_raw: 誠
+    content_sha256: f7cc48a0a750d959911d22d2a9a348bfb0ebc1224fadef1d54b76b61288332c7
+    original_created_at: null
+    original_updated_at: null
+  - position: 22
+    source_id: null
+    text: Since I had made all the effort of studying, I obtained my teacher's license and graduated with it.
+    html: Since I had made all the effort of studying, I obtained my teacher's license and graduated with it.
+    credits_raw: 誠
+    content_sha256: 92002d95db45c2e3e8e7ad4d9140c8f322975de1908f5cf68129d3ae51362dc9
+    original_created_at: null
+    original_updated_at: null
+  - position: 23
+    source_id: null
+    text: |-
+      In the See Also section, it says that 挙句 is always used in the negative. However the examples and comments suggests that it can be used in both the negative and positive.
+    html: |-
+      In the See Also section, it says that 挙句 is always used in the negative. However the examples and comments suggests that it can be used in both the negative and positive.
+    credits_raw: xabre24
+    content_sha256: f92fd399540cdcb9a28bcc4ae8307f347753c1d036844b61588971284c19bd47
+    original_created_at: null
+    original_updated_at: null
+  - position: 24
+    source_id: null
+    text: |-
+      Hi, In this example
+
+      色々勉強したあげく、卒業しました。 
+      Since I had made all the effort of studying, I obtained my teacher's license and graduated with it. 
+
+      The translation is incorrect... since the Japanese mentions nothing about a teacher's license. This simply says "After studying so much, I graduated"
+    html: |-
+      Hi, In this example<br/><br/>色々勉強したあげく、卒業しました。 <br/>Since I had made all the effort of studying, I obtained my teacher's license and graduated with it. <br/><br/>The translation is incorrect... since the Japanese mentions nothing about a teacher's license. This simply says "After studying so much, I graduated"
+    credits_raw: マリ
+    content_sha256: 442ab243054a74b337060363da435ac9509b17e1db65fe074bdf70acffc35ec6
+    original_created_at: null
+    original_updated_at: null
+  - position: 25
+    source_id: null
+    text: Hi マリ, 誠's translation left out the "教師（きょう）の資格（しかく）を取得（しゅとく）して" part but is implying the same thing as miki's example.
+    html: Hi マリ, 誠's translation left out the "教師（きょう）の資格（しかく）を取得（しゅとく）して" part but is implying the same thing as miki's example.
+    credits_raw: h2oaso
+    content_sha256: d5affda389cf11972b4516e6c1287dcbe8b4e09a9bac41aa2c9392d9a0a2fcd5
+    original_created_at: null
+    original_updated_at: null
+  - position: 26
+    source_id: null
+    text: |-
+      I changed #6244 from: "Since I had made all the effort of studying, I obtained my teacher's license and graduated with it" to: after much studying, I graduated (using dc's example in the notes).
+    html: |-
+      I changed #6244 from: "Since I had made all the effort of studying, I obtained my teacher's license and graduated with it" to: after much studying, I graduated (using dc's example in the notes).
+    credits_raw: karekano
+    content_sha256: cf32616074b60039d92f3b98ba378b37726fccaabd33f7c91f9687596542a30d
+    original_created_at: null
+    original_updated_at: null
+  - position: 27
+    source_id: null
+    text: |-
+      #6738 better English translation: I decided on a Japanese university after much worrying as to which university to go to abroad.
+    html: |-
+      #6738 better English translation: I decided on a Japanese university after much worrying as to which university to go to abroad.
+    credits_raw: audvix@yahoo.com
+    content_sha256: 1084f64d427572a0f0a7b4f10713b0bcd81228a611eefa5d00a8bf12c3586275
+    original_created_at: null
+    original_updated_at: null
+  - position: 28
+    source_id: null
+    text: I love the second example xD
+    html: I love the second example xD
+    credits_raw: lolol
+    content_sha256: 9f28141022356c29b10c3a5676c370f9ac40fe1d91179bac796bd066c2ad21f2
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 824
+    label: 〜末に
+    source_url: https://takoboto.jp/bunpo/824
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T00:52:15+00:00'
+response_sha256: 4085103e9026f53af93d5ba8c29bf51d116deea3621ac09e048857251bd3c7da
+warnings: []

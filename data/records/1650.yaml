@@ -1,0 +1,57 @@
+schema_version: 2
+id: 1650
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1650/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: より
+romanized_label: yori-3
+alternate_forms: []
+jlpt_level: null
+credits_raw: burakkuneko
+meaning: from
+meaning_example: a data from Mr. Tanaka
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1650
+    body_text: |-
+      from 
+       a data from Mr. Tanaka
+    body_html: |-
+      <span>from</span> <br/> <span>a data from Mr. Tanaka</span>
+    credits_raw: burakkuneko
+formations: []
+examples:
+  - source_id: 6657
+    position: 0
+    japanese: 会社のメールに山田さんよりのレポートがあります。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%ae%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ab"><span>会社のメールに</span></a><a href="https://takoboto.jp/?q=%e5%b1%b1%e7%94%b0%e3%81%95%e3%82%93"><span>山田さん</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%82%8a"><strong>より</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%80%82"><span>のレポートがあります。</span></a>
+    segments:
+      - text: 会社のメールに山田さん
+        grammar_highlight: false
+      - text: より
+        grammar_highlight: true
+      - text: のレポートがあります。
+        grammar_highlight: false
+    reading: かいしゃのメールにやまださんよりのレポートがあります。
+    credits_raw: burakkuneko
+    translations:
+      - language: en
+        text: There is a report from Mr. Yamada in the company's e-mail.
+        html: |-
+          <span>There is a report from Mr. Yamada in the company's e-mail. </span>
+        segments:
+          - text: 'There is a report from Mr. Yamada in the company''s e-mail. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:47:23+00:00'
+response_sha256: 362487802f107b8de9160cfd3c918572817b6ff30f36bcb4a0fc634c93e79cfc
+warnings: []

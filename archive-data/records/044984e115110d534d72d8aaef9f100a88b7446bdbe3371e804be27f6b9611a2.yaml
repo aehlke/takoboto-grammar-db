@@ -1,0 +1,185 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 509
+label: toki
+title_raw: 〜時 [〜とき] (toki)
+title: 〜時
+reading: 〜とき
+romanized_label: toki
+category: grammar
+jlpt_level_original: '3'
+meaning: when
+meaning_example: when i was in japan
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=toki
+archive_url: https://web.archive.org/web/20200215022522id_/http://jgram.org:80/pages/viewOne.php?tagE=toki
+archive_timestamp: '20200215022522'
+retrieved_at: '2026-10-03T06:10:12+00:00'
+archive_digest: OTJ45YP3OGIGY7RPTJBLJPDELA47J3YK
+response_sha256: 47c7002360d3bae35f62b9635387b185565e7b2d3e8eb2b20da9f638a97fc4bd
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: This kanji can also be read as ji in compounds.
+    html: |-
+      This kanji can also be read as <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=ji">ji</a></b> in compounds.
+    credits_raw: andyc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 531
+    position: 0
+    japanese: 私は日本に行った時日本語を勉強した
+    body_text: "私は日本に行った時日本語を勉強した \n\nwhen \n\t\ti was in japan, i studied japanese"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私は日本に行った時日本語を勉強した\">\n\t\t\t\t私は日本に行った<strong>時</strong>日本語を勉強した<strong></strong></a> <br/>\n<strong>when </strong>\n\t\ti was in japan, i studied japanese"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3141
+    position: 1
+    japanese: "いつでも都合の\r\nいい時にお金を返してください。"
+    body_text: "いつでも都合の\r\nいい時にお金を返してください。 \n\n\t\tPay me back \n\t\twhen \n\t\tit's convenient."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJいつでも都合のいい時にお金を返してください。\">\n\t\t\t\tいつでも都合の\r\nいい<strong>時に</strong>お金を返してください。<strong></strong></a> <br/>\n\t\tPay me back \n\t\t<strong>when </strong>\n\t\tit's convenient."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3142
+    position: 2
+    japanese: 何というときに出てきたんだ！
+    body_text: "何というときに出てきたんだ！ \n\n\t\tHow on earth could you make your appearance \n\t\tat a crucial time \n\t\tlike this!"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ何というときに出てきたんだ！\">\n何という<strong>ときに</strong>出てきたんだ！<strong></strong></a> <br/>\n\t\tHow on earth could you make your appearance \n\t\t<strong>at a crucial time </strong>\n\t\tlike this!"
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: tabi i think is often used for repeating things. more like "each time i go to japan" than "when i went to japan".
+    html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=tabi">tabi</a> i think is often used for repeating things. more like "each time i go to japan" than "when i went to japan".
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: your name
+    text: "I believe that example one is incorrect.  I believe it should be:\n\r\n私は、日本に行った時に(は)、日本語を勉強した。\n\r\nYou can add or leave out the は depending on how you wish to say it."
+    html: "I believe that example one is incorrect.  I believe it should be:<br/>\r\n私は、日本に行った時に(は)、日本語を勉強した。<br/>\r\nYou can add or leave out the は depending on how you wish to say it."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: dc
+    text: Is this usually toki+ni?
+    html: Is this usually toki+ni?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: bamboo4
+    text: You can dispense with either に or は or には, which I think is nore conventional.
+    html: |-
+      You can dispense with either に or は or には, which I think is nore conventional.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Miki
+    text: ex#531 I feel the Japanese is not natural. It would be 私は日本にいた時日本語を勉強した。or the second user comment 私は日本に行った時に日本語を勉強した。
+    html: |-
+      ex<b><a href="http://jgram.org:80/pages/viewOne.php?tagE=toki#531">#531</a></b> I feel the Japanese is not natural. It would be 私は日本にいた時日本語を勉強した。or the second user comment 私は日本に行った時に日本語を勉強した。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: bamboo4
+    text: |-
+      I see noting wrong with 行った時.Adding に would provide emphasis, such as "I studied Japanese when I went to Japan" (with an implication that happened at no othe time.)
+    html: |-
+      I see noting wrong with 行った時.Adding に would provide emphasis, such as "I studied Japanese when I went to Japan" (with an implication that happened at no othe time.)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: natsumi
+    text: |-
+      is there some rules to observed as to use ta-form or impolite form for the preceding clause before the toki under certain conditions? Arigatoo.
+    html: |-
+      is there some rules to observed as to use ta-form or impolite form for the preceding clause before the toki under certain conditions? Arigatoo.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Nick
+    text: "#531\n\r\n私は、日本にいた時、日本語を勉強した。Good job, Miki."
+    html: "<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=toki#531\">#531</a></b><br/>\r\n私は、日本にいた時、日本語を勉強した。Good job, Miki."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: sw
+    text: |-
+      it helps me to think of に as crosshairs.  It zeros in on a specific time.  "At" covers this function nicely in English.  It's not correct to use it if there is no specific time.  一時に "at 1 o'clock" and 明日 "tommorow" as we don't say "at tommorow".  This metaphor can be used for indirect object に as well.
+    html: |-
+      it helps me to think of に as crosshairs.  It zeros in on a specific time.  "At" covers this function nicely in English.  It's not correct to use it if there is no specific time.  一時に "at 1 o'clock" and 明日 "tommorow" as we don't say "at tommorow".  This metaphor can be used for indirect object に as well.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: bamboo4
+    text: But we say 明日(あした）には, meaning by tommorow."
+    html: |-
+      But we say 明日(あした）には, meaning by tommorow."<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: Saralynne
+    text: "To me it sounds like without に, the sentence might be more like \"When in Japan, I studied Japanese.\" and adding に would be somewhat like \"When I was in Japan, I studied Japanese.\"  The first one would put more emphasis on studying Japanese (but happen to state where) and the second would be saying what one did in Japan (which was studying).\n\n\n\r\nI think I pretty much just reworded what everyone else was saying, in a way, right?"
+    html: "To me it sounds like without に, the sentence might be more like \"When in Japan, I studied Japanese.\" and adding に would be somewhat like \"When I was in Japan, I studied Japanese.\"  The first one would put more emphasis on studying Japanese (but happen to state where) and the second would be saying what one did in Japan (which was studying).<br/>\n<br/>\r\nI think I pretty much just reworded what everyone else was saying, in a way, right?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: niatatte; niatari
+    label: niatatte; niatari
+    annotation_text: "niatatte; niatari    (not equivalent, as toki can be used for past tense items. \n\r\n　研究した時に\n\r\n　研究するにあたって\n\r\n) [dc]"
+    annotation_html: "<a href=\"http://jgram.org:80/pages/viewOne.php?tagE=niatatte; niatari\">niatatte; niatari</a>    (not equivalent, as toki can be used for past tense items. <br/>\r\n　研究した時に<br/>\r\n　研究するにあたって<br/>\r\n) [<a href=\"http://jgram.org:80/pages/contributions.php?author=dc\">dc</a>]"
+    credits_raw: dc
+  - position: 1
+    target_label: tabi, tabini
+    label: tabi, tabini
+    annotation_text: tabi, tabini    (ときに can be used in much the same way as たびに) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=tabi, tabini">tabi, tabini</a>    (ときに can be used in much the same way as たびに) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 2
+    target_label: sai
+    label: sai
+    annotation_text: sai [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=sai">sai</a> [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "〜時 [〜とき] (toki)\n    Meaning: when \n    Example: when i was in japan\n    JLPT Level: 3\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>〜時 [〜とき] (toki)</span><br/>    <span><b>Meaning</b>: when </span><br/>    <b>Example</b>: <i>when i was in japan</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215022522'

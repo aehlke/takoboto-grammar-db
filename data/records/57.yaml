@@ -1,0 +1,823 @@
+schema_version: 2
+id: 57
+source: takoboto
+source_url: https://takoboto.jp/bunpo/57/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: くらい
+romanized_label: kurai
+alternate_forms: []
+jlpt_level: 4
+credits_raw: dc
+meaning: about, as
+meaning_example: (about) as normal as any other guy on the street.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_57
+    body_text: |-
+      about, as 
+       (about) as normal as any other guy on the street.
+    body_html: |-
+      <span>about, as</span> <br/> <span>(about) as normal as any other guy on the street.</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_57
+    body_text: Noun+くらい/ぐらい
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>くらい/ぐらい</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + くらい/ぐらい
+examples:
+  - source_id: 609
+    position: 0
+    japanese: 人に会ったら、あいさつぐらいして欲しい
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%ab"><span>人に</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e3%81%a3%e3%81%9f%e3%82%89%e3%80%81"><span>会ったら、</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%84%e3%81%95%e3%81%a4"><span>あいさつ</span></a><a href="https://takoboto.jp/?q=%e3%81%90%e3%82%89%e3%81%84"><strong>ぐらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%a6"><span>して</span></a><a href="https://takoboto.jp/?q=%e6%ac%b2%e3%81%97%e3%81%84"><span>欲しい</span></a>
+    segments:
+      - text: 人に会ったら、あいさつ
+        grammar_highlight: false
+      - text: ぐらい
+        grammar_highlight: true
+      - text: して欲しい
+        grammar_highlight: false
+    reading: ひとにあったら、あいさつぐらいしてほしい
+    credits_raw: Amatuka, dc
+    translations:
+      - language: en
+        text: When I meet people I'd like at least a hello.
+        html: |-
+          <span>When I meet people I'd like </span><strong>at least </strong><span>a hello. </span>
+        segments:
+          - text: 'When I meet people I''d like '
+            grammar_highlight: false
+          - text: 'at least '
+            grammar_highlight: true
+          - text: 'a hello. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3117
+    position: 1
+    japanese: 子どもでもそれくらいのことはできる
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ad%90%e3%81%a9%e3%82%82%e3%81%a7%e3%82%82"><span>子どもでも</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c"><span>それ</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%93%e3%81%a8%e3%81%af%e3%81%a7%e3%81%8d%e3%82%8b"><span>のことはできる</span></a>
+    segments:
+      - text: 子どもでもそれ
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: のことはできる
+        grammar_highlight: false
+    reading: こどもでもそれくらいのことはできる
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: Even a child could do about that much。
+        html: |-
+          <span>Even a child could do </span><strong>about </strong><span>that much。 </span>
+        segments:
+          - text: 'Even a child could do '
+            grammar_highlight: false
+          - text: 'about '
+            grammar_highlight: true
+          - text: 'that much。 '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3140
+    position: 2
+    japanese: 駄目だったら！こっちが手伝ってもらいたいくらい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a7%84%e7%9b%ae%e3%81%a0%e3%81%a3%e3%81%9f%e3%82%89"><span>駄目だったら</span></a><a href="https://takoboto.jp/?q=%ef%bc%81%e3%81%93%e3%81%a3%e3%81%a1%e3%81%8c"><span>！こっちが</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e4%bc%9d%e3%81%a3%e3%81%a6%e3%82%82%e3%82%89%e3%81%84%e3%81%9f%e3%81%84"><span>手伝ってもらいたい</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84%e3%80%82"><strong>くらい。</strong></a>
+    segments:
+      - text: 駄目だったら！こっちが手伝ってもらいたい
+        grammar_highlight: false
+      - text: くらい。
+        grammar_highlight: true
+    reading: だめだったら！こっちがてつだってもらいたいくらい。
+    credits_raw: KotatsuSama
+    translations:
+      - language: en
+        text: I told you it's no good! If anything, I need YOUR help.
+        html: |-
+          <span>I told you it's no good! </span><strong>If anything, </strong><span>I need YOUR help. </span>
+        segments:
+          - text: 'I told you it''s no good! '
+            grammar_highlight: false
+          - text: 'If anything, '
+            grammar_highlight: true
+          - text: 'I need YOUR help. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3144
+    position: 3
+    japanese: どのくらいやったら認めてくれるの。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%ae"><span>どの</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%a3%e3%81%9f%e3%82%89"><span>やったら</span></a><a href="https://takoboto.jp/?q=%e8%aa%8d%e3%82%81%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8b%e3%81%ae%e3%80%82"><span>認めてくれるの。</span></a>
+    segments:
+      - text: どの
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: やったら認めてくれるの。
+        grammar_highlight: false
+    reading: どのくらいやったらみとめてくれるの。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: How much do I have to do to get your approval?
+        html: |-
+          <strong>How much </strong><span>do I have to do to get your approval? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: 'do I have to do to get your approval? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4670
+    position: 4
+    japanese: あなたが駅に着くのにどのくらいかかりますか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c"><span>あなたが</span></a><a href="https://takoboto.jp/?q=%e9%a7%85%e3%81%ab"><span>駅に</span></a><a href="https://takoboto.jp/?q=%e7%9d%80%e3%81%8f%e3%81%ae%e3%81%ab"><span>着くのに</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%ae"><span>どの</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8b%e3%82%8a%e3%81%be%e3%81%99%e3%81%8b%e3%80%82"><span>かかりますか。</span></a>
+    segments:
+      - text: あなたが駅に着くのにどの
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: かかりますか。
+        grammar_highlight: false
+    reading: あなたがえきにつくのにどのくらいかかりますか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How long does it take to get to the station?
+        html: |-
+          <span>How long does it take to get to the station? </span>
+        segments:
+          - text: 'How long does it take to get to the station? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4671
+    position: 5
+    japanese: 「ここのバスは１時間に何回くらい出るのですか」「３０分ごとに出ます」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%81%93%e3%81%93%e3%81%ae%e3%83%90%e3%82%b9%e3%81%af"><span>「ここのバスは</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%e6%99%82%e9%96%93%e3%81%ab"><span>１時間に</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e5%9b%9e"><span>何回</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%82%8b%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8b%e3%80%8d%e3%80%8c"><span>出るのですか」「</span></a><a href="https://takoboto.jp/?q=%ef%bc%93%ef%bc%90%e5%88%86%e3%81%94%e3%81%a8%e3%81%ab"><span>３０分ごとに</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%be%e3%81%99%e3%80%8d"><span>出ます」</span></a>
+    segments:
+      - text: 「ここのバスは１時間に何回
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: 出るのですか」「３０分ごとに出ます」
+        grammar_highlight: false
+    reading: 「ここのバスは１じかんになんかいくらいでるのですか」「３０ふんごとにでます」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"How often do the buses run in an hour?" "Every thirty minutes."'
+        html: |-
+          <span>"How often do the buses run in an hour?" "Every thirty minutes." </span>
+        segments:
+          - text: '"How often do the buses run in an hour?" "Every thirty minutes." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4672
+    position: 6
+    japanese: ウィーンまでは歩いてどのくらいかかりますか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a6%e3%82%a3%e3%83%bc%e3%83%b3%e3%81%be%e3%81%a7%e3%81%af"><span>ウィーンまでは</span></a><a href="https://takoboto.jp/?q=%e6%ad%a9%e3%81%84%e3%81%a6"><span>歩いて</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%ae"><span>どの</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8b%e3%82%8a%e3%81%be%e3%81%99%e3%81%8b%e3%80%82"><span>かかりますか。</span></a>
+    segments:
+      - text: ウィーンまでは歩いてどの
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: かかりますか。
+        grammar_highlight: false
+    reading: ウィーンまではあるいてどのくらいかかりますか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How long does it take to get to Vienna on foot?
+        html: |-
+          <span>How long does it take to get to Vienna on foot? </span>
+        segments:
+          - text: 'How long does it take to get to Vienna on foot? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4673
+    position: 7
+    japanese: 「バスは後どのくらいで来ますか」「5分で来ます」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%83%90%e3%82%b9%e3%81%af"><span>「バスは</span></a><a href="https://takoboto.jp/?q=%e5%be%8c"><span>後</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%ae"><span>どの</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7"><span>で</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%81%be%e3%81%99%e3%81%8b%e3%80%8d%e3%80%8c5"><span>来ますか」「5</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%a7"><span>分で</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%81%be%e3%81%99%e3%80%8d"><span>来ます」</span></a>
+    segments:
+      - text: 「バスは後どの
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: で来ますか」「5分で来ます」
+        grammar_highlight: false
+    reading: 「バスはごどのくらいできますか」「ふんできます」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"How soon will the bus come?" "In five minutes."'
+        html: |-
+          <span>"How soon will the bus come?" "In five minutes." </span>
+        segments:
+          - text: '"How soon will the bus come?" "In five minutes." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4674
+    position: 8
+    japanese: 「会合はどのくらい続きそうですか」「2時間くらいです。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e5%90%88%e3%81%af"><span>会合は</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%ae"><span>どの</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e7%b6%9a%e3%81%8d%e3%81%9d%e3%81%86%e3%81%a7%e3%81%99%e3%81%8b%e3%80%8d%e3%80%8c2"><span>続きそうですか」「2</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%96%93%e3%81%8f%e3%82%89%e3%81%84%e3%81%a7%e3%81%99%e3%80%82%e3%80%8d"><span>時間くらいです。」</span></a>
+    segments:
+      - text: 「会合はどの
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: 続きそうですか」「2時間くらいです。」
+        grammar_highlight: false
+    reading: 「かいごうはどのくらいつづきそうですか」「じかんくらいです。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"How long will the meeting last? "For about two hours."'
+        html: |-
+          <span>"How long will the meeting last? "For about two hours." </span>
+        segments:
+          - text: '"How long will the meeting last? "For about two hours." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4675
+    position: 9
+    japanese: 100ドルでどのくらいの間やっていけますか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=100%e3%83%89%e3%83%ab%e3%81%a7"><span>100ドルで</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%ae"><span>どの</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e9%96%93%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%91%e3%81%be%e3%81%99%e3%81%8b%e3%80%82"><span>間やっていけますか。</span></a>
+    segments:
+      - text: 100ドルでどの
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: の間やっていけますか。
+        grammar_highlight: false
+    reading: ドルでどのくらいのまやっていけますか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I'm wondering how long $100 will carry me?
+        html: |-
+          <span>I'm wondering how long $100 will carry me? </span>
+        segments:
+          - text: 'I''m wondering how long $100 will carry me? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4676
+    position: 10
+    japanese: 1年にどのくらい頻繁にスキューバダイビングに行きますか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=1"><span>1</span></a><a href="https://takoboto.jp/?q=%e5%b9%b4%e3%81%ab"><span>年に</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%ae"><span>どの</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e9%a0%bb%e7%b9%81%e3%81%ab%e3%82%b9%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90%e3%83%80%e3%82%a4%e3%83%93%e3%83%b3%e3%82%b0%e3%81%ab"><span>頻繁にスキューバダイビングに</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d%e3%81%be%e3%81%99%e3%81%8b%e3%80%82"><span>行きますか。</span></a>
+    segments:
+      - text: 1年にどの
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: 頻繁にスキューバダイビングに行きますか。
+        grammar_highlight: false
+    reading: ねんにどのくらいひんぱんにスキューバダイビングにいきますか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How often do you go scuba diving in a year?
+        html: |-
+          <span>How often do you go scuba diving in a year? </span>
+        segments:
+          - text: 'How often do you go scuba diving in a year? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4677
+    position: 11
+    japanese: 1泊50ドルくらいのダブルの部屋を一室、今晩から4泊お願いします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=1"><span>1</span></a><a href="https://takoboto.jp/?q=%e6%b3%8a"><span>泊</span></a><a href="https://takoboto.jp/?q=50%e3%83%89%e3%83%ab"><span>50ドル</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%83%80%e3%83%96%e3%83%ab%e3%81%ae"><span>のダブルの</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%82%92"><span>部屋を</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%ae%a4%e3%80%81"><span>一室、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e6%99%a9%e3%81%8b%e3%82%894"><span>今晩から4</span></a><a href="https://takoboto.jp/?q=%e6%b3%8a%e3%81%8a"><span>泊お</span></a><a href="https://takoboto.jp/?q=%e9%a1%98%e3%81%84%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>願いします。</span></a>
+    segments:
+      - text: 1泊50ドル
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: のダブルの部屋を一室、今晩から4泊お願いします。
+        grammar_highlight: false
+    reading: はくドルくらいのダブルのへやをいっしつ、こんばんからはくおねがいします。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I'd like a double for four nights from tonight for about fifty dollars a night.
+        html: |-
+          <span>I'd like a double for four nights from tonight for about fifty dollars a night. </span>
+        segments:
+          - text: 'I''d like a double for four nights from tonight for about fifty dollars a night. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4678
+    position: 12
+    japanese: 2月27日の3時から1時間くらい会うことにしませんか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=2"><span>2</span></a><a href="https://takoboto.jp/?q=%e6%9c%8827"><span>月27</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e3%81%ae3"><span>日の3</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%81%8b%e3%82%89"><span>時から</span></a><a href="https://takoboto.jp/?q=1"><span>1</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%96%93"><span>時間</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e3%81%86%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b%e3%80%82"><span>会うことにしませんか。</span></a>
+    segments:
+      - text: 2月27日の3時から1時間
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: 会うことにしませんか。
+        grammar_highlight: false
+    reading: つきにちのじからじかんくらいあうことにしませんか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Could we see each other for about an hour on February 27 at 3:00 pm?
+        html: |-
+          <span>Could we see each other for about an hour on February 27 at 3:00 pm? </span>
+        segments:
+          - text: 'Could we see each other for about an hour on February 27 at 3:00 pm? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4679
+    position: 13
+    japanese: 2番目の文も丁度同じくらいの長さだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=2"><span>2</span></a><a href="https://takoboto.jp/?q=%e7%95%aa%e7%9b%ae%e3%81%ae"><span>番目の</span></a><a href="https://takoboto.jp/?q=%e6%96%87%e3%82%82"><span>文も</span></a><a href="https://takoboto.jp/?q=%e4%b8%81%e5%ba%a6"><span>丁度</span></a><a href="https://takoboto.jp/?q=%e5%90%8c%e3%81%98"><span>同じ</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e9%95%b7%e3%81%95%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>長さだった。</span></a>
+    segments:
+      - text: 2番目の文も丁度同じ
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: の長さだった。
+        grammar_highlight: false
+    reading: ばんめのぶんもちょうどおなじくらいのながさだった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The second sentence was just as long.
+        html: |-
+          <span>The second sentence was just as long. </span>
+        segments:
+          - text: 'The second sentence was just as long. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4680
+    position: 14
+    japanese: 50メートルくらい行くと、郵便局があります。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=50%e3%83%a1%e3%83%bc%e3%83%88%e3%83%ab"><span>50メートル</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f%e3%81%a8%e3%80%81"><span>行くと、</span></a><a href="https://takoboto.jp/?q=%e9%83%b5%e4%be%bf%e5%b1%80%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%80%82"><span>郵便局があります。</span></a>
+    segments:
+      - text: 50メートル
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: 行くと、郵便局があります。
+        grammar_highlight: false
+    reading: メートルくらいいくと、ゆうびんきょくがあります。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Follow the street for about 50 meters, and you will see a post office.
+        html: |-
+          <span>Follow the street for about 50 meters, and you will see a post office. </span>
+        segments:
+          - text: 'Follow the street for about 50 meters, and you will see a post office. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8250
+    position: 15
+    japanese: 彼女は４０歳ぐらいだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%ef%bc%94%ef%bc%90%e6%ad%b3%e3%81%90%e3%82%89%e3%81%84%e3%81%a0%e3%80%82"><span>４０歳ぐらいだ。</span></a>
+    segments:
+      - text: 彼女は４０歳ぐらいだ。
+        grammar_highlight: false
+    reading: かのじょは４０さいぐらいだ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: She is about forty.
+        html: |-
+          <span>She is about forty. </span>
+        segments:
+          - text: 'She is about forty. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8251
+    position: 16
+    japanese: 私のとった魚はこれくらいの大きさだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae%e3%81%a8%e3%81%a3%e3%81%9f"><span>私のとった</span></a><a href="https://takoboto.jp/?q=%e9%ad%9a%e3%81%af%e3%81%93%e3%82%8c"><span>魚はこれ</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e3%81%8d%e3%81%95%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>大きさだった。</span></a>
+    segments:
+      - text: 私のとった魚はこれ
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: の大きさだった。
+        grammar_highlight: false
+    reading: わたしのとったさかなはこれくらいのおおきさだった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: The fish I caught was about this big.
+        html: |-
+          <span>The fish I caught was about this big. </span>
+        segments:
+          - text: 'The fish I caught was about this big. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8252
+    position: 17
+    japanese: 昼くらい雨がやんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%98%bc"><span>昼</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c%e3%82%84%e3%82%93%e3%81%a0%e3%80%82"><span>雨がやんだ。</span></a>
+    segments:
+      - text: 昼
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: 雨がやんだ。
+        grammar_highlight: false
+    reading: ひるくらいあめがやんだ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: It stopped raining toward noon.
+        html: |-
+          <span>It stopped raining toward noon. </span>
+        segments:
+          - text: 'It stopped raining toward noon. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8253
+    position: 18
+    japanese: あの橋はどれくらいの長さですか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e6%a9%8b%e3%81%af%e3%81%a9%e3%82%8c"><span>橋はどれ</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e9%95%b7%e3%81%95%e3%81%a7%e3%81%99%e3%81%8b"><span>長さですか</span></a>
+    segments:
+      - text: あの橋はどれ
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: の長さですか
+        grammar_highlight: false
+    reading: あのはしはどれくらいのながさですか
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: How long is that bridge?
+        html: |-
+          <span>How long is that bridge? </span>
+        segments:
+          - text: 'How long is that bridge? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8254
+    position: 19
+    japanese: そのビールは建ってからどのくらい経っていますか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%83%93%e3%83%bc%e3%83%ab%e3%81%af"><span>そのビールは</span></a><a href="https://takoboto.jp/?q=%e5%bb%ba%e3%81%a3%e3%81%a6%e3%81%8b%e3%82%89%e3%81%a9%e3%81%ae"><span>建ってからどの</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%81%8b"><span>経っていますか</span></a>
+    segments:
+      - text: そのビールは建ってからどの
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: 経っていますか
+        grammar_highlight: false
+    reading: そのビールはたってからどのくらいたっていますか
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: How old is the building?
+        html: |-
+          <span>How old is the building? </span>
+        segments:
+          - text: 'How old is the building? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8255
+    position: 20
+    japanese: その小包はどれくらいの重さですか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%b0%8f%e5%8c%85%e3%81%af%e3%81%a9%e3%82%8c"><span>小包はどれ</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e9%87%8d%e3%81%95%e3%81%a7%e3%81%99%e3%81%8b"><span>重さですか</span></a>
+    segments:
+      - text: その小包はどれ
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: の重さですか
+        grammar_highlight: false
+    reading: そのこづつみはどれくらいのおもさですか
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: How much does the parcel weight?
+        html: |-
+          <span>How much does the parcel weight? </span>
+        segments:
+          - text: 'How much does the parcel weight? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8256
+    position: 21
+    japanese: このびんに油がどれくらい入るだろうか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%81%b3%e3%82%93%e3%81%ab"><span>このびんに</span></a><a href="https://takoboto.jp/?q=%e6%b2%b9%e3%81%8c%e3%81%a9%e3%82%8c"><span>油がどれ</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8b%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b"><span>入るだろうか</span></a>
+    segments:
+      - text: このびんに油がどれ
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: 入るだろうか
+        grammar_highlight: false
+    reading: このびんにあぶらがどれくらいはいるだろうか
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: How much of oil will this bottle hold?
+        html: |-
+          <span>How much of oil will this bottle hold? </span>
+        segments:
+          - text: 'How much of oil will this bottle hold? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8257
+    position: 22
+    japanese: 彼は私と同じくらい金を持っている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%a8"><span>私と</span></a><a href="https://takoboto.jp/?q=%e5%90%8c%e3%81%98"><span>同じ</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>持っている。</span></a>
+    segments:
+      - text: 彼は私と同じ
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: 金を持っている。
+        grammar_highlight: false
+    reading: かれはわたしとおなじくらいきんをもっている。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He has as much money as I do.
+        html: |-
+          <span>He has as much money as I do. </span>
+        segments:
+          - text: 'He has as much money as I do. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8258
+    position: 23
+    japanese: 先生は私をしかるのと同じくらいよくテリーをしかる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%af"><span>先生は</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%82%92%e3%81%97%e3%81%8b%e3%82%8b%e3%81%ae%e3%81%a8"><span>私をしかるのと</span></a><a href="https://takoboto.jp/?q=%e5%90%8c%e3%81%98"><span>同じ</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%8f%e3%83%86%e3%83%aa%e3%83%bc%e3%82%92%e3%81%97%e3%81%8b%e3%82%8b%e3%80%82"><span>よくテリーをしかる。</span></a>
+    segments:
+      - text: 先生は私をしかるのと同じ
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: よくテリーをしかる。
+        grammar_highlight: false
+    reading: せんせいはわたしをしかるのとおなじくらいよくテリーをしかる。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: The teacher scolds Terry as often as (she scolds) me.
+        html: |-
+          <span>The teacher scolds Terry as often as (she scolds) me. </span>
+        segments:
+          - text: 'The teacher scolds Terry as often as (she scolds) me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8259
+    position: 24
+    japanese: 彼は速く泳ぐが、私もまったく同じくらい速く泳げる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e9%80%9f%e3%81%8f"><span>速く</span></a><a href="https://takoboto.jp/?q=%e6%b3%b3%e3%81%90%e3%81%8c%e3%80%81"><span>泳ぐが、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%82%82%e3%81%be%e3%81%a3%e3%81%9f%e3%81%8f"><span>私もまったく</span></a><a href="https://takoboto.jp/?q=%e5%90%8c%e3%81%98"><span>同じ</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e9%80%9f%e3%81%8f"><span>速く</span></a><a href="https://takoboto.jp/?q=%e6%b3%b3%e3%81%92%e3%82%8b%e3%80%82"><span>泳げる。</span></a>
+    segments:
+      - text: 彼は速く泳ぐが、私もまったく同じ
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: 速く泳げる。
+        grammar_highlight: false
+    reading: かれははやくおよぐが、わたしもまったくおなじくらいはやくおよげる。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He swims fast, but I can swim just as fast.
+        html: |-
+          <span>He swims fast, but I can swim just as fast. </span>
+        segments:
+          - text: 'He swims fast, but I can swim just as fast. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8260
+    position: 25
+    japanese: 彼は英語を話すが、彼の妹も同じくらいうまく話す。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%82%92"><span>英語を</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%99%e3%81%8c%e3%80%81"><span>話すが、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e5%a6%b9%e3%82%82"><span>妹も</span></a><a href="https://takoboto.jp/?q=%e5%90%8c%e3%81%98"><span>同じ</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%89%e3%81%84"><strong>くらい</strong></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%be%e3%81%8f"><span>うまく</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%99%e3%80%82"><span>話す。</span></a>
+    segments:
+      - text: 彼は英語を話すが、彼の妹も同じ
+        grammar_highlight: false
+      - text: くらい
+        grammar_highlight: true
+      - text: うまく話す。
+        grammar_highlight: false
+    reading: かれはえいごをはなすが、かれのいもうともおなじくらいうまくはなす。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He speaks English, and his little sister does as well.
+        html: |-
+          <span>He speaks English, and his little sister does as well. </span>
+        segments:
+          - text: 'He speaks English, and his little sister does as well. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      kurai 
+
+      literally means how long or much, but often used in conversation for adding an "about" feeling to soften a phrase.
+
+      sometimes pronounced gurai depending on the phrase before; for example if the sentence before ends with a vowel.
+
+      3万ドルぐらい = about 30,000 dollars
+    html: |-
+      kurai <br/><br/>literally means how long or much, but often used in conversation for adding an "about" feeling to soften a phrase.<br/><br/>sometimes pronounced gurai depending on the phrase before; for example if the sentence before ends with a vowel.<br/><br/>3万ドルぐらい = about 30,000 dollars
+    credits_raw: dc
+    content_sha256: 8896f7768f4e12557c892d0899e269f6ce90cf0247516588e10bfdc2ed4ca13b
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: can also mean "if anything", "rather"
+    html: can also mean "if anything", "rather"
+    credits_raw: KotatsuSama
+    content_sha256: 447bacb652fdd3bc8cecb3818b448fe74eaf48eb927732a5767508124ed9d1f2
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Could anyone add a bit more detail to this? I really don't understand it, yet it seems like it's used quite often in Japanese. All the English translations I've found make no sense to me, and "about" isn't very descriptive. Thanks.
+    html: |-
+      Could anyone add a bit more detail to this? I really don't understand it, yet it seems like it's used quite often in Japanese. All the English translations I've found make no sense to me, and "about" isn't very descriptive. Thanks.
+    credits_raw: quobobo
+    content_sha256: 77f552fcbe743e8511bafb07aa078543c418a0468eb5250d1d2ed20e28f91d1a
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: is it dono Gurai or dono Kurai ? is there any rule for this or just depends on the speaker?
+    html: is it dono Gurai or dono Kurai ? is there any rule for this or just depends on the speaker?
+    credits_raw: dc
+    content_sha256: a06a4221263715656cdf9bc830a2b4a0fc2b5a3d61a4f6b7cef5b160a55551e9
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Reply to dc's 質問. I don't think there is any rule for Gurai and Kurai. Even I sometimes think which of them is more often used for a prior word. We often use both like 10分くらい、10分ぐらい、あいさつくらい、あいさつぐらい、どれくらい、どれぐらい。You can see them by Google search.
+    html: |-
+      Reply to dc's 質問. I don't think there is any rule for Gurai and Kurai. Even I sometimes think which of them is more often used for a prior word. We often use both like 10分くらい、10分ぐらい、あいさつくらい、あいさつぐらい、どれくらい、どれぐらい。You can see them by Google search.
+    credits_raw: Miki
+    content_sha256: 330c8f7217a1742de39a69e241f20183c7ba9b3989061ee8071072957142bbba
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      KURAI here implies 程度. the rough standard, the degree, or the range of something. So, ex#609 implies somebody is expected at least a manner something like a hello. ex#3117, somebody is expected to do at least something like what a child can do.
+    html: |-
+      KURAI here implies 程度. the rough standard, the degree, or the range of something. So, ex#609 implies somebody is expected at least a manner something like a hello. ex#3117, somebody is expected to do at least something like what a child can do.
+    credits_raw: your name
+    content_sha256: d0f67d62d24cf6d1e0e73315326e545fd88066a76bbbb2538be8afa36d0bdee3
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      婚約したことを友人くらい伝えたらどうですか。 
+      Why don't you tell your engagement to at least your friends/ to at least somebody like your friends?
+      私にはこれくらいしかできない。 Least I could do. (ex from ALC)
+      アルコール中心の昼食の後で請求書をサッと取れるくらいしらふである 
+      be sober enough to grab the bill at the end of a liquid lunch. (ex from ALC)
+      私が払えるのはそれくらいです。 That's about all I can pay. (ex from ALC)
+    html: |-
+      婚約したことを友人くらい伝えたらどうですか。 <br/>Why don't you tell your engagement to at least your friends/ to at least somebody like your friends?<br/>私にはこれくらいしかできない。 Least I could do. (ex from ALC)<br/>アルコール中心の昼食の後で請求書をサッと取れるくらいしらふである <br/>be sober enough to grab the bill at the end of a liquid lunch. (ex from ALC)<br/>私が払えるのはそれくらいです。 That's about all I can pay. (ex from ALC)
+    credits_raw: your name
+    content_sha256: 0b7a344ae3ca009c4e7c1b8bc1535c32de7a5a4f38c0baa6deeedfff99a83a91
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: See also gurai ぐらい
+    html: See also gurai ぐらい
+    credits_raw: Amatuka
+    content_sha256: af04b056a3d915d00b3a9a80d31c2bda9b192bd88acd1130621df7511261dbff
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: 'Lit : ''the extent (of politeness) of a greeting'''
+    html: 'Lit : ''the extent (of politeness) of a greeting'''
+    credits_raw: Amatuka
+    content_sha256: 5acc655dbb9b4a6e14924185f22921935fea396f1a4ef85bae573f4218fd65ed
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: くらい is used when it comes in as a single word and ぐらい is mainly used in combinations.
+    html: くらい is used when it comes in as a single word and ぐらい is mainly used in combinations.
+    credits_raw: rochin
+    content_sha256: bff87aa1d3716fb121a7d43810b2bbd7c3f869f11f5c639b73675824fe24c5c5
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      What about the as.. as meaning of くらい? I'd add it myself, but I'm not very familiar with it yet. I know なら is with it a lot, though, or some sort of conditional. For example (from the wwwjdic)...
+      あんな男と結婚するくらいなら死んだ方がましだ。 
+      I might as well die as marry such a man. 
+      それをするくらいなら死んだほうがましだ。
+      I may as well die as do it.
+    html: |-
+      What about the as.. as meaning of くらい? I'd add it myself, but I'm not very familiar with it yet. I know なら is with it a lot, though, or some sort of conditional. For example (from the wwwjdic)...<br/>あんな男と結婚するくらいなら死んだ方がましだ。 <br/>I might as well die as marry such a man. <br/>それをするくらいなら死んだほうがましだ。<br/>I may as well die as do it.
+    credits_raw: Megan
+    content_sha256: 05b5558aef287b54c72791677f9e4bf6c2bdb8f22d99907aa3c1d66f6847585b
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      I posted the above submission. My bad... I didn't notice that there was another article covering it. You can delete this and the previous post if you wish. Sorry!
+    html: |-
+      I posted the above submission. My bad... I didn't notice that there was another article covering it. You can delete this and the previous post if you wish. Sorry!
+    credits_raw: ViolaGirl
+    content_sha256: 914f4a425be968f82798bcf0b7b081300e7969b3f059bd1fe10a48a029865ec5
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      I have been taught to use it this way:
+      "ｘはｙくらいです", meaning "Y is about the only X". This can only be used when Y is about the only case where X holds true. X and Y are both either nouns or noun phrases.
+      E.g. 東京が静かになるのは，お盆のころくらいです。
+    html: |-
+      I have been taught to use it this way:<br/>"ｘはｙくらいです", meaning "Y is about the only X". This can only be used when Y is about the only case where X holds true. X and Y are both either nouns or noun phrases.<br/>E.g. 東京が静かになるのは，お盆のころくらいです。
+    credits_raw: mel
+    content_sha256: 536092453f1ef7bddd720e39965d49a47ef1f2aed51d5337b0d7914c5bd751e8
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      駅から大学まで15分ぐらい____いけます
+      ____ should be で or が？
+    html: |-
+      駅から大学まで15分ぐらい____いけます<br/>____ should be で or が？
+    credits_raw: Chia
+    content_sha256: f6228387b68a3631f2b36b405d89ef2dc94481c5dc1a3f2c6fc3dc9c10a4ec86
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1123
+    label: くらい〜はない
+    source_url: https://takoboto.jp/bunpo/1123
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:10+00:00'
+response_sha256: 104858fd8b4b8edb438deb74af20538346526aaf49a0e123b398021487847d5b
+warnings: []

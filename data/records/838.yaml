@@ -1,0 +1,1455 @@
+schema_version: 2
+id: 838
+source: takoboto
+source_url: https://takoboto.jp/bunpo/838/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 限り
+romanized_label: kagiri
+alternate_forms:
+  - かぎり
+jlpt_level: 2
+credits_raw: dc
+meaning: as far as, as long as, until, unless
+meaning_example: as far as I know
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_838
+    body_text: |-
+      as far as, as long as, until, unless 
+       as far as I know
+    body_html: |-
+      <span>as far as, as long as, until, unless</span> <br/> <span>as far as I know</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_838
+    body_text: Verb casual form+限りNoun+である+限りAdjective+限り
+    body_html: |-
+      <div><div><div>Verb casual form</div></div><div><div>+</div><div>限り</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>である</div></div><div><div>+</div><div>限り</div></div></div><div><div><div>Adjective</div></div><div><div>+</div><div>限り</div></div></div>
+    credits_raw: null
+formations:
+  - Verb casual form + 限り
+  - Noun + である + 限り
+  - Adjective + 限り
+examples:
+  - source_id: 1081
+    position: 0
+    japanese: アメリカ人ではない限りこの仕事には就けない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e4%ba%ba%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84"><span>アメリカ人ではない</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><strong>限り</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e4%bb%95%e4%ba%8b%e3%81%ab%e3%81%af%e5%b0%b1%e3%81%91%e3%81%aa%e3%81%84"><span>この仕事には就けない</span></a>
+    segments:
+      - text: アメリカ人ではない
+        grammar_highlight: false
+      - text: 限り
+        grammar_highlight: true
+      - text: この仕事には就けない
+        grammar_highlight: false
+    reading: アメリカじんではないかぎりこのしごとにはつけない
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You cannot apply for this job unless  you are American
+        html: |-
+          <span>You cannot apply for this job </span><strong>unless </strong><span> you are American </span>
+        segments:
+          - text: 'You cannot apply for this job '
+            grammar_highlight: false
+          - text: 'unless '
+            grammar_highlight: true
+          - text: ' you are American '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1161
+    position: 1
+    japanese: 嬉しい限りだ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ac%89%e3%81%97%e3%81%84"><span>嬉しい</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a%e3%81%a0"><strong>限りだ</strong></a>
+    segments:
+      - text: 嬉しい
+        grammar_highlight: false
+      - text: 限りだ
+        grammar_highlight: true
+    reading: うれしいかぎりだ
+    credits_raw: dc
+    translations:
+      - language: en
+        text: As happy as I can be
+        html: |-
+          <span>As happy </span><strong>as I can be </strong>
+        segments:
+          - text: 'As happy '
+            grammar_highlight: false
+          - text: 'as I can be '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1221
+    position: 2
+    japanese: 彼女が太らない限り分かれない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c"><span>彼女が</span></a><a href="https://takoboto.jp/?q=%e5%a4%aa%e3%82%89%e3%81%aa%e3%81%84"><span>太らない</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><strong>限り</strong></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%8c%e3%81%aa%e3%81%84"><span>分かれない</span></a>
+    segments:
+      - text: 彼女が太らない
+        grammar_highlight: false
+      - text: 限り
+        grammar_highlight: true
+      - text: 分かれない
+        grammar_highlight: false
+    reading: かのじょがふとらないかぎりわかれない
+    credits_raw: dc
+    translations:
+      - language: en
+        text: As long as she doesn't get fat, we won't break up
+        html: |-
+          <strong>As long as </strong><span>she doesn't get fat, we won't break up </span>
+        segments:
+          - text: 'As long as '
+            grammar_highlight: true
+          - text: 'she doesn''t get fat, we won''t break up '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1343
+    position: 3
+    japanese: 私が知るかぎりでは、あの人は無実です
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8b"><span>知る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%af%e3%80%81%e3%81%82%e3%81%ae"><span>では、あの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%af"><span>人は</span></a><a href="https://takoboto.jp/?q=%e7%84%a1%e5%ae%9f%e3%81%a7%e3%81%99"><span>無実です</span></a>
+    segments:
+      - text: 私が知る
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: では、あの人は無実です
+        grammar_highlight: false
+    reading: わたしがしるかぎりでは、あのひとはむじつです
+    credits_raw: dc
+    translations:
+      - language: en
+        text: As far as I know, he is innocent.
+        html: |-
+          <strong>As far as </strong><span>I know, he is innocent. </span>
+        segments:
+          - text: 'As far as '
+            grammar_highlight: true
+          - text: 'I know, he is innocent. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1344
+    position: 4
+    japanese: お金を持ってる限り働かない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6%e3%82%8b"><span>持ってる</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><strong>限り</strong></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%8b%e3%81%aa%e3%81%84"><span>働かない</span></a>
+    segments:
+      - text: お金を持ってる
+        grammar_highlight: false
+      - text: 限り
+        grammar_highlight: true
+      - text: 働かない
+        grammar_highlight: false
+    reading: おかねをもってるかぎりはたらかない
+    credits_raw: dc
+    translations:
+      - language: en
+        text: As long as i have money, I won't work
+        html: |-
+          <strong>As long as </strong><span>i have money, I won't work </span>
+        segments:
+          - text: 'As long as '
+            grammar_highlight: true
+          - text: 'i have money, I won''t work '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1347
+    position: 5
+    japanese: 私が理解する限りでは、こんな風に使う
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e7%90%86%e8%a7%a3%e3%81%99%e3%82%8b"><span>理解する</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><strong>限り</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%af%e3%80%81%e3%81%93%e3%82%93%e3%81%aa"><span>では、こんな</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e3%81%ab"><span>風に</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%86"><span>使う</span></a>
+    segments:
+      - text: 私が理解する
+        grammar_highlight: false
+      - text: 限り
+        grammar_highlight: true
+      - text: では、こんな風に使う
+        grammar_highlight: false
+    reading: わたしがりかいするかぎりでは、こんなかぜにつかう
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: As far as I understood, you use it like this
+        html: |-
+          <strong>As far as I understood, </strong><span>you use it like this </span>
+        segments:
+          - text: 'As far as I understood, '
+            grammar_highlight: true
+          - text: 'you use it like this '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3248
+    position: 6
+    japanese: 僕の日本語はあまり上手じゃないけど、「君が好き」と書ける限り、これで十分だよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%83%95%e3%81%ae"><span>僕の</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%af%e3%81%82%e3%81%be%e3%82%8a"><span>日本語はあまり</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%91%e3%81%a9%e3%80%81%e3%80%8c"><span>上手じゃないけど、「</span></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%8c"><span>君が</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%80%8d%e3%81%a8"><span>好き」と</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%91%e3%82%8b"><span>書ける</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><strong>限り</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%93%e3%82%8c%e3%81%a7"><span>、これで</span></a><a href="https://takoboto.jp/?q=%e5%8d%81%e5%88%86%e3%81%a0%e3%82%88%e3%80%82"><span>十分だよ。</span></a>
+    segments:
+      - text: 僕の日本語はあまり上手じゃないけど、「君が好き」と書ける
+        grammar_highlight: false
+      - text: 限り
+        grammar_highlight: true
+      - text: 、これで十分だよ。
+        grammar_highlight: false
+    reading: ぼくのにほんごはあまりじょうずじゃないけど、「きみがすき」とかけるかぎり、これでじゅうぶんだよ。
+    credits_raw: tamago ouji, bamboo4
+    translations:
+      - language: en
+        text: My japanesse isn't very good, but as long as I can write " I like you" it is enough for me.
+        html: |-
+          <span>My japanesse isn't very good, but </span><strong>as long as I can </strong><span>write " I like you" it is enough for me. </span>
+        segments:
+          - text: 'My japanesse isn''t very good, but '
+            grammar_highlight: false
+          - text: 'as long as I can '
+            grammar_highlight: true
+          - text: 'write " I like you" it is enough for me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3986
+    position: 7
+    japanese: あらん限りの大声で。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%89%e3%82%93"><span>あらん</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><strong>限り</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a3%b0%e3%81%a7%e3%80%82"><span>大声で。</span></a>
+    segments:
+      - text: あらん
+        grammar_highlight: false
+      - text: 限り
+        grammar_highlight: true
+      - text: の大声で。
+        grammar_highlight: false
+    reading: あらんかぎりのおおごえで。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: At the top of one's voice.
+        html: |-
+          <span>At the </span><strong>top </strong><span>of one's voice. </span>
+        segments:
+          - text: 'At the '
+            grammar_highlight: false
+          - text: 'top '
+            grammar_highlight: true
+          - text: 'of one''s voice. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3987
+    position: 8
+    japanese: あなたの仕事に精を出さないかぎり成功しないでしょう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>あなたの</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%ab"><span>仕事に</span></a><a href="https://takoboto.jp/?q=%e7%b2%be%e3%82%92"><span>精を</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%95%e3%81%aa%e3%81%84"><span>出さない</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%97%e3%81%aa%e3%81%84%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%80%82"><span>成功しないでしょう。</span></a>
+    segments:
+      - text: あなたの仕事に精を出さない
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 成功しないでしょう。
+        grammar_highlight: false
+    reading: あなたのしごとにせいをださないかぎりせいこうしないでしょう。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You won't succeed unless you attend to your work.
+        html: |-
+          <span>You won't succeed unless you attend to your work. </span>
+        segments:
+          - text: 'You won''t succeed unless you attend to your work. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3988
+    position: 9
+    japanese: あなたは静かにしているかぎりここにいてもよい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e9%9d%99%e3%81%8b%e3%81%ab%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b"><span>静かにしている</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%ab%e3%81%84%e3%81%a6%e3%82%82%e3%82%88%e3%81%84%e3%80%82"><span>ここにいてもよい。</span></a>
+    segments:
+      - text: あなたは静かにしている
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: ここにいてもよい。
+        grammar_highlight: false
+    reading: あなたはしずかにしているかぎりここにいてもよい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You can stay here as long as you keep quiet.
+        html: |-
+          <span>You can stay here as long as you keep quiet. </span>
+        segments:
+          - text: 'You can stay here as long as you keep quiet. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3989
+    position: 10
+    japanese: あなたは彼と一緒にいるかぎり、幸福にはなれません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%a8"><span>彼と</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e7%b7%92%e3%81%ab%e3%81%84%e3%82%8b"><span>一緒にいる</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%b9%b8%e7%a6%8f%e3%81%ab%e3%81%af%e3%81%aa%e3%82%8c%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>幸福にはなれません。</span></a>
+    segments:
+      - text: あなたは彼と一緒にいる
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 、幸福にはなれません。
+        grammar_highlight: false
+    reading: あなたはかれといっしょにいるかぎり、こうふくにはなれません。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As long as you are with him, you can't be happy.
+        html: |-
+          <span>As long as you are with him, you can't be happy. </span>
+        segments:
+          - text: 'As long as you are with him, you can''t be happy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3990
+    position: 11
+    japanese: さきうるかぎりの時間は読書についやす。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%95%e3%81%8d%e3%81%86%e3%82%8b"><span>さきうる</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%96%93%e3%81%af"><span>時間は</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e6%9b%b8%e3%81%ab%e3%81%a4%e3%81%84%e3%82%84%e3%81%99%e3%80%82"><span>読書についやす。</span></a>
+    segments:
+      - text: さきうる
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: の時間は読書についやす。
+        grammar_highlight: false
+    reading: さきうるかぎりのじかんはどくしょについやす。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I spend what time I can spare in reading.
+        html: |-
+          <span>I spend what time I can spare in reading. </span>
+        segments:
+          - text: 'I spend what time I can spare in reading. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3991
+    position: 12
+    japanese: その国民の社会生活に関するかぎりでは、進歩は実に遅々たるものである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%9b%bd%e6%b0%91%e3%81%ae"><span>国民の</span></a><a href="https://takoboto.jp/?q=%e7%a4%be%e4%bc%9a%e7%94%9f%e6%b4%bb%e3%81%ab"><span>社会生活に</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e3%81%99%e3%82%8b"><span>関する</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%af%e3%80%81"><span>では、</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e6%ad%a9%e3%81%af"><span>進歩は</span></a><a href="https://takoboto.jp/?q=%e5%ae%9f%e3%81%ab"><span>実に</span></a><a href="https://takoboto.jp/?q=%e9%81%85%e3%80%85%e3%81%9f%e3%82%8b%e3%82%82%e3%81%ae%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>遅々たるものである。</span></a>
+    segments:
+      - text: その国民の社会生活に関する
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: では、進歩は実に遅々たるものである。
+        grammar_highlight: false
+    reading: そのこくみんのしゃかいせいかつにかんするかぎりでは、しんぽはじつにちちたるものである。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Progress has been very slow indeed, so far as the social life of the people is concerned.
+        html: |-
+          <span>Progress has been very slow indeed, so far as the social life of the people is concerned. </span>
+        segments:
+          - text: 'Progress has been very slow indeed, so far as the social life of the people is concerned. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3992
+    position: 13
+    japanese: できるかぎり話をはっきりさせよう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%8d%e3%82%8b"><span>できる</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%82%92%e3%81%af%e3%81%a3%e3%81%8d%e3%82%8a%e3%81%95%e3%81%9b%e3%82%88%e3%81%86%e3%80%82"><span>話をはっきりさせよう。</span></a>
+    segments:
+      - text: できる
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 話をはっきりさせよう。
+        grammar_highlight: false
+    reading: できるかぎりはなしをはっきりさせよう。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: We'll get this as clear as possible.
+        html: |-
+          <span>We'll get this as clear as possible. </span>
+        segments:
+          - text: 'We''ll get this as clear as possible. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3993
+    position: 14
+    japanese: われわれは生きているかぎりは働かねばならない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%82%8c%e3%82%8f%e3%82%8c%e3%81%af"><span>われわれは</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e3%81%8d%e3%81%a6%e3%81%84%e3%82%8b"><span>生きている</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%af"><span>は</span></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%8b%e3%81%ad%e3%81%b0%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>働かねばならない。</span></a>
+    segments:
+      - text: われわれは生きている
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: は働かねばならない。
+        grammar_highlight: false
+    reading: われわれはいきているかぎりははたらかねばならない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: We must work as long as we live.
+        html: |-
+          <span>We must work as long as we live. </span>
+        segments:
+          - text: 'We must work as long as we live. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3994
+    position: 15
+    japanese: ウェンディは必ずしも日本の祭りに興味があるとはかぎりませんでした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a6%e3%82%a7%e3%83%b3%e3%83%87%e3%82%a3%e3%81%af"><span>ウェンディは</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><span>必ずしも</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ae"><span>日本の</span></a><a href="https://takoboto.jp/?q=%e7%a5%ad%e3%82%8a%e3%81%ab"><span>祭りに</span></a><a href="https://takoboto.jp/?q=%e8%88%88%e5%91%b3%e3%81%8c%e3%81%82%e3%82%8b%e3%81%a8%e3%81%af"><span>興味があるとは</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%9b%e3%82%93%e3%81%a7%e3%81%97%e3%81%9f%e3%80%82"><span>ませんでした。</span></a>
+    segments:
+      - text: ウェンディは必ずしも日本の祭りに興味があるとは
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: ませんでした。
+        grammar_highlight: false
+    reading: はかならずしもにほんのまつりにきょうみがあるとはかぎりませんでした。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Wendy was not always interested in Japanese festival.
+        html: |-
+          <span>Wendy was not always interested in Japanese festival. </span>
+        segments:
+          - text: 'Wendy was not always interested in Japanese festival. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3995
+    position: 16
+    japanese: 給料に関するかぎり、それはよい仕事である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%b5%a6%e6%96%99%e3%81%ab"><span>給料に</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e3%81%99%e3%82%8b"><span>関する</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%82%8c%e3%81%af%e3%82%88%e3%81%84"><span>、それはよい</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>仕事である。</span></a>
+    segments:
+      - text: 給料に関する
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 、それはよい仕事である。
+        grammar_highlight: false
+    reading: きゅうりょうにかんするかぎり、それはよいしごとである。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: It's a good job as far as the pay goes.
+        html: |-
+          <span>It's a good job as far as the pay goes. </span>
+        segments:
+          - text: 'It''s a good job as far as the pay goes. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3996
+    position: 17
+    japanese: 君が最善を尽くすかぎりは君を援助してあげよう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%8c"><span>君が</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e5%96%84%e3%82%92"><span>最善を</span></a><a href="https://takoboto.jp/?q=%e5%b0%bd%e3%81%8f%e3%81%99"><span>尽くす</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%af"><span>は</span></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%82%92"><span>君を</span></a><a href="https://takoboto.jp/?q=%e6%8f%b4%e5%8a%a9%e3%81%97%e3%81%a6%e3%81%82%e3%81%92%e3%82%88%e3%81%86%e3%80%82"><span>援助してあげよう。</span></a>
+    segments:
+      - text: 君が最善を尽くす
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: は君を援助してあげよう。
+        grammar_highlight: false
+    reading: きみがさいぜんをつくすかぎりはきみをえんじょしてあげよう。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I'll help you so long as you do your best.
+        html: |-
+          <span>I'll help you so long as you do your best. </span>
+        segments:
+          - text: 'I''ll help you so long as you do your best. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3997
+    position: 18
+    japanese: 君はここに居るかぎり安全です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%af%e3%81%93%e3%81%93%e3%81%ab"><span>君はここに</span></a><a href="https://takoboto.jp/?q=%e5%b1%85%e3%82%8b"><span>居る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e5%ae%89%e5%85%a8%e3%81%a7%e3%81%99%e3%80%82"><span>安全です。</span></a>
+    segments:
+      - text: 君はここに居る
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 安全です。
+        grammar_highlight: false
+    reading: きみはここにいるかぎりあんぜんです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You are safe so long as you stay here.
+        html: |-
+          <span>You are safe so long as you stay here. </span>
+        segments:
+          - text: 'You are safe so long as you stay here. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3998
+    position: 19
+    japanese: 見わたすかぎり砂のほかには見えなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8f%e3%81%9f%e3%81%99"><span>見わたす</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e7%a0%82%e3%81%ae%e3%81%bb%e3%81%8b%e3%81%ab%e3%81%af"><span>砂のほかには</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%88%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>見えなかった。</span></a>
+    segments:
+      - text: 見わたす
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 砂のほかには見えなかった。
+        grammar_highlight: false
+    reading: みわたすかぎりすなのほかにはみえなかった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As far as the eye could reach, nothing was to be seen but sand.
+        html: |-
+          <span>As far as the eye could reach, nothing was to be seen but sand. </span>
+        segments:
+          - text: 'As far as the eye could reach, nothing was to be seen but sand. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3999
+    position: 20
+    japanese: 見渡すかぎり、すべては雪におおわれていた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a6%8b%e6%b8%a1%e3%81%99"><span>見渡す</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%99%e3%81%b9%e3%81%a6%e3%81%af"><span>、すべては</span></a><a href="https://takoboto.jp/?q=%e9%9b%aa%e3%81%ab%e3%81%8a%e3%81%8a%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%84%e3%81%9f%e3%80%82"><span>雪におおわれていた。</span></a>
+    segments:
+      - text: 見渡す
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 、すべては雪におおわれていた。
+        grammar_highlight: false
+    reading: みわたすかぎり、すべてはゆきにおおわれていた。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As far as I could see, everything was covered with snow.
+        html: |-
+          <span>As far as I could see, everything was covered with snow. </span>
+        segments:
+          - text: 'As far as I could see, everything was covered with snow. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4000
+    position: 21
+    japanese: 見渡すかぎり砂のほかには何も見えなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a6%8b%e6%b8%a1%e3%81%99"><span>見渡す</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e7%a0%82%e3%81%ae%e3%81%bb%e3%81%8b%e3%81%ab%e3%81%af"><span>砂のほかには</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%82"><span>何も</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%88%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>見えなかった。</span></a>
+    segments:
+      - text: 見渡す
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 砂のほかには何も見えなかった。
+        grammar_highlight: false
+    reading: みわたすかぎりすなのほかにはなにもみえなかった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As far as the eye could reach, nothing was to be seen but sand.
+        html: |-
+          <span>As far as the eye could reach, nothing was to be seen but sand. </span>
+        segments:
+          - text: 'As far as the eye could reach, nothing was to be seen but sand. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4001
+    position: 22
+    japanese: 思いもよらないことが起こらないかぎり、きっとうまくいくはずだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84%e3%82%82%e3%82%88%e3%82%89%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%8c"><span>思いもよらないことが</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%93%e3%82%89%e3%81%aa%e3%81%84"><span>起こらない</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%8d%e3%81%a3%e3%81%a8%e3%81%86%e3%81%be%e3%81%8f%e3%81%84%e3%81%8f%e3%81%af%e3%81%9a%e3%81%a0%e3%80%82"><span>、きっとうまくいくはずだ。</span></a>
+    segments:
+      - text: 思いもよらないことが起こらない
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 、きっとうまくいくはずだ。
+        grammar_highlight: false
+    reading: おもいもよらないことがおこらないかぎり、きっとうまくいくはずだ。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Barring anything unforeseen everything should turn all right.
+        html: |-
+          <span>Barring anything unforeseen everything should turn all right. </span>
+        segments:
+          - text: 'Barring anything unforeseen everything should turn all right. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4002
+    position: 23
+    japanese: 私が生きているかぎりあなたに不自由はさせない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e3%81%8d%e3%81%a6%e3%81%84%e3%82%8b"><span>生きている</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab"><span>あなたに</span></a><a href="https://takoboto.jp/?q=%e4%b8%8d%e8%87%aa%e7%94%b1%e3%81%af%e3%81%95%e3%81%9b%e3%81%aa%e3%81%84%e3%80%82"><span>不自由はさせない。</span></a>
+    segments:
+      - text: 私が生きている
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: あなたに不自由はさせない。
+        grammar_highlight: false
+    reading: わたしがいきているかぎりあなたにふじゆうはさせない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You shall want for nothing as long as I live.
+        html: |-
+          <span>You shall want for nothing as long as I live. </span>
+        segments:
+          - text: 'You shall want for nothing as long as I live. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4003
+    position: 24
+    japanese: 私が知るかぎり、１学期の間は何も問題がなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8b"><span>知る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%e5%ad%a6%e6%9c%9f%e3%81%ae"><span>１学期の</span></a><a href="https://takoboto.jp/?q=%e9%96%93%e3%81%af"><span>間は</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%82"><span>何も</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%8c%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>問題がなかった。</span></a>
+    segments:
+      - text: 私が知る
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 、１学期の間は何も問題がなかった。
+        grammar_highlight: false
+    reading: わたしがしるかぎり、１がっきのまはなにももんだいがなかった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As far as I am aware, there were no problems during the first semester.
+        html: |-
+          <span>As far as I am aware, there were no problems during the first semester. </span>
+        segments:
+          - text: 'As far as I am aware, there were no problems during the first semester. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4004
+    position: 25
+    japanese: 私が知るかぎり彼女は大変よい人だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8b"><span>知る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a4%89%e3%82%88%e3%81%84"><span>大変よい</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%a0%e3%80%82"><span>人だ。</span></a>
+    segments:
+      - text: 私が知る
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 彼女は大変よい人だ。
+        grammar_highlight: false
+    reading: わたしがしるかぎりかのじょはたいへんよいひとだ。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As long as I know she is a very good person.
+        html: |-
+          <span>As long as I know she is a very good person. </span>
+        segments:
+          - text: 'As long as I know she is a very good person. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4005
+    position: 26
+    japanese: 私たちは食料と水の蓄えがもつかぎりここにいられる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%9f%e3%81%a1%e3%81%af"><span>私たちは</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e6%96%99%e3%81%a8"><span>食料と</span></a><a href="https://takoboto.jp/?q=%e6%b0%b4%e3%81%ae"><span>水の</span></a><a href="https://takoboto.jp/?q=%e8%93%84%e3%81%88%e3%81%8c%e3%82%82%e3%81%a4"><span>蓄えがもつ</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%ab%e3%81%84%e3%82%89%e3%82%8c%e3%82%8b%e3%80%82"><span>ここにいられる。</span></a>
+    segments:
+      - text: 私たちは食料と水の蓄えがもつ
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: ここにいられる。
+        grammar_highlight: false
+    reading: わたしたちはしょくりょうとみずのたくわえがもつかぎりここにいられる。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: We can stay here for as long as our supplies of food and water hold out.
+        html: |-
+          <span>We can stay here for as long as our supplies of food and water hold out. </span>
+        segments:
+          - text: 'We can stay here for as long as our supplies of food and water hold out. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4006
+    position: 27
+    japanese: 私の知るかぎり、彼は信用のできる人だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8b"><span>知る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e4%bf%a1%e7%94%a8%e3%81%ae%e3%81%a7%e3%81%8d%e3%82%8b"><span>信用のできる</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%a0%e3%80%82"><span>人だ。</span></a>
+    segments:
+      - text: 私の知る
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 、彼は信用のできる人だ。
+        grammar_highlight: false
+    reading: わたしのしるかぎり、かれはしんようのできるひとだ。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: To the best of my knowledge, he is a reliable person.
+        html: |-
+          <span>To the best of my knowledge, he is a reliable person. </span>
+        segments:
+          - text: 'To the best of my knowledge, he is a reliable person. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4007
+    position: 28
+    japanese: 私の知るかぎり、彼は無罪です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8b"><span>知る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e7%84%a1%e7%bd%aa%e3%81%a7%e3%81%99%e3%80%82"><span>無罪です。</span></a>
+    segments:
+      - text: 私の知る
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 、彼は無罪です。
+        grammar_highlight: false
+    reading: わたしのしるかぎり、かれはむざいです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As far as I know, he is innocent.
+        html: |-
+          <span>As far as I know, he is innocent. </span>
+        segments:
+          - text: 'As far as I know, he is innocent. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4008
+    position: 29
+    japanese: 私の知るかぎりでは、誰一人それをした人はいません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8b"><span>知る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%af%e3%80%81"><span>では、</span></a><a href="https://takoboto.jp/?q=%e8%aa%b0%e4%b8%80%e4%ba%ba%e3%81%9d%e3%82%8c%e3%82%92%e3%81%97%e3%81%9f"><span>誰一人それをした</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%af%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>人はいません。</span></a>
+    segments:
+      - text: 私の知る
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: では、誰一人それをした人はいません。
+        grammar_highlight: false
+    reading: わたしのしるかぎりでは、だれいちにんそれをしたひとはいません。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As far as I know, no one has ever done it.
+        html: |-
+          <span>As far as I know, no one has ever done it. </span>
+        segments:
+          - text: 'As far as I know, no one has ever done it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4009
+    position: 30
+    japanese: 私の知るかぎりでは。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8b"><span>知る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%af%e3%80%82"><span>では。</span></a>
+    segments:
+      - text: 私の知る
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: では。
+        grammar_highlight: false
+    reading: わたしのしるかぎりでは。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As for as I know.
+        html: |-
+          <span>As for as I know. </span>
+        segments:
+          - text: 'As for as I know. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4010
+    position: 31
+    japanese: 私の知るかぎりでは彼は正直です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8b"><span>知る</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%af"><span>では</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%ad%a3%e7%9b%b4%e3%81%a7%e3%81%99%e3%80%82"><span>正直です。</span></a>
+    segments:
+      - text: 私の知る
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: では彼は正直です。
+        grammar_highlight: false
+    reading: わたしのしるかぎりではかれはしょうじきです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As far as I know, he is honest.
+        html: |-
+          <span>As far as I know, he is honest. </span>
+        segments:
+          - text: 'As far as I know, he is honest. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4011
+    position: 32
+    japanese: 私はできるかぎりの援助を彼にさしのべるつもりです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%a7%e3%81%8d%e3%82%8b"><span>私はできる</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e6%8f%b4%e5%8a%a9%e3%82%92"><span>援助を</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab%e3%81%95%e3%81%97%e3%81%ae%e3%81%b9%e3%82%8b%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a7%e3%81%99%e3%80%82"><span>彼にさしのべるつもりです。</span></a>
+    segments:
+      - text: 私はできる
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: の援助を彼にさしのべるつもりです。
+        grammar_highlight: false
+    reading: わたしはできるかぎりのえんじょをかれにさしのべるつもりです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I'll offer what help I can.
+        html: |-
+          <span>I'll offer what help I can. </span>
+        segments:
+          - text: 'I''ll offer what help I can. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4012
+    position: 33
+    japanese: 私はできるかぎりの援助を彼に差しのべるつもりです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%a7%e3%81%8d%e3%82%8b"><span>私はできる</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e6%8f%b4%e5%8a%a9%e3%82%92"><span>援助を</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab"><span>彼に</span></a><a href="https://takoboto.jp/?q=%e5%b7%ae%e3%81%97%e3%81%ae%e3%81%b9%e3%82%8b%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a7%e3%81%99%e3%80%82"><span>差しのべるつもりです。</span></a>
+    segments:
+      - text: 私はできる
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: の援助を彼に差しのべるつもりです。
+        grammar_highlight: false
+    reading: わたしはできるかぎりのえんじょをかれにさしのべるつもりです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I'll offer him what help I can.
+        html: |-
+          <span>I'll offer him what help I can. </span>
+        segments:
+          - text: 'I''ll offer him what help I can. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4013
+    position: 34
+    japanese: 私はできるかぎり熱心に働いた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%a7%e3%81%8d%e3%82%8b"><span>私はできる</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e7%86%b1%e5%bf%83%e3%81%ab"><span>熱心に</span></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%84%e3%81%9f%e3%80%82"><span>働いた。</span></a>
+    segments:
+      - text: 私はできる
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 熱心に働いた。
+        grammar_highlight: false
+    reading: わたしはできるかぎりねっしんにはたらいた。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I worked as hard as possible.
+        html: |-
+          <span>I worked as hard as possible. </span>
+        segments:
+          - text: 'I worked as hard as possible. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4014
+    position: 35
+    japanese: 私は日曜日にはいつも家にいるとはかぎりません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9b%9c%e6%97%a5%e3%81%ab%e3%81%af%e3%81%84%e3%81%a4%e3%82%82"><span>日曜日にはいつも</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e3%81%ab%e3%81%84%e3%82%8b%e3%81%a8%e3%81%af"><span>家にいるとは</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>ません。</span></a>
+    segments:
+      - text: 私は日曜日にはいつも家にいるとは
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: ません。
+        grammar_highlight: false
+    reading: わたしはにちようびにはいつもいえにいるとはかぎりません。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I'm not always at home on Sundays.
+        html: |-
+          <span>I'm not always at home on Sundays. </span>
+        segments:
+          - text: 'I''m not always at home on Sundays. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4015
+    position: 36
+    japanese: 社会生活に関するかぎり、その進歩は実に遅々たるものであった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a4%be%e4%bc%9a%e7%94%9f%e6%b4%bb%e3%81%ab"><span>社会生活に</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e3%81%99%e3%82%8b"><span>関する</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%81%ae"><span>、その</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e6%ad%a9%e3%81%af"><span>進歩は</span></a><a href="https://takoboto.jp/?q=%e5%ae%9f%e3%81%ab"><span>実に</span></a><a href="https://takoboto.jp/?q=%e9%81%85%e3%80%85%e3%81%9f%e3%82%8b%e3%82%82%e3%81%ae%e3%81%a7%e3%81%82%e3%81%a3%e3%81%9f%e3%80%82"><span>遅々たるものであった。</span></a>
+    segments:
+      - text: 社会生活に関する
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 、その進歩は実に遅々たるものであった。
+        grammar_highlight: false
+    reading: しゃかいせいかつにかんするかぎり、そのしんぽはじつにちちたるものであった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Progress has been very slow indeed, so far as social life is concerned.
+        html: |-
+          <span>Progress has been very slow indeed, so far as social life is concerned. </span>
+        segments:
+          - text: 'Progress has been very slow indeed, so far as social life is concerned. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4016
+    position: 37
+    japanese: 食べすぎないかぎり、何を食べてもかまわない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%99%e3%81%8e%e3%81%aa%e3%81%84"><span>食べすぎない</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%92"><span>何を</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%a6%e3%82%82%e3%81%8b%e3%81%be%e3%82%8f%e3%81%aa%e3%81%84%e3%80%82"><span>食べてもかまわない。</span></a>
+    segments:
+      - text: 食べすぎない
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 、何を食べてもかまわない。
+        grammar_highlight: false
+    reading: たべすぎないかぎり、なにをたべてもかまわない。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You may eat anything so long as you don't eat too much.
+        html: |-
+          <span>You may eat anything so long as you don't eat too much. </span>
+        segments:
+          - text: 'You may eat anything so long as you don''t eat too much. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4017
+    position: 38
+    japanese: 生きているかぎり、ご恩は決して忘れません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%94%9f%e3%81%8d%e3%81%a6%e3%81%84%e3%82%8b"><span>生きている</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%94"><span>、ご</span></a><a href="https://takoboto.jp/?q=%e6%81%a9%e3%81%af"><span>恩は</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e3%81%97%e3%81%a6"><span>決して</span></a><a href="https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>忘れません。</span></a>
+    segments:
+      - text: 生きている
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 、ご恩は決して忘れません。
+        grammar_highlight: false
+    reading: いきているかぎり、ごおんはけっしてわすれません。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: I'll never forget your kindness while I live.
+        html: |-
+          <span>I'll never forget your kindness while I live. </span>
+        segments:
+          - text: 'I''ll never forget your kindness while I live. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4018
+    position: 39
+    japanese: 生きているかぎり彼女は彼の親切を忘れなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%94%9f%e3%81%8d%e3%81%a6%e3%81%84%e3%82%8b"><span>生きている</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%82%8a"><strong>かぎり</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e8%a6%aa%e5%88%87%e3%82%92"><span>親切を</span></a><a href="https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>忘れなかった。</span></a>
+    segments:
+      - text: 生きている
+        grammar_highlight: false
+      - text: かぎり
+        grammar_highlight: true
+      - text: 彼女は彼の親切を忘れなかった。
+        grammar_highlight: false
+    reading: いきているかぎりかのじょはかれのしんせつをわすれなかった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: She did not forget his kindness as long as she lived.
+        html: |-
+          <span>She did not forget his kindness as long as she lived. </span>
+        segments:
+          - text: 'She did not forget his kindness as long as she lived. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5941
+    position: 40
+    japanese: 出来る限り協力します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%87%ba%e6%9d%a5%e3%82%8b"><span>出来る</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><span>限り</span></a><a href="https://takoboto.jp/?q=%e5%8d%94%e5%8a%9b%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>協力します。</span></a>
+    segments:
+      - text: 出来る限り協力します。
+        grammar_highlight: false
+    reading: できるかぎりきょうりょくします。
+    credits_raw: prashant007
+    translations:
+      - language: en
+        text: As much as possible I will cooperate you.
+        html: |-
+          <span>As much as possible I will cooperate you. </span>
+        segments:
+          - text: 'As much as possible I will cooperate you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8195
+    position: 41
+    japanese: 彼がここにいる限り私の仕事が増えるだろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c%e3%81%93%e3%81%93%e3%81%ab%e3%81%84%e3%82%8b"><span>彼がここにいる</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><strong>限り</strong></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%8c"><span>仕事が</span></a><a href="https://takoboto.jp/?q=%e5%a2%97%e3%81%88%e3%82%8b%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>増えるだろう。</span></a>
+    segments:
+      - text: 彼がここにいる
+        grammar_highlight: false
+      - text: 限り
+        grammar_highlight: true
+      - text: 私の仕事が増えるだろう。
+        grammar_highlight: false
+    reading: かれがここにいるかぎりわたしのしごとがふえるだろう。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: As long as he`s here I`ll have more work to do.
+        html: |-
+          <span>As long as he`s here I`ll have more work to do. </span>
+        segments:
+          - text: 'As long as he`s here I`ll have more work to do. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8196
+    position: 42
+    japanese: 彼はあまり疲れていない限り夜遅くまで働きます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%82%e3%81%be%e3%82%8a"><span>彼はあまり</span></a><a href="https://takoboto.jp/?q=%e7%96%b2%e3%82%8c%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84"><span>疲れていない</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><strong>限り</strong></a><a href="https://takoboto.jp/?q=%e5%a4%9c%e9%81%85%e3%81%8f%e3%81%be%e3%81%a7"><span>夜遅くまで</span></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%8d%e3%81%be%e3%81%99%e3%80%82"><span>働きます。</span></a>
+    segments:
+      - text: 彼はあまり疲れていない
+        grammar_highlight: false
+      - text: 限り
+        grammar_highlight: true
+      - text: 夜遅くまで働きます。
+        grammar_highlight: false
+    reading: かれはあまりつかれていないかぎりよるおそくまではたらきます。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He works late at night unless (he`s) too tired.
+        html: |-
+          <span>He works late at night unless (he`s) too tired. </span>
+        segments:
+          - text: 'He works late at night unless (he`s) too tired. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8660
+    position: 43
+    japanese: 彼はテストのために勉強するのを忘れない限り、大丈夫だと思います。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%83%86%e3%82%b9%e3%83%88%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ab"><span>彼はテストのために</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%99%e3%82%8b%e3%81%ae%e3%82%92"><span>勉強するのを</span></a><a href="https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%81%aa%e3%81%84"><span>忘れない</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><strong>限り</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e4%b8%88%e5%a4%ab%e3%81%a0%e3%81%a8"><span>大丈夫だと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>思います。</span></a>
+    segments:
+      - text: 彼はテストのために勉強するのを忘れない
+        grammar_highlight: false
+      - text: 限り
+        grammar_highlight: true
+      - text: 、大丈夫だと思います。
+        grammar_highlight: false
+    reading: かれはテストのためにべんきょうするのをわすれないかぎり、だいじょうぶだとおもいます。
+    credits_raw: Sakuratree
+    translations:
+      - language: en
+        text: I think as long as he doesn`t forget to study for the test, he`ll be okay.
+        html: |-
+          <span>I think as long as he doesn`t forget to study for the test, he`ll be okay. </span>
+        segments:
+          - text: 'I think as long as he doesn`t forget to study for the test, he`ll be okay. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8724
+    position: 44
+    japanese: 自分が反省しない限りいつまでも自分の成功は夢になるわけだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%8c"><span>自分が</span></a><a href="https://takoboto.jp/?q=%e5%8f%8d%e7%9c%81%e3%81%97%e3%81%aa%e3%81%84"><span>反省しない</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><strong>限り</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%a4%e3%81%be%e3%81%a7%e3%82%82"><span>いつまでも</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae"><span>自分の</span></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%af"><span>成功は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a2%e3%81%ab%e3%81%aa%e3%82%8b%e3%82%8f%e3%81%91%e3%81%a0%e3%80%82"><span>夢になるわけだ。</span></a>
+    segments:
+      - text: 自分が反省しない
+        grammar_highlight: false
+      - text: 限り
+        grammar_highlight: true
+      - text: いつまでも自分の成功は夢になるわけだ。
+        grammar_highlight: false
+    reading: じぶんがはんせいしないかぎりいつまでもじぶんのせいこうはゆめになるわけだ。
+    credits_raw: baenur
+    translations:
+      - language: en
+        text: As long as I do not reflect on myself, my success is a dream.
+        html: |-
+          <span>As long as I do not reflect on myself, my success is a dream. </span>
+        segments:
+          - text: 'As long as I do not reflect on myself, my success is a dream. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8834
+    position: 45
+    japanese: 日本語がペラペラではない限り、勉強に打ち込み続けるつもりです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%8c%e3%83%9a%e3%83%a9%e3%83%9a%e3%83%a9%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e9%99%90%e3%82%8a%e3%80%81%e5%8b%89%e5%bc%b7%e3%81%ab%e6%89%93%e3%81%a1%e8%be%bc%e3%81%bf%e7%b6%9a%e3%81%91%e3%82%8b%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a7%e3%81%99%e3%80%82"><span>日本語がペラペラではない限り、勉強に打ち込み続けるつもりです。</span></a>
+    segments:
+      - text: 日本語がペラペラではない限り、勉強に打ち込み続けるつもりです。
+        grammar_highlight: false
+    reading: にほんごがペラペラではないかぎり、べんきょうにうちこみつづけるつもりです。
+    credits_raw: null
+    translations:
+      - language: en
+        text: As long as my Japanese is not fluent, I will continue to devote myself to my studies.
+        html: |-
+          <span>As long as my Japanese is not fluent, I will continue to devote myself to my studies. </span>
+        segments:
+          - text: 'As long as my Japanese is not fluent, I will continue to devote myself to my studies. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      １．〜限り／〜ない限り　：〜という状態が続く中では
+
+      ２．〜限りでは：〜範囲では
+
+      ３．〜限りだ：最高に〜だ；（感情を表す形容詞につく）e.g.: 嬉しい限りだ、羨ましい限りだ．．．
+      　　「〜限りだ」は一級の文法です。
+
+      ４．〜とは限らない：　絶対〜とは言えない
+       Meaning: "It doen't absolutely means that ......" Quite similar to 〜というものではない
+    html: |-
+      １．〜限り／〜ない限り　：〜という状態が続く中では<br/><br/>２．〜限りでは：〜範囲では<br/><br/>３．〜限りだ：最高に〜だ；（感情を表す形容詞につく）e.g.: 嬉しい限りだ、羨ましい限りだ．．．<br/>　　「〜限りだ」は一級の文法です。<br/><br/>４．〜とは限らない：　絶対〜とは言えない<br/> Meaning: "It doen't absolutely means that ......" Quite similar to 〜というものではない
+    credits_raw: 誠
+    content_sha256: 50ccdf0eb96ebcfcbb2c9b745c24fbc455fcf79f4b3faf255b12878bf16d8b3a
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      This is a conjuction which express the idea "as long as" ..
+
+      私が日本にいる限り心配は無用です
+      As long as I am in japan you dont need to worry.
+    html: |-
+      This is a conjuction which express the idea "as long as" ..<br/><br/>私が日本にいる限り心配は無用です<br/>As long as I am in japan you dont need to worry.
+    credits_raw: brij_shukla2000
+    content_sha256: d968d2c60c9181362d3a8bfd61946711b8d653c5391783324a69a402b2ae297c
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 'I edited #1374 because 分かった限り is stilted and should perhaps be 理解する限り.'
+    html: 'I edited #1374 because 分かった限り is stilted and should perhaps be 理解する限り.'
+    credits_raw: bamboo4
+    content_sha256: 37eee3e43449ad1639f2913337ff321fd32c63787efabd7d6ca9d2c4aec50a59
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      adjectives cannot precede kagiri
+      XX 面白い限り続ける
+      XX As long i find it interesting, i will continue
+    html: |-
+      adjectives cannot precede kagiri<br/>XX 面白い限り続ける<br/>XX As long i find it interesting, i will continue
+    credits_raw: dc
+    content_sha256: 8f2977a499fbc232fb95be8cc8eaf466b5d09d714c3d74c4a45e7b01dd1a0a7d
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: うれしい限りです - as happy as i can be
+    html: うれしい限りです - as happy as i can be
+    credits_raw: dc
+    content_sha256: 0c81ecc1bdad0f80e15f4a3cc9b6cf675ad9623c9b9546366ddf16bde8e55e21
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: 直した
+    html: 直した
+    credits_raw: dc
+    content_sha256: 118c8647ddaf17640591d981e657db7b96a0fd639a3142781f5430aacb2e7deb
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      Can this be used for past tense? See ex5:
+      私が 分かった 限り では、こんな風に使う
+    html: |-
+      Can this be used for past tense? See ex5:<br/>私が 分かった 限り では、こんな風に使う
+    credits_raw: dc
+    content_sha256: c57c97050c4542c6747475f0d65f9e785ae2b59297eacf726cf914fdd1e2b18b
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: Yes, you can but こんな風に使っている is more natural.
+    html: Yes, you can but こんな風に使っている is more natural.
+    credits_raw: Miki
+    content_sha256: c48bd26b1a1c2b7c5539a727571a7066de57e67726cd61aaf5a87fa92f023611
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: What is the difference between からには and 限り?
+    html: What is the difference between からには and 限り?
+    credits_raw: anon
+    content_sha256: 890e8abb789b7da1f55c0215194253ec4f8485f12e78a95c9ee46960a1438e35
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      [karaniha] seems to imply a "since" or "because" meaning. 
+      ⇒ "since I am in Paris (I try and speak french)"
+      パリにいるからには、フランスごを話そう。
+
+      [kagiri] seems to imply until something will change.
+      ⇒ "while I remain in Paris (I will speak french)"
+
+      [kagiri] is also "up until the limit"...
+      "I will speak french (as best I can)"
+      出来る限りにフランスごを話そう
+
+      a comparative example:
+      [kagiri]
+      パリにいる限りにフランスごを話さなければならない
+      While i am in Paris, i have to speak french
+      (ie until I leave)
+
+      [karaniha]
+      パリにいるからには、フランスごを話そう。
+      since I am in Paris (I will try and speak french)
+    html: |-
+      [karaniha] seems to imply a "since" or "because" meaning. <br/>⇒ "since I am in Paris (I try and speak french)"<br/>パリにいるからには、フランスごを話そう。<br/><br/>[kagiri] seems to imply until something will change.<br/>⇒ "while I remain in Paris (I will speak french)"<br/><br/>[kagiri] is also "up until the limit"...<br/>"I will speak french (as best I can)"<br/>出来る限りにフランスごを話そう<br/><br/>a comparative example:<br/>[kagiri]<br/>パリにいる限りにフランスごを話さなければならない<br/>While i am in Paris, i have to speak french<br/>(ie until I leave)<br/><br/>[karaniha]<br/>パリにいるからには、フランスごを話そう。<br/>since I am in Paris (I will try and speak french)
+    credits_raw: dc
+    content_sha256: 546c9e08c476753f40f48dcdd5b0fbc32bae060a82eec3cba754c424b5c5353a
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: フランス語 仏語
+    html: フランス語 仏語
+    credits_raw: Miki
+    content_sha256: 8de3f615cd6b92e1fa2381eea8fdd96d05ad2f9c5a280bfc27d048247a7fa27a
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: いるからには has the nuance of "so long as I am ... Imight as well."
+    html: いるからには has the nuance of "so long as I am ... Imight as well."
+    credits_raw: bamboo4
+    content_sha256: b1a62acb141f9410337f07e79c7ae0a36e5a806aa205aae0b173f02b65d66367
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      Formed from Verb + kagiri.
+      Vru (dictionary), V continuing, V past tense etc. 
+      are OK.
+      V = verb
+    html: |-
+      Formed from Verb + kagiri.<br/>Vru (dictionary), V continuing, V past tense etc. <br/>are OK.<br/>V = verb
+    credits_raw: Amatuka
+    content_sha256: 1a74181b7c0e17a0f6f087fd0643216bf32dd742d2e10151e3638ca08df9d2ad
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: 'The third example should be: お金を持っている限り働かない。'
+    html: 'The third example should be: お金を持っている限り働かない。'
+    credits_raw: bamboo4
+    content_sha256: 82083685229f6b013823f8814c1b5ee5f27066309018b49b22759b2ce5cbfbf6
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: In the first example, あの人は罪はないはずです is kind of awkward. あの人は無実です is better.
+    html: In the first example, あの人は罪はないはずです is kind of awkward. あの人は無実です is better.
+    credits_raw: bamboo4
+    content_sha256: d463415efd3ee5dd0ca713d0fdbf12f7ae9631fbebdea7d419959791d3689fc7
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: |-
+      ex#3248, I think that「君が好き」を書ければ、これで十分だよ。is more natural because it's obvious you know other Japanese from 僕の日本語はあまり上手じゃないけれど。
+      If it is 僕は日本語がわからないけれど、the latter is perfect.
+    html: |-
+      ex#3248, I think that「君が好き」を書ければ、これで十分だよ。is more natural because it's obvious you know other Japanese from 僕の日本語はあまり上手じゃないけれど。<br/>If it is 僕は日本語がわからないけれど、the latter is perfect.
+    credits_raw: Miki
+    content_sha256: 2454f30982e6b7aa6e79ce013dff561074e26b511c9b3d659f8f07766440951f
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: 'Re #3248, the use of 限り in that context is stilted. 僕の日本語は下手だけど、「君が好き」と書けるんだから、それで十分だよ would be more natural.'
+    html: 'Re #3248, the use of 限り in that context is stilted. 僕の日本語は下手だけど、「君が好き」と書けるんだから、それで十分だよ would be more natural.'
+    credits_raw: bamboo4
+    content_sha256: d36b3f9c74d3b9db2868112343071f7ddeb39ae03df52f5a0b2922dea10a800f
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: 〜からには／〜からは：〜という事情があるのだから．．．（強い意志、主張、判断、断定）
+    html: 〜からには／〜からは：〜という事情があるのだから．．．（強い意志、主張、判断、断定）
+    credits_raw: 誠
+    content_sha256: c8bacff6f0511f4c7abd757351d645ab75dde782254079782b1aecb5e5f34a45
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    source_id: null
+    text: |-
+      ex #4001 should be translated into something like this "As long as the unforeseen doesn't take place/doesn't occur, everything is sure to be turning out right."
+    html: |-
+      ex #4001 should be translated into something like this "As long as the unforeseen doesn't take place/doesn't occur, everything is sure to be turning out right."
+    credits_raw: 誠
+    content_sha256: 4bbc3913565e64a670b9031cfafb6f8d296c3da5862e64acc6f401fa601858aa
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    source_id: null
+    text: |-
+      ex #3994 and ex #4014 belongs to another entry or category of 〜とは限らない which means ”絶対〜とは言えない", so the translation in English should be : 
+      "For Wendy,it doesn't absolutely mean that she must have interest in Japanese festivals." I use "For her " since it is ウェンディは、If it is ウェンディが then the translation would literally be "It doesn't absolutely mean that Wendy must have interest in Japanese festivals"
+    html: |-
+      ex #3994 and ex #4014 belongs to another entry or category of 〜とは限らない which means ”絶対〜とは言えない", so the translation in English should be : <br/>"For Wendy,it doesn't absolutely mean that she must have interest in Japanese festivals." I use "For her " since it is ウェンディは、If it is ウェンディが then the translation would literally be "It doesn't absolutely mean that Wendy must have interest in Japanese festivals"
+    credits_raw: 誠
+    content_sha256: 674caf4533f119fb06bb50a1b09020cc428af6944477daca4a28ed0b711008e3
+    original_created_at: null
+    original_updated_at: null
+  - position: 20
+    source_id: null
+    text: |-
+      ex #4003 , ex #4004, ex #4006, ex #4007, should use 限りでは(as far as...), therefore it is 私の知る限りでは, instead of 私が知る限り(as long as I know,..). "as far as ..." and "as long as..." has a significant difference. Even in English, we don't often say "as long as I know.." but instead "as far as I know.." ." as far as ..." gives a boundary or limit or extent to one's action, whereas " as long as ...." gives a condition or period of one's action or one's state being continuosly so. Please refer the added notes at the top of this page.Thank you
+    html: |-
+      ex #4003 , ex #4004, ex #4006, ex #4007, should use 限りでは(as far as...), therefore it is 私の知る限りでは, instead of 私が知る限り(as long as I know,..). "as far as ..." and "as long as..." has a significant difference. Even in English, we don't often say "as long as I know.." but instead "as far as I know.." ." as far as ..." gives a boundary or limit or extent to one's action, whereas " as long as ...." gives a condition or period of one's action or one's state being continuosly so. Please refer the added notes at the top of this page.Thank you
+    credits_raw: 誠
+    content_sha256: 5542595fae543b22e69866eb81d90c891563bc9c1f094e120afb6d01fa2390a5
+    original_created_at: null
+    original_updated_at: null
+  - position: 21
+    source_id: null
+    text: 'ex #1161 and ex #3986 belongs to a different category. It means " at the height of..."'
+    html: 'ex #1161 and ex #3986 belongs to a different category. It means " at the height of..."'
+    credits_raw: 誠
+    content_sha256: 0c7e77bedcd7154619686ff1f1d83bca115410007608a107d34fa558d44bf7bd
+    original_created_at: null
+    original_updated_at: null
+  - position: 22
+    source_id: null
+    text: |-
+      There are many other forms using 限る as root besides the ４ in the added notes above:
+
+      １．〜に限ったことではない：　〜だけではない
+      e.g. :「いじめは子供の世界に限ったことではない。大人の世界にもある。」
+
+      ２．〜ないとも限らない：　〜可能性がある、「１００％〜ない」とは言えない
+      e.g.: 「電車が遅れないとも限らないから、早く家を出ましょう。」
+
+      ３．〜限りで：　〜を最後にして "Until/By this〜" or "By 〜 as the last of..."
+      e.g.: 「無料サ―ビスは、今週限りで終わらせて頂きます。」
+
+      ４．〜限りに（一級文法）：　〜を最後にして　"Until/By this〜" or "To the extent of 〜"
+      e.g.: 「本日を限りに退職することにしました。」
+
+      ５．〜に限って：〜に合わせるように．．．（不都合な事が起きる） "....(happen) just exactly at the wrong time while 〜"
+      e.g.: 「留守の時に限って、荷物が届きます。」」
+
+      ６．〜に限り：　〜だけ
+      e.g.: 「成績優秀者に限り学費が免除されます。」
+
+      ７．〜に限らず：　〜だけでなく
+      e.g.:　「都合がよければ、授業中に限らず、いつでも
+      質問に来てください。」
+
+      ８．〜に限って．．．ない　：〜について（私の考えを）述べるなら、．．．（のような悪いこと）はない
+      e.g.: 「あの人に限って、殺人などするはずはない。」
+    html: |-
+      There are many other forms using 限る as root besides the ４ in the added notes above:<br/><br/>１．〜に限ったことではない：　〜だけではない<br/>e.g. :「いじめは子供の世界に限ったことではない。大人の世界にもある。」<br/><br/>２．〜ないとも限らない：　〜可能性がある、「１００％〜ない」とは言えない<br/>e.g.: 「電車が遅れないとも限らないから、早く家を出ましょう。」<br/><br/>３．〜限りで：　〜を最後にして "Until/By this〜" or "By 〜 as the last of..."<br/>e.g.: 「無料サ―ビスは、今週限りで終わらせて頂きます。」<br/><br/>４．〜限りに（一級文法）：　〜を最後にして　"Until/By this〜" or "To the extent of 〜"<br/>e.g.: 「本日を限りに退職することにしました。」<br/><br/>５．〜に限って：〜に合わせるように．．．（不都合な事が起きる） "....(happen) just exactly at the wrong time while 〜"<br/>e.g.: 「留守の時に限って、荷物が届きます。」」<br/><br/>６．〜に限り：　〜だけ<br/>e.g.: 「成績優秀者に限り学費が免除されます。」<br/><br/>７．〜に限らず：　〜だけでなく<br/>e.g.:　「都合がよければ、授業中に限らず、いつでも<br/>質問に来てください。」<br/><br/>８．〜に限って．．．ない　：〜について（私の考えを）述べるなら、．．．（のような悪いこと）はない<br/>e.g.: 「あの人に限って、殺人などするはずはない。」
+    credits_raw: 誠
+    content_sha256: eb80471576e124eba85458af39542ae0cbf5fff49a0796fe99631270c366722b
+    original_created_at: null
+    original_updated_at: null
+  - position: 23
+    source_id: null
+    text: |-
+      hello 誠! thanks for all the comments. perhaps you can just delete the above examples that you think are not relevant? we have quite a lot for this page anyway...
+    html: |-
+      hello 誠! thanks for all the comments. perhaps you can just delete the above examples that you think are not relevant? we have quite a lot for this page anyway...
+    credits_raw: DC
+    content_sha256: 49fd8e1ea3db23708d0f18c8a90d7c92981aca2048c4aab7a72431e9f73c97ec
+    original_created_at: null
+    original_updated_at: null
+  - position: 24
+    source_id: null
+    text: I didn't know how to express 'unless' for the longest time. Much appreciated.
+    html: I didn't know how to express 'unless' for the longest time. Much appreciated.
+    credits_raw: dotty
+    content_sha256: 8cc6e156a42ebf5c2464d0cbe51fc0fca87572f5fe3158044e2ca6fb0ce6caad
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 143
+    label: に限って
+    source_url: https://takoboto.jp/bunpo/143
+  - target_id: 380
+    label: に限らず
+    source_url: https://takoboto.jp/bunpo/380
+  - target_id: 671
+    label: 以上
+    source_url: https://takoboto.jp/bunpo/671
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:36:45+00:00'
+response_sha256: d1b52879275ec40befa03f58e532e0c56f1b269f3b67c2fd61d6784e6aeadfe3
+warnings: []

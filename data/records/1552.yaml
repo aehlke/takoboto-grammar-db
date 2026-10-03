@@ -1,0 +1,852 @@
+schema_version: 2
+id: 1552
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1552/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: に違いない
+romanized_label: nichigainai
+alternate_forms:
+  - にちがいない
+jlpt_level: 2
+credits_raw: alexeiS
+meaning: no mistake...definitely
+meaning_example: I've not got my keys, I definitely (lit. make no mistake) I dropped them somewhere
+meaning_notes:
+  - language: ja
+    text: 確かに　と　おもう
+    html: 確かに　と　おもう
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1552
+    body_text: "no mistake...definitely \n I've not got my keys, I definitely (lit. make no mistake) I dropped them somewhere \n 確かに　と　おもう"
+    body_html: |-
+      <span>no mistake...definitely</span> <br/> <span>I've not got my keys, I definitely (lit. make no mistake) I dropped them somewhere</span> <br/> <span>確かに　と　おもう</span>
+    credits_raw: alexeiS
+formations: []
+examples:
+  - source_id: 6552
+    position: 0
+    japanese: かぎがどこかに落ちたに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8e%e3%81%8c%e3%81%a9%e3%81%93%e3%81%8b%e3%81%ab"><span>かぎがどこかに</span></a><a href="https://takoboto.jp/?q=%e8%90%bd%e3%81%a1%e3%81%9f"><span>落ちた</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: かぎがどこかに落ちた
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かぎがどこかにおちたにちがいない。
+    credits_raw: ved
+    translations:
+      - language: en
+        text: I've not got my keys, I definitely dropped them somewhere.
+        html: |-
+          <span>I've not got my keys, I </span><strong>definitely </strong><span>dropped </span><span>them somewhere. </span>
+        segments:
+          - text: 'I''ve not got my keys, I '
+            grammar_highlight: false
+          - text: 'definitely '
+            grammar_highlight: true
+          - text: 'dropped them somewhere. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5784
+    position: 1
+    japanese: あのシチューが当たったに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae%e3%82%b7%e3%83%81%e3%83%a5%e3%83%bc%e3%81%8c"><span>あのシチューが</span></a><a href="https://takoboto.jp/?q=%e5%bd%93%e3%81%9f%e3%81%a3%e3%81%9f"><span>当たった</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あのシチューが当たった
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あのシチューがあたったにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The stew must have disagreed with me.
+        html: |-
+          <span>The stew must have disagreed with me. </span>
+        segments:
+          - text: 'The stew must have disagreed with me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5785
+    position: 2
+    japanese: あの煙を見なさい。あそこの建物が燃えているに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e7%85%99%e3%82%92"><span>煙を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%aa%e3%81%95%e3%81%84%e3%80%82%e3%81%82%e3%81%9d%e3%81%93%e3%81%ae"><span>見なさい。あそこの</span></a><a href="https://takoboto.jp/?q=%e5%bb%ba%e7%89%a9%e3%81%8c"><span>建物が</span></a><a href="https://takoboto.jp/?q=%e7%87%83%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b"><span>燃えている</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あの煙を見なさい。あそこの建物が燃えている
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あのけむりをみなさい。あそこのたてものがもえているにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Look at that smoke. That building must be on fire.
+        html: |-
+          <span>Look at that smoke. That building must be on fire. </span>
+        segments:
+          - text: 'Look at that smoke. That building must be on fire. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5786
+    position: 3
+    japanese: あの狐がめん鳥を殺したに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e7%8b%90%e3%81%8c%e3%82%81%e3%82%93"><span>狐がめん</span></a><a href="https://takoboto.jp/?q=%e9%b3%a5%e3%82%92"><span>鳥を</span></a><a href="https://takoboto.jp/?q=%e6%ae%ba%e3%81%97%e3%81%9f"><span>殺した</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あの狐がめん鳥を殺した
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あのきつねがめんどりをころしたにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: That fox must have killed the hen.
+        html: |-
+          <span>That fox must have killed the hen. </span>
+        segments:
+          - text: 'That fox must have killed the hen. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5787
+    position: 4
+    japanese: あんなに短時間で１マイル走ったなんて、君はすぐれた運動選手に違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%93%e3%81%aa%e3%81%ab"><span>あんなに</span></a><a href="https://takoboto.jp/?q=%e7%9f%ad%e6%99%82%e9%96%93%e3%81%a7"><span>短時間で</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%e3%83%9e%e3%82%a4%e3%83%ab"><span>１マイル</span></a><a href="https://takoboto.jp/?q=%e8%b5%b0%e3%81%a3%e3%81%9f%e3%81%aa%e3%82%93%e3%81%a6%e3%80%81"><span>走ったなんて、</span></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%af%e3%81%99%e3%81%90%e3%82%8c%e3%81%9f"><span>君はすぐれた</span></a><a href="https://takoboto.jp/?q=%e9%81%8b%e5%8b%95%e9%81%b8%e6%89%8b"><span>運動選手</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あんなに短時間で１マイル走ったなんて、君はすぐれた運動選手
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あんなにたんじかんで１マイルはしったなんて、きみはすぐれたうんどうせんしゅにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You must be a good athlete to have run a mile in such a short time.
+        html: |-
+          <span>You must be a good athlete to have run a mile in such a short time. </span>
+        segments:
+          - text: 'You must be a good athlete to have run a mile in such a short time. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5788
+    position: 5
+    japanese: あんなふうに話すとは彼はばかに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%93%e3%81%aa%e3%81%b5%e3%81%86%e3%81%ab"><span>あんなふうに</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%99%e3%81%a8%e3%81%af"><span>話すとは</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%b0%e3%81%8b"><span>彼はばか</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あんなふうに話すとは彼はばか
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あんなふうにはなすとはかれはばかにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He must be a fool to talk like that.
+        html: |-
+          <span>He must be a fool to talk like that. </span>
+        segments:
+          - text: 'He must be a fool to talk like that. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5789
+    position: 6
+    japanese: あんな風に振る舞うなんて彼は気が狂ってるに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%93%e3%81%aa"><span>あんな</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e3%81%ab"><span>風に</span></a><a href="https://takoboto.jp/?q=%e6%8c%af%e3%82%8b"><span>振る</span></a><a href="https://takoboto.jp/?q=%e8%88%9e%e3%81%86%e3%81%aa%e3%82%93%e3%81%a6"><span>舞うなんて</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%8c"><span>気が</span></a><a href="https://takoboto.jp/?q=%e7%8b%82%e3%81%a3%e3%81%a6%e3%82%8b"><span>狂ってる</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あんな風に振る舞うなんて彼は気が狂ってる
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あんなかぜにふるまうなんてかれはきがくるってるにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He must be crazy to behave like that.
+        html: |-
+          <span>He must be crazy to behave like that. </span>
+        segments:
+          - text: 'He must be crazy to behave like that. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5790
+    position: 7
+    japanese: お百姓さんはそれを聞いて喜ぶに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e7%99%be%e5%a7%93%e3%81%95%e3%82%93%e3%81%af%e3%81%9d%e3%82%8c%e3%82%92"><span>百姓さんはそれを</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%a6"><span>聞いて</span></a><a href="https://takoboto.jp/?q=%e5%96%9c%e3%81%b6"><span>喜ぶ</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: お百姓さんはそれを聞いて喜ぶ
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: おひゃくしょうさんはそれをきいてよろこぶにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The farmers must be happy to hear that.
+        html: |-
+          <span>The farmers must be happy to hear that. </span>
+        segments:
+          - text: 'The farmers must be happy to hear that. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5791
+    position: 8
+    japanese: きっと無罪になるだけの決定的切り札を隠し持っているに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8d%e3%81%a3%e3%81%a8"><span>きっと</span></a><a href="https://takoboto.jp/?q=%e7%84%a1%e7%bd%aa%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%a0%e3%81%91%e3%81%ae"><span>無罪になるだけの</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e5%ae%9a%e7%9a%84%e5%88%87%e3%82%8a"><span>決定的切り</span></a><a href="https://takoboto.jp/?q=%e6%9c%ad%e3%82%92"><span>札を</span></a><a href="https://takoboto.jp/?q=%e9%9a%a0%e3%81%97"><span>隠し</span></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b"><span>持っている</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: きっと無罪になるだけの決定的切り札を隠し持っている
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: きっとむざいになるだけのけっていてききりふだをかくしもっているにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I'm sure he has something up his sleeve.
+        html: |-
+          <span>I'm sure he has something up his sleeve. </span>
+        segments:
+          - text: 'I''m sure he has something up his sleeve. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5792
+    position: 9
+    japanese: ここに彼の書き置きがある。かれはここに来たに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%ab"><span>ここに</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%8d"><span>書き</span></a><a href="https://takoboto.jp/?q=%e7%bd%ae%e3%81%8d%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82%e3%81%8b%e3%82%8c%e3%81%af%e3%81%93%e3%81%93%e3%81%ab"><span>置きがある。かれはここに</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%81%9f"><span>来た</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ここに彼の書き置きがある。かれはここに来た
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ここにかれのかきおきがある。かれはここにきたにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Here is a note by him. He must have come here.
+        html: |-
+          <span>Here is a note by him. He </span><strong>must </strong><span>have come </span><span>here. </span>
+        segments:
+          - text: 'Here is a note by him. He '
+            grammar_highlight: false
+          - text: 'must '
+            grammar_highlight: true
+          - text: 'have come here. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5793
+    position: 10
+    japanese: この急流で泳ぐのは危険に違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%80%a5%e6%b5%81%e3%81%a7"><span>急流で</span></a><a href="https://takoboto.jp/?q=%e6%b3%b3%e3%81%90%e3%81%ae%e3%81%af"><span>泳ぐのは</span></a><a href="https://takoboto.jp/?q=%e5%8d%b1%e9%99%ba"><span>危険</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: この急流で泳ぐのは危険
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このきゅうりゅうでおよぐのはきけんにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It must be dangerous to swim in this rapid stream.
+        html: |-
+          <span>It must be dangerous to swim in this rapid stream. </span>
+        segments:
+          - text: 'It must be dangerous to swim in this rapid stream. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5794
+    position: 11
+    japanese: この作文の英語はうますぎる。それを彼女が書いていないのに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e6%96%87%e3%81%ae"><span>作文の</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%af%e3%81%86%e3%81%be%e3%81%99%e3%81%8e%e3%82%8b%e3%80%82%e3%81%9d%e3%82%8c%e3%82%92"><span>英語はうますぎる。それを</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c"><span>彼女が</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%a6"><span>書いて</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>いないのに違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: この作文の英語はうますぎる。それを彼女が書いて
+        grammar_highlight: false
+      - text: いないのに違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このさくぶんのえいごはうますぎる。それをかのじょがかいていないのにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The English of composition is too good. She can't have written it herself.
+        html: |-
+          <span>The English of composition is too good. She </span><strong>can't have </strong><span>written </span><span>it herself. </span>
+        segments:
+          - text: 'The English of composition is too good. She '
+            grammar_highlight: false
+          - text: 'can''t have '
+            grammar_highlight: true
+          - text: 'written it herself. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5795
+    position: 12
+    japanese: この事の根本には何かあるに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%81%ae"><span>事の</span></a><a href="https://takoboto.jp/?q=%e6%a0%b9%e6%9c%ac%e3%81%ab%e3%81%af"><span>根本には</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8b%e3%81%82%e3%82%8b"><span>何かある</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: この事の根本には何かある
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このことのこんぽんにはなにかあるにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: There must be something at the bottom of all this.
+        html: |-
+          <span>There must be something at the bottom of all this. </span>
+        segments:
+          - text: 'There must be something at the bottom of all this. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5797
+    position: 13
+    japanese: これは本物のダイヤに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af"><span>これは</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e7%89%a9%e3%81%ae%e3%83%80%e3%82%a4%e3%83%a4"><span>本物のダイヤ</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: これは本物のダイヤ
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: これはほんもののダイヤにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: This must be a real diamond.
+        html: |-
+          <span>This must be a real diamond. </span>
+        segments:
+          - text: 'This must be a real diamond. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5798
+    position: 14
+    japanese: こんなことを信じるなんて彼はよほどの間抜けに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa%e3%81%93%e3%81%a8%e3%82%92"><span>こんなことを</span></a><a href="https://takoboto.jp/?q=%e4%bf%a1%e3%81%98%e3%82%8b%e3%81%aa%e3%82%93%e3%81%a6"><span>信じるなんて</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%82%88%e3%81%bb%e3%81%a9%e3%81%ae"><span>彼はよほどの</span></a><a href="https://takoboto.jp/?q=%e9%96%93%e6%8a%9c%e3%81%91"><span>間抜け</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: こんなことを信じるなんて彼はよほどの間抜け
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: こんなことをしんじるなんてかれはよほどのまぬけにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He must be stupid to believe such a thing.
+        html: |-
+          <span>He </span><strong>must be </strong><span>stupid to believe such a thing. </span>
+        segments:
+          - text: 'He '
+            grammar_highlight: false
+          - text: 'must be '
+            grammar_highlight: true
+          - text: 'stupid to believe such a thing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5799
+    position: 15
+    japanese: こんなにかわいい人形をあなたに送ってくれるとは、彼女は心が優しいに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa%e3%81%ab%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84"><span>こんなにかわいい</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e5%bd%a2%e3%82%92%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab"><span>人形をあなたに</span></a><a href="https://takoboto.jp/?q=%e9%80%81%e3%81%a3%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8b%e3%81%a8%e3%81%af%e3%80%81"><span>送ってくれるとは、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e5%bf%83%e3%81%8c"><span>心が</span></a><a href="https://takoboto.jp/?q=%e5%84%aa%e3%81%97%e3%81%84"><span>優しい</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: こんなにかわいい人形をあなたに送ってくれるとは、彼女は心が優しい
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: こんなにかわいいにんぎょうをあなたにおくってくれるとは、かのじょはこころがやさしいにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: She must be kind-hearted to send you such a pretty doll.
+        html: |-
+          <span>She must be kind-hearted to send you such a pretty doll. </span>
+        segments:
+          - text: 'She must be kind-hearted to send you such a pretty doll. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5800
+    position: 16
+    japanese: こんなに長い距離を歩いたなんて彼は健脚家に違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%93%e3%81%aa%e3%81%ab"><span>こんなに</span></a><a href="https://takoboto.jp/?q=%e9%95%b7%e3%81%84"><span>長い</span></a><a href="https://takoboto.jp/?q=%e8%b7%9d%e9%9b%a2%e3%82%92"><span>距離を</span></a><a href="https://takoboto.jp/?q=%e6%ad%a9%e3%81%84%e3%81%9f%e3%81%aa%e3%82%93%e3%81%a6"><span>歩いたなんて</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%81%a5%e8%84%9a%e5%ae%b6"><span>健脚家</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: こんなに長い距離を歩いたなんて彼は健脚家
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: こんなにながいきょりをあるいたなんてかれはけんきゃくかにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He must be a good walker to have walked such a long distance.
+        html: |-
+          <span>He must be a good walker to have walked such a long distance. </span>
+        segments:
+          - text: 'He must be a good walker to have walked such a long distance. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5801
+    position: 17
+    japanese: そこでおそらくこれは久しぶりに戻ってきた古代の神に違いないと考えた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%93%e3%81%a7%e3%81%8a%e3%81%9d%e3%82%89%e3%81%8f%e3%81%93%e3%82%8c%e3%81%af"><span>そこでおそらくこれは</span></a><a href="https://takoboto.jp/?q=%e4%b9%85%e3%81%97%e3%81%b6%e3%82%8a%e3%81%ab"><span>久しぶりに</span></a><a href="https://takoboto.jp/?q=%e6%88%bb%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f"><span>戻ってきた</span></a><a href="https://takoboto.jp/?q=%e5%8f%a4%e4%bb%a3%e3%81%ae"><span>古代の</span></a><a href="https://takoboto.jp/?q=%e7%a5%9e"><span>神</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8"><span>と</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%9f%e3%80%82"><span>考えた。</span></a>
+    segments:
+      - text: そこでおそらくこれは久しぶりに戻ってきた古代の神
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: と考えた。
+        grammar_highlight: false
+    reading: そこでおそらくこれはひさしぶりにもどってきたこだいのかみにちがいないとかんがえた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: So perhaps this was their ancient god returning after his long absence.
+        html: |-
+          <span>So perhaps this was their ancient god returning after his long absence. </span>
+        segments:
+          - text: 'So perhaps this was their ancient god returning after his long absence. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5802
+    position: 18
+    japanese: そのことはお金に関係があったに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%81%93%e3%81%a8%e3%81%af%e3%81%8a"><span>そのことはお</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%81%ab"><span>金に</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e4%bf%82%e3%81%8c%e3%81%82%e3%81%a3%e3%81%9f"><span>関係があった</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: そのことはお金に関係があった
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: そのことはおかねにかんけいがあったにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It must have something to do with money.
+        html: |-
+          <span>It must have something to do with money. </span>
+        segments:
+          - text: 'It must have something to do with money. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6844
+    position: 19
+    japanese: これは、若いときの彼女の写真に違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af%e3%80%81"><span>これは、</span></a><a href="https://takoboto.jp/?q=%e8%8b%a5%e3%81%84%e3%81%a8%e3%81%8d%e3%81%ae"><span>若いときの</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae"><span>彼女の</span></a><a href="https://takoboto.jp/?q=%e5%86%99%e7%9c%9f"><span>写真</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: これは、若いときの彼女の写真
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: これは、わかいときのかのじょのしゃしんにちがいない。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: This is definitely a picture of her as a child.
+        html: |-
+          <span>This is </span><strong>definitely </strong><span>a picture </span><span>of her as a child. </span>
+        segments:
+          - text: 'This is '
+            grammar_highlight: false
+          - text: 'definitely '
+            grammar_highlight: true
+          - text: 'a picture of her as a child. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8248
+    position: 20
+    japanese: 彼女は３０歳ぐらいに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%ef%bc%93%ef%bc%90%e6%ad%b3%e3%81%90%e3%82%89%e3%81%84"><span>３０歳ぐらい</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼女は３０歳ぐらい
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かのじょは３０さいぐらいにちがいない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: She must be thirty or so.
+        html: |-
+          <span>She </span><strong>must be </strong><span>thirty or so. </span>
+        segments:
+          - text: 'She '
+            grammar_highlight: false
+          - text: 'must be '
+            grammar_highlight: true
+          - text: 'thirty or so. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8316
+    position: 21
+    japanese: この事件の裏には何かがあるに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e4%bb%b6%e3%81%ae"><span>事件の</span></a><a href="https://takoboto.jp/?q=%e8%a3%8f%e3%81%ab%e3%81%af"><span>裏には</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8b%e3%81%8c%e3%81%82%e3%82%8b"><span>何かがある</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: この事件の裏には何かがある
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このじけんのうらにはなにかがあるにちがいない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: There must be something behind this matter.
+        html: |-
+          <span>There must be something behind this matter. </span>
+        segments:
+          - text: 'There must be something behind this matter. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8317
+    position: 22
+    japanese: ジェーンはとても顔色が悪い。病気に違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b8%e3%82%a7%e3%83%bc%e3%83%b3%e3%81%af%e3%81%a8%e3%81%a6%e3%82%82"><span>ジェーンはとても</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e8%89%b2%e3%81%8c"><span>顔色が</span></a><a href="https://takoboto.jp/?q=%e6%82%aa%e3%81%84%e3%80%82"><span>悪い。</span></a><a href="https://takoboto.jp/?q=%e7%97%85%e6%b0%97"><span>病気</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ジェーンはとても顔色が悪い。病気
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ジェーンはとてもかおいろがわるい。びょうきにちがいない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Jane looks very pale. She must be sick.
+        html: |-
+          <span>Jane looks very pale. She must be sick. </span>
+        segments:
+          - text: 'Jane looks very pale. She must be sick. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8318
+    position: 23
+    japanese: 彼は２０分前に家を出たので、もう会社に着いているに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%ef%bc%92%ef%bc%90%e5%88%86%e5%89%8d%e3%81%ab"><span>２０分前に</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e3%82%92"><span>家を</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%9f%e3%81%ae%e3%81%a7%e3%80%81%e3%82%82%e3%81%86"><span>出たので、もう</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%ab"><span>会社に</span></a><a href="https://takoboto.jp/?q=%e7%9d%80%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b"><span>着いている</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼は２０分前に家を出たので、もう会社に着いている
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かれは２０ふんまえにいえをでたので、もうかいしゃについているにちがいない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He left home twenty minutes ago. He must have arrived at the office by now.
+        html: |-
+          <span>He left home twenty minutes ago. He must have arrived at the office by now. </span>
+        segments:
+          - text: 'He left home twenty minutes ago. He must have arrived at the office by now. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8319
+    position: 24
+    japanese: 彼の計画は失敗に違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%81%af"><span>計画は</span></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e6%95%97"><span>失敗</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼の計画は失敗
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かれのけいかくはしっぱいにちがいない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: His plain is bound to fail.
+        html: |-
+          <span>His plain is bound to fail. </span>
+        segments:
+          - text: 'His plain is bound to fail. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8320
+    position: 25
+    japanese: 君は冗談を言っているに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%af"><span>君は</span></a><a href="https://takoboto.jp/?q=%e5%86%97%e8%ab%87%e3%82%92"><span>冗談を</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b"><span>言っている</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 君は冗談を言っている
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: きみはじょうだんをいっているにちがいない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: You must be joking.
+        html: |-
+          <span>You must be joking. </span>
+        segments:
+          - text: 'You must be joking. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5796
+    position: 26
+    japanese: この車は乱暴使い方をされてきたに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e8%bb%8a%e3%81%af"><span>車は</span></a><a href="https://takoboto.jp/?q=%e4%b9%b1%e6%9a%b4%e4%bd%bf%e3%81%84"><span>乱暴使い</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%82%92%e3%81%95%e3%82%8c%e3%81%a6%e3%81%8d%e3%81%9f"><span>方をされてきた</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: この車は乱暴使い方をされてきた
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このくるまはらんぼうつかいかたをされてきたにちがいない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: This car must have had tough usage.
+        html: |-
+          <span>This car </span><strong>must have </strong><span>had tough usage. </span>
+        segments:
+          - text: 'This car '
+            grammar_highlight: false
+          - text: 'must have '
+            grammar_highlight: true
+          - text: 'had tough usage. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6845
+    position: 27
+    japanese: まじめなあの人のことだから、時間どおりにくるに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%98%e3%82%81%e3%81%aa%e3%81%82%e3%81%ae"><span>まじめなあの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%ae%e3%81%93%e3%81%a8%e3%81%a0%e3%81%8b%e3%82%89%e3%80%81"><span>人のことだから、</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%96%93%e3%81%a9%e3%81%8a%e3%82%8a%e3%81%ab"><span>時間どおりに</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%82%8b"><span>くる</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84"><strong>に違いない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: まじめなあの人のことだから、時間どおりにくる
+        grammar_highlight: false
+      - text: に違いない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: まじめなあのひとのことだから、じかんどおりにくるにちがいない。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: Because this guy is serious, no doubt that he will come just on time.
+        html: |-
+          <span>Because this guy is serious, </span><strong>no doubt that </strong><span>he will come </span><span>just on time. </span>
+        segments:
+          - text: 'Because this guy is serious, '
+            grammar_highlight: false
+          - text: 'no doubt that '
+            grammar_highlight: true
+          - text: 'he will come just on time. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Noun + に違いない
+      ダイヤに違いない
+
+      Verb-plain + に違いない
+      殺したに違いない
+    html: |-
+      Noun + に違いない<br/>ダイヤに違いない<br/><br/>Verb-plain + に違いない<br/>殺したに違いない
+    credits_raw: dc
+    content_sha256: 5040ccccbe469961d68091a6071849de3da1b758e59fb72ddf3b6c181a217cf2
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: ex-かぎガないどこかに落としたに違いない
+    html: ex-かぎガないどこかに落としたに違いない
+    credits_raw: ved
+    content_sha256: 44c11cbe2bb14f3d44874f7262fbbc1da1680c8bd3cfa40e41974c7eb12c017e
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: "Similar to the usage of に決まっている、に違いない is simply translated most of the time as \"definitely\" or \"absolutely\". One problem with this is that the usage of both can be a little bit ambiguous and can leave a serious student up in the air of which to use.\n\nA less spoken concept regarding any grammar involves the context and \"feeling\" that is generally understood by native Japanese, but may be difficult for foreign learners to grasp. \n\nに決まっている has the connotation of narrowness of options such that whatever precedes this is an absolute.\n\n 例文）　地球は平らではないに決まっている。　\n The earth is *absolutely* not flat.\n\nIn contrast, usage of 違いない　supposedly has a feeling of slight openness in terms of speculation or conditions.\n\n例文）　死体に丸い傷があるので、拳銃でやられちゃったに違いない。\n Since the corpse has circular wounds, he must have been done in by a handgun."
+    html: |-
+      Similar to the usage of に決まっている、に違いない is simply translated most of the time as "definitely" or "absolutely". One problem with this is that the usage of both can be a little bit ambiguous and can leave a serious student up in the air of which to use.<br/><br/>A less spoken concept regarding any grammar involves the context and "feeling" that is generally understood by native Japanese, but may be difficult for foreign learners to grasp. <br/><br/>に決まっている has the connotation of narrowness of options such that whatever precedes this is an absolute.<br/><br/> 例文）　地球は平らではないに決まっている。　<br/> The earth is *absolutely* not flat.<br/><br/>In contrast, usage of 違いない　supposedly has a feeling of slight openness in terms of speculation or conditions.<br/><br/>例文）　死体に丸い傷があるので、拳銃でやられちゃったに違いない。<br/> Since the corpse has circular wounds, he must have been done in by a handgun.
+    credits_raw: Tetsuzan
+    content_sha256: df3533874473445f5a1337da79f0b19269e69e6531b28e5473d605d52291a67f
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: hi alexeiS - I added some examples.
+    html: hi alexeiS - I added some examples.
+    credits_raw: dc
+    content_sha256: 5caa6398aa4e7e31fc1dfc7020f2d4a24b27c80ad752f257f42d10653411e720
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      I believe that example #5794 says 'She must have written it herself'...I would be interested to know if there is a way to say 'She must not have written it herself' using this grammar form...
+    html: |-
+      I believe that example #5794 says 'She must have written it herself'...I would be interested to know if there is a way to say 'She must not have written it herself' using this grammar form...
+    credits_raw: frewmanchu
+    content_sha256: 4169f547f7d1ff5015e93716408b9490943ead83e1b3b4b5464206b02b4fec66
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      The translations of the examples do not seem to match the meaning given above, it seems to me. The meaning of "no mistake" or "definitely" is much different from the meaning of "must have" or "must be". I'm wondering which meaning is correct.
+    html: |-
+      The translations of the examples do not seem to match the meaning given above, it seems to me. The meaning of "no mistake" or "definitely" is much different from the meaning of "must have" or "must be". I'm wondering which meaning is correct.
+    credits_raw: Cone
+    content_sha256: 3da12e90fc002e6bcba5a4eb0f7b37c9dfadfbda9a2742c24baea2ab42d28906
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: '#5792 Looks typo. Japanese should be かれはここに来たに違いない。'
+    html: '#5792 Looks typo. Japanese should be かれはここに来たに違いない。'
+    credits_raw: Miki
+    content_sha256: 33b92bb2c8354db23f480d0776dfb87180984ad42b68bd3e11a41fbb1ffba70c
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      In #5794, この作文の英語はうますぎる。彼女がそれを書いたに違いない has wrong English translation.It should be: 
+      The English of composition is too good. She must have written it herself.
+      If the reverse was intended, then the Japanese text is wrong. It shold read: この作文の英語はうますぎる。それを彼女が書いていないのに違いない。
+    html: |-
+      In #5794, この作文の英語はうますぎる。彼女がそれを書いたに違いない has wrong English translation.It should be: <br/>The English of composition is too good. She must have written it herself.<br/>If the reverse was intended, then the Japanese text is wrong. It shold read: この作文の英語はうますぎる。それを彼女が書いていないのに違いない。
+    credits_raw: bamboo4
+    content_sha256: d14b6b2202ffdf7713c1bede0e48fa3fb3a52c5f965bf8ce58cfa05eed2b388d
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      I intended to fix ex #5792 and #5794 following the above alerts.
+      乱魔ﾈ in ex #5796 seems to be 文字化け so I turned it suspicious.
+      I don't understand 彼はよはどの間抜け in ex #5798.
+    html: |-
+      I intended to fix ex #5792 and #5794 following the above alerts.<br/>乱魔ﾈ in ex #5796 seems to be 文字化け so I turned it suspicious.<br/>I don't understand 彼はよはどの間抜け in ex #5798.
+    credits_raw: 赤毛
+    content_sha256: 5362d0cacc85bf2a32596b07538056e9ae2397306325d235024a4320a8b48cd2
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      i think in #5798 it should be yohodo instead of yohado:
+      こんなことを信じるなんて彼はよほどの間抜けに違いない。
+    html: |-
+      i think in #5798 it should be yohodo instead of yohado:<br/>こんなことを信じるなんて彼はよほどの間抜けに違いない。
+    credits_raw: nuka
+    content_sha256: 93c4cb8f855a57775d8cd20dc170852c59eecb059f22a3e28d4c2a53091a615a
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: "In ex #5796, I`ve changed 乱魔ﾈ to 乱暴\x7F. But I`m note sure if it is right..."
+    html: "In ex #5796, I`ve changed 乱魔ﾈ to 乱暴\x7F. But I`m note sure if it is right..."
+    credits_raw: karekano
+    content_sha256: 13229b13a869c3299d29808ae18a30c7789e750e3e26c4dd6fc1e143ea7ead4b
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 420
+    label: に相違ない
+    source_url: https://takoboto.jp/bunpo/420
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:40:50+00:00'
+response_sha256: 6a68f4e72467bf13b8279fada401028b6c4795aea57ea11be65ff75b433d3c4b
+warnings: []

@@ -1,0 +1,224 @@
+schema_version: 2
+id: 424
+source: takoboto
+source_url: https://takoboto.jp/bunpo/424/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜まい
+romanized_label: mai-1
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: won't (do something)
+meaning_example: I won't tell her
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_424
+    body_text: |-
+      won't (do something) 
+       I won't tell her
+    body_html: |-
+      <span>won't (do something)</span> <br/> <span>I won't tell her</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_424
+    body_text: 辞書形+まい
+    body_html: |-
+      <div><div><div>辞書形</div></div><div><div>+</div><div>まい</div></div></div>
+    credits_raw: null
+formations:
+  - 辞書形 + まい
+examples:
+  - source_id: 1178
+    position: 0
+    japanese: 母に言うと心配するから、このことは母に言うまい
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%ab"><span>母に</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%a8"><span>言うと</span></a><a href="https://takoboto.jp/?q=%e5%bf%83%e9%85%8d%e3%81%99%e3%82%8b%e3%81%8b%e3%82%89%e3%80%81%e3%81%93%e3%81%ae%e3%81%93%e3%81%a8%e3%81%af"><span>心配するから、このことは</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%ab"><span>母に</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86"><span>言う</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%84"><strong>まい</strong></a>
+    segments:
+      - text: 母に言うと心配するから、このことは母に言う
+        grammar_highlight: false
+      - text: まい
+        grammar_highlight: true
+    reading: ははにいうとしんぱいするから、このことはははにいうまい
+    credits_raw: dc
+    translations:
+      - language: en
+        text: If I tell my mother she will worry, so I won't tell her.
+        html: |-
+          <span>If I tell my mother she will worry, so </span><strong>I won't </strong><span>tell her. </span>
+        segments:
+          - text: 'If I tell my mother she will worry, so '
+            grammar_highlight: false
+          - text: 'I won''t '
+            grammar_highlight: true
+          - text: 'tell her. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4700
+    position: 1
+    japanese: もう言うまい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86"><span>もう</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86"><span>言う</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%84%e3%80%82"><strong>まい。</strong></a>
+    segments:
+      - text: もう言う
+        grammar_highlight: false
+      - text: まい。
+        grammar_highlight: true
+    reading: もういうまい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I'll say no more.
+        html: |-
+          <span>I'll say no more. </span>
+        segments:
+          - text: 'I''ll say no more. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4702
+    position: 2
+    japanese: 行くまいと決めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%84"><strong>まい</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8"><span>と</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e3%82%81%e3%81%9f%e3%80%82"><span>決めた。</span></a>
+    segments:
+      - text: 行く
+        grammar_highlight: false
+      - text: まい
+        grammar_highlight: true
+      - text: と決めた。
+        grammar_highlight: false
+    reading: いくまいときめた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I decided not to go.
+        html: |-
+          <span>I decided not to go. </span>
+        segments:
+          - text: 'I decided not to go. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8087
+    position: 3
+    japanese: 彼女は慰謝料など払うまいと決心した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e6%85%b0%e8%ac%9d%e6%96%99%e3%81%aa%e3%81%a9"><span>慰謝料など</span></a><a href="https://takoboto.jp/?q=%e6%89%95%e3%81%86"><span>払う</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%84"><strong>まい</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8"><span>と</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e5%bf%83%e3%81%97%e3%81%9f%e3%80%82"><span>決心した。</span></a>
+    segments:
+      - text: 彼女は慰謝料など払う
+        grammar_highlight: false
+      - text: まい
+        grammar_highlight: true
+      - text: と決心した。
+        grammar_highlight: false
+    reading: かのじょはいしゃりょうなどはらうまいとけっしんした。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: She chose not to pay the consolation money.
+        html: |-
+          <span>She chose not to pay the consolation money. </span>
+        segments:
+          - text: 'She chose not to pay the consolation money. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8088
+    position: 4
+    japanese: 彼女は寝るまいと決心しました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e5%af%9d%e3%82%8b"><span>寝る</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%84"><strong>まい</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8"><span>と</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e5%bf%83%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>決心しました。</span></a>
+    segments:
+      - text: 彼女は寝る
+        grammar_highlight: false
+      - text: まい
+        grammar_highlight: true
+      - text: と決心しました。
+        grammar_highlight: false
+    reading: かのじょはねるまいとけっしんしました。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: She willed herself to keep awake.
+        html: |-
+          <span>She willed herself to keep awake. </span>
+        segments:
+          - text: 'She willed herself to keep awake. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      ＊This grammar has the connotation of resolving not to do something.
+
+      FORMATION:
+      Ｖ(dict. form) + まい
+      Ｖ(minus ます) + まい
+      ALSO USED:
+      する -> しまい
+      くる -> こまい
+    html: |-
+      ＊This grammar has the connotation of resolving not to do something.<br/><br/>FORMATION:<br/>Ｖ(dict. form) + まい<br/>Ｖ(minus ます) + まい<br/>ALSO USED:<br/>する -&gt; しまい<br/>くる -&gt; こまい
+    credits_raw: rubyhatchet
+    content_sha256: 081d7af3dbb35d2cae2c27c74c728e6763f873475254f15cbddbbf678c5d3e3c
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Not used in typical spoken Japanese.
+    html: Not used in typical spoken Japanese.
+    credits_raw: Amatuka
+    content_sha256: adc6d0b8170c0037024bd853ba16d54f775ef6a88e681b46b0771ecfd6e6abda
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      N.B. Derivation of ~まい involves uncertainty - extension to 'negative violition' arrived the same way as the +ve violition did. 
+      Therefore, literally, it's more like "I probably won't tell ..." "I don't think I'll tell ..."
+    html: |-
+      N.B. Derivation of ~まい involves uncertainty - extension to 'negative violition' arrived the same way as the +ve violition did. <br/>Therefore, literally, it's more like "I probably won't tell ..." "I don't think I'll tell ..."
+    credits_raw: Amatuka
+    content_sha256: 615ec9b6f22928673d2f3899cc3ee0aaaaea73f3b14f510e8b0ac0f041522820
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: 'What about a past tense? How would one say: "He wouldn''t tell me." ?'
+    html: 'What about a past tense? How would one say: "He wouldn''t tell me." ?'
+    credits_raw: Jon
+    content_sha256: 3f2a217d36e2c1b06dadf6964820204001f425497815400560788d0e5b3ed813
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      彼は言わなかっただろう。
+      I don't think there is a past tense of まい version.
+      言わないだろう。/ 言わないようにしよう。is more popular spoken style of 言うまい。
+    html: |-
+      彼は言わなかっただろう。<br/>I don't think there is a past tense of まい version.<br/>言わないだろう。/ 言わないようにしよう。is more popular spoken style of 言うまい。
+    credits_raw: Miki
+    content_sha256: 23db5f5f8057228f5a3bc272b790e691934441b336d0dc7946ff5e84ecd7dd42
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: This is literally written and newspaper Japanese
+    html: This is literally written and newspaper Japanese
+    credits_raw: Bima
+    content_sha256: a3c97ef12fa286a6cba82792c30600ea2fdf351d0f881a9e11a33186413df6f3
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:39:15+00:00'
+response_sha256: 75f77609ad922d43b6c597b6c6466a9ad18739658c27eb7e3c279e2b8de1ade2
+warnings: []

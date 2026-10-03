@@ -1,0 +1,58 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1687
+label: ~naki
+title_raw: ~なき [~なき] (~naki)
+title: ~なき
+reading: ~なき
+romanized_label: ~naki
+category: grammar
+jlpt_level_original: '0'
+meaning: ~less, without
+meaning_example: This contract is meaningless
+credits_raw: jmadsen
+source_url: http://jgram.org/pages/viewOne.php?tagE=%7Enaki
+archive_url: https://web.archive.org/web/20150224225745id_/http://jgram.org/pages/viewOne.php?tagE=%7Enaki
+archive_timestamp: '20150224225745'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: HYLFALUZ3PWAHO65VEGBTIO7E62FGEF5
+response_sha256: c9016f4c607089a064f5cd4b6c57df7c4a2ba138fe034ad36dc6ce0799ac60f8
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 7098
+    position: 0
+    japanese: A contract with that company is worth next to nothing.
+    body_text: "A contract with that company is worth next to nothing. \n\n\t\tあの会社との契約はあってなきに等しいものです。"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJA contract with that company is worth next to nothing.\">\n\t\t\t\tA contract with that company is worth next to nothing.<strong></strong><strong></strong></a> <br/>\n\t\tあの会社との契約はあってなきに等しいものです。 \n\t\t<strong> </strong>"
+    credits_raw: jmadsen
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "~なき [~なき] (~naki)\n    Meaning: ~less, without \n    Example: This contract is meaningless\n    JLPT Level: 0\n    Category: grammar\n    Author: jmadsen"
+    html: |-
+      <span>~なき [~なき] (~naki)</span><br/>    <span><b>Meaning</b>: ~less, without </span><br/>    <b>Example</b>: <i>This contract is meaningless</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>jmadsen</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225745'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6404128
+  length: 4987
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: e2ae22eef7b27cf7f9eca3d9036462f5ea5ea98525aa13afcc6f3cc6ad56a4de

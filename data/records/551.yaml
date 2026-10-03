@@ -1,0 +1,317 @@
+schema_version: 2
+id: 551
+source: takoboto
+source_url: https://takoboto.jp/bunpo/551/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: のに
+romanized_label: noni-2
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: in order to, to
+meaning_example: It takes time in order to learn Japanese
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_551
+    body_text: |-
+      in order to, to 
+       It takes time in order to learn Japanese
+    body_html: |-
+      <span>in order to, to</span> <br/> <span>It takes time in order to learn Japanese</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 586
+    position: 0
+    japanese: 日本語を覚えるのに、時間がかかります
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%82%92"><span>日本語を</span></a><a href="https://takoboto.jp/?q=%e8%a6%9a%e3%81%88%e3%82%8b"><span>覚える</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%ab%e3%80%81"><strong>のに、</strong></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%96%93%e3%81%8c%e3%81%8b%e3%81%8b%e3%82%8a%e3%81%be%e3%81%99"><span>時間がかかります</span></a>
+    segments:
+      - text: 日本語を覚える
+        grammar_highlight: false
+      - text: のに、
+        grammar_highlight: true
+      - text: 時間がかかります
+        grammar_highlight: false
+    reading: にほんごをおぼえるのに、じかんがかかります
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: It takes time in order to , learn japanese
+        html: |-
+          <span>It takes time </span><strong>in order to </strong><span>, learn japanese </span>
+        segments:
+          - text: 'It takes time '
+            grammar_highlight: false
+          - text: 'in order to '
+            grammar_highlight: true
+          - text: ', learn japanese '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4747
+    position: 1
+    japanese: あなたに会うのには何時(いつ）/何処(どこ）がいいですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab"><span>あなたに</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e3%81%86"><span>会う</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%ab%e3%81%af"><strong>のには</strong></a><a href="https://takoboto.jp/?q=%e4%bd%95%e6%99%82(%e3%81%84%e3%81%a4"><span>何時(いつ</span></a><a href="https://takoboto.jp/?q=%ef%bc%89%2f"><span>）/</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e5%87%a6(%e3%81%a9%e3%81%93"><span>何処(どこ</span></a><a href="https://takoboto.jp/?q=%ef%bc%89%e3%81%8c%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>）がいいですか。</span></a>
+    segments:
+      - text: あなたに会う
+        grammar_highlight: false
+      - text: のには
+        grammar_highlight: true
+      - text: 何時(いつ）/何処(どこ）がいいですか。
+        grammar_highlight: false
+    reading: あなたにあうのにはなんじいつ）どこどこ）がいいですか。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: What would be the good time/place in order to /to see you?
+        html: |-
+          <span>What would be the good time/place </span><strong>in order to /to </strong><span>see you? </span>
+        segments:
+          - text: 'What would be the good time/place '
+            grammar_highlight: false
+          - text: 'in order to /to '
+            grammar_highlight: true
+          - text: 'see you? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6992
+    position: 2
+    japanese: パスポートは海外旅行に行くのに必要です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%91%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%88%e3%81%af"><span>パスポートは</span></a><a href="https://takoboto.jp/?q=%e6%b5%b7%e5%a4%96%e6%97%85%e8%a1%8c%e3%81%ab"><span>海外旅行に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%ab"><strong>のに</strong></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%a7%e3%81%99%e3%80%82"><span>必要です。</span></a>
+    segments:
+      - text: パスポートは海外旅行に行く
+        grammar_highlight: false
+      - text: のに
+        grammar_highlight: true
+      - text: 必要です。
+        grammar_highlight: false
+    reading: パスポートはかいがいりょこうにいくのにひつようです。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: A passport is necessary in order to travel overseas.
+        html: |-
+          <span>A passport is necessary in order to travel overseas. </span>
+        segments:
+          - text: 'A passport is necessary in order to travel overseas. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6993
+    position: 3
+    japanese: 水着は泳ぐのに使う。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%b0%b4%e7%9d%80%e3%81%af"><span>水着は</span></a><a href="https://takoboto.jp/?q=%e6%b3%b3%e3%81%90"><span>泳ぐ</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%ab"><strong>のに</strong></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%86%e3%80%82"><span>使う。</span></a>
+    segments:
+      - text: 水着は泳ぐ
+        grammar_highlight: false
+      - text: のに
+        grammar_highlight: true
+      - text: 使う。
+        grammar_highlight: false
+    reading: みずぎはおよぐのにつかう。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: Swimwear is used for swimming.
+        html: |-
+          <span>Swimwear is used for swimming. </span>
+        segments:
+          - text: 'Swimwear is used for swimming. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8382
+    position: 4
+    japanese: 私がその仕事を仕上げるのに５ヶ月かかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c%e3%81%9d%e3%81%ae"><span>私がその</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%82%92"><span>仕事を</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%b8%8a%e3%81%92%e3%82%8b"><span>仕上げる</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%ab"><strong>のに</strong></a><a href="https://takoboto.jp/?q=%ef%bc%95%e3%83%b6"><span>５ヶ</span></a><a href="https://takoboto.jp/?q=%e6%9c%88%e3%81%8b%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>月かかった。</span></a>
+    segments:
+      - text: 私がその仕事を仕上げる
+        grammar_highlight: false
+      - text: のに
+        grammar_highlight: true
+      - text: ５ヶ月かかった。
+        grammar_highlight: false
+    reading: わたしがそのしごとをしあげるのに５かげつかかった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: It took me five months to complete the job.
+        html: |-
+          <span>It took me five months to complete the job. </span>
+        segments:
+          - text: 'It took me five months to complete the job. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8863
+    position: 5
+    japanese: 鋏は紙を切るのに使います
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%8b%8f%e3%81%af%e7%b4%99%e3%82%92%e5%88%87%e3%82%8b"><span>鋏は紙を切る</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%ab"><strong>のに</strong></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%84%e3%81%be%e3%81%99"><span>使います</span></a>
+    segments:
+      - text: 鋏は紙を切る
+        grammar_highlight: false
+      - text: のに
+        grammar_highlight: true
+      - text: 使います
+        grammar_highlight: false
+    reading: はかみをきるのにつかいます
+    credits_raw: 寛志
+    translations:
+      - language: en
+        text: Scissors are used for cutting paper
+        html: |-
+          <span>Scissors are used for cutting paper </span>
+        segments:
+          - text: 'Scissors are used for cutting paper '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      -my notes-
+      のに is different from ので
+
+      EX)From Jgram,Jlpt3
+      日本語を覚えるのに時間がかかります
+
+      のにis used the same exact way as ので, but のに means "despite" or "in order to".
+
+      Another Example:(From tai kims japanese guide)
+      毎日運動したのに、全然痩せなかった。 
+
+      -end my notes-
+    html: |-
+      -my notes-<br/>のに is different from ので<br/><br/>EX)From Jgram,Jlpt3<br/>日本語を覚えるのに時間がかかります<br/><br/>のにis used the same exact way as ので, but のに means "despite" or "in order to".<br/><br/>Another Example:(From tai kims japanese guide)<br/>毎日運動したのに、全然痩せなかった。 <br/><br/>-end my notes-
+    credits_raw: tenkamuteki82
+    content_sha256: d3502e74effeffb22f1a17a804881a264164919956db83d29923700a43293616
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      I believe the example from Tae Kim's guide above refers to のに in the sense of "despite"/"although", not "in order to" as in this のに entry.
+    html: |-
+      I believe the example from Tae Kim's guide above refers to のに in the sense of "despite"/"although", not "in order to" as in this のに entry.
+    credits_raw: agnestan
+    content_sha256: 568529b28404815c7f041dfd2598d51442696ea81b6142fdffa13dd345b4ef05
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Form is [verb] + [nominaliser の] + に
+    html: Form is [verb] + [nominaliser の] + に
+    credits_raw: Amatuka
+    content_sha256: f279d2e5699efd0126e051205906f6dba1ee6188049de3e353db65287e415920
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: I'm not that certain of what I typed in the 'see also' now - although the two are quite different usages.
+    html: I'm not that certain of what I typed in the 'see also' now - although the two are quite different usages.
+    credits_raw: Amatuka
+    content_sha256: e784958795f2efbfde0d336386ca9d9f64260e2fc476c0f7d3bcbac279f6b1bd
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      ex #4747 has furigana for 何時 as どこ, which is simply not true and should be read なんじ, which has nothing to do with place but is asking 'what time'.
+
+      Doko is normally written in just hiragana anyway.
+
+      reguarding the first example #586 日本語を覚えるのに時間がかかります
+      Is there an easy way to tell that it wasn't intended to mean 'despite that I am going to remember Japanese, it will take time' ?
+      (and wouldn't the verb 習う(ならう) 'to learn' fit this best?)
+    html: |-
+      ex #4747 has furigana for 何時 as どこ, which is simply not true and should be read なんじ, which has nothing to do with place but is asking 'what time'.<br/><br/>Doko is normally written in just hiragana anyway.<br/><br/>reguarding the first example #586 日本語を覚えるのに時間がかかります<br/>Is there an easy way to tell that it wasn't intended to mean 'despite that I am going to remember Japanese, it will take time' ?<br/>(and wouldn't the verb 習う(ならう) 'to learn' fit this best?)
+    credits_raw: Norgus
+    content_sha256: 343835111e45e50c830cf5130822e7e2ec3ed3906a9d947aa3db6948fbda6573
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      @Norgus, it does not sound like the "although" のに because when using the form ＡのにＢ to show a contrast, A and B must be contrastive. "I am going to remember Japanese" and "It will take time" are not really that contrastive. It just doesn't sound like that. That's all I can offer on the topic.
+    html: |-
+      @Norgus, it does not sound like the "although" のに because when using the form ＡのにＢ to show a contrast, A and B must be contrastive. "I am going to remember Japanese" and "It will take time" are not really that contrastive. It just doesn't sound like that. That's all I can offer on the topic.
+    credits_raw: KyleGoetz
+    content_sha256: 728e0b4db85590482b28d64bc4e3079660b1041b679d22b3b6c5c870c66a9e41
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: ex#4747 何時 read as いつ, too.
+    html: ex#4747 何時 read as いつ, too.
+    credits_raw: Miki
+    content_sha256: 3a89143859023dce1646825c72c6d111ac38c31b8391f078a17be1fe45e15db2
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      hi everyone.Correct me if I'm wrong but as I was searching for more examples on のに, I found that sometimes you can put it at the end of the sentence so as to create[ i wish...]. For example: I wish he could have driven a car a year ago. 
+      １年前、彼に車の運転ができていたらよかったのに。
+      The translation is [ I wish he could have driven a car a year ago]. Is it a kind of ように?
+      thanx for the answer...
+    html: |-
+      hi everyone.Correct me if I'm wrong but as I was searching for more examples on のに, I found that sometimes you can put it at the end of the sentence so as to create[ i wish...]. For example: I wish he could have driven a car a year ago. <br/>１年前、彼に車の運転ができていたらよかったのに。<br/>The translation is [ I wish he could have driven a car a year ago]. Is it a kind of ように?<br/>thanx for the answer...
+    credits_raw: のぶた
+    content_sha256: 79f00e9e414e802008230afa2d23a0ac041086032c1d7fdfdf0bf6da54cba0a1
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: Hi のぶたさん、The のに of your question is not a kind of ように. Please refer to [noni3].
+    html: Hi のぶたさん、The のに of your question is not a kind of ように. Please refer to [noni3].
+    credits_raw: Miki
+    content_sha256: b8c64774c78531a0709a08020fea53cd431a4c63a1ef93b5d4c3953bf6caa343
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: 'In #586, I agree that 習う would be the better choice of word.'
+    html: 'In #586, I agree that 習う would be the better choice of word.'
+    credits_raw: bamboo4
+    content_sha256: 694d19dae782cc8b87596d962270f4049b40d170f37949bd44779d47dd888ff8
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: 'ex #4747 is just plain wrong.'
+    html: 'ex #4747 is just plain wrong.'
+    credits_raw: Televangelist
+    content_sha256: 09e4ca542b4270fbe11572cc3b2f7ce808efdf0ff67d1ac115bc69cfd7aba562
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      This sentence is from a nihongo translation of the bible in Matthew 21:2. It has のに in it but I can't seem to match it with noni1-3 here. Is this another application of noni? And what does it mean in this sentence?
+      「そうすると、すぐに、ろばがつながれていて、いっしょにろばの子がいるのに気がつくでしょう。」
+    html: |-
+      This sentence is from a nihongo translation of the bible in Matthew 21:2. It has のに in it but I can't seem to match it with noni1-3 here. Is this another application of noni? And what does it mean in this sentence?<br/>「そうすると、すぐに、ろばがつながれていて、いっしょにろばの子がいるのに気がつくでしょう。」
+    credits_raw: hoshigo
+    content_sha256: bca331bc0e41c0220a7b8a6a8b1153003e6df5e9c1a82eeb4d29f63fbba5fb02
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 552
+    label: のに
+    source_url: https://takoboto.jp/bunpo/552
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:18+00:00'
+response_sha256: a1404b0027615c2768f8aedcf5c07e6aae2c4021c3a742959b5f3df8ac860bce
+warnings: []

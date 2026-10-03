@@ -1,0 +1,106 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 788
+label: yori-2
+title_raw: より [より] (yori-2)
+title: より
+reading: より
+romanized_label: yori-2
+category: grammar
+jlpt_level_original: '3'
+meaning: more ____
+meaning_example: Don't you know a better method?
+credits_raw: Amatuka
+source_url: http://jgram.org/pages/viewOne.php?tagE=yori-2
+archive_url: https://web.archive.org/web/20150224225738id_/http://jgram.org/pages/viewOne.php?tagE=yori-2
+archive_timestamp: '20150224225738'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: N2FK74FGYODOYUIBETTFHHPDBAGEWRV4
+response_sha256: 5da10e5317d1611b6abde60bdcd41458424b0b09e4b20c499c5029e8d0adbcf7
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 918
+    position: 0
+    japanese: よりいい方法知りませんか。
+    body_text: "よりいい方法知りませんか。 \n\n\t\tDon't you know a better method?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJよりいい方法知りませんか。\">\n<strong>より</strong>いい方法知りませんか。<strong></strong></a> <br/>\n\t\tDon't you know a better method? \n\t\t<strong> </strong>"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4769
+    position: 1
+    japanese: あなたと会って、より一層あなたのことが好きになりました。
+    body_text: "あなたと会って、より一層あなたのことが好きになりました。 \n\n\t\tI liked you \n\t\teven more \n\t\twhen I met you."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあなたと会って、より一層あなたのことが好きになりました。\">\n\t\t\t\tあなたと会って、<strong>より</strong>一層あなたのことが好きになりました。<strong></strong></a> <br/>\n\t\tI liked you \n\t\t<strong>even more </strong>\n\t\twhen I met you."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4781
+    position: 2
+    japanese: より早く着く電車はないのですか？
+    body_text: "より早く着く電車はないのですか？ \n\n\t\tIsn't there a train that gets there \n\t\tearlier?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJより早く着く電車はないのですか？\">\n<strong>より</strong>早く着く電車はないのですか？<strong></strong></a> <br/>\n\t\tIsn't there a train that gets there \n\t\t<strong>earlier? </strong>"
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: victor
+    text: in this case, could 'motto' be raplaced by yori?
+    html: in this case, could 'motto' be raplaced by yori?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Miki
+    text: '''yori'' could be replaced by ''motto''. もっといい方法'
+    html: '''yori'' could be replaced by ''motto''. もっといい方法'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: maikeru
+    text: "How would you translate \"yori\" in this case?: --> 正価*より*差し引く割引の価格を選択します。\n\n\n\r\nIt seems its is more of \"from\" rather than \"more\". \n\n\n\r\nI understood it as \"Selects the Discount Price which is deducted from the Net Price.\"\n\r\n:-/"
+    html: "How would you translate \"yori\" in this case?: --&gt; 正価*より*差し引く割引の価格を選択します。<br/>\n<br/>\r\nIt seems its is more of \"from\" rather than \"more\". <br/>\n<br/>\r\nI understood it as \"Selects the Discount Price which is deducted from the Net Price.\"<br/>\r\n:-/"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: yori
+    label: yori
+    annotation_text: yori    (Don't get the two usages of より mixed up.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=yori">yori</a>    (Don't get the two usages of より mixed up.) [<a href="http://jgram.org/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: "より [より] (yori-2)\n    Meaning: more ____ \n    Example: Don't you know a better method?\n    JLPT Level: 3\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>より [より] (yori-2)</span><br/>    <span><b>Meaning</b>: more ____ </span><br/>    <b>Example</b>: <i>Don't you know a better method?</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225738'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6261559
+  length: 5502
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: bd22b0be431099da0fa9663655edc7551ef99efd09ed6191086e00fc0c7aa9c3

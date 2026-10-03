@@ -1,0 +1,347 @@
+schema_version: 2
+id: 1178
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1178/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜ものの
+romanized_label: monono
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: although
+meaning_example: Although I bought a computer, I can't use it
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1178
+    body_text: |-
+      although 
+       Although I bought a computer, I can't use it
+    body_html: |-
+      <span>although</span> <br/> <span>Although I bought a computer, I can't use it</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1178
+    body_text: 普通形+もののナ形容詞+な／である+ものの名詞+である+ものの
+    body_html: |-
+      <div><div><div>普通形</div></div><div><div>+</div><div>ものの</div></div></div><div><div><div>ナ形容詞</div></div><div><div>+</div><div>な／である</div></div><div><div>+</div><div>ものの</div></div></div><div><div><div>名詞</div></div><div><div>+</div><div>である</div></div><div><div>+</div><div>ものの</div></div></div>
+    credits_raw: null
+formations:
+  - 普通形 + ものの
+  - ナ形容詞 + な／である + ものの
+  - 名詞 + である + ものの
+examples:
+  - source_id: 7013
+    position: 0
+    japanese: SaaS認知は中企業以上では高まってきているものの、小企業ではまだ低いとみている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=SaaS"><span>SaaS</span></a><a href="https://takoboto.jp/?q=%e8%aa%8d%e7%9f%a5%e3%81%af"><span>認知は</span></a><a href="https://takoboto.jp/?q=%e4%b8%ad%e4%bc%81%e6%a5%ad%e4%bb%a5%e4%b8%8a%e3%81%a7%e3%81%af"><span>中企業以上では</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%be%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%a6%e3%81%84%e3%82%8b"><span>高まってきている</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%ae"><strong>ものの</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%b0%8f%e4%bc%81%e6%a5%ad%e3%81%a7%e3%81%af%e3%81%be%e3%81%a0"><span>小企業ではまだ</span></a><a href="https://takoboto.jp/?q=%e4%bd%8e%e3%81%84%e3%81%a8%e3%81%bf%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>低いとみている。</span></a>
+    segments:
+      - text: SaaS認知は中企業以上では高まってきている
+        grammar_highlight: false
+      - text: ものの
+        grammar_highlight: true
+      - text: 、小企業ではまだ低いとみている。
+        grammar_highlight: false
+    reading: にんちはちゅうきぎょういじょうではたかまってきているものの、しょうきぎょうではまだひくいとみている。
+    credits_raw: mhykx
+    translations:
+      - language: en
+        text: While SaaS knowhow is high in medium-scale companies and above, it is yet low in small-scale companies.
+        html: |-
+          <span>While SaaS knowhow is high in medium-scale companies and above, it is yet low in small-scale companies. </span>
+        segments:
+          - text: 'While SaaS knowhow is high in medium-scale companies and above, it is yet low in small-scale companies. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 426
+    position: 1
+    japanese: パソコンを買ったものの使い方がぜんぜんわからない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%82%92"><span>パソコンを</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%9f"><span>買った</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%ae"><strong>ものの</strong></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%84"><span>使い</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c%e3%81%9c%e3%82%93%e3%81%9c%e3%82%93%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>方がぜんぜんわからない。</span></a>
+    segments:
+      - text: パソコンを買った
+        grammar_highlight: false
+      - text: ものの
+        grammar_highlight: true
+      - text: 使い方がぜんぜんわからない。
+        grammar_highlight: false
+    reading: パソコンをかったもののつかいかたがぜんぜんわからない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I bought a PC, but I have no idea how to use it.
+        html: |-
+          <span>I bought a PC, </span><strong>but </strong><span>I have no idea how to use it. </span>
+        segments:
+          - text: 'I bought a PC, '
+            grammar_highlight: false
+          - text: 'but '
+            grammar_highlight: true
+          - text: 'I have no idea how to use it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3225
+    position: 2
+    japanese: 熱は下がったものの、まだ咳が止まらない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%86%b1%e3%81%af"><span>熱は</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%8c%e3%81%a3%e3%81%9f"><span>下がった</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%ae%e3%80%81"><strong>ものの、</strong></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%a0"><span>まだ</span></a><a href="https://takoboto.jp/?q=%e5%92%b3%e3%81%8c"><span>咳が</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%81%be%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>止まらない。</span></a>
+    segments:
+      - text: 熱は下がった
+        grammar_highlight: false
+      - text: ものの、
+        grammar_highlight: true
+      - text: まだ咳が止まらない。
+        grammar_highlight: false
+    reading: ねつはさがったものの、まだせきがとまらない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Fever went down but I still have a very bad cough.
+        html: |-
+          <span>Fever went down but I still have a very bad cough. </span>
+        segments:
+          - text: 'Fever went down but I still have a very bad cough. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4371
+    position: 3
+    japanese: いろいろな説はあるものの、恐竜がなぜ突然絶滅してしまったのかはまだ謎のままである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d%e3%81%aa"><span>いろいろな</span></a><a href="https://takoboto.jp/?q=%e8%aa%ac%e3%81%af%e3%81%82%e3%82%8b"><span>説はある</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%ae"><strong>ものの</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%81%90%e7%ab%9c%e3%81%8c%e3%81%aa%e3%81%9c"><span>恐竜がなぜ</span></a><a href="https://takoboto.jp/?q=%e7%aa%81%e7%84%b6%e7%b5%b6%e6%bb%85%e3%81%97%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%8b%e3%81%af%e3%81%be%e3%81%a0"><span>突然絶滅してしまったのかはまだ</span></a><a href="https://takoboto.jp/?q=%e8%ac%8e%e3%81%ae%e3%81%be%e3%81%be%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>謎のままである。</span></a>
+    segments:
+      - text: いろいろな説はある
+        grammar_highlight: false
+      - text: ものの
+        grammar_highlight: true
+      - text: 、恐竜がなぜ突然絶滅してしまったのかはまだ謎のままである。
+        grammar_highlight: false
+    reading: いろいろなせつはあるものの、きょうりゅうがなぜとつぜんぜつめつしてしまったのかはまだなぞのままである。
+    credits_raw: CorDarei
+    translations:
+      - language: en
+        text: There are many theories about the sudden extinction of the dinosaurs, but the real cause still remains anyone's guess.
+        html: |-
+          <span>There are many theories about the sudden extinction of the dinosaurs, </span><strong>but </strong><span>the real cause still remains anyone's guess. </span>
+        segments:
+          - text: 'There are many theories about the sudden extinction of the dinosaurs, '
+            grammar_highlight: false
+          - text: 'but '
+            grammar_highlight: true
+          - text: 'the real cause still remains anyone''s guess. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4372
+    position: 4
+    japanese: パーティーに行くことにしたものの気がはずまない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc%e3%81%ab"><span>パーティーに</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%81%9f"><span>行くことにした</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%ae"><strong>ものの</strong></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%8c%e3%81%af%e3%81%9a%e3%81%be%e3%81%aa%e3%81%84%e3%80%82"><span>気がはずまない。</span></a>
+    segments:
+      - text: パーティーに行くことにした
+        grammar_highlight: false
+      - text: ものの
+        grammar_highlight: true
+      - text: 気がはずまない。
+        grammar_highlight: false
+    reading: パーティーにいくことにしたもののきがはずまない。
+    credits_raw: CorDarei
+    translations:
+      - language: en
+        text: Even though I have decided to go to the party, I'm still not satisfied.
+        html: |-
+          <strong>Even though </strong><span>I have decided to go to the party, I'm still not satisfied. </span>
+        segments:
+          - text: 'Even though '
+            grammar_highlight: true
+          - text: 'I have decided to go to the party, I''m still not satisfied. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4373
+    position: 5
+    japanese: パーティーに行くことにしたものの気がはずまない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc%e3%81%ab"><span>パーティーに</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%81%9f"><span>行くことにした</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%ae"><strong>ものの</strong></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%8c%e3%81%af%e3%81%9a%e3%81%be%e3%81%aa%e3%81%84%e3%80%82"><span>気がはずまない。</span></a>
+    segments:
+      - text: パーティーに行くことにした
+        grammar_highlight: false
+      - text: ものの
+        grammar_highlight: true
+      - text: 気がはずまない。
+        grammar_highlight: false
+    reading: パーティーにいくことにしたもののきがはずまない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Although I decided to go to the party, my mood hasn't improved
+        html: |-
+          <span>Although I decided to go to the party, my mood hasn't improved </span>
+        segments:
+          - text: 'Although I decided to go to the party, my mood hasn''t improved '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4384
+    position: 6
+    japanese: 流言飛語に惑わされるべからず、とはいうものの、言うは易く行うは難し、と思わない？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%b5%81%e8%a8%80%e9%a3%9b%e8%aa%9e%e3%81%ab"><span>流言飛語に</span></a><a href="https://takoboto.jp/?q=%e6%83%91%e3%82%8f%e3%81%95%e3%82%8c%e3%82%8b%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a%e3%80%81%e3%81%a8%e3%81%af%e3%81%84%e3%81%86"><span>惑わされるべからず、とはいう</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%ae%e3%81%ae"><strong>ものの</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%af"><span>言うは</span></a><a href="https://takoboto.jp/?q=%e6%98%93%e3%81%8f"><span>易く</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%86%e3%81%af"><span>行うは</span></a><a href="https://takoboto.jp/?q=%e9%9b%a3%e3%81%97%e3%80%81%e3%81%a8"><span>難し、と</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%82%8f%e3%81%aa%e3%81%84"><span>思わない</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: 流言飛語に惑わされるべからず、とはいう
+        grammar_highlight: false
+      - text: ものの
+        grammar_highlight: true
+      - text: 、言うは易く行うは難し、と思わない？
+        grammar_highlight: false
+    reading: りゅうげんひごにまどわされるべからず、とはいうものの、いうはやすくおこなうはかたし、とおもわない？
+    credits_raw: dc
+    translations:
+      - language: en
+        text: They say you shouldn't take rumors seriously but that's easier said than done.
+        html: |-
+          <span>They say you shouldn't take rumors seriously but that's easier said than done. </span>
+        segments:
+          - text: 'They say you shouldn''t take rumors seriously but that''s easier said than done. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3226
+    position: 7
+    japanese: 軽いけがで済んだからいいようなものの、次回からは気をつけて下さい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%bb%bd%e3%81%84%e3%81%91%e3%81%8c%e3%81%a7"><span>軽いけがで</span></a><a href="https://takoboto.jp/?q=%e6%b8%88%e3%82%93%e3%81%a0%e3%81%8b%e3%82%89"><span>済んだから</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%84"><span>いい</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%aa%e3%82%82%e3%81%ae%e3%81%ae%e3%80%81"><strong>ようなものの、</strong></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e5%9b%9e%e3%81%8b%e3%82%89%e3%81%af"><span>次回からは</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%82%92%e3%81%a4%e3%81%91%e3%81%a6"><span>気をつけて</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84%e3%80%82"><span>下さい。</span></a>
+    segments:
+      - text: 軽いけがで済んだからいい
+        grammar_highlight: false
+      - text: ようなものの、
+        grammar_highlight: true
+      - text: 次回からは気をつけて下さい。
+        grammar_highlight: false
+    reading: かるいけがですんだからいいようなものの、じかいからはきをつけてください。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You are very lucky to get away with such a light injury, but be careful next time.
+        html: |-
+          <span>You are very lucky to get away with such a light injury, but be careful next time. </span>
+        segments:
+          - text: 'You are very lucky to get away with such a light injury, but be careful next time. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3227
+    position: 8
+    japanese: あのホワイト・ライオンの子どもはおとなしいとはいうものの、なんといっても獣ですから、気を許さないで下さい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%bb%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%b3%e3%81%ae"><span>あのホワイト・ライオンの</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e3%81%a9%e3%82%82%e3%81%af"><span>子どもは</span></a><a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%a8%e3%81%aa%e3%81%97%e3%81%84"><span>おとなしい</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e3%81%84%e3%81%86%e3%82%82%e3%81%ae%e3%81%ae%e3%80%81"><strong>とはいうものの、</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a8%e3%81%84%e3%81%a3%e3%81%a6%e3%82%82"><span>なんといっても</span></a><a href="https://takoboto.jp/?q=%e7%8d%a3%e3%81%a7%e3%81%99%e3%81%8b%e3%82%89%e3%80%81"><span>獣ですから、</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%82%92"><span>気を</span></a><a href="https://takoboto.jp/?q=%e8%a8%b1%e3%81%95%e3%81%aa%e3%81%84%e3%81%a7"><span>許さないで</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84%e3%80%82"><span>下さい。</span></a>
+    segments:
+      - text: あのホワイト・ライオンの子どもはおとなしい
+        grammar_highlight: false
+      - text: とはいうものの、
+        grammar_highlight: true
+      - text: なんといっても獣ですから、気を許さないで下さい。
+        grammar_highlight: false
+    reading: あのホワイト・ライオンのこどもはおとなしいとはいうものの、なんといってもししですから、きをゆるさないでください。
+    credits_raw: Miki, dc
+    translations:
+      - language: en
+        text: While you can say the white lion cub is tame, it is a wild animal after all; so please do not let down your guard.
+        html: |-
+          <strong>While you can say the white lion cub is tame, </strong><span>it is a wild animal after all; so please do not let down your guard. </span>
+        segments:
+          - text: 'While you can say the white lion cub is tame, '
+            grammar_highlight: true
+          - text: 'it is a wild animal after all; so please do not let down your guard. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: "[monono] is basically the same as \n[shikashi] or \n[keredomo] \nand interchangeable:\n\n　　パソコンを買った[ものの]、使い方が全然わからない。\n→　パソコンを買った[けれども]、\n→　パソコンを買った[しかし]\n→　パソコンを買った[ということは本当だが]\n\nIts true I bought a PC, but ... (I have no idea how to use it)"
+    html: |-
+      [monono] is basically the same as <br/>[shikashi] or <br/>[keredomo] <br/>and interchangeable:<br/><br/>　　パソコンを買った[ものの]、使い方が全然わからない。<br/>→　パソコンを買った[けれども]、<br/>→　パソコンを買った[しかし]<br/>→　パソコンを買った[ということは本当だが]<br/><br/>Its true I bought a PC, but ... (I have no idea how to use it)
+    credits_raw: dc
+    content_sha256: 3ca6c3242b4eab46c660cb32bd1f282147e48f33602af82d487cf7b7239aa9e1
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      my text book explaints it with:
+      けれども 〜ということは本当だが、しかし
+    html: |-
+      my text book explaints it with:<br/>けれども 〜ということは本当だが、しかし
+    credits_raw: halx
+    content_sha256: b87d95c93235f6d65e3f4ba8826b5ffa18c89f3ba9f0897ddde00a321b46c4da
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      You can replace with them.
+      〜けれども／〜ということは本当だが、しかし
+      →パソコンを買ったけれども、使い方が全然わからない。
+    html: |-
+      You can replace with them.<br/>〜けれども／〜ということは本当だが、しかし<br/>→パソコンを買ったけれども、使い方が全然わからない。
+    credits_raw: Miki
+    content_sha256: 4becbea8a2459bde21099f63f14da177db41cae9c6d75f12995609f92a582b10
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: this "but" seems to lean toward "although" 〜 のに
+    html: this "but" seems to lean toward "although" 〜 のに
+    credits_raw: dc
+    content_sha256: e9d08b10c75c196895190d739c3ee9c7fdeb5228c31a31132337459020a1f88f
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Quite often used in the construct ~とはいうものの, with a noun before と it's always used in that form.
+    html: Quite often used in the construct ~とはいうものの, with a noun before と it's always used in that form.
+    credits_raw: halx
+    content_sha256: 619208cdfbfbdcb512819d150dc76751549d7545d38a757b5cb9964d6f4e904a
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      ものの should be equated to "although" or "despite the fact that..." rather than "but" so that "I bought a PC, but I have no idea how to use it" shold preferably be "Although I bought myself a PC, I have no idea how to use it."
+    html: |-
+      ものの should be equated to "although" or "despite the fact that..." rather than "but" so that "I bought a PC, but I have no idea how to use it" shold preferably be "Although I bought myself a PC, I have no idea how to use it."
+    credits_raw: bamboo4
+    content_sha256: 329fae57df42f37323a7e41f01f48decc57fa69911a7f35624add754a5284652
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: 'ex #4372 is a duplicate (with funny translation)'
+    html: 'ex #4372 is a duplicate (with funny translation)'
+    credits_raw: halx
+    content_sha256: 236695801564509ac6f7fe4e879fc22a1f6349b96dc01595ddc4864dad8c557b
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: All the examples here sound good to my ears.
+    html: All the examples here sound good to my ears.
+    credits_raw: Nick
+    content_sha256: a8de3c30d990baf8627037a14af47704e9fbbbe26e2aa79394411a87baf0b2b4
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 724
+    label: けれども
+    source_url: https://takoboto.jp/bunpo/724
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:42:01+00:00'
+response_sha256: 84b23a7d3d057aa3bad0650b6c07c8618846ae0517e6cae5ea1ee55cee19d6f2
+warnings: []

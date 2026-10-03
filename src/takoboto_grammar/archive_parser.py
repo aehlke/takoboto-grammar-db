@@ -1,7 +1,6 @@
 """JGram source observations, kept separate from current Takoboto records."""
 
 import hashlib
-import json
 import re
 from pathlib import Path
 from html.parser import HTMLParser
@@ -10,8 +9,9 @@ from urllib.parse import parse_qs, urlsplit, quote_from_bytes
 from bs4 import BeautifulSoup
 
 from .parser import LICENSE, ParseError, cc_license_links, is_data_license, fragment, text
+from .record_yaml import load_yaml
 
-MEMBERSHIP_REVIEWS = json.loads(Path(__file__).with_name('grammar-membership.json').read_text(encoding='utf-8'))['entries']
+MEMBERSHIP_REVIEWS = load_yaml(Path(__file__).with_name('grammar-membership.yaml').read_text(encoding='utf-8'))['entries']
 
 
 class NotGrammar(ParseError):

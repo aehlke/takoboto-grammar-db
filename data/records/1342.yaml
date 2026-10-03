@@ -1,0 +1,405 @@
+schema_version: 2
+id: 1342
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1342/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜べからず
+romanized_label: bekarazu
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: must not
+meaning_example: do not leave garbage here
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1342
+    body_text: |-
+      must not 
+       do not leave garbage here
+    body_html: |-
+      <span>must not</span> <br/> <span>do not leave garbage here</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 4255
+    position: 0
+    japanese: ここにゴミを捨てるべからず。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%ab%e3%82%b4%e3%83%9f%e3%82%92"><span>ここにゴミを</span></a><a href="https://takoboto.jp/?q=%e6%8d%a8%e3%81%a6%e3%82%8b"><span>捨てる</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a"><strong>べからず</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ここにゴミを捨てる
+        grammar_highlight: false
+      - text: べからず
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ここにゴミをすてるべからず。
+    credits_raw: dbx, dc
+    translations:
+      - language: en
+        text: It is forbidden to throw trash here.
+        html: |-
+          <strong>It is forbidden </strong><span>to throw trash here. </span>
+        segments:
+          - text: 'It is forbidden '
+            grammar_highlight: true
+          - text: 'to throw trash here. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4256
+    position: 1
+    japanese: 公園の掲示に芝生にはいるべからず。とかいてあった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%ac%e5%9c%92%e3%81%ae"><span>公園の</span></a><a href="https://takoboto.jp/?q=%e6%8e%b2%e7%a4%ba%e3%81%ab"><span>掲示に</span></a><a href="https://takoboto.jp/?q=%e8%8a%9d%e7%94%9f%e3%81%ab%e3%81%af%e3%81%84%e3%82%8b"><span>芝生にはいる</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a"><strong>べからず</strong></a><a href="https://takoboto.jp/?q=%e3%80%82%e3%81%a8%e3%81%8b%e3%81%84%e3%81%a6%e3%81%82%e3%81%a3%e3%81%9f%e3%80%82"><span>。とかいてあった。</span></a>
+    segments:
+      - text: 公園の掲示に芝生にはいる
+        grammar_highlight: false
+      - text: べからず
+        grammar_highlight: true
+      - text: 。とかいてあった。
+        grammar_highlight: false
+    reading: こうえんのけいじにしばふにはいるべからず。とかいてあった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: The notice in the park said to keep of the grass.
+        html: |-
+          <span>The notice in the park said to keep of the grass. </span>
+        segments:
+          - text: 'The notice in the park said to keep of the grass. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4257
+    position: 2
+    japanese: 好機逸すべからず。この機に一気に仕事を仕上げてしまおう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a5%bd%e6%a9%9f%e9%80%b8%e3%81%99"><span>好機逸す</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a"><strong>べからず</strong></a><a href="https://takoboto.jp/?q=%e3%80%82%e3%81%93%e3%81%ae"><span>。この</span></a><a href="https://takoboto.jp/?q=%e6%a9%9f%e3%81%ab"><span>機に</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%b0%97%e3%81%ab"><span>一気に</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%82%92"><span>仕事を</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%b8%8a%e3%81%92%e3%81%a6%e3%81%97%e3%81%be%e3%81%8a%e3%81%86%e3%80%82"><span>仕上げてしまおう。</span></a>
+    segments:
+      - text: 好機逸す
+        grammar_highlight: false
+      - text: べからず
+        grammar_highlight: true
+      - text: 。この機に一気に仕事を仕上げてしまおう。
+        grammar_highlight: false
+    reading: こうきいっすべからず。このきにいっきにしごとをしあげてしまおう。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: This is a golden opportunity we'd be stupid to pass up. Let's get to work and finish it all in one fell swoop.
+        html: |-
+          <span>This is a golden opportunity we'd be stupid to pass up. Let's get to work and finish it all in one fell swoop. </span>
+        segments:
+          - text: 'This is a golden opportunity we''d be stupid to pass up. Let''s get to work and finish it all in one fell swoop. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4258
+    position: 3
+    japanese: 芝生に入るべからず。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%8a%9d%e7%94%9f%e3%81%ab"><span>芝生に</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8b"><span>入る</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a"><strong>べからず</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 芝生に入る
+        grammar_highlight: false
+      - text: べからず
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: しばふにはいるべからず。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Keep off the grass!
+        html: |-
+          <span>Keep off the grass! </span>
+        segments:
+          - text: 'Keep off the grass! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4259
+    position: 4
+    japanese: 書籍が学問に従うべく、学問が書籍に従うべからず。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9b%b8%e7%b1%8d%e3%81%8c"><span>書籍が</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e5%95%8f%e3%81%ab"><span>学問に</span></a><a href="https://takoboto.jp/?q=%e5%be%93%e3%81%86%e3%81%b9%e3%81%8f%e3%80%81"><span>従うべく、</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e5%95%8f%e3%81%8c"><span>学問が</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e7%b1%8d%e3%81%ab"><span>書籍に</span></a><a href="https://takoboto.jp/?q=%e5%be%93%e3%81%86"><span>従う</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a"><strong>べからず</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 書籍が学問に従うべく、学問が書籍に従う
+        grammar_highlight: false
+      - text: べからず
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: しょせきががくもんにしたがうべく、がくもんがしょせきにしたがうべからず。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Books must follow sciences, and not sciences books.
+        html: |-
+          <span>Books must follow sciences, and not sciences books. </span>
+        segments:
+          - text: 'Books must follow sciences, and not sciences books. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4261
+    position: 5
+    japanese: 流言飛語に惑わされるべからず、とはいうものの、言うは易く行うは難し、と思わない？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%b5%81%e8%a8%80%e9%a3%9b%e8%aa%9e%e3%81%ab"><span>流言飛語に</span></a><a href="https://takoboto.jp/?q=%e6%83%91%e3%82%8f%e3%81%95%e3%82%8c%e3%82%8b"><span>惑わされる</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a"><strong>べからず</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%a8%e3%81%af%e3%81%84%e3%81%86%e3%82%82%e3%81%ae%e3%81%ae%e3%80%81"><span>、とはいうものの、</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%af"><span>言うは</span></a><a href="https://takoboto.jp/?q=%e6%98%93%e3%81%8f"><span>易く</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%86%e3%81%af"><span>行うは</span></a><a href="https://takoboto.jp/?q=%e9%9b%a3%e3%81%97%e3%80%81%e3%81%a8"><span>難し、と</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%82%8f%e3%81%aa%e3%81%84"><span>思わない</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: 流言飛語に惑わされる
+        grammar_highlight: false
+      - text: べからず
+        grammar_highlight: true
+      - text: 、とはいうものの、言うは易く行うは難し、と思わない？
+        grammar_highlight: false
+    reading: りゅうげんひごにまどわされるべからず、とはいうものの、いうはやすくおこなうはかたし、とおもわない？
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: They say you shouldn't take rumors seriously but that's easier said than done.
+        html: |-
+          <span>They say you shouldn't take rumors seriously but that's easier said than done. </span>
+        segments:
+          - text: 'They say you shouldn''t take rumors seriously but that''s easier said than done. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4262
+    position: 6
+    japanese: ここにゴミ捨てるべからず。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%ab%e3%82%b4%e3%83%9f"><span>ここにゴミ</span></a><a href="https://takoboto.jp/?q=%e6%8d%a8%e3%81%a6%e3%82%8b"><span>捨てる</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a"><strong>べからず</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ここにゴミ捨てる
+        grammar_highlight: false
+      - text: べからず
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ここにゴミすてるべからず。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: No dumping of rubbish here!
+        html: |-
+          <span>No dumping of rubbish here! </span>
+        segments:
+          - text: 'No dumping of rubbish here! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4263
+    position: 7
+    japanese: その混乱実に名状すべからず。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e6%b7%b7%e4%b9%b1%e5%ae%9f%e3%81%ab"><span>混乱実に</span></a><a href="https://takoboto.jp/?q=%e5%90%8d%e7%8a%b6%e3%81%99"><span>名状す</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a"><strong>べからず</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: その混乱実に名状す
+        grammar_highlight: false
+      - text: べからず
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: そのこんらんじつにめいじょうすべからず。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: The confusion beggars description.
+        html: |-
+          <span>The confusion beggars description. </span>
+        segments:
+          - text: 'The confusion beggars description. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6206
+    position: 8
+    japanese: 働かざる者は食うべからず。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%8b%e3%81%96%e3%82%8b"><span>働かざる</span></a><a href="https://takoboto.jp/?q=%e8%80%85%e3%81%af"><span>者は</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%86"><span>食う</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a"><strong>べからず</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 働かざる者は食う
+        grammar_highlight: false
+      - text: べからず
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: はたらかざるものはくうべからず。
+    credits_raw: tsunami
+    translations:
+      - language: en
+        text: The person who not working, does not deserve to eat.　(proverb)
+        html: |-
+          <span>The person who not working, </span><strong>does not deserve </strong><span>to eat.　(proverb) </span>
+        segments:
+          - text: 'The person who not working, '
+            grammar_highlight: false
+          - text: 'does not deserve '
+            grammar_highlight: true
+          - text: 'to eat.　(proverb) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4260
+    position: 9
+    japanese: 鉄は熱いうちに打て；後期逸すべからず。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%89%84%e3%81%af"><span>鉄は</span></a><a href="https://takoboto.jp/?q=%e7%86%b1%e3%81%84%e3%81%86%e3%81%a1%e3%81%ab"><span>熱いうちに</span></a><a href="https://takoboto.jp/?q=%e6%89%93%e3%81%a6"><span>打て</span></a><a href="https://takoboto.jp/?q=%ef%bc%9b%e5%be%8c%e6%9c%9f%e9%80%b8%e3%81%99"><span>；後期逸す</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a"><strong>べからず</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 鉄は熱いうちに打て；後期逸す
+        grammar_highlight: false
+      - text: べからず
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: てつはあついうちにうて；こうきいっすべからず。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Strike while the iron is hot, you must not lose your last chance.
+        html: |-
+          <span>Strike while the iron is hot, you </span><strong>must not </strong><span>lose your last chance. </span>
+        segments:
+          - text: 'Strike while the iron is hot, you '
+            grammar_highlight: false
+          - text: 'must not '
+            grammar_highlight: true
+          - text: 'lose your last chance. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Also べからざる＋N
+      例えば：
+      N１に合格のは、私にとって欠くべからざる日本へ行ける条件となっている。
+    html: |-
+      Also べからざる＋N<br/>例えば：<br/>N１に合格のは、私にとって欠くべからざる日本へ行ける条件となっている。
+    credits_raw: masakitenchi
+    content_sha256: 8b5a455d043d75c85665771df75cd163eb7620d0e4cb382e0d841c6b886757c7
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Shouldn't example # 4256 read:
+
+      The notice in the park said to keep off the grass
+
+      not:
+
+      The notice in the park said to keep of the grass
+
+      ?
+    html: |-
+      Shouldn't example # 4256 read:<br/><br/>The notice in the park said to keep off the grass<br/><br/>not:<br/><br/>The notice in the park said to keep of the grass<br/><br/>?
+    credits_raw: PaulO
+    content_sha256: 350175eb1cfea5d587b2c32e385eddcf7752019bb4dd6386e2d2bc5fe3e355a0
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      The only time I have seen this grammar is on signs. My teacher says it is an old fashioned way of saying 〜してはいけない. Obviously it is the negative form of 〜べき.
+    html: |-
+      The only time I have seen this grammar is on signs. My teacher says it is an old fashioned way of saying 〜してはいけない. Obviously it is the negative form of 〜べき.
+    credits_raw: blabby
+    content_sha256: 916016563528f4084e79207241cdaaf30b0d6f97da3e64ba66a7991f45dd4213
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      This is the negative form of べし　;) (べから・べく（べかり）・べし・べき（べかる）・べけれ・○)
+      べきではない would be used in speaking.
+    html: |-
+      This is the negative form of べし　;) (べから・べく（べかり）・べし・べき（べかる）・べけれ・○)<br/>べきではない would be used in speaking.
+    credits_raw: Miki
+    content_sha256: 1b0a927b444773550758e973910f77a964f942c459bcf25eb23a192a1ef94866
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Pardon me, but in Classical Japanese it is the negative of 〜べき 
+
+      http://www.sengokudaimyo.com/bungo/bungo.html
+    html: |-
+      Pardon me, but in Classical Japanese it is the negative of 〜べき <br/><br/>http://www.sengokudaimyo.com/bungo/bungo.html
+    credits_raw: quendidil
+    content_sha256: 3c827bf3189a39ef22b90394b44bf1b9725cfd2786c8164a99ddde1119e049b3
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: I think a lot of the conjugated verbs in CJ survived in modern Japanese as common idioms or grammatical expressions
+    html: I think a lot of the conjugated verbs in CJ survived in modern Japanese as common idioms or grammatical expressions
+    credits_raw: quendidil
+    content_sha256: 59f80e508bd3f26cd42799489161d006145034e587b1294ce63e38028e94d814
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      >> quendidil
+      The dictionary form (終止形) would be べし, but in MJ, べし has been replaced by べきだ. 
+      So if we're talking about MJ, べからず is the negative of べきだ, but in CJ, it would be べし.
+    html: |-
+      &gt;&gt; quendidil<br/>The dictionary form (終止形) would be べし, but in MJ, べし has been replaced by べきだ. <br/>So if we're talking about MJ, べからず is the negative of べきだ, but in CJ, it would be べし.
+    credits_raw: jimmyseal
+    content_sha256: 21ecc0ac7ece2f79e7a4e8a30a8caf5e1f4dfed7035791e0dd7269884c136cf7
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      In ex #6206, wouldn't "動かざる者" mean "the person who isn't moving" rather than "the person who isn't working?" I only ask because it's easy to mistake the Kanji for "to move" (動) with the Kanji for "to work" (働). I apologize if this phrase is an idiomatic usage of which I am not aware.
+    html: |-
+      In ex #6206, wouldn't "動かざる者" mean "the person who isn't moving" rather than "the person who isn't working?" I only ask because it's easy to mistake the Kanji for "to move" (動) with the Kanji for "to work" (働). I apologize if this phrase is an idiomatic usage of which I am not aware.
+    credits_raw: bshock
+    content_sha256: b814a723a135feb865167a96876a9b44eb66cea5a2138ad11bc8a92ab97c9079
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: 'In ex #4260 I''ve translated: "後期逸すべからず" as "you must not loose your last chance". Is it ok?'
+    html: 'In ex #4260 I''ve translated: "後期逸すべからず" as "you must not loose your last chance". Is it ok?'
+    credits_raw: karekano
+    content_sha256: 7f8c518d0e6dedc7b88b639a4e9a84da26c89a0f653e0b904aeea8e420534950
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: 'In ex #6206 I''ve changed 動かざる者は食うべからず べからず。 -> 働かざる者は食うべからず。'
+    html: 'In ex #6206 I''ve changed 動かざる者は食うべからず べからず。 -&gt; 働かざる者は食うべからず。'
+    credits_raw: karekano
+    content_sha256: 8293267ebc916f267e42751d610de2a955d0e6dd8d18f3e086037ddf89682a8e
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      In ex #4261 is it necessary to translate "と思わない？" as "don't you think"? I'm always in doubt if and how should I traslate: kai, yo, mai, da, ne...
+    html: |-
+      In ex #4261 is it necessary to translate "と思わない？" as "don't you think"? I'm always in doubt if and how should I traslate: kai, yo, mai, da, ne...
+    credits_raw: karekano
+    content_sha256: 7faa2539a75b823083777aedc8f8f672817e27290ce4ba62880d5fcb0474389d
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 779
+    label: べき
+    source_url: https://takoboto.jp/bunpo/779
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:41:55+00:00'
+response_sha256: aaa5241803e42ed2cce85f0d072586c535f118fc38dac88c17b667c5c09aa844
+warnings: []

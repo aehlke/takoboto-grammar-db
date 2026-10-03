@@ -1,0 +1,306 @@
+schema_version: 2
+id: 771
+source: takoboto
+source_url: https://takoboto.jp/bunpo/771/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: を込めて
+romanized_label: wokomete
+alternate_forms:
+  - をこめて
+jlpt_level: 2
+credits_raw: dc
+meaning: '[Verb Phrase] with all your [Noun Phrase]'
+meaning_example: sing with all your heart
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_771
+    body_text: |-
+      [Verb Phrase] with all your [Noun Phrase] 
+       sing with all your heart
+    body_html: |-
+      <span>[Verb Phrase] with all your [Noun Phrase]</span> <br/> <span>sing with all your heart</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 210
+    position: 0
+    japanese: 彼女は心をこめて歌ったので、聴衆は深い感動をうけた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e5%bf%83"><span>心</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e3%81%93%e3%82%81%e3%81%a6"><strong>をこめて</strong></a><a href="https://takoboto.jp/?q=%e6%ad%8c%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7%e3%80%81"><span>歌ったので、</span></a><a href="https://takoboto.jp/?q=%e8%81%b4%e8%a1%86%e3%81%af"><span>聴衆は</span></a><a href="https://takoboto.jp/?q=%e6%b7%b1%e3%81%84"><span>深い</span></a><a href="https://takoboto.jp/?q=%e6%84%9f%e5%8b%95%e3%82%92%e3%81%86%e3%81%91%e3%81%9f%e3%80%82"><span>感動をうけた。</span></a>
+    segments:
+      - text: 彼女は心
+        grammar_highlight: false
+      - text: をこめて
+        grammar_highlight: true
+      - text: 歌ったので、聴衆は深い感動をうけた。
+        grammar_highlight: false
+    reading: かのじょはこころをこめてうたったので、ちょうしゅうはふかいかんどうをうけた。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: As she sang with all her heart , the audience was deeply moved.
+        html: |-
+          <span>As she sang </span><strong>with all her heart </strong><span>, the audience was deeply moved. </span>
+        segments:
+          - text: 'As she sang '
+            grammar_highlight: false
+          - text: 'with all her heart '
+            grammar_highlight: true
+          - text: ', the audience was deeply moved. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3682
+    position: 1
+    japanese: 心を込めて祈りなさい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bf%83"><span>心</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e8%be%bc%e3%82%81%e3%81%a6"><strong>を込めて</strong></a><a href="https://takoboto.jp/?q=%e7%a5%88%e3%82%8a%e3%81%aa%e3%81%95%e3%81%84%e3%80%82"><span>祈りなさい。</span></a>
+    segments:
+      - text: 心
+        grammar_highlight: false
+      - text: を込めて
+        grammar_highlight: true
+      - text: 祈りなさい。
+        grammar_highlight: false
+    reading: こころをこめていのりなさい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Pray with all your heart.
+        html: |-
+          <span>Pray with all your heart. </span>
+        segments:
+          - text: 'Pray with all your heart. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3683
+    position: 2
+    japanese: 怒りを込めて告発人の方に向き直った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%80%92%e3%82%8a"><span>怒り</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e8%be%bc%e3%82%81%e3%81%a6"><strong>を込めて</strong></a><a href="https://takoboto.jp/?q=%e5%91%8a%e7%99%ba%e4%ba%ba%e3%81%ae"><span>告発人の</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%ab"><span>方に</span></a><a href="https://takoboto.jp/?q=%e5%90%91%e3%81%8d"><span>向き</span></a><a href="https://takoboto.jp/?q=%e7%9b%b4%e3%81%a3%e3%81%9f%e3%80%82"><span>直った。</span></a>
+    segments:
+      - text: 怒り
+        grammar_highlight: false
+      - text: を込めて
+        grammar_highlight: true
+      - text: 告発人の方に向き直った。
+        grammar_highlight: false
+    reading: いかりをこめてこくはつじんのほうにむきなおった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: He turned angrily on his accusers.
+        html: |-
+          <span>He turned angrily on his accusers. </span>
+        segments:
+          - text: 'He turned angrily on his accusers. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3684
+    position: 3
+    japanese: 彼は満身の力を込めてそれを持ち上げた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%ba%80%e8%ba%ab%e3%81%ae"><span>満身の</span></a><a href="https://takoboto.jp/?q=%e5%8a%9b"><span>力</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e8%be%bc%e3%82%81%e3%81%a6"><strong>を込めて</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%82%92"><span>それを</span></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a1"><span>持ち</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e3%81%92%e3%81%9f%e3%80%82"><span>上げた。</span></a>
+    segments:
+      - text: 彼は満身の力
+        grammar_highlight: false
+      - text: を込めて
+        grammar_highlight: true
+      - text: それを持ち上げた。
+        grammar_highlight: false
+    reading: かれはまんしんのちからをこめてそれをもちあげた。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: He lifted it up with all his might.
+        html: |-
+          <span>He lifted it up with all his might. </span>
+        segments:
+          - text: 'He lifted it up with all his might. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3685
+    position: 4
+    japanese: 彼女のテクニックはすばらしいが、もっと感情を込めて演奏する必要がある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af%e3%81%af%e3%81%99%e3%81%b0%e3%82%89%e3%81%97%e3%81%84%e3%81%8c%e3%80%81%e3%82%82%e3%81%a3%e3%81%a8"><span>彼女のテクニックはすばらしいが、もっと</span></a><a href="https://takoboto.jp/?q=%e6%84%9f%e6%83%85"><span>感情</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e8%be%bc%e3%82%81%e3%81%a6"><strong>を込めて</strong></a><a href="https://takoboto.jp/?q=%e6%bc%94%e5%a5%8f%e3%81%99%e3%82%8b"><span>演奏する</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>必要がある。</span></a>
+    segments:
+      - text: 彼女のテクニックはすばらしいが、もっと感情
+        grammar_highlight: false
+      - text: を込めて
+        grammar_highlight: true
+      - text: 演奏する必要がある。
+        grammar_highlight: false
+    reading: かのじょのテクニックはすばらしいが、もっとかんじょうをこめてえんそうするひつようがある。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Her technique is superb, but she needs to play with more expression.
+        html: |-
+          <span>Her technique is superb, but she needs to play with more expression. </span>
+        segments:
+          - text: 'Her technique is superb, but she needs to play with more expression. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3686
+    position: 5
+    japanese: 彼女は、愛情と優しさを込めてお祈りをした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%80%81"><span>彼女は、</span></a><a href="https://takoboto.jp/?q=%e6%84%9b%e6%83%85%e3%81%a8"><span>愛情と</span></a><a href="https://takoboto.jp/?q=%e5%84%aa%e3%81%97%e3%81%95"><span>優しさ</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e8%be%bc%e3%82%81%e3%81%a6"><strong>を込めて</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e7%a5%88%e3%82%8a%e3%82%92%e3%81%97%e3%81%9f%e3%80%82"><span>祈りをした。</span></a>
+    segments:
+      - text: 彼女は、愛情と優しさ
+        grammar_highlight: false
+      - text: を込めて
+        grammar_highlight: true
+      - text: お祈りをした。
+        grammar_highlight: false
+    reading: かのじょは、あいじょうとやさしさをこめておいのりをした。
+    credits_raw: dbx, Miki
+    translations:
+      - language: en
+        text: She said her prayers, her heart full of love and tenderness.
+        html: |-
+          <span>She said her prayers, her heart full of love and tenderness. </span>
+        segments:
+          - text: 'She said her prayers, her heart full of love and tenderness. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6779
+    position: 6
+    japanese: 愛をこめて、セーターを編みました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%84%9b"><span>愛</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e3%81%93%e3%82%81%e3%81%a6"><strong>をこめて</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%82%bb%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%92"><span>、セーターを</span></a><a href="https://takoboto.jp/?q=%e7%b7%a8%e3%81%bf%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>編みました。</span></a>
+    segments:
+      - text: 愛
+        grammar_highlight: false
+      - text: をこめて
+        grammar_highlight: true
+      - text: 、セーターを編みました。
+        grammar_highlight: false
+    reading: あいをこめて、セーターをあみました。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: She knitted that sweater with all her love.
+        html: |-
+          <span>She knitted that sweater </span><strong>with all </strong><span>her love. </span>
+        segments:
+          - text: 'She knitted that sweater '
+            grammar_highlight: false
+          - text: 'with all '
+            grammar_highlight: true
+          - text: 'her love. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7202
+    position: 7
+    japanese: 怒りを込めて、核実現反対の署名した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%80%92%e3%82%8a"><span>怒り</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e8%be%bc%e3%82%81%e3%81%a6"><strong>を込めて</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%a0%b8%e5%ae%9f%e7%8f%be%e5%8f%8d%e5%af%be%e3%81%ae"><span>核実現反対の</span></a><a href="https://takoboto.jp/?q=%e7%bd%b2%e5%90%8d%e3%81%97%e3%81%9f%e3%80%82"><span>署名した。</span></a>
+    segments:
+      - text: 怒り
+        grammar_highlight: false
+      - text: を込めて
+        grammar_highlight: true
+      - text: 、核実現反対の署名した。
+        grammar_highlight: false
+    reading: いかりをこめて、かくじつげんはんたいのしょめいした。
+    credits_raw: sureshnihon
+    translations:
+      - language: en
+        text: Passionately, and anti-nuclear signatures.
+        html: |-
+          <span>Passionately, and anti-nuclear signatures. </span>
+        segments:
+          - text: 'Passionately, and anti-nuclear signatures. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7203
+    position: 8
+    japanese: 病気回復の祈りを込めて、皆で鶴を折った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%97%85%e6%b0%97%e5%9b%9e%e5%be%a9%e3%81%ae"><span>病気回復の</span></a><a href="https://takoboto.jp/?q=%e7%a5%88%e3%82%8a"><span>祈り</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e8%be%bc%e3%82%81%e3%81%a6"><strong>を込めて</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%9a%86%e3%81%a7"><span>皆で</span></a><a href="https://takoboto.jp/?q=%e9%b6%b4%e3%82%92"><span>鶴を</span></a><a href="https://takoboto.jp/?q=%e6%8a%98%e3%81%a3%e3%81%9f%e3%80%82"><span>折った。</span></a>
+    segments:
+      - text: 病気回復の祈り
+        grammar_highlight: false
+      - text: を込めて
+        grammar_highlight: true
+      - text: 、皆で鶴を折った。
+        grammar_highlight: false
+    reading: びょうきかいふくのいのりをこめて、みんなでつるをおった。
+    credits_raw: sureshnihon
+    translations:
+      - language: en
+        text: The prayer of a sick recovery was put, and the crane was folded all.
+        html: |-
+          <span>The prayer of a sick recovery was put, and the crane was folded all. </span>
+        segments:
+          - text: 'The prayer of a sick recovery was put, and the crane was folded all. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8526
+    position: 9
+    japanese: 彼は彼女に愛情をこめてキスした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ab"><span>彼女に</span></a><a href="https://takoboto.jp/?q=%e6%84%9b%e6%83%85%e3%82%92%e3%81%93%e3%82%81%e3%81%a6%e3%82%ad%e3%82%b9%e3%81%97%e3%81%9f%e3%80%82"><span>愛情をこめてキスした。</span></a>
+    segments:
+      - text: 彼は彼女に愛情をこめてキスした。
+        grammar_highlight: false
+    reading: かれはかのじょにあいじょうをこめてキスした。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He gave her an affectionate kiss.
+        html: |-
+          <span>He gave her an affectionate kiss. </span>
+        segments:
+          - text: 'He gave her an affectionate kiss. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 気持ちをその中に入れて
+    html: 気持ちをその中に入れて
+    credits_raw: sureshnihon
+    content_sha256: 4466358878a55a30503873512d0673396382af366726fdee35211ecf816b8b63
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 心をこめて is a very commonly used phrase
+    html: 心をこめて is a very commonly used phrase
+    credits_raw: Amatuka
+    content_sha256: 9f09fb65d052342dadd09d96f1f815b8e3d66209bdecdf584ae979958fb7c809
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      を is used to mark a noun or noun phrase.
+
+      N = noun.
+    html: |-
+      を is used to mark a noun or noun phrase.<br/><br/>N = noun.
+    credits_raw: Amatuka
+    content_sha256: 3914a79fd4514186a0c9f217f373f0e5f1c64fecaa465493f9d5a198269a991e
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:51+00:00'
+response_sha256: 57ce1ebdb4eb0b0c38dfa153c83a72d6c4ba5f75be5d781909861cbd79c47848
+warnings: []

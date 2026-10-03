@@ -1,0 +1,236 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 478
+label: eru
+title_raw: 得る [える] (eru)
+title: 得る
+reading: える
+romanized_label: eru
+category: grammar
+jlpt_level_original: '2'
+meaning: to get, to win, to be possible
+meaning_example: I won it in a raffle.
+credits_raw: Amatuka
+source_url: http://jgram.org/pages/viewOne.php?tagE=eru
+archive_url: https://web.archive.org/web/20150224225555id_/http://jgram.org/pages/viewOne.php?tagE=eru
+archive_timestamp: '20150224225555'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: 6ED4E55EREI75WMIX56HLX6KSWGXTEOI
+response_sha256: 8644ca7366c922f0cc88c0463b0a6bf9b29251c1273e4ec582b8eb4498e7ab8e
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Strictly speaking, the conjugations of 得る are:\n\r\n- negative: えない\n\r\n- masu form: えます\n\r\n- te form: えて\n\r\n- terminal form (i.e. at the end of sentences, or when attaching to べき): える／うる\n\r\n- attributive form (i.e. akin to such things as すきな for すき; used when attaching to nouns): うる\n\r\n- conditional form: うれば\n\n\n\r\nIt is the only 二段 (nidan) verb from old Japanese that hasn't fully become an 一段 (ichidan) verb in modern Japanese.  (える／うる in old Japanese was う, so it has changed a little already.)\n\n\n\r\nIn summary, although うる is a more archaic way of saying える, the only time you can choose between える／うる is when it comes at the end of the sentence, or when attaching to べき (in which case, however, うる is also preferable due to the also archaic nature of べき).  This means one should say for example うるために, うるように, うること, うるところ and so on.  Additionally, ありうる is never ありえる.\n\n\n\r\nHowever, in practice, the \"wrong\" forms are still somewhat often used."
+    html: "Strictly speaking, the conjugations of 得る are:<br/>\r\n- negative: えない<br/>\r\n- masu form: えます<br/>\r\n- te form: えて<br/>\r\n- terminal form (i.e. at the end of sentences, or when attaching to べき): える／うる<br/>\r\n- attributive form (i.e. akin to such things as すきな for すき; used when attaching to nouns): うる<br/>\r\n- conditional form: うれば<br/>\n<br/>\r\nIt is the only 二段 (nidan) verb from old Japanese that hasn't fully become an 一段 (ichidan) verb in modern Japanese.  (える／うる in old Japanese was う, so it has changed a little already.)<br/>\n<br/>\r\nIn summary, although うる is a more archaic way of saying える, the only time you can choose between える／うる is when it comes at the end of the sentence, or when attaching to べき (in which case, however, うる is also preferable due to the also archaic nature of べき).  This means one should say for example うるために, うるように, うること, うるところ and so on.  Additionally, ありうる is never ありえる.<br/>\n<br/>\r\nHowever, in practice, the \"wrong\" forms are still somewhat often used."
+    credits_raw: kittymercury
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 498
+    position: 0
+    japanese: ここでは、より良い笑顔をえるための方法を紹介しています。
+    body_text: "ここでは、より良い笑顔をえるための方法を紹介しています。 \n\n\t\tHere we introduce ways of \n\t\tgetting \n\t\ta better smile."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJここでは、より良い笑顔をえるための方法を紹介しています。\">\n\t\t\t\tここでは、より良い笑顔を<strong>える</strong>ための方法を紹介しています。<strong></strong></a> <br/>\n\t\tHere we introduce ways of \n\t\t<strong>getting </strong>\n\t\ta better smile."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4454
+    position: 1
+    japanese: あなたが教えてくれたことから大いに得るところがあった。
+    body_text: "あなたが教えてくれたことから大いに得るところがあった。 \n\n\t\tI received great benefit from your teaching."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあなたが教えてくれたことから大いに得るところがあった。\">\n\t\t\t\tあなたが教えてくれたことから大いに<strong>得る</strong>ところがあった。<strong></strong></a> <br/>\n\t\tI received great benefit from your teaching. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4455
+    position: 2
+    japanese: あの青年は大金を得るため一生懸命働くのをいとわなかった。
+    body_text: "あの青年は大金を得るため一生懸命働くのをいとわなかった。 \n\n\t\tThe young man was extremely money hungry."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあの青年は大金を得るため一生懸命働くのをいとわなかった。\">\n\t\t\t\tあの青年は大金を<strong>得る</strong>ため一生懸命働くのをいとわなかった。<strong></strong></a> <br/>\n\t\tThe young man was extremely money hungry. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4456
+    position: 3
+    japanese: お客様の信頼と尊敬を得ることが当社の目標です。
+    body_text: "お客様の信頼と尊敬を得ることが当社の目標です。 \n\n\t\tEarning our customers confidence and respect is this firm's objective."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJお客様の信頼と尊敬を得ることが当社の目標です。\">\n\t\t\t\tお客様の信頼と尊敬を<strong>得る</strong>ことが当社の目標です。<strong></strong></a> <br/>\n\t\tEarning our customers confidence and respect is this firm's objective. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4457
+    position: 4
+    japanese: この建物に入るには当局の許可を得る必要がある。
+    body_text: "この建物に入るには当局の許可を得る必要がある。 \n\n\t\tIt is necessary to obtain the sanction of the authorities to enter this building."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの建物に入るには当局の許可を得る必要がある。\">\n\t\t\t\tこの建物に入るには当局の許可を<strong>得る</strong>必要がある。<strong></strong></a> <br/>\n\t\tIt is necessary to obtain the sanction of the authorities to enter this building. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4460
+    position: 5
+    japanese: その男は権力を得るために多額の金を使った。
+    body_text: "その男は権力を得るために多額の金を使った。 \n\n\t\tThe man used much money to gain power."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJその男は権力を得るために多額の金を使った。\">\n\t\t\t\tその男は権力を<strong>得る</strong>ために多額の金を使った。<strong></strong></a> <br/>\n\t\tThe man used much money to gain power. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4461
+    position: 6
+    japanese: その本からたくさんの貴重な情報を得ることができる。
+    body_text: "その本からたくさんの貴重な情報を得ることができる。 \n\n\t\tWe can get a lot of valuable information from the book."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJその本からたくさんの貴重な情報を得ることができる。\">\n\t\t\t\tその本からたくさんの貴重な情報を<strong>得る</strong>ことができる。<strong></strong></a> <br/>\n\t\tWe can get a lot of valuable information from the book. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4462
+    position: 7
+    japanese: もしアメリカで勉強するなら学生ビザを得る必要がある。
+    body_text: "もしアメリカで勉強するなら学生ビザを得る必要がある。 \n\n\t\tIf you study in the United States, you need to get a Student visa status."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJもしアメリカで勉強するなら学生ビザを得る必要がある。\">\n\t\t\t\tもしアメリカで勉強するなら学生ビザを<strong>得る</strong>必要がある。<strong></strong></a> <br/>\n\t\tIf you study in the United States, you need to get a Student visa status. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4465
+    position: 8
+    japanese: 今の職を得るために彼女は父親のコネを利用した。
+    body_text: "今の職を得るために彼女は父親のコネを利用した。 \n\n\t\tIn getting her present job, she made capital of her father's connections."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ今の職を得るために彼女は父親のコネを利用した。\">\n\t\t\t\t今の職を<strong>得る</strong>ために彼女は父親のコネを利用した。<strong></strong></a> <br/>\n\t\tIn getting her present job, she made capital of her father's connections. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8151
+    position: 9
+    japanese: 事故の後、彼は公式試合に出場する機会を得ることは二度となかった。
+    body_text: "事故の後、彼は公式試合に出場する機会を得ることは二度となかった。 \n\n\t\tAfter his accident, he never got another chance to play in a real game."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ事故の後、彼は公式試合に出場する機会を得ることは二度となかった。\">\n\t\t\t\t事故の後、彼は公式試合に出場する機会を<strong>得る</strong>ことは二度となかった。<strong></strong></a> <br/>\n\t\tAfter his accident, he never got another chance to play in a real game. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8152
+    position: 10
+    japanese: 彼女に話して得るところがあった。
+    body_text: "彼女に話して得るところがあった。 \n\n\t\tThere was something (a lot, nothing) to be gained by talking to her."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女に話して得るところがあった。\">\n\t\t\t\t彼女に話して<strong>得る</strong>ところがあった。<strong></strong></a> <br/>\n\t\tThere was something (a lot, nothing) to be gained by talking to her. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8153
+    position: 11
+    japanese: かれは自分の車を売って１５万円を得た。
+    body_text: "かれは自分の車を売って１５万円を得た。 \n\n\t\tThe sale of his car gained him 150.00 yen."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJかれは自分の車を売って１５万円を得た。\">\n\t\t\t\tかれは自分の車を売って１５万円を得た。<strong></strong><strong></strong></a> <br/>\n\t\tThe sale of his car gained him 150.00 yen. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8154
+    position: 12
+    japanese: 知識を得る一番よい方法の一つは経歴の異なる人たちと話すことです。
+    body_text: "知識を得る一番よい方法の一つは経歴の異なる人たちと話すことです。 \n\n\t\tOne of the best ways to gain (acquire) knowledge is to talk with people of different backgrounds."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ知識を得る一番よい方法の一つは経歴の異なる人たちと話すことです。\">\n\t\t\t\t知識を<strong>得る</strong>一番よい方法の一つは経歴の異なる人たちと話すことです。<strong></strong></a> <br/>\n\t\tOne of the best ways to gain (acquire) knowledge is to talk with people of different backgrounds. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8155
+    position: 13
+    japanese: ジョージは真っ正直なので顧客の信頼を得た。
+    body_text: "ジョージは真っ正直なので顧客の信頼を得た。 \n\n\t\tGeorge won great customer confidence because he was thoroughly honest."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJジョージは真っ正直なので顧客の信頼を得た。\">\n\t\t\t\tジョージは真っ正直なので顧客の信頼を得た。<strong></strong><strong></strong></a> <br/>\n\t\tGeorge won great customer confidence because he was thoroughly honest. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8156
+    position: 14
+    japanese: 彼は医者としての評判を得ている。
+    body_text: "彼は医者としての評判を得ている。\r \n\n\t\tHe is earning a reputation as a good doctor."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼は医者としての評判を得ている。\">\n\t\t\t\t彼は医者としての評判を得ている。\r<strong></strong><strong></strong></a> <br/>\n\t\tHe is earning a reputation as a good doctor. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8553
+    position: 15
+    japanese: あのずるい人のようには会社に裏切る。
+    body_text: "あのずるい人のようには会社に裏切る。\r \n\n\t\tcunning man like that getting betray to the company."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあのずるい人のようには会社に裏切る。\">\n\t\t\t\tあのずるい人のようには会社に裏切る。\r<strong></strong><strong></strong></a> <br/>\n\t\tcunning man like that getting betray to the company. \n\t\t<strong> </strong>"
+    credits_raw: belajar
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Rather easy to get confused with uru 得る - often  used in the same way (see ariuru vs. arieru)
+    html: Rather easy to get confused with uru 得る - often  used in the same way (see ariuru vs. arieru)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: Make that 'sometimes' ;-)
+    html: Make that 'sometimes' ;-)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: uru
+    label: uru
+    annotation_text: uru    (Don't get 得る うる confused with 得る える) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=uru">uru</a>    (Don't get 得る うる confused with 得る える) [<a href="http://jgram.org/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: "得る [える] (eru)\n    Meaning: to get, to win, to be possible \n    Example: I won it in a raffle.\n    JLPT Level: 2\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>得る [える] (eru)</span><br/>    <span><b>Meaning</b>: to get, to win, to be possible </span><br/>    <b>Example</b>: <i>I won it in a raffle.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225555'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3699062
+  length: 7281
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 4fc4209548c5930fc169a775d3df06fd7935caf7552aba86fc02f29cc68d6099

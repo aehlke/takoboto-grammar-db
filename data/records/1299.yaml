@@ -1,0 +1,287 @@
+schema_version: 2
+id: 1299
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1299/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: にもまして
+romanized_label: nimomashite
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: above everything; more than before
+meaning_example: More than winning the match, i think we can be proud that we really gave it our all
+meaning_notes:
+  - language: ja
+    text: 「AにもましてB」は「Aもそうだが、それ以上B」の意味
+    html: 「AにもましてB」は「Aもそうだが、それ以上B」の意味
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1299
+    body_text: |-
+      above everything; more than before 
+       More than winning the match, i think we can be proud that we really gave it our all 
+       「AにもましてB」は「Aもそうだが、それ以上B」の意味
+    body_html: |-
+      <span>above everything; more than before</span> <br/> <span>More than winning the match, i think we can be proud that we really gave it our all</span> <br/> <span>「AにもましてB」は「Aもそうだが、それ以上B」の意味</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 3532
+    position: 0
+    japanese: トムはいまや以前にもまして勤勉に働いている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%88%e3%83%a0%e3%81%af%e3%81%84%e3%81%be%e3%82%84"><span>トムはいまや</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e5%89%8d"><span>以前</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%82%e3%81%be%e3%81%97%e3%81%a6"><strong>にもまして</strong></a><a href="https://takoboto.jp/?q=%e5%8b%a4%e5%8b%89%e3%81%ab"><span>勤勉に</span></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>働いている。</span></a>
+    segments:
+      - text: トムはいまや以前
+        grammar_highlight: false
+      - text: にもまして
+        grammar_highlight: true
+      - text: 勤勉に働いている。
+        grammar_highlight: false
+    reading: トムはいまやいぜんにもましてきんべんにはたらいている。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Tom works more diligently now.
+        html: |-
+          <span>Tom works more diligently now. </span>
+        segments:
+          - text: 'Tom works more diligently now. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3533
+    position: 1
+    japanese: 何ものにもまして私は健康になりたい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%82%e3%81%ae"><span>何もの</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%82%e3%81%be%e3%81%97%e3%81%a6"><strong>にもまして</strong></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%81%a5%e5%ba%b7%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%9f%e3%81%84%e3%80%82"><span>健康になりたい。</span></a>
+    segments:
+      - text: 何もの
+        grammar_highlight: false
+      - text: にもまして
+        grammar_highlight: true
+      - text: 私は健康になりたい。
+        grammar_highlight: false
+    reading: なにものにもましてわたしはけんこうになりたい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Above all, I want to be healthy.
+        html: |-
+          <span>Above all, I want to be healthy. </span>
+        segments:
+          - text: 'Above all, I want to be healthy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3534
+    position: 2
+    japanese: 彼は以前にもまして勉強しようと決めたのです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e5%89%8d"><span>以前</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%82%e3%81%be%e3%81%97%e3%81%a6"><strong>にもまして</strong></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%97%e3%82%88%e3%81%86%e3%81%a8"><span>勉強しようと</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e3%82%81%e3%81%9f%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82"><span>決めたのです。</span></a>
+    segments:
+      - text: 彼は以前
+        grammar_highlight: false
+      - text: にもまして
+        grammar_highlight: true
+      - text: 勉強しようと決めたのです。
+        grammar_highlight: false
+    reading: かれはいぜんにもましてべんきょうしようときめたのです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: He decided to study harder.
+        html: |-
+          <span>He decided to study harder. </span>
+        segments:
+          - text: 'He decided to study harder. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3535
+    position: 3
+    japanese: 彼は何物にもまして名誉を重んじる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e7%89%a9"><span>何物</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%82%e3%81%be%e3%81%97%e3%81%a6"><strong>にもまして</strong></a><a href="https://takoboto.jp/?q=%e5%90%8d%e8%aa%89%e3%82%92"><span>名誉を</span></a><a href="https://takoboto.jp/?q=%e9%87%8d%e3%82%93%e3%81%98%e3%82%8b%e3%80%82"><span>重んじる。</span></a>
+    segments:
+      - text: 彼は何物
+        grammar_highlight: false
+      - text: にもまして
+        grammar_highlight: true
+      - text: 名誉を重んじる。
+        grammar_highlight: false
+    reading: かれはなにぶつにもましてめいよをおもんじる。
+    credits_raw: dbx, Miki
+    translations:
+      - language: en
+        text: He values honor above anything else.
+        html: |-
+          <span>He values honor above anything else. </span>
+        segments:
+          - text: 'He values honor above anything else. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5304
+    position: 4
+    japanese: その花は色が美しいのにもまして、香りが素晴らしい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e8%8a%b1%e3%81%af"><span>花は</span></a><a href="https://takoboto.jp/?q=%e8%89%b2%e3%81%8c"><span>色が</span></a><a href="https://takoboto.jp/?q=%e7%be%8e%e3%81%97%e3%81%84%e3%81%ae"><span>美しいの</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%82%e3%81%be%e3%81%97%e3%81%a6"><strong>にもまして</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e9%a6%99%e3%82%8a%e3%81%8c"><span>香りが</span></a><a href="https://takoboto.jp/?q=%e7%b4%a0%e6%99%b4%e3%82%89%e3%81%97%e3%81%84%e3%80%82"><span>素晴らしい。</span></a>
+    segments:
+      - text: その花は色が美しいの
+        grammar_highlight: false
+      - text: にもまして
+        grammar_highlight: true
+      - text: 、香りが素晴らしい。
+        grammar_highlight: false
+    reading: そのはなはいろがうつくしいのにもまして、かおりがすばらしい。
+    credits_raw: blabby
+    translations:
+      - language: en
+        text: This flower's color is wonderful. However, the scent is even more wonderful.
+        html: |-
+          <span>This flower's color is wonderful. However, the scent is </span><strong>even more </strong><span>wonderful. </span>
+        segments:
+          - text: 'This flower''s color is wonderful. However, the scent is '
+            grammar_highlight: false
+          - text: 'even more '
+            grammar_highlight: true
+          - text: 'wonderful. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7800
+    position: 5
+    japanese: 新しい会社では、覚えなければならないことが多くて大変だが、それにもましてたいへんなのは、人間関係だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84"><span>新しい</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%a7%e3%81%af%e3%80%81"><span>会社では、</span></a><a href="https://takoboto.jp/?q=%e8%a6%9a%e3%81%88%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%8c"><span>覚えなければならないことが</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%8f%e3%81%a6"><span>多くて</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a4%89%e3%81%a0%e3%81%8c%e3%80%81%e3%81%9d%e3%82%8c"><span>大変だが、それ</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%82%e3%81%be%e3%81%97%e3%81%a6"><strong>にもまして</strong></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%84%e3%81%b8%e3%82%93%e3%81%aa%e3%81%ae%e3%81%af%e3%80%81"><span>たいへんなのは、</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e9%96%a2%e4%bf%82%e3%81%a0%e3%80%82"><span>人間関係だ。</span></a>
+    segments:
+      - text: 新しい会社では、覚えなければならないことが多くて大変だが、それ
+        grammar_highlight: false
+      - text: にもまして
+        grammar_highlight: true
+      - text: たいへんなのは、人間関係だ。
+        grammar_highlight: false
+    reading: あたらしいかいしゃでは、おぼえなければならないことがおおくてたいへんだが、それにもましてたいへんなのは、にんげんかんけいだ。
+    credits_raw: inakaluke
+    translations:
+      - language: en
+        text: |-
+          It's tough trying to learn things at a new company, but even more tough than that is forming bonds with your new co-workers.
+        html: |-
+          <span>It's tough trying to learn things at a new company, but even more tough than that is forming bonds with your new co-workers. </span>
+        segments:
+          - text: "It's tough trying to learn things at a new company, but even more tough than that is forming bonds with your new co-workers. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7936
+    position: 6
+    japanese: 試合に勝ったのにもまして、全力を出し切れたことを誇りに思う
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a9%a6%e5%90%88%e3%81%ab"><span>試合に</span></a><a href="https://takoboto.jp/?q=%e5%8b%9d%e3%81%a3%e3%81%9f%e3%81%ae"><span>勝ったの</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%82%e3%81%be%e3%81%97%e3%81%a6"><strong>にもまして</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e5%8a%9b%e3%82%92"><span>全力を</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97"><span>出し</span></a><a href="https://takoboto.jp/?q=%e5%88%87%e3%82%8c%e3%81%9f%e3%81%93%e3%81%a8%e3%82%92"><span>切れたことを</span></a><a href="https://takoboto.jp/?q=%e8%aa%87%e3%82%8a%e3%81%ab"><span>誇りに</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%86"><span>思う</span></a>
+    segments:
+      - text: 試合に勝ったの
+        grammar_highlight: false
+      - text: にもまして
+        grammar_highlight: true
+      - text: 、全力を出し切れたことを誇りに思う
+        grammar_highlight: false
+    reading: しあいにかったのにもまして、ぜんりょくをだしきれたことをほこりにおもう
+    credits_raw: LR
+    translations:
+      - language: en
+        text: More than winning the match, i think we can be proud that we really gave it our all
+        html: |-
+          <span>More than winning the match, i think we can be proud that we really gave it our all </span>
+        segments:
+          - text: 'More than winning the match, i think we can be proud that we really gave it our all '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7937
+    position: 7
+    japanese: 通訳の試験に合格し、嬉しいのにもまして、今は果たしてうまくやれるか心配だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%80%9a%e8%a8%b3%e3%81%ae"><span>通訳の</span></a><a href="https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%81%ab"><span>試験に</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e6%a0%bc%e3%81%97%e3%80%81"><span>合格し、</span></a><a href="https://takoboto.jp/?q=%e5%ac%89%e3%81%97%e3%81%84%e3%81%ae"><span>嬉しいの</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%82%82%e3%81%be%e3%81%97%e3%81%a6"><strong>にもまして</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e3%81%af"><span>今は</span></a><a href="https://takoboto.jp/?q=%e6%9e%9c%e3%81%9f%e3%81%97%e3%81%a6%e3%81%86%e3%81%be%e3%81%8f%e3%82%84%e3%82%8c%e3%82%8b%e3%81%8b"><span>果たしてうまくやれるか</span></a><a href="https://takoboto.jp/?q=%e5%bf%83%e9%85%8d%e3%81%a0%e3%80%82"><span>心配だ。</span></a>
+    segments:
+      - text: 通訳の試験に合格し、嬉しいの
+        grammar_highlight: false
+      - text: にもまして
+        grammar_highlight: true
+      - text: 、今は果たしてうまくやれるか心配だ。
+        grammar_highlight: false
+    reading: つうやくのしけんにごうかくし、うれしいのにもまして、いまははたしてうまくやれるかしんぱいだ。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: I'm happy I passed the intepreter's exam, but moreover, now I'm worried about whether I can do the job well.
+        html: |-
+          <span>I'm happy I passed the intepreter's exam, but moreover, now I'm worried about whether I can do the job well. </span>
+        segments:
+          - text: 'I''m happy I passed the intepreter''s exam, but moreover, now I''m worried about whether I can do the job well. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: how is this different from より [yori] ？
+    html: how is this different from より [yori] ？
+    credits_raw: dc
+    content_sha256: a66fdb78a987007d21ce1d25bcd62d3809bcbdb5eb4df95122f0d86d565c2cb5
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      にも+まして（増して）is similar to より here. 
+      I feel にもまして is more emphasized than より in telling the difference.
+    html: |-
+      にも+まして（増して）is similar to より here. <br/>I feel にもまして is more emphasized than より in telling the difference.
+    credits_raw: Miki
+    content_sha256: e381fbf60ab44b5638078bb932063b28207555f616823a08bd091d714929dc1a
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: is this a written only word?
+    html: is this a written only word?
+    credits_raw: dc
+    content_sha256: 58477dba8d38cfbc0de21a9d19f77a39ba49fd71025c5771b7237a3f7c9bf801
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      「AにもましてBは〜だ」
+      = A is 〜 but B is even more 〜.
+      = Aも〜だが、さらにBの方が上だ。
+    html: |-
+      「AにもましてBは〜だ」<br/>= A is 〜 but B is even more 〜.<br/>= Aも〜だが、さらにBの方が上だ。
+    credits_raw: blabby
+    content_sha256: 521863c459595ed4ad638f6530ba2f4856851bf4ddccd12fa83a19e80e89683d
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Is this almost like TORIWAKE ??
+    html: Is this almost like TORIWAKE ??
+    credits_raw: naimononedari
+    content_sha256: 101a0f9b92efc99550865fa467a77c4498e285e2a06f48179396be25cd5f8142
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 789
+    label: より
+    source_url: https://takoboto.jp/bunpo/789
+  - target_id: 1520
+    label: ましてや
+    source_url: https://takoboto.jp/bunpo/1520
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:43:24+00:00'
+response_sha256: 107d339b90d151e174443b4013b81a63568a322877b58c9c965bcde33c560bc3
+warnings: []

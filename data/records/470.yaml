@@ -1,0 +1,338 @@
+schema_version: 2
+id: 470
+source: takoboto
+source_url: https://takoboto.jp/bunpo/470/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ありうる, ありえる (有り得る)
+romanized_label: arieru
+alternate_forms: []
+jlpt_level: 2
+credits_raw: Amatuka
+meaning: To be possible, to be conceivable
+meaning_example: Do you think it is likely they will arrive this evening?
+meaning_notes:
+  - language: ja
+    text: ある可能性がある。あるはずである。
+    html: ある可能性がある。あるはずである。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_470
+    body_text: |-
+      To be possible, to be conceivable 
+       Do you think it is likely they will arrive this evening? 
+       ある可能性がある。あるはずである。
+    body_html: |-
+      <span>To be possible, to be conceivable</span> <br/> <span>Do you think it is likely they will arrive this evening?</span> <br/> <span>ある可能性がある。あるはずである。</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 729
+    position: 0
+    japanese: 安全という状態はどこにもありえない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ae%89%e5%85%a8%e3%81%a8%e3%81%84%e3%81%86"><span>安全という</span></a><a href="https://takoboto.jp/?q=%e7%8a%b6%e6%85%8b%e3%81%af"><span>状態は</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%93%e3%81%ab%e3%82%82"><span>どこにも</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8a%e3%81%88%e3%81%aa%e3%81%84"><strong>ありえない</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 安全という状態はどこにも
+        grammar_highlight: false
+      - text: ありえない
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あんぜんというじょうたいはどこにもありえない。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: That state called safety - no matter where you look can't be found.
+        html: |-
+          <span>That state called safety - no matter where you look </span><strong>can't be found. </strong>
+        segments:
+          - text: 'That state called safety - no matter where you look '
+            grammar_highlight: false
+          - text: 'can''t be found. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3394
+    position: 1
+    japanese: 冗談を言うほど賢いコンピューターがありえるだろうか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%86%97%e8%ab%87%e3%82%92"><span>冗談を</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%bb%e3%81%a9"><span>言うほど</span></a><a href="https://takoboto.jp/?q=%e8%b3%a2%e3%81%84%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%8c"><span>賢いコンピューターが</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8a%e3%81%88%e3%82%8b"><strong>ありえる</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b%e3%80%82"><span>だろうか。</span></a>
+    segments:
+      - text: 冗談を言うほど賢いコンピューターが
+        grammar_highlight: false
+      - text: ありえる
+        grammar_highlight: true
+      - text: だろうか。
+        grammar_highlight: false
+    reading: じょうだんをいうほどかしこいコンピューターがありえるだろうか。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Can there be a computer intelligent enough to tell a joke?
+        html: |-
+          <span>Can there be a computer intelligent enough to tell a joke? </span>
+        segments:
+          - text: 'Can there be a computer intelligent enough to tell a joke? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3395
+    position: 2
+    japanese: 彼女の成功はありえることだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae"><span>彼女の</span></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%af"><span>成功は</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8a%e3%81%88%e3%82%8b"><strong>ありえる</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0%e3%80%82"><span>ことだ。</span></a>
+    segments:
+      - text: 彼女の成功は
+        grammar_highlight: false
+      - text: ありえる
+        grammar_highlight: true
+      - text: ことだ。
+        grammar_highlight: false
+    reading: かのじょのせいこうはありえることだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It is within the bounds of possibility that she will succeeded.
+        html: |-
+          <span>It is within the bounds of possibility that she will succeeded. </span>
+        segments:
+          - text: 'It is within the bounds of possibility that she will succeeded. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 728
+    position: 3
+    japanese: 日本においても充分ありえる話だと思います。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6%e3%82%82"><span>日本においても</span></a><a href="https://takoboto.jp/?q=%e5%85%85%e5%88%86"><span>充分</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8a%e3%81%88%e3%82%8b"><strong>ありえる</strong></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%a0%e3%81%a8"><span>話だと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>思います。</span></a>
+    segments:
+      - text: 日本においても充分
+        grammar_highlight: false
+      - text: ありえる
+        grammar_highlight: true
+      - text: 話だと思います。
+        grammar_highlight: false
+    reading: にほんにおいてもじゅうぶんありえるはなしだとおもいます。
+    credits_raw: Amatuka, bamboo4
+    translations:
+      - language: en
+        text: Even in Japan I think that could talk well enough.
+        html: |-
+          <span>Even in Japan I think that </span><strong>could </strong><span>talk well </span><strong>enough. </strong>
+        segments:
+          - text: 'Even in Japan I think that '
+            grammar_highlight: false
+          - text: 'could '
+            grammar_highlight: true
+          - text: 'talk well '
+            grammar_highlight: false
+          - text: 'enough. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: The seconde one roughly means 安全という状態は、どこにも ない.
+    html: The seconde one roughly means 安全という状態は、どこにも ない.
+    credits_raw: Miki
+    content_sha256: 16469c8b5aabf9c35987c292c3f5e573d866339fccb36a771730b7eb95f36df7
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      often used as slang by young people - ありえない！ or even worse ありえねえ〜！ I cant believe it! (maybe, "you're shitting me right?" might be more accurate mood translation)
+    html: |-
+      often used as slang by young people - ありえない！ or even worse ありえねえ〜！ I cant believe it! (maybe, "you're shitting me right?" might be more accurate mood translation)
+    credits_raw: dc
+    content_sha256: e0bfab02ba5605b336812b7bc62f0f5ed74f51e863a2e87a673c5c52fdfe41a2
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      In a J-dictionary, a believable tale = 信じられる話. With that's Japanese, I could not accept the 1st one. 
+      Now the current translation sounds nice.:)
+    html: |-
+      In a J-dictionary, a believable tale = 信じられる話. With that's Japanese, I could not accept the 1st one. <br/>Now the current translation sounds nice.:)
+    credits_raw: Miki
+    content_sha256: 45b2bb11188e72182c5c35b9ae2390fa610a4dc69c11d71b7548546b70b6b118
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: trustworthy tale だと、「信頼できる話」かな。混乱。
+    html: trustworthy tale だと、「信頼できる話」かな。混乱。
+    credits_raw: Miki
+    content_sha256: b115329ee025f1d5c4ca0ee837fc3de229b679dd3615aaec884e0ed0d2d726ac
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      I'm satisfied with the new one.
+      Even in Japan I think that could well happen.
+    html: |-
+      I'm satisfied with the new one.<br/>Even in Japan I think that could well happen.
+    credits_raw: Miki
+    content_sha256: b500f974739cfbb4cf3061280f5d45b498a2c6be0535ba41e344060bbc55800a
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      OK, I've trimmed down the comments. 
+      In summary (and it may just be me) I just think 'possible tale' sounds a little odd for the context of the example sentence. I wouldn't try to overanalyse it.
+    html: |-
+      OK, I've trimmed down the comments. <br/>In summary (and it may just be me) I just think 'possible tale' sounds a little odd for the context of the example sentence. I wouldn't try to overanalyse it.
+    credits_raw: Amatuka
+    content_sha256: 256720478087b2006fa460c0dbcf4d7bd0949d821a61ad536268aa16f40c9689
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: I think "Possible" & "Not Possible" would be more accurace.
+    html: I think "Possible" &amp; "Not Possible" would be more accurace.
+    credits_raw: Rahulk
+    content_sha256: 5ee3939d33a7bc8636ad79a2c955b1f966e999f6b54b0dc4c3f0806f7c999279
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: See my comment re ありうる.
+    html: See my comment re ありうる.
+    credits_raw: bamboo4
+    content_sha256: 928bd5070b08d72b52381cb462fdb962e82e63334d2bbed0c989b3e964b9d263
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: Often used in negative for "That't not possible!"
+    html: Often used in negative for "That't not possible!"
+    credits_raw: Amatuka
+    content_sha256: 57c85aa2103e98f72756af7cfa7432d4088df42990cbd5e795fae73b48dd4b63
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      There is no example showing how to use this word with a verb. As in the sentence, "Is it possible to eat too much chocolate?" Also, is this word somewhat rhetorical (as in my previous example)?
+    html: |-
+      There is no example showing how to use this word with a verb. As in the sentence, "Is it possible to eat too much chocolate?" Also, is this word somewhat rhetorical (as in my previous example)?
+    credits_raw: YakkSoho
+    content_sha256: 9e1851beeb9ed7583f028c6490be553bafd848ae2bb284d917e73c68f5dc0cb9
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: It cannot be used with a verb together.Its usage is the same as 可能（あり得る）and 不可能(あり得ない）.
+    html: It cannot be used with a verb together.Its usage is the same as 可能（あり得る）and 不可能(あり得ない）.
+    credits_raw: 誠
+    content_sha256: 991cbbba78ab28c4df42c2da059c5364b28b761aef0fc471a16ef9cf6c8d7a7a
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      有り得る（ありうる）
+      有り得ない（ありえない）
+
+      #728
+      日本においても、充分ありうる話だと思います。
+
+      #729
+      Sounds fine.
+
+      #3394 and #3395
+      ありうる, not ありえる.
+      -----------------------------------------
+      A message to Japanese people:
+      Please study Japanese very hard.
+    html: |-
+      有り得る（ありうる）<br/>有り得ない（ありえない）<br/><br/>#728<br/>日本においても、充分ありうる話だと思います。<br/><br/>#729<br/>Sounds fine.<br/><br/>#3394 and #3395<br/>ありうる, not ありえる.<br/>-----------------------------------------<br/>A message to Japanese people:<br/>Please study Japanese very hard.
+    credits_raw: Nick
+    content_sha256: b06270c9653be42589e1ebd536c5560f3f0dad0c20942594f3e8f7478be638ad
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      #728
+      I would say "（そういうことは）日本でも、十分にありうることだ。"
+    html: |-
+      #728<br/>I would say "（そういうことは）日本でも、十分にありうることだ。"
+    credits_raw: Nick
+    content_sha256: 2dcc7fa8eece786abc939cfb9cc7c6b2879c71b6f91ec2ab5f4b69a1ffbd2225
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: Nick, a language is changing. An expression which is thought to be wrong becomes a standard.
+    html: Nick, a language is changing. An expression which is thought to be wrong becomes a standard.
+    credits_raw: Miki
+    content_sha256: 2d8ea92e5e39d303d8f142a8c05c8e5a423c7c2481ff6779467f87a98145824f
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: ありうる is standard Japanese, but ありえる is not.
+    html: ありうる is standard Japanese, but ありえる is not.
+    credits_raw: Nick
+    content_sha256: f3195362dc888f66a239245549f77bdbe5bee913d4d9489d2e51aa9767338783
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: |-
+      have you checked how many japanese people use ありえる on the web? it would be much easier for non-japanese to learn correct japanese.
+    html: |-
+      have you checked how many japanese people use ありえる on the web? it would be much easier for non-japanese to learn correct japanese.
+    credits_raw: gooogle
+    content_sha256: fc1893930fe86913022288d7ba793ae2e15e578fdbfe41ece65475b8036e24e0
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: |-
+      Nick, "correct" or "incorrect" depend only on the majority of speakers of a language. You might want to read something by Wittgenstein on that (it's kinda common sense though). Otherwise we'd now be speaking whatever Germanic accent is at the origin of English. 
+      Oh, and if you don't agree, perhaps you should lecture Murakami on his "wrong" use of arieru and tell him to "please study Japanese very hard"
+    html: |-
+      Nick, "correct" or "incorrect" depend only on the majority of speakers of a language. You might want to read something by Wittgenstein on that (it's kinda common sense though). Otherwise we'd now be speaking whatever Germanic accent is at the origin of English. <br/>Oh, and if you don't agree, perhaps you should lecture Murakami on his "wrong" use of arieru and tell him to "please study Japanese very hard"
+    credits_raw: mankind
+    content_sha256: ca34571583691fdf1d5f37174d0cb048b162cf264826c6928f6c2ed8aa908b0b
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: |-
+      There are no incorrect forms on any language grammar as it (language) arises spontaneously. A language is not a set of rules to be followed. Look for Steven Pinker's "The language instinct" and you'll clarify your minds.
+      These are just possible variations to an expression which by no means are incorrect. And the so called correct ones are not more appropriate than the not so common ones.
+    html: |-
+      There are no incorrect forms on any language grammar as it (language) arises spontaneously. A language is not a set of rules to be followed. Look for Steven Pinker's "The language instinct" and you'll clarify your minds.<br/>These are just possible variations to an expression which by no means are incorrect. And the so called correct ones are not more appropriate than the not so common ones.
+    credits_raw: blackburn
+    content_sha256: b4f1414573832cea04b04e84dc9293bbc8bb8aa66a8e0610e92ff83a809460ea
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    source_id: null
+    text: Lol Mankind, I agree with you, Nick has had too much to study lately....
+    html: Lol Mankind, I agree with you, Nick has had too much to study lately....
+    credits_raw: koshuwu
+    content_sha256: 84eed891633e48fd41dee539a1686617e6cf022711bb1d06e38c842409cbe7e5
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1220
+    label: 得る
+    source_url: https://takoboto.jp/bunpo/1220
+  - target_id: 479
+    label: 有り得る
+    source_url: https://takoboto.jp/bunpo/479
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:42:25+00:00'
+response_sha256: 7d5a85abce781d3e2902953edcef0a376ece2434bd444f2c67c308049d6383a7
+warnings: []

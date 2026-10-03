@@ -1,0 +1,789 @@
+schema_version: 2
+id: 946
+source: takoboto
+source_url: https://takoboto.jp/bunpo/946/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ふと
+romanized_label: futo
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: suddenly, by coincidence
+meaning_example: without thinking, I shouted out
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_946
+    body_text: |-
+      suddenly, by coincidence 
+       without thinking, I shouted out
+    body_html: |-
+      <span>suddenly, by coincidence</span> <br/> <span>without thinking, I shouted out</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 1176
+    position: 0
+    japanese: 電車の中でふと木村さんを見かけた
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%bb%e8%bb%8a%e3%81%ae"><span>電車の</span></a><a href="https://takoboto.jp/?q=%e4%b8%ad%e3%81%a7"><span>中で</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e6%9c%a8%e6%9d%91%e3%81%95%e3%82%93%e3%82%92"><span>木村さんを</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%8b%e3%81%91%e3%81%9f"><span>見かけた</span></a>
+    segments:
+      - text: 電車の中で
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 木村さんを見かけた
+        grammar_highlight: false
+    reading: でんしゃのなかでふときむらさんをみかけた
+    credits_raw: dc
+    translations:
+      - language: en
+        text: By coincidence, I happened to see Kimura san on the train
+        html: |-
+          <strong>By coincidence, I happened </strong><span>to see Kimura san on the train </span>
+        segments:
+          - text: 'By coincidence, I happened '
+            grammar_highlight: true
+          - text: 'to see Kimura san on the train '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3096
+    position: 1
+    japanese: ふと新しい考えが浮かんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84"><span>新しい</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%8c"><span>考えが</span></a><a href="https://takoboto.jp/?q=%e6%b5%ae%e3%81%8b%e3%82%93%e3%81%a0%e3%80%82"><span>浮かんだ。</span></a>
+    segments:
+      - text: ふと
+        grammar_highlight: true
+      - text: 新しい考えが浮かんだ。
+        grammar_highlight: false
+    reading: ふとあたらしいかんがえがうかんだ。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Suddenly, I hit upon this new idea.
+        html: |-
+          <strong>Suddenly, </strong><span>I hit upon this new idea. </span>
+        segments:
+          - text: 'Suddenly, '
+            grammar_highlight: true
+          - text: 'I hit upon this new idea. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3097
+    position: 2
+    japanese: テレビを見ていて学生時代の友達をふと思い出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%86%e3%83%ac%e3%83%93%e3%82%92"><span>テレビを</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%a6%e3%81%84%e3%81%a6"><span>見ていて</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e7%94%9f%e6%99%82%e4%bb%a3%e3%81%ae"><span>学生時代の</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%82%92"><span>友達を</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: テレビを見ていて学生時代の友達を
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 思い出した。
+        grammar_highlight: false
+    reading: テレビをみていてがくせいじだいのともだちをふとおもいだした。
+    credits_raw: bamboo4, dc
+    translations:
+      - language: en
+        text: Watching TV,I had this instant recall of the memory of my friend during my student days.
+        html: |-
+          <span>Watching TV,I had this </span><strong>instant recall </strong><span>of the memory of my friend during my student days. </span>
+        segments:
+          - text: 'Watching TV,I had this '
+            grammar_highlight: false
+          - text: 'instant recall '
+            grammar_highlight: true
+          - text: 'of the memory of my friend during my student days. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3098
+    position: 3
+    japanese: ふとした事が人生の分かれ目になることがある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%9f"><span>した</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%81%8c"><span>事が</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e7%94%9f%e3%81%ae"><span>人生の</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%8c"><span>分かれ</span></a><a href="https://takoboto.jp/?q=%e7%9b%ae%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>目になることがある。</span></a>
+    segments:
+      - text: ふと
+        grammar_highlight: true
+      - text: した事が人生の分かれ目になることがある。
+        grammar_highlight: false
+    reading: ふとしたことがじんせいのわかれめになることがある。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: A pure happenstance can be a die-casting event in your life.
+        html: |-
+          <strong>A pure happenstance </strong><span>can be a die-casting event in your life. </span>
+        segments:
+          - text: 'A pure happenstance '
+            grammar_highlight: true
+          - text: 'can be a die-casting event in your life. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3935
+    position: 4
+    japanese: うまい考えがふと浮かんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%86%e3%81%be%e3%81%84"><span>うまい</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%8c"><span>考えが</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e6%b5%ae%e3%81%8b%e3%82%93%e3%81%a0%e3%80%82"><span>浮かんだ。</span></a>
+    segments:
+      - text: うまい考えが
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 浮かんだ。
+        grammar_highlight: false
+    reading: うまいかんがえがふとうかんだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: A happy idea came upon me.
+        html: |-
+          <span>A happy idea </span><strong>came upon </strong><span>me. </span>
+        segments:
+          - text: 'A happy idea '
+            grammar_highlight: false
+          - text: 'came upon '
+            grammar_highlight: true
+          - text: 'me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3936
+    position: 5
+    japanese: 素晴らしい考えがふと心に浮かんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%b4%a0%e6%99%b4%e3%82%89%e3%81%97%e3%81%84"><span>素晴らしい</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%8c"><span>考えが</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e5%bf%83%e3%81%ab"><span>心に</span></a><a href="https://takoboto.jp/?q=%e6%b5%ae%e3%81%8b%e3%82%93%e3%81%a0%e3%80%82"><span>浮かんだ。</span></a>
+    segments:
+      - text: 素晴らしい考えが
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 心に浮かんだ。
+        grammar_highlight: false
+    reading: すばらしいかんがえがふとこころにうかんだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: A bight idea occurred to me.
+        html: |-
+          <span>A bight idea </span><strong>occurred </strong><span>to me. </span>
+        segments:
+          - text: 'A bight idea '
+            grammar_highlight: false
+          - text: 'occurred '
+            grammar_highlight: true
+          - text: 'to me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3937
+    position: 6
+    japanese: その言葉はふと彼の口から漏れた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e8%91%89%e3%81%af"><span>言葉は</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e5%8f%a3%e3%81%8b%e3%82%89"><span>口から</span></a><a href="https://takoboto.jp/?q=%e6%bc%8f%e3%82%8c%e3%81%9f%e3%80%82"><span>漏れた。</span></a>
+    segments:
+      - text: その言葉は
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 彼の口から漏れた。
+        grammar_highlight: false
+    reading: そのことばはふとかれのくちからもれた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: That word dropped from his mouth.
+        html: |-
+          <span>That word </span><strong>dropped </strong><span>from his mouth. </span>
+        segments:
+          - text: 'That word '
+            grammar_highlight: false
+          - text: 'dropped '
+            grammar_highlight: true
+          - text: 'from his mouth. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3938
+    position: 7
+    japanese: その老人はふと立ち止まって振り返った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e8%80%81%e4%ba%ba%e3%81%af"><span>老人は</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e3%81%a1"><span>立ち</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%81%be%e3%81%a3%e3%81%a6"><span>止まって</span></a><a href="https://takoboto.jp/?q=%e6%8c%af%e3%82%8a"><span>振り</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e3%81%a3%e3%81%9f%e3%80%82"><span>返った。</span></a>
+    segments:
+      - text: その老人は
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 立ち止まって振り返った。
+        grammar_highlight: false
+    reading: そのろうじんはふとたちどまってふりかえった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The old man stopped suddenly and looked back.
+        html: |-
+          <span>The old man stopped </span><strong>suddenly </strong><span>and looked back. </span>
+        segments:
+          - text: 'The old man stopped '
+            grammar_highlight: false
+          - text: 'suddenly '
+            grammar_highlight: true
+          - text: 'and looked back. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3939
+    position: 8
+    japanese: それは秘密にしておくべきではないと私はふと思った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af"><span>それは</span></a><a href="https://takoboto.jp/?q=%e7%a7%98%e5%af%86%e3%81%ab%e3%81%97%e3%81%a6%e3%81%8a%e3%81%8f%e3%81%b9%e3%81%8d%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%a8"><span>秘密にしておくべきではないと</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%9f%e3%80%82"><span>思った。</span></a>
+    segments:
+      - text: それは秘密にしておくべきではないと私は
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 思った。
+        grammar_highlight: false
+    reading: それはひみつにしておくべきではないとわたしはふとおもった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It occurred to me that I should not keep it secret.
+        html: |-
+          <span>It </span><strong>occurred </strong><span>to me that I should not keep it secret. </span>
+        segments:
+          - text: 'It '
+            grammar_highlight: false
+          - text: 'occurred '
+            grammar_highlight: true
+          - text: 'to me that I should not keep it secret. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3940
+    position: 9
+    japanese: ふとしたことからその噂は嘘だと分った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8b%e3%82%89%e3%81%9d%e3%81%ae"><span>したことからその</span></a><a href="https://takoboto.jp/?q=%e5%99%82%e3%81%af"><span>噂は</span></a><a href="https://takoboto.jp/?q=%e5%98%98%e3%81%a0%e3%81%a8"><span>嘘だと</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%a3%e3%81%9f%e3%80%82"><span>分った。</span></a>
+    segments:
+      - text: ふと
+        grammar_highlight: true
+      - text: したことからその噂は嘘だと分った。
+        grammar_highlight: false
+    reading: ふとしたことからそのうわさはうそだとわかった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Accidentally, the rumor has turned out to be false.
+        html: |-
+          <strong>Accidentally, </strong><span>the rumor has turned out to be false. </span>
+        segments:
+          - text: 'Accidentally, '
+            grammar_highlight: true
+          - text: 'the rumor has turned out to be false. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3941
+    position: 10
+    japanese: 財布を家に忘れてきたことをふと思い出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%b2%a1%e5%b8%83%e3%82%92"><span>財布を</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e3%81%ab"><span>家に</span></a><a href="https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%81%a6%e3%81%8d%e3%81%9f%e3%81%93%e3%81%a8%e3%82%92"><span>忘れてきたことを</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: 財布を家に忘れてきたことを
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 思い出した。
+        grammar_highlight: false
+    reading: さいふをいえにわすれてきたことをふとおもいだした。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It occurred to me that I had left my purse at home.
+        html: |-
+          <span>It </span><strong>occurred </strong><span>to me that I had left my purse at home. </span>
+        segments:
+          - text: 'It '
+            grammar_highlight: false
+          - text: 'occurred '
+            grammar_highlight: true
+          - text: 'to me that I had left my purse at home. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3942
+    position: 11
+    japanese: 私の見たことを話そうかなとふと思った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%9f%e3%81%93%e3%81%a8%e3%82%92"><span>見たことを</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%9d%e3%81%86%e3%81%8b%e3%81%aa%e3%81%a8"><span>話そうかなと</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%9f%e3%80%82"><span>思った。</span></a>
+    segments:
+      - text: 私の見たことを話そうかなと
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 思った。
+        grammar_highlight: false
+    reading: わたしのみたことをはなそうかなとふとおもった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I had a notion to tell what I had seen.
+        html: |-
+          <span>I </span><strong>had a notion </strong><span>to tell what I had seen. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'had a notion '
+            grammar_highlight: true
+          - text: 'to tell what I had seen. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3943
+    position: 12
+    japanese: 私はふとその男が私をだまして金を奪い取ろうとしているのだと思った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e7%94%b7%e3%81%8c"><span>男が</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%82%92%e3%81%a0%e3%81%be%e3%81%97%e3%81%a6"><span>私をだまして</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%e5%a5%aa%e3%81%84"><span>奪い</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%82%8d%e3%81%86%e3%81%a8%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a0%e3%81%a8"><span>取ろうとしているのだと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%9f%e3%80%82"><span>思った。</span></a>
+    segments:
+      - text: 私は
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: その男が私をだまして金を奪い取ろうとしているのだと思った。
+        grammar_highlight: false
+    reading: わたしはふとそのおとこがわたしをだましてきんをうばいとろうとしているのだとおもった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It occurred to me that the man was tryng to cheat me out of moy money.
+        html: |-
+          <span>It </span><strong>occurred </strong><span>to me that the man was tryng to cheat me out of moy money. </span>
+        segments:
+          - text: 'It '
+            grammar_highlight: false
+          - text: 'occurred '
+            grammar_highlight: true
+          - text: 'to me that the man was tryng to cheat me out of moy money. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3944
+    position: 13
+    japanese: 私はふと彼女が何かを隠そうとしていると感じた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c"><span>彼女が</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8b%e3%82%92"><span>何かを</span></a><a href="https://takoboto.jp/?q=%e9%9a%a0%e3%81%9d%e3%81%86%e3%81%a8%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%a8"><span>隠そうとしていると</span></a><a href="https://takoboto.jp/?q=%e6%84%9f%e3%81%98%e3%81%9f%e3%80%82"><span>感じた。</span></a>
+    segments:
+      - text: 私は
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 彼女が何かを隠そうとしていると感じた。
+        grammar_highlight: false
+    reading: わたしはふとかのじょがなにかをかくそうとしているとかんじた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It struck me that the girl was trying to hide something.
+        html: |-
+          <span>It </span><strong>struck me that </strong><span>the girl was trying to hide something. </span>
+        segments:
+          - text: 'It '
+            grammar_highlight: false
+          - text: 'struck me that '
+            grammar_highlight: true
+          - text: 'the girl was trying to hide something. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3945
+    position: 14
+    japanese: 私は列車の中に鞄を忘れたことをふと思い出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%88%97%e8%bb%8a%e3%81%ae"><span>列車の</span></a><a href="https://takoboto.jp/?q=%e4%b8%ad%e3%81%ab"><span>中に</span></a><a href="https://takoboto.jp/?q=%e9%9e%84%e3%82%92"><span>鞄を</span></a><a href="https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%81%9f%e3%81%93%e3%81%a8%e3%82%92"><span>忘れたことを</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: 私は列車の中に鞄を忘れたことを
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 思い出した。
+        grammar_highlight: false
+    reading: わたしはれっしゃのなかにかばんをわすれたことをふとおもいだした。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It occurred to me that I had left my bg on the train.
+        html: |-
+          <span>It </span><strong>occurred to me that </strong><span>I had left my bg on the train. </span>
+        segments:
+          - text: 'It '
+            grammar_highlight: false
+          - text: 'occurred to me that '
+            grammar_highlight: true
+          - text: 'I had left my bg on the train. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3946
+    position: 15
+    japanese: 試行錯誤の末、彼はふと正しい答えを思いついた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a9%a6%e8%a1%8c%e9%8c%af%e8%aa%a4%e3%81%ae"><span>試行錯誤の</span></a><a href="https://takoboto.jp/?q=%e6%9c%ab%e3%80%81"><span>末、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e6%ad%a3%e3%81%97%e3%81%84"><span>正しい</span></a><a href="https://takoboto.jp/?q=%e7%ad%94%e3%81%88%e3%82%92"><span>答えを</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84%e3%81%a4%e3%81%84%e3%81%9f%e3%80%82"><span>思いついた。</span></a>
+    segments:
+      - text: 試行錯誤の末、彼は
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 正しい答えを思いついた。
+        grammar_highlight: false
+    reading: しこうさくごのすえ、かれはふとただしいこたえをおもいついた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Through trial and error, he found the right answer by chance.
+        html: |-
+          <span>Through trial and error, he found the right answer </span><strong>by chance. </strong>
+        segments:
+          - text: 'Through trial and error, he found the right answer '
+            grammar_highlight: false
+          - text: 'by chance. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3947
+    position: 16
+    japanese: 彼こそ適任者であるという考えがふと心に浮かんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%93%e3%81%9d"><span>彼こそ</span></a><a href="https://takoboto.jp/?q=%e9%81%a9%e4%bb%bb%e8%80%85%e3%81%a7%e3%81%82%e3%82%8b%e3%81%a8%e3%81%84%e3%81%86"><span>適任者であるという</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%81%8c"><span>考えが</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e5%bf%83%e3%81%ab"><span>心に</span></a><a href="https://takoboto.jp/?q=%e6%b5%ae%e3%81%8b%e3%82%93%e3%81%a0%e3%80%82"><span>浮かんだ。</span></a>
+    segments:
+      - text: 彼こそ適任者であるという考えが
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 心に浮かんだ。
+        grammar_highlight: false
+    reading: かれこそてきにんしゃであるというかんがえがふとこころにうかんだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It occurred to me that he was the right man.
+        html: |-
+          <span>It </span><strong>occurred to me that </strong><span>he was the right man. </span>
+        segments:
+          - text: 'It '
+            grammar_highlight: false
+          - text: 'occurred to me that '
+            grammar_highlight: true
+          - text: 'he was the right man. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3949
+    position: 17
+    japanese: 彼はわざとそうしたんだとふと私は思った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%82%8f%e3%81%96%e3%81%a8%e3%81%9d%e3%81%86"><span>彼はわざとそう</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%9f%e3%82%93%e3%81%a0%e3%81%a8"><span>したんだと</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%9f%e3%80%82"><span>思った。</span></a>
+    segments:
+      - text: 彼はわざとそうしたんだと
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 私は思った。
+        grammar_highlight: false
+    reading: かれはわざとそうしたんだとふとわたしはおもった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It occurred to me that he had done it on purpose.
+        html: |-
+          <span>It </span><strong>occurred to me that </strong><span>he had done it on purpose. </span>
+        segments:
+          - text: 'It '
+            grammar_highlight: false
+          - text: 'occurred to me that '
+            grammar_highlight: true
+          - text: 'he had done it on purpose. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3950
+    position: 18
+    japanese: 彼は何かを隠そうとしていると、私はふと思った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8b%e3%82%92"><span>何かを</span></a><a href="https://takoboto.jp/?q=%e9%9a%a0%e3%81%9d%e3%81%86%e3%81%a8%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%a8%e3%80%81"><span>隠そうとしていると、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%9f%e3%80%82"><span>思った。</span></a>
+    segments:
+      - text: 彼は何かを隠そうとしていると、私は
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 思った。
+        grammar_highlight: false
+    reading: かれはなにかをかくそうとしていると、わたしはふとおもった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It occurred to me that he was trying to conceal something.
+        html: |-
+          <span>It </span><strong>occurred to me that </strong><span>he was trying to conceal something. </span>
+        segments:
+          - text: 'It '
+            grammar_highlight: false
+          - text: 'occurred to me that '
+            grammar_highlight: true
+          - text: 'he was trying to conceal something. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3951
+    position: 19
+    japanese: 彼は真実を何も言わないかもしれないということがふと頭に浮かんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e7%9c%9f%e5%ae%9f%e3%82%92"><span>真実を</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%82"><span>何も</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%82%8f%e3%81%aa%e3%81%84%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84"><span>言わないかもしれない</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%8c"><span>ということが</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e9%a0%ad%e3%81%ab"><span>頭に</span></a><a href="https://takoboto.jp/?q=%e6%b5%ae%e3%81%8b%e3%82%93%e3%81%a0%e3%80%82"><span>浮かんだ。</span></a>
+    segments:
+      - text: 彼は真実を何も言わないかもしれないということが
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 頭に浮かんだ。
+        grammar_highlight: false
+    reading: かれはしんじつをなにもいわないかもしれないということがふとあたまにうかんだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It occurred to me that he might not tell the truth.
+        html: |-
+          <span>It </span><strong>occurred to me that </strong><span>he might not tell the truth. </span>
+        segments:
+          - text: 'It '
+            grammar_highlight: false
+          - text: 'occurred to me that '
+            grammar_highlight: true
+          - text: 'he might not tell the truth. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3952
+    position: 20
+    japanese: 彼らのあざ笑いをふと耳にした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%82%89%e3%81%ae"><span>彼らの</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%96"><span>あざ</span></a><a href="https://takoboto.jp/?q=%e7%ac%91%e3%81%84%e3%82%92"><span>笑いを</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e8%80%b3%e3%81%ab%e3%81%97%e3%81%9f%e3%80%82"><span>耳にした。</span></a>
+    segments:
+      - text: 彼らのあざ笑いを
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 耳にした。
+        grammar_highlight: false
+    reading: かれらのあざわらいをふとみみにした。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I overheard their mockery.
+        html: |-
+          <span>I </span><strong>overheard </strong><span>their mockery. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'overheard '
+            grammar_highlight: true
+          - text: 'their mockery. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3953
+    position: 21
+    japanese: 彼女はふと名案を思いついた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e5%90%8d%e6%a1%88%e3%82%92"><span>名案を</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84%e3%81%a4%e3%81%84%e3%81%9f%e3%80%82"><span>思いついた。</span></a>
+    segments:
+      - text: 彼女は
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 名案を思いついた。
+        grammar_highlight: false
+    reading: かのじょはふとめいあんをおもいついた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: She hit upon a good idea.
+        html: |-
+          <span>She </span><strong>hit upon </strong><span>a good idea. </span>
+        segments:
+          - text: 'She '
+            grammar_highlight: false
+          - text: 'hit upon '
+            grammar_highlight: true
+          - text: 'a good idea. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3954
+    position: 22
+    japanese: 僕はふと足を止めた。〔M〕
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%83%95%e3%81%af"><span>僕は</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e8%b6%b3%e3%82%92"><span>足を</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%82%81%e3%81%9f%e3%80%82%e3%80%94M%e3%80%95"><span>止めた。〔M〕</span></a>
+    segments:
+      - text: 僕は
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 足を止めた。〔M〕
+        grammar_highlight: false
+    reading: ぼくはふとあしをとめた。〔〕
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Suddenly, my feet stopped. [M]
+        html: |-
+          <strong>Suddenly, </strong><span>my feet stopped. [M] </span>
+        segments:
+          - text: 'Suddenly, '
+            grammar_highlight: true
+          - text: 'my feet stopped. [M] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3948
+    position: 23
+    japanese: 彼はそれを見るとふと魔がさして盗んだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%9d%e3%82%8c%e3%82%92"><span>彼はそれを</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8b%e3%81%a8"><span>見ると</span></a><a href="https://takoboto.jp/?q=%e3%81%b5%e3%81%a8"><strong>ふと</strong></a><a href="https://takoboto.jp/?q=%e9%ad%94%e3%81%8c%e3%81%95%e3%81%97%e3%81%a6"><span>魔がさして</span></a><a href="https://takoboto.jp/?q=%e7%9b%97%e3%82%93%e3%81%a0%e3%80%82"><span>盗んだ。</span></a>
+    segments:
+      - text: 彼はそれを見ると
+        grammar_highlight: false
+      - text: ふと
+        grammar_highlight: true
+      - text: 魔がさして盗んだ。
+        grammar_highlight: false
+    reading: かれはそれをみるとふとまがさしてぬすんだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The sight tempted him to steal.
+        html: |-
+          <span>The sight </span><strong>tempted </strong><span>him to steal. </span>
+        segments:
+          - text: 'The sight '
+            grammar_highlight: false
+          - text: 'tempted '
+            grammar_highlight: true
+          - text: 'him to steal. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      [futo] and [tsui] do not always have negative connotations 
+
+      whereas [ukkari] implies more regret, or that the action was done carelessly.
+    html: |-
+      [futo] and [tsui] do not always have negative connotations <br/><br/>whereas [ukkari] implies more regret, or that the action was done carelessly.
+    credits_raw: dc
+    content_sha256: f06bf847f763f862ee9f2fe73540f92f0b7f880c4a06c0aa39b35db7865199b5
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: "other words for suddenly include \n　いきなり\n 突然「とつぜん」"
+    html: |-
+      other words for suddenly include <br/>　いきなり<br/> 突然「とつぜん」
+    credits_raw: dc
+    content_sha256: c45888fa60f246d6485ffda41b3d5ef68716128afe1f8964102839e98f486944
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: whats the difference with いきなり or 突然？
+    html: whats the difference with いきなり or 突然？
+    credits_raw: dc
+    content_sha256: 28db0ac83f8fd2d6172b3d9ceb363535a1ca4e172d627c5e27bfbf87852857e6
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: hmm this is a very good question... Let me think.
+    html: hmm this is a very good question... Let me think.
+    credits_raw: Miki
+    content_sha256: be851dd1297a69b1e167be9afd26ce026001fb7b806ea71fc0f6a31b6024d5ac
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      ふと would be used in the sense of "incidentally" or "by some unexpected turn of event." It is more or less an unexpected thing that catch you more or less passively.
+
+      いきなり and 突然 has the connotation of "out of blue" or "abruptly" so that there is a big element of surprise.
+    html: |-
+      ふと would be used in the sense of "incidentally" or "by some unexpected turn of event." It is more or less an unexpected thing that catch you more or less passively.<br/><br/>いきなり and 突然 has the connotation of "out of blue" or "abruptly" so that there is a big element of surprise.
+    credits_raw: bamboo4
+    content_sha256: bc4578efe96149cee0a9a24146716c7df413956f4fd8192f00de792080387c20
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: what is the difference with 偶然 ?
+    html: what is the difference with 偶然 ?
+    credits_raw: marvin
+    content_sha256: 7792a06206cb36b260f225b85d9ce2cfb3f02da13aa55ae64958baed4f77fffd
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: "偶然 「ぐうぜん」 I think means more what a coincidence. As in \"what a surprise to see you here!\"\n\n突然　「とつぜん」is more similar, like \"out of the blue\".\n\nいきなり is another similar word. \nいきなり結婚した - got married all of a sudden"
+    html: |-
+      偶然 「ぐうぜん」 I think means more what a coincidence. As in "what a surprise to see you here!"<br/><br/>突然　「とつぜん」is more similar, like "out of the blue".<br/><br/>いきなり is another similar word. <br/>いきなり結婚した - got married all of a sudden
+    credits_raw: dc
+    content_sha256: a3a0518fe8d66658fe2217594886f2168c321eb5c271e0ff6997b2b65a96be81
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      For me, there are hints (like endling と) for the word is an onomatopoeia construction, that's the difference... As in, 「ふと気がついたの。」"'Pooh!' - the realization came." Although it's not as childish in Japanese, as they use onomatopoeia words a lot.
+    html: |-
+      For me, there are hints (like endling と) for the word is an onomatopoeia construction, that's the difference... As in, 「ふと気がついたの。」"'Pooh!' - the realization came." Although it's not as childish in Japanese, as they use onomatopoeia words a lot.
+    credits_raw: Kaens
+    content_sha256: 088c56757f6ae9fe7c76acba3ec1f70b4f7b8e1409dae592b1f5aab34c56b035
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: Yes. Bamboo4 is correct. 3940 should start "Incidentally, "
+    html: Yes. Bamboo4 is correct. 3940 should start "Incidentally, "
+    credits_raw: christ
+    content_sha256: 0ea52e27aab61bd6910fcfebf09c85091aee85d608990928a7e53f8c7ad4fe5d
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      Kaens へ
+      I don't think ふと、is not an onomatopoeia construction. In kanji 不図 not planned, not mapped, unexpectedly, etc.
+      I don't know why they don't write it in kanji though, as both are easy...
+    html: |-
+      Kaens へ<br/>I don't think ふと、is not an onomatopoeia construction. In kanji 不図 not planned, not mapped, unexpectedly, etc.<br/>I don't know why they don't write it in kanji though, as both are easy...
+    credits_raw: ookaminote
+    content_sha256: 2ed5f73fed5e0f4702c5ba6c41d3d5c236f13244e5d712ff3baa372e39b2fe3e
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 947
+    label: つい
+    source_url: https://takoboto.jp/bunpo/947
+  - target_id: 948
+    label: うっかり
+    source_url: https://takoboto.jp/bunpo/948
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:45:56+00:00'
+response_sha256: 1491cc9e2b67197a310bbbb289bc0a81de2788706756c5db663eddf6ffcaebb3
+warnings: []

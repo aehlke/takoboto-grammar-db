@@ -1,0 +1,312 @@
+schema_version: 2
+id: 728
+source: takoboto
+source_url: https://takoboto.jp/bunpo/728/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: からすると
+romanized_label: karasuruto-2
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: from (the point of view)
+meaning_example: from his point of view
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_728
+    body_text: |-
+      from (the point of view) 
+       from his point of view
+    body_html: |-
+      <span>from (the point of view)</span> <br/> <span>from his point of view</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 574
+    position: 0
+    japanese: メールを受け取った方からすると、何のわるぎもなくついうっかり転送してしまったということでも、発信者からすると自分が丹精こめて書いたものを、無断で第三者に転送されてしまったということにもなりかねません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%a1%e3%83%bc%e3%83%ab%e3%82%92"><span>メールを</span></a><a href="https://takoboto.jp/?q=%e5%8f%97%e3%81%91"><span>受け</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%81%a3%e3%81%9f"><span>取った</span></a><a href="https://takoboto.jp/?q=%e6%96%b9"><span>方</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8"><strong>からすると</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%ae%e3%82%8f%e3%82%8b%e3%81%8e%e3%82%82%e3%81%aa%e3%81%8f%e3%81%a4%e3%81%84%e3%81%86%e3%81%a3%e3%81%8b%e3%82%8a"><span>何のわるぎもなくついうっかり</span></a><a href="https://takoboto.jp/?q=%e8%bb%a2%e9%80%81%e3%81%97%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%a7%e3%82%82%e3%80%81"><span>転送してしまったということでも、</span></a><a href="https://takoboto.jp/?q=%e7%99%ba%e4%bf%a1%e8%80%85"><span>発信者</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8"><strong>からすると</strong></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%8c"><span>自分が</span></a><a href="https://takoboto.jp/?q=%e4%b8%b9%e7%b2%be%e3%81%93%e3%82%81%e3%81%a6"><span>丹精こめて</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%9f%e3%82%82%e3%81%ae%e3%82%92%e3%80%81"><span>書いたものを、</span></a><a href="https://takoboto.jp/?q=%e7%84%a1%e6%96%ad%e3%81%a7"><span>無断で</span></a><a href="https://takoboto.jp/?q=%e7%ac%ac%e4%b8%89%e8%80%85%e3%81%ab"><span>第三者に</span></a><a href="https://takoboto.jp/?q=%e8%bb%a2%e9%80%81%e3%81%95%e3%82%8c%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%ab%e3%82%82%e3%81%aa%e3%82%8a%e3%81%8b%e3%81%ad%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>転送されてしまったということにもなりかねません。</span></a>
+    segments:
+      - text: メールを受け取った方
+        grammar_highlight: false
+      - text: からすると
+        grammar_highlight: true
+      - text: 、何のわるぎもなくついうっかり転送してしまったということでも、発信者
+        grammar_highlight: false
+      - text: からすると
+        grammar_highlight: true
+      - text: 自分が丹精こめて書いたものを、無断で第三者に転送されてしまったということにもなりかねません。
+        grammar_highlight: false
+    reading: メールをうけとったほうからすると、なにのわるてんそうしてしまったということでも、はっしんしゃからするとじぶんがたんせいこめてかいたものを、むだんでだいさんしゃにてんそうされてしまったということにもなりかねません。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: |-
+          As the person receiving the email he might casually forward the message with no ill intent but for the person who sent the email, put together with hard effort, to be sent on to a third party without notice could be unforgivable.
+        html: |-
+          <strong>As the </strong><span>person receiving the email he might casually forward the message with no ill intent but </span><strong>for the </strong><span>person who sent the email, put together with hard effort, to be sent on to a third party without notice could be unforgivable. </span>
+        segments:
+          - text: 'As the '
+            grammar_highlight: true
+          - text: 'person receiving the email he might casually forward the message with no ill intent but '
+            grammar_highlight: false
+          - text: 'for the '
+            grammar_highlight: true
+          - text: "person who sent the email, put together with hard effort, to be sent on to a third party without notice could be unforgivable. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 850
+    position: 1
+    japanese: 知っている側からすると
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b"><span>知っている</span></a><a href="https://takoboto.jp/?q=%e5%81%b4"><span>側</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8"><strong>からすると</strong></a>
+    segments:
+      - text: 知っている側
+        grammar_highlight: false
+      - text: からすると
+        grammar_highlight: true
+    reading: しっているがわからすると
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: From the point of view of those who know ...
+        html: |-
+          <strong>From the point of view of </strong><span>those who know ... </span>
+        segments:
+          - text: 'From the point of view of '
+            grammar_highlight: true
+          - text: 'those who know ... '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4019
+    position: 2
+    japanese: この見地からすると、君の言うことは正しい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e5%9c%b0"><span>見地</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8"><strong>からすると</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%ae"><span>君の</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%93%e3%81%a8%e3%81%af"><span>言うことは</span></a><a href="https://takoboto.jp/?q=%e6%ad%a3%e3%81%97%e3%81%84%e3%80%82"><span>正しい。</span></a>
+    segments:
+      - text: この見地
+        grammar_highlight: false
+      - text: からすると
+        grammar_highlight: true
+      - text: 、君の言うことは正しい。
+        grammar_highlight: false
+    reading: このけんちからすると、きみのいうことはただしい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: From this point of view, you are right.
+        html: |-
+          <strong>From this point of view, </strong><span>you are right. </span>
+        segments:
+          - text: 'From this point of view, '
+            grammar_highlight: true
+          - text: 'you are right. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4020
+    position: 3
+    japanese: 空模様では、からすると、雨はしばらくは止まないだろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a9%ba%e6%a8%a1%e6%a7%98%e3%81%a7%e3%81%af%e3%80%81"><span>空模様では、</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8"><strong>からすると</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%af%e3%81%97%e3%81%b0%e3%82%89%e3%81%8f%e3%81%af"><span>雨はしばらくは</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%81%be%e3%81%aa%e3%81%84%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>止まないだろう。</span></a>
+    segments:
+      - text: 空模様では、
+        grammar_highlight: false
+      - text: からすると
+        grammar_highlight: true
+      - text: 、雨はしばらくは止まないだろう。
+        grammar_highlight: false
+    reading: そらもようでは、からすると、あめはしばらくはやまないだろう。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: From the look of the sky, I'm afraid the rain won't let up for a while.
+        html: |-
+          <strong>From the look of the sky, </strong><span>I'm afraid the rain won't let up for a while. </span>
+        segments:
+          - text: 'From the look of the sky, '
+            grammar_highlight: true
+          - text: 'I''m afraid the rain won''t let up for a while. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4021
+    position: 4
+    japanese: 空模様からすると、今夜あたり雪になるかもしれない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a9%ba%e6%a8%a1%e6%a7%98"><span>空模様</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8"><strong>からすると</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e5%a4%9c%e3%81%82%e3%81%9f%e3%82%8a"><span>今夜あたり</span></a><a href="https://takoboto.jp/?q=%e9%9b%aa%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82"><span>雪になるかもしれない。</span></a>
+    segments:
+      - text: 空模様
+        grammar_highlight: false
+      - text: からすると
+        grammar_highlight: true
+      - text: 、今夜あたり雪になるかもしれない。
+        grammar_highlight: false
+    reading: そらもようからすると、こんやあたりゆきになるかもしれない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: From the look of the sky, it may begin to snow tonight.
+        html: |-
+          <strong>From the look of the sky, </strong><span>it may begin to snow tonight. </span>
+        segments:
+          - text: 'From the look of the sky, '
+            grammar_highlight: true
+          - text: 'it may begin to snow tonight. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4023
+    position: 5
+    japanese: 周りの事情からすると彼女の話は本当らしかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%91%a8%e3%82%8a%e3%81%ae%e4%ba%8b%e6%83%85"><span>周りの事情</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8"><strong>からすると</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae%e8%a9%b1%e3%81%af%e6%9c%ac%e5%bd%93%e3%82%89%e3%81%97%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>彼女の話は本当らしかった。</span></a>
+    segments:
+      - text: 周りの事情
+        grammar_highlight: false
+      - text: からすると
+        grammar_highlight: true
+      - text: 彼女の話は本当らしかった。
+        grammar_highlight: false
+    reading: まわりのじじょうからするとかのじょのはなしはほんとうらしかった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Given the circumstances around her, her story seemed true.
+        html: |-
+          <span>Given the circumstances around her, her story seemed true. </span>
+        segments:
+          - text: 'Given the circumstances around her, her story seemed true. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4024
+    position: 6
+    japanese: 買い手の立場からするとこれらのCDプレーヤーの値段は、高すぎる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%84"><span>買い</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e3%81%ae"><span>手の</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e5%a0%b4"><span>立場</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8"><strong>からすると</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%82%89%e3%81%aeCD%e3%83%97%e3%83%ac%e3%83%bc%e3%83%a4%e3%83%bc%e3%81%ae"><span>これらのCDプレーヤーの</span></a><a href="https://takoboto.jp/?q=%e5%80%a4%e6%ae%b5%e3%81%af%e3%80%81"><span>値段は、</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%99%e3%81%8e%e3%82%8b%e3%80%82"><span>高すぎる。</span></a>
+    segments:
+      - text: 買い手の立場
+        grammar_highlight: false
+      - text: からすると
+        grammar_highlight: true
+      - text: これらのCDプレーヤーの値段は、高すぎる。
+        grammar_highlight: false
+    reading: かいてのたちばからするとこれらのプレーヤーのねだんは、たかすぎる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: From the buyer's point of view, the prices of these CD players are too high.
+        html: |-
+          <strong>From the buyer's point of view, </strong><span>the prices of these CD players are too high. </span>
+        segments:
+          - text: 'From the buyer''s point of view, '
+            grammar_highlight: true
+          - text: 'the prices of these CD players are too high. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4025
+    position: 7
+    japanese: 彼の案は私の見方からすると、とてもいいようにみえる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e6%a1%88%e3%81%af"><span>案は</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e6%96%b9"><span>見方</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8"><strong>からすると</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%a8%e3%81%a6%e3%82%82%e3%81%84%e3%81%84%e3%82%88%e3%81%86%e3%81%ab%e3%81%bf%e3%81%88%e3%82%8b%e3%80%82"><span>、とてもいいようにみえる。</span></a>
+    segments:
+      - text: 彼の案は私の見方
+        grammar_highlight: false
+      - text: からすると
+        grammar_highlight: true
+      - text: 、とてもいいようにみえる。
+        grammar_highlight: false
+    reading: かれのあんはわたしのみかたからすると、とてもいいようにみえる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: His plan seems very good from my point of view.
+        html: |-
+          <span>His plan seems very good </span><strong>from my point of view. </strong>
+        segments:
+          - text: 'His plan seems very good '
+            grammar_highlight: false
+          - text: 'from my point of view. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4026
+    position: 8
+    japanese: 法律の観点からすると、彼は自由だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%b3%95%e5%be%8b%e3%81%ae"><span>法律の</span></a><a href="https://takoboto.jp/?q=%e8%a6%b3%e7%82%b9"><span>観点</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8"><strong>からすると</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e7%94%b1%e3%81%a0%e3%80%82"><span>自由だ。</span></a>
+    segments:
+      - text: 法律の観点
+        grammar_highlight: false
+      - text: からすると
+        grammar_highlight: true
+      - text: 、彼は自由だ。
+        grammar_highlight: false
+    reading: ほうりつのかんてんからすると、かれはじゆうだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: From the standpoint of the law, he is free.
+        html: |-
+          <strong>From the standpoint of </strong><span>the law, he is free. </span>
+        segments:
+          - text: 'From the standpoint of '
+            grammar_highlight: true
+          - text: 'the law, he is free. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4022
+    position: 9
+    japanese: 私の美的観点からすると,これは醜いです
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e7%be%8e%e7%9a%84"><span>美的</span></a><a href="https://takoboto.jp/?q=%e8%a6%b3%e7%82%b9"><span>観点</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8%2c"><strong>からすると,</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af"><span>これは</span></a><a href="https://takoboto.jp/?q=%e9%86%9c%e3%81%84%e3%81%a7%e3%81%99"><span>醜いです</span></a>
+    segments:
+      - text: 私の美的観点
+        grammar_highlight: false
+      - text: からすると,
+        grammar_highlight: true
+      - text: これは醜いです
+        grammar_highlight: false
+    reading: わたしのびてきかんてんからするとこれはみにくいです
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: From my aestheitc point of view,this is ugly.
+        html: |-
+          <span>From my aestheitc point of view,this is ugly. </span>
+        segments:
+          - text: 'From my aestheitc point of view,this is ugly. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Is this more commonly a written or spoken phrase? If written, what's the more casual, spoken way to convey the same meaning?
+    html: |-
+      Is this more commonly a written or spoken phrase? If written, what's the more casual, spoken way to convey the same meaning?
+    credits_raw: Televangelist
+    content_sha256: 205f0b48c75ef3a9b0e4c4a230ec3bba95afc5d996fa270263aef737cb80e581
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1271
+    label: から見ると
+    source_url: https://takoboto.jp/bunpo/1271
+  - target_id: 614
+    label: からすると
+    source_url: https://takoboto.jp/bunpo/614
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:46:16+00:00'
+response_sha256: 67af78761ab9bbeb4e849ce15a5186c479c5663a6db214d2b4a41c903f698944
+warnings: []

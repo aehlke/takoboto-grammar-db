@@ -93,8 +93,8 @@ response hashes always cover the original bytes, before display transformations.
 
 Repeated original example IDs are preserved as separate occurrences in source
 order. SQLite schema 3 keys historical examples by `(entry_key, position)`;
-`source_id` remains the original ID and can repeat. Current JSON remains schema
-2 and historical JSON remains schema 1.
+`source_id` remains the original ID and can repeat. Current records remain schema
+2 and historical records remain schema 1.
 
 ## Selection, scope and unresolved evidence
 
@@ -122,7 +122,7 @@ Nine contain grammar/usage explanations and were included in both observations:
 `teshimaimashita`, `gokensonwo`, `gomottomo` and `ha-3`. Two dictionary-only
 entries, `ryuu` and `manten`, were excluded; `ryuu` also has an explicit moderator
 note identifying it as dictionary material scheduled for deletion.
-[The scope manifest](../src/takoboto_grammar/grammar-membership.json) records
+[The scope manifest](../src/takoboto_grammar/grammar-membership.yaml) records
 each reason, original ID/label, exact reviewed title, source URL, timestamp
 and raw response hash. Automated reuse requires matching ID, label and title
 and still applies the source license check.
@@ -187,3 +187,18 @@ No Save Page Now, proxy rotation, authentication or restriction bypass is used.
 ArchiveTeam and Internet Archive are credited as preservation providers, not
 as licensors of the original grammar. The original CC BY-SA 2.0 attribution and
 [Takoboto permission requirements](../PERMISSION.md) continue to apply.
+
+## YAML storage migration
+
+Version 0.4.0 stores canonical entry and RSS records as YAML, with literal
+blocks for multiline text/HTML, stable field order and quoted ambiguous strings.
+The conversion preserves every parsed value, source URL, original byte segment
+and provenance hash. Legacy JSON content files were moved to Trash and removed
+from the repository tree; no parallel JSON copies are tracked. Inventories,
+verification states and request reports remain machine JSON metadata.
+
+Record verification hashes still use the canonical JSON representation of the
+parsed values, independent of the on-disk YAML formatting. SQLite still embeds
+complete JSON records. Both representations are checked against pre-migration
+values; changing file format does not create a new source observation.
+See [YAML format](yaml-format.md) and [migration QA](../recon/yaml-migration.yaml).

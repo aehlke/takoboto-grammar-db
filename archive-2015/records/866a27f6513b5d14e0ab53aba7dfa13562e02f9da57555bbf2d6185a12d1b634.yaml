@@ -1,0 +1,267 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1387
+label: de, ni, mae
+title_raw: で・に・前  [で・に・ まえ (de - ni -mae)] (de, ni, mae)
+title: で・に・前
+reading: で・に・ まえ (de - ni -mae)
+romanized_label: de, ni, mae
+category: grammar
+jlpt_level_original: '3'
+meaning: time and place prepositions at in on
+meaning_example: On Friday at 3pm
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=de,%20ni,%20mae
+archive_url: https://web.archive.org/web/20150225005738id_/http://jgram.org/pages/viewOne.php?tagE=de,%20ni,%20mae
+archive_timestamp: '20150225005738'
+retrieved_at: '2026-10-03T16:12:22+00:00'
+archive_digest: LAMEB57JYIKIRJ62PEK4354EKJC4S2R6
+response_sha256: 2bcaa1c7cdfefa3f1779965a21d1475846ab0442b593e772a9bffad89b3ef689
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "に \x01 is a placement particle locating a point in time or space, で \x01 indicates the domain in which the totality of an event takes place."
+    html: "に <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> is a placement particle locating a point in time or space, で <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> indicates the domain in which the totality of an event takes place."
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: The particle に requires something physical, such as 東京に本店があります,whereas, で requires some activity, such as 東京で会合があります.
+    html: The particle に requires something physical, such as 東京に本店があります,whereas, で requires some activity, such as 東京で会合があります.
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 4639
+    position: 0
+    japanese: 駅前でお会いします
+    body_text: "駅前でお会いします\r\n \n\n\t\tIN FRONT OF the station"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ駅前でお会いします\">\n\t\t\t\t駅前でお会いします\r\n<strong></strong><strong></strong></a> <br/>\n\t\tIN FRONT OF the station \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4640
+    position: 1
+    japanese: カフェー内で
+    body_text: "カフェー内で\r \n\n\t\tIN the cafe (= inside)"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJカフェー内で\">\n\t\t\t\tカフェー内で\r<strong></strong><strong></strong></a> <br/>\n\t\tIN the cafe (= inside) \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4641
+    position: 2
+    japanese: カフェで
+    body_text: "カフェで\r \n\n\t\tAT the cafe (at that place, could be in or outside)"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJカフェで\">\n\t\t\t\tカフェで\r<strong></strong><strong></strong></a> <br/>\n\t\tAT the cafe (at that place, could be in or outside) \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4642
+    position: 3
+    japanese: 駅で
+    body_text: "駅で \n\n\t\tAT the station"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ駅で\">\n\t\t\t\t駅で<strong></strong><strong></strong></a> <br/>\n\t\tAT the station \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4643
+    position: 4
+    japanese: 駅長室で
+    body_text: "駅長室で \n\n\t\tIN the station masters office"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ駅長室で\">\n\t\t\t\t駅長室で<strong></strong><strong></strong></a> <br/>\n\t\tIN the station masters office \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4644
+    position: 5
+    japanese: 金曜日の夜にお会い、、
+    body_text: "金曜日の夜にお会い、、\r \n\n\t\tON friday night"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ金曜日の夜にお会い、、\">\n\t\t\t\t金曜日の夜にお会い、、\r<strong></strong><strong></strong></a> <br/>\n\t\tON friday night \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4645
+    position: 6
+    japanese: 時間に間に合います
+    body_text: "時間に間に合います\r\n \n\n\t\tI will be ON time"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ時間に間に合います\">\n\t\t\t\t時間に間に合います\r\n<strong></strong><strong></strong></a> <br/>\n\t\tI will be ON time \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4646
+    position: 7
+    japanese: バーで
+    body_text: "バーで\r \n\n\t\tAT the bar"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJバーで\">\n\t\t\t\tバーで\r<strong></strong><strong></strong></a> <br/>\n\t\tAT the bar \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4647
+    position: 8
+    japanese: いつもの時間と場所で or いつもの時間にいつもの場所で
+    body_text: "いつもの時間と場所で or いつもの時間にいつもの場所で \n\n\t\tAT the regular time and place"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJいつもの時間と場所で or いつもの時間にいつもの場所で\">\n\t\t\t\tいつもの時間と場所で or いつもの時間にいつもの場所で<strong></strong><strong></strong></a> <br/>\n\t\tAT the regular time and place \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4648
+    position: 9
+    japanese: 七時に
+    body_text: "七時に\r \n\n\t\tAT 7pm"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ七時に\">\n\t\t\t\t七時に\r<strong></strong><strong></strong></a> <br/>\n\t\tAT 7pm \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4649
+    position: 10
+    japanese: 七時までに到着できます。（行けます。）
+    body_text: "七時までに到着できます。（行けます。）\r\n \n\n\t\tI will be there BY 7pm (before 7pm)"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ七時までに到着できます。（行けます。）\">\n\t\t\t\t七時までに到着できます。（行けます。）\r\n<strong></strong><strong></strong></a> <br/>\n\t\tI will be there BY 7pm (before 7pm) \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4650
+    position: 11
+    japanese: 金曜日の午後に待ち合わせしましょうか？
+    body_text: "金曜日の午後に待ち合わせしましょうか？\r \n\n\t\twhy dont we meet ON friday afternoon?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ金曜日の午後に待ち合わせしましょうか？\">\n\t\t\t\t金曜日の午後に待ち合わせしましょうか？\r<strong></strong><strong></strong></a> <br/>\n\t\twhy dont we meet ON friday afternoon? \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4651
+    position: 12
+    japanese: 金曜日の３時に待ち合わせしましょうか？
+    body_text: "金曜日の３時に待ち合わせしましょうか？\r \n\n\t\twhy dont we meet AT 3 on friday?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ金曜日の３時に待ち合わせしましょうか？\">\n\t\t\t\t金曜日の３時に待ち合わせしましょうか？\r<strong></strong><strong></strong></a> <br/>\n\t\twhy dont we meet AT 3 on friday? \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6522
+    position: 13
+    japanese: 一人で　映画を　見に　行く。
+    body_text: "一人で　映画を　見に　行く。\r \n\n\t\tI will go alone to watch the movie."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ一人で　映画を　見に　行く。\">\n\t\t\t\t一人で　映画を　見に　行く。\r<strong></strong><strong></strong></a> <br/>\n\t\tI will go alone to watch the movie. \n\t\t<strong> </strong>"
+    credits_raw: nihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: "Is this correct?\n\r\ntimeでplaceに\n\r\n明日の朝で私が東京に打合せがありますので"
+    html: "Is this correct?<br/>\r\ntimeでplaceに<br/>\r\n明日の朝で私が東京に打合せがありますので<br/>\n<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Miki
+    text: 明日の朝に 私が 東京で　打ち合わせがありますので...
+    html: 明日の朝に 私が 東京で　打ち合わせがありますので...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: bamboo4
+    text: The particle に requires something physical, such as 東京に本店があります,whereas, で requires some activity, such as 東京で会合があります.
+    html: |-
+      The particle に requires something physical, such as 東京に本店があります,whereas, で requires some activity, such as 東京で会合があります.<br/>
+      <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: PaulO
+    text: "But I'm almost sure you can say 東京に会合があります as well. \n\r\nに is a placement particle locating a point in time or space, で indicates the domain in which the totality of an event takes place."
+    html: "But I'm almost sure you can say 東京に会合があります as well. <br/>\r\nに is a placement particle locating a point in time or space, で indicates the domain in which the totality of an event takes place."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: dc
+    text: tx paul, added as a note above.
+    html: tx paul, added as a note above.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Miki
+    text: I wouldn't say 東京に会合があります。 But I'd say 東京にて会合があります。
+    html: I wouldn't say 東京に会合があります。 But I'd say 東京にて会合があります。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: mhykx
+    text: Miki, but basically にて and で are the same, right?  Or is there a difference?
+    html: Miki, but basically にて and で are the same, right?  Or is there a difference?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Miki
+    text: In the case of 東京で会合があります、basically にて and で are the same.
+    html: In the case of 東京で会合があります、basically にて and で are the same.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: de
+    label: de
+    annotation_text: de    (I just added a page trying to clarify the differences) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=de">de</a>    (I just added a page trying to clarify the differences) [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "で・に・前  [で・に・ まえ (de - ni -mae)] (de, ni, mae)\n    Meaning: time and place prepositions at in on \n    Example: On Friday at 3pm\n    JLPT Level: 3\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>で・に・前  [で・に・ まえ (de - ni -mae)] (de, ni, mae)</span><br/>    <span><b>Meaning</b>: time and place prepositions at in on </span><br/>    <b>Example</b>: <i>On Friday at 3pm</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225005738'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 120087243
+  length: 6268
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: fc9c50c68cf79f332f538bb926a8cddcff9b33ba99236b5bcb53197c28fcfcfa

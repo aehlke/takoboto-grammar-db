@@ -1,0 +1,229 @@
+schema_version: 2
+id: 944
+source: takoboto
+source_url: https://takoboto.jp/bunpo/944/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: さすが (流石)
+romanized_label: sasuga
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: as expected, after all
+meaning_example: he won. After all, he is a fast runner
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_944
+    body_text: |-
+      as expected, after all 
+       he won. After all, he is a fast runner
+    body_html: |-
+      <span>as expected, after all</span> <br/> <span>he won. After all, he is a fast runner</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 4128
+    position: 0
+    japanese: さすが、彼は期待を裏切らないね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%95%e3%81%99%e3%81%8c"><strong>さすが</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%9c%9f%e5%be%85%e3%82%92"><span>期待を</span></a><a href="https://takoboto.jp/?q=%e8%a3%8f%e5%88%87%e3%82%89%e3%81%aa%e3%81%84%e3%81%ad%e3%80%82"><span>裏切らないね。</span></a>
+    segments:
+      - text: さすが
+        grammar_highlight: true
+      - text: 、彼は期待を裏切らないね。
+        grammar_highlight: false
+    reading: さすが、かれはきたいをうらぎらないね。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: That's just what one would expect of him.
+        html: |-
+          <span>That's just what one would </span><strong>expect of </strong><span>him. </span>
+        segments:
+          - text: 'That''s just what one would '
+            grammar_highlight: false
+          - text: 'expect of '
+            grammar_highlight: true
+          - text: 'him. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4129
+    position: 1
+    japanese: さすがだね。君ならやってくれると思っていたよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%95%e3%81%99%e3%81%8c"><strong>さすが</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%ad%e3%80%82"><span>だね。</span></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%aa%e3%82%89%e3%82%84%e3%81%a3%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8b%e3%81%a8"><span>君ならやってくれると</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e3%82%88%e3%80%82"><span>思っていたよ。</span></a>
+    segments:
+      - text: さすが
+        grammar_highlight: true
+      - text: だね。君ならやってくれると思っていたよ。
+        grammar_highlight: false
+    reading: さすがだね。きみならやってくれるとおもっていたよ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Excellent! It's just like you to come through like that.
+        html: |-
+          <strong>Excellent! </strong><span>It's just like you to come through like that. </span>
+        segments:
+          - text: 'Excellent! '
+            grammar_highlight: true
+          - text: 'It''s just like you to come through like that. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4130
+    position: 2
+    japanese: さすがに偉大な学者だけあって、彼はその問いに容易に答えた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%95%e3%81%99%e3%81%8c%e3%81%ab"><strong>さすがに</strong></a><a href="https://takoboto.jp/?q=%e5%81%89%e5%a4%a7%e3%81%aa"><span>偉大な</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e8%80%85%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6%e3%80%81"><span>学者だけあって、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%9d%e3%81%ae"><span>彼はその</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e3%81%84%e3%81%ab"><span>問いに</span></a><a href="https://takoboto.jp/?q=%e5%ae%b9%e6%98%93%e3%81%ab"><span>容易に</span></a><a href="https://takoboto.jp/?q=%e7%ad%94%e3%81%88%e3%81%9f%e3%80%82"><span>答えた。</span></a>
+    segments:
+      - text: さすがに
+        grammar_highlight: true
+      - text: 偉大な学者だけあって、彼はその問いに容易に答えた。
+        grammar_highlight: false
+    reading: さすがにいだいながくしゃだけあって、かれはそのといによういにこたえた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Like the great scholar that he was, he answered the question easily.
+        html: |-
+          <strong>Like </strong><span>the great scholar that he was, he answered the question easily. </span>
+        segments:
+          - text: 'Like '
+            grammar_highlight: true
+          - text: 'the great scholar that he was, he answered the question easily. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4131
+    position: 3
+    japanese: 年の功と言うのか、彼の意見はさすがに一日の長があるね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%b9%b4%e3%81%ae"><span>年の</span></a><a href="https://takoboto.jp/?q=%e5%8a%9f%e3%81%a8"><span>功と</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%ae%e3%81%8b%e3%80%81"><span>言うのか、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e6%84%8f%e8%a6%8b%e3%81%af"><span>意見は</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%99%e3%81%8c%e3%81%ab"><strong>さすがに</strong></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%97%a5%e3%81%ae"><span>一日の</span></a><a href="https://takoboto.jp/?q=%e9%95%b7%e3%81%8c%e3%81%82%e3%82%8b%e3%81%ad%e3%80%82"><span>長があるね。</span></a>
+    segments:
+      - text: 年の功と言うのか、彼の意見は
+        grammar_highlight: false
+      - text: さすがに
+        grammar_highlight: true
+      - text: 一日の長があるね。
+        grammar_highlight: false
+    reading: としのこうというのか、かれのいけんはさすがにいちにちのちょうがあるね。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Maybe it's his age but his opinions seem a little more grounded in experience than everyone else's.
+        html: |-
+          <span>Maybe it's his age but his opinions seem a little more grounded in experience than everyone else's. </span>
+        segments:
+          - text: 'Maybe it''s his age but his opinions seem a little more grounded in experience than everyone else''s. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4132
+    position: 4
+    japanese: 彼はさすがに大学へ行っただけのことはある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%99%e3%81%8c%e3%81%ab"><strong>さすがに</strong></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e3%81%b8"><span>大学へ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%81%a0%e3%81%91%e3%81%ae%e3%81%93%e3%81%a8%e3%81%af%e3%81%82%e3%82%8b%e3%80%82"><span>行っただけのことはある。</span></a>
+    segments:
+      - text: 彼は
+        grammar_highlight: false
+      - text: さすがに
+        grammar_highlight: true
+      - text: 大学へ行っただけのことはある。
+        grammar_highlight: false
+    reading: かれはさすがにだいがくへいっただけのことはある。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: He did not go to college for nothing.
+        html: |-
+          <span>He did not go to college for nothing. </span>
+        segments:
+          - text: 'He did not go to college for nothing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4133
+    position: 5
+    japanese: 本当の事を言ったとはさすがに勇気がある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ae"><span>本当の</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%82%92"><span>事を</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f%e3%81%a8%e3%81%af"><span>言ったとは</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%99%e3%81%8c%e3%81%ab"><strong>さすがに</strong></a><a href="https://takoboto.jp/?q=%e5%8b%87%e6%b0%97%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>勇気がある。</span></a>
+    segments:
+      - text: 本当の事を言ったとは
+        grammar_highlight: false
+      - text: さすがに
+        grammar_highlight: true
+      - text: 勇気がある。
+        grammar_highlight: false
+    reading: ほんとうのことをいったとはさすがにゆうきがある。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You were courageous to tell the truth.
+        html: |-
+          <span>You were courageous to tell the truth. </span>
+        segments:
+          - text: 'You were courageous to tell the truth. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: seems to usually be used for positive things. you would not say "he cheated. after all, he is a lawyer.."
+    html: seems to usually be used for positive things. you would not say "he cheated. after all, he is a lawyer.."
+    credits_raw: dc
+    content_sha256: efb7e515d0b5a1ca784304fdabc7d3e767c4b90f9af9945ce72df8ba7792dab5
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'ex4131 一日の長 ichijitsu no chou 〔論語 Analects〕: 経験・技能・知識などに若干すぐれていること。'
+    html: 'ex4131 一日の長 ichijitsu no chou 〔論語 Analects〕: 経験・技能・知識などに若干すぐれていること。'
+    credits_raw: Miki
+    content_sha256: 9d5eba83412d5e134d0b3a37e1e79c52bc3c0b367f16c56f6106db8ed90d5665
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: さすが = さすがに 流石 sasuga
+    html: さすが = さすがに 流石 sasuga
+    credits_raw: Miki
+    content_sha256: 49d11318aa0493e52d0a3a50dca6638c47715b465dfbd302e8104ef4a07a3f0c
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      This might be a good example of how to use さすが in a more casual way.
+
+      Last time I went to karaoke I went with a bunch of bandmen, and after a vocalist of a certain band blew us all away, everyone said at the same time「さすがにプロだね！！」
+    html: |-
+      This might be a good example of how to use さすが in a more casual way.<br/><br/>Last time I went to karaoke I went with a bunch of bandmen, and after a vocalist of a certain band blew us all away, everyone said at the same time「さすがにプロだね！！」
+    credits_raw: マリ
+    content_sha256: 4bbd423dc76469d521925ccf8a8770ccadb482cafb52f96b2beb376ee0b33d11
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Mikiさん、例文[#4132]には何か間違っている、あるいは不足しているみたいな気がしているけど再調査をお願いします。
+    html: Mikiさん、例文[#4132]には何か間違っている、あるいは不足しているみたいな気がしているけど再調査をお願いします。
+    credits_raw: ppmohapatra
+    content_sha256: e3de818361bcaa0d406e47d55823cea53dc88593aae57cd28ac952e904cf4393
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 965
+    label: だけあって
+    source_url: https://takoboto.jp/bunpo/965
+  - target_id: 961
+    label: 果たして
+    source_url: https://takoboto.jp/bunpo/961
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:43:52+00:00'
+response_sha256: f205431406218a3cf417074fdb0c492adbde0300c1a807aa8674d0e39819b9b6
+warnings: []

@@ -1,0 +1,82 @@
+schema_version: 2
+id: 1598
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1598/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: と伝えていただけませんか
+romanized_label: totsutaeteitadakemasenka
+alternate_forms:
+  - につたえていたでけませんか
+jlpt_level: null
+credits_raw: Overfiend
+meaning: Politely asking someone to convey a message.
+meaning_example: Could you please tell Anthony that i will phone him later.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1598
+    body_text: |-
+      Politely asking someone to convey a message. 
+       Could you please tell Anthony that i will phone him later.
+    body_html: |-
+      <span>Politely asking someone to convey a message.</span> <br/> <span>Could you please tell Anthony that i will phone him later.</span>
+    credits_raw: Overfiend
+formations: []
+examples:
+  - source_id: 6159
+    position: 0
+    japanese: 彼におめでとうと伝えていただけませんか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86"><span>彼におめでとう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e4%bc%9d%e3%81%88%e3%81%a6%e3%81%84%e3%81%9f%e3%81%a0%e3%81%91%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b"><strong>と伝えていただけませんか</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼におめでとう
+        grammar_highlight: false
+      - text: と伝えていただけませんか
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かれにおめでとうとつたえていただけませんか。
+    credits_raw: julz
+    translations:
+      - language: en
+        text: Please tell him congratulations from me.
+        html: |-
+          <span>Please tell him congratulations from me. </span>
+        segments:
+          - text: 'Please tell him congratulations from me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Formation:
+      (Person)に(message plain form)と伝えていただけませんか。
+      例えば：すみませんが、渡辺さんに明日のパーティーは６時からだと伝えていただけませんか。
+      英語：Excuse me but, could you tell Watanabe that the party tomorrow will start from 6.
+    html: |-
+      Formation:<br/>(Person)に(message plain form)と伝えていただけませんか。<br/>例えば：すみませんが、渡辺さんに明日のパーティーは６時からだと伝えていただけませんか。<br/>英語：Excuse me but, could you tell Watanabe that the party tomorrow will start from 6.
+    credits_raw: Overfiend
+    content_sha256: 8fd6feb10c1de3853397aa33d7d63e3fd7eb0814b2c81fd485b2e35fe0a3aaee
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      彼にがんばってねと伝えてくれませんかなぁ？
+      Could you please tell him "Please work hard" from me?
+    html: |-
+      彼にがんばってねと伝えてくれませんかなぁ？<br/>Could you please tell him "Please work hard" from me?
+    credits_raw: ヒカエル
+    content_sha256: 0c8c477ca576d63b41c6ac0d16b20baca8196f51b4fee28f89e1778691a2dbe8
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:47:20+00:00'
+response_sha256: d6cef6503dbcbf74ff5d99be9c1f99a5df9dbf46ac412fb574aab90ee92397a5
+warnings: []

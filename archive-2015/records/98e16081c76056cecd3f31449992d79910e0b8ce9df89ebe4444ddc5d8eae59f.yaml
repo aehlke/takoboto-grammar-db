@@ -1,0 +1,394 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 801
+label: kaketa
+title_raw: かけた [かけた] (kaketa)
+title: かけた
+reading: かけた
+romanized_label: kaketa
+category: grammar
+jlpt_level_original: '1'
+meaning: started but not finished
+meaning_example: the half-drunk thing in the fridge
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=kaketa
+archive_url: https://web.archive.org/web/20150224225748id_/http://jgram.org/pages/viewOne.php?tagE=kaketa
+archive_timestamp: '20150224225748'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: Q4X2ZAPSOI5XHHKRSQ3GHUQCB6OVP2FW
+response_sha256: 08808fe7913e6d528440b1526b09e1ff398e3e2253d6fd8028bf49f9070e6ee0
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "<b>~kakeru</b> is for verbs:\n\r\n言いかけ　（いいかけ）\n\r\nIn the middle of saying something\n\n\n\r\n本を読みかけて、寝てしまいました\n\r\nI fell asleep with the book half read.\n\n\n\r\n<b>~kakeno</b> is a modifier for nouns (eg. tabekake no ringo)\n\r\n食べかけのりんご\n\r\nA half-eaten apple\n\n\n\r\n<b>~kake da</b> comes at the end of a sentence\n\r\nwhere だ is derived from です\n\r\n書きかけだ\n\r\nit is in the middle of being written"
+    html: "&lt;b&gt;~kakeru&lt;/b&gt; is for verbs:<br/>\r\n言いかけ　（いいかけ）<br/>\r\nIn the middle of saying something<br/>\n<br/>\r\n本を読みかけて、寝てしまいました<br/>\r\nI fell asleep with the book half read.<br/>\n<br/>\r\n&lt;b&gt;~kakeno&lt;/b&gt; is a modifier for nouns (eg. tabekake no ringo)<br/>\r\n食べかけのりんご<br/>\r\nA half-eaten apple<br/>\n<br/>\r\n&lt;b&gt;~kake da&lt;/b&gt; comes at the end of a sentence<br/>\r\nwhere だ is derived from です<br/>\r\n書きかけだ<br/>\r\nit is in the middle of being written<br/>"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 590
+    position: 0
+    japanese: 作文は今日中に書かなければならないのにまだ書きかけだ。
+    body_text: "作文は今日中に書かなければならないのにまだ書きかけだ。 \n\n\t\tthe essay has to be finished by today, but I am still \n\t\tin the middle of \n\t\twriting it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ作文は今日中に書かなければならないのにまだ書きかけだ。\">\n\t\t\t\t作文は今日中に書かなければならないのにまだ書き<strong>かけ</strong>だ。<strong></strong></a> <br/>\n\t\tthe essay has to be finished by today, but I am still \n\t\t<strong>in the middle of </strong>\n\t\twriting it."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 736
+    position: 1
+    japanese: 読みかけた。
+    body_text: "読みかけた。 \n\n\t\tIam \n\t\tin the process of \n\t\treading it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ読みかけた。\">\n読み<strong>かけ</strong>た。<strong></strong></a> <br/>\n\t\tIam \n\t\t<strong>in the process of </strong>\n\t\treading it."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 739
+    position: 2
+    japanese: 完全に忘れている。読んだ（いや、読みかけた）ことは、確かなのに。
+    body_text: "完全に忘れている。読んだ（いや、読みかけた）ことは、確かなのに。 \n\n\t\tI've totally forgotten (them).  Even though it's certain that I've read \n\t\t(no, well, started to \n\t\tread,) them."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ完全に忘れている。読んだ（いや、読みかけた）ことは、確かなのに。\">\n\t\t\t\t完全に忘れている。読んだ（いや、読み<strong>かけた</strong>）ことは、確かなのに。<strong></strong></a> <br/>\n\t\tI've totally forgotten (them).  Even though it's certain that I've read \n\t\t<strong>(no, well, started to </strong>\n\t\tread,) them."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1044
+    position: 3
+    japanese: 冷蔵庫の中にある飲みかけの物を捨てて下さい。
+    body_text: "冷蔵庫の中にある飲みかけの物を捨てて下さい。 \n\n\t\tplease throw away the \n\t\thalf-drunk \n\t\tthings in the fridge."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ冷蔵庫の中にある飲みかけの物を捨てて下さい。\">\n\t\t\t\t冷蔵庫の中にある飲み<strong>かけの</strong>物を捨てて下さい。<strong></strong></a> <br/>\n\t\tplease throw away the \n\t\t<strong>half-drunk </strong>\n\t\tthings in the fridge."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1082
+    position: 4
+    japanese: この食べかけのお弁当はだれの？
+    body_text: "この食べかけのお弁当はだれの？ \n\n\t\tThis \n\t\tin the middle of \n\t\tbeing eaten bento box is who's?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの食べかけのお弁当はだれの？\">\n\t\t\t\tこの食べ<strong>かけの</strong>お弁当はだれの？<strong></strong></a> <br/>\n\t\tThis \n\t\t<strong>in the middle of </strong>\n\t\tbeing eaten bento box is who's?"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1612
+    position: 5
+    japanese: ケーキを食べかけた時に、電話が掛かって来た。
+    body_text: "ケーキを食べかけた時に、電話が掛かって来た。 \n\nJust as I was about to \n\t\teat the cake, the phone rang."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJケーキを食べかけた時に、電話が掛かって来た。\">\n\t\t\t\tケーキを食べ<strong>かけた</strong>時に、電話が掛かって来た。<strong></strong></a> <br/>\n<strong>Just as I was about to </strong>\n\t\teat the cake, the phone rang."
+    credits_raw: dc
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4351
+    position: 6
+    japanese: おぼれかけた人は息を吹き返した。
+    body_text: "おぼれかけた人は息を吹き返した。 \n\n\t\tThe man who \n\t\tnearly drowned \n\t\tbegan to breath."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJおぼれかけた人は息を吹き返した。\">\nおぼれ<strong>かけた</strong>人は息を吹き返した。<strong></strong></a> <br/>\n\t\tThe man who \n\t\t<strong>nearly drowned </strong>\n\t\tbegan to breath."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4352
+    position: 7
+    japanese: その子供は車にひかれかけた。
+    body_text: "その子供は車にひかれかけた。 \n\n\t\tThe child \n\t\twas nearly run \n\t\tover by a car."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJその子供は車にひかれかけた。\">\n\t\t\t\tその子供は車にひかれ<strong>かけた</strong>。<strong></strong></a> <br/>\n\t\tThe child \n\t\t<strong>was nearly run </strong>\n\t\tover by a car."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4353
+    position: 8
+    japanese: 半分忘れかけた音楽が彼の心の中で踊りました。
+    body_text: "半分忘れかけた音楽が彼の心の中で踊りました。 \n\nHalf-forgotten \n\t\tmusic danced through his mind."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ半分忘れかけた音楽が彼の心の中で踊りました。\">\n\t\t\t\t半分忘れ<strong>かけた</strong>音楽が彼の心の中で踊りました。<strong></strong></a> <br/>\n<strong>Half-forgotten </strong>\n\t\tmusic danced through his mind."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4354
+    position: 9
+    japanese: 彼が何かを言いかけたが先手を打ってやった。
+    body_text: "彼が何かを言いかけたが先手を打ってやった。 \n\n\t\tHe \n\t\tstarted to say \n\t\tsomething, but I beat him to it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼が何かを言いかけたが先手を打ってやった。\">\n\t\t\t\t彼が何かを言い<strong>かけたが</strong>先手を打ってやった。<strong></strong></a> <br/>\n\t\tHe \n\t\t<strong>started to say </strong>\n\t\tsomething, but I beat him to it."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4355
+    position: 10
+    japanese: 彼が倒れかけた時私は彼の腕をつかんだ。
+    body_text: "彼が倒れかけた時私は彼の腕をつかんだ。 \n\n\t\tI caught him by the arm \n\t\tbefore he could \n\t\tfall."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼が倒れかけた時私は彼の腕をつかんだ。\">\n\t\t\t\t彼が倒れ<strong>かけた</strong>時私は彼の腕をつかんだ。<strong></strong></a> <br/>\n\t\tI caught him by the arm \n\t\t<strong>before he could </strong>\n\t\tfall."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4356
+    position: 11
+    japanese: 彼が眠りかけたとき名前が呼ばれるのを耳にした。
+    body_text: "彼が眠りかけたとき名前が呼ばれるのを耳にした。 \n\n\t\tHe \n\t\twas about to fall asleep, \n\t\twhen he heard his name called."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼が眠りかけたとき名前が呼ばれるのを耳にした。\">\n\t\t\t\t彼が眠り<strong>かけた</strong>とき名前が呼ばれるのを耳にした。<strong></strong></a> <br/>\n\t\tHe \n\t\t<strong>was about to fall asleep, </strong>\n\t\twhen he heard his name called."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4357
+    position: 12
+    japanese: 彼はその仕事に飽きて、やりかけたままで放っておいた。
+    body_text: "彼はその仕事に飽きて、やりかけたままで放っておいた。 \n\n\t\tHe got tired of the work, and left it \n\t\thalf-done."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼はその仕事に飽きて、やりかけたままで放っておいた。\">\n\t\t\t\t彼はその仕事に飽きて、やり<strong>かけた</strong>ままで放っておいた。<strong></strong></a> <br/>\n\t\tHe got tired of the work, and left it \n\t\t<strong>half-done. </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: 書きかけた is incorrect, and should be 書きかけだ.
+    html: |-
+      書きかけた is incorrect, and should be 書きかけだ.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: bamboo4
+    text: 飲み かけた is incorrect and should be 飲みかけの
+    html: 飲み かけた is incorrect and should be 飲みかけの
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: bamboo4
+    text: |-
+      読み かけた means "just started to read" and does not have the context of "I didn't finish reading it" which would be 読み終えなかった.
+    html: |-
+      読み かけた means "just started to read" and does not have the context of "I didn't finish reading it" which would be 読み終えなかった. <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: corrections made, thanks!
+    html: corrections made, thanks!
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Amatuka
+    text: "書きかけた does seem to be a valid (if low) usage - 3,000 Google hits compared to \n\r\n(書きかけ　-書きかけた)'s 27,600.\n\r\nDo 飲みかけ, 書きかけ etc belong in the same entry as 読みかけた ?"
+    html: "書きかけた does seem to be a valid (if low) usage - 3,000 Google hits compared to <br/>\r\n(書きかけ　-書きかけた)'s 27,600.<br/>\r\nDo 飲みかけ, 書きかけ etc belong in the same entry as 読みかけた ?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Amatuka
+    text: |-
+      I suppose 読みかけた doesn't have the nuance of 読み終えなかった - because that would imply that you probably aren't going to finish it.
+    html: |-
+      I suppose 読みかけた doesn't have the nuance of 読み終えなかった - because that would imply that you probably aren't going to finish it.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: Amatuka
+    text: |-
+      Presumably they are all based on 
+
+      かける (aux-v,v1) to turn on; to dial (e.g. phone); to start doing something (but not finish)
+    html: |-
+      Presumably they are all based on <br/>
+      <b>かける (aux-v,v1) to turn on; to dial (e.g. phone); to start doing something (but not finish)</b>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Amatuka
+    text: |-
+      Maybe this entry should be changed to 'かける - To start (but not finish) something' with the noun + past tense verb form noted in comments.
+    html: |-
+      Maybe this entry should be changed to <b>'かける - To start (but not finish) something'</b> with the noun + past tense verb form noted in comments.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: dc
+    text: "I think this has two meanings: \n\r\n1. to start (but not finish) \n\r\n2. to almost start"
+    html: "I think this has two meanings: <br/>\r\n1. to start (but not finish) <br/>\r\n2. to almost start"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: dc
+    text: "also \n\r\n食べかけた（時に、、、）\n\r\nis different from \n\r\n食べかけの+noun"
+    html: "also <br/>\r\n食べかけた（時に、、、）<br/>\r\nis different from <br/>\r\n食べかけの+noun"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: your name
+    text: |-
+      食べかけの is simply the noun form of 食べかける with の acting as a modifier.  I think there is no difference in meaning between '食べかけたケーキ' and '食べかけのケーキ' (although the latter is much more common).
+    html: |-
+      食べかけの is simply the noun form of 食べかける with の acting as a modifier.  I think there is no difference in meaning between '食べかけたケーキ' and '食べかけのケーキ' (although the latter is much more common).
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: dc
+    text: "as someone else pointed out the かけた in 話しかけた　is nothing to do with this grammar, it's a set phrase \n\r\n彼は私に話しかけた。\n\r\n\"he started to talk to me\""
+    html: "as someone else pointed out the かけた in 話しかけた　is nothing to do with this grammar, it's a set phrase <br/>\r\n彼は私に話しかけた。<br/>\r\n\"he started to talk to me\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: dc
+    text: this might fall into a category of verb endings, including -dashita
+    html: |-
+      this might fall into a category of verb endings, including <a href="http://jgram.org/pages/viewOne.php?tagE=-dashita">-dashita</a><br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: Amatuka
+    text: |-
+      I'm still not convinced of "to almost start" as distinct from "to start (but not finish)" although there are cases where both could be used in translations of sentences using かけた.
+    html: |-
+      I'm still not convinced of "to almost start" <b>as distinct from</b> "to start (but not finish)" although there are cases where <b>both</b> could be used in translations of sentences using かけた.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: bamboo4
+    text: 私はケーキを 食べ かけた should be 私が
+    html: 私はケーキを 食べ かけた should be 私が
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    credits_raw: bamboo4
+    text: "Made the change by deleting 私は in #\x01. Not need in the context."
+    html: "Made the change by deleting 私は in <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=kaketa#\x01\">#\x01</a></b>. Not need in the context."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    credits_raw: CorDarei
+    text: "The english in ex#\x01 is really awkward. I think it should be \"Whose is this half-eaten bento box?\""
+    html: "The english in ex<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=kaketa#\x01\">#\x01</a></b> is really awkward. I think it should be \"Whose is this half-eaten bento box?\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    credits_raw: dc
+    text: |-
+      you're right, that is a literal translation...trying to keep the same order as the japanese. out of style i guess on this site, so i moved it to the notes section.
+    html: |-
+      you're right, that is a literal translation...trying to keep the same order as the japanese. out of style i guess on this site, so i moved it to the notes section.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    credits_raw: dc
+    text: not yet tho!
+    html: not yet tho!
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    credits_raw: rudy
+    text: what would you say this means kaketa arnou i have taken the spelling off something heard so it is probably incorect
+    html: |-
+      what would you say this means kaketa arnou i have taken the spelling off something heard so it is probably incorect<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 20
+    credits_raw: Olivier
+    text: This is a Level 2 grammar point.
+    html: This is a Level 2 grammar point.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 21
+    credits_raw: bamboo4
+    text: の in 食べかけの is a nominalizer, which makes a noun phrase out of 食べかけ(started to eat but not yet finished).
+    html: の in 食べかけの is a nominalizer, which makes a noun phrase out of 食べかけ(started to eat but not yet finished).
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 22
+    credits_raw: johnk
+    text: "I think \"to almost start\"  and  \"to start (but not finish)\"  are just dependent on whether the verb describes a durative action or instantaneous one.\n\n\n\r\nEg.\n\n\n\r\nInstantaneous = hajimakakeru \"just about to start\" ('started to [but not finished] start' is  clumsy)"
+    html: "I think \"to almost start\"  and  \"to start (but not finish)\"  are just dependent on whether the verb describes a durative action or instantaneous one.<br/>\n<br/>\r\nEg.<br/>\n<br/>\r\nInstantaneous = hajimakakeru \"just about to start\" ('started to [but not finished] start' is  clumsy)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: kiru
+    label: kiru
+    annotation_text: kiru [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kiru">kiru</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: tsuzukeru
+    label: tsuzukeru
+    annotation_text: tsuzukeru    (tsudsukeru implies something going on for a period of time...) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=tsuzukeru">tsuzukeru</a>    (tsudsukeru implies something going on for a period of time...) [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 2
+    target_label: dashita
+    label: dashita
+    annotation_text: dashita [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=dashita">dashita</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 3
+    target_label: kakeda; kakeno; kakeru
+    label: kakeda; kakeno; kakeru
+    annotation_text: kakeda; kakeno; kakeru    (duplicate entry) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kakeda; kakeno; kakeru">kakeda; kakeno; kakeru</a>    (duplicate entry) [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "かけた [かけた] (kaketa)\n    Meaning: started but not finished \n    Example: the half-drunk thing in the fridge\n    JLPT Level: 1\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>かけた [かけた] (kaketa)</span><br/>    <span><b>Meaning</b>: started but not finished </span><br/>    <b>Example</b>: <i>the half-drunk thing in the fridge</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225748'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6466078
+  length: 7989
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 506d042837b5696345c7f89dac50ef1f666ae7acba0240ac78e0825015151594

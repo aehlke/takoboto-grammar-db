@@ -1,0 +1,123 @@
+schema_version: 2
+id: 1671
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1671/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜おうとすると
+romanized_label: youtosuru, part II
+alternate_forms: []
+jlpt_level: 3
+credits_raw: geon
+meaning: A voluntary action stopped just before being completed
+meaning_example: I was about to go out when the phone rang.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1671
+    body_text: |-
+      A voluntary action stopped just before being completed 
+       I was about to go out when the phone rang.
+    body_html: |-
+      <span>A voluntary action stopped just before being completed</span> <br/> <span>I was about to go out when the phone rang.</span>
+    credits_raw: geon
+formations: []
+examples:
+  - source_id: 7020
+    position: 0
+    japanese: バスを降りようとすると、後ろから押された。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%90%e3%82%b9%e3%82%92"><span>バスを</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%8a%e3%82%88%e3%81%86%e3%81%a8%e3%81%99%e3%82%8b%e3%81%a8%e3%80%81"><span>降りようとすると、</span></a><a href="https://takoboto.jp/?q=%e5%be%8c%e3%82%8d%e3%81%8b%e3%82%89"><span>後ろから</span></a><a href="https://takoboto.jp/?q=%e6%8a%bc%e3%81%95%e3%82%8c%e3%81%9f%e3%80%82"><span>押された。</span></a>
+    segments:
+      - text: バスを降りようとすると、後ろから押された。
+        grammar_highlight: false
+    reading: バスをおりようとすると、うしろからおされた。
+    credits_raw: geon
+    translations:
+      - language: en
+        text: I was about to get off the bus, when someone pushed me from behind.
+        html: |-
+          <span>I was about to get off the bus, when someone pushed me from behind. </span>
+        segments:
+          - text: 'I was about to get off the bus, when someone pushed me from behind. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7021
+    position: 1
+    japanese: 出かけようとすると、父に呼ばれた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%8b%e3%81%91%e3%82%88%e3%81%86%e3%81%a8%e3%81%99%e3%82%8b%e3%81%a8%e3%80%81%e7%88%b6%e3%81%ab%e5%91%bc%e3%81%b0%e3%82%8c%e3%81%9f%e3%80%82"><strong>出かけようとすると、父に呼ばれた。</strong></a>
+    segments:
+      - text: 出かけようとすると、父に呼ばれた。
+        grammar_highlight: true
+    reading: でかけようとすると、ちちによばれた。
+    credits_raw: geon
+    translations:
+      - language: en
+        text: I was just about to go out, when dad called me.
+        html: |-
+          <strong>I was just about to go out, when dad called me. </strong>
+        segments:
+          - text: 'I was just about to go out, when dad called me. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8597
+    position: 2
+    japanese: お風呂に入ろうとしたときに、電話が鳴りました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%a2%a8%e5%91%82%e3%81%ab"><span>風呂に</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8d%e3%81%86%e3%81%a8%e3%81%97%e3%81%9f%e3%81%a8%e3%81%8d%e3%81%ab%e3%80%81"><span>入ろうとしたときに、</span></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%8c"><span>電話が</span></a><a href="https://takoboto.jp/?q=%e9%b3%b4%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>鳴りました。</span></a>
+    segments:
+      - text: お風呂に入ろうとしたときに、電話が鳴りました。
+        grammar_highlight: false
+    reading: おふろににゅうろうとしたときに、でんわがなりました。
+    credits_raw: starsandsea
+    translations:
+      - language: en
+        text: The telephone rang just as I was about to get into the bath.
+        html: |-
+          <span>The telephone rang just as I was about to get into the bath. </span>
+        segments:
+          - text: 'The telephone rang just as I was about to get into the bath. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8848
+    position: 3
+    japanese: 彼女に告白しようとすると、突然友達が来ました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ab%e5%91%8a%e7%99%bd%e3%81%97%e3%82%88%e3%81%86%e3%81%a8%e3%81%99%e3%82%8b%e3%81%a8%e3%80%81%e7%aa%81%e7%84%b6%e5%8f%8b%e9%81%94%e3%81%8c%e6%9d%a5%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>彼女に告白しようとすると、突然友達が来ました。</span></a>
+    segments:
+      - text: 彼女に告白しようとすると、突然友達が来ました。
+        grammar_highlight: false
+    reading: かのじょにこくはくしようとすると、とつぜんともだちがきました。
+    credits_raw: godsignal
+    translations:
+      - language: en
+        text: when i try to propose her suddenly friend are come.
+        html: |-
+          <span>when i try to propose her suddenly friend are come. </span>
+        segments:
+          - text: 'when i try to propose her suddenly friend are come. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      The voluntary action is just stopped a moment before being completed by an unexpected external cause. The verb of the main sentence is often in the passive form.
+    html: |-
+      The voluntary action is just stopped a moment before being completed by an unexpected external cause. The verb of the main sentence is often in the passive form.
+    credits_raw: geon
+    content_sha256: ebd7f971d241c503cb42b30a14682a1db78d8168eef4403f30d29aafa065b3cf
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:35:06+00:00'
+response_sha256: 90c03b2b5f41a25cb2fcb8c7a67117e477e2379dd1748daab58878aada735655
+warnings: []

@@ -1,0 +1,62 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1767
+label: mitai na
+title_raw: みたいな ([みたいな] )(mitai na)
+title: みたいな
+reading: みたいな
+romanized_label: mitai na
+category: grammar
+jlpt_level_original: '4'
+meaning: like, alike to mitai na= alike
+meaning_example: |-
+  Kodomo mitai na- like a child.   Otona wa kodomo mitai na hanashite imasu= the adult is talking like a child.  Tenshi mitai na= like an angel. Kodomo wa tenshi mitai na nete imasu- the child is sleeping like an angel.
+credits_raw: abbymae111
+source_url: http://jgram.org/pages/viewOne.php?tagE=mitai%20na
+archive_url: https://web.archive.org/web/20150225001751id_/http://jgram.org/pages/viewOne.php?tagE=mitai%20na
+archive_timestamp: '20150225001751'
+retrieved_at: '2026-10-03T16:09:48+00:00'
+archive_digest: XZWMOMA2M5OVR3LX6HKN67IVVFRPZHI3
+response_sha256: 93393babfa9141ea440eb731447529ae016b836411e0677d3fc0aa1c285ba17d
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: mrLonely0401
+    text: 私の兄は子供みたいです。
+    html: 私の兄は子供みたいです。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      みたいな ([みたいな] )(mitai na)
+          Meaning: like, alike to mitai na= alike
+          Example: Kodomo mitai na- like a child.   Otona wa kodomo mitai na hanashite imasu= the adult is talking like a child.  Tenshi mitai na= like an angel. Kodomo wa tenshi mitai na nete imasu- the child is sleeping like an angel.
+          JLPT Level: 4
+          Category: grammar
+          Author: abbymae111
+    html: |-
+      <span>みたいな ([みたいな] )(mitai na)</span><br/>    <span><b>Meaning</b>: like, alike to mitai na= alike</span><br/>    <b>Example</b>: <i>Kodomo mitai na- like a child.   Otona wa kodomo mitai na hanashite imasu= the adult is talking like a child.  Tenshi mitai na= like an angel. Kodomo wa tenshi mitai na nete imasu- the child is sleeping like an angel.</i><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>abbymae111</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225001751'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 82962653
+  length: 4967
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 48036631abf4076f9f038d61394308345df1f20b57557caf5b988ca4cc102cd9

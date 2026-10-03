@@ -1,0 +1,285 @@
+schema_version: 2
+id: 260
+source: takoboto
+source_url: https://takoboto.jp/bunpo/260/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜次第で
+romanized_label: shidaide
+alternate_forms:
+  - 〜しだいで
+jlpt_level: 2
+credits_raw: dc
+meaning: depending on
+meaning_example: depending on the weather, we'll go
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_260
+    body_text: |-
+      depending on 
+       depending on the weather, we'll go
+    body_html: |-
+      <span>depending on</span> <br/> <span>depending on the weather, we'll go</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 1624
+    position: 0
+    japanese: 天気次第でゆくかどうか決めます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%a9%e6%b0%97"><span>天気</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e7%ac%ac"><strong>次第</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%82%86%e3%81%8f%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b"><span>でゆくかどうか</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e3%82%81%e3%81%be%e3%81%99%e3%80%82"><span>決めます。</span></a>
+    segments:
+      - text: 天気
+        grammar_highlight: false
+      - text: 次第
+        grammar_highlight: true
+      - text: でゆくかどうか決めます。
+        grammar_highlight: false
+    reading: てんきしだいでゆくかどうかきめます。
+    credits_raw: bamboo4, dc
+    translations:
+      - language: en
+        text: Depending on the weather, I will decide whether to go or not.
+        html: |-
+          <strong>Depending on </strong><span>the weather, I will decide whether to go or not. </span>
+        segments:
+          - text: 'Depending on '
+            grammar_highlight: true
+          - text: 'the weather, I will decide whether to go or not. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 365
+    position: 1
+    japanese: 行動次第で物語は意外な方向に進むかもしれません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a1%8c%e5%8b%95"><span>行動</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e7%ac%ac%e3%81%a7"><strong>次第で</strong></a><a href="https://takoboto.jp/?q=%e7%89%a9%e8%aa%9e%e3%81%af"><span>物語は</span></a><a href="https://takoboto.jp/?q=%e6%84%8f%e5%a4%96%e3%81%aa"><span>意外な</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e5%90%91%e3%81%ab"><span>方向に</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%80%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>進むかもしれません。</span></a>
+    segments:
+      - text: 行動
+        grammar_highlight: false
+      - text: 次第で
+        grammar_highlight: true
+      - text: 物語は意外な方向に進むかもしれません。
+        grammar_highlight: false
+    reading: こうどうしだいでものがたりはいがいなほうこうにすすむかもしれません。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Depending on your actions the tale may well proceed in an unexpected direction.
+        html: |-
+          <strong>Depending on </strong><span>your actions the tale may well proceed in an unexpected direction. </span>
+        segments:
+          - text: 'Depending on '
+            grammar_highlight: true
+          - text: 'your actions the tale may well proceed in an unexpected direction. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3105
+    position: 2
+    japanese: わたしがご一緒するかどうかはすべてあなた次第ですよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%8c%e3%81%94"><span>わたしがご</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e7%b7%92%e3%81%99%e3%82%8b%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b%e3%81%af%e3%81%99%e3%81%b9%e3%81%a6%e3%81%82%e3%81%aa%e3%81%9f"><span>一緒するかどうかはすべてあなた</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e7%ac%ac"><strong>次第</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%82%88%e3%80%82"><span>ですよ。</span></a>
+    segments:
+      - text: わたしがご一緒するかどうかはすべてあなた
+        grammar_highlight: false
+      - text: 次第
+        grammar_highlight: true
+      - text: ですよ。
+        grammar_highlight: false
+    reading: わたしがごいっしょするかどうかはすべてあなたしだいですよ。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Whether I would accompany you would be completely up to you.
+        html: |-
+          <span>Whether I would accompany you would be completely </span><strong>up to you. </strong>
+        segments:
+          - text: 'Whether I would accompany you would be completely '
+            grammar_highlight: false
+          - text: 'up to you. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3114
+    position: 3
+    japanese: お暇なわけじゃないけど､ お礼次第では､手伝ってあげないものでもないね｡
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e6%9a%87%e3%81%aa%e3%82%8f%e3%81%91%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%91%e3%81%a9"><span>暇なわけじゃないけど</span></a><a href="https://takoboto.jp/?q=%ef%bd%a4+%e3%81%8a"><span>､ お</span></a><a href="https://takoboto.jp/?q=%e7%a4%bc"><span>礼</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e7%ac%ac"><strong>次第</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%af"><span>では</span></a><a href="https://takoboto.jp/?q=%ef%bd%a4%e6%89%8b%e4%bc%9d%e3%81%a3%e3%81%a6%e3%81%82%e3%81%92%e3%81%aa%e3%81%84%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84%e3%81%ad"><span>､手伝ってあげないものでもないね</span></a><a href="https://takoboto.jp/?q=%ef%bd%a1"><span>｡</span></a>
+    segments:
+      - text: お暇なわけじゃないけど､ お礼
+        grammar_highlight: false
+      - text: 次第
+        grammar_highlight: true
+      - text: では､手伝ってあげないものでもないね｡
+        grammar_highlight: false
+    reading: おひまなわけじゃないけどおれいしだいではてつだってあげないものでもないね
+    credits_raw: nhk9, bamboo4
+    translations:
+      - language: en
+        text: It is not that I am free (right now), but depending on the gift, it's not that I would not help (you).
+        html: |-
+          <span>It is not that I am free (right now), but </span><strong>depending </strong><span>on the gift, it's not that I would not help (you). </span>
+        segments:
+          - text: 'It is not that I am free (right now), but '
+            grammar_highlight: false
+          - text: 'depending '
+            grammar_highlight: true
+          - text: 'on the gift, it''s not that I would not help (you). '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8425
+    position: 4
+    japanese: 食事はワイン次第である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a3%9f%e4%ba%8b%e3%81%af%e3%83%af%e3%82%a4%e3%83%b3"><span>食事はワイン</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e7%ac%ac%e3%81%a7"><strong>次第で</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8b%e3%80%82"><span>ある。</span></a>
+    segments:
+      - text: 食事はワイン
+        grammar_highlight: false
+      - text: 次第で
+        grammar_highlight: true
+      - text: ある。
+        grammar_highlight: false
+    reading: しょくじはワインしだいである。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Wine can make the meal.
+        html: |-
+          <span>Wine can make the meal. </span>
+        segments:
+          - text: 'Wine can make the meal. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8561
+    position: 5
+    japanese: 裸足で歩いているので、足が傷になっている次第だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a3%b8%e8%b6%b3%e3%81%a7"><span>裸足で</span></a><a href="https://takoboto.jp/?q=%e6%ad%a9%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a7%e3%80%81"><span>歩いているので、</span></a><a href="https://takoboto.jp/?q=%e8%b6%b3%e3%81%8c"><span>足が</span></a><a href="https://takoboto.jp/?q=%e5%82%b7%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b"><span>傷になっている</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e7%ac%ac%e3%81%a0%e3%80%82"><span>次第だ。</span></a>
+    segments:
+      - text: 裸足で歩いているので、足が傷になっている次第だ。
+        grammar_highlight: false
+    reading: はだしであるいているので、あしがきずになっているしだいだ。
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: certainly a wounded leg, because walking barefoot.
+        html: |-
+          <span>certainly a wounded leg, because walking barefoot. </span>
+        segments:
+          - text: 'certainly a wounded leg, because walking barefoot. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8562
+    position: 6
+    japanese: 落し物次第で、警官に報告することだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%90%bd%e3%81%97"><span>落し</span></a><a href="https://takoboto.jp/?q=%e7%89%a9"><span>物</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e7%ac%ac%e3%81%a7"><strong>次第で</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e8%ad%a6%e5%ae%98%e3%81%ab"><span>警官に</span></a><a href="https://takoboto.jp/?q=%e5%a0%b1%e5%91%8a%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%a0%e3%80%82"><span>報告することだ。</span></a>
+    segments:
+      - text: 落し物
+        grammar_highlight: false
+      - text: 次第で
+        grammar_highlight: true
+      - text: 、警官に報告することだ。
+        grammar_highlight: false
+    reading: おとしものしだいで、けいかんにほうこくすることだ。
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: when there lost stuff, should be reported to the police.
+        html: |-
+          <span>when there lost stuff, should be reported to the police. </span>
+        segments:
+          - text: 'when there lost stuff, should be reported to the police. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      ex# 1624 The words, or predicate, "to go" should perhaps be in parenthesis as the decision could be of any nature (e.g. the decision to: plant seed, play outdoors etc. )
+    html: |-
+      ex# 1624 The words, or predicate, "to go" should perhaps be in parenthesis as the decision could be of any nature (e.g. the decision to: plant seed, play outdoors etc. )
+    credits_raw: shittakaburi
+    content_sha256: 8759ac270c85acfefed88c120409b11696adb8c0f8dc6a6843a4d759b54a3b0e
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      ex#3114 hmm Japanese is strange... I would say, 
+      お暇なわけじゃないけど、お礼次第では、手伝ってあげないわけでもないけど。
+      暇ってわけじゃないけど、お礼次第では、手伝ってあげてもいいけどね。
+      うわぁ、たかびー（高飛車）な発言!peremptory manner
+    html: |-
+      ex#3114 hmm Japanese is strange... I would say, <br/>お暇なわけじゃないけど、お礼次第では、手伝ってあげないわけでもないけど。<br/>暇ってわけじゃないけど、お礼次第では、手伝ってあげてもいいけどね。<br/>うわぁ、たかびー（高飛車）な発言!peremptory manner
+    credits_raw: Miki
+    content_sha256: 3aeeca37cefd05976a9d992ebb59cc7fb37f2ed7c7a424dcf19b9894b6355793
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: I don't think its 高飛車. I edited it, but post your comment if you don't like it.
+    html: I don't think its 高飛車. I edited it, but post your comment if you don't like it.
+    credits_raw: bamboo4
+    content_sha256: 49efea593f6b9e9ec14b8e75d6aa7c1cbe424ca58d46271098830dafdb27ba7b
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Is it anything to do with my preference? If the Japanese sounds correct, I don't mind. I think that generally males use the expression you put.
+      I'd rather feel むかつく or 頭にくる if I were told in that way by someone not close. I am very sensitive as you don't know. I don't mean you are not sensitive. :P
+    html: |-
+      Is it anything to do with my preference? If the Japanese sounds correct, I don't mind. I think that generally males use the expression you put.<br/>I'd rather feel むかつく or 頭にくる if I were told in that way by someone not close. I am very sensitive as you don't know. I don't mean you are not sensitive. :P
+    credits_raw: Miki
+    content_sha256: 5e5112dbbd7bc042ba97c7865913ef0d5d4478d3ba2a97ab882c42305761c867
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: I would feel the same way, if I was told お礼 次第 では､手伝ってあげないものでもないね｡ I misunderstood your 高飛車 comment. My bad.
+    html: I would feel the same way, if I was told お礼 次第 では､手伝ってあげないものでもないね｡ I misunderstood your 高飛車 comment. My bad.
+    credits_raw: bamboo4
+    content_sha256: 039682a385a26b30f6bb161bc3f85d2a94c7f663b2da5c5b6b6c15c3dbb99c9f
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: Also in the form 次第だ, but a meaning similar to わけだ.
+    html: Also in the form 次第だ, but a meaning similar to わけだ.
+    credits_raw: halx
+    content_sha256: 4d3f1ee48103a8e22ddf194cfb175907ac69af62277eb6257c342c64b6c01ed4
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: Also in the form 次第だ, but a meaning similar to わけだ.
+    html: Also in the form 次第だ, but a meaning similar to わけだ.
+    credits_raw: halx
+    content_sha256: 4d3f1ee48103a8e22ddf194cfb175907ac69af62277eb6257c342c64b6c01ed4
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: Also in the form 次第だ, but a meaning similar to わけだ.
+    html: Also in the form 次第だ, but a meaning similar to わけだ.
+    credits_raw: halx
+    content_sha256: 4d3f1ee48103a8e22ddf194cfb175907ac69af62277eb6257c342c64b6c01ed4
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1309
+    label: 次第
+    source_url: https://takoboto.jp/bunpo/1309
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:38:35+00:00'
+response_sha256: 5a7e754887f647687fb33632d3358941a5feef6eca63ec33e4b558e15eff9b1e
+warnings: []

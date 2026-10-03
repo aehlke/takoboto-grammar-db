@@ -1,0 +1,304 @@
+schema_version: 2
+id: 1366
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1366/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜が早いか
+romanized_label: gahayaika
+alternate_forms:
+  - 〜がはやいか
+jlpt_level: 1
+credits_raw: dc
+meaning: as soon as
+meaning_example: As soon as the President arrived
+meaning_notes:
+  - language: ja
+    text: 〜するや否(いな)や。〜するとすぐに。
+    html: 〜するや否(いな)や。〜するとすぐに。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1366
+    body_text: |-
+      as soon as 
+       As soon as the President arrived 
+       〜するや否(いな)や。〜するとすぐに。
+    body_html: |-
+      <span>as soon as</span> <br/> <span>As soon as the President arrived</span> <br/> <span>〜するや否(いな)や。〜するとすぐに。</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1366
+    body_text: Verb dictionary form+がはやいか
+    body_html: |-
+      <div><div><div>Verb dictionary form</div></div><div><div>+</div><div>がはやいか</div></div></div>
+    credits_raw: null
+formations:
+  - Verb dictionary form + がはやいか
+examples:
+  - source_id: 4378
+    position: 0
+    japanese: 社長が会議室に入ったがはやいか、早速会議が始まった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a4%be%e9%95%b7%e3%81%8c"><span>社長が</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e8%ad%b0%e5%ae%a4%e3%81%ab"><span>会議室に</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%81%a3%e3%81%9f"><span>入った</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%af%e3%82%84%e3%81%84%e3%81%8b"><strong>がはやいか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e9%80%9f%e4%bc%9a%e8%ad%b0%e3%81%8c"><span>早速会議が</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>始まった。</span></a>
+    segments:
+      - text: 社長が会議室に入った
+        grammar_highlight: false
+      - text: がはやいか
+        grammar_highlight: true
+      - text: 、早速会議が始まった。
+        grammar_highlight: false
+    reading: しゃちょうがかいぎしつにはいったがはやいか、さっそくかいぎがはじまった。
+    credits_raw: dc, Miki
+    translations:
+      - language: en
+        text: As soon as the company president entered the meeting room, the meeting started.
+        html: |-
+          <span>As soon as the company president entered the meeting room, the meeting started. </span>
+        segments:
+          - text: 'As soon as the company president entered the meeting room, the meeting started. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5303
+    position: 1
+    japanese: その力士はまわしを取るが早いか、相手を投げ飛ばした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%8a%9b%e5%a3%ab%e3%81%af"><span>力士は</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8f%e3%81%97%e3%82%92"><span>まわしを</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%82%8b"><span>取る</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%97%a9%e3%81%84%e3%81%8b"><strong>が早いか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%9b%b8%e6%89%8b%e3%82%92"><span>相手を</span></a><a href="https://takoboto.jp/?q=%e6%8a%95%e3%81%92"><span>投げ</span></a><a href="https://takoboto.jp/?q=%e9%a3%9b%e3%81%b0%e3%81%97%e3%81%9f%e3%80%82"><span>飛ばした。</span></a>
+    segments:
+      - text: その力士はまわしを取る
+        grammar_highlight: false
+      - text: が早いか
+        grammar_highlight: true
+      - text: 、相手を投げ飛ばした。
+        grammar_highlight: false
+    reading: そのりきしはまわしをとるがはやいか、あいてをなげとばした。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: As soon as the sumo wrestler snared the front of the opponent's sash, he tumbled him onto the ground.
+        html: |-
+          <strong>As soon as </strong><span>the sumo wrestler snared the front of the opponent's sash, he tumbled him onto the ground. </span>
+        segments:
+          - text: 'As soon as '
+            grammar_highlight: true
+          - text: 'the sumo wrestler snared the front of the opponent''s sash, he tumbled him onto the ground. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6403
+    position: 2
+    japanese: 新刊を出版したのですが、出版するが早いか腹を立てた人から手紙が届き始めました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%96%b0%e5%88%8a%e3%82%92"><span>新刊を</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e7%89%88%e3%81%97%e3%81%9f%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8c%e3%80%81"><span>出版したのですが、</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e7%89%88%e3%81%99%e3%82%8b"><span>出版する</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%97%a9%e3%81%84%e3%81%8b"><strong>が早いか</strong></a><a href="https://takoboto.jp/?q=%e8%85%b9%e3%82%92"><span>腹を</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e3%81%a6%e3%81%9f"><span>立てた</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%8b%e3%82%89"><span>人から</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%81%8c"><span>手紙が</span></a><a href="https://takoboto.jp/?q=%e5%b1%8a%e3%81%8d"><span>届き</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>始めました。</span></a>
+    segments:
+      - text: 新刊を出版したのですが、出版する
+        grammar_highlight: false
+      - text: が早いか
+        grammar_highlight: true
+      - text: 腹を立てた人から手紙が届き始めました。
+        grammar_highlight: false
+    reading: しんかんをしゅっぱんしたのですが、しゅっぱんするがはやいかはらをたてたひとからてがみがとどきはじめました。
+    credits_raw: EvilKyra
+    translations:
+      - language: en
+        text: We put a new book out, but the second it was published we started to get letters from angry people.
+        html: |-
+          <span>We put a new book out, but </span><strong>the second </strong><span>it was published we started to get letters from angry people. </span>
+        segments:
+          - text: 'We put a new book out, but '
+            grammar_highlight: false
+          - text: 'the second '
+            grammar_highlight: true
+          - text: 'it was published we started to get letters from angry people. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6672
+    position: 3
+    japanese: ことによるとあの女は、私が太刀打ちを始めるが早いか、人の助けでも呼ぶために、藪をくぐって逃げたかもしれない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8%e3%81%82%e3%81%ae"><span>ことによるとあの</span></a><a href="https://takoboto.jp/?q=%e5%a5%b3%e3%81%af%e3%80%81"><span>女は、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e5%a4%aa%e5%88%80%e6%89%93%e3%81%a1%e3%82%92"><span>太刀打ちを</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%82%8b"><span>始める</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%97%a9%e3%81%84%e3%81%8b"><strong>が早いか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%ae"><span>人の</span></a><a href="https://takoboto.jp/?q=%e5%8a%a9%e3%81%91%e3%81%a7%e3%82%82"><span>助けでも</span></a><a href="https://takoboto.jp/?q=%e5%91%bc%e3%81%b6%e3%81%9f%e3%82%81%e3%81%ab%e3%80%81"><span>呼ぶために、</span></a><a href="https://takoboto.jp/?q=%e8%97%aa%e3%82%92%e3%81%8f%e3%81%90%e3%81%a3%e3%81%a6"><span>藪をくぐって</span></a><a href="https://takoboto.jp/?q=%e9%80%83%e3%81%92%e3%81%9f%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82"><span>逃げたかもしれない。</span></a>
+    segments:
+      - text: ことによるとあの女は、私が太刀打ちを始める
+        grammar_highlight: false
+      - text: が早いか
+        grammar_highlight: true
+      - text: 、人の助けでも呼ぶために、藪をくぐって逃げたかもしれない。
+        grammar_highlight: false
+    reading: ことによるとあのおんなは、わたしがたちうちをはじめるがはやいか、ひとのたすけでもよぶために、やぶをくぐってにげたかもしれない。
+    credits_raw: nazonatte69
+    translations:
+      - language: en
+        text: |-
+          It's possible that as soon as I started the sword fight, that that woman ran slipped into the grove and ran to call for help.
+        html: |-
+          <span>It's possible that </span><strong>as soon as </strong><strong>I started the sword fight, that that woman ran slipped into the grove and ran to call for help. </strong>
+        segments:
+          - text: 'It''s possible that '
+            grammar_highlight: false
+          - text: 'as soon as I started the sword fight, that that woman ran slipped into the grove and ran to call for help. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7022
+    position: 4
+    japanese: 言うが早いかやってしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86"><span>言う</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%97%a9%e3%81%84%e3%81%8b"><strong>が早いか</strong></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>やってしまった。</span></a>
+    segments:
+      - text: 言う
+        grammar_highlight: false
+      - text: が早いか
+        grammar_highlight: true
+      - text: やってしまった。
+        grammar_highlight: false
+    reading: いうがはやいかやってしまった。
+    credits_raw: abhijeet
+    translations:
+      - language: en
+        text: No sooner said than done.
+        html: |-
+          <strong>No sooner </strong><span>said than done. </span>
+        segments:
+          - text: 'No sooner '
+            grammar_highlight: true
+          - text: 'said than done. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7023
+    position: 5
+    japanese: ベルが鳴ったが早いか、生徒たちは教室を飛び出して行った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%99%e3%83%ab%e3%81%8c"><span>ベルが</span></a><a href="https://takoboto.jp/?q=%e9%b3%b4%e3%81%a3%e3%81%9f"><span>鳴った</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%97%a9%e3%81%84%e3%81%8b"><strong>が早いか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e5%be%92%e3%81%9f%e3%81%a1%e3%81%af"><span>生徒たちは</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e5%ae%a4%e3%82%92"><span>教室を</span></a><a href="https://takoboto.jp/?q=%e9%a3%9b%e3%81%b3"><span>飛び</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%a6"><span>出して</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%80%82"><span>行った。</span></a>
+    segments:
+      - text: ベルが鳴った
+        grammar_highlight: false
+      - text: が早いか
+        grammar_highlight: true
+      - text: 、生徒たちは教室を飛び出して行った。
+        grammar_highlight: false
+    reading: ベルがなったがはやいか、せいとたちはきょうしつをとびだしていった。
+    credits_raw: abhijeet
+    translations:
+      - language: en
+        text: As soon as the bell rang, the students left the classroom.
+        html: |-
+          <strong>As soon as </strong><span>the bell rang, the students left the classroom. </span>
+        segments:
+          - text: 'As soon as '
+            grammar_highlight: true
+          - text: 'the bell rang, the students left the classroom. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7230
+    position: 6
+    japanese: 弟は晩ごはんを食べ終わるが早いか宿題をし始めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bc%9f%e3%81%af"><span>弟は</span></a><a href="https://takoboto.jp/?q=%e6%99%a9%e3%81%94%e3%81%af%e3%82%93%e3%82%92"><span>晩ごはんを</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9"><span>食べ</span></a><a href="https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%82%8b"><span>終わる</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e6%97%a9%e3%81%84%e3%81%8b"><strong>が早いか</strong></a><a href="https://takoboto.jp/?q=%e5%ae%bf%e9%a1%8c%e3%82%92%e3%81%97"><span>宿題をし</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f%e3%80%82"><span>始めた。</span></a>
+    segments:
+      - text: 弟は晩ごはんを食べ終わる
+        grammar_highlight: false
+      - text: が早いか
+        grammar_highlight: true
+      - text: 宿題をし始めた。
+        grammar_highlight: false
+    reading: おとうとはばんごはんをたべおわるがはやいかしゅくだいをしはじめた。
+    credits_raw: inukokoro
+    translations:
+      - language: en
+        text: As soon as my younger brother finishes dinner he starts his homework.
+        html: |-
+          <strong>As soon as </strong><span>my younger brother finishes dinner he starts his homework. </span>
+        segments:
+          - text: 'As soon as '
+            grammar_highlight: true
+          - text: 'my younger brother finishes dinner he starts his homework. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4743
+    position: 7
+    japanese: その朝彼がキッチンに入って来るがはやいか、彼女は彼と些細なことで口論を始めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e6%9c%9d%e5%bd%bc%e3%81%8c%e3%82%ad%e3%83%83%e3%83%81%e3%83%b3%e3%81%ab"><span>朝彼がキッチンに</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%81%a3%e3%81%a6"><span>入って</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%82%8b"><span>来る</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%af%e3%82%84%e3%81%84%e3%81%8b"><strong>がはやいか</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%a8"><span>彼と</span></a><a href="https://takoboto.jp/?q=%e4%ba%9b%e7%b4%b0%e3%81%aa%e3%81%93%e3%81%a8%e3%81%a7"><span>些細なことで</span></a><a href="https://takoboto.jp/?q=%e5%8f%a3%e8%ab%96%e3%82%92"><span>口論を</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f%e3%80%82"><span>始めた。</span></a>
+    segments:
+      - text: その朝彼がキッチンに入って来る
+        grammar_highlight: false
+      - text: がはやいか
+        grammar_highlight: true
+      - text: 、彼女は彼と些細なことで口論を始めた。
+        grammar_highlight: false
+    reading: そのあさかれがキッチンにはいってくるがはやいか、かのじょはかれとささいなことでこうろんをはじめた。
+    credits_raw: miki
+    translations:
+      - language: en
+        text: As soon as he came into the room in the morning, she got into a shouting match with him over the most trivial thing.
+        html: |-
+          <strong>As soon as </strong><span>he came into the room in the morning, </span><strong>she got into a shouting match with him over the most trivial thing. </strong>
+        segments:
+          - text: 'As soon as '
+            grammar_highlight: true
+          - text: 'he came into the room in the morning, '
+            grammar_highlight: false
+          - text: 'she got into a shouting match with him over the most trivial thing. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Basically the same as ‘ya inaya’ and ‘nari’ but ‘ga hayai ka’ indicates that the speaker was waiting for something to happen.
+    html: |-
+      Basically the same as ‘ya inaya’ and ‘nari’ but ‘ga hayai ka’ indicates that the speaker was waiting for something to happen.
+    credits_raw: dc
+    content_sha256: c201b7f33c0d87767e90bc56488c20cb336eee455d764306e44936a7a879d82d
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: '[接続] : [動詞ー辞書形 / た形] ＋ が早いが'
+    html: '[接続] : [動詞ー辞書形 / た形] ＋ が早いが'
+    credits_raw: abhijeet
+    content_sha256: 76a7dfe31849b74bb4b284c08ced38dd903274f6ac3d899bf908643771ff6296
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      This can mean "ほとんど同時に" and as said by DC, usually you are waiting for something. School bell, starters pistol at a race, announcement of the winner, etc.
+    html: |-
+      This can mean "ほとんど同時に" and as said by DC, usually you are waiting for something. School bell, starters pistol at a race, announcement of the winner, etc.
+    credits_raw: blabby
+    content_sha256: 1472ea628e68ee5a98a8040ba6ff03af7b1dbc70c4d4b945be0e5d7521735fad
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      やいなや meaning "almost as soon as" is normally used and the use of が早いか in the examples is kind of stroange. 
+
+      We normally use it in such sentence as 聞くが早いか、あいつは飛び出していった。
+    html: |-
+      やいなや meaning "almost as soon as" is normally used and the use of が早いか in the examples is kind of stroange. <br/><br/>We normally use it in such sentence as 聞くが早いか、あいつは飛び出していった。
+    credits_raw: bamboo4
+    content_sha256: 86461bafc68c93e545aac3b4eaf8e26218a772134f5c2ef99bab22884453a417
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: ex. 4703での｢キッチン」と書いてある件ですが、その代わりに、台所を変えて、英語の説明では「kitchen」を変えるのはどう思いますか？
+    html: ex. 4703での｢キッチン」と書いてある件ですが、その代わりに、台所を変えて、英語の説明では「kitchen」を変えるのはどう思いますか？
+    credits_raw: nazonatte69
+    content_sha256: 355d38f43019e922944ed3c7489445b83f9f3e78a8238724bb6ee8f962744b6b
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:46:00+00:00'
+response_sha256: e5b71bd72dbbf0b6365142264530f8dc2004e426a618eace6c1125e13044e82d
+warnings: []

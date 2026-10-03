@@ -1,0 +1,65 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1665
+label: kakaru 2
+title_raw: 掛かる　２ [かかる　２] (kakaru 2)
+title: 掛かる　２
+reading: かかる　２
+romanized_label: kakaru 2
+category: grammar
+jlpt_level_original: '2'
+meaning: AT〜; ON〜
+meaning_example: 犬が子供に飛び掛った。A dog jumped at the child
+credits_raw: deeana
+source_url: http://jgram.org/pages/viewOne.php?tagE=kakaru%202
+archive_url: https://web.archive.org/web/20150225003259id_/http://jgram.org/pages/viewOne.php?tagE=kakaru%202
+archive_timestamp: '20150225003259'
+retrieved_at: '2026-10-03T16:10:29+00:00'
+archive_digest: WO74F4MRQTOYNF6S5L4QG53KL4RNZ4M3
+response_sha256: 179a97daa5d6e00a9a0049450ebc42586d3ffe6cd4b2322cfea60582fa206184
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "VBryk (masu)+ kakaru\n\r\n- a directed movement works on something/ someone\n\n\n\r\nex: 道を歩いていたら,男が僕に殴りかかってきた。When I was walking along the street, a man came to hit me.\n\n\n\r\nex: 花子は太郎の肩にもたれかかった。\n\r\nHanako leaned on Taro's shoulder\n\n\n\r\nex：壁により掛かるな。 Don't lean against the wall."
+    html: "VBryk (masu)+ kakaru<br/>\r\n- a directed movement works on something/ someone<br/>\n<br/>\r\nex: 道を歩いていたら,男が僕に殴りかかってきた。When I was walking along the street, a man came to hit me.<br/>\n<br/>\r\nex: 花子は太郎の肩にもたれかかった。<br/>\r\nHanako leaned on Taro's shoulder<br/>\n<br/>\r\nex：壁により掛かるな。 Don't lean against the wall. <br/>"
+    credits_raw: deeana
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 6901
+    position: 0
+    japanese: 見知らぬ人に吠え掛かるのは多くの犬に共通の習慣です。
+    body_text: "見知らぬ人に吠え掛かるのは多くの犬に共通の習慣です。  \n\n\t\tBarking at strangers is a habit common to many dogs."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ見知らぬ人に吠え掛かるのは多くの犬に共通の習慣です。 \">\n\t\t\t\t見知らぬ人に吠え掛かるのは多くの犬に共通の習慣です。 <strong></strong><strong></strong></a> <br/>\n\t\tBarking at strangers is a habit common to many dogs. \n\t\t<strong> </strong>"
+    credits_raw: deeana
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "掛かる　２ [かかる　２] (kakaru 2)\n    Meaning: AT〜; ON〜 \n    Example: 犬が子供に飛び掛った。A dog jumped at the child\n    JLPT Level: 2\n    Category: grammar\n    Author: deeana"
+    html: |-
+      <span>掛かる　２ [かかる　２] (kakaru 2)</span><br/>    <span><b>Meaning</b>: AT〜; ON〜 </span><br/>    <b>Example</b>: <i>犬が子供に飛び掛った。A dog jumped at the child</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>deeana</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225003259'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 100058566
+  length: 5350
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: a0f83144f7b7a34ed51ed9f8b838ba986c664997d8450299b54cb65265520863

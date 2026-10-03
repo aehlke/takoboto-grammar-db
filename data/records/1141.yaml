@@ -1,0 +1,323 @@
+schema_version: 2
+id: 1141
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1141/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 頂く
+romanized_label: itadaku
+alternate_forms:
+  - いただく
+jlpt_level: 1
+credits_raw: dc
+meaning: to receive (polite)
+meaning_example: the mail I received today
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1141
+    body_text: |-
+      to receive (polite) 
+       the mail I received today
+    body_html: |-
+      <span>to receive (polite)</span> <br/> <span>the mail I received today</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 3167
+    position: 0
+    japanese: 社長は手紙をDCから弁護士に送って貰いたいのでしょうか？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a4%be%e9%95%b7%e3%81%af"><span>社長は</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%82%92DC%e3%81%8b%e3%82%89"><span>手紙をDCから</span></a><a href="https://takoboto.jp/?q=%e5%bc%81%e8%ad%b7%e5%a3%ab%e3%81%ab"><span>弁護士に</span></a><a href="https://takoboto.jp/?q=%e9%80%81%e3%81%a3%e3%81%a6"><span>送って</span></a><a href="https://takoboto.jp/?q=%e8%b2%b0%e3%81%84%e3%81%9f%e3%81%84"><strong>貰いたい</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%81%8b"><span>のでしょうか</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: 社長は手紙をDCから弁護士に送って
+        grammar_highlight: false
+      - text: 貰いたい
+        grammar_highlight: true
+      - text: のでしょうか？
+        grammar_highlight: false
+    reading: しゃちょうはてがみをからべんごしにおくってもらいたいのでしょうか？
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Would the President like DC to send the letter to the lawyer?
+        html: |-
+          <span>Would the President </span><strong>like </strong><span>DC to send the letter to the lawyer? </span>
+        segments:
+          - text: 'Would the President '
+            grammar_highlight: false
+          - text: 'like '
+            grammar_highlight: true
+          - text: 'DC to send the letter to the lawyer? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3163
+    position: 1
+    japanese: 今日頂いたメールに基づいて、、
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5"><span>今日</span></a><a href="https://takoboto.jp/?q=%e9%a0%82%e3%81%84%e3%81%9f"><strong>頂いた</strong></a><a href="https://takoboto.jp/?q=%e3%83%a1%e3%83%bc%e3%83%ab%e3%81%ab"><span>メールに</span></a><a href="https://takoboto.jp/?q=%e5%9f%ba%e3%81%a5%e3%81%84%e3%81%a6%e3%80%81%e3%80%81"><span>基づいて、、</span></a>
+    segments:
+      - text: 今日
+        grammar_highlight: false
+      - text: 頂いた
+        grammar_highlight: true
+      - text: メールに基づいて、、
+        grammar_highlight: false
+    reading: きょういただいたメールにもとづいて、、
+    credits_raw: dc
+    translations:
+      - language: en
+        text: based on the email I received today...
+        html: |-
+          <span>based on the email </span><strong>I received </strong><span>today... </span>
+        segments:
+          - text: 'based on the email '
+            grammar_highlight: false
+          - text: 'I received '
+            grammar_highlight: true
+          - text: 'today... '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3164
+    position: 2
+    japanese: 頂きます
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a0%82%e3%81%8d%e3%81%be%e3%81%99"><strong>頂きます</strong></a>
+    segments:
+      - text: 頂きます
+        grammar_highlight: true
+    reading: いただきます
+    credits_raw: dc
+    translations:
+      - language: en
+        text: For what we are about to receive (said before eating a meal, like "grace" in the west)
+        html: |-
+          <span>For what we are about to </span><strong>receive </strong><span>(said before eating a meal, like "grace" in the west) </span>
+        segments:
+          - text: 'For what we are about to '
+            grammar_highlight: false
+          - text: 'receive '
+            grammar_highlight: true
+          - text: '(said before eating a meal, like "grace" in the west) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3981
+    position: 3
+    japanese: あなたの許可を頂くべきだったでしょうか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>あなたの</span></a><a href="https://takoboto.jp/?q=%e8%a8%b1%e5%8f%af%e3%82%92"><span>許可を</span></a><a href="https://takoboto.jp/?q=%e9%a0%82%e3%81%8f"><strong>頂く</strong></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8d%e3%81%a0%e3%81%a3%e3%81%9f%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%81%8b%e3%80%82"><span>べきだったでしょうか。</span></a>
+    segments:
+      - text: あなたの許可を
+        grammar_highlight: false
+      - text: 頂く
+        grammar_highlight: true
+      - text: べきだったでしょうか。
+        grammar_highlight: false
+    reading: あなたのきょかをいただくべきだったでしょうか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Should I have asked your permission?
+        html: |-
+          <span>Should I have asked your permission? </span>
+        segments:
+          - text: 'Should I have asked your permission? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3982
+    position: 4
+    japanese: お返事をお待ちしております。またお返事をいただくことにより、私どもはより効率よく会議の準備をすることができます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e4%ba%8b%e3%82%92%e3%81%8a"><span>返事をお</span></a><a href="https://takoboto.jp/?q=%e5%be%85%e3%81%a1%e3%81%97%e3%81%a6%e3%81%8a%e3%82%8a%e3%81%be%e3%81%99%e3%80%82%e3%81%be%e3%81%9f"><span>待ちしております。また</span></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e4%ba%8b%e3%82%92"><span>返事を</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%9f%e3%81%a0%e3%81%8f"><strong>いただく</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%ab%e3%82%88%e3%82%8a%e3%80%81"><span>ことにより、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%a9%e3%82%82%e3%81%af%e3%82%88%e3%82%8a"><span>私どもはより</span></a><a href="https://takoboto.jp/?q=%e5%8a%b9%e7%8e%87%e3%82%88%e3%81%8f"><span>効率よく</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e8%ad%b0%e3%81%ae"><span>会議の</span></a><a href="https://takoboto.jp/?q=%e6%ba%96%e5%82%99%e3%82%92%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%99%e3%80%82"><span>準備をすることができます。</span></a>
+    segments:
+      - text: お返事をお待ちしております。またお返事を
+        grammar_highlight: false
+      - text: いただく
+        grammar_highlight: true
+      - text: ことにより、私どもはより効率よく会議の準備をすることができます。
+        grammar_highlight: false
+    reading: おへんじをおまちしております。またおへんじをいただくことにより、わたしどもはよりこうりつよくかいぎのじゅんびをすることができます。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Your response is greatly appreciated and will enable us to prepare more efficiently.
+        html: |-
+          <span>Your response is greatly appreciated and will enable us to prepare more efficiently. </span>
+        segments:
+          - text: 'Your response is greatly appreciated and will enable us to prepare more efficiently. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      where itadaku is to receive, I think [itasu]/[itashimasu] is the opposite, ie a polite way of saying something I give to someone
+    html: |-
+      where itadaku is to receive, I think [itasu]/[itashimasu] is the opposite, ie a polite way of saying something I give to someone
+    credits_raw: dc
+    content_sha256: 8626ccf159d54d5a3afdcbbd4619baf64384bf7349388a4c8ba0bbb5c330764b
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      ex#3167 It is possible to say 社長は、DCに手紙を弁護士に送って 欲しい or 貰いたい のでしょうか？ When DC is ranked higher in a company than the speak and the listener, it is desirable to use 頂きたい with respect.
+    html: |-
+      ex#3167 It is possible to say 社長は、DCに手紙を弁護士に送って 欲しい or 貰いたい のでしょうか？ When DC is ranked higher in a company than the speak and the listener, it is desirable to use 頂きたい with respect.
+    credits_raw: your name
+    content_sha256: 713a3eef37416d2d48b4bbb4cde7c7fe65f231aaeebad6a0d44552c785796f7f
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: dc,文章をクリックすると、翻訳ページに直結している！これは、すごいね、便利だね。(^-^)v
+    html: dc,文章をクリックすると、翻訳ページに直結している！これは、すごいね、便利だね。(^-^)v
+    credits_raw: your name
+    content_sha256: d183b1b7375b8efd88464afad0a50e345d2cceb396916cba1ade311328cf0133
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: 特に外人にとっては便利 ＾○＾
+    html: 特に外人にとっては便利 ＾○＾
+    credits_raw: dc
+    content_sha256: 9d1fc659f7d6ea21957cb2a7bca9a19420f30b2f6e3a3e68374fc09e02a5b8db
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: '#3167 is weird. You want me to edit it?'
+    html: '#3167 is weird. You want me to edit it?'
+    credits_raw: bamboo4
+    content_sha256: 5b7ffa7baff255f9cdf04e37febd24f84e6959c094a1eeabbb0f39126bf91af6
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      Yes, please. When you are confident its correct, please change the "checked" dropdown to a +1 to greenlight the example...
+    html: |-
+      Yes, please. When you are confident its correct, please change the "checked" dropdown to a +1 to greenlight the example...
+    credits_raw: dc
+    content_sha256: 3a23997eb39984bc662db053a5379c1f478904936d5566ee13b0133621f01544
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: つまり、修正頂きたいと思います。宜しくお願い致します。
+    html: つまり、修正頂きたいと思います。宜しくお願い致します。
+    credits_raw: dc
+    content_sha256: 8d8bac4e0e7fe72bd74db3fba8557f3d92f934bcb4b50d4813b47fd6b385cf20
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: itadaku is the plain (dict) form of itadakimasu
+    html: itadaku is the plain (dict) form of itadakimasu
+    credits_raw: dc
+    content_sha256: 597c2a6145d8477eb34c61a518420f4925fc4b6b6b3f7037312262c6ec2a92a9
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: I changed it, but it no longer belongs to this category of 頂きたい.
+    html: I changed it, but it no longer belongs to this category of 頂きたい.
+    credits_raw: bamboo4
+    content_sha256: 31a53de30a987b7bf52bc21ef987f45767aa23fc6301ad74876950664bd70319
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: hmm, why would you use morau there instead of itadaku ? i was trying to include more biz usable examples
+    html: hmm, why would you use morau there instead of itadaku ? i was trying to include more biz usable examples
+    credits_raw: dc
+    content_sha256: 931acbedf8d421e53dd315f20338c6c75056a73eb33e4e78588dfe7134b7aa0c
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      社長 need not use any honorifics to make DC to do something for him. If DC wants 社長 to do that, it's a different story.DCから社長に頼んで弁護士に手紙を送って頂くようにしたい would be okay.
+    html: |-
+      社長 need not use any honorifics to make DC to do something for him. If DC wants 社長 to do that, it's a different story.DCから社長に頼んで弁護士に手紙を送って頂くようにしたい would be okay.
+    credits_raw: bamboo4
+    content_sha256: f48e42ec5bbd464de2d0e16293e90a400636f1aa30f0c9b88cfe2be20a16d6df
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: no, that phrase was DC asking the President what he wanted him to do. ie DC talking to the Prez.
+    html: no, that phrase was DC asking the President what he wanted him to do. ie DC talking to the Prez.
+    credits_raw: dc
+    content_sha256: 8adc813f72bd3556ef3e8d5b6100ddf05e1cdc77a333ad6e571534e482b530eb
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: In that case, you have to use 貰いたい.
+    html: In that case, you have to use 貰いたい.
+    credits_raw: bamboo4
+    content_sha256: 2067a0943be4d1e0bedccb3dde4ef67ff83449fc017411b25a90be251dacc196
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: This is level one? I don't believe it.
+    html: This is level one? I don't believe it.
+    credits_raw: bab
+    content_sha256: 6af9c30c5f86820890e52dea6026ffdd4726f537fe60f72d6e22e467c5ec5b91
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: bab Please suggest what you think the level is if you don't think this is not the level one.
+    html: bab Please suggest what you think the level is if you don't think this is not the level one.
+    credits_raw: Miki
+    content_sha256: a91bc4a65f189f67eae8d2a6b8a2ff7944a8431171f36f6ce8dcf4210fd705ab
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: 致す／致しますis not the opposite of 頂く。Instead, it is a humble form of する。
+    html: 致す／致しますis not the opposite of 頂く。Instead, it is a humble form of する。
+    credits_raw: 誠
+    content_sha256: a968f45dd725f1c968e72cbce2826873a3708d386b0f344e80769f7e93da2b9c
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: bab is correct - This appears in JLPT level 3.
+    html: bab is correct - This appears in JLPT level 3.
+    credits_raw: NickT
+    content_sha256: 1dbcc149becb94fe50a01b2d2a6febca7f30a04c401183747306c44afd188068
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: Can someone explain to me the rule behind requests in the form of, for example, お送りいただけませんか?
+    html: Can someone explain to me the rule behind requests in the form of, for example, お送りいただけませんか?
+    credits_raw: mwhite
+    content_sha256: 40a2dbc8a72c5185187a7e532b87f2405dea49c3e1dcfea09599b58df2b17c14
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 846
+    label: 貰う
+    source_url: https://takoboto.jp/bunpo/846
+  - target_id: 756
+    label: 欲しい
+    source_url: https://takoboto.jp/bunpo/756
+  - target_id: 1312
+    label: 上げる
+    source_url: https://takoboto.jp/bunpo/1312
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:44:10+00:00'
+response_sha256: 71234584e9541fe41dd16463829f79965ccc87a3199a308e70e2096ebbf38e93
+warnings: []

@@ -1,0 +1,303 @@
+schema_version: 2
+id: 541
+source: takoboto
+source_url: https://takoboto.jp/bunpo/541/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: とする
+romanized_label: tosuru
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: assume, regard X as ~ , suppose
+meaning_example: if we assume that n=1
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_541
+    body_text: |-
+      assume, regard X as ~ , suppose 
+       if we assume that n=1
+    body_html: |-
+      <span>assume, regard X as ~ , suppose</span> <br/> <span>if we assume that n=1</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 568
+    position: 0
+    japanese: 日本へ行くとすれば
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%b8"><span>日本へ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%99%e3%82%8c%e3%81%b0"><strong>とすれば</strong></a>
+    segments:
+      - text: 日本へ行く
+        grammar_highlight: false
+      - text: とすれば
+        grammar_highlight: true
+    reading: にほんへいくとすれば
+    credits_raw: dc
+    translations:
+      - language: en
+        text: If we assume that we go to japan
+        html: |-
+          <strong>If we assume that </strong><span>we go to japan </span>
+        segments:
+          - text: 'If we assume that '
+            grammar_highlight: true
+          - text: 'we go to japan '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 815
+    position: 1
+    japanese: 温度は一定であるとする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%b8%a9%e5%ba%a6%e3%81%af"><span>温度は</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%ae%9a%e3%81%a7%e3%81%82%e3%82%8b"><span>一定である</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%99%e3%82%8b"><strong>とする</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 温度は一定である
+        grammar_highlight: false
+      - text: とする
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: おんどはいっていであるとする。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: We assume that temperature is constant.
+        html: |-
+          <strong>We assume that </strong><span>temperature is constant. </span>
+        segments:
+          - text: 'We assume that '
+            grammar_highlight: true
+          - text: 'temperature is constant. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4191
+    position: 2
+    japanese: あなたが立派な世界市民になろうとするなら、偏見は持たないように努力すべきである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c"><span>あなたが</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e6%b4%be%e3%81%aa"><span>立派な</span></a><a href="https://takoboto.jp/?q=%e4%b8%96%e7%95%8c%e5%b8%82%e6%b0%91%e3%81%ab"><span>世界市民に</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%8d%e3%81%86"><span>なろう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%99%e3%82%8b"><strong>とする</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89%e3%80%81"><span>なら、</span></a><a href="https://takoboto.jp/?q=%e5%81%8f%e8%a6%8b%e3%81%af"><span>偏見は</span></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%9f%e3%81%aa%e3%81%84%e3%82%88%e3%81%86%e3%81%ab"><span>持たないように</span></a><a href="https://takoboto.jp/?q=%e5%8a%aa%e5%8a%9b%e3%81%99%e3%81%b9%e3%81%8d%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>努力すべきである。</span></a>
+    segments:
+      - text: あなたが立派な世界市民になろう
+        grammar_highlight: false
+      - text: とする
+        grammar_highlight: true
+      - text: なら、偏見は持たないように努力すべきである。
+        grammar_highlight: false
+    reading: あなたがりっぱなせかいしみんになろうとするなら、へんけんはもたないようにどりょくすべきである。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: If you are to be a good world citizen, you should try to be free of any prejudices.
+        html: |-
+          <span>If you are to be a good world citizen, you should try to be free of any prejudices. </span>
+        segments:
+          - text: 'If you are to be a good world citizen, you should try to be free of any prejudices. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6405
+    position: 3
+    japanese: 私たちは みな、 人生に おいて 成功を 収めようとするが、成功するのは、きわめて 数少ない人たちである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%9f%e3%81%a1%e3%81%af+%e3%81%bf%e3%81%aa%e3%80%81+"><span>私たちは みな、 </span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e7%94%9f%e3%81%ab+%e3%81%8a%e3%81%84%e3%81%a6+"><span>人生に おいて </span></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%82%92+"><span>成功を </span></a><a href="https://takoboto.jp/?q=%e5%8f%8e%e3%82%81%e3%82%88%e3%81%86"><span>収めよう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%99%e3%82%8b"><strong>とする</strong></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%80%81"><span>が、</span></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%99%e3%82%8b%e3%81%ae%e3%81%af%e3%80%81%e3%81%8d%e3%82%8f%e3%82%81%e3%81%a6+"><span>成功するのは、きわめて </span></a><a href="https://takoboto.jp/?q=%e6%95%b0%e5%b0%91%e3%81%aa%e3%81%84"><span>数少ない</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%9f%e3%81%a1%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>人たちである。</span></a>
+    segments:
+      - text: 私たちは みな、 人生に おいて 成功を 収めよう
+        grammar_highlight: false
+      - text: とする
+        grammar_highlight: true
+      - text: が、成功するのは、きわめて 数少ない人たちである。
+        grammar_highlight: false
+    reading: わたしたちはみな、じんせいにおいてせいこうをおさめようとするが、せいこうするのは、きわめてかずすくないひとたちである。
+    credits_raw: rolando
+    translations:
+      - language: en
+        text: We all try hard to make the grade in life, but only a few succeed.
+        html: |-
+          <span>We all try hard to make the grade in life, but only a few succeed. </span>
+        segments:
+          - text: 'We all try hard to make the grade in life, but only a few succeed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6406
+    position: 4
+    japanese: 進んで学ぼうとする気の無い物には教える甲斐がない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%93%e3%81%a7"><span>進んで</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e3%81%bc%e3%81%86"><span>学ぼう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%99%e3%82%8b"><strong>とする</strong></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%ae"><span>気の</span></a><a href="https://takoboto.jp/?q=%e7%84%a1%e3%81%84"><span>無い</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%81%ab%e3%81%af"><span>物には</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%82%8b"><span>教える</span></a><a href="https://takoboto.jp/?q=%e7%94%b2%e6%96%90%e3%81%8c%e3%81%aa%e3%81%84%e3%80%82"><span>甲斐がない。</span></a>
+    segments:
+      - text: 進んで学ぼう
+        grammar_highlight: false
+      - text: とする
+        grammar_highlight: true
+      - text: 気の無い物には教える甲斐がない。
+        grammar_highlight: false
+    reading: すすんでまなぼうとするきのないものにはおしえるかいがない。
+    credits_raw: rolando
+    translations:
+      - language: en
+        text: One who is not willing to learn is not worth teaching.
+        html: |-
+          <span>One who is not willing to learn is not worth teaching. </span>
+        segments:
+          - text: 'One who is not willing to learn is not worth teaching. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6407
+    position: 5
+    japanese: 歩こうとするとここがズキンとします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%ad%a9%e3%81%93%e3%81%86"><span>歩こう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%99%e3%82%8b"><strong>とする</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%81%93%e3%81%8c%e3%82%ba%e3%82%ad%e3%83%b3%e3%81%a8%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>とここがズキンとします。</span></a>
+    segments:
+      - text: 歩こう
+        grammar_highlight: false
+      - text: とする
+        grammar_highlight: true
+      - text: とここがズキンとします。
+        grammar_highlight: false
+    reading: あるこうとするとここがズキンとします。
+    credits_raw: rolando
+    translations:
+      - language: en
+        text: When I try to walk, I get an awful pain here.
+        html: |-
+          <span>When I try to walk, I get an awful pain here. </span>
+        segments:
+          - text: 'When I try to walk, I get an awful pain here. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6408
+    position: 6
+    japanese: 労働者たちにはもっと働こうとする刺激がなにもない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8a%b4%e5%83%8d%e8%80%85%e3%81%9f%e3%81%a1%e3%81%ab%e3%81%af%e3%82%82%e3%81%a3%e3%81%a8"><span>労働者たちにはもっと</span></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%93%e3%81%86"><span>働こう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%99%e3%82%8b"><strong>とする</strong></a><a href="https://takoboto.jp/?q=%e5%88%ba%e6%bf%80%e3%81%8c%e3%81%aa%e3%81%ab%e3%82%82%e3%81%aa%e3%81%84%e3%80%82"><span>刺激がなにもない。</span></a>
+    segments:
+      - text: 労働者たちにはもっと働こう
+        grammar_highlight: false
+      - text: とする
+        grammar_highlight: true
+      - text: 刺激がなにもない。
+        grammar_highlight: false
+    reading: ろうどうしゃたちにはもっとはたらこうとするしげきがなにもない。
+    credits_raw: rolando
+    translations:
+      - language: en
+        text: The workers have no incentive to work harder.
+        html: |-
+          <span>The workers have no incentive to work harder. </span>
+        segments:
+          - text: 'The workers have no incentive to work harder. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 温度は一定であるとする。is more natural.
+    html: 温度は一定であるとする。is more natural.
+    credits_raw: Miki
+    content_sha256: 6567926cad84a0557df8881c85d373397784e107cc4f9a0fa86c3684633afb68
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: OK, done.
+    html: OK, done.
+    credits_raw: Amatuka
+    content_sha256: 7525f0bb51327233985f587ba8f054e2dbea617b68e0b0c9d809e64c6d311730
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 仮定する (katei suru) I think also means "to assume"
+    html: 仮定する (katei suru) I think also means "to assume"
+    credits_raw: dc
+    content_sha256: 0db04cc3911ba7804ebff615164883711af7373d02bd5d4a8f4d19adbe7703e0
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: ひょっとする = perhaps
+    html: ひょっとする = perhaps
+    credits_raw: dc
+    content_sha256: 5a9b18736792bb5523ba934b45828c9b4dfc4c323442c674818ab876c01303f0
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      about ex #4191:
+      i tought that the form [-ou to suru] meant "to be in a process of" or "try to do".
+    html: |-
+      about ex #4191:<br/>i tought that the form [-ou to suru] meant "to be in a process of" or "try to do".
+    credits_raw: NutritiveSoul
+    content_sha256: b7d0ba0d3a94e638391f55aa6f79bf3a7bd564872394b5d1152f697f50b6a8a6
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: what about ~ta to suru??
+    html: what about ~ta to suru??
+    credits_raw: Hakeem
+    content_sha256: ab8f164af89d00df5281621e35b6351f555f9404bc28a583327dbeed8b390549
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: hakeem - can you give an example please?
+    html: hakeem - can you give an example please?
+    credits_raw: dc
+    content_sha256: ce0728a30a5beaea4aeb40044303a825bb0b02bdae2ee73d9471643ef6b671de
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      [ou to suru] perhaps you mean [youni-suru]
+
+      maybe [ou-tosuru] would be "if you try.." which we have also as [toshitara]
+    html: |-
+      [ou to suru] perhaps you mean [youni-suru]<br/><br/>maybe [ou-tosuru] would be "if you try.." which we have also as [toshitara]
+    credits_raw: dc
+    content_sha256: d7ddc303851d000f83d9c3919bbfe73d21e4d7e70f398c2b4c9324dc931b08c3
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      I believe Ex. 6406 has the wrong "mono" kanji in it. Sorry I can't type Japanese on this computer, but I'm sure you know what I mean : )
+    html: |-
+      I believe Ex. 6406 has the wrong "mono" kanji in it. Sorry I can't type Japanese on this computer, but I'm sure you know what I mean : )
+    credits_raw: Lorenz
+    content_sha256: e18379da28d4ce70b6f2680993940e900493b101bb7a4de5bf54b3e3b4a21531
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: What's the difference with として ?
+    html: What's the difference with として ?
+    credits_raw: Pot
+    content_sha256: 32b2ec1d22ab1c8d0a17df79c50d7f9d54a37168fdea2ebbf43527e10ff2f983
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: 'Dc-for example: 日本に来なかったとする、アメリカに行っていたと思う。I don’t understand for the meaning'
+    html: 'Dc-for example: 日本に来なかったとする、アメリカに行っていたと思う。I don’t understand for the meaning'
+    credits_raw: July
+    content_sha256: c216f10a01d7aa82fa5a3d04b95ce22b40be8e157d0dfb124fd828980071d140
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 297
+    label: としたら、とすれば、とすると
+    source_url: https://takoboto.jp/bunpo/297
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:05+00:00'
+response_sha256: d24a47a3d1048d4e09ce7e0763b49e0ff3834fc1b0d1bf363b666e66875d5355
+warnings: []

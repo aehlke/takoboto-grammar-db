@@ -1,0 +1,91 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1640
+label: tsurete, nitsure
+title_raw: つれて、につれ ([つれて、につれ] )(tsurete, nitsure)
+title: つれて、につれ
+reading: つれて、につれ
+romanized_label: tsurete, nitsure
+category: grammar
+jlpt_level_original: '2'
+meaning: more....more ...ば...ほど
+meaning_example: Mountains are more higher temperature is more low.
+credits_raw: makara
+source_url: http://jgram.org/pages/viewOne.php?tagE=tsurete,%20nitsure
+archive_url: https://web.archive.org/web/20150225003825id_/http://jgram.org/pages/viewOne.php?tagE=tsurete,%20nitsure
+archive_timestamp: '20150225003825'
+retrieved_at: '2026-10-03T16:10:29+00:00'
+archive_digest: FTGJJCKYUIGFBS4FBNZDKEBI3GL3FIKT
+response_sha256: 98f3ec08679895362c53a63953c50ed3554562aa3804048a1e8f001c7eb19301
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 6551
+    position: 0
+    japanese: 山は高くなるにつれて、気温が下がる。
+    body_text: "山は高くなるにつれて、気温が下がる。 \n\nAs \n\t\tmountains get higher, the temperature gets lower."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ山は高くなるにつれて、気温が下がる。\">\n\t\t\t\t山は高くなる<strong>につれて</strong>、気温が下がる。<strong></strong></a> <br/>\n<strong>As </strong>\n\t\tmountains get higher, the temperature gets lower."
+    credits_raw: makara
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7016
+    position: 1
+    japanese: だから山は高くなるにつれて、気温が下がる。
+    body_text: "だから山は高くなるにつれて、気温が下がる。 \n\nAs \n\t\tmountains are elevated, the temperatures are lower."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJだから山は高くなるにつれて、気温が下がる。\">\n\t\t\t\tだから山は高くなる<strong>につれて</strong>、気温が下がる。<strong></strong></a> <br/>\n<strong>As </strong>\n\t\tmountains are elevated, the temperatures are lower."
+    credits_raw: lafcadio
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7017
+    position: 2
+    japanese: だから山は高くなるにつれて、気温が下がる。
+    body_text: "だから山は高くなるにつれて、気温が下がる。 \n\nAs \n\t\tmountains are elevated, the temperatures are lower."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJだから山は高くなるにつれて、気温が下がる。\">\n\t\t\t\tだから山は高くなる<strong>につれて</strong>、気温が下がる。<strong></strong></a> <br/>\n<strong>As </strong>\n\t\tmountains are elevated, the temperatures are lower."
+    credits_raw: lafcadio
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: mochabean
+    text: "#\x01 and #\x01 were two halves of one example seperated out into two entries, and a simple rewording of #\x01. I have filled in the 'missing' halves of #\x01 and #\x01 so as not to cause errors in the grammar quiz, but there are now three virtually identical entries; perhaps this can be tidied up?"
+    html: "<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=tsurete,%20nitsure#\x01\">#\x01</a></b> and <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=tsurete,%20nitsure#\x01\">#\x01</a></b> were two halves of one example seperated out into two entries, and a simple rewording of <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=tsurete,%20nitsure#\x01\">#\x01</a></b>. I have filled in the 'missing' halves of <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=tsurete,%20nitsure#\x01\">#\x01</a></b> and <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=tsurete,%20nitsure#\x01\">#\x01</a></b> so as not to cause errors in the grammar quiz, but there are now three virtually identical entries; perhaps this can be tidied up?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      つれて、につれ ([つれて、につれ] )(tsurete, nitsure)
+          Meaning: more....more ...ば...ほど
+          Example: Mountains are more higher temperature is more low.
+          JLPT Level: 2
+          Category: grammar
+          Author: makara
+    html: |-
+      <span>つれて、につれ ([つれて、につれ] )(tsurete, nitsure)</span><br/>    <span><b>Meaning</b>: more....more ...ば...ほど</span><br/>    <b>Example</b>: <i>Mountains are more higher temperature is more low.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>makara</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225003825'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 102067419
+  length: 5366
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 8b35a062c5bb85173fbc77fa2db1b62bf8d698f7cac18456f25fb5580cdceae5

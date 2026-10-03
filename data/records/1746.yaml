@@ -1,0 +1,171 @@
+schema_version: 2
+id: 1746
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1746/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: と相まって
+romanized_label: toaimatte
+alternate_forms:
+  - とあいまって
+jlpt_level: 1
+credits_raw: LR
+meaning: Coupled with, together with
+meaning_example: In many countries, water and air polution is coupled with progressive environmental destruction
+meaning_notes:
+  - language: ja
+    text: といっしょになって
+    html: といっしょになって
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1746
+    body_text: |-
+      Coupled with, together with 
+       In many countries, water and air polution is coupled with progressive environmental destruction 
+       といっしょになって
+    body_html: |-
+      <span>Coupled with, together with</span> <br/> <span>In many countries, water and air polution is coupled with progressive environmental destruction</span> <br/> <span>といっしょになって</span>
+    credits_raw: LR
+formations: []
+examples:
+  - source_id: 7919
+    position: 0
+    japanese: 多くの国々では、水や空気の汚染と相まって、環境破壊が進んでいる
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%8f%e3%81%ae"><span>多くの</span></a><a href="https://takoboto.jp/?q=%e5%9b%bd%e3%80%85%e3%81%a7%e3%81%af%e3%80%81"><span>国々では、</span></a><a href="https://takoboto.jp/?q=%e6%b0%b4%e3%82%84"><span>水や</span></a><a href="https://takoboto.jp/?q=%e7%a9%ba%e6%b0%97%e3%81%ae"><span>空気の</span></a><a href="https://takoboto.jp/?q=%e6%b1%9a%e6%9f%93"><span>汚染</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e7%9b%b8%e3%81%be%e3%81%a3%e3%81%a6"><strong>と相まって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%92%b0%e5%a2%83%e7%a0%b4%e5%a3%8a%e3%81%8c"><span>環境破壊が</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b"><span>進んでいる</span></a>
+    segments:
+      - text: 多くの国々では、水や空気の汚染
+        grammar_highlight: false
+      - text: と相まって
+        grammar_highlight: true
+      - text: 、環境破壊が進んでいる
+        grammar_highlight: false
+    reading: おおくのくにぐにでは、みずやくうきのおせんとあいまって、かんきょうはかいがすすんでいる
+    credits_raw: LR
+    translations:
+      - language: en
+        text: In many countries, water and air polution is coupled with progressive environmental destruction
+        html: |-
+          <span>In many countries, water and air polution is </span><strong>coupled with </strong><span>progressive environmental destruction </span>
+        segments:
+          - text: 'In many countries, water and air polution is '
+            grammar_highlight: false
+          - text: 'coupled with '
+            grammar_highlight: true
+          - text: 'progressive environmental destruction '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7920
+    position: 1
+    japanese: 実力と運とが相まって、彼を成功に導いた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ae%9f%e5%8a%9b%e3%81%a8"><span>実力と</span></a><a href="https://takoboto.jp/?q=%e9%81%8b"><span>運</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%8c%e7%9b%b8%e3%81%be%e3%81%a3%e3%81%a6"><strong>とが相まって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%82%92"><span>彼を</span></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%ab"><span>成功に</span></a><a href="https://takoboto.jp/?q=%e5%b0%8e%e3%81%84%e3%81%9f%e3%80%82"><span>導いた。</span></a>
+    segments:
+      - text: 実力と運
+        grammar_highlight: false
+      - text: とが相まって
+        grammar_highlight: true
+      - text: 、彼を成功に導いた。
+        grammar_highlight: false
+    reading: じつりょくとうんとがあいまって、かれをせいこうにみちびいた。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: His ability coupled with luck brought about his success.
+        html: |-
+          <span>His ability </span><strong>coupled with </strong><span>luck brought about his success. </span>
+        segments:
+          - text: 'His ability '
+            grammar_highlight: false
+          - text: 'coupled with '
+            grammar_highlight: true
+          - text: 'luck brought about his success. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7921
+    position: 2
+    japanese: そのゲームはかわいいキャラクターと魅力的なストーリーがあいまって、多くのユーザーに支持されたヒット作品となった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%af%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e3%81%a8"><span>そのゲームはかわいいキャラクターと</span></a><a href="https://takoboto.jp/?q=%e9%ad%85%e5%8a%9b%e7%9a%84%e3%81%aa%e3%82%b9%e3%83%88%e3%83%bc%e3%83%aa%e3%83%bc"><span>魅力的なストーリー</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%82%e3%81%84%e3%81%be%e3%81%a3%e3%81%a6"><strong>があいまって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%8f%e3%81%ae%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%81%ab"><span>多くのユーザーに</span></a><a href="https://takoboto.jp/?q=%e6%94%af%e6%8c%81%e3%81%95%e3%82%8c%e3%81%9f%e3%83%92%e3%83%83%e3%83%88"><span>支持されたヒット</span></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e5%93%81%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>作品となった。</span></a>
+    segments:
+      - text: そのゲームはかわいいキャラクターと魅力的なストーリー
+        grammar_highlight: false
+      - text: があいまって
+        grammar_highlight: true
+      - text: 、多くのユーザーに支持されたヒット作品となった。
+        grammar_highlight: false
+    reading: そのゲームはかわいいキャラクターとみりょくてきなストーリーがあいまって、おおくのユーザーにしじされたヒットさくひんとなった。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: That game featured cute characters coupled with a charming story, so it became a big hit supported by many users.
+        html: |-
+          <span>That game featured cute characters </span><strong>coupled with </strong><span>a charming story, so it became a big hit supported by many users. </span>
+        segments:
+          - text: 'That game featured cute characters '
+            grammar_highlight: false
+          - text: 'coupled with '
+            grammar_highlight: true
+          - text: 'a charming story, so it became a big hit supported by many users. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7922
+    position: 3
+    japanese: コーチの指導力と選手のやる気が相まって、優勝できた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b3%e3%83%bc%e3%83%81%e3%81%ae"><span>コーチの</span></a><a href="https://takoboto.jp/?q=%e6%8c%87%e5%b0%8e%e5%8a%9b%e3%81%a8"><span>指導力と</span></a><a href="https://takoboto.jp/?q=%e9%81%b8%e6%89%8b%e3%81%ae%e3%82%84%e3%82%8b"><span>選手のやる</span></a><a href="https://takoboto.jp/?q=%e6%b0%97"><span>気</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e7%9b%b8%e3%81%be%e3%81%a3%e3%81%a6"><strong>が相まって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%84%aa%e5%8b%9d%e3%81%a7%e3%81%8d%e3%81%9f%e3%80%82"><span>優勝できた。</span></a>
+    segments:
+      - text: コーチの指導力と選手のやる気
+        grammar_highlight: false
+      - text: が相まって
+        grammar_highlight: true
+      - text: 、優勝できた。
+        grammar_highlight: false
+    reading: のしどうりょくとせんしゅのやるきがあいまって、ゆうしょうできた。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: The coach's leadership abilities coupled with the player's motivation lead to the victory
+        html: |-
+          <span>The coach's leadership abilities </span><strong>coupled with </strong><span>the player's motivation lead to the victory </span>
+        segments:
+          - text: 'The coach''s leadership abilities '
+            grammar_highlight: false
+          - text: 'coupled with '
+            grammar_highlight: true
+          - text: 'the player''s motivation lead to the victory '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p40 - no.36'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p40 - no.36
+    credits_raw: LR
+    content_sha256: 8b1dd9b7e435f10bc0581c615711e5937784dcb4d9c6fe5e5b6e4b59bafeb8b0
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      {NOUN1} + {と} + {NOUN2} + (と) + {が} + {相まって} is a frequent pattern.
+      実力と運とが相まって、彼を成功に導いた。
+      (His ability coupled with luck brought about his success.)
+    html: |-
+      {NOUN1} + {と} + {NOUN2} + (と) + {が} + {相まって} is a frequent pattern.<br/>実力<b>と</b>運<b>とが</b>相まって、彼を成功に導いた。<br/>(His ability coupled with luck brought about his success.)
+    credits_raw: LR
+    content_sha256: 83163f57e2b4231508865673353af0047e2a0a94ba3d60ec139cd216ec6bf41f
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:44:54+00:00'
+response_sha256: 158bfbd670657c9f0b4eb55e687d365cb72fb54f0ae1c0710fcbfd97ced10068
+warnings: []

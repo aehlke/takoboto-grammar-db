@@ -1,0 +1,222 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1636
+label: tohaie
+title_raw: とはいえ ([とはいえ] )(tohaie)
+title: とはいえ
+reading: とはいえ
+romanized_label: tohaie
+category: grammar
+jlpt_level_original: '1'
+meaning: |-
+  Although it is said that, even though it is said, admitting that, that being said, however, nevertheless 「A とはいえ B」は「Aは事実だが、しかし実際はB」の意味
+meaning_example: Even admitting that Jane didn't have much time, I don't believe that she couldn't write a simple report like this
+credits_raw: tieuacui
+source_url: http://jgram.org/pages/viewOne.php?tagE=tohaie
+archive_url: https://web.archive.org/web/20150224225727id_/http://jgram.org/pages/viewOne.php?tagE=tohaie
+archive_timestamp: '20150224225727'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: OYDSBX5I7JYDUK6VNDT45KHHLSSV6PDT
+response_sha256: a52dd799e66c3b326615b752c30684b4a8848def22738278e9fa622351f2bf75
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Same as といっても but:\n\r\nといっても is for spoken clauses, and\n\r\nとはいえ is for written clauses.\n\n\n\r\nway of use: P1 とはいえ P2.\n\r\nP1 is the sentence in question, P2 is the reason why."
+    html: "Same as といっても but:<br/>\r\nといっても is for spoken clauses, and<br/>\r\nとはいえ is for written clauses.<br/>\n<br/>\r\nway of use: P1 とはいえ P2.<br/>\r\nP1 is the sentence in question, P2 is the reason why."
+    credits_raw: 赤毛
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Ref #\x01 Kanzen Master Level 1 - p28 - no.30"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=tohaie#\x01\">#\x01</a></b></b> Kanzen Master Level 1 - p28 - no.30"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "Ref #\x01 A Dictionary of Advanced Japanese Grammar p665"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=tohaie#\x01\">#\x01</a></b></b> A Dictionary of Advanced Japanese Grammar p665"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: とはいえ is primarily used in writing
+    html: とはいえ is primarily used in writing
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    text: とはいえcan be used at the beginning of a sentence to double back on the previous sentence
+    html: とはいえcan be used at the beginning of a sentence to double back on the previous sentence
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 6815
+    position: 0
+    japanese: 相手に言い分もわかったとはいえ、心から納得したわけではない
+    body_text: "相手に言い分もわかったとはいえ、心から納得したわけではない \n\nAdmitting \n\t\twhere he's coming from, I still can't really agree with him"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ相手に言い分もわかったとはいえ、心から納得したわけではない\">\n\t\t\t\t相手に言い分もわかった<strong>とはいえ</strong>、心から納得したわけではない<strong></strong></a> <br/>\n<strong>Admitting </strong>\n\t\twhere he's coming from, I still can't really agree with him"
+    credits_raw: 赤毛
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6816
+    position: 1
+    japanese: 春になったとはいえ朝晩はまだ寒い。
+    body_text: "春になったとはいえ朝晩はまだ寒い。 \n\nThey say that \n\t\tSpring has arrived but the mornings and evenings are still cold."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ春になったとはいえ朝晩はまだ寒い。\">\n\t\t\t\t春になった<strong>とはいえ</strong>朝晩はまだ寒い。<strong></strong></a> <br/>\n<strong>They say that </strong>\n\t\tSpring has arrived but the mornings and evenings are still cold."
+    credits_raw: 赤毛
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6817
+    position: 2
+    japanese: 幼いとは言え、その子は自分の家庭の苦しい事情を理解している。
+    body_text: "幼いとは言え、その子は自分の家庭の苦しい事情を理解している。 \n\n\t\tEven though the kid is young, \n\t\tnevertheless \n\t\the understands the difficult circumstances of his family."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ幼いとは言え、その子は自分の家庭の苦しい事情を理解している。\">\n\t\t\t\t幼い<strong>とは言え</strong>、その子は自分の家庭の苦しい事情を理解している。<strong></strong></a> <br/>\n\t\tEven though the kid is young, \n\t\t<strong>nevertheless </strong>\n\t\the understands the difficult circumstances of his family."
+    credits_raw: 赤毛
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6818
+    position: 3
+    japanese: 便利とはいえパソコンは高いのでなかなか買えない。
+    body_text: "便利とはいえパソコンは高いのでなかなか買えない。 \n\n\t\tThey're useful... \n\t\tbut having said that, \n\t\tcomputers are so expensive that I can't buy one."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ便利とはいえ\">\n\t\t\t\t便利<strong>とはいえ</strong><strong></strong>パソコンは高いのでなかなか買えない。</a> <br/>\n\t\tThey're useful... \n\t\t<strong>but having said that, </strong>\n\t\tcomputers are so expensive that I can't buy one."
+    credits_raw: 赤毛
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6823
+    position: 4
+    japanese: ８０才の祖母は、この間階段で転んで足を痛め、歩くのが不自由になってしまった。とはいえ、全く歩けないということではないので、家事をするには問題ないとのことだ。
+    body_text: "８０才の祖母は、この間階段で転んで足を痛め、歩くのが不自由になってしまった。とはいえ、全く歩けないということではないので、家事をするには問題ないとのことだ。 \n\n\t\tRecently, my 80 year old grandmother fell on the stairs and hurt her leg, and now she has trouble walking. \n\t\tHaving said that, \n\t\t  it's not as if she cannot walk at all, in other words she can manage to do the housework without problems."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ８０才の祖母は、この間階段で転んで足を痛め、歩くのが不自由になってしまった。とはいえ\">\n\t\t\t\t８０才の祖母は、この間階段で転んで足を痛め、歩くのが不自由になってしまった。<strong>とはいえ</strong><strong></strong>、全く歩けないということではないので、家事をするには問題ないとのことだ。</a> <br/>\n\t\tRecently, my 80 year old grandmother fell on the stairs and hurt her leg, and now she has trouble walking. \n\t\t<strong>Having said that, </strong>\n\t\t  it's not as if she cannot walk at all, in other words she can manage to do the housework without problems."
+    credits_raw: 赤毛
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6824
+    position: 5
+    japanese: 時間がなかったとは言え、ジェーンにこれくらいのレポートが書けないはずはない。
+    body_text: "時間がなかったとは言え、ジェーンにこれくらいのレポートが書けないはずはない。 \n\nEven admitting that \n\t\tJane didn't have much time, I don't believe that she couldn't write a simple report like this"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ時間がなかったとは言え、ジェーンにこれくらいのレポートが書けないはずはない。\">\n\t\t\t\t時間がなかった<strong>とは言え</strong>、ジェーンにこれくらいのレポートが書けないはずはない。<strong></strong></a> <br/>\n<strong>Even admitting that </strong>\n\t\tJane didn't have much time, I don't believe that she couldn't write a simple report like this"
+    credits_raw: 赤毛
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6825
+    position: 6
+    japanese: いかに暫定的処置とは言え、これはずさんすぎる
+    body_text: "いかに暫定的処置とは言え、これはずさんすぎる \n\n\t\tHowever much \n\t\tthey call it \n\t\t\"temporary measures\", this is just too slipshod."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJいかに暫定的処置とは言え、これはずさんすぎる\">\n\t\t\t\tいかに暫定的処置<strong>とは言え</strong>、これはずさんすぎる<strong></strong></a> <br/>\n\t\tHowever much \n\t\t<strong>they call it </strong>\n\t\t\"temporary measures\", this is just too slipshod."
+    credits_raw: 赤毛
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7906
+    position: 7
+    japanese: 地球温暖化を防止するための国際会議の結果、京都議定書が作成された。とはいえすべての国がその基準を守るまでには、まだ年月がかかりそうだ。
+    body_text: "地球温暖化を防止するための国際会議の結果、京都議定書が作成された。とはいえすべての国がその基準を守るまでには、まだ年月がかかりそうだ。 \n\n\t\tThe international conference to stop climate change ended in the creation of the Kyoto Protocol. \n\t\tHaving said that, \n\t\tit seems like it will take a long time before every country abides by the standards it set out."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ地球温暖化を防止するための国際会議の結果、京都議定書が作成された。とはいえすべての国がその基準を守るまでには、まだ年月がかかりそうだ。\">\n\t\t\t\t地球温暖化を防止するための国際会議の結果、京都議定書が作成された。<strong>とはいえ</strong>すべての国がその基準を守るまでには、まだ年月がかかりそうだ。<strong></strong></a> <br/>\n\t\tThe international conference to stop climate change ended in the creation of the Kyoto Protocol. \n\t\t<strong>Having said that, </strong>\n\t\tit seems like it will take a long time before every country abides by the standards it set out."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7907
+    position: 8
+    japanese: 今度の学会が楽しみだ。とは言え、まだ発表準備は全然できていない。
+    body_text: "今度の学会が楽しみだ。とは言え、まだ発表準備は全然できていない。 \n\n\t\tI'm looking forward to the next academic conference. \n\t\tThat being said, \n\t\tI haven't prepared for my presentation at all."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ今度の学会が楽しみだ。とは言え、まだ発表準備は全然できていない。\">\n\t\t\t\t今度の学会が楽しみだ。<strong>とは言え</strong>、まだ発表準備は全然できていない。<strong></strong></a> <br/>\n\t\tI'm looking forward to the next academic conference. \n\t\t<strong>That being said, </strong>\n\t\tI haven't prepared for my presentation at all."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: Delete this item!
+    html: Delete this item!
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: tigert
+    text: I agree 消してください
+    html: I agree 消してください
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: 赤毛
+    text: I intended to give a second live to this entry. Is it OK now?
+    html: I intended to give a second live to this entry. Is it OK now?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: LR
+    text: any reason why you want to delete?! It's in the JLPT 1 syllabus... such as there is one.
+    html: any reason why you want to delete?! It's in the JLPT 1 syllabus... such as there is one.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: LR
+    text: I'm going through the examples someone has marked as suspicious and changing, checking or replacing them.
+    html: I'm going through the examples someone has marked as suspicious and changing, checking or replacing them.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: toittemo
+    label: toittemo
+    annotation_text: toittemo [赤毛]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=toittemo">toittemo</a> [<a href="http://jgram.org/pages/contributions.php?author=赤毛">赤毛</a>]
+    credits_raw: 赤毛
+sections:
+  - kind: header
+    text: |-
+      とはいえ ([とはいえ] )(tohaie)
+          Meaning: Although it is said that, even though it is said, admitting that, that being said, however, nevertheless 「A とはいえ B」は「Aは事実だが、しかし実際はB」の意味
+          Example: Even admitting that Jane didn't have much time, I don't believe that she couldn't write a simple report like this
+          JLPT Level: 1
+          Category: grammar
+          Author: tieuacui
+    html: |-
+      <span>とはいえ ([とはいえ] )(tohaie)</span><br/>    <span><b>Meaning</b>: Although it is said that, even though it is said, admitting that, that being said, however, nevertheless 「A とはいえ B」は「Aは事実だが、しかし実際はB」の意味</span><br/>    <b>Example</b>: <i>Even admitting that Jane didn't have much time, I don't believe that she couldn't write a simple report like this</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>tieuacui</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225727'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6059834
+  length: 6986
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 1bd6ae09e512f07103615cf96d1c4e7d11ef2aa1cc29238ee43bf21413cc9d17

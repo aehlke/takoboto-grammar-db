@@ -1,0 +1,269 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 308
+label: muki
+title_raw: 向き [むき] (muki)
+title: 向き
+reading: むき
+romanized_label: muki
+category: grammar
+jlpt_level_original: '2'
+meaning: for,  facing,  toward,  aimed at
+meaning_example: a PC for old people
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=muki
+archive_url: https://web.archive.org/web/20150224225450id_/http://jgram.org/pages/viewOne.php?tagE=muki
+archive_timestamp: '20150224225450'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: 75NTR5M7CANPSISZEBHTH4U7X4G36EPW
+response_sha256: 650df279ecdb342c34e951cb50b9ba934a7fe459d2b7b47eb5754abecf1fe4af
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "subtle difference:\n\n\n\r\n子供向けに　　targeted at kids\n\r\n　　向けの\n\n\n\r\n子供向きに　　suitable for kids　　\n\r\n　　向きの"
+    html: "subtle difference:<br/>\n<br/>\r\n子供<b>向けに</b>　　targeted at kids<br/>\r\n　　<b>向けの</b><br/>\n<br/>\r\n子供<b>向きに</b>　　suitable for kids　　<br/>\r\n　　<b>向きの</b><br/>"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "FORMATION:\n\r\nＮ + 向き\n\r\nＮ１ + 向きの + Ｎ２"
+    html: "FORMATION:<br/>\r\nＮ + 向き<br/>\r\nＮ１ + 向きの + Ｎ２"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 255
+    position: 0
+    japanese: この小説を子供向きに書き改めるのは難しい。
+    body_text: "この小説を子供向きに書き改めるのは難しい。 \n\n\t\tIt is hard to adapt this story \n\t\tfor \n\t\tchildren."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの小説を子供向きに書き改めるのは難しい。\">\n\t\t\t\tこの小説を子供<strong>向き</strong>に書き改めるのは難しい。<strong></strong></a> <br/>\n\t\tIt is hard to adapt this story \n\t\t<strong>for </strong>\n\t\tchildren."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4278
+    position: 1
+    japanese: こういう本は若い読者向きではない。
+    body_text: "こういう本は若い読者向きではない。\r \n\n\t\tThese books are not fit for young readers."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこういう本は若い読者向きではない。\">\n\t\t\t\tこういう本は若い読者<strong>向き</strong>ではない。\r<strong></strong></a> <br/>\n\t\tThese books are not fit for young readers. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4279
+    position: 2
+    japanese: このとおりやさしい英語で書かれているので、その本は初心者向きである。
+    body_text: "このとおりやさしい英語で書かれているので、その本は初心者向きである。\r \n\n\t\tWritten as if is in plain English, the book is suitable for beginners."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこのとおりやさしい英語で書かれているので、その本は初心者向きである。\">\n\t\t\t\tこのとおりやさしい英語で書かれているので、その本は初心者<strong>向き</strong>である。\r<strong></strong></a> <br/>\n\t\tWritten as if is in plain English, the book is suitable for beginners. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4280
+    position: 3
+    japanese: このテキストは初心者向きにできている。
+    body_text: "このテキストは初心者向きにできている。\r \n\n\t\tThis text is calculated for beginners."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこのテキストは初心者向きにできている。\">\n\t\t\t\tこのテキストは初心者<strong>向き</strong>にできている。\r<strong></strong></a> <br/>\n\t\tThis text is calculated for beginners. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4282
+    position: 4
+    japanese: この派手な服は私には向きません。
+    body_text: "この派手な服は私には向きません。\r \n\n\t\tThis showy dress isn't appropriate for me."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの派手な服は私には向きません。\">\n\t\t\t\tこの派手な服は私には<strong>向き</strong>ません。\r<strong></strong></a> <br/>\n\t\tThis showy dress isn't appropriate for me. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4283
+    position: 5
+    japanese: この物語は成人向きで子供が楽しむものではない。
+    body_text: "この物語は成人向きで子供が楽しむものではない。\r \n\n\t\tI'm afraid this story is too adult for children to appreciate."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの物語は成人向きで子供が楽しむものではない。\">\n\t\t\t\tこの物語は成人<strong>向き</strong>で子供が楽しむものではない。\r<strong></strong></a> <br/>\n\t\tI'm afraid this story is too adult for children to appreciate. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4284
+    position: 6
+    japanese: ひとつの雑誌は男の子向きで、また別のものは女の子向きである。
+    body_text: "ひとつの雑誌は男の子向きで、また別のものは女の子向きである。\r \n\n\t\tOne magazine is for boys, and another for girls."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJひとつの雑誌は男の子向きで、また別のものは女の子向きである。\">\n\t\t\t\tひとつの雑誌は男の子<strong>向き</strong>で、また別のものは女の子向きである。\r<strong></strong></a> <br/>\n\t\tOne magazine is for boys, and another for girls. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4285
+    position: 7
+    japanese: やさしい英語で書いてあるので、この本は初心者向きだ。
+    body_text: "やさしい英語で書いてあるので、この本は初心者向きだ。 \n\n\t\tWritten in simple English, this book is good for beginners."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJやさしい英語で書いてあるので、この本は初心者向きだ。\">\n\t\t\t\tやさしい英語で書いてあるので、この本は初心者<strong>向き</strong>だ。<strong></strong></a> <br/>\n\t\tWritten in simple English, this book is good for beginners. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4286
+    position: 8
+    japanese: "France向けの一番太いパイプ\r\n."
+    body_text: "France向けの一番太いパイプ\r\n. \n\n\t\tThe fattest pipe to France \n\t\t."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJFrance向けの一番太いパイプ.\">\n\t\t\t\tFrance向けの一番太いパイプ\r\n<strong>.</strong><strong></strong></a> <br/>\n\t\tThe fattest pipe to France \n\t\t<strong>. </strong>"
+    credits_raw: dc
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7215
+    position: 9
+    japanese: このスキー場は初心者向きです。
+    body_text: "このスキー場は初心者向きです。 \n\n\t\tThis ski is suitable for beginners."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこのスキー場は初心者向きです。\">\n\t\t\t\tこのスキー場は初心者<strong>向き</strong>です。<strong></strong></a> <br/>\n\t\tThis ski is suitable for beginners. \n\t\t<strong> </strong>"
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7216
+    position: 10
+    japanese: この別荘は夏向きにできているので、冬は寒いです。
+    body_text: "この別荘は夏向きにできているので、冬は寒いです。 \n\n\t\tThis cottage is good for summer, winter is cold."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの別荘は夏向きにできているので、冬は寒いです。\">\n\t\t\t\tこの別荘は夏<strong>向き</strong>にできているので、冬は寒いです。<strong></strong></a> <br/>\n\t\tThis cottage is good for summer, winter is cold. \n\t\t<strong> </strong>"
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7217
+    position: 11
+    japanese: これは体力が必要なので、どちらかというと若い人向きの仕事です。
+    body_text: "これは体力が必要なので、どちらかというと若い人向きの仕事です。 \n\n\t\tBecause physical strength is necessary, this is up to work for a young person as for either."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこれは体力が必要なので、どちらかというと若い人向きの仕事です。\">\n\t\t\t\tこれは体力が必要なので、どちらかというと若い人<strong>向き</strong>の仕事です。<strong></strong></a> <br/>\n\t\tBecause physical strength is necessary, this is up to work for a young person as for either. \n\t\t<strong> </strong>"
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: blabby
+    text: add a comment
+    html: add a comment
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: blabby
+    text: "There is a distinction between 向けに/向けの \"suitable for\" and 向きだ/向きの \"Aimed at\".\n\n\n\r\n向きだ/向きの is suitable for some purpose, even if it was not made for that purpose.\n\n\n\r\n向けに/向けの is something is the target of the objects development and manufacture.\n\r\nHope this can help"
+    html: "There is a distinction between 向けに/向けの \"suitable for\" and 向きだ/向きの \"Aimed at\".<br/>\n<br/>\r\n向きだ/向きの is suitable for some purpose, even if it was not made for that purpose.<br/>\n<br/>\r\n向けに/向けの is something is the target of the objects development and manufacture.<br/>\r\nHope this can help"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: blabby
+    text: Sorry, that should be 向けに/向けの "aimed at" and 向きだ/向きの "suitable for".
+    html: |-
+      Sorry, that should be 向けに/向けの "aimed at" and 向きだ/向きの "suitable for".<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: "can you say \n\r\n　向きに 　？\n\r\nor just \n\r\n　向きだ\n\r\n　向きの\n\n\n\r\nI added a note explanation at the top, can you please check?"
+    html: "can you say <br/>\r\n　向きに 　？<br/>\r\nor just <br/>\r\n　向きだ<br/>\r\n　向きの<br/>\n<br/>\r\nI added a note explanation at the top, can you please check?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: weasel
+    text: 向きに　ok
+    html: 向きに　ok
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: bamboo4
+    text: "You can also say 向いている. For example, この本は子供が読むのに向いている = This book is suitable for reading by children. \n\n\n\r\nYou also have to remember that 向き means \"facing\" e.g.,南向き meaning facing south, such as a house."
+    html: "You can also say 向いている. For example, この本は子供が読むのに向いている = This book is suitable for reading by children. <br/>\n<br/>\r\nYou also have to remember that 向き means \"facing\" e.g.,南向き meaning facing south, such as a house."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: danieru
+    text: what the hell does "the fattest pipe to france" mean?
+    html: what the hell does "the fattest pipe to france" mean?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: ulle
+    text: I think 向け and 向き should be 2 separate Entries. usage is exactly the same, but meaning differs (see blabby)
+    html: |-
+      I think 向け and 向き should be 2 separate Entries. usage is exactly the same, but meaning differs (see blabby)<br/>
+      <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: yookoso
+    text: Is 向き the same as 適当 (てきとう)? Any distinctions worth mentioning?
+    html: Is 向き the same as 適当 (てきとう)? Any distinctions worth mentioning?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: jayati
+    text: "Please explain...\n\r\na cutain with mickey mouse is kodomo mukida...or kodomo muke da?\n\r\nits suitable for kids...and also it is made for kids.\n\r\nmayotte imasu...\n\r\nsomeone kindly explain this to me.\n\r\nthanx"
+    html: "Please explain...<br/>\r\na cutain with mickey mouse is kodomo mukida...or kodomo muke da?<br/>\r\nits suitable for kids...and also it is made for kids.<br/>\r\nmayotte imasu...<br/>\r\nsomeone kindly explain this to me.<br/>\r\nthanx"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: jayati
+    text: "Q.kono cottage ha natsu muki ni dekite iru node fuyu ha samui desu.\n\r\nwhy is it muki here...this cottage is meant for summer ...isnt there a nuance that its made specially for summer?thats why in winter its cold there.\n\r\nkindly explain this too."
+    html: "Q.kono cottage ha natsu muki ni dekite iru node fuyu ha samui desu.<br/>\r\nwhy is it muki here...this cottage is meant for summer ...isnt there a nuance that its made specially for summer?thats why in winter its cold there.<br/>\r\nkindly explain this too."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: karekano
+    text: "In ex #\x01 there is no \"muki\"."
+    html: "In ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=muki#\x01\">#\x01</a></b> there is no \"muki\"."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "向き [むき] (muki)\n    Meaning: for,  facing,  toward,  aimed at \n    Example: a PC for old people\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>向き [むき] (muki)</span><br/>    <span><b>Meaning</b>: for,  facing,  toward,  aimed at </span><br/>    <b>Example</b>: <i>a PC for old people</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225450'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 2780220
+  length: 7020
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: cd38f51dd79dc3d51b38201e554b692fb96fecd4c6f7ef683a922e3bb1e994bb

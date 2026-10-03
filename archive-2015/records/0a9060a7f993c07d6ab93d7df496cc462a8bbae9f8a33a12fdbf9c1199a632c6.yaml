@@ -1,0 +1,78 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1686
+label: buri
+title_raw: ~ぶり [~ぶり] (buri)
+title: ~ぶり
+reading: ~ぶり
+romanized_label: buri
+category: grammar
+jlpt_level_original: '0'
+meaning: first time in ~
+meaning_example: First time in a year (一年ぶり)
+credits_raw: jmadsen
+source_url: http://jgram.org/pages/viewOne.php?tagE=buri
+archive_url: https://web.archive.org/web/20150224225918id_/http://jgram.org/pages/viewOne.php?tagE=buri
+archive_timestamp: '20150224225918'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: HXQ6AG3YX54ELFGI7LSY3Q5GEA4PMN4T
+response_sha256: 9a4f4c9dd88f0bc7f0e63c0069a9aee153f03d9d7b39773f26410d0afcc58120
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 7114
+    position: 0
+    japanese: ''
+    body_text: Because of the typhoon, train service was suspended; however, after 10 hours, service was finally resumed.
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ\">\n<strong></strong><strong></strong></a> <br/>\n\t\tBecause of the typhoon, train service was suspended; however, after 10 hours, service was finally resumed. \n\t\t<strong> </strong>"
+    credits_raw: Rollocoasta
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7115
+    position: 1
+    japanese: ''
+    body_text: 台風で電車が不通になっていたが、10時間ぶり運転を始めたそうだ。
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ\">\n<strong></strong><strong></strong></a> <br/>\n\t\t台風で電車が不通になっていたが、10時間ぶり運転を始めたそうだ。 \n\t\t<strong> </strong>"
+    credits_raw: Rollocoasta
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8549
+    position: 2
+    japanese: 久しぶりに田舎へ帰って結黒ﾏわってきたのを見にした。
+    body_text: "久しぶりに田舎へ帰って結黒ﾏわってきたのを見にした。 \n\n\t\tAfter a long time I returned back to my native and found most of the things have changed."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ久しぶりに田舎へ帰って結黒ﾏわってきたのを見にした。\">\n\t\t\t\t久しぶりに田舎へ帰って結黒ﾏわってきたのを見にした。<strong></strong><strong></strong></a> <br/>\n\t\tAfter a long time I returned back to my native and found most of the things have changed. \n\t\t<strong> </strong>"
+    credits_raw: ppmohapatra
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "~ぶり [~ぶり] (buri)\n    Meaning: first time in ~ \n    Example: First time in a year (一年ぶり)\n    JLPT Level: 0\n    Category: grammar\n    Author: jmadsen"
+    html: |-
+      <span>~ぶり [~ぶり] (buri)</span><br/>    <span><b>Meaning</b>: first time in ~ </span><br/>    <b>Example</b>: <i>First time in a year (一年ぶり)</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>jmadsen</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225918'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 7952517
+  length: 5239
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 719aa081b3977c91283ab5a65230417aec458c0b957af632e0b43d1cb31f2bc2

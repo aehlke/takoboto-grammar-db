@@ -1,0 +1,548 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 249
+label: dake
+title_raw: だけ [だけ] (dake)
+title: だけ
+reading: だけ
+romanized_label: dake
+category: grammar
+jlpt_level_original: '2'
+meaning: 1) just, only, simply, merely; 2) as much as X wants/like/can (whatever, anything)
+meaning_example: 1) don't just love her; 2) eat as much as you want (eat whatever/anything you'd like)
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=dake
+archive_url: https://web.archive.org/web/20150224225607id_/http://jgram.org/pages/viewOne.php?tagE=dake
+archive_timestamp: '20150224225607'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: UFNUAMS5IZH6PJRNUHGLN5P4LDOFLSZW
+response_sha256: 4a02b4dfef4c7dca09ebe14b835740b8bbf8ab7568218e8dbe0811fc90dbea31
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "There are several different uses of dake and different meanings as well. \n\r\n1) only;just;simply;merely\n\r\n2) as ... as possible; whatever; anything\n\r\n出来るだけ早く＝as quickly as possible"
+    html: "There are several different uses of dake and different meanings as well. <br/>\r\n1) only;just;simply;merely<br/>\r\n2) as ... as possible; whatever; anything<br/>\r\n出来るだけ早く＝as quickly as possible<br/>"
+    credits_raw: ziaz
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "As for the second use of だけ (〜 as much/long/many as you/I/etc (verb)), note that you only use verbs for this grammar, just as you do in English:\n\n\n\r\nＶplain form + だけ\n\r\nＶpotential form + だけ\n\n\n\r\nAs for other miscellaneous forms that do not use verbs, the most commonly used ones include:\n\r\n〜(し)たいだけ\n\r\nほしいだけ\n\r\n好きなだけ"
+    html: "As for the second use of だけ (〜 as much/long/many as you/I/etc (verb)), note that you only use verbs for this grammar, just as you do in English:<br/>\n<br/>\r\nＶplain form + だけ<br/>\r\nＶpotential form + だけ<br/>\n<br/>\r\nAs for other miscellaneous forms that do not use verbs, the most commonly used ones include:<br/>\r\n〜(し)たいだけ<br/>\r\nほしいだけ<br/>\r\n好きなだけ"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "ほしいだけ\n\r\nas much as you want\n\r\n好きなだけ\n\r\nas much as you like\n\r\nできるだけ\n\r\nas much as you can"
+    html: "ほしいだけ<br/>\r\nas much as you want<br/>\r\n好きなだけ<br/>\r\nas much as you like<br/>\r\nできるだけ<br/>\r\nas much as you can"
+    credits_raw: Marcel
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 208
+    position: 0
+    japanese: 彼女はよく働くだけでなく、魅力的だ。
+    body_text: "彼女はよく働くだけでなく、魅力的だ。  \n\n\t\tShe is not only diligent she is \n\t\talso \n\t\tcharming."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女はよく働くだけでなく、魅力的だ。 \">\n\t\t\t\t彼女はよく働く<strong>だけ</strong>でなく、魅力的だ。 <strong></strong></a> <br/>\n\t\tShe is not only diligent she is \n\t\t<strong>also </strong>\n\t\tcharming."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 209
+    position: 1
+    japanese: お土産に十分なものを買うだけの十分な時間がありますか。
+    body_text: "お土産に十分なものを買うだけの十分な時間がありますか。 \n\n\t\tDo you have enough time to buy enough things for souvenirs?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJお土産に十分なものを買うだけの十分な時間がありますか。\">\n\t\t\t\tお土産に十分なものを買う<strong>だけ</strong>の十分な時間がありますか。<strong></strong></a> <br/>\n\t\tDo you have enough time to buy enough things for souvenirs? \n\t\t<strong> </strong>"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 955
+    position: 2
+    japanese: ローマ字だけ書けます。
+    body_text: "ローマ字だけ書けます。 \n\n\t\tI can \n\t\tonly \n\t\twrite romaji [Roman letters]."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJローマ字だけ書けます\">\nローマ字<strong>だけ</strong>書けます<strong></strong>。</a> <br/>\n\t\tI can \n\t\t<strong>only </strong>\n\t\twrite romaji [Roman letters]."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3132
+    position: 3
+    japanese: 日本語がこれだけ書ければとてもすばらしいと思います。
+    body_text: "日本語がこれだけ書ければとてもすばらしいと思います。 \n\n\t\tI think it's great that you can write Japanese \n\t\tlike \n\t\tthis. ( or: this much, to this extent )"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ日本語がこれだけ書ければとてもすばらしいと思います。\">\n日本語がこれ<strong>だけ</strong>書ければとてもすばらしいと思います。<strong></strong></a> <br/>\n\t\tI think it's great that you can write Japanese \n\t\t<strong>like </strong>\n\t\tthis. ( or: this much, to this extent )"
+    credits_raw: bi-ru
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3133
+    position: 4
+    japanese: 言いたいだけ言って、あいつは行ってしまった。
+    body_text: "言いたいだけ言って、あいつは行ってしまった。 \n\n\t\tAfter unilaterally saying \n\t\twhatever \n\t\the had to say, that guy left."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ言いたいだけ言って、あいつは行ってしまった。\">\n言いたい<strong>だけ</strong>言って、あいつは行ってしまった。<strong></strong></a> <br/>\n\t\tAfter unilaterally saying \n\t\t<strong>whatever </strong>\n\t\the had to say, that guy left."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3135
+    position: 5
+    japanese: この本は読むだけの価値がある。
+    body_text: "この本は読むだけの価値がある。 \n\n\t\tThis book is \n\t\tcertainly \n\t\tworth reading."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの本は読むだけの価値がある。\">\nこの本は読む<strong>だけ</strong>の価値がある。<strong></strong></a> <br/>\n\t\tThis book is \n\t\t<strong>certainly </strong>\n\t\tworth reading."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4436
+    position: 6
+    japanese: 「何をさしあげましょう」「いや、結構。ただ見て回っているだけだから。」
+    body_text: "「何をさしあげましょう」「いや、結構。ただ見て回っているだけだから。」 \n\n\t\t\"Can I help you?\" \"No, thank you. I'm just looking around.\""
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ「何をさしあげましょう」「いや、結構。ただ見て回っているだけだから。」\">\n\t\t\t\t「何をさしあげましょう」「いや、結構。ただ見て回っている<strong>だけ</strong>だから。」<strong></strong></a> <br/>\n\t\t\"Can I help you?\" \"No, thank you. I'm just looking around.\" \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4437
+    position: 7
+    japanese: 一度だけチャンスが残っている。
+    body_text: "一度だけチャンスが残っている。 \n\n\t\tThere is but one chance left."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ一度だけチャンスが残っている。\">\n一度<strong>だけ</strong>チャンスが残っている。<strong></strong></a> <br/>\n\t\tThere is but one chance left. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4438
+    position: 8
+    japanese: あぁ、この用紙に書き込むだけです。
+    body_text: "あぁ、この用紙に書き込むだけです。 \n\n\t\tOh, just fill out this from."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあぁ、この用紙に書き込むだけです。\">\n\t\t\t\tあぁ、この用紙に書き込む<strong>だけ</strong>です。<strong></strong></a> <br/>\n\t\tOh, just fill out this from. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5378
+    position: 9
+    japanese: 努力しただけ、結果が出ますよ。
+    body_text: "努力しただけ、結果が出ますよ。 \n\n\t\tYou will get results \n\t\taccording to \nhow hard you work."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ努力しただけ\">\n努力した<strong>だけ</strong><strong></strong>、結果が出ますよ。</a> <br/>\n\t\tYou will get results \n\t\t<strong>according to </strong>\nhow hard you work."
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5379
+    position: 10
+    japanese: これができるのは君だけだ。
+    body_text: "これができるのは君だけだ。 \n\nYou\nalone \n\t\t  [Nobody but you / You are the only one who] can do this."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこれができるのは君だけ\">\n\t\t\t\tこれができるのは君<strong>だけ</strong><strong></strong>だ。</a> <br/>\nYou\n<strong>alone </strong>\n\t\t  [Nobody but you / You are the only one who] can do this."
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5380
+    position: 11
+    japanese: 午前中だけそれを借りていいですか。
+    body_text: "午前中だけそれを借りていいですか。 \n\n\t\tMay [Could] I borrow it \n\t\tjust \nfor the morning?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ午前中だけ\">\n午前中<strong>だけ</strong><strong></strong>それを借りていいですか。</a> <br/>\n\t\tMay [Could] I borrow it \n\t\t<strong>just </strong>\nfor the morning?"
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5381
+    position: 12
+    japanese: 新聞だけではなく週刊誌にも出ていた。
+    body_text: "新聞だけではなく週刊誌にも出ていた。 \n\n\t\tIt was reported not \n\t\tonly \nin the newspapers  but also in the weekly magazines."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ新聞だけ\">\n新聞<strong>だけ</strong><strong></strong>ではなく週刊誌にも出ていた。</a> <br/>\n\t\tIt was reported not \n\t\t<strong>only </strong>\nin the newspapers  but also in the weekly magazines."
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5382
+    position: 13
+    japanese: 東京だけでもそのような事件は10件あった。
+    body_text: "東京だけでもそのような事件は10件あった。 \n\n\t\tThere were ten such cases in Tokyo\nalone."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ東京だけ\">\n東京<strong>だけ</strong><strong></strong>でもそのような事件は10件あった。</a> <br/>\n\t\tThere were ten such cases in Tokyo\n<strong>alone. </strong>"
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5383
+    position: 14
+    japanese: 「ごめん」と一言だけでも言ってほしかった。
+    body_text: "「ごめん」と一言だけでも言ってほしかった。 \n\n\t\tI wish you had said \n\t\tjust [even] \none word  of apology."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ「ごめん」と一言だけ\">\n\t\t\t\t「ごめん」と一言<strong>だけ</strong><strong></strong>でも言ってほしかった。</a> <br/>\n\t\tI wish you had said \n\t\t<strong>just [even] </strong>\none word  of apology."
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5384
+    position: 15
+    japanese: 言ってみただけだ。
+    body_text: "言ってみただけだ。 \n\n\t\tI \n\t\tonly \nsaid  it (but did not mean it)."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ言ってみただけ\">\n言ってみた<strong>だけ</strong><strong></strong>だ。</a> <br/>\n\t\tI \n\t\t<strong>only </strong>\nsaid  it (but did not mean it)."
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5385
+    position: 16
+    japanese: 一目見ただけでその家が気に入った。
+    body_text: "一目見ただけでその家が気に入った。 \n\n\t\tI took a fancy to the house \n\t\tat first \nsight."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ一目見ただけ\">\n一目見た<strong>だけ</strong><strong></strong>でその家が気に入った。</a> <br/>\n\t\tI took a fancy to the house \n\t\t<strong>at first </strong>\nsight."
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5386
+    position: 17
+    japanese: そう言った(それを見た)だけで彼は怒った。
+    body_text: "そう言った(それを見た)だけで彼は怒った。 \n\n\t\tThe \n\t\tmere \nsuggestion (sight)  of it made him angry."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJそう言った(それを見た)だけ\">\nそう言った(それを見た)<strong>だけ</strong><strong></strong>で彼は怒った。</a> <br/>\n\t\tThe \n\t\t<strong>mere </strong>\nsuggestion (sight)  of it made him angry."
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5387
+    position: 18
+    japanese: ちらっと見せてくれるだけでいい。
+    body_text: "ちらっと見せてくれるだけでいい。 \n\n\t\tYou have \n\t\tonly to \nlet me have a glance at it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJちらっと見せてくれるだけ\">\nちらっと見せてくれる<strong>だけ</strong><strong></strong>でいい。</a> <br/>\n\t\tYou have \n\t\t<strong>only to </strong>\nlet me have a glance at it."
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5388
+    position: 19
+    japanese: やるだけはやってみなさい。
+    body_text: "やるだけはやってみなさい。 \n\nAt any rate, \n\t\t  give it a try."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJやるだけ\">\nやる<strong>だけ</strong><strong></strong>はやってみなさい。</a> <br/>\n<strong>At any rate, </strong>\n\t\t  give it a try."
+    credits_raw: Rushyne
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6169
+    position: 20
+    japanese: 日曜日は、寝たいだけ寝ることにしているので、起きるのは昼ごろになる。
+    body_text: "日曜日は、寝たいだけ寝ることにしているので、起きるのは昼ごろになる。 \n\n\t\tOn Sunday, I decided to sleep for \n\t\tas long as \n\t\tI wanted, so it was already afternoon around the time I woke up."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ日曜日は、寝たいだけ寝ることにしているので、起きるのは昼ごろになる。\">\n\t\t\t\t日曜日は、寝たい<strong>だけ</strong>寝ることにしているので、起きるのは昼ごろになる。<strong></strong></a> <br/>\n\t\tOn Sunday, I decided to sleep for \n\t\t<strong>as long as </strong>\n\t\tI wanted, so it was already afternoon around the time I woke up."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6170
+    position: 21
+    japanese: 今日はあなたのお誕生日だから、特別よ。ケーキやチョコレートも好きなだけ食べていいわよ。
+    body_text: "今日はあなたのお誕生日だから、特別よ。ケーキやチョコレートも好きなだけ食べていいわよ。 \n\n\t\tToday is special because it's your birthday. It's okay to eat \n\t\tas much \n\t\tcake and chocolate as you like."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ今日はあなたのお誕生日だから、特別よ。ケーキやチョコレートも好きなだけ食べていいわよ。\">\n\t\t\t\t今日はあなたのお誕生日だから、特別よ。ケーキやチョコレートも好きな<strong>だけ</strong>食べていいわよ。<strong></strong></a> <br/>\n\t\tToday is special because it's your birthday. It's okay to eat \n\t\t<strong>as much </strong>\n\t\tcake and chocolate as you like."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6171
+    position: 22
+    japanese: 電力不足が心配されています。電気をできるだけ節約しましょう。
+    body_text: "電力不足が心配されています。電気をできるだけ節約しましょう。 \n\n\t\tThe electricity shortage worries a lot of people. Let's try to save \n\t\tas much \n\t\telectricity as we can."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ電力不足が心配されています。電気をできるだけ節約しましょう。\">\n\t\t\t\t電力不足が心配されています。電気をできる<strong>だけ</strong>節約しましょう。<strong></strong></a> <br/>\n\t\tThe electricity shortage worries a lot of people. Let's try to save \n\t\t<strong>as much </strong>\n\t\telectricity as we can."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6172
+    position: 23
+    japanese: たくさんありますから、どうぞほしいだけお取りください。
+    body_text: "たくさんありますから、どうぞほしいだけお取りください。 \n\n\t\tThere's a lot, so please take \n\t\tas many \n\t\tas you want."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJたくさんありますから、どうぞほしいだけお取りください。\">\n\t\t\t\tたくさんありますから、どうぞほしい<strong>だけ</strong>お取りください。<strong></strong></a> <br/>\n\t\tThere's a lot, so please take \n\t\t<strong>as many </strong>\n\t\tas you want."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6922
+    position: 24
+    japanese: できるだけ、がんばりましょう。
+    body_text: "できるだけ、がんばりましょう。 \n\n\t\tLet us try hard \n\t\tas much as \nwe can."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJできるだけ\">\nできる<strong>だけ</strong><strong></strong>、がんばりましょう。</a> <br/>\n\t\tLet us try hard \n\t\t<strong>as much as </strong>\nwe can."
+    credits_raw: 赤毛
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7157
+    position: 25
+    japanese: 最近は職場だけでなく家庭においてもパソコンが使われている.
+    body_text: "最近は職場だけでなく家庭においてもパソコンが使われている. \n\n\t\tThe personal computer is used \n\t\tnot only \n\t\tat the office but also at home recently."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ最近は職場だけでなく家庭においてもパソコンが使われている.\">\n\t\t\t\t最近は職場<strong>だけ</strong>でなく家庭においてもパソコンが使われている.<strong></strong></a> <br/>\n\t\tThe personal computer is used \n\t\t<strong>not only </strong>\n\t\tat the office but also at home recently."
+    credits_raw: sureshnihon
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8132
+    position: 26
+    japanese: それはかえって家庭問題をさらに悪化させるだけだろう。
+    body_text: "それはかえって家庭問題をさらに悪化させるだけだろう。 \n\n\t\tIt will only make a family matters worse."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJそれはかえって家庭問題をさらに悪化させるだけだろう。\">\n\t\t\t\tそれはかえって家庭問題をさらに悪化させる<strong>だけ</strong>だろう。<strong></strong></a> <br/>\n\t\tIt will only make a family matters worse. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8133
+    position: 27
+    japanese: 性だけを大文字で書きなさい。
+    body_text: "性だけを大文字で書きなさい。 \n\n\t\tWrite only your family name in capitals (capital letters)."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ性だけを大文字で書きなさい。\">\n\t\t\t\t性<strong>だけ</strong>を大文字で書きなさい。<strong></strong></a> <br/>\n\t\tWrite only your family name in capitals (capital letters). \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8134
+    position: 28
+    japanese: 私にお礼を言ってくれたのは彼らだけだった。
+    body_text: "私にお礼を言ってくれたのは彼らだけだった。 \n\n\t\tThey were the only people to thank me."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ私にお礼を言ってくれたのは彼らだけだった。\">\n\t\t\t\t私にお礼を言ってくれたのは彼ら<strong>だけ</strong>だった。<strong></strong></a> <br/>\n\t\tThey were the only people to thank me. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8135
+    position: 29
+    japanese: 彼女をただ愛しているだけではない。
+    body_text: "彼女をただ愛しているだけではない。 \n\n\t\tI don`t just love her."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女をただ愛しているだけではない。\">\n\t\t\t\t彼女をただ愛している<strong>だけ</strong>ではない。<strong></strong></a> <br/>\n\t\tI don`t just love her. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8136
+    position: 30
+    japanese: それについて考えただけで胸がつまってが出た。
+    body_text: "それについて考えただけで胸がつまってが出た。 \n\n\t\tI was moved to tears just (by) thinking about it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJそれについて考えただけで胸がつまってが出た。\">\n\t\t\t\tそれについて考えた<strong>だけ</strong>で胸がつまってが出た。<strong></strong></a> <br/>\n\t\tI was moved to tears just (by) thinking about it. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8137
+    position: 31
+    japanese: ただ金もうけのためにだけそれをした。
+    body_text: "ただ金もうけのためにだけそれをした。 \n\n\t\tI did it for money alone."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJただ金もうけのためにだけそれをした。\">\n\t\t\t\tただ金もうけのために<strong>だけ</strong>それをした。<strong></strong></a> <br/>\n\t\tI did it for money alone. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8138
+    position: 32
+    japanese: 桜さんだけがそこに行った。
+    body_text: "桜さんだけがそこに行った。 \n\n\t\tOnly Sakura-san went there."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ桜さんだけがそこに行った。\">\n\t\t\t\t桜さん<strong>だけ</strong>がそこに行った。<strong></strong></a> <br/>\n\t\tOnly Sakura-san went there. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8139
+    position: 33
+    japanese: 彼女はかぜをひいただけで欠席した。
+    body_text: "彼女はかぜをひいただけで欠席した。 \n\n\t\tShe was absent simply because she caught cold."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女はかぜをひいただけで欠席した。\">\n\t\t\t\t彼女はかぜをひいた<strong>だけ</strong>で欠席した。<strong></strong></a> <br/>\n\t\tShe was absent simply because she caught cold. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8140
+    position: 34
+    japanese: 彼女は単に彼にうまく利用されただけだろう。
+    body_text: "彼女は単に彼にうまく利用されただけだろう。 \n\n\t\tShe was merely fooled by him."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女は単に彼にうまく利用されただけだろう。\">\n\t\t\t\t彼女は単に彼にうまく利用された<strong>だけ</strong>だろう。<strong></strong></a> <br/>\n\t\tShe was merely fooled by him. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8141
+    position: 35
+    japanese: テストのことを思うだけで不安になった。
+    body_text: "テストのことを思うだけで不安になった。 \n\n\t\tI felt uneasy at the mere thought of the test."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJテストのことを思うだけで不安になった。\">\n\t\t\t\tテストのことを思う<strong>だけ</strong>で不安になった。<strong></strong></a> <br/>\n\t\tI felt uneasy at the mere thought of the test. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8142
+    position: 36
+    japanese: そこへ行くことを考えるだけでも恐ろしい。
+    body_text: "そこへ行くことを考えるだけでも恐ろしい。 \n\n\t\tThe very thought of going there frightens me."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJそこへ行くことを考えるだけでも恐ろしい。\">\n\t\t\t\tそこへ行くことを考える<strong>だけ</strong>でも恐ろしい。<strong></strong></a> <br/>\n\t\tThe very thought of going there frightens me. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8143
+    position: 37
+    japanese: 今度だけは見逃してください。
+    body_text: "今度だけは見逃してください。 \n\n\t\tPlease forgive me for once."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ今度だけは見逃してください。\">\n\t\t\t\t今度<strong>だけ</strong>は見逃してください。<strong></strong></a> <br/>\n\t\tPlease forgive me for once. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8144
+    position: 38
+    japanese: 彼女は彼の愛だけが欲しかった。
+    body_text: "彼女は彼の愛だけが欲しかった。 \n\n\t\tShe wanted nothing but love out of him."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女は彼の愛だけが欲しかった。\">\n\t\t\t\t彼女は彼の愛<strong>だけ</strong>が欲しかった。<strong></strong></a> <br/>\n\t\tShe wanted nothing but love out of him. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8145
+    position: 39
+    japanese: 聞こえるのは波の音だけだ。
+    body_text: "聞こえるのは波の音だけだ。 \n\n\t\tAll that is heard is the sound of waves."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ聞こえるのは波の音だけだ。\">\n\t\t\t\t聞こえるのは波の音<strong>だけ</strong>だ。<strong></strong></a> <br/>\n\t\tAll that is heard is the sound of waves. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8146
+    position: 40
+    japanese: 君に言っているのは事実だけです。
+    body_text: "君に言っているのは事実だけです。 \n\n\t\tI`m telling you nothing else than the truth."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ君に言っているのは事実だけです。\">\n\t\t\t\t君に言っているのは事実<strong>だけ</strong>です。<strong></strong></a> <br/>\n\t\tI`m telling you nothing else than the truth. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Lots of common usages such as "not only XXX but YYY" "XXXだけでなく、YYYだ。"
+    html: Lots of common usages such as "not only XXX but YYY" "XXXだけでなく、YYYだ。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: 'First example : Lit. "She is not only diligent she is also charming"'
+    html: 'First example : Lit. "She is not only diligent she is also charming"'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: 'Second example : Lit. "Do you have just the sufficent time to buy sufficient souveniers?"'
+    html: 'Second example : Lit. "Do you have just the sufficent time to buy sufficient souveniers?"'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Jimmie
+    text: "I think that's almost correct, DC.\n\n\n\r\nBut I rarely hear ３人しかないので and ３人しかないでも.\n\r\nI'd rather say ３人しかいなかったので、大変だった and\n\r\n３人だけしかいないけれど十分 or ３人だけでも十分.\n\n\n\r\nIt's significantly difficult to explain because\n\r\nthis kind of sentences totally depends on personal\n\r\nfeelings...\n\n\n\r\nしか　〜　ない implies negative feelings, and だけ\n\r\nimplies positive feelings, that's that."
+    html: "I think that's almost correct, DC.<br/>\n<br/>\r\nBut I rarely hear ３人しかないので and ３人しかないでも.<br/>\r\nI'd rather say ３人しかいなかったので、大変だった and<br/>\r\n３人だけしかいないけれど十分 or ３人だけでも十分.<br/>\n<br/>\r\nIt's significantly difficult to explain because<br/>\r\nthis kind of sentences totally depends on personal<br/>\r\nfeelings...<br/>\n<br/>\r\nしか　〜　ない implies negative feelings, and だけ<br/>\r\nimplies positive feelings, that's that.<br/>\n<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Ayumi
+    text: "#\x01 seems strange to me...\n\n\n\r\nCan you add this to verbs?"
+    html: "<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dake#\x01\">#\x01</a></b> seems strange to me...<br/>\n<br/>\r\nCan you add this to verbs?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: blabby
+    text: "だけ also has a meaning of \"as much as possible\" or \"to the extent of\". For example in #\x01. \n\r\nI often hear できるだけ - \"As much as I can do it\" \n\r\nor 好きなだけ  - \"As much as you like\""
+    html: "だけ also has a meaning of \"as much as possible\" or \"to the extent of\". For example in <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dake#\x01\">#\x01</a></b>. <br/>\r\nI often hear できるだけ - \"As much as I can do it\" <br/>\r\nor 好きなだけ  - \"As much as you like\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: Marcel
+    text: "208 explanation:\n\n\n\r\n彼女はよく働くだけでなく、魅力的だ。  \n\r\nlit. Not only does she work (well), but she's charming."
+    html: "208 explanation:<br/>\n<br/>\r\n彼女はよく働くだけでなく、魅力的だ。  <br/>\r\nlit. Not only does she work (well), but she's charming."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: 赤毛
+    text: "I think that ex #\x01 sounds rare because it should be ではなく like in ex #\x01 instead of でなく.\n\r\nI changed \n\r\n[ex #\x01] k限定,最低の限度〕only; merely; just; but \n\r\nwhich was hardy understandable for me."
+    html: "I think that ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dake#\x01\">#\x01</a></b> sounds rare because it should be ではなく like in ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dake#\x01\">#\x01</a></b> instead of でなく.<br/>\r\nI changed <br/>\r\n[ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=dake#\x01\">#\x01</a></b>] k限定,最低の限度〕only; merely; just; but <br/>\r\nwhich was hardy understandable for me."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: shika
+    label: shika
+    annotation_text: "shika    (\x01 emphasizes the negative, whereas \x01 just means only/just, in a neutral fashion) [dc]"
+    annotation_html: "<a href=\"http://jgram.org/pages/viewOne.php?tagE=shika\">shika</a>    (<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> emphasizes the negative, whereas <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> just means only/just, in a neutral fashion) [<a href=\"http://jgram.org/pages/contributions.php?author=dc\">dc</a>]"
+    credits_raw: dc
+  - position: 1
+    target_label: dekirudake
+    label: dekirudake
+    annotation_text: dekirudake    (Although this entry uses the verb できる, other verbs can also be used.) [blabby]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=dekirudake">dekirudake</a>    (Although this entry uses the verb できる, other verbs can also be used.) [<a href="http://jgram.org/pages/contributions.php?author=blabby">blabby</a>]
+    credits_raw: blabby
+sections:
+  - kind: header
+    text: "だけ [だけ] (dake)\n    Meaning: 1) just, only, simply, merely; 2) as much as X wants/like/can (whatever, anything) \n    Example: 1) don't just love her; 2) eat as much as you want (eat whatever/anything you'd like)\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>だけ [だけ] (dake)</span><br/>    <span><b>Meaning</b>: 1) just, only, simply, merely; 2) as much as X wants/like/can (whatever, anything) </span><br/>    <b>Example</b>: <i>1) don't just love her; 2) eat as much as you want (eat whatever/anything you'd like)</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225607'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3853691
+  length: 9913
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 964affe9b2e198c97682a60d1799a3c71d356d36897d39535ae8fae16a41ba53

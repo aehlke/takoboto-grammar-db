@@ -57,17 +57,20 @@ uv run --locked takoboto-grammar build --input data --archive archive-data --arc
 
 ## Storage choice
 
-Use **SQLite for the queryable release artifact**. Git tracks one JSON source
-record per entry, together with inventories and provenance. JSON is the canonical
+Use **SQLite for the queryable release artifact**. Git tracks one YAML source
+record per entry, together with inventories and provenance. YAML is the canonical
 content format and provides reviewable diffs. Markdown and SQLite are generated
 from it and excluded from Git.
+See [the YAML format and migration guide](docs/yaml-format.md) for storage rules
+and converting older checkouts. Indexes, verification states and request reports
+remain JSON metadata; they do not duplicate the grammar records.
 Keep scraped source records separate from community corrections so subsequent
 crawls cannot silently erase an edit. Correction merging is a future feature.
 
 ```text
 data/
   inventory.json                 all IDs discovered through the public index
-  records/725.json                extracted content, attribution, and provenance
+  records/725.yaml                extracted content, attribution, and provenance
   cache/responses/<sha256>.html   original response bytes, never executed
   cache/urls/<url-hash>.json      current response metadata
   cache/snapshots/...             previous retrieval metadata
@@ -75,8 +78,8 @@ data/
   coverage-report.json           independent offline source checks
 archive-data/
   inventory.json                 complete paginated Wayback CDX discovery
-  records/<label-hash>.json       separate historical source observations
-  feeds/<name>.json               original RSS excerpts and publication dates
+  records/<label-hash>.yaml       separate historical source observations
+  feeds/<name>.yaml               original RSS excerpts and publication dates
   states/<label-hash>.json        latest entry attempt and verified record hash
   feed-states/<path-hash>.json    latest RSS attempt and verified record hash
   cache/responses/<sha256>.bin    original archived bytes
@@ -85,7 +88,7 @@ archive-data/
   coverage-report.json           parsed-record checks and remaining labels
 archive-2015/
   inventory.json                 original ArchiveTeam index selection and hash
-  records/<label-hash>.json       dated backup observations with WARC provenance
+  records/<label-hash>.yaml       dated backup observations with WARC provenance
   states/<label-hash>.json        extraction, exclusion and review decisions
   coverage-report.json           source checks and 63 held tutorial labels
   cache/                         local compressed index and scoped WARC members
@@ -103,21 +106,25 @@ Stable numeric IDs determine filenames; titles are not unique and levels can
 change. Markdown folders describe the current displayed JLPT classification.
 
 After an authorized crawl into the existing `data` and `archive-data`
-directories, review the canonical JSON diffs:
+directories, review the canonical YAML diffs:
 
 ```sh
 git diff -- data/records archive-data/records archive-2015/records archive-data/feeds
 git status --short
 ```
 
-The crawler writes deterministic per-entry JSON. Cached observations retain
+The crawler writes deterministic per-entry YAML. Cached observations retain
 their original retrieval timestamps. `--refresh` can change retrieval metadata
 even when the grammar text is unchanged, so those provenance changes also appear
 in the diff. The crawler does not regenerate Markdown automatically.
 
-For an optional local reader view, run `update-markdown --input data
---archive archive-data --archive-snapshot archive-2015 --output markdown`.
-The ignored output is derived entirely from JSON. `update-markdown` updates
+For an optional local reader view, run:
+
+```sh
+uv run --locked takoboto-grammar update-markdown --input data \
+  --archive archive-data --archive-snapshot archive-2015 --output markdown
+```
+The ignored output is derived entirely from YAML. `update-markdown` updates
 only changed generated pages, preserves unchanged
 files, and moves obsolete pages to a fresh directory under `~/.Trash` when
 entries are removed or change level. `.generated.json` has no run timestamps.
@@ -129,7 +136,7 @@ publish a new database artifact for each release.
 ## Run
 
 The implementation passed an initial [two-page live smoke test](recon/uv-smoke-test.json)
-and now passes **115 automated tests**.
+and now passes **124 automated tests**.
 The original smoke-test exports remain local; the public release contains the
 combined dataset. Raw-response caches and local QA outputs are not committed.
 
@@ -211,7 +218,7 @@ Reports are written when the fetcher exits; abrupt process termination can
 prevent the report from being saved.
 
 Saved inventories, selectors and pacing options are checked before requests.
-Both export destinations are checked before either export is created. JSON
+Both export destinations are checked before either export is created. YAML
 records, cache metadata and response bodies use atomic file replacement to
 preserve earlier files if replacement is interrupted. Failed temporary files
 are retained for inspection; they are excluded from record reads.
@@ -223,7 +230,7 @@ a fresh clone can reproduce SQLite and Markdown offline from committed records
 and verification states. Persistent states block export after unsuccessful
 refreshes. Same-digest older captures can establish equivalent latest content;
 older different revisions remain held. Historical scope reviews are recorded in
-[grammar-membership.json](src/takoboto_grammar/grammar-membership.json).
+[grammar-membership.yaml](src/takoboto_grammar/grammar-membership.yaml).
 
 Individual failures and unfamiliar data blocks are reported. Review warnings
 before claiming completeness. A clean limited crawl exits successfully but
@@ -250,7 +257,7 @@ The extracted grammar content, fixtures, and derived exports are
 [Attribution](ATTRIBUTION.md) credits JGram, Takoboto, and displayed contributors.
 The scraper code is [MIT](LICENSE-CODE).
 
-Keep attribution and license notices with redistributed data. The JSON and
+Keep attribution and license notices with redistributed data. The YAML and
 SQLite exports preserve displayed credits per entry, content block, example,
 and comment; Markdown includes them too. Original contribution dates are
 unknown in the inspected public pages. Retrieval dates are separate fields.

@@ -1,0 +1,1060 @@
+schema_version: 2
+id: 585
+source: takoboto
+source_url: https://takoboto.jp/bunpo/585/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: として
+romanized_label: toshite
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka, bishnu
+meaning: as; in the capacity of
+meaning_example: I'm using this room as a storeroom.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_585
+    body_text: |-
+      as; in the capacity of 
+       I'm using this room as a storeroom.
+    body_html: |-
+      <span>as; in the capacity of</span> <br/> <span>I'm using this room as a storeroom.</span>
+    credits_raw: Amatuka, bishnu
+  - kind: formation
+    source_dom_id: editable_Formation_585
+    body_text: Noun+として
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>として</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + として
+examples:
+  - source_id: 6281
+    position: 0
+    japanese: この部屋は物置として使っている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%81%af"><span>部屋は</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e7%bd%ae"><span>物置</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>使っている。</span></a>
+    segments:
+      - text: この部屋は物置
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 使っている。
+        grammar_highlight: false
+    reading: このへやはものおきとしてつかっている。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: I'm using this room as a storeroom.
+        html: |-
+          <span>I'm using this room as a storeroom. </span>
+        segments:
+          - text: 'I''m using this room as a storeroom. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6282
+    position: 1
+    japanese: 李さんは自動車の会社でエンジニアとして働いている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9d%8e%e3%81%95%e3%82%93%e3%81%af"><span>李さんは</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%8b%95%e8%bb%8a%e3%81%ae"><span>自動車の</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%a7"><span>会社で</span></a><a href="https://takoboto.jp/?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%8b%e3%82%a2"><span>エンジニア</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>働いている。</span></a>
+    segments:
+      - text: 李さんは自動車の会社でエンジニア
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 働いている。
+        grammar_highlight: false
+    reading: りさんはじどうしゃのかいしゃでエンジニアとしてはたらいている。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: Mister Lee is working in a car maker firm as an engineer.
+        html: |-
+          <span>Mister Lee is working in a car maker firm </span><strong>as </strong><span>an engineer. </span>
+        segments:
+          - text: 'Mister Lee is working in a car maker firm '
+            grammar_highlight: false
+          - text: 'as '
+            grammar_highlight: true
+          - text: 'an engineer. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 643
+    position: 2
+    japanese: 彼は単に冗談としてそれを言った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%8d%98%e3%81%ab"><span>単に</span></a><a href="https://takoboto.jp/?q=%e5%86%97%e8%ab%87"><span>冗談</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%82%92"><span>それを</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f%e3%80%82"><span>言った。</span></a>
+    segments:
+      - text: 彼は単に冗談
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: それを言った。
+        grammar_highlight: false
+    reading: かれはたんにじょうだんとしてそれをいった。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: He said it merely as a joke.
+        html: |-
+          <span>He said it merely </span><strong>as a </strong><span>joke. </span>
+        segments:
+          - text: 'He said it merely '
+            grammar_highlight: false
+          - text: 'as a '
+            grammar_highlight: true
+          - text: 'joke. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 649
+    position: 3
+    japanese: 先生として働いています。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f"><span>先生</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%84%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>働いています。</span></a>
+    segments:
+      - text: 先生
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 働いています。
+        grammar_highlight: false
+    reading: せんせいとしてはたらいています。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I work as a teacher.
+        html: |-
+          <span>I work </span><strong>as </strong><span>a teacher. </span>
+        segments:
+          - text: 'I work '
+            grammar_highlight: false
+          - text: 'as '
+            grammar_highlight: true
+          - text: 'a teacher. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5864
+    position: 4
+    japanese: 私は医者としてあなたに言います。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%8c%bb%e8%80%85"><span>医者</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab"><span>あなたに</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>言います。</span></a>
+    segments:
+      - text: 私は医者
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: あなたに言います。
+        grammar_highlight: false
+    reading: わたしはいしゃとしてあなたにいいます。
+    credits_raw: Tori
+    translations:
+      - language: en
+        text: I'll tell you this as a doctor.
+        html: |-
+          <span>I'll tell you this as a doctor. </span>
+        segments:
+          - text: 'I''ll tell you this as a doctor. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5865
+    position: 5
+    japanese: １８歳以上の者はだれでも大人としてみなされる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%91%ef%bc%98%e6%ad%b3%e4%bb%a5%e4%b8%8a%e3%81%ae"><span>１８歳以上の</span></a><a href="https://takoboto.jp/?q=%e8%80%85%e3%81%af%e3%81%a0%e3%82%8c%e3%81%a7%e3%82%82"><span>者はだれでも</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e4%ba%ba"><span>大人</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%bf%e3%81%aa%e3%81%95%e3%82%8c%e3%82%8b%e3%80%82"><span>みなされる。</span></a>
+    segments:
+      - text: １８歳以上の者はだれでも大人
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: みなされる。
+        grammar_highlight: false
+    reading: １８さいいじょうのものはだれでもおとなとしてみなされる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Anyone over eighteen years of age counts as an adult.
+        html: |-
+          <span>Anyone over eighteen years of age counts as an adult. </span>
+        segments:
+          - text: 'Anyone over eighteen years of age counts as an adult. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5866
+    position: 6
+    japanese: １月の輸出は１００億ドルと、同月としては最高記録になった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%91%e6%9c%88%e3%81%ae"><span>１月の</span></a><a href="https://takoboto.jp/?q=%e8%bc%b8%e5%87%ba%e3%81%af"><span>輸出は</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%ef%bc%90%ef%bc%90%e5%84%84%e3%83%89%e3%83%ab%e3%81%a8%e3%80%81"><span>１００億ドルと、</span></a><a href="https://takoboto.jp/?q=%e5%90%8c%e6%9c%88"><span>同月</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%af"><span>は</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e9%ab%98%e8%a8%98%e9%8c%b2%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>最高記録になった。</span></a>
+    segments:
+      - text: １月の輸出は１００億ドルと、同月
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: は最高記録になった。
+        grammar_highlight: false
+    reading: いちがつのゆしゅつは１００おくドルと、どうげつとしてはさいこうきろくになった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Exports in January totalled $10 billion, a record for the month.
+        html: |-
+          <span>Exports in January totalled $10 billion, a record for the month. </span>
+        segments:
+          - text: 'Exports in January totalled $10 billion, a record for the month. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5867
+    position: 7
+    japanese: ２５０キロというのは相撲取りとしても並外れた体重だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%92%ef%bc%95%ef%bc%90%e3%82%ad%e3%83%ad%e3%81%a8%e3%81%84%e3%81%86%e3%81%ae%e3%81%af"><span>２５０キロというのは</span></a><a href="https://takoboto.jp/?q=%e7%9b%b8%e6%92%b2%e5%8f%96%e3%82%8a"><span>相撲取り</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%82%82"><span>も</span></a><a href="https://takoboto.jp/?q=%e4%b8%a6%e5%a4%96%e3%82%8c%e3%81%9f"><span>並外れた</span></a><a href="https://takoboto.jp/?q=%e4%bd%93%e9%87%8d%e3%81%a0%e3%80%82"><span>体重だ。</span></a>
+    segments:
+      - text: ２５０キロというのは相撲取り
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: も並外れた体重だ。
+        grammar_highlight: false
+    reading: ２５０キロというのはすもうとりとしてもなみはずれたたいじゅうだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Two hundred fifty kilograms is an extraordinary weight even for a sumo wrestler.
+        html: |-
+          <span>Two hundred fifty kilograms is an extraordinary weight even for a sumo wrestler. </span>
+        segments:
+          - text: 'Two hundred fifty kilograms is an extraordinary weight even for a sumo wrestler. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5868
+    position: 8
+    japanese: ２つのことを一度にしようとしてはいけません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%92%e3%81%a4%e3%81%ae%e3%81%93%e3%81%a8%e3%82%92"><span>２つのことを</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%ba%a6%e3%81%ab%e3%81%97%e3%82%88%e3%81%86"><span>一度にしよう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%84%e3%81%91%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>はいけません。</span></a>
+    segments:
+      - text: ２つのことを一度にしよう
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: はいけません。
+        grammar_highlight: false
+    reading: ふたつのことをいちどにしようとしてはいけません。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Don't try to do two things at a time.
+        html: |-
+          <span>Don't try to do two things at a time. </span>
+        segments:
+          - text: 'Don''t try to do two things at a time. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5869
+    position: 9
+    japanese: ４億人の人が英語を第一言語として話します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%94%e5%84%84%e4%ba%ba%e3%81%ae"><span>４億人の</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%8c"><span>人が</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%82%92"><span>英語を</span></a><a href="https://takoboto.jp/?q=%e7%ac%ac%e4%b8%80%e8%a8%80%e8%aa%9e"><span>第一言語</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>話します。</span></a>
+    segments:
+      - text: ４億人の人が英語を第一言語
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 話します。
+        grammar_highlight: false
+    reading: ４おくにんのひとがえいごをだいいちげんごとしてはなします。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: 400 million people speak English as their first language.
+        html: |-
+          <span>400 million people speak English as their first language. </span>
+        segments:
+          - text: '400 million people speak English as their first language. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5870
+    position: 10
+    japanese: ＧＮＰは一定期間に国によって生産されたすべての商品とサービスの市場価値の総額として計算される。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%a7%ef%bc%ae%ef%bc%b0%e3%81%af"><span>ＧＮＰは</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%ae%9a%e6%9c%9f%e9%96%93%e3%81%ab"><span>一定期間に</span></a><a href="https://takoboto.jp/?q=%e5%9b%bd%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6"><span>国によって</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e7%94%a3%e3%81%95%e3%82%8c%e3%81%9f%e3%81%99%e3%81%b9%e3%81%a6%e3%81%ae"><span>生産されたすべての</span></a><a href="https://takoboto.jp/?q=%e5%95%86%e5%93%81%e3%81%a8%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%81%ae"><span>商品とサービスの</span></a><a href="https://takoboto.jp/?q=%e5%b8%82%e5%a0%b4%e4%be%a1%e5%80%a4%e3%81%ae"><span>市場価値の</span></a><a href="https://takoboto.jp/?q=%e7%b7%8f%e9%a1%8d"><span>総額</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%ae%97%e3%81%95%e3%82%8c%e3%82%8b%e3%80%82"><span>計算される。</span></a>
+    segments:
+      - text: ＧＮＰは一定期間に国によって生産されたすべての商品とサービスの市場価値の総額
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 計算される。
+        grammar_highlight: false
+    reading: じーえぬぴーはいっていきかんにくにによってせいさんされたすべてのしょうひんとサービスのしじょうかちのそうがくとしてけいさんされる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: GNP is measured as the total market value of all the goods and service produced by a nation during a specified period.
+        html: |-
+          <span>GNP is measured as the total market value of all the goods and service produced by a nation during a specified period. </span>
+        segments:
+          - text: 'GNP is measured as the total market value of all the goods and service produced by a nation during a specified period. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5871
+    position: 11
+    japanese: あいつはギャンブラーとして名が通っている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%84%e3%81%a4%e3%81%af%e3%82%ae%e3%83%a3%e3%83%b3%e3%83%96%e3%83%a9%e3%83%bc"><span>あいつはギャンブラー</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e5%90%8d%e3%81%8c"><span>名が</span></a><a href="https://takoboto.jp/?q=%e9%80%9a%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>通っている。</span></a>
+    segments:
+      - text: あいつはギャンブラー
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 名が通っている。
+        grammar_highlight: false
+    reading: あいつはとしてながかよっている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: That man is notorious as a gambler.
+        html: |-
+          <span>That man is notorious as a gambler. </span>
+        segments:
+          - text: 'That man is notorious as a gambler. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5872
+    position: 12
+    japanese: あいつは海千山千だから、取り引き相手としてはかなり手強いぞ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%84%e3%81%a4%e3%81%af"><span>あいつは</span></a><a href="https://takoboto.jp/?q=%e6%b5%b7%e5%8d%83%e5%b1%b1%e5%8d%83%e3%81%a0%e3%81%8b%e3%82%89%e3%80%81"><span>海千山千だから、</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%82%8a"><span>取り</span></a><a href="https://takoboto.jp/?q=%e5%bc%95%e3%81%8d"><span>引き</span></a><a href="https://takoboto.jp/?q=%e7%9b%b8%e6%89%8b"><span>相手</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%8b%e3%81%aa%e3%82%8a"><span>はかなり</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e5%bc%b7%e3%81%84%e3%81%9e%e3%80%82"><span>手強いぞ。</span></a>
+    segments:
+      - text: あいつは海千山千だから、取り引き相手
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: はかなり手強いぞ。
+        grammar_highlight: false
+    reading: あいつはうみせんやませんだから、とりひきあいてとしてはかなりてづよいぞ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: All those tricks he's got up his sleeve make him a formidable client.
+        html: |-
+          <span>All those tricks he's got up his sleeve make him a formidable client. </span>
+        segments:
+          - text: 'All those tricks he''s got up his sleeve make him a formidable client. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5873
+    position: 13
+    japanese: あなたがばか者のように振る舞えば、ばか者として扱わなければならない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e3%81%b0%e3%81%8b"><span>あなたがばか</span></a><a href="https://takoboto.jp/?q=%e8%80%85%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab"><span>者のように</span></a><a href="https://takoboto.jp/?q=%e6%8c%af%e3%82%8b"><span>振る</span></a><a href="https://takoboto.jp/?q=%e8%88%9e%e3%81%88%e3%81%b0%e3%80%81%e3%81%b0%e3%81%8b"><span>舞えば、ばか</span></a><a href="https://takoboto.jp/?q=%e8%80%85"><span>者</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e6%89%b1%e3%82%8f%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>扱わなければならない。</span></a>
+    segments:
+      - text: あなたがばか者のように振る舞えば、ばか者
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 扱わなければならない。
+        grammar_highlight: false
+    reading: あなたがばかしゃのようにふるまえば、ばかしゃとしてあつかわなければならない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: If you act like a fool, you must be treated as such.
+        html: |-
+          <span>If you act like a fool, you must be treated as such. </span>
+        segments:
+          - text: 'If you act like a fool, you must be treated as such. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5874
+    position: 14
+    japanese: あなたの解答には私たちとしてはまったく不満だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>あなたの</span></a><a href="https://takoboto.jp/?q=%e8%a7%a3%e7%ad%94%e3%81%ab%e3%81%af"><span>解答には</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%9f%e3%81%a1"><span>私たち</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%be%e3%81%a3%e3%81%9f%e3%81%8f"><span>はまったく</span></a><a href="https://takoboto.jp/?q=%e4%b8%8d%e6%ba%80%e3%81%a0%e3%80%82"><span>不満だ。</span></a>
+    segments:
+      - text: あなたの解答には私たち
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: はまったく不満だ。
+        grammar_highlight: false
+    reading: あなたのかいとうにはわたしたちとしてはまったくふまんだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Your answer is anything but satisfactory to us.
+        html: |-
+          <span>Your answer is anything but satisfactory to us. </span>
+        segments:
+          - text: 'Your answer is anything but satisfactory to us. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5875
+    position: 15
+    japanese: あなたの言うことは認めるとしても、私はそれでもその計画には反対だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>あなたの</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%93%e3%81%a8%e3%81%af"><span>言うことは</span></a><a href="https://takoboto.jp/?q=%e8%aa%8d%e3%82%81%e3%82%8b"><span>認める</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%80%81"><span>も、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%9d%e3%82%8c%e3%81%a7%e3%82%82%e3%81%9d%e3%81%ae"><span>私はそれでもその</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%81%ab%e3%81%af"><span>計画には</span></a><a href="https://takoboto.jp/?q=%e5%8f%8d%e5%af%be%e3%81%a0%e3%80%82"><span>反対だ。</span></a>
+    segments:
+      - text: あなたの言うことは認める
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: も、私はそれでもその計画には反対だ。
+        grammar_highlight: false
+    reading: あなたのいうことはみとめるとしても、わたしはそれでもそのけいかくにははんたいだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Accepting what you say, I'm still against the project.
+        html: |-
+          <span>Accepting what you say, I'm still against the project. </span>
+        segments:
+          - text: 'Accepting what you say, I''m still against the project. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5876
+    position: 16
+    japanese: あなたの言うとおりだとしても、私達はまだあなたの計画に賛成できない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>あなたの</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86%e3%81%a8%e3%81%8a%e3%82%8a%e3%81%a0"><span>言うとおりだ</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%80%81"><span>も、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e9%81%94%e3%81%af%e3%81%be%e3%81%a0%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>私達はまだあなたの</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%81%ab"><span>計画に</span></a><a href="https://takoboto.jp/?q=%e8%b3%9b%e6%88%90%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%82"><span>賛成できない。</span></a>
+    segments:
+      - text: あなたの言うとおりだ
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: も、私達はまだあなたの計画に賛成できない。
+        grammar_highlight: false
+    reading: あなたのいうとおりだとしても、わたしたちはまだあなたのけいかくにさんせいできない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Granting that you are right, we still can't approve of your plan.
+        html: |-
+          <span>Granting that you are right, we still can't approve of your plan. </span>
+        segments:
+          - text: 'Granting that you are right, we still can''t approve of your plan. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5877
+    position: 17
+    japanese: あなたは初心者としてはテニスがうまい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e5%88%9d%e5%bf%83%e8%80%85"><span>初心者</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%83%86%e3%83%8b%e3%82%b9%e3%81%8c%e3%81%86%e3%81%be%e3%81%84%e3%80%82"><span>はテニスがうまい。</span></a>
+    segments:
+      - text: あなたは初心者
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: はテニスがうまい。
+        grammar_highlight: false
+    reading: あなたはしょしんしゃとしてはテニスがうまい。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You are a good tennis player, as beginners go.
+        html: |-
+          <span>You are a good tennis player, as beginners go. </span>
+        segments:
+          - text: 'You are a good tennis player, as beginners go. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5878
+    position: 18
+    japanese: けんは早起きを習慣としている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%91%e3%82%93%e3%81%af"><span>けんは</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e8%b5%b7%e3%81%8d%e3%82%92"><span>早起きを</span></a><a href="https://takoboto.jp/?q=%e7%bf%92%e6%85%a3"><span>習慣</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%82%8b%e3%80%82"><span>いる。</span></a>
+    segments:
+      - text: けんは早起きを習慣
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: いる。
+        grammar_highlight: false
+    reading: けんははやおきをしゅうかんとしている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Ken gets up early, as a rule.
+        html: |-
+          <span>Ken gets up early, as a rule. </span>
+        segments:
+          - text: 'Ken gets up early, as a rule. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5879
+    position: 19
+    japanese: ここが彼女が秘書として働いている所です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%8c"><span>ここが</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c"><span>彼女が</span></a><a href="https://takoboto.jp/?q=%e7%a7%98%e6%9b%b8"><span>秘書</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b"><span>働いている</span></a><a href="https://takoboto.jp/?q=%e6%89%80%e3%81%a7%e3%81%99%e3%80%82"><span>所です。</span></a>
+    segments:
+      - text: ここが彼女が秘書
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 働いている所です。
+        grammar_highlight: false
+    reading: ここがかのじょがひしょとしてはたらいているところです。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: This is the place where she works as a secretary.
+        html: |-
+          <span>This is the place where she works </span><strong>as </strong><span>a secretary. </span>
+        segments:
+          - text: 'This is the place where she works '
+            grammar_highlight: false
+          - text: 'as '
+            grammar_highlight: true
+          - text: 'a secretary. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5880
+    position: 20
+    japanese: あなたは芸術家としての無限の可能性を秘めている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e8%8a%b8%e8%a1%93%e5%ae%b6"><span>芸術家</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6%e3%81%ae"><strong>としての</strong></a><a href="https://takoboto.jp/?q=%e7%84%a1%e9%99%90%e3%81%ae"><span>無限の</span></a><a href="https://takoboto.jp/?q=%e5%8f%af%e8%83%bd%e6%80%a7%e3%82%92"><span>可能性を</span></a><a href="https://takoboto.jp/?q=%e7%a7%98%e3%82%81%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>秘めている。</span></a>
+    segments:
+      - text: あなたは芸術家
+        grammar_highlight: false
+      - text: としての
+        grammar_highlight: true
+      - text: 無限の可能性を秘めている。
+        grammar_highlight: false
+    reading: あなたはげいじゅつかとしてのむげんのかのうせいをひめている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You have infinite possibilities as an artist.
+        html: |-
+          <span>You have infinite possibilities </span><strong>as an </strong><span>artist. </span>
+        segments:
+          - text: 'You have infinite possibilities '
+            grammar_highlight: false
+          - text: 'as an '
+            grammar_highlight: true
+          - text: 'artist. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5881
+    position: 21
+    japanese: このような（子供の）態度は、自分たちがある程度独立していることを示そうとしての結果なのである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa"><span>このような</span></a><a href="https://takoboto.jp/?q=%ef%bc%88%e5%ad%90%e4%be%9b%e3%81%ae"><span>（子供の</span></a><a href="https://takoboto.jp/?q=%ef%bc%89%e6%85%8b%e5%ba%a6%e3%81%af%e3%80%81"><span>）態度は、</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%9f%e3%81%a1%e3%81%8c%e3%81%82%e3%82%8b"><span>自分たちがある</span></a><a href="https://takoboto.jp/?q=%e7%a8%8b%e5%ba%a6%e7%8b%ac%e7%ab%8b%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%93%e3%81%a8%e3%82%92"><span>程度独立していることを</span></a><a href="https://takoboto.jp/?q=%e7%a4%ba%e3%81%9d%e3%81%86"><span>示そう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e7%b5%90%e6%9e%9c%e3%81%aa%e3%81%ae%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>結果なのである。</span></a>
+    segments:
+      - text: このような（子供の）態度は、自分たちがある程度独立していることを示そう
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: の結果なのである。
+        grammar_highlight: false
+    reading: このような（こどもの）たいどは、じぶんたちがあるていどどくりつしていることをしめそうとしてのけっかなのである。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: This is because they are trying to prove they are somewhat independent.
+        html: |-
+          <span>This is because they are trying to prove they are somewhat independent. </span>
+        segments:
+          - text: 'This is because they are trying to prove they are somewhat independent. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5882
+    position: 22
+    japanese: この国ではイデオロギーや宗教が人としての人格形成に役立つ例があまりに少ない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%9b%bd%e3%81%a7%e3%81%af%e3%82%a4%e3%83%87%e3%82%aa%e3%83%ad%e3%82%ae%e3%83%bc%e3%82%84"><span>国ではイデオロギーや</span></a><a href="https://takoboto.jp/?q=%e5%ae%97%e6%95%99%e3%81%8c"><span>宗教が</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba"><span>人</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e6%a0%bc%e5%bd%a2%e6%88%90%e3%81%ab"><span>人格形成に</span></a><a href="https://takoboto.jp/?q=%e5%bd%b9%e7%ab%8b%e3%81%a4"><span>役立つ</span></a><a href="https://takoboto.jp/?q=%e4%be%8b%e3%81%8c%e3%81%82%e3%81%be%e3%82%8a%e3%81%ab"><span>例があまりに</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%aa%e3%81%84%e3%80%82"><span>少ない。</span></a>
+    segments:
+      - text: この国ではイデオロギーや宗教が人
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: の人格形成に役立つ例があまりに少ない。
+        grammar_highlight: false
+    reading: このくにではイデオロギーやしゅうきょうがひととしてのじんかくけいせいにやくだつれいがあまりにすくない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: |-
+          The ideology and the religion are little and a useful example for the personality forming as the person is too few in this country.
+        html: |-
+          <span>The ideology and the religion are little and a useful example for the personality forming as the person is too few in this country. </span>
+        segments:
+          - text: "The ideology and the religion are little and a useful example for the personality forming as the person is too few in this country. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5883
+    position: 23
+    japanese: そのコンサート旅行が成功したので彼女の歌手としての名声は固まった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88"><span>そのコンサート</span></a><a href="https://takoboto.jp/?q=%e6%97%85%e8%a1%8c%e3%81%8c"><span>旅行が</span></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%97%e3%81%9f%e3%81%ae%e3%81%a7"><span>成功したので</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae"><span>彼女の</span></a><a href="https://takoboto.jp/?q=%e6%ad%8c%e6%89%8b"><span>歌手</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e5%90%8d%e5%a3%b0%e3%81%af"><span>名声は</span></a><a href="https://takoboto.jp/?q=%e5%9b%ba%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>固まった。</span></a>
+    segments:
+      - text: そのコンサート旅行が成功したので彼女の歌手
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: の名声は固まった。
+        grammar_highlight: false
+    reading: そのコンサートりょこうがせいこうしたのでかのじょのかしゅとしてのめいせいはかたまった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The successful concert tour established her reputation as a singer.
+        html: |-
+          <span>The successful concert tour established her reputation as a singer. </span>
+        segments:
+          - text: 'The successful concert tour established her reputation as a singer. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5884
+    position: 24
+    japanese: その会社はすでにロボットメーカーとしての名声を確立した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%af%e3%81%99%e3%81%a7%e3%81%ab%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc"><span>会社はすでにロボットメーカー</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e5%90%8d%e5%a3%b0%e3%82%92"><span>名声を</span></a><a href="https://takoboto.jp/?q=%e7%a2%ba%e7%ab%8b%e3%81%97%e3%81%9f%e3%80%82"><span>確立した。</span></a>
+    segments:
+      - text: その会社はすでにロボットメーカー
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: の名声を確立した。
+        grammar_highlight: false
+    reading: そのかいしゃはすでにロボットメーカーとしてのめいせいをかくりつした。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The company has already established its fame as a robot manufacturing company.
+        html: |-
+          <span>The company has already established its fame as a robot manufacturing company. </span>
+        segments:
+          - text: 'The company has already established its fame as a robot manufacturing company. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5885
+    position: 25
+    japanese: その結果として、大切な躾や社会道徳の教育がおろそかにされてきたことは否めない。多くの親自身が、子供の勉強を優先するあまり、他人への思いやりなど社会の一員としての責任を忘れがちになっているのも事実である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e7%b5%90%e6%9e%9c"><span>結果</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%88%87%e3%81%aa"><span>大切な</span></a><a href="https://takoboto.jp/?q=%e8%ba%be%e3%82%84"><span>躾や</span></a><a href="https://takoboto.jp/?q=%e7%a4%be%e4%bc%9a%e9%81%93%e5%be%b3%e3%81%ae"><span>社会道徳の</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e8%82%b2%e3%81%8c%e3%81%8a%e3%82%8d%e3%81%9d%e3%81%8b%e3%81%ab%e3%81%95%e3%82%8c%e3%81%a6%e3%81%8d%e3%81%9f%e3%81%93%e3%81%a8%e3%81%af"><span>教育がおろそかにされてきたことは</span></a><a href="https://takoboto.jp/?q=%e5%90%a6%e3%82%81%e3%81%aa%e3%81%84%e3%80%82"><span>否めない。</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%8f%e3%81%ae"><span>多くの</span></a><a href="https://takoboto.jp/?q=%e8%a6%aa%e8%87%aa%e8%ba%ab%e3%81%8c%e3%80%81"><span>親自身が、</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%ae"><span>子供の</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%82%92"><span>勉強を</span></a><a href="https://takoboto.jp/?q=%e5%84%aa%e5%85%88%e3%81%99%e3%82%8b%e3%81%82%e3%81%be%e3%82%8a%e3%80%81"><span>優先するあまり、</span></a><a href="https://takoboto.jp/?q=%e4%bb%96%e4%ba%ba%e3%81%b8%e3%81%ae"><span>他人への</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84%e3%82%84%e3%82%8a%e3%81%aa%e3%81%a9"><span>思いやりなど</span></a><a href="https://takoboto.jp/?q=%e7%a4%be%e4%bc%9a%e3%81%ae"><span>社会の</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%93%a1%e3%81%a8%e3%81%97%e3%81%a6%e3%81%ae"><span>一員としての</span></a><a href="https://takoboto.jp/?q=%e8%b2%ac%e4%bb%bb%e3%82%92"><span>責任を</span></a><a href="https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%81%8c%e3%81%a1%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%82%82"><span>忘れがちになっているのも</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e5%ae%9f%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>事実である。</span></a>
+    segments:
+      - text: その結果
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 、大切な躾や社会道徳の教育がおろそかにされてきたことは否めない。多くの親自身が、子供の勉強を優先するあまり、他人への思いやりなど社会の一員としての責任を忘れがちになっているのも事実である。
+        grammar_highlight: false
+    reading: そのけっかとして、たいせつなしつけやしゃかいどうとくのきょういくがおろそかにされてきたことはいなめない。おおくのしんじしんが、こどものべんきょうをゆうせんするあまり、たにんへのおもいやりなどしゃかいのいちいんとしてのせきにんをわすれがちになっているのもじじつである。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: |-
+          By placing excessive importance on scholastic achievement, many parents have forgotten such basic social courtesies as consideration for others.
+        html: |-
+          <span>By placing excessive importance on scholastic achievement, many parents have forgotten such basic social courtesies as consideration for others. </span>
+        segments:
+          - text: "By placing excessive importance on scholastic achievement, many parents have forgotten such basic social courtesies as consideration for others. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5886
+    position: 26
+    japanese: ジャーナリストとしての彼の経歴は優れた実績でいっぱいだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%b9%e3%83%88"><span>ジャーナリスト</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e6%ad%b4%e3%81%af"><span>経歴は</span></a><a href="https://takoboto.jp/?q=%e5%84%aa%e3%82%8c%e3%81%9f"><span>優れた</span></a><a href="https://takoboto.jp/?q=%e5%ae%9f%e7%b8%be%e3%81%a7%e3%81%84%e3%81%a3%e3%81%b1%e3%81%84%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>実績でいっぱいだった。</span></a>
+    segments:
+      - text: ジャーナリスト
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: の彼の経歴は優れた実績でいっぱいだった。
+        grammar_highlight: false
+    reading: ジャーナリストとしてのかれのけいれきはすぐれたじっせきでいっぱいだった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: His career as a journalist was full of distinguished achievements.
+        html: |-
+          <span>His career as a journalist was full of distinguished achievements. </span>
+        segments:
+          - text: 'His career as a journalist was full of distinguished achievements. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5887
+    position: 27
+    japanese: フローレンス・ナイチンゲールは専門職としての看護を始めた人として有名である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%95%e3%83%ad%e3%83%bc%e3%83%ac%e3%83%b3%e3%82%b9%e3%83%bb%e3%83%8a%e3%82%a4%e3%83%81%e3%83%b3%e3%82%b2%e3%83%bc%e3%83%ab%e3%81%af"><span>フローレンス・ナイチンゲールは</span></a><a href="https://takoboto.jp/?q=%e5%b0%82%e9%96%80%e8%81%b7"><span>専門職</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e7%9c%8b%e8%ad%b7%e3%82%92"><span>看護を</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><span>始めた</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%a8%e3%81%97%e3%81%a6"><span>人として</span></a><a href="https://takoboto.jp/?q=%e6%9c%89%e5%90%8d%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>有名である。</span></a>
+    segments:
+      - text: フローレンス・ナイチンゲールは専門職
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: の看護を始めた人として有名である。
+        grammar_highlight: false
+    reading: はせんもんしょくとしてのかんごをはじめたひととしてゆうめいである。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Florence Nightingale is famous as the woman who began professional nursing.
+        html: |-
+          <span>Florence Nightingale is famous as the woman who began professional nursing. </span>
+        segments:
+          - text: 'Florence Nightingale is famous as the woman who began professional nursing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8491
+    position: 28
+    japanese: 彼女は彼の手伝いさん兼料理人として働いた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e4%bc%9d%e3%81%84%e3%81%95%e3%82%93"><span>手伝いさん</span></a><a href="https://takoboto.jp/?q=%e5%85%bc%e6%96%99%e7%90%86%e4%ba%ba"><span>兼料理人</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%84%e3%81%9f%e3%80%82"><span>働いた。</span></a>
+    segments:
+      - text: 彼女は彼の手伝いさん兼料理人
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 働いた。
+        grammar_highlight: false
+    reading: かのじょはかれのてつだいさんけんりょうりじんとしてはたらいた。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: She worked as a maid and cook for him.
+        html: |-
+          <span>She worked as a maid and cook for him. </span>
+        segments:
+          - text: 'She worked as a maid and cook for him. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8492
+    position: 29
+    japanese: あなたの医者として、食事の量を減らすように忠告します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>あなたの</span></a><a href="https://takoboto.jp/?q=%e5%8c%bb%e8%80%85"><span>医者</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e4%ba%8b%e3%81%ae"><span>食事の</span></a><a href="https://takoboto.jp/?q=%e9%87%8f%e3%82%92"><span>量を</span></a><a href="https://takoboto.jp/?q=%e6%b8%9b%e3%82%89%e3%81%99%e3%82%88%e3%81%86%e3%81%ab"><span>減らすように</span></a><a href="https://takoboto.jp/?q=%e5%bf%a0%e5%91%8a%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>忠告します。</span></a>
+    segments:
+      - text: あなたの医者
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 、食事の量を減らすように忠告します。
+        grammar_highlight: false
+    reading: あなたのいしゃとして、しょくじのりょうをへらすようにちゅうこくします。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: As your doctor, I advise you to eat less.
+        html: |-
+          <span>As your doctor, I advise you to eat less. </span>
+        segments:
+          - text: 'As your doctor, I advise you to eat less. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8493
+    position: 30
+    japanese: 私はその報告を信頼できるものとして認めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%9d%e3%81%ae"><span>私はその</span></a><a href="https://takoboto.jp/?q=%e5%a0%b1%e5%91%8a%e3%82%92"><span>報告を</span></a><a href="https://takoboto.jp/?q=%e4%bf%a1%e9%a0%bc%e3%81%a7%e3%81%8d%e3%82%8b%e3%82%82%e3%81%ae"><span>信頼できるもの</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e8%aa%8d%e3%82%81%e3%81%9f%e3%80%82"><span>認めた。</span></a>
+    segments:
+      - text: 私はその報告を信頼できるもの
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 認めた。
+        grammar_highlight: false
+    reading: わたしはそのほうこくをしんらいできるものとしてみとめた。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I accepted the report as trustworthy.
+        html: |-
+          <span>I accepted the report as trustworthy. </span>
+        segments:
+          - text: 'I accepted the report as trustworthy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8494
+    position: 31
+    japanese: その本お代金として８００円払った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%81%8a"><span>本お</span></a><a href="https://takoboto.jp/?q=%e4%bb%a3%e9%87%91"><span>代金</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%ef%bc%98%ef%bc%90%ef%bc%90%e5%86%86%e6%89%95%e3%81%a3%e3%81%9f%e3%80%82"><span>８００円払った。</span></a>
+    segments:
+      - text: その本お代金
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: ８００円払った。
+        grammar_highlight: false
+    reading: そのほんおだいきんとして８００えんはらった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I paid eight hundred yen for the book.
+        html: |-
+          <span>I paid eight hundred yen for the book. </span>
+        segments:
+          - text: 'I paid eight hundred yen for the book. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8495
+    position: 32
+    japanese: 撃ｪどこへ行ってしまったのか誰が一人として知らない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%92%83%ef%bd%aa%e3%81%a9%e3%81%93%e3%81%b8"><span>撃ｪどこへ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%8b"><span>行ってしまったのか</span></a><a href="https://takoboto.jp/?q=%e8%aa%b0%e3%81%8c"><span>誰が</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e4%ba%ba"><span>一人</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>知らない。</span></a>
+    segments:
+      - text: 撃ｪどこへ行ってしまったのか誰が一人
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 知らない。
+        grammar_highlight: false
+    reading: どこへいってしまったのかだれがいちにんとしてしらない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Nobody knows where Kei has gone.
+        html: |-
+          <span>Nobody knows where Kei has gone. </span>
+        segments:
+          - text: 'Nobody knows where Kei has gone. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8496
+    position: 33
+    japanese: 当選されたとして、まず何がしたいですか？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%93%e9%81%b8%e3%81%95%e3%82%8c%e3%81%9f"><span>当選された</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%be%e3%81%9a"><span>、まず</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8c%e3%81%97%e3%81%9f%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b"><span>何がしたいですか</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: 当選された
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 、まず何がしたいですか？
+        grammar_highlight: false
+    reading: とうせんされたとして、まずなにがしたいですか？
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Suppose you are elected, what would you like to do first?
+        html: |-
+          <span>Suppose you are elected, what would you like to do first? </span>
+        segments:
+          - text: 'Suppose you are elected, what would you like to do first? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8497
+    position: 34
+    japanese: 提案は時期尚早だとして却下された。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%8f%90%e6%a1%88%e3%81%af"><span>提案は</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e6%9c%9f%e5%b0%9a%e6%97%a9%e3%81%a0"><span>時期尚早だ</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e5%8d%b4%e4%b8%8b%e3%81%95%e3%82%8c%e3%81%9f%e3%80%82"><span>却下された。</span></a>
+    segments:
+      - text: 提案は時期尚早だ
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: 却下された。
+        grammar_highlight: false
+    reading: ていあんはじきしょうそうだとしてきゃっかされた。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: The proposal was turned down because it was premature.
+        html: |-
+          <span>The proposal was turned down because it was premature. </span>
+        segments:
+          - text: 'The proposal was turned down because it was premature. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8772
+    position: 35
+    japanese: これは友達としての意見ではなく、医者としての意見です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af%e5%8f%8b%e9%81%94"><span>これは友達</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e6%84%8f%e8%a6%8b%e3%81%a7%e3%81%af%e3%81%aa%e3%81%8f%e3%80%81%e5%8c%bb%e8%80%85"><span>の意見ではなく、医者</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6"><strong>として</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e6%84%8f%e8%a6%8b%e3%81%a7%e3%81%99%e3%80%82"><span>の意見です。</span></a>
+    segments:
+      - text: これは友達
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: の意見ではなく、医者
+        grammar_highlight: false
+      - text: として
+        grammar_highlight: true
+      - text: の意見です。
+        grammar_highlight: false
+    reading: これはともだちとしてのいけんではなく、いしゃとしてのいけんです。
+    credits_raw: Thushani Weerasekara
+    translations:
+      - language: en
+        text: This is not a friend's opinion, but a doctor's opinion.
+        html: |-
+          <span>This is not a friend's opinion, but a doctor's opinion. </span>
+        segments:
+          - text: 'This is not a friend''s opinion, but a doctor''s opinion. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Noun + として
+    html: Noun + として
+    credits_raw: Tori
+    content_sha256: 24ca86edea4d9f8280b11a450cb4c03be4dc6fb5b42a76f60cf24d9448c97bc5
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: indicates the capacity, role or function of someone or something
+    html: indicates the capacity, role or function of someone or something
+    credits_raw: Tori
+    content_sha256: 401b6d7650884915974a7fae8193cfd76318f93e0f379a59488dac529e95eeb2
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      ＊This is a compound particle which indicates the capacity, role, or function of someone or something.
+
+      FORMATION:
+      Ｎ + として
+
+      ＊Be careful! としては ([toshiteha]) has a different connotation. See that entry for more.
+    html: |-
+      ＊This is a compound particle which indicates the capacity, role, or function of someone or something.<br/><br/>FORMATION:<br/>Ｎ + として<br/><br/>＊Be careful! としては ([toshiteha]) has a different connotation. See that entry for more.
+    credits_raw: rubyhatchet
+    content_sha256: c0ed53cfe730fe0aac9808903bc830e05cd9fe0d97c37d32700701a36fd51970
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      I used to find it hard to understand difference between toshite and nitotte. These examples may clarify
+      sensei [nitotte]... = for the teacher (he was weird)
+      sensei [toshite]... = as a teacher (I came to japan)
+    html: |-
+      I used to find it hard to understand difference between toshite and nitotte. These examples may clarify<br/>sensei [nitotte]... = for the teacher (he was weird)<br/>sensei [toshite]... = as a teacher (I came to japan)
+    credits_raw: dc
+    content_sha256: 703721b4b4e8f40501349e21d52d33c00c357d85a790d69fcef4e7b194528bbf
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: toshite is usually used to explain a role. not "as me" but as something - a teacher, a policeman.
+    html: toshite is usually used to explain a role. not "as me" but as something - a teacher, a policeman.
+    credits_raw: dc
+    content_sha256: d55289a4c43f49e2d9ee0431942c1295a3fe4ab5ce9d42a437ab89f2de956029
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: does anyone know aything about としての ?
+    html: does anyone know aything about としての ?
+    credits_raw: Tori
+    content_sha256: 7407a8b4409a46c0d84370a07505c81c4edcca13babda4bc695592fc7f8d5f05
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      Welcome, Tori. I added some examples. FYI the link above "Search big database..." will find example sentences you can then cut and paste in.
+    html: |-
+      Welcome, Tori. I added some examples. FYI the link above "Search big database..." will find example sentences you can then cut and paste in.
+    credits_raw: dc
+    content_sha256: 9de0fe905fc428691913eb59adf81472562e4d98b8bf16e75cd22efedf3b4383
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      also from #5880 onward are examples of としての .. the の usually seems to be used when preceding a noun. (kind of like a reverse noun clause?)
+    html: |-
+      also from #5880 onward are examples of としての .. the の usually seems to be used when preceding a noun. (kind of like a reverse noun clause?)
+    credits_raw: dc
+    content_sha256: 6c748ed7d3fbcd737eecc59325245d74b59340204cadfcb3ed7572f32515019e
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: Thank you so much for that info
+    html: Thank you so much for that info
+    credits_raw: Tori
+    content_sha256: cc54c0c814f8a026a32f790841f347737f7b0d9c9d501d4165d4993cd38b48f9
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      I have an important question.
+
+      What's the meaning of the usage of 〜を〜として?
+
+      チンさんを先生として、中国語の勉強会を開いた。
+
+      I don't understand the meaning of を. In this case, として should be translated as "as"?
+
+      When and how I use the pattern 〜を〜として or 〜を〜とする or 〜を〜とした?
+    html: |-
+      I have an important question.<br/><br/>What's the meaning of the usage of 〜を〜として?<br/><br/>チンさんを先生として、中国語の勉強会を開いた。<br/><br/>I don't understand the meaning of を. In this case, として should be translated as "as"?<br/><br/>When and how I use the pattern 〜を〜として or 〜を〜とする or 〜を〜とした?
+    credits_raw: king
+    content_sha256: 29fd3546d4ef5b2e77f54c75f40e4312c560291e05204802d596c933c959e583
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: King [として] and [とする] are diffrent grammar points
+    html: King [として] and [とする] are diffrent grammar points
+    credits_raw: tigert
+    content_sha256: 7e86d612c46637b483435f1f3fdc01bba5b83eb3f9253c2e64fdc3664daa1a92
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: 李さん is the same thing as Mister Lee? I just knew this kanji as Sumomo...
+    html: 李さん is the same thing as Mister Lee? I just knew this kanji as Sumomo...
+    credits_raw: karekano
+    content_sha256: b9293e46937ca006c8f6a0b1ade97a08121f0d63e48868bbb2e0353294b1cd20
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 410
+    label: 〜としても
+    source_url: https://takoboto.jp/bunpo/410
+  - target_id: 117
+    label: にとって
+    source_url: https://takoboto.jp/bunpo/117
+  - target_id: 1597
+    label: として
+    source_url: https://takoboto.jp/bunpo/1597
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:56+00:00'
+response_sha256: 861b9f99f6b15146f7da6759781a40f535adb50e2d8e0e4bff214c0c752af1d6
+warnings: []

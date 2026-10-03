@@ -1,0 +1,76 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1634
+label: yasuraka
+title_raw: 安らか ([やすらか] )(yasuraka)
+title: 安らか
+reading: やすらか
+romanized_label: yasuraka
+category: grammar
+jlpt_level_original: '0'
+meaning: peaceful, restful この宿は静かで毎晩安らかに眠れる。
+meaning_example: This inn is quiet so (I) can sleep restfully.
+credits_raw: chadxtiman
+source_url: http://jgram.org/pages/viewOne.php?tagE=yasuraka
+archive_url: https://web.archive.org/web/20150224225737id_/http://jgram.org/pages/viewOne.php?tagE=yasuraka
+archive_timestamp: '20150224225737'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: PJVO4PP3WIXOPW2SZBCFOB6DIWOBL643
+response_sha256: 6e9dff1120f9136861f00391e218dbda97a26d133cfdf0be207a2e29e16c2521
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: This entry should be deleted.
+    html: |-
+      This entry should be deleted.<br/>
+    credits_raw: Bueller_007
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples: []
+comments:
+  - position: 0
+    credits_raw: dc
+    text: this is not grammar?
+    html: this is not grammar?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: yasui
+    label: yasui
+    annotation_text: yasui [yokomiwacook]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=yasui">yasui</a> [<a href="http://jgram.org/pages/contributions.php?author=yokomiwacook">yokomiwacook</a>]
+    credits_raw: yokomiwacook
+sections:
+  - kind: header
+    text: |-
+      安らか ([やすらか] )(yasuraka)
+          Meaning: peaceful, restful この宿は静かで毎晩安らかに眠れる。
+          Example: This inn is quiet so (I) can sleep restfully.
+          JLPT Level: 0
+          Category: grammar
+          Author: chadxtiman
+    html: |-
+      <span>安らか ([やすらか] )(yasuraka)</span><br/>    <span><b>Meaning</b>: peaceful, restful この宿は静かで毎晩安らかに眠れる。</span><br/>    <b>Example</b>: <i>This inn is quiet so (I) can sleep restfully.</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>chadxtiman</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225737'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6232912
+  length: 4926
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 798816edd9bfa1d651b54a9d5b0f0b88ea486bae7823451c7167df1840a895ea

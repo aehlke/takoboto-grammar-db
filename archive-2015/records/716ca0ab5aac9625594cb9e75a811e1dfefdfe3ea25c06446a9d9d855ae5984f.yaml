@@ -1,0 +1,92 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1630
+label: amarino ~ ni
+title_raw: あまりの〜に ([あまりの〜に] )(amarino ~ ni)
+title: あまりの〜に
+reading: あまりの〜に
+romanized_label: amarino ~ ni
+category: grammar
+jlpt_level_original: '0'
+meaning: Due to a condition/state being in excess, a result occurs. 程度が高すぎて、その結果〜。
+meaning_example: Because of its deliciousness, I (inadvertently) ended up overeating (the food).
+credits_raw: Groove
+source_url: http://jgram.org/pages/viewOne.php?tagE=amarino+%7E+ni
+archive_url: https://web.archive.org/web/20150224225932id_/http://jgram.org/pages/viewOne.php?tagE=amarino+%7E+ni
+archive_timestamp: '20150224225932'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: PLER74LLFNIHAOGN6C45FR66DGVOIJVV
+response_sha256: ff2dee2386cea6be93a1fa4a19c65d7b82f4e0bd8338f22a61de92c071573210
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      This grammar is used in conjunction with nouns only, hence the tell-tale の before the noun. The trailing に is also necessary for this grammar, to emphasize the cause-effect relationship between the two clauses it references.
+    html: |-
+      This grammar is used in conjunction with nouns only, hence the tell-tale の before the noun. The trailing に is also necessary for this grammar, to emphasize the cause-effect relationship between the two clauses it references.
+    credits_raw: Groove
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 6544
+    position: 0
+    japanese: あまりのおいしさに、つい食べ過ぎてしまいました。
+    body_text: "あまりのおいしさに、つい食べ過ぎてしまいました。 \n\nDue to \n\t\tits deliciousness, I (inadvertently) ended up overeating (the food)."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあまりのおいしさ\">\n<strong>あまりの</strong>おいしさ<strong>に</strong>、つい食べ過ぎてしまいました。</a> <br/>\n<strong>Due to </strong>\n\t\tits deliciousness, I (inadvertently) ended up overeating (the food)."
+    credits_raw: Groove
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6545
+    position: 1
+    japanese: あまりの激痛に、思わず叫び声をあげた。
+    body_text: "あまりの激痛に、思わず叫び声をあげた。 \n\nDue to \n\t\tthe intense pain, I (instinctively) yelped."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあまりの激痛\">\n<strong>あまりの</strong>激痛<strong>に</strong>、思わず叫び声をあげた。</a> <br/>\n<strong>Due to </strong>\n\t\tthe intense pain, I (instinctively) yelped."
+    credits_raw: Groove
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Groove
+    text: |-
+      I couldn't find this particular grammar on the internet or in my grammar dictionaries, so if this grammar item has been listed in error, please tell me so as it would greatly assist me, and probably others as well. However, I think that it's important enough to be given a reference separate from the existing あまり grammar reference, as its meaning is fairly different to its parent. Thanks.
+    html: |-
+      I couldn't find this particular grammar on the internet or in my grammar dictionaries, so if this grammar item has been listed in error, please tell me so as it would greatly assist me, and probably others as well. However, I think that it's important enough to be given a reference separate from the existing あまり grammar reference, as its meaning is fairly different to its parent. Thanks.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      あまりの〜に ([あまりの〜に] )(amarino ~ ni)
+          Meaning: Due to a condition/state being in excess, a result occurs. 程度が高すぎて、その結果〜。
+          Example: Because of its deliciousness, I (inadvertently) ended up overeating (the food).
+          JLPT Level: 0
+          Category: grammar
+          Author: Groove
+    html: |-
+      <span>あまりの〜に ([あまりの〜に] )(amarino ~ ni)</span><br/>    <span><b>Meaning</b>: Due to a condition/state being in excess, a result occurs. 程度が高すぎて、その結果〜。</span><br/>    <b>Example</b>: <i>Because of its deliciousness, I (inadvertently) ended up overeating (the food).</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Groove</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225932'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 8151584
+  length: 5507
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: baa56169671d2ba6ffebef4ba1ce46b7758e7e3ad08ca6525fb180ea0aad0587

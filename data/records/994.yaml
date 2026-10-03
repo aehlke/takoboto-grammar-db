@@ -1,0 +1,232 @@
+schema_version: 2
+id: 994
+source: takoboto
+source_url: https://takoboto.jp/bunpo/994/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: どうも
+romanized_label: doumo
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: apparently, naturally
+meaning_example: of course she got angry
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_994
+    body_text: |-
+      apparently, naturally 
+       of course she got angry
+    body_html: |-
+      <span>apparently, naturally</span> <br/> <span>of course she got angry</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 1281
+    position: 0
+    japanese: この空模様では、どうも雨になりそうだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e7%a9%ba%e6%a8%a1%e6%a7%98%e3%81%a7%e3%81%af%e3%80%81"><span>空模様では、</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%82%82"><strong>どうも</strong></a><a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%9d%e3%81%86%e3%81%a0%e3%80%82"><span>雨になりそうだ。</span></a>
+    segments:
+      - text: この空模様では、
+        grammar_highlight: false
+      - text: どうも
+        grammar_highlight: true
+      - text: 雨になりそうだ。
+        grammar_highlight: false
+    reading: このそらもようでは、どうもあめになりそうだ。
+    credits_raw: dc, Miki
+    translations:
+      - language: en
+        text: With this kind of sky apparently it will rain
+        html: |-
+          <span>With this kind of sky </span><strong>apparently </strong><span>it will rain </span>
+        segments:
+          - text: 'With this kind of sky '
+            grammar_highlight: false
+          - text: 'apparently '
+            grammar_highlight: true
+          - text: 'it will rain '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1283
+    position: 1
+    japanese: どうもうまくゆかない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%82%82"><strong>どうも</strong></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%be%e3%81%8f%e3%82%86%e3%81%8b%e3%81%aa%e3%81%84%e3%80%82"><span>うまくゆかない。</span></a>
+    segments:
+      - text: どうも
+        grammar_highlight: true
+      - text: うまくゆかない。
+        grammar_highlight: false
+    reading: どうもうまくゆかない。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Whatever I do, it doesn't end up well.
+        html: |-
+          <strong>Whatever </strong><span>I do, it doesn't end up well. </span>
+        segments:
+          - text: 'Whatever '
+            grammar_highlight: true
+          - text: 'I do, it doesn''t end up well. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1286
+    position: 2
+    japanese: どうも済みません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%82%82"><strong>どうも</strong></a><a href="https://takoboto.jp/?q=%e6%b8%88%e3%81%bf%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>済みません。</span></a>
+    segments:
+      - text: どうも
+        grammar_highlight: true
+      - text: 済みません。
+        grammar_highlight: false
+    reading: どうもすみません。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: I feel very bad about it.
+        html: |-
+          <span>I feel </span><strong>very </strong><span>bad about it. </span>
+        segments:
+          - text: 'I feel '
+            grammar_highlight: false
+          - text: 'very '
+            grammar_highlight: true
+          - text: 'bad about it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1287
+    position: 3
+    japanese: どうもよくわからん。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%82%82"><strong>どうも</strong></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%8f%e3%82%8f%e3%81%8b%e3%82%89%e3%82%93%e3%80%82"><span>よくわからん。</span></a>
+    segments:
+      - text: どうも
+        grammar_highlight: true
+      - text: よくわからん。
+        grammar_highlight: false
+    reading: どうもよくわからん。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: It's not very clear and I don't quite understand.
+        html: |-
+          <strong>It's not very clear </strong><span>and I don't quite understand. </span>
+        segments:
+          - text: 'It''s not very clear '
+            grammar_highlight: true
+          - text: 'and I don''t quite understand. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3923
+    position: 4
+    japanese: 「あの人たちは、またストをやるんだろうか」「どうもそうらしいね」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%81%82%e3%81%ae"><span>「あの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%9f%e3%81%a1%e3%81%af%e3%80%81%e3%81%be%e3%81%9f%e3%82%b9%e3%83%88%e3%82%92%e3%82%84%e3%82%8b%e3%82%93%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b%e3%80%8d"><span>人たちは、またストをやるんだろうか」</span></a><a href="https://takoboto.jp/?q=%e3%80%8c"><span>「</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%82%82"><strong>どうも</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86%e3%82%89%e3%81%97%e3%81%84%e3%81%ad%e3%80%8d"><span>そうらしいね」</span></a>
+    segments:
+      - text: 「あの人たちは、またストをやるんだろうか」「
+        grammar_highlight: false
+      - text: どうも
+        grammar_highlight: true
+      - text: そうらしいね」
+        grammar_highlight: false
+    reading: 「あのひとたちは、またストをやるんだろうか」「どうもそうらしいね」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"Will they go on strike again?" "I''m afraid so."'
+        html: |-
+          <span>"Will they go on strike again?" </span><strong>"I'm afraid </strong><span>so." </span>
+        segments:
+          - text: '"Will they go on strike again?" '
+            grammar_highlight: false
+          - text: '"I''m afraid '
+            grammar_highlight: true
+          - text: 'so." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5460
+    position: 5
+    japanese: いやどうも、どうも。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%82%84"><span>いや</span></a><a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%82%82%e3%80%81%e3%81%a9%e3%81%86%e3%82%82"><strong>どうも、どうも</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: いや
+        grammar_highlight: false
+      - text: どうも、どうも
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: いやどうも、どうも。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Well, thank you/sorry/sorry I'm late/good to see you, etc.
+        html: |-
+          <span>Well, </span><strong>thank you/sorry/sorry I'm late/good to see you, etc. </strong>
+        segments:
+          - text: 'Well, '
+            grammar_highlight: false
+          - text: 'thank you/sorry/sorry I''m late/good to see you, etc. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3924
+    position: 6
+    japanese: どうも行く必要はないようです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%82%82"><strong>どうも</strong></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%af%e3%81%aa%e3%81%84%e3%82%88%e3%81%86%e3%81%a7%e3%81%99%e3%80%82"><span>必要はないようです。</span></a>
+    segments:
+      - text: どうも
+        grammar_highlight: true
+      - text: 行く必要はないようです。
+        grammar_highlight: false
+    reading: どうもいくひつようはないようです。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: There seems to be no need to go.
+        html: |-
+          <span>There seems to be no need to go. </span>
+        segments:
+          - text: 'There seems to be no need to go. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      済みません means that one's mind remains unsettled and therefore not 澄む, that is not clear. From 澄む came the concept of 済む meaning "finishied."
+    html: |-
+      済みません means that one's mind remains unsettled and therefore not 澄む, that is not clear. From 澄む came the concept of 済む meaning "finishied."
+    credits_raw: bamboo4
+    content_sha256: b8e57a7f6b0ea2544186c059b4ae77e5bcb9d1fb5185263812bf9a2996fac2d3
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: You can simply say どうも and you can dispense with all other phrases you can think of!
+    html: You can simply say どうも and you can dispense with all other phrases you can think of!
+    credits_raw: bamboo4
+    content_sha256: 1a7b8f0e80629e516532ebf6ce26810be678dc68d0ac89b1eabd08407dfd0683
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 992
+    label: どうやら
+    source_url: https://takoboto.jp/bunpo/992
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:46:05+00:00'
+response_sha256: a1670c185ed0569fe05d5abbdca1c140a7d6e7ab25c0bb3e1f9fa4593b636eb7
+warnings: []

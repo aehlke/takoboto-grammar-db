@@ -1,0 +1,475 @@
+schema_version: 2
+id: 917
+source: takoboto
+source_url: https://takoboto.jp/bunpo/917/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ついでに
+romanized_label: tsuideni
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: while doing A, I had a chance to do B, since doing A anyway, do B
+meaning_example: while I was at my parents,
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_917
+    body_text: |-
+      while doing A, I had a chance to do B, since doing A anyway, do B 
+       while I was at my parents,
+    body_html: |-
+      <span>while doing A, I had a chance to do B, since doing A anyway, do B</span> <br/> <span>while I was at my parents,</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_917
+    body_text: Verb dictionary form+ついでにVerb plain past ~た form+ついでにNoun+の+ついでに
+    body_html: |-
+      <div><div><div>Verb dictionary form</div></div><div><div>+</div><div>ついでに</div></div></div><div><div><div>Verb plain past ~た form</div></div><div><div>+</div><div>ついでに</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>ついでに</div></div></div>
+    credits_raw: null
+formations:
+  - Verb dictionary form + ついでに
+  - Verb plain past ~た form + ついでに
+  - Noun + の + ついでに
+examples:
+  - source_id: 319
+    position: 0
+    japanese: 実家に帰ったついでに昔の学校に行ってみた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ae%9f%e5%ae%b6%e3%81%ab"><span>実家に</span></a><a href="https://takoboto.jp/?q=%e5%b8%b0%e3%81%a3%e3%81%9f"><span>帰った</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab"><strong>ついでに</strong></a><a href="https://takoboto.jp/?q=%e6%98%94%e3%81%ae"><span>昔の</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e6%a0%a1%e3%81%ab"><span>学校に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%e3%80%82"><span>行ってみた。</span></a>
+    segments:
+      - text: 実家に帰った
+        grammar_highlight: false
+      - text: ついでに
+        grammar_highlight: true
+      - text: 昔の学校に行ってみた。
+        grammar_highlight: false
+    reading: じっかにかえったついでにむかしのがっこうにいってみた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: At the time I went back to my hometown, I also took the opportunity to go see my old school.
+        html: |-
+          <strong>At the time </strong><span>I went back to my hometown, </span><strong>I also took the opportunity </strong><span>to go see my old school. </span>
+        segments:
+          - text: 'At the time '
+            grammar_highlight: true
+          - text: 'I went back to my hometown, '
+            grammar_highlight: false
+          - text: 'I also took the opportunity '
+            grammar_highlight: true
+          - text: 'to go see my old school. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1006
+    position: 1
+    japanese: 仕事へ行くついでに、郵便局で手紙を出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%b8"><span>仕事へ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab%e3%80%81"><strong>ついでに、</strong></a><a href="https://takoboto.jp/?q=%e9%83%b5%e4%be%bf%e5%b1%80%e3%81%a7"><span>郵便局で</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%82%92"><span>手紙を</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f"><span>出した</span></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 仕事へ行く
+        grammar_highlight: false
+      - text: ついでに、
+        grammar_highlight: true
+      - text: 郵便局で手紙を出した。
+        grammar_highlight: false
+    reading: しごとへいくついでに、ゆうびんきょくでてがみをだした。
+    credits_raw: d4
+    translations:
+      - language: en
+        text: While on my way to work, I mailed a letter at the post office
+        html: |-
+          <strong>While </strong><span>on my way to work, I mailed a letter at the post office </span>
+        segments:
+          - text: 'While '
+            grammar_highlight: true
+          - text: 'on my way to work, I mailed a letter at the post office '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1124
+    position: 2
+    japanese: 出て行くついでに頼むのは悪いけど、ゴミを捨ててくれる？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%a6"><span>出て</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7"><strong>ついで</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e9%a0%bc%e3%82%80%e3%81%ae%e3%81%af"><span>頼むのは</span></a><a href="https://takoboto.jp/?q=%e6%82%aa%e3%81%84%e3%81%91%e3%81%a9%e3%80%81%e3%82%b4%e3%83%9f%e3%82%92"><span>悪いけど、ゴミを</span></a><a href="https://takoboto.jp/?q=%e6%8d%a8%e3%81%a6%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8b"><span>捨ててくれる</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: 出て行く
+        grammar_highlight: false
+      - text: ついで
+        grammar_highlight: true
+      - text: に頼むのは悪いけど、ゴミを捨ててくれる？
+        grammar_highlight: false
+    reading: でていくついでにたのむのはわるいけど、ゴミをすててくれる？
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: I hate to ask you to do this, but since you are going out anyway, would you get rid of the garbage bag?
+        html: |-
+          <span>I hate to ask you to do this, but since you are going out </span><strong>anyway, </strong><span>would you get rid of the garbage bag? </span>
+        segments:
+          - text: 'I hate to ask you to do this, but since you are going out '
+            grammar_highlight: false
+          - text: 'anyway, '
+            grammar_highlight: true
+          - text: 'would you get rid of the garbage bag? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1163
+    position: 3
+    japanese: パリへ行くついでにロンドンに寄る
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%91%e3%83%aa%e3%81%b8"><span>パリへ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab"><strong>ついでに</strong></a><a href="https://takoboto.jp/?q=%e3%83%ad%e3%83%b3%e3%83%89%e3%83%b3%e3%81%ab"><span>ロンドンに</span></a><a href="https://takoboto.jp/?q=%e5%af%84%e3%82%8b"><span>寄る</span></a>
+    segments:
+      - text: パリへ行く
+        grammar_highlight: false
+      - text: ついでに
+        grammar_highlight: true
+      - text: ロンドンに寄る
+        grammar_highlight: false
+    reading: パリへいくついでにロンドンによる
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Since I am going to go to Paris, anyway, I will also drop by London
+        html: |-
+          <strong>Since </strong><span>I am going to go to Paris, </span><strong>anyway, </strong><span>I will also drop by London </span>
+        segments:
+          - text: 'Since '
+            grammar_highlight: true
+          - text: 'I am going to go to Paris, '
+            grammar_highlight: false
+          - text: 'anyway, '
+            grammar_highlight: true
+          - text: 'I will also drop by London '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6207
+    position: 4
+    japanese: デパートへ行ったついでに、そこで開かれていた展覧会を見た。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%87%e3%83%91%e3%83%bc%e3%83%88%e3%81%b8"><span>デパートへ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f"><span>行った</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab"><strong>ついでに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%81%93%e3%81%a7"><span>、そこで</span></a><a href="https://takoboto.jp/?q=%e9%96%8b%e3%81%8b%e3%82%8c%e3%81%a6%e3%81%84%e3%81%9f"><span>開かれていた</span></a><a href="https://takoboto.jp/?q=%e5%b1%95%e8%a6%a7%e4%bc%9a%e3%82%92"><span>展覧会を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%9f%e3%80%82"><span>見た。</span></a>
+    segments:
+      - text: デパートへ行った
+        grammar_highlight: false
+      - text: ついでに
+        grammar_highlight: true
+      - text: 、そこで開かれていた展覧会を見た。
+        grammar_highlight: false
+    reading: デパートへいったついでに、そこでひらかれていたてんらんかいをみた。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: While out at the department store, I also took the opportunity to see the exhibition being held there.
+        html: |-
+          <span>While out at the department store, I also took the opportunity to see the exhibition being held there. </span>
+        segments:
+          - text: 'While out at the department store, I also took the opportunity to see the exhibition being held there. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6208
+    position: 5
+    japanese: 郵便局へ行くの。それなら、ついでに切手を買ってきてくれない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%83%b5%e4%be%bf%e5%b1%80%e3%81%b8"><span>郵便局へ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f%e3%81%ae%e3%80%82%e3%81%9d%e3%82%8c%e3%81%aa%e3%82%89%e3%80%81"><span>行くの。それなら、</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab"><strong>ついでに</strong></a><a href="https://takoboto.jp/?q=%e5%88%87%e6%89%8b%e3%82%92"><span>切手を</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82"><span>買ってきてくれない。</span></a>
+    segments:
+      - text: 郵便局へ行くの。それなら、
+        grammar_highlight: false
+      - text: ついでに
+        grammar_highlight: true
+      - text: 切手を買ってきてくれない。
+        grammar_highlight: false
+    reading: ゆうびんきょくへいくの。それなら、ついでにきってをかってきてくれない。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: You're going to the post office? If that's the case, while you're at it, won't you go buy me some stamps?
+        html: |-
+          <span>You're going to the post office? If that's the case, while you're at it, won't you go buy me some stamps? </span>
+        segments:
+          - text: 'You''re going to the post office? If that''s the case, while you''re at it, won''t you go buy me some stamps? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6978
+    position: 6
+    japanese: そこに着くついでに、マナさんにお金を返します.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%93%e3%81%ab"><span>そこに</span></a><a href="https://takoboto.jp/?q=%e7%9d%80%e3%81%8f"><span>着く</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab%e3%80%81"><strong>ついでに、</strong></a><a href="https://takoboto.jp/?q=%e3%83%9e%e3%83%8a%e3%81%95%e3%82%93%e3%81%ab%e3%81%8a"><span>マナさんにお</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92"><span>金を</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e3%81%97%e3%81%be%e3%81%99."><span>返します.</span></a>
+    segments:
+      - text: そこに着く
+        grammar_highlight: false
+      - text: ついでに、
+        grammar_highlight: true
+      - text: マナさんにお金を返します.
+        grammar_highlight: false
+    reading: そこにつくついでに、さんにおかねをかえします
+    credits_raw: amenya
+    translations:
+      - language: en
+        text: I will go there and on the same occasion, I will return Mana-san's money.
+        html: |-
+          <span>I will go there and </span><strong>on the same occasion, </strong><span>I will return Mana-san's money. </span>
+        segments:
+          - text: 'I will go there and '
+            grammar_highlight: false
+          - text: 'on the same occasion, '
+            grammar_highlight: true
+          - text: 'I will return Mana-san''s money. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8503
+    position: 7
+    japanese: 彼を迎えに行って、ついでにこの手紙をポストに入れておいて。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%82%92"><span>彼を</span></a><a href="https://takoboto.jp/?q=%e8%bf%8e%e3%81%88%e3%81%ab"><span>迎えに</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%a6%e3%80%81"><span>行って、</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab"><strong>ついでに</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%82%92%e3%83%9d%e3%82%b9%e3%83%88%e3%81%ab"><span>手紙をポストに</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8c%e3%81%a6%e3%81%8a%e3%81%84%e3%81%a6%e3%80%82"><span>入れておいて。</span></a>
+    segments:
+      - text: 彼を迎えに行って、
+        grammar_highlight: false
+      - text: ついでに
+        grammar_highlight: true
+      - text: この手紙をポストに入れておいて。
+        grammar_highlight: false
+    reading: かれをむかえにいって、ついでにこのてがみをポストにいれておいて。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Go and take him home, and while you are about it mail this letter.
+        html: |-
+          <span>Go and take him home, and while you are about it mail this letter. </span>
+        segments:
+          - text: 'Go and take him home, and while you are about it mail this letter. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8504
+    position: 8
+    japanese: 彼は話のついでに自分の最新作に言及した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%ae"><span>話の</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab"><strong>ついでに</strong></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae"><span>自分の</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e6%96%b0%e4%bd%9c%e3%81%ab"><span>最新作に</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e5%8f%8a%e3%81%97%e3%81%9f%e3%80%82"><span>言及した。</span></a>
+    segments:
+      - text: 彼は話の
+        grammar_highlight: false
+      - text: ついでに
+        grammar_highlight: true
+      - text: 自分の最新作に言及した。
+        grammar_highlight: false
+    reading: かれははなしのついでにじぶんのさいしんさくにげんきゅうした。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He mentioned his latest work in passing.
+        html: |-
+          <span>He mentioned his latest work in passing. </span>
+        segments:
+          - text: 'He mentioned his latest work in passing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8505
+    position: 9
+    japanese: 銀行へ行くついでに手紙を出しておこう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%8a%80%e8%a1%8c%e3%81%b8"><span>銀行へ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f"><span>行く</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab"><strong>ついでに</strong></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%82%92"><span>手紙を</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%a6%e3%81%8a%e3%81%93%e3%81%86%e3%80%82"><span>出しておこう。</span></a>
+    segments:
+      - text: 銀行へ行く
+        grammar_highlight: false
+      - text: ついでに
+        grammar_highlight: true
+      - text: 手紙を出しておこう。
+        grammar_highlight: false
+    reading: ぎんこうへいくついでにてがみをだしておこう。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I`m going to send my letter on my way to the bank.
+        html: |-
+          <span>I`m going to send my letter on my way to the bank. </span>
+        segments:
+          - text: 'I`m going to send my letter on my way to the bank. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8506
+    position: 10
+    japanese: ついでに言いますと、彼は食事をしていないと言ってしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab"><strong>ついでに</strong></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%84%e3%81%be%e3%81%99%e3%81%a8%e3%80%81"><span>言いますと、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e4%ba%8b%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%81%a8"><span>食事をしていないと</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>言ってしまった。</span></a>
+    segments:
+      - text: ついでに
+        grammar_highlight: true
+      - text: 言いますと、彼は食事をしていないと言ってしまった。
+        grammar_highlight: false
+    reading: ついでにいいますと、かれはしょくじをしていないといってしまった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He said, incidentally, that he had had no dinner.
+        html: |-
+          <span>He said, incidentally, that he had had no dinner. </span>
+        segments:
+          - text: 'He said, incidentally, that he had had no dinner. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: see [simultaneous-actions-group] for explanations and similar grammar
+    html: see [simultaneous-actions-group] for explanations and similar grammar
+    credits_raw: dc
+    content_sha256: 587e390ab542f5a58de48a970cc7f00b36c4fafe92b6207f68fd108e4e8594dc
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      「Aついでに、B」: A is the main action and B is another action done while peforming A.
+
+      V(dict. form)・(plain past form) + ついでに
+      N + の + ついでに
+    html: |-
+      「Aついでに、B」: A is the main action and B is another action done while peforming A.<br/><br/>V(dict. form)・(plain past form) + ついでに<br/>N + の + ついでに
+    credits_raw: rubyhatchet
+    content_sha256: fe2e72b2087d715937f4ffc28c354defdd9bb9b2e4e0baac48bd6d2b3d055275
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      I might have thought this was usually used for past things, but it can also be used for the future.
+      　パリへ行くついでに、ロンドンに寄る
+       Since I am going to go to Paris, I will also stop by London
+    html: |-
+      I might have thought this was usually used for past things, but it can also be used for the future.<br/>　パリへ行くついでに、ロンドンに寄る<br/> Since I am going to go to Paris, I will also stop by London
+    credits_raw: dc
+    content_sha256: 4c26f9193275a4ca3d3dc45f201b6e33a59ac6d7f7439e935351b8b1402a6485
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: V-plain or V-plainpast + ついでに
+    html: V-plain or V-plainpast + ついでに
+    credits_raw: dc
+    content_sha256: 204871165fb4b58c248d70f05f7ff857184679277d861c5ba92892107b5c02cb
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: ex#1006 From the content, wouldn't it be better to say, 仕事に行く時に、ついでに郵便局で手紙をだした。?
+    html: ex#1006 From the content, wouldn't it be better to say, 仕事に行く時に、ついでに郵便局で手紙をだした。?
+    credits_raw: Miki
+    content_sha256: 3303c5eb97e427c2f0ddb802f1cdda668ecbfc6d6245bbfaa8257cfd3d4b6bda
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: 仕事に行くついでに is a common parlance.
+    html: 仕事に行くついでに is a common parlance.
+    credits_raw: bamboo4
+    content_sha256: a8d16306ae22a62fa2374562d194492743ba9f5f901b6b1a6f4ea4bbe7618154
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: ok
+    html: ok
+    credits_raw: Miki
+    content_sha256: 5afa9b79de05fb63a4f82f329ff3a8cbc6d52363bb496aaeea680c1eab0b3929
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: implies at the same time
+    html: implies at the same time
+    credits_raw: dc
+    content_sha256: 1772a1e6a8f73552cac1a660fddd921974b107e359c1bb1f8aa14f51160fdc4c
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      After doing some Googling, I think it means something close to "While you're at it", but much more flexable (ie, not limited to present or "you").
+      I saw it at the beginning of a sentance. The person requested that someone teach him how a broadcasting system of some sort worked, and the sentance ended. Then the next began with "序でに," and it was requested that a related concept also be explained.
+    html: |-
+      After doing some Googling, I think it means something close to "While you're at it", but much more flexable (ie, not limited to present or "you").<br/>I saw it at the beginning of a sentance. The person requested that someone teach him how a broadcasting system of some sort worked, and the sentance ended. Then the next began with "序でに," and it was requested that a related concept also be explained.
+    credits_raw: LittleFish
+    content_sha256: f788caf45531cae832a942b5884503fad07f49547e25b8b557c31aa693ecd43b
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: this page [simultaneous-actions-group] tries to explain some subtleties of nuance...
+    html: this page [simultaneous-actions-group] tries to explain some subtleties of nuance...
+    credits_raw: dc
+    content_sha256: 73f4fcf6dd118d08d126656837c8e69c71dc1f7a33bdc0e9cc7bc6a1d419759a
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: can you use this as a standalone casual expression to mean "while you're at it...?"
+    html: can you use this as a standalone casual expression to mean "while you're at it...?"
+    credits_raw: Leslie
+    content_sha256: f2de0cbdb32a4e28c354353aee5af9be33fa87acf2df387e8d0d6ef5ea32bd7a
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      I have heard as a standalone expression "あとついでに、〜する". "Oh, while I'm here I'll do 〜". 
+      If example, if you are in a convenience store and you suddenly remember to buy mints. "Ah, while I'm here, I'll buy some mints"
+    html: |-
+      I have heard as a standalone expression "あとついでに、〜する". "Oh, while I'm here I'll do 〜". <br/>If example, if you are in a convenience store and you suddenly remember to buy mints. "Ah, while I'm here, I'll buy some mints"
+    credits_raw: blabby
+    content_sha256: fe6b68a530ca019814cbfeba98f95bd2d1019e2cf5289e9815b68681fd9d81e2
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: 'Is the nuance a bit like the English expression: "killing 2 birds with 1 stone"?'
+    html: 'Is the nuance a bit like the English expression: "killing 2 birds with 1 stone"?'
+    credits_raw: nitrate
+    content_sha256: 770a0cfabef6dee1a7488e0dc51d266c7043e06061b1983cc4514430087efd5a
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      The connection to "two birds with one stone" seems a bit on the weak side to me, but not entirely absent. I think the two birds saying has more to do with deliberately combining two tasks, while ついでに makes the second one more of an afterthought.
+
+      I'd explain AついでにB as, A is the main thing I'm doing, and B wasn't necessarily even in my plans, but doing A makes it convenient to do B, so I might as well do B too.
+    html: |-
+      The connection to "two birds with one stone" seems a bit on the weak side to me, but not entirely absent. I think the two birds saying has more to do with deliberately combining two tasks, while ついでに makes the second one more of an afterthought.<br/><br/>I'd explain AついでにB as, A is the main thing I'm doing, and B wasn't necessarily even in my plans, but doing A makes it convenient to do B, so I might as well do B too.
+    credits_raw: KWhazit
+    content_sha256: 5707d147d0ad85fd30ff951c9aef9fcb44b627b8507b0d7b443dc7640d0102d2
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 901
+    label: きっかけに
+    source_url: https://takoboto.jp/bunpo/901
+  - target_id: 1265
+    label: がてら
+    source_url: https://takoboto.jp/bunpo/1265
+  - target_id: 1355
+    label: 兼ねて
+    source_url: https://takoboto.jp/bunpo/1355
+  - target_id: 918
+    label: を契機に
+    source_url: https://takoboto.jp/bunpo/918
+  - target_id: 554
+    label: からには
+    source_url: https://takoboto.jp/bunpo/554
+  - target_id: 1277
+    label: かたがた(旁)
+    source_url: https://takoboto.jp/bunpo/1277
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:30+00:00'
+response_sha256: cdd397cada39e518a97b8ffd04adf50f91b4d68c70033363b0074a7f47ea6b07
+warnings: []

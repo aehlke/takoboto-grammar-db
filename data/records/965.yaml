@@ -1,0 +1,610 @@
+schema_version: 2
+id: 965
+source: takoboto
+source_url: https://takoboto.jp/bunpo/965/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: だけあって
+romanized_label: dakeatte
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: because, as expected (used for positive things)
+meaning_example: the food was good as expected
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_965
+    body_text: |-
+      because, as expected (used for positive things) 
+       the food was good as expected
+    body_html: |-
+      <span>because, as expected (used for positive things)</span> <br/> <span>the food was good as expected</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 291
+    position: 0
+    japanese: さすが毎日トレーニングしているだけあってすごい体力。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%95%e3%81%99%e3%81%8c"><span>さすが</span></a><a href="https://takoboto.jp/?q=%e6%af%8e%e6%97%a5%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b"><span>毎日トレーニングしている</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6"><strong>だけあって</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%81%94%e3%81%84"><span>すごい</span></a><a href="https://takoboto.jp/?q=%e4%bd%93%e5%8a%9b%e3%80%82"><span>体力。</span></a>
+    segments:
+      - text: さすが毎日トレーニングしている
+        grammar_highlight: false
+      - text: だけあって
+        grammar_highlight: true
+      - text: すごい体力。
+        grammar_highlight: false
+    reading: さすがまいにちトレーニングしているだけあってすごいたいりょく。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Impressive as expected from training every day - amazing strength.
+        html: |-
+          <span>Impressive as expected </span><strong>from </strong><span>training every day - amazing strength. </span>
+        segments:
+          - text: 'Impressive as expected '
+            grammar_highlight: false
+          - text: 'from '
+            grammar_highlight: true
+          - text: 'training every day - amazing strength. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 307
+    position: 1
+    japanese: さすが評判のレストランだけあって料理もサービスもすばらしかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%95%e3%81%99%e3%81%8c"><span>さすが</span></a><a href="https://takoboto.jp/?q=%e8%a9%95%e5%88%a4%e3%81%ae"><span>評判の</span></a><a href="https://takoboto.jp/?q=%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3"><span>レストラン</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6"><strong>だけあって</strong></a><a href="https://takoboto.jp/?q=%e6%96%99%e7%90%86%e3%82%82%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%82%82%e3%81%99%e3%81%b0%e3%82%89%e3%81%97%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>料理もサービスもすばらしかった。</span></a>
+    segments:
+      - text: さすが評判のレストラン
+        grammar_highlight: false
+      - text: だけあって
+        grammar_highlight: true
+      - text: 料理もサービスもすばらしかった。
+        grammar_highlight: false
+    reading: さすがひょうばんのレストランだけあってりょうりもサービスもすばらしかった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: That restaurant has a good reputation, and as expected the food and service was great.
+        html: |-
+          <span>That restaurant has a good reputation, </span><strong>and as expected </strong><span>the food and service was great. </span>
+        segments:
+          - text: 'That restaurant has a good reputation, '
+            grammar_highlight: false
+          - text: 'and as expected '
+            grammar_highlight: true
+          - text: 'the food and service was great. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1196
+    position: 2
+    japanese: 彼はずっと運動していないだけにやっぱり太った
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%9a%e3%81%a3%e3%81%a8"><span>彼はずっと</span></a><a href="https://takoboto.jp/?q=%e9%81%8b%e5%8b%95"><span>運動</span></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84"><span>していない</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%ab"><strong>だけに</strong></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%a3%e3%81%b1%e3%82%8a"><span>やっぱり</span></a><a href="https://takoboto.jp/?q=%e5%a4%aa%e3%81%a3%e3%81%9f"><span>太った</span></a>
+    segments:
+      - text: 彼はずっと運動していない
+        grammar_highlight: false
+      - text: だけに
+        grammar_highlight: true
+      - text: やっぱり太った
+        grammar_highlight: false
+    reading: かれはずっとうんどうしていないだけにやっぱりふとった
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: He didn't do any exercise and as expected got fat
+        html: |-
+          <span>He didn't do any exercise and </span><strong>as expected </strong><span>got fat </span>
+        segments:
+          - text: 'He didn''t do any exercise and '
+            grammar_highlight: false
+          - text: 'as expected '
+            grammar_highlight: true
+          - text: 'got fat '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4439
+    position: 3
+    japanese: さすがに偉大な学者だけあって、彼はその問いに容易に答えた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%95%e3%81%99%e3%81%8c%e3%81%ab"><span>さすがに</span></a><a href="https://takoboto.jp/?q=%e5%81%89%e5%a4%a7%e3%81%aa"><span>偉大な</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e8%80%85"><span>学者</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6"><strong>だけあって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%9d%e3%81%ae"><span>彼はその</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e3%81%84%e3%81%ab"><span>問いに</span></a><a href="https://takoboto.jp/?q=%e5%ae%b9%e6%98%93%e3%81%ab"><span>容易に</span></a><a href="https://takoboto.jp/?q=%e7%ad%94%e3%81%88%e3%81%9f%e3%80%82"><span>答えた。</span></a>
+    segments:
+      - text: さすがに偉大な学者
+        grammar_highlight: false
+      - text: だけあって
+        grammar_highlight: true
+      - text: 、彼はその問いに容易に答えた。
+        grammar_highlight: false
+    reading: さすがにいだいながくしゃだけあって、かれはそのといによういにこたえた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Like the great scholar that he was, he answered the question easily.
+        html: |-
+          <span>Like the great scholar that he was, he answered the question easily. </span>
+        segments:
+          - text: 'Like the great scholar that he was, he answered the question easily. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4440
+    position: 4
+    japanese: 専門家だけあって彼はその分野に詳しい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%b0%82%e9%96%80%e5%ae%b6"><span>専門家</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6"><strong>だけあって</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%9d%e3%81%ae"><span>彼はその</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e9%87%8e%e3%81%ab"><span>分野に</span></a><a href="https://takoboto.jp/?q=%e8%a9%b3%e3%81%97%e3%81%84%e3%80%82"><span>詳しい。</span></a>
+    segments:
+      - text: 専門家
+        grammar_highlight: false
+      - text: だけあって
+        grammar_highlight: true
+      - text: 彼はその分野に詳しい。
+        grammar_highlight: false
+    reading: せんもんかだけあってかれはそのぶんやにくわしい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: As may be expected of an expert, he's well versed in the field.
+        html: |-
+          <span>As may be expected of an expert, he's well versed in the field. </span>
+        segments:
+          - text: 'As may be expected of an expert, he''s well versed in the field. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4441
+    position: 5
+    japanese: 彼はボディビルが趣味というだけあって体がガシッとしている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%83%9c%e3%83%87%e3%82%a3%e3%83%93%e3%83%ab%e3%81%8c"><span>彼はボディビルが</span></a><a href="https://takoboto.jp/?q=%e8%b6%a3%e5%91%b3%e3%81%a8%e3%81%84%e3%81%86"><span>趣味という</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6"><strong>だけあって</strong></a><a href="https://takoboto.jp/?q=%e4%bd%93%e3%81%8c%e3%82%ac%e3%82%b7%e3%83%83%e3%81%a8%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>体がガシッとしている。</span></a>
+    segments:
+      - text: 彼はボディビルが趣味という
+        grammar_highlight: false
+      - text: だけあって
+        grammar_highlight: true
+      - text: 体がガシッとしている。
+        grammar_highlight: false
+    reading: かれはボディビルがしゅみというだけあってからだがとしている。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Bodybuilding is his hobby so he has a very firm tight body with lots of (muscle) definition.
+        html: |-
+          <span>Bodybuilding is his hobby so he has a very firm tight body with lots of (muscle) definition. </span>
+        segments:
+          - text: 'Bodybuilding is his hobby so he has a very firm tight body with lots of (muscle) definition. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5419
+    position: 6
+    japanese: Woody Allenが作った映画だけあって、面白かった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=Woody+Allen%e3%81%8c"><span>Woody Allenが</span></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e3%81%a3%e3%81%9f"><span>作った</span></a><a href="https://takoboto.jp/?q=%e6%98%a0%e7%94%bb"><span>映画</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6"><strong>だけあって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e9%9d%a2%e7%99%bd%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>面白かった。</span></a>
+    segments:
+      - text: Woody Allenが作った映画
+        grammar_highlight: false
+      - text: だけあって
+        grammar_highlight: true
+      - text: 、面白かった。
+        grammar_highlight: false
+    reading: がつくったえいがだけあって、おもしろかった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: As I'd expect from a Woody Allen film, that was really interesting.
+        html: |-
+          <span>As I'd expect from a Woody Allen film, that was really interesting. </span>
+        segments:
+          - text: 'As I''d expect from a Woody Allen film, that was really interesting. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6173
+    position: 7
+    japanese: 彼女は、美術学校を出ただけあって、絵が上手です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e3%80%81"><span>彼女は、</span></a><a href="https://takoboto.jp/?q=%e7%be%8e%e8%a1%93%e5%ad%a6%e6%a0%a1%e3%82%92"><span>美術学校を</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%9f"><span>出た</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6"><strong>だけあって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%b5%b5%e3%81%8c"><span>絵が</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%a7%e3%81%99%e3%80%82"><span>上手です。</span></a>
+    segments:
+      - text: 彼女は、美術学校を出た
+        grammar_highlight: false
+      - text: だけあって
+        grammar_highlight: true
+      - text: 、絵が上手です。
+        grammar_highlight: false
+    reading: かのじょは、びじゅつがっこうをでただけあって、えがじょうずです。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: As expected of a woman who went to art school, she draws well.
+        html: |-
+          <strong>As expected </strong><span>of a woman who went to art school, she draws well. </span>
+        segments:
+          - text: 'As expected '
+            grammar_highlight: true
+          - text: 'of a woman who went to art school, she draws well. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6174
+    position: 8
+    japanese: あの先生は、経験が長いだけあって、授業がわかりやすくておもしろいですね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%af%e3%80%81"><span>先生は、</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e9%a8%93%e3%81%8c"><span>経験が</span></a><a href="https://takoboto.jp/?q=%e9%95%b7%e3%81%84"><span>長い</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6"><strong>だけあって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%8e%88%e6%a5%ad%e3%81%8c%e3%82%8f%e3%81%8b%e3%82%8a%e3%82%84%e3%81%99%e3%81%8f%e3%81%a6%e3%81%8a%e3%82%82%e3%81%97%e3%82%8d%e3%81%84%e3%81%a7%e3%81%99%e3%81%ad%e3%80%82"><span>授業がわかりやすくておもしろいですね。</span></a>
+    segments:
+      - text: あの先生は、経験が長い
+        grammar_highlight: false
+      - text: だけあって
+        grammar_highlight: true
+      - text: 、授業がわかりやすくておもしろいですね。
+        grammar_highlight: false
+    reading: あのせんせいは、けいけんがながいだけあって、じゅぎょうがわかりやすくておもしろいですね。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: As you'd expect of a teacher with lots of experience, his classes are easy to understand and interesting.
+        html: |-
+          <strong>As you'd expect </strong><span>of a teacher with lots of experience, his classes are easy to understand and interesting. </span>
+        segments:
+          - text: 'As you''d expect '
+            grammar_highlight: true
+          - text: 'of a teacher with lots of experience, his classes are easy to understand and interesting. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8710
+    position: 9
+    japanese: 出荷遅れの原因が分かるだけあって、改善の結果も成功になった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%87%ba%e8%8d%b7%e9%81%85%e3%82%8c%e3%81%ae"><span>出荷遅れの</span></a><a href="https://takoboto.jp/?q=%e5%8e%9f%e5%9b%a0%e3%81%8c"><span>原因が</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%8b"><span>分かる</span></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6"><strong>だけあって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%94%b9%e5%96%84%e3%81%ae"><span>改善の</span></a><a href="https://takoboto.jp/?q=%e7%b5%90%e6%9e%9c%e3%82%82"><span>結果も</span></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>成功になった。</span></a>
+    segments:
+      - text: 出荷遅れの原因が分かる
+        grammar_highlight: false
+      - text: だけあって
+        grammar_highlight: true
+      - text: 、改善の結果も成功になった。
+        grammar_highlight: false
+    reading: しゅっかおくれのげんいんがわかるだけあって、かいぜんのけっかもせいこうになった。
+    credits_raw: bayur
+    translations: []
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      This phrase needs a cause and effect. 
+      "cause [dakeatte] effect"
+      "He studied hard [dakeatte] passed the test"
+
+      You cannot use just the result
+      NG: "he [dakeatte] passed the test"
+
+      Very similiar to [sasuga] but that word can be used on its own a little more casually, as in
+      "sasuga Rob-san" = isn't Rob great, after all.
+
+      Works also for negative nuance, as in the "and got fat" example below.
+    html: |-
+      This phrase needs a cause and effect. <br/>"cause [dakeatte] effect"<br/>"He studied hard [dakeatte] passed the test"<br/><br/>You cannot use just the result<br/>NG: "he [dakeatte] passed the test"<br/><br/>Very similiar to [sasuga] but that word can be used on its own a little more casually, as in<br/>"sasuga Rob-san" = isn't Rob great, after all.<br/><br/>Works also for negative nuance, as in the "and got fat" example below.
+    credits_raw: dc
+    content_sha256: 19d467e07b18808119e27ce23ec58cfac966b36751eadd64c61be08da7aa0089
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      だけあって is used for good merits. It should not be used for negative nuances. However, だけに can be used for both good and bad merits.
+
+      Often, さすが(に) is used in conjunction with だけあって as emphasis.
+    html: |-
+      だけあって is used for good merits. It should not be used for negative nuances. However, だけに can be used for both good and bad merits.<br/><br/>Often, さすが(に) is used in conjunction with だけあって as emphasis.
+    credits_raw: rubyhatchet
+    content_sha256: 7899614f3cc891e0c3c2026811e479875cbc2f39e5ecf4a9f20822c55cedf002
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Make it やっぱり太った and I'll accept the last example.
+    html: Make it やっぱり太った and I'll accept the last example.
+    credits_raw: bamboo4
+    content_sha256: e4d3d75e66c6c89a0f5e75cf6b9ddb6de1ea3d06e54176423587e7ed05e25964
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: えっ、you think だけあって is used for negative nuance? They don't have negative nuances.
+    html: えっ、you think だけあって is used for negative nuance? They don't have negative nuances.
+    credits_raw: Miki
+    content_sha256: cb7fd3b83e2b4fef2bb91ab14704e6df22c8ef8eaaf309cf937a894249977f52
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      When you use the examples in a cynical way, the same sentence but different intonations, they can have negative nuances. だけに is the same as well.
+    html: |-
+      When you use the examples in a cynical way, the same sentence but different intonations, they can have negative nuances. だけに is the same as well.
+    credits_raw: Miki
+    content_sha256: dfd47eca8848ce6c39b5e8474a6d7f6c3536a8aa805415f7a32bd3c05f432110
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      > えっ、you think だけあって is used for negative 
+      > nuance? They don't have negative nuances. 
+      No. That's why I asked about "だけに". To see if it was different from "だけあって".
+    html: |-
+      &gt; えっ、you think だけあって is used for negative <br/>&gt; nuance? They don't have negative nuances. <br/>No. That's why I asked about "だけに". To see if it was different from "だけあって".
+    credits_raw: Amatuka
+    content_sha256: d0873549fe9e2d0ab4a5f558a2cfe540fb159a7357988a250348b8531b5b4ce3
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: What I am saying is that the last example is not a good one.
+    html: What I am saying is that the last example is not a good one.
+    credits_raw: bamboo4
+    content_sha256: 80dfce6165662f1b17ea1d5c36d180b6d3701ab8f511b0bc310ea0d43e690785
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      I think the last example is fine. 
+      When you use せいで、nuance would be changed.
+      ずっと運動していないために、（やっぱり）彼は太った。
+      ずっと運動していないせいで、彼は太った。
+    html: |-
+      I think the last example is fine. <br/>When you use せいで、nuance would be changed.<br/>ずっと運動していないために、（やっぱり）彼は太った。<br/>ずっと運動していないせいで、彼は太った。
+    credits_raw: Miki
+    content_sha256: 5ee6037bd16724f0b0a442df1af3b7233fb1ab752ada0615f5cd7a6262c4aa62
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: hmm, so what is the difference in nuance/meaning of these?
+    html: hmm, so what is the difference in nuance/meaning of these?
+    credits_raw: dc
+    content_sha256: 33fdbb3060c06ea746e5362e9e771343585973c8a89285590cafa0620735b981
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      Even though I cannot prove it to you by specific reference (I'm looking for it), It is my gut feeling that だけに calls for a positive result. Thus, "non-exercise - obesity" is not in my mind a positive result. I may be wrong.
+    html: |-
+      Even though I cannot prove it to you by specific reference (I'm looking for it), It is my gut feeling that だけに calls for a positive result. Thus, "non-exercise - obesity" is not in my mind a positive result. I may be wrong.
+    credits_raw: bamboo4
+    content_sha256: f2b64016ab627d5a77faf4a64aa136fa8a1615aab941e1dd1f3f5c1201946bd4
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: おっと、typo. I meant ずっと運動してない_だけに_、（やっぱり）彼は太った。
+    html: おっと、typo. I meant ずっと運動してない_だけに_、（やっぱり）彼は太った。
+    credits_raw: Miki
+    content_sha256: e864cfd226b6cd7adcf3db22ea1d57747dd390b2e1116f9f02374614ee7cc5f2
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      I think our (english speaking) question is whether you can only use this phrase when you expect good things.
+      For example:
+       he fooled around too much, and as expected failed the test
+    html: |-
+      I think our (english speaking) question is whether you can only use this phrase when you expect good things.<br/>For example:<br/> he fooled around too much, and as expected failed the test
+    credits_raw: dc
+    content_sha256: ce9bbe5ee796e7ce98739a53750baa7bda96e53af619450550abcaf952eac933
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      For "sasuga" it definitely seems to have a very positive glowing nuance. People use sasuga just on its own to compliment you. But is dakeatte different?
+    html: |-
+      For "sasuga" it definitely seems to have a very positive glowing nuance. People use sasuga just on its own to compliment you. But is dakeatte different?
+    credits_raw: dc
+    content_sha256: 3deb94e49b24db6e95770def0fa81f3e16e65d37a826e37166d52ae649d48112
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      Kuroshio Publication's 日本語文型辞典's entry on だけに has
+      3) かれらは若いだけに徹夜をしても平気なようだ。
+      which, to me at least, feels negative. Please inform me if otherwise.
+    html: |-
+      Kuroshio Publication's 日本語文型辞典's entry on だけに has<br/>3) かれらは若いだけに徹夜をしても平気なようだ。<br/>which, to me at least, feels negative. Please inform me if otherwise.
+    credits_raw: Koriyama
+    content_sha256: 7259e0bb1cf577c2c338263be779a8cf994cc8eff0a397dce846fe11d56a17e8
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      I would translate that as 
+      they are young, so as expected even after pulling an all nighter they look fine.
+      which doesn't have a negative impression: fine as expected.
+    html: |-
+      I would translate that as <br/>they are young, so as expected even after pulling an all nighter they look fine.<br/>which doesn't have a negative impression: fine as expected.
+    credits_raw: dc
+    content_sha256: 33a0e6a14244ac5a77aa4e8703cc6eed91e455a2549fc901d2eaa3e10d80ead0
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: A negative would be like "as expected, he drank too much"
+    html: A negative would be like "as expected, he drank too much"
+    credits_raw: dc
+    content_sha256: 5ad1b638cc8ca163590d9b51247196f9d9eb3b59ab57cc0884eab541cd153c95
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: |-
+      Which is more like やっぱり.
+      A cynical/sarcastic one might be, "as expected, he managed to finish the race" - where he was saying he would win.
+    html: |-
+      Which is more like やっぱり.<br/>A cynical/sarcastic one might be, "as expected, he managed to finish the race" - where he was saying he would win.
+    credits_raw: dc
+    content_sha256: 872adf9f7de32687befbf2c1dce5971498a4cd10a06855a68d7bbcefbd2da6df
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: Check the last example, regarding getting fat.
+    html: Check the last example, regarding getting fat.
+    credits_raw: dc
+    content_sha256: bc5ae61fd8c378039a2307a21db45c4becf523f796123dafe5f10fa8cf0a3b07
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    source_id: null
+    text: In the last example, instead of だけに I would use せいで. ずっと運動していないせいで太った.
+    html: In the last example, instead of だけに I would use せいで. ずっと運動していないせいで太った.
+    credits_raw: bamboo4
+    content_sha256: 3ebaae8e03a57f00ee83d4efcc8421ebd8dcb703819f2b51873bf32b9f5a799e
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    source_id: null
+    text: Linked to "seida."
+    html: Linked to "seida."
+    credits_raw: bamboo4
+    content_sha256: bc75a58535af8e16c355b20118f23b85181d7fba8768b2b98cb3aa741b0287f5
+    original_created_at: null
+    original_updated_at: null
+  - position: 20
+    source_id: null
+    text: だけあって can be replaced by だけに
+    html: だけあって can be replaced by だけに
+    credits_raw: Miki
+    content_sha256: dab3a4af6c041b70a8c7960ba35ffbe2e7c747e545b152c2286a54df9b541860
+    original_created_at: null
+    original_updated_at: null
+  - position: 21
+    source_id: null
+    text: Can だけに be used for negative nuances as well?
+    html: Can だけに be used for negative nuances as well?
+    credits_raw: Amatuka
+    content_sha256: 82a7f1cdd02fa924f5cb2f20e98ca9827755dc0e665dea69cf08feeb3463ea27
+    original_created_at: null
+    original_updated_at: null
+  - position: 22
+    source_id: null
+    text: |-
+      I found this example in my grammar text, but it doesn't sound so positive.「この間買ったカメラは安いだけあって、すぐ壊れてしまった。」Is my appreciation of Japanese sarcasm lacking?
+    html: |-
+      I found this example in my grammar text, but it doesn't sound so positive.「この間買ったカメラは安いだけあって、すぐ壊れてしまった。」Is my appreciation of Japanese sarcasm lacking?
+    credits_raw: Leslie
+    content_sha256: 930b276a2e354255ff9fc224bbcd6f9cea446bc2eb71e768b1b73fdc07e61e74
+    original_created_at: null
+    original_updated_at: null
+  - position: 23
+    source_id: null
+    text: |-
+      Ｌｅｓｌｉｅさん、you are right, nothing to do with the lack of appreciation of sarcasm. だけにto be precise, means[ exactly because....]It doesn't necesarily to be positive.
+      〜だけに　：
+      〜という理由があるから、普通以上に。。。
+
+      Therefore, I agree with bambooさん, that ex#1196
+      is not quite a good example, coz it is naturally expected that " one grows fat because of not exercising"
+    html: |-
+      Ｌｅｓｌｉｅさん、you are right, nothing to do with the lack of appreciation of sarcasm. だけにto be precise, means[ exactly because....]It doesn't necesarily to be positive.<br/>〜だけに　：<br/>〜という理由があるから、普通以上に。。。<br/><br/>Therefore, I agree with bambooさん, that ex#1196<br/>is not quite a good example, coz it is naturally expected that " one grows fat because of not exercising"
+    credits_raw: 誠
+    content_sha256: 5d0140c91b98c4d366fd117617aa8aa972033fdfe882fc6422f5232e10de01a3
+    original_created_at: null
+    original_updated_at: null
+  - position: 24
+    source_id: null
+    text: |-
+      だけあって＝
+      だけのことはある(put at the end of sentence.)
+    html: |-
+      だけあって＝<br/>だけのことはある(put at the end of sentence.)
+    credits_raw: 誠
+    content_sha256: f4e7e5c6351831ebc1ebc2f078ae63747e7ca677220492f4b9bb6803bcec9373
+    original_created_at: null
+    original_updated_at: null
+  - position: 25
+    source_id: null
+    text: |-
+      すみません、
+      #1196 is fine.
+    html: |-
+      すみません、<br/>#1196 is fine.
+    credits_raw: 誠
+    content_sha256: 37a3f5c5faa36f9367bfa7436dde1fff18416113fb964ef704860fd66ffa06a8
+    original_created_at: null
+    original_updated_at: null
+  - position: 26
+    source_id: null
+    text: Leslieさん, could you please translate your sentence and nuance as you interpreted it? Thanks
+    html: Leslieさん, could you please translate your sentence and nuance as you interpreted it? Thanks
+    credits_raw: xabre24
+    content_sha256: 9a96087af8d5801dfeac37b1cbb1bbc3a790d4a2e1ad4f7675c541b6385b6197
+    original_created_at: null
+    original_updated_at: null
+  - position: 27
+    source_id: null
+    text: |-
+      [この間買ったカメラは安いだけあって、すぐ壊れてしまった。]
+
+      "As could be expected" That cheap camera I bought the other day ended up breaking right away.
+    html: |-
+      [この間買ったカメラは安いだけあって、すぐ壊れてしまった。]<br/><br/>"As could be expected" That cheap camera I bought the other day ended up breaking right away.
+    credits_raw: Pwillig
+    content_sha256: 79aafea22dca97785d005bdf58c5c5f33695ed957fc29d5546ae9b7bf1c9d1c6
+    original_created_at: null
+    original_updated_at: null
+  - position: 28
+    source_id: null
+    text: In my class, we have translated this to mean "precisely because", owing to specificity.
+    html: In my class, we have translated this to mean "precisely because", owing to specificity.
+    credits_raw: MrMackerel
+    content_sha256: 8ccb65ef3d46804edebe12647e78063678027a07f017f34dc194a8fcc5b572e1
+    original_created_at: null
+    original_updated_at: null
+  - position: 29
+    source_id: null
+    text: 'I can''t fully understand ex #1196. Is it "彼は はずっと" or "彼は ずっと"?'
+    html: 'I can''t fully understand ex #1196. Is it "彼は はずっと" or "彼は ずっと"?'
+    credits_raw: karekano
+    content_sha256: 9281ab4c384d8a19c0d50b30485f85ab40263990784d2c10a327723c8399bb4e
+    original_created_at: null
+    original_updated_at: null
+  - position: 30
+    source_id: null
+    text: |-
+      It's 彼はずっと and I fixed it for dc.
+      Actually since your site has だけに as a separate entry, why not move the got fat example over there? It looks out of place here with the rest of the だけあって.
+    html: |-
+      It's 彼はずっと and I fixed it for dc.<br/>Actually since your site has だけに as a separate entry, why not move the got fat example over there? It looks out of place here with the rest of the だけあって.
+    credits_raw: HADAA
+    content_sha256: 1c2c51949da1ccffb7565fe1a6eeae71272cc90061bd7edfa0b0b5ec58b145eb
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 944
+    label: さすが (流石)
+    source_url: https://takoboto.jp/bunpo/944
+  - target_id: 966
+    label: だけに
+    source_url: https://takoboto.jp/bunpo/966
+  - target_id: 1107
+    label: やっぱり（やはり）
+    source_url: https://takoboto.jp/bunpo/1107
+  - target_id: 237
+    label: だけのことはある
+    source_url: https://takoboto.jp/bunpo/237
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:55+00:00'
+response_sha256: ef1d1519c85b6a51ccf30152d4431ca2890709a6b411c773e218747f7c05d731
+warnings: []

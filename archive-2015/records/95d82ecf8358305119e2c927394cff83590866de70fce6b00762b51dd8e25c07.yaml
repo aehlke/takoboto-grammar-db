@@ -1,0 +1,87 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1607
+label: buchouhou
+title_raw: 不調法 or 無調法 [ぶちょうほう] (buchouhou)
+title: 不調法 or 無調法
+reading: ぶちょうほう
+romanized_label: buchouhou
+category: grammar
+jlpt_level_original: '1'
+meaning: A rudeness or blunder, carelessness
+meaning_example: |-
+  (1)ainiku osake ha buchouhou deshite - I must apologize but I don't drink (2) karaoke wo utatte agerareru to ii n desuga, ainiku buchouhou na mono desu.　If I could sing karaoke to you I would but sorry unfortunately I can't.
+credits_raw: kadoka66
+source_url: http://jgram.org/pages/viewOne.php?tagE=buchouhou
+archive_url: https://web.archive.org/web/20150224225937id_/http://jgram.org/pages/viewOne.php?tagE=buchouhou
+archive_timestamp: '20150224225937'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: HPTJPHB2FR2MHOVTCIRX3QPKWDJ6L4GM
+response_sha256: 1e572743c974b580ee6fc72c0fb6801cc8252ab98eb38812772d2f17b47b71c7
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 8646
+    position: 0
+    japanese: 「一杯如何？」「ごめんね。まったく不調法なの」
+    body_text: "「一杯如何？」「ごめんね。まったく不調法なの」\r \n\n\t\tHow about another ? sorry I cant cope with alcohol at all"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ「一杯如何？」「ごめんね。まったく不調法なの」\">\n\t\t\t\t「一杯如何？」「ごめんね。まったく不調法なの」\r<strong></strong><strong></strong></a> <br/>\n\t\tHow about another ? sorry I cant cope with alcohol at all \n\t\t<strong> </strong>"
+    credits_raw: キャプテン
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8647
+    position: 1
+    japanese: 口は不調法だが、腕は確かだ
+    body_text: "口は不調法だが、腕は確かだ \n\n\t\tI am not well spoken but can do a great job"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ口は不調法だが、腕は確かだ\">\n\t\t\t\t口は不調法だが、腕は確かだ<strong></strong><strong></strong></a> <br/>\n\t\tI am not well spoken but can do a great job \n\t\t<strong> </strong>"
+    credits_raw: キャプテン
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: At least, change the heading to "buchouhou" = 無調法.
+    html: |-
+      At least, change the heading to "buchouhou" = 無調法.<br/>
+      <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: kadoka66
+    text: |-
+      Done. No idea why I wrote fu instead of bu perhaps it is cos I did it in a hurry.... :( Although the kanji can be 不調法 as well. According to my native Japanese friend who is also a teacher, either way of writing it is commonly acceptable.
+    html: |-
+      Done. No idea why I wrote fu instead of bu perhaps it is cos I did it in a hurry.... :( Although the kanji can be 不調法 as well. According to my native Japanese friend who is also a teacher, either way of writing it is commonly acceptable.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "不調法 or 無調法 [ぶちょうほう] (buchouhou)\n    Meaning: A rudeness or blunder, carelessness \n    Example: (1)ainiku osake ha buchouhou deshite - I must apologize but I don't drink (2) karaoke wo utatte agerareru to ii n desuga, ainiku buchouhou na mono desu.　If I could sing karaoke to you I would but sorry unfortunately I can't.\n    JLPT Level: 1\n    Category: grammar\n    Author: kadoka66"
+    html: |-
+      <span>不調法 or 無調法 [ぶちょうほう] (buchouhou)</span><br/>    <span><b>Meaning</b>: A rudeness or blunder, carelessness </span><br/>    <b>Example</b>: <i>(1)ainiku osake ha buchouhou deshite - I must apologize but I don't drink (2) karaoke wo utatte agerareru to ii n desuga, ainiku buchouhou na mono desu.　If I could sing karaoke to you I would but sorry unfortunately I can't.</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>kadoka66</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225937'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 8221481
+  length: 5455
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 53517fc8e21fc38b5b8c35acdf6ca70f4bddfc84d3d244e4963cf1eb7f541c83

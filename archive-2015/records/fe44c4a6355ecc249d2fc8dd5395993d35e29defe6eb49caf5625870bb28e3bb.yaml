@@ -1,0 +1,135 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1635
+label: tatsumoride
+title_raw: た形 積もりで [たつもりで] (tatsumoride)
+title: た形 積もりで
+reading: たつもりで
+romanized_label: tatsumoride
+category: grammar
+jlpt_level_original: '2'
+meaning: instead of (hypothetical action)
+meaning_example: 運動したつもりで、歩いて行った。/ Instead of doing exercice, I went walking.
+credits_raw: chadxtiman
+source_url: http://jgram.org/pages/viewOne.php?tagE=tatsumoride
+archive_url: https://web.archive.org/web/20150224225553id_/http://jgram.org/pages/viewOne.php?tagE=tatsumoride
+archive_timestamp: '20150224225553'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: CASKDKRY5CFYDVKLRZZNFWJ2YN2XGVFT
+response_sha256: 1e33326a52b6c9cb03296c6b708fea8dc70e7eb6bde742cc27f3bac11a0ab95e
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      P1た形つもりでP2 have the meaning of an equivalence between the hypothetical clause P1 and the real clause P2 (value, time, effort).
+    html: |-
+      P1た形つもりでP2 have the meaning of an equivalence between the hypothetical clause P1 and the real clause P2 (value, time, effort).
+    credits_raw: 赤毛
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 6837
+    position: 0
+    japanese: ボナスは買いに使ったつもりで銀行にお金を入れた。
+    body_text: "ボナスは買いに使ったつもりで銀行にお金を入れた。 \n\nInstead of \nusing  the bonus pay to buy things, I saved it (in the bank)."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJボナスは買いに使ったつもりで\">\n\t\t\t\tボナスは買いに使った<strong>つもりで</strong><strong></strong>銀行にお金を入れた。</a> <br/>\n<strong>Instead of </strong>\nusing  the bonus pay to buy things, I saved it (in the bank)."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6838
+    position: 1
+    japanese: 運動したつもりで、歩いて行った。
+    body_text: "運動したつもりで、歩いて行った。 \n\nInstead of \ndoing exercise,  I went walking."
+    body_html: |-
+      <a href="http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ運動したつもりで">
+      運動した<strong>つもりで</strong><strong></strong>、歩いて行った。</a> <br/>
+      <strong>Instead of </strong>
+      doing exercise,  I went walking.
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6839
+    position: 2
+    japanese: 特別料金は五百円だから、コーヒーを一杯飲んだつもりで、特急電車に乗った。
+    body_text: "特別料金は五百円だから、コーヒーを一杯飲んだつもりで、特急電車に乗った。 \n\n\t\tBecause the added charge is 500 Yen (the same value than the coffee), \n\t\tinstead of \ndrinking  a coffee cup, I took the limited express train."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ特別料金は五百円だから、コーヒーを一杯飲んだつもりで\">\n\t\t\t\t特別料金は五百円だから、コーヒーを一杯飲んだ<strong>つもりで</strong><strong></strong>、特急電車に乗った。</a> <br/>\n\t\tBecause the added charge is 500 Yen (the same value than the coffee), \n\t\t<strong>instead of </strong>\ndrinking  a coffee cup, I took the limited express train."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6840
+    position: 3
+    japanese: 死んだつもりで決心した。
+    body_text: "死んだつもりで決心した。 \n\n\t\tYou made the decision \n\t\twith the same feeling as if \n\t\tyou were going to die."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ死んだつもりで\">\n死んだ<strong>つもりで</strong><strong></strong>決心した。</a> <br/>\n\t\tYou made the decision \n\t\t<strong>with the same feeling as if </strong>\n\t\tyou <strong>were going</strong> to die."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6841
+    position: 4
+    japanese: 父親になったつもりで学生の世話をした。
+    body_text: "父親になったつもりで学生の世話をした。 \n\n\t\tI attended this student \n\t\tas if \nI were his father."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ父親になったつもりで\">\n父親になった<strong>つもりで</strong><strong></strong>学生の世話をした。</a> <br/>\n\t\tI attended this student \n\t\t<strong>as if </strong>\nI were his father."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6842
+    position: 5
+    japanese: 有名な人になったつもりで、道で写真を撮らせた。
+    body_text: "有名な人になったつもりで、道で写真を撮らせた。 \n\n\t\tThey took a picture of me on the street \n\t\tas if \nI had became famous  ."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ有名な人になったつもりで\">\n有名な人になった<strong>つもりで</strong><strong></strong>、道で写真を撮らせた。</a> <br/>\n\t\tThey took a picture of me on the street \n\t\t<strong>as if </strong>\nI had became famous  ."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: 赤毛
+    text: "I intent to give a second life to that empty entry changing it completly:\n\r\n独立性 [どくりつせい] (dokuritsusei)\n\r\n    Meaning: independence\n\r\n    Example: Our independece have a deeper meaning in our heart.\n\r\n    JLPT Level: 3\n\r\n    Category: flash\n\r\n    Author: chadxtiman\n\r\nNo example."
+    html: "I intent to give a second life to that empty entry changing it completly:<br/>\r\n独立性 [どくりつせい] (dokuritsusei)<br/>\r\n    Meaning: independence<br/>\r\n    Example: Our independece have a deeper meaning in our heart.<br/>\r\n    JLPT Level: 3<br/>\r\n    Category: flash<br/>\r\n    Author: chadxtiman<br/>\r\nNo example."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: zellator
+    text: "The examples are a bit sketchy and need revising by someone with more experience.\n\r\nLike:\n\r\n\"You made it the resolution that you will need to die\" that makes no sense."
+    html: "<br/>\r\nThe examples are a bit sketchy and need revising by someone with more experience.<br/>\r\nLike:<br/>\r\n\"You made it the resolution that you will need to die\" that makes no sense."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "た形 積もりで [たつもりで] (tatsumoride)\n    Meaning: instead of (hypothetical action) \n    Example: 運動したつもりで、歩いて行った。/ Instead of doing exercice, I went walking.\n    JLPT Level: 2\n    Category: grammar\n    Author: chadxtiman"
+    html: |-
+      <span>た形 積もりで [たつもりで] (tatsumoride)</span><br/>    <span><b>Meaning</b>: instead of (hypothetical action) </span><br/>    <b>Example</b>: <i>運動したつもりで、歩いて行った。/ Instead of doing exercice, I went walking.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>chadxtiman</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225553'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3679527
+  length: 5971
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: eeff771a300c17079398c53d613cac64c8763bcb43195f51a60e59128ebfd21f

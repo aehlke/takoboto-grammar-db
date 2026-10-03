@@ -4,10 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "takoboto-grammar-db"
-version = "0.3.0"
+version = "0.4.0"
 description = "Archive Takoboto's public JGram-derived grammar collection"
 requires-python = ">=3.11"
-dependencies = ["beautifulsoup4>=4.12,<5", "httpx>=0.28,<1"]
+dependencies = [
+    "beautifulsoup4>=4.12,<5",
+    "httpx>=0.28,<1",
+    "pyyaml>=6.0.3,<7",
+]
 
 [project.scripts]
 takoboto-grammar = "takoboto_grammar.cli:main"
@@ -16,4 +20,4 @@ takoboto-grammar = "takoboto_grammar.cli:main"
 where = ["src"]
 
 [tool.setuptools.package-data]
-takoboto_grammar = ["schema.sql", "grammar-membership.json"]
+takoboto_grammar = ["schema.sql", "grammar-membership.yaml"]

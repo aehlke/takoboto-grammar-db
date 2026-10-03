@@ -1,0 +1,305 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 124
+label: uede
+title_raw: 上で [うえで] (uede)
+title: 上で
+reading: うえで
+romanized_label: uede
+category: grammar
+jlpt_level_original: '2'
+meaning: upon, after
+meaning_example: I will reply upon careful consideration.
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=uede
+archive_url: https://web.archive.org/web/20150224225346id_/http://jgram.org/pages/viewOne.php?tagE=uede
+archive_timestamp: '20150224225346'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: F7KM3NXYPDXBLUZM5J5DM4TUOQR7HVW2
+response_sha256: e2f8ad1202addf9af0c80793282c6c1a738f37c39031da73d620af7d371ea7bd
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "「Vta＋上で」have the meaning of upon/after. \n\n\n\r\nEx: #\x01\n\r\nよく考えた上でご返事いたします。 \n\r\nI will reply upon careful consideration.  \n\n\n\r\nBut, 「Vru＋上で」have the meaning of when\n\n\n\r\nEx: #\x01 \n\n\n\r\nメールを使ううえで注意すべきマナーって？ \n\n\n\r\n[What is the] Etiquette to pay attention when using email?"
+    html: "「Vta＋上で」have the meaning of <strong>upon/after</strong>. <br/>\n<br/>\r\nEx: <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=uede#\x01\">#\x01</a></b><br/>\r\nよく考えた<strong>上で</strong>ご返事いたします。 <br/>\r\nI will reply <strong>upon</strong> careful consideration.  <br/>\n<br/>\r\nBut, 「Vru＋上で」have the meaning of <strong>when</strong><br/>\n<br/>\r\nEx: <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=uede#\x01\">#\x01</a></b> <br/>\n<br/>\r\nメールを使う<strong>うえで</strong>注意すべきマナーって？ <br/>\n<br/>\r\n[What is the] Etiquette to pay attention <strong>when</strong> using email?"
+    credits_raw: hadv
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "「N + の + 上で」also means upon/after\n\n\n\r\ne.g.\n\r\n内容をご確認の上で、サインをお願いいたします。\n\r\nPlease sign after confirming the details."
+    html: "<br/>\r\n「N + の + 上で」also means <strong>upon/after</strong><br/>\n<br/>\r\ne.g.<br/>\r\n内容を<strong>ご確認の上で</strong>、サインをお願いいたします。<br/>\r\nPlease sign <strong>after confirming</strong> the details.<br/>\n<br/>"
+    credits_raw: mervyn
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 43
+    position: 0
+    japanese: よく考えた上でご返事いたします。
+    body_text: "よく考えた上でご返事いたします。 \n\n\t\tI will reply \n\t\tupon \n\t\tcareful consideration."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJよく考えた上でご返事いたします。\">\nよく考えた<strong>上で</strong>ご返事いたします。<strong></strong></a> <br/>\n\t\tI will reply \n\t\t<strong>upon </strong>\n\t\tcareful consideration."
+    credits_raw: dc
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 392
+    position: 1
+    japanese: メールを使ううえで注意すべきマナーって？
+    body_text: "メールを使ううえで注意すべきマナーって？ \n\n\t\t[What is the] Etiquette to pay attention to \n\t\tupon \n\t\tusing email?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJメールを使ううえで注意すべきマナーって？\">\n\t\t\t\tメールを使う<strong>うえで</strong>注意すべきマナーって？<strong></strong></a> <br/>\n\t\t[What is the] Etiquette to pay attention to \n\t\t<strong>upon </strong>\n\t\tusing email?"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5889
+    position: 2
+    japanese: 手続きの書類は、必要事項をご記入の上、ご返送下さい。
+    body_text: "手続きの書類は、必要事項をご記入の上、ご返送下さい。 \n\n\t\tFor the documents about the procedures, \n\t\tupon/after \n\t\tfilling in the necessary events on them, please send it back here"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ手続きの書類は、必要事項をご記入の上、ご返送下さい。\">\n\t\t\t\t手続きの書類は、必要事項をご記入の<strong>上</strong>、ご返送下さい。<strong></strong></a> <br/>\n\t\tFor the documents about the procedures, \n\t\t<strong>upon/after </strong>\n\t\tfilling in the necessary events on them, please send it back here"
+    credits_raw: 誠
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5890
+    position: 3
+    japanese: みんなで十分話し合った上の結論なのだから、全員従ってほしい。
+    body_text: "みんなで十分話し合った上の結論なのだから、全員従ってほしい。 \n\n\t\tSince this conclusion is made \n\t\tupon/after \n\t\tthe thorough discussion by everyone, (we/I) would like every member to follow it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJみんなで十分話し合った上の結論なのだから、全員従ってほしい。\">\n\t\t\t\tみんなで十分話し合った<strong>上</strong>の結論なのだから、全員従ってほしい。<strong></strong></a> <br/>\n\t\tSince this conclusion is made \n\t\t<strong>upon/after </strong>\n\t\tthe thorough discussion by everyone, (we/I) would like every member to follow it."
+    credits_raw: 誠
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7029
+    position: 4
+    japanese: 家族と相談したうえで、ご返事します。
+    body_text: "家族と相談したうえで、ご返事します。 \n\n\t\tI will give you  my reaction \n\t\tafter \nI have consulted  my family."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ家族と相談したうえで\">\n\t\t\t\t家族と相談した<strong>うえで</strong><strong></strong>、ご返事します。</a> <br/>\n\t\tI will give you  my reaction \n\t\t<strong>after </strong>\nI have consulted  my family."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7030
+    position: 5
+    japanese: アパートは部屋の中を見たうえで借りるかどうか決めたい。
+    body_text: "アパートは部屋の中を見たうえで借りるかどうか決めたい。 \n\n\t\tI would like to decide whether or not I rent the apartment \n\t\tafter \nI have had a look  inside the rooms."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJアパートは部屋の中を見たうえで\">\n\t\t\t\tアパートは部屋の中を見た<strong>うえで</strong><strong></strong>借りるかどうか決めたい。</a> <br/>\n\t\tI would like to decide whether or not I rent the apartment \n\t\t<strong>after </strong>\nI have had a look  inside the rooms."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7031
+    position: 6
+    japanese: それぞれの説明をよこ聞いたうえで、旅行のコースを遊びたいと思います。
+    body_text: "それぞれの説明をよこ聞いたうえで、旅行のコースを遊びたいと思います。 \n\nAfter \nI have listened to  every explanation, I think I will enjoy the journey."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJそれぞれの説明をよこ聞いたうえで\">\n\t\t\t\tそれぞれの説明をよこ聞いた<strong>うえで</strong><strong></strong>、旅行のコースを遊びたいと思います。</a> <br/>\n<strong>After </strong>\nI have listened to  every explanation, I think I will enjoy the journey."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7032
+    position: 7
+    japanese: 私が皆様のご意見をうかがったうえで、来週ご報告いたします。
+    body_text: "私が皆様のご意見をうかがったうえで、来週ご報告いたします。 \n\nAfter \nI have been told  everybody's opinion, I will inform you next week."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ私が皆様のご意見をうかがったうえで\">\n\t\t\t\t私が皆様のご意見をうかがった<strong>うえで</strong><strong></strong>、来週ご報告いたします。</a> <br/>\n<strong>After </strong>\nI have been told  everybody's opinion, I will inform you next week."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7075
+    position: 8
+    japanese: テレビは外国語の勉強の上でかなり役に立つ。
+    body_text: "テレビは外国語の勉強の上でかなり役に立つ。 \n\n\t\tA television is pretty useful to study [for study of] a foreign language."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJテレビは外国語の勉強の上でかなり役に立つ。\">\n\t\t\t\tテレビは外国語の勉強の<strong>上で</strong>かなり役に立つ。<strong></strong></a> <br/>\n\t\tA television is pretty useful to study [for study of] a foreign language. \n\t\t<strong> </strong>"
+    credits_raw: ZekkDistor
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7191
+    position: 9
+    japanese: "熟慮の\r\n上の結論です."
+    body_text: "熟慮の\r\n上の結論です. \n\n\t\tIt is a conclusion \n\t\tupon \n\t\tthe deliberation."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ熟慮の上の結論です.\">\n\t\t\t\t熟慮の\r\n<strong>上</strong>の結論です.<strong></strong></a> <br/>\n\t\tIt is a conclusion \n\t\t<strong>upon </strong>\n\t\tthe deliberation."
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7192
+    position: 10
+    japanese: 皆の意見を聞いた上で決めました。
+    body_text: "皆の意見を聞いた上で決めました。 \n\n\t\tI decided upon the opinions of everyone."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ皆の意見を聞いた上で決めました。\">\n\t\t\t\t皆の意見を聞いた<strong>上で</strong>決めました。<strong></strong></a> <br/>\n\t\tI decided upon the opinions of everyone. \n\t\t<strong> </strong>"
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7193
+    position: 11
+    japanese: 内容をご確認の上で，サインをお願いいたします。
+    body_text: "内容をご確認の上で，サインをお願いいたします。 \n\n\t\tPlease sign after confirming the content."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ内容をご確認の上で，サインをお願いいたします。\">\n\t\t\t\t内容をご確認の<strong>上で</strong>，サインをお願いいたします。<strong></strong></a> <br/>\n\t\tPlease sign after confirming the content. \n\t\t<strong> </strong>"
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8515
+    position: 12
+    japanese: すべて分かった上でやったことだ。
+    body_text: "すべて分かった上でやったことだ。\r \n\n\t\tIt`s something I did full-knowing the consequences."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJすべて分かった上でやったことだ。\">\n\t\t\t\tすべて分かった<strong>上で</strong>やったことだ。\r<strong></strong></a> <br/>\n\t\tIt`s something I did full-knowing the consequences. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Careful not to get じょうで mixed up with うえで because they look exactly the same with kanji.
+    html: Careful not to get じょうで mixed up with うえで because they look exactly the same with kanji.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: Second example has an implied なんですか at the end of the sentence.
+    html: Second example has an implied なんですか at the end of the sentence.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: Oops. On second thoughts kill that -> ueha 'see also'
+    html: Oops. On second thoughts kill that -&gt; ueha 'see also'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Amatuka
+    text: (Too darn many 上's to get confused)
+    html: (Too darn many 上's to get confused)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Snake
+    text: "I finally saw joude when i was installing debian on my laptop ^_^ it was something like \n\r\n’このベースシステムのじょうで、ネットワークホストインストールすべきです。’"
+    html: "I finally saw joude when i was installing debian on my laptop ^_^ it was something like <br/>\r\n’このベースシステムのじょうで、ネットワークホストインストールすべきです。’<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Snake
+    text: '*の上で even'
+    html: '*の上で even'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: your name
+    text: "I often hear people at work use \x01 as in \"PC jyou\" on the PC..."
+    html: "I often hear people at work use <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> as in \"PC jyou\" on the PC..."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Miki
+    text: |-
+      As for 'このベースシステムのじょうで、ネットワークホストインストールすべきです。' is not natural for me. このベースシステムじょう（上）で would be better. I think when 上 is followed by noun, 上 would be read as 'じょう'.
+    html: |-
+      As for 'このベースシステムのじょうで、ネットワークホストインストールすべきです。' is not natural for me. このベースシステムじょう（上）で would be better. I think when 上 is followed by noun, 上 would be read as 'じょう'.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: bamboo4
+    text: You means when 上 is "precceded" by noun.
+    html: You means when 上 is "precceded" by noun.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: 誠
+    text: "I think there is a need for の after the 名詞, before the 上で（うえで）, 名詞＋の上で\n\r\nIf it is verb　動詞 , then it is 動詞（た形）+\n\r\n上で"
+    html: "I think there is a need for の after the 名詞, before the 上で（うえで）, 名詞＋の上で<br/>\r\nIf it is verb　動詞 , then it is 動詞（た形）+<br/>\r\n上で"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: 誠
+    text: Sometimes, you can omit the で　：　上（で）
+    html: Sometimes, you can omit the で　：　上（で）
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: 誠
+    text: "PC 上　means \" about/for/relating about the PC\" same as ex#\x01 \"upon/relating about the using of email\"\n\r\nLike ex#\x01,  here 上で means　\" 〜に関連して \", whereas the remaining 3 examples mean ”〜してから”"
+    html: "PC 上　means \" about/for/relating about the PC\" same as ex<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=uede#\x01\">#\x01</a></b> \"upon/relating about the using of email\"<br/>\r\nLike ex<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=uede#\x01\">#\x01</a></b>,  here 上で means　\" 〜に関連して \", whereas the remaining 3 examples mean ”〜してから”"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: bamboo4
+    text: "A minor point, but in #\x01, \"the necessary events\" should be \"the necessary particulars\"."
+    html: "A minor point, but in <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=uede#\x01\">#\x01</a></b>, \"the necessary events\" should be \"the necessary particulars\"."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: kekka
+    label: kekka
+    annotation_text: "kekka    (\x01 結果 similar to \x01 上で) [Amatuka]"
+    annotation_html: "<a href=\"http://jgram.org/pages/viewOne.php?tagE=kekka\">kekka</a>    (<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> 結果 similar to <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> 上で) [<a href=\"http://jgram.org/pages/contributions.php?author=Amatuka\">Amatuka</a>]"
+    credits_raw: Amatuka
+  - position: 1
+    target_label: joude
+    label: joude
+    annotation_text: joude    (Careful not to get じょうで mixed up with うえで because they look exactly the same with kanji.  ) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=joude">joude</a>    (Careful not to get じょうで mixed up with うえで because they look exactly the same with kanji.  ) [<a href="http://jgram.org/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 2
+    target_label: womotoni
+    label: womotoni
+    annotation_text: womotoni [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=womotoni">womotoni</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "上で [うえで] (uede)\n    Meaning: upon, after \n    Example: I will reply upon careful consideration.\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>上で [うえで] (uede)</span><br/>    <span><b>Meaning</b>: upon, after </span><br/>    <b>Example</b>: <i>I will reply upon careful consideration.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225346'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 1904428
+  length: 7550
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 5a8d4b11aa25a861348e08f3462b00470f65702f1a8d99597b556d59c6fcf6f2

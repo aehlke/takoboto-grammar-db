@@ -1,0 +1,61 @@
+schema_version: 2
+id: 1777
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1777/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: たび、たびに
+romanized_label: tabi, tabi ni
+alternate_forms: []
+jlpt_level: 2
+credits_raw: raoulduke813
+meaning: each time, every time whenever
+meaning_example: 'Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。 [ex #731]'
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1777
+    body_text: |-
+      each time, every time whenever 
+       Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。 [ex #731]
+    body_html: |-
+      <span>each time, every time whenever</span> <br/> <span>Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。 [ex #731]</span>
+    credits_raw: raoulduke813
+  - kind: formation
+    source_dom_id: editable_Formation_1777
+    body_text: Noun+の+たび+にVerb+たび+に
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>たび</div></div><div><div>+</div><div>に</div></div></div><div><div><div>Verb</div></div><div><div>+</div><div>たび</div></div><div><div>+</div><div>に</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + の + たび + に
+  - Verb + たび + に
+examples:
+  - source_id: 8676
+    position: 0
+    japanese: あの日の出来事を思い出すたびに、涙を止められない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e3%81%ae"><span>日の</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e6%9d%a5%e4%ba%8b%e3%82%92"><span>出来事を</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%99%e3%81%9f%e3%81%b3%e3%81%ab%e3%80%81"><span>出すたびに、</span></a><a href="https://takoboto.jp/?q=%e6%b6%99%e3%82%92"><span>涙を</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%82%81%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82"><span>止められない。</span></a>
+    segments:
+      - text: あの日の出来事を思い出すたびに、涙を止められない。
+        grammar_highlight: false
+    reading: あのひのできごとをおもいだすたびに、なみだをとめられない。
+    credits_raw: tess4aria
+    translations:
+      - language: en
+        text: Every time I remember the events of that day, I cannot stop the tears.
+        html: |-
+          <span>Every time I remember the events of that day, I cannot stop the tears. </span>
+        segments:
+          - text: 'Every time I remember the events of that day, I cannot stop the tears. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:40:43+00:00'
+response_sha256: 6129c70d46f984cd792d9268ae3b745995a20c6cafc4586783946a6e1ae4552b
+warnings: []

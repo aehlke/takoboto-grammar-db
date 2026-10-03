@@ -1,0 +1,521 @@
+schema_version: 2
+id: 623
+source: takoboto
+source_url: https://takoboto.jp/bunpo/623/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: いくら (幾等)
+romanized_label: ikura
+alternate_forms: []
+jlpt_level: 5
+credits_raw: Amatuka
+meaning: how much
+meaning_example: How much is a postcard?
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_623
+    body_text: |-
+      how much 
+       How much is a postcard?
+    body_html: |-
+      <span>how much</span> <br/> <span>How much is a postcard?</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 693
+    position: 0
+    japanese: 葉書は幾らですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%91%89%e6%9b%b8%e3%81%af"><span>葉書は</span></a><a href="https://takoboto.jp/?q=%e5%b9%be%e3%82%89"><strong>幾ら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82+"><span>ですか。 </span></a>
+    segments:
+      - text: 葉書は
+        grammar_highlight: false
+      - text: 幾ら
+        grammar_highlight: true
+      - text: 'ですか。 '
+        grammar_highlight: false
+    reading: はがきはいくらですか。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: How much for a postcard?
+        html: |-
+          <strong>How much </strong><span>for a postcard? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: 'for a postcard? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4811
+    position: 1
+    japanese: 「それはいくらかかりましたか。」「１０００円かかりました。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%81%9d%e3%82%8c%e3%81%af"><span>「それは</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8b%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%81%8b%e3%80%82%e3%80%8d%e3%80%8c%ef%bc%91%ef%bc%90%ef%bc%90%ef%bc%90%e5%86%86%e3%81%8b%e3%81%8b%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82%e3%80%8d"><span>かかりましたか。」「１０００円かかりました。」</span></a>
+    segments:
+      - text: 「それは
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: かかりましたか。」「１０００円かかりました。」
+        grammar_highlight: false
+    reading: 「それはいくらかかりましたか。」「１０００えんかかりました。」
+    credits_raw: Miki, Makusu
+    translations:
+      - language: en
+        text: '"How much  did it cost?" "It cost me a thousand yen."'
+        html: |-
+          <strong>"How much </strong><span> did it cost?" "It cost me a thousand yen." </span>
+        segments:
+          - text: '"How much '
+            grammar_highlight: true
+          - text: ' did it cost?" "It cost me a thousand yen." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4812
+    position: 2
+    japanese: いくらお金をもってますか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92%e3%82%82%e3%81%a3%e3%81%a6%e3%81%be%e3%81%99%e3%81%8b%e3%80%82"><span>金をもってますか。</span></a>
+    segments:
+      - text: いくら
+        grammar_highlight: true
+      - text: お金をもってますか。
+        grammar_highlight: false
+    reading: いくらおかねをもってますか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How much money do you have with you?
+        html: |-
+          <strong>How much </strong><span>money do you have with you? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: 'money do you have with you? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4813
+    position: 3
+    japanese: それがいくらするのか前もって彼に聞いたほうがよい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%8c"><span>それが</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8b%e3%81%ae%e3%81%8b"><span>するのか</span></a><a href="https://takoboto.jp/?q=%e5%89%8d%e3%82%82%e3%81%a3%e3%81%a6"><span>前もって</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab"><span>彼に</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%9f%e3%81%bb%e3%81%86%e3%81%8c%e3%82%88%e3%81%84%e3%80%82"><span>聞いたほうがよい。</span></a>
+    segments:
+      - text: それが
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: するのか前もって彼に聞いたほうがよい。
+        grammar_highlight: false
+    reading: それがいくらするのかまえもってかれにきいたほうがよい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You had better ask him in advance how much it will cost.
+        html: |-
+          <span>You had better ask him in advance </span><strong>how much </strong><span>it will cost. </span>
+        segments:
+          - text: 'You had better ask him in advance '
+            grammar_highlight: false
+          - text: 'how much '
+            grammar_highlight: true
+          - text: 'it will cost. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4814
+    position: 4
+    japanese: このＴシャツの値段はいくらですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%ef%bc%b4%e3%82%b7%e3%83%a3%e3%83%84%e3%81%ae"><span>Ｔシャツの</span></a><a href="https://takoboto.jp/?q=%e5%80%a4%e6%ae%b5%e3%81%af"><span>値段は</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>ですか。</span></a>
+    segments:
+      - text: このＴシャツの値段は
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: ですか。
+        grammar_highlight: false
+    reading: このてぃーしゃつのねだんはいくらですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How much is this T-shirt?
+        html: |-
+          <strong>How much </strong><span>is this T-shirt? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: 'is this T-shirt? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4815
+    position: 5
+    japanese: このＴシャツはいくらですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%ef%bc%b4%e3%82%b7%e3%83%a3%e3%83%84%e3%81%af"><span>このＴシャツは</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>ですか。</span></a>
+    segments:
+      - text: このＴシャツは
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: ですか。
+        grammar_highlight: false
+    reading: このてぃーしゃつはいくらですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How much  is this T-shirt?
+        html: |-
+          <strong>How much </strong><span> is this T-shirt? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: ' is this T-shirt? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4816
+    position: 6
+    japanese: このオートバイがいくらか、私は知りません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%aa%e3%83%bc%e3%83%88%e3%83%90%e3%82%a4%e3%81%8c"><span>このオートバイが</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%80%81"><span>か、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>知りません。</span></a>
+    segments:
+      - text: このオートバイが
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: か、私は知りません。
+        grammar_highlight: false
+    reading: このオートバイがいくらか、わたしはしりません。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I don't know how much this motorcycle would cost.
+        html: |-
+          <span>I don't know </span><strong>how much </strong><span>this motorcycle would cost. </span>
+        segments:
+          - text: 'I don''t know '
+            grammar_highlight: false
+          - text: 'how much '
+            grammar_highlight: true
+          - text: 'this motorcycle would cost. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4817
+    position: 7
+    japanese: このカメラはいくらですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%ab%e3%83%a1%e3%83%a9%e3%81%af"><span>このカメラは</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>ですか。</span></a>
+    segments:
+      - text: このカメラは
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: ですか。
+        grammar_highlight: false
+    reading: このカメラはいくらですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How much is this camera?
+        html: |-
+          <strong>How much </strong><span>is this camera? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: 'is this camera? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4818
+    position: 8
+    japanese: このスイミングスクールの月謝はいくらですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%b9%e3%82%a4%e3%83%9f%e3%83%b3%e3%82%b0%e3%82%b9%e3%82%af%e3%83%bc%e3%83%ab%e3%81%ae"><span>このスイミングスクールの</span></a><a href="https://takoboto.jp/?q=%e6%9c%88%e8%ac%9d%e3%81%af"><span>月謝は</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>ですか。</span></a>
+    segments:
+      - text: このスイミングスクールの月謝は
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: ですか。
+        grammar_highlight: false
+    reading: このスイミングスクールのげっしゃはいくらですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How much is the monthly fee of this swimming school?
+        html: |-
+          <strong>How much </strong><span>is the monthly fee of this swimming school? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: 'is the monthly fee of this swimming school? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4819
+    position: 9
+    japanese: このツアーは1人いくらですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%84%e3%82%a2%e3%83%bc%e3%81%af"><span>このツアーは</span></a><a href="https://takoboto.jp/?q=1"><span>1</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba"><span>人</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>ですか。</span></a>
+    segments:
+      - text: このツアーは1人
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: ですか。
+        grammar_highlight: false
+    reading: このツアーはにんいくらですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How much is the tour per person?
+        html: |-
+          <strong>How much </strong><span>is the tour per person? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: 'is the tour per person? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4820
+    position: 10
+    japanese: このバスの料金はいくらですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%90%e3%82%b9%e3%81%ae"><span>このバスの</span></a><a href="https://takoboto.jp/?q=%e6%96%99%e9%87%91%e3%81%af"><span>料金は</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><strong>いくらですか。</strong></a>
+    segments:
+      - text: このバスの料金は
+        grammar_highlight: false
+      - text: いくらですか。
+        grammar_highlight: true
+    reading: このバスのりょうきんはいくらですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How much is the fare on the bus?
+        html: |-
+          <strong>How much </strong><span>is the fare on the bus? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: 'is the fare on the bus? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4821
+    position: 11
+    japanese: このペンはいくらしますか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%9a%e3%83%b3%e3%81%af"><span>このペンは</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%e3%80%82"><span>しますか。</span></a>
+    segments:
+      - text: このペンは
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: しますか。
+        grammar_highlight: false
+    reading: このペンはいくらしますか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: What does this pen cost?
+        html: |-
+          <strong>What </strong><span>does this pen cost? </span>
+        segments:
+          - text: 'What '
+            grammar_highlight: true
+          - text: 'does this pen cost? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4822
+    position: 12
+    japanese: このホテルの宿泊料金はいくらですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%9b%e3%83%86%e3%83%ab%e3%81%ae"><span>このホテルの</span></a><a href="https://takoboto.jp/?q=%e5%ae%bf%e6%b3%8a"><span>宿泊</span></a><a href="https://takoboto.jp/?q=%e6%96%99%e9%87%91%e3%81%af"><span>料金は</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>ですか。</span></a>
+    segments:
+      - text: このホテルの宿泊料金は
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: ですか。
+        grammar_highlight: false
+    reading: このホテルのしゅくはくりょうきんはいくらですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: What are the charges in this hotel?
+        html: |-
+          <strong>What </strong><span>are the charges in this hotel? </span>
+        segments:
+          - text: 'What '
+            grammar_highlight: true
+          - text: 'are the charges in this hotel? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6553
+    position: 13
+    japanese: イクラはいくらですか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a4%e3%82%af%e3%83%a9%e3%81%af"><span>イクラは</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b"><span>ですか</span></a>
+    segments:
+      - text: イクラは
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: ですか
+        grammar_highlight: false
+    reading: イクラはいくらですか
+    credits_raw: feralkat
+    translations:
+      - language: en
+        text: How much  is the salmon roe?
+        html: |-
+          <strong>How much </strong><span> is the salmon roe? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: ' is the salmon roe? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8657
+    position: 14
+    japanese: このシャツと靴はいくらですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%b7%e3%83%a3%e3%83%84%e3%81%a8%e9%9d%b4%e3%81%af"><span>このシャツと靴は</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>ですか。</span></a>
+    segments:
+      - text: このシャツと靴は
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: ですか。
+        grammar_highlight: false
+    reading: このシャツとくつはいくらですか。
+    credits_raw: Sakuratree
+    translations:
+      - language: en
+        text: How much  are these shirts and shoes?
+        html: |-
+          <strong>How much </strong><span> are these shirts and shoes? </span>
+        segments:
+          - text: 'How much '
+            grammar_highlight: true
+          - text: ' are these shirts and shoes? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8793
+    position: 15
+    japanese: 日本に旅行する為に、お金がいくら必要ですかな？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ab%e6%97%85%e8%a1%8c%e3%81%99%e3%82%8b%e7%82%ba%e3%81%ab%e3%80%81%e3%81%8a%e9%87%91%e3%81%8c"><span>日本に旅行する為に、お金が</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><strong>いくら</strong></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%a7%e3%81%99%e3%81%8b%e3%81%aa%ef%bc%9f"><span>必要ですかな？</span></a>
+    segments:
+      - text: 日本に旅行する為に、お金が
+        grammar_highlight: false
+      - text: いくら
+        grammar_highlight: true
+      - text: 必要ですかな？
+        grammar_highlight: false
+    reading: にほんにりょこうするために、おかねがいくらひつようですかな？
+    credits_raw: 貴博
+    translations:
+      - language: en
+        text: I wonder how much  money is required for a trip to Japan?
+        html: |-
+          <span>I wonder </span><strong>how much </strong><span> money is required for a trip to Japan? </span>
+        segments:
+          - text: 'I wonder '
+            grammar_highlight: false
+          - text: 'how much '
+            grammar_highlight: true
+          - text: ' money is required for a trip to Japan? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      いくらis used to give the quantitative measurement of certain things.It is generally ised while asking about the price of an commodity(nedan wa ikura desu ka?).
+    html: |-
+      いくらis used to give the quantitative measurement of certain things.It is generally ised while asking about the price of an commodity(nedan wa ikura desu ka?).
+    credits_raw: naik
+    content_sha256: 9f66f8ab86cc7e8fde068854656c18cc8731b74c005e5d20d1a35e858cf58c7e
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      #4816
+      "I don't know how much this motorcycle is" should be "I don't know how much this motorcycle would cost."
+    html: |-
+      #4816<br/>"I don't know how much this motorcycle is" should be "I don't know how much this motorcycle would cost."
+    credits_raw: bamboo4
+    content_sha256: be75cb9493e046999e2c1bd3865a76a027e183d2fb4568a4a3089cc5fdfcdef6
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: fixed, but not sure if the english was wrong to start with really...
+    html: fixed, but not sure if the english was wrong to start with really...
+    credits_raw: dc
+    content_sha256: fc393fc885f21f1748f673e84986a2f334f2118aa45fceb9468f3cd0fd88512a
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Just a note to say that いくらか is a completely diferent word meaning "a relatively small amount." 
+
+      いくらか得したの = Did you make some gain?
+      いくら得したの = HOw much gain did you make?
+    html: |-
+      Just a note to say that いくらか is a completely diferent word meaning "a relatively small amount." <br/><br/>いくらか得したの = Did you make some gain?<br/>いくら得したの = HOw much gain did you make?
+    credits_raw: bamboo4
+    content_sha256: 0a127826015496723ed77323caac18881b7ff1685175ad2bdf3e68a20c68c574
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      I'm not sure it's wrong per se, but it is bad English because it's unclear when stated alone. In a known context it would be fine, but alone it could mean anything like, "I don't know how much this motorcycle is loved."
+    html: |-
+      I'm not sure it's wrong per se, but it is bad English because it's unclear when stated alone. In a known context it would be fine, but alone it could mean anything like, "I don't know how much this motorcycle is loved."
+    credits_raw: feralkat
+    content_sha256: 524deff8c681ae42fd5477c5e271ec52b6a87dbfdad188ad27f84ef7a494118d
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      ...and I concur with bamboo4 that いくらか means "some," and could be confusing Japanese to a non-native speaker, but in this case and in this context it clearly means "how much?"
+    html: |-
+      ...and I concur with bamboo4 that いくらか means "some," and could be confusing Japanese to a non-native speaker, but in this case and in this context it clearly means "how much?"
+    credits_raw: feralkat
+    content_sha256: a05dbe61f38b166a580e3344192240418eb24bbe5738f4c428b3ab891fdf5d0d
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: how do we say (but) in japanese
+    html: how do we say (but) in japanese
+    credits_raw: Biksoo
+    content_sha256: 275a6b156b8688d29d9a11b41de82432aa7008d0ced1eb90b2f2e238775fec57
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:31:47+00:00'
+response_sha256: 9cc45afa5cc41710fb0f453d61a62dad31db51a88dafcafe590fc8e8b1b2d42a
+warnings: []

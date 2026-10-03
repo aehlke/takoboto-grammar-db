@@ -1,0 +1,179 @@
+schema_version: 2
+id: 1538
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1538/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜たい
+romanized_label: verb stem + tai
+alternate_forms: []
+jlpt_level: 5
+credits_raw: Parul
+meaning: I want to (verb)
+meaning_example: 'netai: I want to sleep'
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1538
+    body_text: |-
+      I want to (verb) 
+       netai: I want to sleep
+    body_html: |-
+      <span>I want to (verb)</span> <br/> <span>netai: I want to sleep</span>
+    credits_raw: Parul
+  - kind: formation
+    source_dom_id: editable_Formation_1538
+    body_text: Verb stem+たい
+    body_html: |-
+      <div><div><div>Verb stem</div></div><div><div>+</div><div>たい</div></div></div>
+    credits_raw: null
+formations:
+  - Verb stem + たい
+examples:
+  - source_id: 6442
+    position: 0
+    japanese: 日本に行きたいです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%ab"><span>日本に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d"><span>行き</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%84"><strong>たい</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82"><span>です。</span></a>
+    segments:
+      - text: 日本に行き
+        grammar_highlight: false
+      - text: たい
+        grammar_highlight: true
+      - text: です。
+        grammar_highlight: false
+    reading: にほんにいきたいです。
+    credits_raw: ceruleanjen
+    translations:
+      - language: en
+        text: (I) want to go to Japan.
+        html: |-
+          <span>(I) want to go to Japan. </span>
+        segments:
+          - text: '(I) want to go to Japan. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6458
+    position: 1
+    japanese: 君のところへ行きたいよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%ae%e3%81%a8%e3%81%93%e3%82%8d%e3%81%b8"><span>君のところへ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d"><span>行き</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%84"><strong>たい</strong></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%80%82"><span>よ。</span></a>
+    segments:
+      - text: 君のところへ行き
+        grammar_highlight: false
+      - text: たい
+        grammar_highlight: true
+      - text: よ。
+        grammar_highlight: false
+    reading: きみのところへいきたいよ。
+    credits_raw: bsdlite
+    translations:
+      - language: en
+        text: (I) want to go to where you are.
+        html: |-
+          <span>(I) </span><strong>want to go </strong><span>to where you are. </span>
+        segments:
+          - text: '(I) '
+            grammar_highlight: false
+          - text: 'want to go '
+            grammar_highlight: true
+          - text: 'to where you are. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6671
+    position: 2
+    japanese: 日本で英語をおしえたいです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%a7"><span>日本で</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%82%92%e3%81%8a%e3%81%97%e3%81%88"><span>英語をおしえ</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%84"><strong>たい</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82"><span>です。</span></a>
+    segments:
+      - text: 日本で英語をおしえ
+        grammar_highlight: false
+      - text: たい
+        grammar_highlight: true
+      - text: です。
+        grammar_highlight: false
+    reading: にほんでえいごをおしえたいです。
+    credits_raw: eriustobin
+    translations:
+      - language: en
+        text: I want to teach English in Japan.
+        html: |-
+          <span>I want to teach English in Japan. </span>
+        segments:
+          - text: 'I want to teach English in Japan. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8780
+    position: 3
+    japanese: どこに行きたいですか?
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%93%e3%81%ab%e8%a1%8c%e3%81%8d%e3%81%9f%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b%3f"><span>どこに行きたいですか?</span></a>
+    segments:
+      - text: どこに行きたいですか?
+        grammar_highlight: false
+    reading: どこにいきたいですか
+    credits_raw: Hosea
+    translations:
+      - language: en
+        text: where do you want to go?
+        html: |-
+          <span>where do you want to go? </span>
+        segments:
+          - text: 'where do you want to go? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8821
+    position: 4
+    japanese: 日本語を学びたいです
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%82%92%e5%ad%a6%e3%81%b3%e3%81%9f%e3%81%84%e3%81%a7%e3%81%99"><span>日本語を学びたいです</span></a>
+    segments:
+      - text: 日本語を学びたいです
+        grammar_highlight: false
+    reading: にほんごをまなびたいです
+    credits_raw: beno
+    translations:
+      - language: en
+        text: I want to learn Japanese
+        html: |-
+          <span>I want to learn Japanese </span>
+        segments:
+          - text: 'I want to learn Japanese '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      It is considered impolite to ask someone else if the "want" to do something. Instead, use the negative form of the verb in a question.
+    html: |-
+      It is considered impolite to ask someone else if the "want" to do something. Instead, use the negative form of the verb in a question.
+    credits_raw: eriustobin
+    content_sha256: 265d5279d8f4e79f67d5e3ae4d0aa28928307ab03ce4ea4c4254a82c754b2066
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Very important: "tai" can only be used for the I person, like "i want". 
+      If you want to say that someone else wants, you use "tagaru". 
+      Ex:かれは牛乳を飲みたがっています。
+      This is because Japanese never imply they know what someone else wishes, and "garu" means: "i think that", "i heard that", etc.
+    html: |-
+      Very important: "tai" can only be used for the I person, like "i want". <br/>If you want to say that someone else wants, you use "tagaru". <br/>Ex:かれは牛乳を飲みたがっています。<br/>This is because Japanese never imply they know what someone else wishes, and "garu" means: "i think that", "i heard that", etc.
+    credits_raw: kuro_hannah
+    content_sha256: e25b7ec78bf59d8f001e6b505d531e46c70c4345e705be8c06e2b7ea24fc746a
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:04+00:00'
+response_sha256: e8c1c52f94a831da15306279d3ed584f7a59ed60540014032ab854d521def942
+warnings: []

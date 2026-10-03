@@ -1,0 +1,258 @@
+schema_version: 2
+id: 663
+source: takoboto
+source_url: https://takoboto.jp/bunpo/663/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: そう
+romanized_label: そう
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: I hear that
+meaning_example: I hear it's going to snow.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_663
+    body_text: |-
+      I hear that 
+       I hear it's going to snow.
+    body_html: |-
+      <span>I hear that</span> <br/> <span>I hear it's going to snow.</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_663
+    body_text: Verb (casual)+そう+(だ)Noun+だ+そう+(だ)い-adjective+そう+(だ)な-adjective (without な)+だ+そう+(だ)
+    body_html: |-
+      <div><div><div>Verb (casual)</div></div><div><div>+</div><div>そう</div></div><div><div>+</div><div>(だ)</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>だ</div></div><div><div>+</div><div>そう</div></div><div><div>+</div><div>(だ)</div></div></div><div><div><div>い-adjective</div></div><div><div>+</div><div>そう</div></div><div><div>+</div><div>(だ)</div></div></div><div><div><div>な-adjective (without な)</div></div><div><div>+</div><div>だ</div></div><div><div>+</div><div>そう</div></div><div><div>+</div><div>(だ)</div></div></div>
+    credits_raw: null
+formations:
+  - Verb (casual) + そう + (だ)
+  - Noun + だ + そう + (だ)
+  - い-adjective + そう + (だ)
+  - な-adjective (without な) + だ + そう + (だ)
+examples:
+  - source_id: 769
+    position: 0
+    japanese: 天気予報を聞いてたら雪が降るそうです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%a9%e6%b0%97%e4%ba%88%e5%a0%b1%e3%82%92"><span>天気予報を</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%a6%e3%81%9f%e3%82%89"><span>聞いてたら</span></a><a href="https://takoboto.jp/?q=%e9%9b%aa%e3%81%8c"><span>雪が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%8b"><span>降る</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86"><strong>そう</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82"><span>です。</span></a>
+    segments:
+      - text: 天気予報を聞いてたら雪が降る
+        grammar_highlight: false
+      - text: そう
+        grammar_highlight: true
+      - text: です。
+        grammar_highlight: false
+    reading: てんきよほうをきいてたらゆきがふるそうです。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: When I listened to the weather forcast they reckoned it's going to snow.
+        html: |-
+          <span>When I listened to the weather forcast </span><strong>they reckoned </strong><span>it's going to snow. </span>
+        segments:
+          - text: 'When I listened to the weather forcast '
+            grammar_highlight: false
+          - text: 'they reckoned '
+            grammar_highlight: true
+          - text: 'it''s going to snow. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1232
+    position: 1
+    japanese: 電話したら彼はいないそうです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%81%97%e3%81%9f%e3%82%89"><span>電話したら</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%84%e3%81%aa%e3%81%84"><span>彼はいない</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86"><strong>そう</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82"><span>です。</span></a>
+    segments:
+      - text: 電話したら彼はいない
+        grammar_highlight: false
+      - text: そう
+        grammar_highlight: true
+      - text: です。
+        grammar_highlight: false
+    reading: でんわしたらかれはいないそうです。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Upon phoning, I was told that he wasn't there.
+        html: |-
+          <span>Upon phoning, I was </span><strong>told </strong><span>that he wasn't there. </span>
+        segments:
+          - text: 'Upon phoning, I was '
+            grammar_highlight: false
+          - text: 'told '
+            grammar_highlight: true
+          - text: 'that he wasn''t there. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1234
+    position: 2
+    japanese: 彼はいないのですかと聞いたらそうだといわれました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%81%84%e3%81%aa%e3%81%84%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8b%e3%81%a8"><span>彼はいないのですかと</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%84%e3%81%9f%e3%82%89"><span>聞いたら</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86"><strong>そう</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a8%e3%81%84%e3%82%8f%e3%82%8c%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>だといわれました。</span></a>
+    segments:
+      - text: 彼はいないのですかと聞いたら
+        grammar_highlight: false
+      - text: そう
+        grammar_highlight: true
+      - text: だといわれました。
+        grammar_highlight: false
+    reading: かれはいないのですかときいたらそうだといわれました。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: When I asked if he was not there, I was told that it was so.
+        html: |-
+          <span>When I asked if he was not there, I was told that it was </span><strong>so. </strong>
+        segments:
+          - text: 'When I asked if he was not there, I was told that it was '
+            grammar_highlight: false
+          - text: 'so. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1235
+    position: 3
+    japanese: そうですか！
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86"><strong>そう</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%81%8b"><span>ですか</span></a><a href="https://takoboto.jp/?q=%ef%bc%81"><span>！</span></a>
+    segments:
+      - text: そう
+        grammar_highlight: true
+      - text: ですか！
+        grammar_highlight: false
+    reading: そうですか！
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Is that so!
+        html: |-
+          <span>Is that </span><strong>so! </strong>
+        segments:
+          - text: 'Is that '
+            grammar_highlight: false
+          - text: 'so! '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1239
+    position: 4
+    japanese: なんでそうやねん(Kansai Dialect)
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a7"><span>なんで</span></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86"><strong>そう</strong></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%ad%e3%82%93(Kansai+Dialect)"><span>やねん(Kansai Dialect)</span></a>
+    segments:
+      - text: なんで
+        grammar_highlight: false
+      - text: そう
+        grammar_highlight: true
+      - text: やねん(Kansai Dialect)
+        grammar_highlight: false
+    reading: なんでそうやねん
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Why so?
+        html: |-
+          <span>Why </span><strong>so? </strong>
+        segments:
+          - text: 'Why '
+            grammar_highlight: false
+          - text: 'so? '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3123
+    position: 5
+    japanese: そうだと言ったんだよ！
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86"><strong>そう</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a8"><span>だと</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f%e3%82%93%e3%81%a0%e3%82%88"><span>言ったんだよ</span></a><a href="https://takoboto.jp/?q=%ef%bc%81"><span>！</span></a>
+    segments:
+      - text: そう
+        grammar_highlight: true
+      - text: だと言ったんだよ！
+        grammar_highlight: false
+    reading: そうだといったんだよ！
+    credits_raw: KotatsuSama
+    translations:
+      - language: en
+        text: I said it was so! (that way)
+        html: |-
+          <span>I said </span><strong>it was so! </strong><span>(that way) </span>
+        segments:
+          - text: 'I said '
+            grammar_highlight: false
+          - text: 'it was so! '
+            grammar_highlight: true
+          - text: '(that way) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: see [looks/seems/heard-group] for similar examples
+    html: see [looks/seems/heard-group] for similar examples
+    credits_raw: dc
+    content_sha256: 13149f88f611c611933f1646afdcc3dd7ebb5f264f8be4ddc3fdf6ef4f57ba53
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      There are two connotations to sou
+      note the difference in verb ending
+
+      [sou] they say/i heard
+      雨が降るそうです
+      fur<b>u</b>-sou
+      iku-sou
+      omoshiroi-sou
+      genki-da sou
+
+      [sou-2] looks like/seems
+      雨が降りそうです
+      fur<b>i</b>-sou
+      omoshiro-sou
+      genki-sou
+    html: |-
+      There are two connotations to sou<br/>note the difference in verb ending<br/><br/>[sou] they say/i heard<br/>雨が降るそうです<br/>fur&lt;b&gt;u&lt;/b&gt;-sou<br/>iku-sou<br/>omoshiroi-sou<br/>genki-da sou<br/><br/>[sou-2] looks like/seems<br/>雨が降りそうです<br/>fur&lt;b&gt;i&lt;/b&gt;-sou<br/>omoshiro-sou<br/>genki-sou
+    credits_raw: dc
+    content_sha256: 0eaee50e6a827c8b04579fa6c890cdab287749fff5c5b88feb226e330ce0006d
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: I don't like that example. I should have looked a little longer and got a better one. ^^v
+    html: I don't like that example. I should have looked a little longer and got a better one. ^^v
+    credits_raw: Amatuka
+    content_sha256: 06f5fc8ce028b5f13304134c8910315279c2064c48113ed1efef961da5e92550
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Formed by [V-ru] + sou.
+    html: Formed by [V-ru] + sou.
+    credits_raw: Amatuka
+    content_sha256: 1d8f2172e9d6aed155db8040ffe0225618c72cf41c7b6a65f6a7745efcdbfd53
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 684
+    label: そう
+    source_url: https://takoboto.jp/bunpo/684
+  - target_id: 854
+    label: らしい
+    source_url: https://takoboto.jp/bunpo/854
+  - target_id: 1605
+    label: とか
+    source_url: https://takoboto.jp/bunpo/1605
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:23+00:00'
+response_sha256: e2398f6d468c2a34aa445e184e388a3546153baf85b1c80e611ae3abbfff5b19
+warnings: []

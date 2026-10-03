@@ -1,0 +1,62 @@
+schema_version: 2
+id: 1699
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1699/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 限りだ
+romanized_label: kagirida
+alternate_forms:
+  - かぎりだ
+jlpt_level: 2
+credits_raw: Sasato
+meaning: extremely
+meaning_example: I am extremely mortified to have failed my exam
+meaning_notes:
+  - language: ja
+    text: とても、たいへん、きわめて
+    html: とても、たいへん、きわめて
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1699
+    body_text: |-
+      extremely 
+       I am extremely mortified to have failed my exam 
+       とても、たいへん、きわめて
+    body_html: |-
+      <span>extremely</span> <br/> <span>I am extremely mortified to have failed my exam</span> <br/> <span>とても、たいへん、きわめて</span>
+    credits_raw: Sasato
+formations: []
+examples:
+  - source_id: 7218
+    position: 0
+    japanese: 試験にパスできなくて、悔しい限りだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%81%ab%e3%83%91%e3%82%b9%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8f%e3%81%a6%e3%80%81"><span>試験にパスできなくて、</span></a><a href="https://takoboto.jp/?q=%e6%82%94%e3%81%97%e3%81%84"><span>悔しい</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a%e3%81%a0"><strong>限りだ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 試験にパスできなくて、悔しい
+        grammar_highlight: false
+      - text: 限りだ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: しけんにパスできなくて、くやしいかぎりだ。
+    credits_raw: Sasato
+    translations:
+      - language: en
+        text: I am extremely mortified to have failed my exam
+        html: |-
+          <span>I am extremely mortified to have failed my exam </span>
+        segments:
+          - text: 'I am extremely mortified to have failed my exam '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:40:39+00:00'
+response_sha256: 5559c57426b80774348d08bb4151b6c5cd89c865473117e79ecfa12ac47253bf
+warnings: []

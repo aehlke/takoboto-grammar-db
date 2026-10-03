@@ -1,0 +1,271 @@
+schema_version: 2
+id: 152
+source: takoboto
+source_url: https://takoboto.jp/bunpo/152/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: はもとより
+romanized_label: hamotoyori
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: to begin with ... and also ...
+meaning_example: she speaks english to begin with, but also french and german
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_152
+    body_text: |-
+      to begin with ... and also ... 
+       she speaks english to begin with, but also french and german
+    body_html: |-
+      <span>to begin with ... and also ...</span> <br/> <span>she speaks english to begin with, but also french and german</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 602
+    position: 0
+    japanese: 低賃金、劣悪な労働条件、一方的な首切りなどの経済・労働問題はもとより、各種の人道的問題までも引き起こしている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bd%8e%e8%b3%83%e9%87%91%e3%80%81"><span>低賃金、</span></a><a href="https://takoboto.jp/?q=%e5%8a%a3%e6%82%aa%e3%81%aa"><span>劣悪な</span></a><a href="https://takoboto.jp/?q=%e5%8a%b4%e5%83%8d%e6%9d%a1%e4%bb%b6%e3%80%81"><span>労働条件、</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%96%b9%e7%9a%84%e3%81%aa"><span>一方的な</span></a><a href="https://takoboto.jp/?q=%e9%a6%96%e5%88%87%e3%82%8a%e3%81%aa%e3%81%a9%e3%81%ae"><span>首切りなどの</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e6%b8%88%e3%83%bb"><span>経済・</span></a><a href="https://takoboto.jp/?q=%e5%8a%b4%e5%83%8d%e5%95%8f%e9%a1%8c%e3%81%af"><span>労働問題は</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%a8%e3%82%88%e3%82%8a"><strong>もとより</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%90%84%e7%a8%ae%e3%81%ae"><span>各種の</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%81%93%e7%9a%84%e5%95%8f%e9%a1%8c%e3%81%be%e3%81%a7%e3%82%82"><span>人道的問題までも</span></a><a href="https://takoboto.jp/?q=%e5%bc%95%e3%81%8d"><span>引き</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%93%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>起こしている。</span></a>
+    segments:
+      - text: 低賃金、劣悪な労働条件、一方的な首切りなどの経済・労働問題は
+        grammar_highlight: false
+      - text: もとより
+        grammar_highlight: true
+      - text: 、各種の人道的問題までも引き起こしている。
+        grammar_highlight: false
+    reading: ていちんぎん、れつあくなろうどうじょうけん、いっぽうてきなくびきりなどのけいざい・ろうどうもんだいはもとより、かくしゅのじんどうてきもんだいまでもひきおこしている。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: |-
+          We know they suffer from terrible working conditions such as low wages and arbitrary layoffs, but they are also troubled by various forms of discrimination.
+        html: |-
+          <span>We know they suffer from terrible working conditions such as low wages and arbitrary layoffs, </span><strong>but they are also </strong><span>troubled by various forms of discrimination. </span>
+        segments:
+          - text: 'We know they suffer from terrible working conditions such as low wages and arbitrary layoffs, '
+            grammar_highlight: false
+          - text: 'but they are also '
+            grammar_highlight: true
+          - text: 'troubled by various forms of discrimination. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 603
+    position: 1
+    japanese: 彼女は英語はもとより、フランス語も中国語も出来る。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e"><span>英語</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%82%82%e3%81%a8%e3%82%88%e3%82%8a%e3%80%81"><strong>はもとより、</strong></a><a href="https://takoboto.jp/?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9"><span>フランス</span></a><a href="https://takoboto.jp/?q=%e8%aa%9e%e3%82%82"><span>語も</span></a><a href="https://takoboto.jp/?q=%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%82%82"><span>中国語も</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e6%9d%a5%e3%82%8b%e3%80%82"><span>出来る。</span></a>
+    segments:
+      - text: 彼女は英語
+        grammar_highlight: false
+      - text: はもとより、
+        grammar_highlight: true
+      - text: フランス語も中国語も出来る。
+        grammar_highlight: false
+    reading: かのじょはえいごはもとより、ふらんすごもちゅうごくごもできる。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: To begin with she can speak english beyond that she also even speaks french and chinese.
+        html: |-
+          <strong>To begin with </strong><span>she can speak english </span><strong>beyond that </strong><span>she also even speaks french and chinese. </span>
+        segments:
+          - text: 'To begin with '
+            grammar_highlight: true
+          - text: 'she can speak english '
+            grammar_highlight: false
+          - text: 'beyond that '
+            grammar_highlight: true
+          - text: 'she also even speaks french and chinese. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3374
+    position: 2
+    japanese: 低賃金、劣悪な労働条件、一方的な首切りなどの経済・労働問題はもとより、各種の人道的問題までも引き起こしている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bd%8e%e8%b3%83%e9%87%91%e3%80%81"><span>低賃金、</span></a><a href="https://takoboto.jp/?q=%e5%8a%a3%e6%82%aa%e3%81%aa"><span>劣悪な</span></a><a href="https://takoboto.jp/?q=%e5%8a%b4%e5%83%8d%e6%9d%a1%e4%bb%b6%e3%80%81"><span>労働条件、</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%96%b9%e7%9a%84%e3%81%aa"><span>一方的な</span></a><a href="https://takoboto.jp/?q=%e9%a6%96%e5%88%87%e3%82%8a%e3%81%aa%e3%81%a9%e3%81%ae"><span>首切りなどの</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e6%b8%88%e3%83%bb"><span>経済・</span></a><a href="https://takoboto.jp/?q=%e5%8a%b4%e5%83%8d%e5%95%8f%e9%a1%8c"><span>労働問題</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%82%82%e3%81%a8%e3%82%88%e3%82%8a"><strong>はもとより</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%90%84%e7%a8%ae%e3%81%ae"><span>各種の</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%81%93%e7%9a%84%e5%95%8f%e9%a1%8c%e3%81%be%e3%81%a7%e3%82%82"><span>人道的問題までも</span></a><a href="https://takoboto.jp/?q=%e5%bc%95%e3%81%8d"><span>引き</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%93%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>起こしている。</span></a>
+    segments:
+      - text: 低賃金、劣悪な労働条件、一方的な首切りなどの経済・労働問題
+        grammar_highlight: false
+      - text: はもとより
+        grammar_highlight: true
+      - text: 、各種の人道的問題までも引き起こしている。
+        grammar_highlight: false
+    reading: ていちんぎん、れつあくなろうどうじょうけん、いっぽうてきなくびきりなどのけいざい・ろうどうもんだいはもとより、かくしゅのじんどうてきもんだいまでもひきおこしている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: |-
+          In fact, they are suffering from terrible working conditions such as low wages and arbitrary layoffs, as well as from various forms of discrimination.
+        html: |-
+          <span>In fact, they are suffering from terrible working conditions such as low wages and arbitrary layoffs, as well as from various forms of discrimination. </span>
+        segments:
+          - text: "In fact, they are suffering from terrible working conditions such as low wages and arbitrary layoffs, as well as from various forms of discrimination. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7045
+    position: 3
+    japanese: マラソンはもとより、１００ｍも走れないよ！
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%9e%e3%83%a9%e3%82%bd%e3%83%b3"><span>マラソン</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%82%82%e3%81%a8%e3%82%88%e3%82%8a"><strong>はもとより</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%ef%bc%90%ef%bc%90%ef%bd%8d%e3%82%82"><span>１００ｍも</span></a><a href="https://takoboto.jp/?q=%e8%b5%b0%e3%82%8c%e3%81%aa%e3%81%84%e3%82%88"><span>走れないよ</span></a><a href="https://takoboto.jp/?q=%ef%bc%81"><span>！</span></a>
+    segments:
+      - text: マラソン
+        grammar_highlight: false
+      - text: はもとより
+        grammar_highlight: true
+      - text: 、１００ｍも走れないよ！
+        grammar_highlight: false
+    reading: マラソンはもとより、１００めーとるもはしれないよ！
+    credits_raw: hua
+    translations:
+      - language: en
+        text: Let alone a marathon, I can't even run 100m!
+        html: |-
+          <strong>Let alone </strong><span>a marathon, I can't even run 100m! </span>
+        segments:
+          - text: 'Let alone '
+            grammar_highlight: true
+          - text: 'a marathon, I can''t even run 100m! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7138
+    position: 4
+    japanese: まんがの種類が増えている。子どものためのものはもとより大人が読むための歴史や経済のまんがもよく見かける.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%93%e3%81%8c%e3%81%ae%e7%a8%ae%e9%a1%9e%e3%81%8c%e5%a2%97%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82%e5%ad%90%e3%81%a9%e3%82%82%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e3%82%82%e3%81%ae"><span>まんがの種類が増えている。子どものためのもの</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%82%82%e3%81%a8%e3%82%88%e3%82%8a"><strong>はもとより</strong></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e4%ba%ba%e3%81%8c%e8%aa%ad%e3%82%80%e3%81%9f%e3%82%81%e3%81%ae%e6%ad%b4%e5%8f%b2%e3%82%84%e7%b5%8c%e6%b8%88%e3%81%ae%e3%81%be%e3%82%93%e3%81%8c%e3%82%82%e3%82%88%e3%81%8f%e8%a6%8b%e3%81%8b%e3%81%91%e3%82%8b."><span>大人が読むための歴史や経済のまんがもよく見かける.</span></a>
+    segments:
+      - text: まんがの種類が増えている。子どものためのもの
+        grammar_highlight: false
+      - text: はもとより
+        grammar_highlight: true
+      - text: 大人が読むための歴史や経済のまんがもよく見かける.
+        grammar_highlight: false
+    reading: まんがのしゅるいがふえている。こどものためのものはもとよりおとながよむためのれきしやけいざいのまんがもよくみかける
+    credits_raw: sureshnihon, ssk
+    translations:
+      - language: en
+        text: |-
+          There are a lot of different types of mangas (nowadays). Already there were  children's manga available, but  I can oftenly spot history and economics related adult manga coming up too !
+        html: |-
+          <span>There are a lot of different types of mangas (nowadays). </span><strong>Already there were </strong><span> children's manga available, </span><strong>but </strong><span> I can oftenly spot history and economics related adult manga coming up too ! </span>
+        segments:
+          - text: 'There are a lot of different types of mangas (nowadays). '
+            grammar_highlight: false
+          - text: 'Already there were '
+            grammar_highlight: true
+          - text: ' children''s manga available, '
+            grammar_highlight: false
+          - text: 'but '
+            grammar_highlight: true
+          - text: ' I can oftenly spot history and economics related adult manga coming up too ! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8175
+    position: 5
+    japanese: 彼は料理はもとより食器も洗う。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%96%99%e7%90%86"><span>料理</span></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%82%82%e3%81%a8%e3%82%88%e3%82%8a"><strong>はもとより</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e5%99%a8%e3%82%82"><span>食器も</span></a><a href="https://takoboto.jp/?q=%e6%b4%97%e3%81%86%e3%80%82"><span>洗う。</span></a>
+    segments:
+      - text: 彼は料理
+        grammar_highlight: false
+      - text: はもとより
+        grammar_highlight: true
+      - text: 食器も洗う。
+        grammar_highlight: false
+    reading: かれはりょうりはもとよりしょっきもあらう。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He washes the dishes as well as cooking.
+        html: |-
+          <span>He washes the dishes as well as cooking. </span>
+        segments:
+          - text: 'He washes the dishes as well as cooking. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 〜はもとより ： 〜はもちろん、〜は当然
+    html: 〜はもとより ： 〜はもちろん、〜は当然
+    credits_raw: 誠
+    content_sha256: e838cfa876bf0ca9ab519911d6d9c2037c34cb2091890afc306046833ed2e91b
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      はもとより has the meaning of "granted" so that 彼女は 英語 はもとより、フランス語も中国語も出来る would have the connotation of "She can handle both French and Chinese, let alone English."
+    html: |-
+      はもとより has the meaning of "granted" so that 彼女は 英語 はもとより、フランス語も中国語も出来る would have the connotation of "She can handle both French and Chinese, let alone English."
+    credits_raw: bamboo4
+    content_sha256: e7b04d1b774d7b3f04ada8d200febe4cc3d72deb345565ebd94d78fc0f41fcec
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Tweaked translations in line with bamboo4's comment.
+    html: Tweaked translations in line with bamboo4's comment.
+    credits_raw: Amatuka
+    content_sha256: e8a9f799bea773550a9705e36f7b37821a5d219b0f1ecd1bbed938f57fbaa354
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: My grammar copies list はもとより together with はもちろん and just mention that はもとより is のほうが改まった言い方
+    html: My grammar copies list はもとより together with はもちろん and just mention that はもとより is のほうが改まった言い方
+    credits_raw: halx
+    content_sha256: 516e53a7f6bd70a49de897bb54458d655cd137f15e3371294bde8133acd69968
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      thanks Halx. I added that as a -see also- link above. did you know you can put square brackets around the english for a grammar and get links in comments - like [[hamochiron]]
+    html: |-
+      thanks Halx. I added that as a -see also- link above. did you know you can put square brackets around the english for a grammar and get links in comments - like [[hamochiron]]
+    credits_raw: dc
+    content_sha256: fe3579fd83b0d410d072a15c31049b1d419d34ca26510717c1d4584cf4d96767
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: '[をはじめ]'
+    html: '[をはじめ]'
+    credits_raw: anon
+    content_sha256: 58d46c99fa193db20ea91748bd62b4a8f3545b12518c783366f029f902b278d5
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      My grammar notes also list 〜はもとより together with 〜はおろか。Although there are differences between them.〜はおろか is more strong/have a very strong emphasis than 〜はもとより and 〜はもちろん
+    html: |-
+      My grammar notes also list 〜はもとより together with 〜はおろか。Although there are differences between them.〜はおろか is more strong/have a very strong emphasis than 〜はもとより and 〜はもちろん
+    credits_raw: 誠
+    content_sha256: 152c8472d5de4ced418a077837cbc633fa28da408636e428ef8bb920356ff39f
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1339
+    label: 〜は愚か・〜は疎か
+    source_url: https://takoboto.jp/bunpo/1339
+  - target_id: 890
+    label: をはじめ
+    source_url: https://takoboto.jp/bunpo/890
+  - target_id: 1261
+    label: はもちろん
+    source_url: https://takoboto.jp/bunpo/1261
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:38:54+00:00'
+response_sha256: 1fb459ccd4bae7b91145927fe7fbcec729e750c12608db02dc2f67346351c756
+warnings: []

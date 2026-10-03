@@ -1,0 +1,92 @@
+schema_version: 2
+id: 1761
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1761/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: うちに
+romanized_label: uchini-3
+alternate_forms: []
+jlpt_level: 2
+credits_raw: komainu
+meaning: An unforseen change that occured during a described time frame.
+meaning_example: |-
+  一週間の外国出張のうちに、近くの公園の桜が全部散ってしまった。Ｗhile overseas on a one-week business trip, all of the cherry blossoms in the nearby park had fallen.
+meaning_notes:
+  - language: ja
+    text: はじめは予想しなかったような変化が現すことを表す。
+    html: はじめは予想しなかったような変化が現すことを表す。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1761
+    body_text: |-
+      An unforseen change that occured during a described time frame. 
+       一週間の外国出張のうちに、近くの公園の桜が全部散ってしまった。Ｗhile overseas on a one-week business trip, all of the cherry blossoms in the nearby park had fallen. 
+       はじめは予想しなかったような変化が現すことを表す。
+    body_html: |-
+      <span>An unforseen change that occured during a described time frame.</span> <br/> <span>一週間の外国出張のうちに、近くの公園の桜が全部散ってしまった。Ｗhile overseas on a one-week business trip, all of the cherry blossoms in the nearby park had fallen.</span> <br/> <span>はじめは予想しなかったような変化が現すことを表す。</span>
+    credits_raw: komainu
+formations: []
+examples:
+  - source_id: 8065
+    position: 0
+    japanese: 今は上手に話せなくても練習を重ねるうちに上手になる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e3%81%af"><span>今は</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%ab"><span>上手に</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%9b%e3%81%aa%e3%81%8f%e3%81%a6%e3%82%82"><span>話せなくても</span></a><a href="https://takoboto.jp/?q=%e7%b7%b4%e7%bf%92%e3%82%92"><span>練習を</span></a><a href="https://takoboto.jp/?q=%e9%87%8d%e3%81%ad%e3%82%8b"><span>重ねる</span></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a1%e3%81%ab"><strong>うちに</strong></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%ab%e3%81%aa%e3%82%8b%e3%80%82"><span>上手になる。</span></a>
+    segments:
+      - text: 今は上手に話せなくても練習を重ねる
+        grammar_highlight: false
+      - text: うちに
+        grammar_highlight: true
+      - text: 上手になる。
+        grammar_highlight: false
+    reading: いまはじょうずにはなせなくてもれんしゅうをかさねるうちにじょうずになる。
+    credits_raw: komainu
+    translations:
+      - language: en
+        text: Though you may not speak well now, as your practice continues you will improve.
+        html: |-
+          <span>Though you may not speak well now, </span><strong>as your practice continues </strong><span>you will improve. </span>
+        segments:
+          - text: 'Though you may not speak well now, '
+            grammar_highlight: false
+          - text: 'as your practice continues '
+            grammar_highlight: true
+          - text: 'you will improve. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8067
+    position: 1
+    japanese: 友達に誘われて何回か山登りをしているうちに、僕も山が好きになった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%81%ab"><span>友達に</span></a><a href="https://takoboto.jp/?q=%e8%aa%98%e3%82%8f%e3%82%8c%e3%81%a6"><span>誘われて</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e5%9b%9e%e3%81%8b"><span>何回か</span></a><a href="https://takoboto.jp/?q=%e5%b1%b1%e7%99%bb%e3%82%8a%e3%82%92%e3%81%97%e3%81%a6%e3%81%84"><span>山登りをしてい</span></a><a href="https://takoboto.jp/?q=%e3%82%8b%e3%81%86%e3%81%a1%e3%81%ab"><strong>るうちに</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%83%95%e3%82%82"><span>僕も</span></a><a href="https://takoboto.jp/?q=%e5%b1%b1%e3%81%8c"><span>山が</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>好きになった。</span></a>
+    segments:
+      - text: 友達に誘われて何回か山登りをしてい
+        grammar_highlight: false
+      - text: るうちに
+        grammar_highlight: true
+      - text: 、僕も山が好きになった。
+        grammar_highlight: false
+    reading: ともだちにさそわれてなんかいかやまのぼりをしているうちに、ぼくもやまがすきになった。
+    credits_raw: komainu
+    translations:
+      - language: en
+        text: While being invited many times by a friend to go mountain climbing, I too began to like mountains.
+        html: |-
+          <strong>While </strong><span>being invited many times by a friend to go mountain climbing, I too began to like mountains. </span>
+        segments:
+          - text: 'While '
+            grammar_highlight: true
+          - text: 'being invited many times by a friend to go mountain climbing, I too began to like mountains. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:42:31+00:00'
+response_sha256: a9aadf204a9732ddf4ed84503f8fc24059023526d0fff7bf68d8e8bdfa449c88
+warnings: []

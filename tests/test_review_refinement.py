@@ -11,7 +11,7 @@ from takoboto_grammar.archive_audit import audit_archive
 from takoboto_grammar.archive_feeds import parse_feed
 from takoboto_grammar.parser import ParseError, parse_entry
 from takoboto_grammar.storage import (cache_response, export_markdown,
-    read_archive_records, record_digest, write_json)
+    read_archive_records, record_digest, write_json, write_record, load_record)
 
 FIXTURES = Path(__file__).parent / 'fixtures'
 RAW = (FIXTURES / 'archive-ageku.html').read_bytes()
@@ -44,7 +44,7 @@ class RefinementTests(unittest.TestCase):
         state = json.loads((root / f'states/{KEY}.json').read_text())
         self.assertEqual(state['status'], 'review_required')
         self.assertTrue(report['review_required'])
-        record = json.loads((root / f'review-records/{KEY}.json').read_text())
+        record = load_record(root / f'review-records/{KEY}.yaml')
         self.assertEqual(record['archive_timestamp'], older['timestamp'])
         self.assertEqual(len(record['notes']), 6)
         self.assertEqual(read_archive_records(root), [])
@@ -59,7 +59,7 @@ class RefinementTests(unittest.TestCase):
         crawl_archive(replay, {'label_count': 1, 'entries': [{'label': 'ageku', 'captures': [CAPTURE]}]})
         record = read_archive_records(root)[0]
         record['warnings'].append('Unfamiliar source content requires review')
-        write_json(root, f'records/{KEY}.json', record)
+        write_record(root, f'records/{KEY}.yaml', record)
         state = json.loads((root / f'states/{KEY}.json').read_text())
         state.update(status='parsed', record_sha256=record_digest(record))
         write_json(root, f'states/{KEY}.json', state)

@@ -1,0 +1,179 @@
+schema_version: 2
+id: 1492
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1492/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜をもって (を以て)
+romanized_label: womotte1
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: at (time / moment)
+meaning_example: today's business will close at 7
+meaning_notes:
+  - language: ja
+    text: 〜で
+    html: 〜で
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1492
+    body_text: |-
+      at (time / moment) 
+       today's business will close at 7 
+       〜で
+    body_html: |-
+      <span>at (time / moment)</span> <br/> <span>today's business will close at 7</span> <br/> <span>〜で</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1492
+    body_text: Noun+をもって
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>をもって</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + をもって
+examples:
+  - source_id: 7038
+    position: 0
+    japanese: 本日の営業は午後7時をもって終了いたします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%ac%e6%97%a5%e3%81%ae"><span>本日の</span></a><a href="https://takoboto.jp/?q=%e5%96%b6%e6%a5%ad%e3%81%af"><span>営業は</span></a><a href="https://takoboto.jp/?q=%e5%8d%88%e5%be%8c7"><span>午後7</span></a><a href="https://takoboto.jp/?q=%e6%99%82"><span>時</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e3%82%82%e3%81%a3%e3%81%a6"><strong>をもって</strong></a><a href="https://takoboto.jp/?q=%e7%b5%82%e4%ba%86%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>終了いたします。</span></a>
+    segments:
+      - text: 本日の営業は午後7時
+        grammar_highlight: false
+      - text: をもって
+        grammar_highlight: true
+      - text: 終了いたします。
+        grammar_highlight: false
+    reading: ほんじつのえいぎょうはごごじをもってしゅうりょういたします。
+    credits_raw: deltafour
+    translations:
+      - language: en
+        text: The store will close today at seven o'clock.
+        html: |-
+          <span>The store will close today </span><strong>at </strong><span>seven o'clock. </span>
+        segments:
+          - text: 'The store will close today '
+            grammar_highlight: false
+          - text: 'at '
+            grammar_highlight: true
+          - text: 'seven o''clock. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7275
+    position: 1
+    japanese: これをもちまして本日の披露宴をめでたくお開きとあさせていただきます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%82%92"><span>これを</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%a1%e3%81%be%e3%81%97%e3%81%a6"><strong>もちまして</strong></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e6%97%a5%e3%81%ae"><span>本日の</span></a><a href="https://takoboto.jp/?q=%e6%8a%ab%e9%9c%b2%e5%ae%b4%e3%82%92%e3%82%81%e3%81%a7%e3%81%9f%e3%81%8f%e3%81%8a"><span>披露宴をめでたくお</span></a><a href="https://takoboto.jp/?q=%e9%96%8b%e3%81%8d%e3%81%a8%e3%81%82%e3%81%95%e3%81%9b%e3%81%a6%e3%81%84%e3%81%9f%e3%81%a0%e3%81%8d%e3%81%be%e3%81%99%e3%80%82"><span>開きとあさせていただきます。</span></a>
+    segments:
+      - text: これを
+        grammar_highlight: false
+      - text: もちまして
+        grammar_highlight: true
+      - text: 本日の披露宴をめでたくお開きとあさせていただきます。
+        grammar_highlight: false
+    reading: これをもちましてほんじつのひろうえんをめでたくおひらきとあさせていただきます。
+    credits_raw: Dom
+    translations:
+      - language: en
+        text: At this point I would like to open this auspicious wedding reception.
+        html: |-
+          <strong>At this point </strong><span>I would like to open this auspicious wedding reception. </span>
+        segments:
+          - text: 'At this point '
+            grammar_highlight: true
+          - text: 'I would like to open this auspicious wedding reception. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7797
+    position: 2
+    japanese: 店内改装のため、今月末をもって一時閉店することになりました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ba%97%e5%86%85%e6%94%b9%e8%a3%85%e3%81%ae%e3%81%9f%e3%82%81%e3%80%81"><span>店内改装のため、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e6%9c%88%e6%9c%ab"><span>今月末</span></a><a href="https://takoboto.jp/?q=%e3%82%92%e3%82%82%e3%81%a3%e3%81%a6"><strong>をもって</strong></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%99%82%e9%96%89%e5%ba%97%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>一時閉店することになりました。</span></a>
+    segments:
+      - text: 店内改装のため、今月末
+        grammar_highlight: false
+      - text: をもって
+        grammar_highlight: true
+      - text: 一時閉店することになりました。
+        grammar_highlight: false
+    reading: てんないかいそうのため、こんげつまつをもっていちじへいてんすることになりました。
+    credits_raw: inakaluke
+    translations:
+      - language: en
+        text: Due to redecoration of the store, we will be closed at the end of this month.
+        html: |-
+          <span>Due to redecoration of the store, we will be closed </span><strong>at </strong><span>the end of this month. </span>
+        segments:
+          - text: 'Due to redecoration of the store, we will be closed '
+            grammar_highlight: false
+          - text: 'at '
+            grammar_highlight: true
+          - text: 'the end of this month. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: '[名]＋をもって'
+    html: '[名]＋をもって'
+    credits_raw: deltafour
+    content_sha256: c06b1072b9a060612ead763c25e6a1cecdb101cbce788fc7380c3559789e3d2c
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: This is a formal expression.
+    html: This is a formal expression.
+    credits_raw: deltafour
+    content_sha256: 1f3da68010bcb650b7d2935059633b45256121a17188a89101edb43dc3a04688
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p7 - no.11'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p7 - no.11
+    credits_raw: LR
+    content_sha256: 765bf52236690ab5ce08d26d2ec0368c2fd287fac7c07422b0149fc9451e3929
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      On the difference between [womotte1] and [womotte2]
+      [womotte1] is a Time phrase
+      meaning "at" - marks beginnings, ends, or borders between times.
+      It is often used as a greeting to お客 with the extended form をもちまして.
+      [womotte2] is the method by which you do something - victory achieved via effort, announcement made via a blackboard.
+
+      Both are formal, both are NOUN + をもって
+      be careful.
+    html: |-
+      <b>On the difference between [womotte1] and [womotte2]</b><br/>[womotte1] is a Time phrase<br/>meaning "at" - marks beginnings, ends, or borders between times.<br/>It is often used as a greeting to お客 with the extended form をもちまして.<br/>[womotte2] is the method by which you do something - victory achieved via effort, announcement made via a blackboard.<br/><br/>Both are formal, both are NOUN + をもって<br/>be careful.
+    credits_raw: LR
+    content_sha256: 97da2403c137e1c72cf9537a31e619b9a2133e52e370e885f853b0b172a0ed78
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: 本日の営業は午後7時をもって終了いたします。
+    html: 本日の営業は午後7時をもって終了いたします。
+    credits_raw: rad
+    content_sha256: 8fbfd320905bee83ae4b8dc29683f369987d709d213f38a695992ba93d53991b
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1757
+    label: 〜をもって (を以て)
+    source_url: https://takoboto.jp/bunpo/1757
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:45:17+00:00'
+response_sha256: 851f11c8982c509ea3e6d3260e047519bb1d640cd6e62c4a72cfdb2742729b69
+warnings: []

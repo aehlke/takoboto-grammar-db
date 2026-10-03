@@ -1,0 +1,258 @@
+schema_version: 2
+id: 589
+source: takoboto
+source_url: https://takoboto.jp/bunpo/589/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜ところ(だ) (所だ・処だ)
+romanized_label: ~tokoro (da)
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: I am about to / I was about to
+meaning_example: He arrived just as I was about to give up.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_589
+    body_text: |-
+      I am about to / I was about to 
+       He arrived just as I was about to give up.
+    body_html: |-
+      <span>I am about to / I was about to</span> <br/> <span>He arrived just as I was about to give up.</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_589
+    body_text: V辞書形+ところ（だ）Vている形+ところ（だ）Vた形／Vていた形+ところ（だ）
+    body_html: |-
+      <div><div><div>V辞書形</div></div><div><div>+</div><div>ところ（だ）</div></div></div><div><div><div>Vている形</div></div><div><div>+</div><div>ところ（だ）</div></div></div><div><div><div>Vた形／Vていた形</div></div><div><div>+</div><div>ところ（だ）</div></div></div>
+    credits_raw: null
+formations:
+  - V辞書形 + ところ（だ）
+  - Vている形 + ところ（だ）
+  - Vた形／Vていた形 + ところ（だ）
+examples:
+  - source_id: 644
+    position: 0
+    japanese: 私は息子がクッキーを盗み食いしようとしているところを見つけた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e6%81%af%e5%ad%90%e3%81%8c%e3%82%af%e3%83%83%e3%82%ad%e3%83%bc%e3%82%92"><span>息子がクッキーを</span></a><a href="https://takoboto.jp/?q=%e7%9b%97%e3%81%bf"><span>盗み</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%84%e3%81%97%e3%82%88%e3%81%86"><span>食いしよう</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b"><span>としている</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d"><strong>ところ</strong></a><a href="https://takoboto.jp/?q=%e3%82%92"><span>を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%a4%e3%81%91%e3%81%9f%e3%80%82"><span>見つけた。</span></a>
+    segments:
+      - text: 私は息子がクッキーを盗み食いしようとしている
+        grammar_highlight: false
+      - text: ところ
+        grammar_highlight: true
+      - text: を見つけた。
+        grammar_highlight: false
+    reading: わたしはむすこがクッキーをぬすみぐいしようとしているところをみつけた。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I caught my son stealing from a cookie jar.
+        html: |-
+          <span>I caught my son stealing from a cookie jar. </span>
+        segments:
+          - text: 'I caught my son stealing from a cookie jar. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6057
+    position: 1
+    japanese: バスは発車するところだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%90%e3%82%b9%e3%81%af"><span>バスは</span></a><a href="https://takoboto.jp/?q=%e7%99%ba%e8%bb%8a%e3%81%99%e3%82%8b"><span>発車する</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d"><strong>ところ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>だった。</span></a>
+    segments:
+      - text: バスは発車する
+        grammar_highlight: false
+      - text: ところ
+        grammar_highlight: true
+      - text: だった。
+        grammar_highlight: false
+    reading: バスははっしゃするところだった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The bus was about to start.
+        html: |-
+          <span>The bus was about to start. </span>
+        segments:
+          - text: 'The bus was about to start. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6985
+    position: 2
+    japanese: 今、食べる所です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e3%80%81"><span>今、</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%8b"><span>食べる</span></a><a href="https://takoboto.jp/?q=%e6%89%80%e3%81%a7%e3%81%99%e3%80%82"><strong>所です。</strong></a>
+    segments:
+      - text: 今、食べる
+        grammar_highlight: false
+      - text: 所です。
+        grammar_highlight: true
+    reading: いま、たべるところです。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: Right now, I'm just about to eat.
+        html: |-
+          <span>Right now, I'm just about to eat. </span>
+        segments:
+          - text: 'Right now, I''m just about to eat. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6986
+    position: 3
+    japanese: これから、部屋を掃除するところです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%8b%e3%82%89%e3%80%81"><span>これから、</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%82%92"><span>部屋を</span></a><a href="https://takoboto.jp/?q=%e6%8e%83%e9%99%a4%e3%81%99%e3%82%8b"><span>掃除する</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7%e3%81%99%e3%80%82"><strong>ところです。</strong></a>
+    segments:
+      - text: これから、部屋を掃除する
+        grammar_highlight: false
+      - text: ところです。
+        grammar_highlight: true
+    reading: これから、へやをそうじするところです。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: I'm just about to start cleaning up my room.
+        html: |-
+          <span>I'm just about to start cleaning up my room. </span>
+        segments:
+          - text: 'I''m just about to start cleaning up my room. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6987
+    position: 4
+    japanese: 食事がおいしくないといってくれて、ありがとう、危うく食べる所でした。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a3%9f%e4%ba%8b%e3%81%8c%e3%81%8a%e3%81%84%e3%81%97%e3%81%8f%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%a3%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%a6%e3%80%81%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%80%81"><span>食事がおいしくないといってくれて、ありがとう、</span></a><a href="https://takoboto.jp/?q=%e5%8d%b1%e3%81%86%e3%81%8f"><span>危うく</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%8b"><span>食べる</span></a><a href="https://takoboto.jp/?q=%e6%89%80%e3%81%a7%e3%81%97%e3%81%9f%e3%80%82"><strong>所でした。</strong></a>
+    segments:
+      - text: 食事がおいしくないといってくれて、ありがとう、危うく食べる
+        grammar_highlight: false
+      - text: 所でした。
+        grammar_highlight: true
+    reading: しょくじがおいしくないといってくれて、ありがとう、あやうくたべるところでした。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: Thanks for telling me the food wasn't good, I was just about to eat it.
+        html: |-
+          <span>Thanks for telling me the food wasn't good, I was just about to eat it. </span>
+        segments:
+          - text: 'Thanks for telling me the food wasn''t good, I was just about to eat it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8056
+    position: 5
+    japanese: 私はもう少しで宿題を忘れるところだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%82%82%e3%81%86%e5%b0%91%e3%81%97%e3%81%a7%e5%ae%bf%e9%a1%8c%e3%82%92%e5%bf%98%e3%82%8c%e3%82%8b"><span>私はもう少しで宿題を忘れる</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%93%e3%82%8d"><strong>ところ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>だった。</span></a>
+    segments:
+      - text: 私はもう少しで宿題を忘れる
+        grammar_highlight: false
+      - text: ところ
+        grammar_highlight: true
+      - text: だった。
+        grammar_highlight: false
+    reading: わたしはもうすこしでしゅくだいをわすれるところだった。
+    credits_raw: lenzras
+    translations:
+      - language: en
+        text: I almost forgot my homework.
+        html: |-
+          <span>I almost forgot my homework. </span>
+        segments:
+          - text: 'I almost forgot my homework. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      dc,very detailed correction 
+      電話がかかってきた。or (sbが)電話をかけてきた。
+    html: |-
+      dc,very detailed correction <br/>電話がかかってきた。or (sbが)電話をかけてきた。
+    credits_raw: Miki
+    content_sha256: c895efe96f5d0cb83ecfab77948b600e8b874e1e9bfaa472a5158aee0114443d
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: OK, I've added it to tatokoro - further discussion over there.
+    html: OK, I've added it to tatokoro - further discussion over there.
+    credits_raw: your name
+    content_sha256: e453744db15066e0c3902fea230a0a052140953690aea7a803e15cfb35fc7ae1
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: I've done a little cleanup for the Quizes sake.
+    html: I've done a little cleanup for the Quizes sake.
+    credits_raw: jmadsen
+    content_sha256: 3506dd85e0ce44541b91b50686d14f1d05d086a2e39c053ac16f5894b47b9ba1
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: '[tatokoro]'
+    html: '[tatokoro]'
+    credits_raw: dc
+    content_sha256: 59ff15fc178bd5615908d3006e4b35549490b7ac5156145c08da9f2924a8517a
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: '[verb dictionary form] + tokoro'
+    html: '[verb dictionary form] + tokoro'
+    credits_raw: Amatuka
+    content_sha256: 6bdbca11f6191a8f1b24337b4925941ec24dda7b8130e2689bf9102afe2f04f3
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: '"about to" is also volitional form 彼女に電話をしようとしたところ、電話がかけて来た。 Just as I was about to ring her, the phone rang.'
+    html: '"about to" is also volitional form 彼女に電話をしようとしたところ、電話がかけて来た。 Just as I was about to ring her, the phone rang.'
+    credits_raw: dc
+    content_sha256: 9dad41a444416e9f5a12a152cda610c898464318170d2fa7f58dab9bcbaf599c
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      1. That's a 'たところ'
+      2. I'd translate it as "Just as I decided to phone her [...]" because the 'とした' is past tense.
+    html: |-
+      1. That's a 'たところ'<br/>2. I'd translate it as "Just as I decided to phone her [...]" because the 'とした' is past tense.
+    credits_raw: Amatuka
+    content_sha256: 54861252dbb69597daa3fe405a6675a18019a8cdb0a062ac39e8a8136522edcf
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      家へ帰ってきた所だ。
+      家へ帰ってきたばかりだ。
+
+      What is the meaning of these two sentences?
+    html: |-
+      家へ帰ってきた所だ。<br/>家へ帰ってきたばかりだ。<br/><br/>What is the meaning of these two sentences?
+    credits_raw: Foysal
+    content_sha256: 545e30f3eba306c9f13ce2fccb5860828c2b46c2ed1872a3bd0f342412311fcd
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 413
+    label: 〜たところ
+    source_url: https://takoboto.jp/bunpo/413
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:19+00:00'
+response_sha256: d5c327980872e3463c75190358fe8639d99c38e931ac1302f400288eec555f91
+warnings: []

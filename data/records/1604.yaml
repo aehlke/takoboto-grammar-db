@@ -1,0 +1,55 @@
+schema_version: 2
+id: 1604
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1604/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: お茶を濁す
+romanized_label: ocha wo nigosu
+alternate_forms:
+  - おちゃをにごす
+jlpt_level: 1
+credits_raw: hicks
+meaning: to avoid giving a direct answer
+meaning_example: |-
+  本音を見せず、お茶を濁した。He beat around the bush and avoided showing his true feelings.//もちろん人それぞれだからと慌てて茶を濁し、話題をすり替えた。She hurriedly made up some excuse about there being all types of people and changed the subject.
+meaning_notes:
+  - language: ja
+    text: 直接答えないで、曖昧に言えること
+    html: 直接答えないで、曖昧に言えること
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1604
+    body_text: |-
+      to avoid giving a direct answer 
+       本音を見せず、お茶を濁した。He beat around the bush and avoided showing his true feelings.//もちろん人それぞれだからと慌てて茶を濁し、話題をすり替えた。She hurriedly made up some excuse about there being all types of people and changed the subject. 
+       直接答えないで、曖昧に言えること
+    body_html: |-
+      <span>to avoid giving a direct answer</span> <br/> <span>本音を見せず、お茶を濁した。He beat around the bush and avoided showing his true feelings.//もちろん人それぞれだからと慌てて茶を濁し、話題をすり替えた。She hurriedly made up some excuse about there being all types of people and changed the subject.</span> <br/> <span>直接答えないで、曖昧に言えること</span>
+    credits_raw: hicks
+formations: []
+examples: []
+comments:
+  - position: 0
+    source_id: null
+    text: I think usage is not limited to negative connatation, e.g., "ramble on about".
+    html: I think usage is not limited to negative connatation, e.g., "ramble on about".
+    credits_raw: hicks
+    content_sha256: 1dfc7ce02c9c7ed41bba9699ec321b34b0bf4e34c4f4c8b4e13255039c460c2a
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Shouldn't this entry be filed under "idioms" rather than "grammar"?
+    html: Shouldn't this entry be filed under "idioms" rather than "grammar"?
+    credits_raw: Sumofan
+    content_sha256: d9603f49de93a07caab51167148b8ae6cb6bf124e8455bf707544ba1ece6a150
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:45:54+00:00'
+response_sha256: 987f0c50e664e97af83f589de6e922e61592f3e5946bc5d9171047e3a7ca3762
+warnings: []

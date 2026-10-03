@@ -1,0 +1,121 @@
+schema_version: 2
+id: 1648
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1648/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: とても〜ない
+romanized_label: totemo ~ nai
+alternate_forms: []
+jlpt_level: 3
+credits_raw: tigert
+meaning: Can`t possibly
+meaning_example: There is so much (food) that I can`t possibly eat it all
+meaning_notes:
+  - language: ja
+    text: 無理と言う意味
+    html: 無理と言う意味
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1648
+    body_text: |-
+      Can`t possibly 
+       There is so much (food) that I can`t possibly eat it all 
+       無理と言う意味
+    body_html: |-
+      <span>Can`t possibly</span> <br/> <span>There is so much (food) that I can`t possibly eat it all</span> <br/> <span>無理と言う意味</span>
+    credits_raw: tigert
+  - kind: formation
+    source_dom_id: editable_Formation_1648
+    body_text: とても+verb negative form
+    body_html: |-
+      <div><div><div>とても</div></div><div><div>+</div><div>verb negative form</div></div></div>
+    credits_raw: null
+formations:
+  - とても + verb negative form
+examples:
+  - source_id: 6603
+    position: 0
+    japanese: たくさんあって､とても食べきれません
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%8f%e3%81%95%e3%82%93%e3%81%82%e3%81%a3%e3%81%a6"><span>たくさんあって</span></a><a href="https://takoboto.jp/?q=%ef%bd%a4%e3%81%a8%e3%81%a6%e3%82%82"><span>､とても</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%8d%e3%82%8c%e3%81%be%e3%81%9b%e3%82%93"><span>食べきれません</span></a>
+    segments:
+      - text: たくさんあって､とても食べきれません
+        grammar_highlight: false
+    reading: たくさんあってとてもたべきれません
+    credits_raw: tigert
+    translations:
+      - language: en
+        text: There is so much (food) that I can`t possible eat it all.
+        html: |-
+          <span>There is so much (food) that I can`t possible eat it all. </span>
+        segments:
+          - text: 'There is so much (food) that I can`t possible eat it all. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6604
+    position: 1
+    japanese: 東京ではとても家なんか買えません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9d%b1%e4%ba%ac%e3%81%a7%e3%81%af%e3%81%a8%e3%81%a6%e3%82%82"><span>東京ではとても</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e3%81%aa%e3%82%93%e3%81%8b"><span>家なんか</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%88%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>買えません。</span></a>
+    segments:
+      - text: 東京ではとても家なんか買えません。
+        grammar_highlight: false
+    reading: とうきょうではとてもいえなんかかえません。
+    credits_raw: tigert
+    translations:
+      - language: en
+        text: I can`t possibly buy a house in Tokyo.
+        html: |-
+          <span>I can`t possibly buy a house in Tokyo. </span>
+        segments:
+          - text: 'I can`t possibly buy a house in Tokyo. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: This phrase expresses a very strong sense of impossiblity. The verb is usually in the potential form.
+    html: This phrase expresses a very strong sense of impossiblity. The verb is usually in the potential form.
+    credits_raw: tigert
+    content_sha256: fc0021f53b1179d9a57094a0e99afae564c24642f3ef53c52cb87c081948802a
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 「たくさんあって､とても食べきれません」 fits with the translation if you read it carefully...
+    html: 「たくさんあって､とても食べきれません」 fits with the translation if you read it carefully...
+    credits_raw: nicemon
+    content_sha256: 7c67f2dacfa8d4f464a15c8ee7c3bf8876f5da1ec896ec72d09a1e7c20ac3c52
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Ex#6603...the potential form of 食べる Is 食べられる。。。So..the example must be...たくさんあって、とても食べられません。
+    html: Ex#6603...the potential form of 食べる Is 食べられる。。。So..the example must be...たくさんあって、とても食べられません。
+    credits_raw: gahoangdai
+    content_sha256: 20387d64c44e2e9d06893e094a7d419a5598e4fecdba66114ca437cdd954b7f6
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      The example is correct. 食べきれません is in potential form.
+      食べ : masu form of "to eat"
+      切る : Used as an auxiliary verb to mean "to finish an action completely"
+      切る became 切れる and then 切れません
+    html: |-
+      The example is correct. 食べきれません is in potential form.<br/>食べ : masu form of "to eat"<br/>切る : Used as an auxiliary verb to mean "to finish an action completely"<br/>切る became 切れる and then 切れません
+    credits_raw: vizoso
+    content_sha256: 125802ff37d7343f187ee51239d252b87f4e9f70f999273276fb624673df5768
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:35:32+00:00'
+response_sha256: 517b3ec60ca148b731bd2b3ce76702bcd457e3db9a4e06e2bae02e35891b633c
+warnings: []

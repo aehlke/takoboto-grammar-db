@@ -1,0 +1,307 @@
+schema_version: 2
+id: 671
+source: takoboto
+source_url: https://takoboto.jp/bunpo/671/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 以上
+romanized_label: ijou
+alternate_forms:
+  - いじょう
+jlpt_level: 2
+credits_raw: dc
+meaning: Vru, since; now that; once; as long as
+meaning_example: as long as you're here, we may as well have fun
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_671
+    body_text: |-
+      Vru, since; now that; once; as long as 
+       as long as you're here, we may as well have fun
+    body_html: |-
+      <span>Vru, since; now that; once; as long as</span> <br/> <span>as long as you're here, we may as well have fun</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_671
+    body_text: Verb past form+以上+(は)Verb dictionary form+以上+(は)な-adjective+である+以上+(は)Noun+である+以上+(は)
+    body_html: |-
+      <div><div><div>Verb past form</div></div><div><div>+</div><div>以上</div></div><div><div>+</div><div>(は)</div></div></div><div><div><div>Verb dictionary form</div></div><div><div>+</div><div>以上</div></div><div><div>+</div><div>(は)</div></div></div><div><div><div>な-adjective</div></div><div><div>+</div><div>である</div></div><div><div>+</div><div>以上</div></div><div><div>+</div><div>(は)</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>である</div></div><div><div>+</div><div>以上</div></div><div><div>+</div><div>(は)</div></div></div>
+    credits_raw: null
+formations:
+  - Verb past form + 以上 + (は)
+  - Verb dictionary form + 以上 + (は)
+  - な-adjective + である + 以上 + (は)
+  - Noun + である + 以上 + (は)
+examples:
+  - source_id: 59
+    position: 0
+    japanese: 先生である以上は
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%a7%e3%81%82%e3%82%8b"><span>先生である</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a%e3%81%af"><strong>以上は</strong></a>
+    segments:
+      - text: 先生である
+        grammar_highlight: false
+      - text: 以上は
+        grammar_highlight: true
+    reading: せんせいであるいじょうは
+    credits_raw: dc
+    translations:
+      - language: en
+        text: as long as (someone) is a teacher
+        html: |-
+          <strong>as long as </strong><span>(someone) is a teacher </span>
+        segments:
+          - text: 'as long as '
+            grammar_highlight: true
+          - text: '(someone) is a teacher '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 176
+    position: 1
+    japanese: 学生である以上は勉強すべきだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ad%a6%e7%94%9f%e3%81%a7%e3%81%82%e3%82%8b"><span>学生である</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a%e3%81%af"><strong>以上は</strong></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%99%e3%81%b9%e3%81%8d%e3%81%a0%e3%80%82"><span>勉強すべきだ。</span></a>
+    segments:
+      - text: 学生である
+        grammar_highlight: false
+      - text: 以上は
+        grammar_highlight: true
+      - text: 勉強すべきだ。
+        grammar_highlight: false
+    reading: がくせいであるいじょうはべんきょうすべきだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: So long as you are a student, you should study.
+        html: |-
+          <strong>So long as </strong><span>you are a student, you should study. </span>
+        segments:
+          - text: 'So long as '
+            grammar_highlight: true
+          - text: 'you are a student, you should study. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4568
+    position: 2
+    japanese: これだけ禁煙、禁煙と言われる以上、喫煙というのは公序良俗に反する行為なんだろうね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%a0%e3%81%91"><span>これだけ</span></a><a href="https://takoboto.jp/?q=%e7%a6%81%e7%85%99%e3%80%81"><span>禁煙、</span></a><a href="https://takoboto.jp/?q=%e7%a6%81%e7%85%99%e3%81%a8"><span>禁煙と</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%82%8f%e3%82%8c%e3%82%8b"><span>言われる</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a%e3%80%81"><strong>以上、</strong></a><a href="https://takoboto.jp/?q=%e5%96%ab%e7%85%99%e3%81%a8%e3%81%84%e3%81%86%e3%81%ae%e3%81%af"><span>喫煙というのは</span></a><a href="https://takoboto.jp/?q=%e5%85%ac%e5%ba%8f%e8%89%af%e4%bf%97%e3%81%ab"><span>公序良俗に</span></a><a href="https://takoboto.jp/?q=%e5%8f%8d%e3%81%99%e3%82%8b"><span>反する</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e7%82%ba%e3%81%aa%e3%82%93%e3%81%a0%e3%82%8d%e3%81%86%e3%81%ad%e3%80%82"><span>行為なんだろうね。</span></a>
+    segments:
+      - text: これだけ禁煙、禁煙と言われる
+        grammar_highlight: false
+      - text: 以上、
+        grammar_highlight: true
+      - text: 喫煙というのは公序良俗に反する行為なんだろうね。
+        grammar_highlight: false
+    reading: これだけきんえん、きんえんといわれるいじょう、きつえんというのはこうじょりょうぞくにはんするこういなんだろうね。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: There are so many anti-smoking campaigns these days maybe it really is a threat to the public order.
+        html: |-
+          <span>There are so many anti-smoking campaigns these days maybe it really is a threat to the public order. </span>
+        segments:
+          - text: 'There are so many anti-smoking campaigns these days maybe it really is a threat to the public order. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4571
+    position: 3
+    japanese: 公僕も人間であること、また人間である以上過ちを犯す可能性があることを、彼は認識している。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%ac%e5%83%95%e3%82%82"><span>公僕も</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e3%81%a7%e3%81%82%e3%82%8b%e3%81%93%e3%81%a8%e3%80%81%e3%81%be%e3%81%9f"><span>人間であること、また</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e3%81%a7%e3%81%82%e3%82%8b"><span>人間である</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a"><strong>以上</strong></a><a href="https://takoboto.jp/?q=%e9%81%8e%e3%81%a1%e3%82%92"><span>過ちを</span></a><a href="https://takoboto.jp/?q=%e7%8a%af%e3%81%99"><span>犯す</span></a><a href="https://takoboto.jp/?q=%e5%8f%af%e8%83%bd%e6%80%a7%e3%81%8c%e3%81%82%e3%82%8b%e3%81%93%e3%81%a8%e3%82%92%e3%80%81"><span>可能性があることを、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e8%aa%8d%e8%ad%98%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>認識している。</span></a>
+    segments:
+      - text: 公僕も人間であること、また人間である
+        grammar_highlight: false
+      - text: 以上
+        grammar_highlight: true
+      - text: 過ちを犯す可能性があることを、彼は認識している。
+        grammar_highlight: false
+    reading: こうぼくもにんげんであること、またにんげんであるいじょうあやまちをおかすかのうせいがあることを、かれはにんしきしている。
+    credits_raw: Miki, bamboo4
+    translations:
+      - language: en
+        text: Americans realize that public officials are human and that as human beings these officials are capable of misdemeanor.
+        html: |-
+          <span>Americans realize that public officials are human and that as human beings these officials are capable of misdemeanor. </span>
+        segments:
+          - text: 'Americans realize that public officials are human and that as human beings these officials are capable of misdemeanor. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7050
+    position: 4
+    japanese: 契約書に書かれている以上、期日までにこの仕事を完成させなければならない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a5%91%e7%b4%84%e6%9b%b8%e3%81%ab"><span>契約書に</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%8b%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e4%bb%a5%e4%b8%8a"><strong>書かれている以上</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%9c%9f%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ab%e3%81%93%e3%81%ae"><span>期日までにこの</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%82%92"><span>仕事を</span></a><a href="https://takoboto.jp/?q=%e5%ae%8c%e6%88%90%e3%81%95%e3%81%9b%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>完成させなければならない。</span></a>
+    segments:
+      - text: 契約書に
+        grammar_highlight: false
+      - text: 書かれている以上
+        grammar_highlight: true
+      - text: 、期日までにこの仕事を完成させなければならない。
+        grammar_highlight: false
+    reading: けいやくしょにかかれているいじょう、きじつまでにこのしごとをかんせいさせなければならない。
+    credits_raw: dekirukana
+    translations:
+      - language: en
+        text: As is written in the contract, we must complete the job by the appointed date.
+        html: |-
+          <strong>As is written </strong><span>in the contract, we must complete the job by the appointed date. </span>
+        segments:
+          - text: 'As is written '
+            grammar_highlight: true
+          - text: 'in the contract, we must complete the job by the appointed date. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7145
+    position: 5
+    japanese: いったん仕事を引き付けた以上は,途中で止めることはできない.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%a3%e3%81%9f%e3%82%93"><span>いったん</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%82%92"><span>仕事を</span></a><a href="https://takoboto.jp/?q=%e5%bc%95%e3%81%8d"><span>引き</span></a><a href="https://takoboto.jp/?q=%e4%bb%98%e3%81%91%e3%81%9f"><span>付けた</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a"><strong>以上</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%2c"><span>は,</span></a><a href="https://takoboto.jp/?q=%e9%80%94%e4%b8%ad%e3%81%a7"><span>途中で</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%82%81%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84."><span>止めることはできない.</span></a>
+    segments:
+      - text: いったん仕事を引き付けた
+        grammar_highlight: false
+      - text: 以上
+        grammar_highlight: true
+      - text: は,途中で止めることはできない.
+        grammar_highlight: false
+    reading: いったんしごとをひきつけたいじょうはとちゅうでとめることはできない
+    credits_raw: sureshnihon
+    translations:
+      - language: en
+        text: If once you attracted that job,you cannot stop on the mid way.
+        html: |-
+          <span>If once you attracted that job,you cannot stop on the mid way. </span>
+        segments:
+          - text: 'If once you attracted that job,you cannot stop on the mid way. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8184
+    position: 6
+    japanese: 彼を信頼できない以上雇うべきではない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%82%92"><span>彼を</span></a><a href="https://takoboto.jp/?q=%e4%bf%a1%e9%a0%bc%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84"><span>信頼できない</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a"><strong>以上</strong></a><a href="https://takoboto.jp/?q=%e9%9b%87%e3%81%86%e3%81%b9%e3%81%8d%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%80%82"><span>雇うべきではない。</span></a>
+    segments:
+      - text: 彼を信頼できない
+        grammar_highlight: false
+      - text: 以上
+        grammar_highlight: true
+      - text: 雇うべきではない。
+        grammar_highlight: false
+    reading: かれをしんらいできないいじょうやとうべきではない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Since you don`t trust him, you should not employ him.
+        html: |-
+          <span>Since you don`t trust him, you should not employ him. </span>
+        segments:
+          - text: 'Since you don`t trust him, you should not employ him. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8576
+    position: 7
+    japanese: 彼と戦った以上、今まで私にまだ話し掛けていない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%a8"><span>彼と</span></a><a href="https://takoboto.jp/?q=%e6%88%a6%e3%81%a3%e3%81%9f"><span>戦った</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a"><strong>以上</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e3%81%be%e3%81%a7"><span>今まで</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ab%e3%81%be%e3%81%a0"><span>私にまだ</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%97"><span>話し</span></a><a href="https://takoboto.jp/?q=%e6%8e%9b%e3%81%91%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>掛けていない。</span></a>
+    segments:
+      - text: 彼と戦った
+        grammar_highlight: false
+      - text: 以上
+        grammar_highlight: true
+      - text: 、今まで私にまだ話し掛けていない。
+        grammar_highlight: false
+    reading: かれとたたかったいじょう、いままでわたしにまだはなしかけていない。
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: since an argument with him, until now he still has not greeting to me.
+        html: |-
+          <span>since an argument with him, until now he still has not greeting to me. </span>
+        segments:
+          - text: 'since an argument with him, until now he still has not greeting to me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Formed from Vru + ijou.
+      Also from 'continuing action' e.g. 使ってる以上
+      Vru = dictionary form. （〜る for ichidan / regular group 2 verbs)
+    html: |-
+      Formed from Vru + ijou.<br/>Also from 'continuing action' e.g. 使ってる以上<br/>Vru = dictionary form. （〜る for ichidan / regular group 2 verbs)
+    credits_raw: Amatuka
+    content_sha256: 73538f07a85478d586a2aab2de61fb8c28625fd36cdaea248bba8e91b5ac8778
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 以上は in context can be replaced with からには.
+    html: 以上は in context can be replaced with からには.
+    credits_raw: Miki
+    content_sha256: 5dd73243757a2eb3dfcf6a46961282bfff47d96d74011faf8dc718621e8f684e
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      is this the same as [kagiri] ?
+
+      学生である限り、勉強します
+      学生である以上、勉強します
+
+      are identical in meaning/nuance?
+    html: |-
+      is this the same as [kagiri] ?<br/><br/>学生である限り、勉強します<br/>学生である以上、勉強します<br/><br/>are identical in meaning/nuance?
+    credits_raw: dc
+    content_sha256: 01220d372de294203afcf11fad0fa7f0dc823ea421c109d24b10b3778cdf1eda
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Since/Till I am a student, I will study
+
+      Being a student,I will study.
+    html: |-
+      Since/Till I am a student, I will study<br/><br/>Being a student,I will study.
+    credits_raw: shrutinarula
+    content_sha256: ab45df0123d1627bedaa81ef678ba785cdd95b69e556b58ab9495b2c223190d2
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: 生きている以上、社会のためになることがしたい。
+    html: 生きている以上、社会のためになることがしたい。
+    credits_raw: Win Nandar Htun
+    content_sha256: 97ac97c2275fbe5931ad82d77456ba6eede3dedc177a0ca4996d86a5e8f6fc00
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 554
+    label: からには
+    source_url: https://takoboto.jp/bunpo/554
+  - target_id: 1155
+    label: 上は
+    source_url: https://takoboto.jp/bunpo/1155
+  - target_id: 838
+    label: 限り
+    source_url: https://takoboto.jp/bunpo/838
+  - target_id: 673
+    label: 以上
+    source_url: https://takoboto.jp/bunpo/673
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:38:21+00:00'
+response_sha256: 6171ea04793a367358683f5f4348d5c0d0eb1a32d7e98ac3ddd7001d5c3e3067
+warnings: []

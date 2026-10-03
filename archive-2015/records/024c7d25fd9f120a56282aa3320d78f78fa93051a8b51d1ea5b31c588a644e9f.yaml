@@ -1,0 +1,78 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1690
+label: hotondo
+title_raw: ほとんど (殆・殆ど) [ほとんど] (hotondo)
+title: ほとんど (殆・殆ど)
+reading: ほとんど
+romanized_label: hotondo
+category: grammar
+jlpt_level_original: '3'
+meaning: most of / rarely
+meaning_example: I ate most of it. I rarely read.
+credits_raw: adamstudio
+source_url: http://jgram.org/pages/viewOne.php?tagE=hotondo
+archive_url: https://web.archive.org/web/20150224225721id_/http://jgram.org/pages/viewOne.php?tagE=hotondo
+archive_timestamp: '20150224225721'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: JGGT2OVVSBQZ6TTIY7PXSRSWYIEC5GEW
+response_sha256: 604b8a290254d94c53fdb283723bf2ac436f4b244f72755ec959912cfe021d97
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 7119
+    position: 0
+    japanese: （私は）ほとんど読みません。
+    body_text: "（私は）ほとんど読みません。 \n\n\t\tI \n\t\trarely \n\t\tread.  Lit.: (It's) almost true that (I) don't read"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ（私は）ほとんど読みません。\">\n\t\t\t\t（私は）<strong>ほとんど</strong>読みません。<strong></strong></a> <br/>\n\t\tI \n\t\t<strong>rarely </strong>\n\t\tread.  Lit.: (It's) almost true that (I) don't read"
+    credits_raw: adamstudio
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7120
+    position: 1
+    japanese: （私は）ほとんど食べました。
+    body_text: "（私は）ほとんど食べました。 \n\n\t\tI ate \n\t\tmost of \n\t\tit."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ（私は）ほとんど食べました。\">\n\t\t\t\t（私は）<strong>ほとんど</strong>食べました。<strong></strong></a> <br/>\n\t\tI ate \n\t\t<strong>most of </strong>\n\t\tit."
+    credits_raw: adamstudio
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7126
+    position: 2
+    japanese: 日本は石油のほとんどを輸入しています。
+    body_text: "日本は石油のほとんどを輸入しています。 \n\n\t\tJapan imports most of its oil."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ日本は石油のほとんどを輸入しています。\">\n\t\t\t\t日本は石油の<strong>ほとんど</strong>を輸入しています。<strong></strong></a> <br/>\n\t\tJapan imports most of its oil. \n\t\t<strong> </strong>"
+    credits_raw: アヴェタル
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "ほとんど (殆・殆ど) [ほとんど] (hotondo)\n    Meaning: most of / rarely \n    Example: I ate most of it. I rarely read. \n    JLPT Level: 3\n    Category: grammar\n    Author: adamstudio"
+    html: |-
+      <span>ほとんど (殆・殆ど) [ほとんど] (hotondo)</span><br/>    <span><b>Meaning</b>: most of / rarely </span><br/>    <b>Example</b>: <i>I ate most of it. I rarely read. </i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>adamstudio</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225721'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 5957818
+  length: 5162
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 7db1428f1372bcffe3b5fe3416c49a0e9076d33ce6a81e9588107465cfe50348

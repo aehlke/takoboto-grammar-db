@@ -1,0 +1,119 @@
+schema_version: 2
+id: 1475
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1475/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: なんとなく
+romanized_label: Vaguely
+alternate_forms: []
+jlpt_level: null
+credits_raw: bamboo4
+meaning: Vaguely, somehow
+meaning_example: Vaguely; somehow
+meaning_notes:
+  - language: ja
+    text: どことなくに通じる
+    html: どことなくに通じる
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1475
+    body_text: |-
+      Vaguely, somehow 
+       Vaguely; somehow 
+       どことなくに通じる
+    body_html: |-
+      <span>Vaguely, somehow</span> <br/> <span>Vaguely; somehow</span> <br/> <span>どことなくに通じる</span>
+    credits_raw: bamboo4
+formations: []
+examples:
+  - source_id: 4920
+    position: 0
+    japanese: あの人はなんとなく母を想いださせる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%af"><span>人は</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a8%e3%81%aa%e3%81%8f"><strong>なんとなく</strong></a><a href="https://takoboto.jp/?q=%e6%af%8d%e3%82%92"><span>母を</span></a><a href="https://takoboto.jp/?q=%e6%83%b3%e3%81%84%e3%81%a0%e3%81%95%e3%81%9b%e3%82%8b%e3%80%82"><span>想いださせる。</span></a>
+    segments:
+      - text: あの人は
+        grammar_highlight: false
+      - text: なんとなく
+        grammar_highlight: true
+      - text: 母を想いださせる。
+        grammar_highlight: false
+    reading: あのひとはなんとなくははをおもいださせる。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: She vaguely resembles my mother.
+        html: |-
+          <span>She </span><strong>vaguely </strong><span>resembles my mother. </span>
+        segments:
+          - text: 'She '
+            grammar_highlight: false
+          - text: 'vaguely '
+            grammar_highlight: true
+          - text: 'resembles my mother. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4921
+    position: 1
+    japanese: なんとなく京都に行きたくなった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a8%e3%81%aa%e3%81%8f"><strong>なんとなく</strong></a><a href="https://takoboto.jp/?q=%e4%ba%ac%e9%83%bd%e3%81%ab"><span>京都に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d%e3%81%9f%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>行きたくなった。</span></a>
+    segments:
+      - text: なんとなく
+        grammar_highlight: true
+      - text: 京都に行きたくなった。
+        grammar_highlight: false
+    reading: なんとなくきょうとにいきたくなった。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Somehow I wanted to go to Kyoto.
+        html: |-
+          <strong>Somehow </strong><span>I wanted to go to Kyoto. </span>
+        segments:
+          - text: 'Somehow '
+            grammar_highlight: true
+          - text: 'I wanted to go to Kyoto. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      なんとなく and どことなく can be used interchangely in many cases. However, なんとなく refers to something that is vague and not capable of pinpointing when it deals with something more or less abstract, whereas どことなく refers to vagueness that deals more or less with physical subject matter.
+    html: |-
+      なんとなく and どことなく can be used interchangely in many cases. However, なんとなく refers to something that is vague and not capable of pinpointing when it deals with something more or less abstract, whereas どことなく refers to vagueness that deals more or less with physical subject matter.
+    credits_raw: bamboo4
+    content_sha256: c34c74f1e697c997d689593cb91006d046eab8b62468ee2892900db0e4154c57
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      A Japanese friend once told me that you could use なんとなく by itself as a reply to a question you don't feel like answering or don't know how to answer specifically. Any native speakers care to agree/disagree with this?
+    html: |-
+      A Japanese friend once told me that you could use なんとなく by itself as a reply to a question you don't feel like answering or don't know how to answer specifically. Any native speakers care to agree/disagree with this?
+    credits_raw: yookoso
+    content_sha256: 5ab3512d81a90c4d30d64498898aa416863b281459a9a74b6bc14016236815bc
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      one of my students used this as a reply in just such a context - when they didn't want to commit to any answer in particular and so I think this usage is generally accepted
+    html: |-
+      one of my students used this as a reply in just such a context - when they didn't want to commit to any answer in particular and so I think this usage is generally accepted
+    credits_raw: kateinnakajima
+    content_sha256: 2952e07e1c8fbae1ab031024a06a412e291a6f5aacc41407f2cbfbc62a55c16f
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:47:02+00:00'
+response_sha256: 224f73a3bfd6796f51bf001a65e5ae4747ba9254dbe5cb10634d7c7c970ee915
+warnings: []

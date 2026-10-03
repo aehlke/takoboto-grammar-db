@@ -1,0 +1,96 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1203
+label: nashi
+title_raw: なし [なし] (nashi)
+title: なし
+reading: なし
+romanized_label: nashi
+category: grammar
+jlpt_level_original: '3'
+meaning: without
+meaning_example: without a coat on
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=nashi
+archive_url: https://web.archive.org/web/20150224225853id_/http://jgram.org/pages/viewOne.php?tagE=nashi
+archive_timestamp: '20150224225853'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: SWLX3VXM6CNBDYR6U7BKHH6WZGT67XMQ
+response_sha256: f2183130eaa8275a59d0dbcd156344cade8123b78ce467514ff040ef0aacab6d
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 3276
+    position: 0
+    japanese: とても寒いけれど、彼女はコートなしで出かけました。
+    body_text: "とても寒いけれど、彼女はコートなしで出かけました。 \n\n\t\tAlthough it is very cold, she went out \n\t\twithout \n\t\ta coat on"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJとても寒いけれど、彼女はコートなしで出かけました。\">\n\t\t\t\tとても寒いけれど、彼女はコート<strong>なしで</strong>出かけました。<strong></strong></a> <br/>\n\t\tAlthough it is very cold, she went out \n\t\t<strong>without </strong>\n\t\ta coat on"
+    credits_raw: tuananh
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3283
+    position: 1
+    japanese: 彼女はコートなしで出かけました
+    body_text: "彼女はコートなしで出かけました\r \n\n\t\tshe went out without wearing a coat"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女はコートなしで出かけました\">\n\t\t\t\t彼女はコートなしで出かけました\r<strong></strong><strong></strong></a> <br/>\n\t\tshe went out without wearing a coat \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Ayumi
+    text: Do you have to add "de" at the end?
+    html: Do you have to add "de" at the end?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: mathrick
+    text: "で indicates a way something is done. Thus コート無しで means literally \"in a coatless fashion\". But you don't have to always use で, for example, 名前無し means nameless or anonymous. Also, it's an noun-like suffix, and you use it with の in adjectival context、 like in 名無しの人。\n\n\n\r\nFor fun factor, it seems that -無し was the negative suffix in classical Japanese, equivalent of modern-day -ない. So although it's an equivalent of a suffix inflected like i-adjectives (形容詞), it behaves like a noun today."
+    html: "で indicates a way something is done. Thus コート無しで means literally \"in a coatless fashion\". But you don't have to always use で, for example, 名前無し means nameless or anonymous. Also, it's an noun-like suffix, and you use it with の in adjectival context、 like in 名無しの人。<br/>\n<br/>\r\nFor fun factor, it seems that -無し was the negative suffix in classical Japanese, equivalent of modern-day -ない. So although it's an equivalent of a suffix inflected like i-adjectives (形容詞), it behaves like a noun today."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: mathrick
+    text: An error crept in, 名前無し there should have really been  名無し.
+    html: An error crept in, 名前無し there should have really been  名無し.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: nuki
+    label: nuki
+    annotation_text: nuki [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=nuki">nuki</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "なし [なし] (nashi)\n    Meaning: without \n    Example: without a coat on\n    JLPT Level: 3\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>なし [なし] (nashi)</span><br/>    <span><b>Meaning</b>: without </span><br/>    <b>Example</b>: <i>without a coat on</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225853'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 7558230
+  length: 5477
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 5465f60eb23963d54ce8bf97b2422d80294dcfcdda2bbfd8c73b641331fa5407

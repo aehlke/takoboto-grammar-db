@@ -1,0 +1,112 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1143
+label: itasu
+title_raw: 致す [いたす] (itasu)
+title: 致す
+reading: いたす
+romanized_label: itasu
+category: grammar
+jlpt_level_original: '1'
+meaning: to do (humble)
+meaning_example: null
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=itasu
+archive_url: https://web.archive.org/web/20150224225913id_/http://jgram.org/pages/viewOne.php?tagE=itasu
+archive_timestamp: '20150224225913'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: JIVRDBKYWDVKLK3ZB3MCXW2CSFONLXHN
+response_sha256: 8903a9c7a14b969cf167263f58b2208a4ba39c9564aaefedb6caa590c3d6da8e
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "see \x01"
+    html: "see <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 3983
+    position: 0
+    japanese: 今後とも努力を致す所存であります。
+    body_text: "今後とも努力を致す所存であります。 \n\n\t\tWe will make further efforts for it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ今後とも努力を致す所存であります。\">\n\t\t\t\t今後とも努力を<strong>致す</strong>所存であります。<strong></strong></a> <br/>\n\t\tWe will make further efforts for it. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5520
+    position: 1
+    japanese: その頃わたくし共は北山の掘立小屋同様寝起きをいたして...
+    body_text: "その頃わたくし共は北山の掘立小屋同様寝起きをいたして...\r\n  \n\n\t\tAt about that time, we lived in a shack in Kitayama, where being awake and sleeping were the same...(from Mori Ogai's \"Takasebune\")."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJその頃わたくし共は北山の掘立小屋同様寝起きをいたして... \">\n\t\t\t\tその頃わたくし共は北山の掘立小屋同様寝起きをいたして...\r\n<strong> </strong><strong></strong></a> <br/>\n\t\tAt about that time, we lived in a shack in Kitayama, where being awake and sleeping were the same...(from Mori Ogai's \"Takasebune\"). \n\t\t<strong> </strong>"
+    credits_raw: Ness
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "致す：「する」の謙譲語。動作者を低めることで聞き手を敬う。多く下に「ます」を付けて用いる。 from 大辞林\n\n\n\r\n混乱する〜(-.-;)"
+    html: "致す：「する」の謙譲語。動作者を低めることで聞き手を敬う。多く下に「ます」を付けて用いる。 from 大辞林<br/>\n<br/>\r\n混乱する〜(-.-;)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: bamboo4
+    text: |-
+      堀田小屋 should be 掘立小屋, meaning a crude shack built by inserting the pillers directly into the ground without using any foundation stones.
+    html: |-
+      堀田小屋 should be 掘立小屋, meaning a crude shack built by inserting the pillers directly into the ground without using any foundation stones.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Ness
+    text: Ah! I was so careful not to mess up my first contibution and I did! Sorry! Thanks, bamboo4, for the catch.
+    html: Ah! I was so careful not to mess up my first contibution and I did! Sorry! Thanks, bamboo4, for the catch.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Miki
+    text: "#\x01 Ness, I think the sentence is missing ところで or ところに : 北山の掘立小屋同様のところに, otherwise the sentence doesn't make sense. Please check the book again."
+    html: "<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=itasu#\x01\">#\x01</a></b> Ness, I think the sentence is missing ところで or ところに : 北山の掘立小屋同様のところに, otherwise the sentence doesn't make sense. Please check the book again."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bamboo4
+    text: "Re #\x01: Correct version is: 其頃わたくし共は北山の堀立小屋同樣の所に寢起をいたして."
+    html: "Re <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=itasu#\x01\">#\x01</a></b>: Correct version is: 其頃わたくし共は北山の堀立小屋同樣の所に寢起をいたして."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "致す [いたす] (itasu)\n    Meaning: to do (humble) \n    JLPT Level: 1\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>致す [いたす] (itasu)</span><br/>    <span><b>Meaning</b>: to do (humble) </span><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225913'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 7880153
+  length: 5649
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 6aa88354cddc362ec6c07f51448d1d83b38433b077ce085d34a942a8ee97b896

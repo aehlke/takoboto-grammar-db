@@ -61,7 +61,7 @@ class RecoveryTests(unittest.TestCase):
     def test_changed_payload_remains_blocked_even_with_matching_index_digest(self):
         self.assertFalse(self.replay(self.body + b'<!-- changed -->')['complete'])
         self.assertEqual(read_archive_records(self.root), [])
-        self.assertEqual(len(list((self.root / 'review-records').glob('*.json'))), 1)
+        self.assertEqual(len(list((self.root / 'review-records').glob('*.yaml'))), 1)
         self.assertFalse(audit_archive(self.root)['historical_coverage_complete'])
 
     def test_unindexed_redirect_is_not_equivalence_evidence(self):

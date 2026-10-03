@@ -1,0 +1,336 @@
+schema_version: 2
+id: 861
+source: takoboto
+source_url: https://takoboto.jp/bunpo/861/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: よう
+romanized_label: you
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: appearance, looks, seems
+meaning_example: A sound like rain falling
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_861
+    body_text: |-
+      appearance, looks, seems 
+       A sound like rain falling
+    body_html: |-
+      <span>appearance, looks, seems</span> <br/> <span>A sound like rain falling</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_861
+    body_text: Verb (casual form)+ようい-adjective+ような-adjective+な+ようNoun+の+よう
+    body_html: |-
+      <div><div><div>Verb (casual form)</div></div><div><div>+</div><div>よう</div></div></div><div><div><div>い-adjective</div></div><div><div>+</div><div>よう</div></div></div><div><div><div>な-adjective</div></div><div><div>+</div><div>な</div></div><div><div>+</div><div>よう</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>よう</div></div></div>
+    credits_raw: null
+formations:
+  - Verb (casual form) + よう
+  - い-adjective + よう
+  - な-adjective + な + よう
+  - Noun + の + よう
+examples:
+  - source_id: 689
+    position: 0
+    japanese: 雨が降るような音がしました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c%e9%99%8d%e3%82%8b"><span>雨が降る</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86"><strong>よう</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e9%9f%b3%e3%81%8c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>な音がしました。</span></a>
+    segments:
+      - text: 雨が降る
+        grammar_highlight: false
+      - text: よう
+        grammar_highlight: true
+      - text: な音がしました。
+        grammar_highlight: false
+    reading: あめがふるようなおとがしました。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: There was a sound like  rain falling.
+        html: |-
+          <span>There was a sound </span><strong>like </strong><span> rain falling. </span>
+        segments:
+          - text: 'There was a sound '
+            grammar_highlight: false
+          - text: 'like '
+            grammar_highlight: true
+          - text: ' rain falling. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 745
+    position: 1
+    japanese: そして、ウッドは「負けたら承知しないぞ」と言うように全員をにらみつけた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%97%e3%81%a6%e3%80%81%e3%82%a6%e3%83%83%e3%83%89%e3%81%af%e3%80%8c"><span>そして、ウッドは「</span></a><a href="https://takoboto.jp/?q=%e8%b2%a0%e3%81%91%e3%81%9f%e3%82%89"><span>負けたら</span></a><a href="https://takoboto.jp/?q=%e6%89%bf%e7%9f%a5%e3%81%97%e3%81%aa%e3%81%84%e3%81%9e%e3%80%8d%e3%81%a8"><span>承知しないぞ」と</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86"><span>言う</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86"><strong>よう</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e5%93%a1%e3%82%92%e3%81%ab%e3%82%89%e3%81%bf%e3%81%a4%e3%81%91%e3%81%9f%e3%80%82"><span>全員をにらみつけた。</span></a>
+    segments:
+      - text: そして、ウッドは「負けたら承知しないぞ」と言う
+        grammar_highlight: false
+      - text: よう
+        grammar_highlight: true
+      - text: に全員をにらみつけた。
+        grammar_highlight: false
+    reading: そして、ウッドは「まけたらしょうちしないぞ」というようにぜんいんをにらみつけた。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Then Wood stared at all the team members like he was saying "I won't accept it if you're defeated!"
+        html: |-
+          <span>Then Wood stared at all the team members </span><strong>like </strong><span>he was saying "I won't accept it if you're defeated!" </span>
+        segments:
+          - text: 'Then Wood stared at all the team members '
+            grammar_highlight: false
+          - text: 'like '
+            grammar_highlight: true
+          - text: 'he was saying "I won''t accept it if you''re defeated!" '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 776
+    position: 2
+    japanese: 星のように輝いてる瞳。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%98%9f%e3%81%ae"><span>星の</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86"><strong>よう</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e8%bc%9d%e3%81%84%e3%81%a6%e3%82%8b"><span>輝いてる</span></a><a href="https://takoboto.jp/?q=%e7%9e%b3%e3%80%82"><span>瞳。</span></a>
+    segments:
+      - text: 星の
+        grammar_highlight: false
+      - text: よう
+        grammar_highlight: true
+      - text: に輝いてる瞳。
+        grammar_highlight: false
+    reading: ほしのようにかがやいてるひとみ。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: Eyes that sparkle like stars.
+        html: |-
+          <span>Eyes that sparkle </span><strong>like </strong><span>stars. </span>
+        segments:
+          - text: 'Eyes that sparkle '
+            grammar_highlight: false
+          - text: 'like '
+            grammar_highlight: true
+          - text: 'stars. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 2940
+    position: 3
+    japanese: そのようなこともあるのでしょうね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86"><strong>よう</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%93%e3%81%a8%e3%82%82%e3%81%82%e3%82%8b%e3%81%ae%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%81%ad%e3%80%82"><span>なこともあるのでしょうね。</span></a>
+    segments:
+      - text: その
+        grammar_highlight: false
+      - text: よう
+        grammar_highlight: true
+      - text: なこともあるのでしょうね。
+        grammar_highlight: false
+    reading: そのようなこともあるのでしょうね。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: I guess something like that could happen.
+        html: |-
+          <span>I guess something </span><strong>like that </strong><span>could happen. </span>
+        segments:
+          - text: 'I guess something '
+            grammar_highlight: false
+          - text: 'like that '
+            grammar_highlight: true
+          - text: 'could happen. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8835
+    position: 4
+    japanese: 安いようだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ae%89%e3%81%84"><span>安い</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86"><strong>よう</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%80%82"><span>だ。</span></a>
+    segments:
+      - text: 安い
+        grammar_highlight: false
+      - text: よう
+        grammar_highlight: true
+      - text: だ。
+        grammar_highlight: false
+    reading: やすいようだ。
+    credits_raw: beno
+    translations:
+      - language: en
+        text: Looks  cheap.
+        html: |-
+          <strong>Looks </strong><span> cheap. </span>
+        segments:
+          - text: 'Looks '
+            grammar_highlight: true
+          - text: ' cheap. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8836
+    position: 5
+    japanese: 重要なようです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%87%8d%e8%a6%81%e3%81%aa"><span>重要な</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86"><strong>よう</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82"><span>です。</span></a>
+    segments:
+      - text: 重要な
+        grammar_highlight: false
+      - text: よう
+        grammar_highlight: true
+      - text: です。
+        grammar_highlight: false
+    reading: じゅうようなようです。
+    credits_raw: beno
+    translations:
+      - language: en
+        text: Looks  important.
+        html: |-
+          <strong>Looks </strong><span> important. </span>
+        segments:
+          - text: 'Looks '
+            grammar_highlight: true
+          - text: ' important. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      V(普通）　　　　ようだ　
+      Aい　　　　　＋ように＋V
+      Aな　　　　　　ような＋N
+      Nの
+    html: |-
+      V(普通）　　　　ようだ　<br/>Aい　　　　　＋ように＋V<br/>Aな　　　　　　ような＋N<br/>Nの
+    credits_raw: nhuel
+    content_sha256: 6ea5c6c3b7bfbad35c9785a9a681d4593cfca6ea868f8901cee60424f22abc09
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: It's this one.
+    html: It's this one.
+    credits_raw: Amatuka
+    content_sha256: 445bc5fa611d6f7d46b6b7cae678d0050382405dd5fae79ea245d3f23fb870e3
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Technically the second example is a sentence fragment.
+    html: Technically the second example is a sentence fragment.
+    credits_raw: Amatuka
+    content_sha256: 44c69a39a203a8921e50cc8d9b098d4a7927cff9bcd5e3849eee3bf57dc05f83
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: It's okay, Amatuka, girls would love it!
+    html: It's okay, Amatuka, girls would love it!
+    credits_raw: bamboo4
+    content_sha256: e4c5df14fe127b75c218d5a2abd4b02cab2be33512b1f17da39bee5b1a85718d
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Formed from 'verb + you' or 'noun no you'
+
+      V = verb
+      N = noun.
+    html: |-
+      Formed from 'verb + you' or 'noun no you'<br/><br/>V = verb<br/>N = noun.
+    credits_raw: Amatuka
+    content_sha256: 7fd3337721af0a63053b6939fe6ebf569c0108bdcde0155d405d5fcc3d82e1b9
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      Wait, isn't 'you-ni' "like" or "as" and 'you-na' "such as"?
+
+      Like - Do as I do.
+      Such As - I don't like bad people such as liars.
+    html: |-
+      Wait, isn't 'you-ni' "like" or "as" and 'you-na' "such as"?<br/><br/>Like - Do as I do.<br/>Such As - I don't like bad people such as liars.
+    credits_raw: Confused Child
+    content_sha256: f58ff4aca34c54b6369444ad1edf4b05c86d0d42d9a7ba537d08d20a06850fcb
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: How does this work in the phrase そのような訳で?
+    html: How does this work in the phrase そのような訳で?
+    credits_raw: nexalacer
+    content_sha256: ff4d703a938d9b0f250e45e017d67d6a4933b009f986685c41b7246c511624fd
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      I have come across the following example:
+      こういった困難を軽減するよう努力することが望ましいと彼は考えている。
+      How does よう in the above sentence differ from よう in this entry?.
+      For me よう in this sentence doesn't seem to fit any grammatical construction.
+    html: |-
+      I have come across the following example:<br/>こういった困難を軽減するよう努力することが望ましいと彼は考えている。<br/>How does よう in the above sentence differ from よう in this entry?.<br/>For me よう in this sentence doesn't seem to fit any grammatical construction.
+    credits_raw: gandal
+    content_sha256: 9f58e9396961f8a9bac1d75349475e5e47e3788cdfd93bb25148e388a6a452f1
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      と言うように in the second sentences still confuses me, could anyone elaborate a bit on it?
+      I might think about と言う as defining「負けたら承知しないぞ」, but I can't grasp what follows from ように.
+    html: |-
+      と言うように in the second sentences still confuses me, could anyone elaborate a bit on it?<br/>I might think about と言う as defining「負けたら承知しないぞ」, but I can't grasp what follows from ように.
+    credits_raw: dullian
+    content_sha256: b10fe7994de23f4f52a0c616c8dfed9473b2c93c36ba0ae102d9c09956cb8d62
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      “よう”と”みたい”と”そう”と”らしい”の違い
+      「よう」、「みたい」、「そう」、「らしい」は、似たような意味を持つ表現ですが、使われ方やニュアンスに違いがあります。以下にそれぞれの使い方とニュアンスを示します：
+      よう: 主に比較や例え、書き言葉での推測に使われます。
+      みたい: 主に比較や例え、話し言葉での推測に使われます。
+      そう: 様子や伝聞の情報を基づく推測に使われます。
+      らしい: 他人の情報や噂に基づく推測に使われます。
+      これらの表現は、話し手の主観や情報を得る方法によって使い分けられます。例えば、「おいしいようだ」はケーキの色や匂いから直感的に判断した表現であり、「おいしいらしい」は他人からの情報を基にした推測です。
+    html: |-
+      “よう”と”みたい”と”そう”と”らしい”の違い<br/>「よう」、「みたい」、「そう」、「らしい」は、似たような意味を持つ表現ですが、使われ方やニュアンスに違いがあります。以下にそれぞれの使い方とニュアンスを示します：<br/>よう: 主に比較や例え、書き言葉での推測に使われます。<br/>みたい: 主に比較や例え、話し言葉での推測に使われます。<br/>そう: 様子や伝聞の情報を基づく推測に使われます。<br/>らしい: 他人の情報や噂に基づく推測に使われます。<br/>これらの表現は、話し手の主観や情報を得る方法によって使い分けられます。例えば、「おいしいようだ」はケーキの色や匂いから直感的に判断した表現であり、「おいしいらしい」は他人からの情報を基にした推測です。
+    credits_raw: Ino
+    content_sha256: 3a9001b478c12a5d980e8a097a296176751878ef64e96338f6fd533000c9661f
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 633
+    label: みたい
+    source_url: https://takoboto.jp/bunpo/633
+  - target_id: 854
+    label: らしい
+    source_url: https://takoboto.jp/bunpo/854
+  - target_id: 856
+    label: だろう
+    source_url: https://takoboto.jp/bunpo/856
+  - target_id: 684
+    label: そう
+    source_url: https://takoboto.jp/bunpo/684
+  - target_id: 1529
+    label: さながら
+    source_url: https://takoboto.jp/bunpo/1529
+  - target_id: 1511
+    label: ごとき, ごとく, ごとし
+    source_url: https://takoboto.jp/bunpo/1511
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:27+00:00'
+response_sha256: 89564b0892dbb898f4e92b2a77ac7b98738b0726ba4858f536e304f95c04865b
+warnings: []

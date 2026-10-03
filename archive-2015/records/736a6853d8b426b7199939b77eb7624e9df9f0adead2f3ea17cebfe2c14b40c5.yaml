@@ -1,0 +1,148 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 341
+label: kotoni
+title_raw: 〜ことに　「は」 [〜ことに　「は」] (kotoni)
+title: 〜ことに　「は」
+reading: 〜ことに　「は」
+romanized_label: kotoni
+category: grammar
+jlpt_level_original: '2'
+meaning: Very; Quite; The 〜 thing is that....
+meaning_example: To my great surprise...
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=kotoni
+archive_url: https://web.archive.org/web/20150224225349id_/http://jgram.org/pages/viewOne.php?tagE=kotoni
+archive_timestamp: '20150224225349'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: 7GWNL7LFBCRUELWNA3ZQW744ONIO5RD7
+response_sha256: 1049d73819915184007c1c474c5bb2d29efad9f34e850d6dd1400435e31172ea
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "いＡ + ことに\n\r\nなＡ + な + ことに\n\r\nＶた(past plain form) + ことに"
+    html: "いＡ + ことに<br/>\r\nなＡ + な + ことに<br/>\r\nＶた(past plain form) + ことに"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: |-
+      This grammar should be used at the head of the sentence. It should be used to emphasize feelings, emotions, or sentiments.
+    html: |-
+      This grammar should be used at the head of the sentence. It should be used to emphasize feelings, emotions, or sentiments.
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 310
+    position: 0
+    japanese: 嬉しいことに４月から、給料が１割りほど上がる。
+    body_text: "嬉しいことに４月から、給料が１割りほど上がる。 \n\n\t\tIt is \n\t\ta totally \n\t\tgreat thing, from April my salary goes up by 10%"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ嬉しいことに４月から、給料が１割りほど上がる。\">\n嬉しい<strong>ことに</strong>４月から、給料が１割りほど上がる。<strong></strong></a> <br/>\n\t\tIt is \n\t\t<strong>a totally </strong>\n\t\tgreat thing, from April my salary goes up by 10%"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5256
+    position: 1
+    japanese: "残念な\r\nことに、ポケットの穴から全部のお釣りを落としてしまいました。"
+    body_text: "残念な\r\nことに、ポケットの穴から全部のお釣りを落としてしまいました。 \n\nUnfortunately \n\t\t, I've lost all my change through a hole in my pocket."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ残念なことに、ポケットの穴から全部のお釣りを落としてしまいました。\">\n\t\t\t\t残念な\r\n<strong>ことに</strong>、ポケットの穴から全部のお釣りを落としてしまいました。<strong></strong></a> <br/>\n<strong>Unfortunately </strong>\n\t\t, I've lost all my change through a hole in my pocket."
+    credits_raw: brsdjbd
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5935
+    position: 2
+    japanese: "ボスは猿を拷問することで快感を得る\r\n."
+    body_text: "ボスは猿を拷問することで快感を得る\r\n. \n\n\t\tMy boss gets his kicks out of torturing monkeys \n\t\t."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJボスは猿を拷問することで快感を得る.\">\n\t\t\t\tボスは猿を拷問することで快感を得る\r\n<strong>.</strong><strong></strong></a> <br/>\n\t\tMy boss gets his kicks out of torturing monkeys \n\t\t<strong>. </strong>"
+    credits_raw: brsdjbd
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6115
+    position: 3
+    japanese: 残念なことに、ストで新幹線が止まり、旅行は中止になってしまった。
+    body_text: "残念なことに、ストで新幹線が止まり、旅行は中止になってしまった。 \n\nQuite \n\t\tunfortunately, the bullet trains have been stopped because of a strike, and our trip got cancelled."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ残念なことに、ストで新幹線が止まり、旅行は中止になってしまった。\">\n\t\t\t\t残念な<strong>ことに</strong>、ストで新幹線が止まり、旅行は中止になってしまった。<strong></strong></a> <br/>\n<strong>Quite </strong>\n\t\tunfortunately, the bullet trains have been stopped because of a strike, and our trip got cancelled."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6116
+    position: 4
+    japanese: 驚いたことには、彼女は7か国語が話せるそうだ。
+    body_text: "驚いたことには、彼女は7か国語が話せるそうだ。 \n\nQuite \n\t\tsurprisingly, I heard that she can speak seven foreign languages."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ驚いたことには、彼女は7か国語が話せるそうだ。\">\n\t\t\t\t驚いた<strong>ことには</strong>、彼女は7か国語が話せるそうだ。<strong></strong></a> <br/>\n<strong>Quite </strong>\n\t\tsurprisingly, I heard that she can speak seven foreign languages."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6419
+    position: 5
+    japanese: 驚いたことになくした財布が無事に警察に届けられていた。
+    body_text: "驚いたことになくした財布が無事に警察に届けられていた。 \n\n\t\tTo my \n\t\tgreat \n\t\tsurprise, my lost wallet made it to the police intact."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ驚いたことになくした財布が無事に警察に届けられていた。\">\n\t\t\t\t驚いた<strong>ことに</strong>なくした財布が無事に警察に届けられていた。<strong></strong></a> <br/>\n\t\tTo my \n\t\t<strong>great </strong>\n\t\tsurprise, my lost wallet made it to the police intact."
+    credits_raw: evilkyra
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6822
+    position: 6
+    japanese: 残念なことに、楽しみにしていたキャンプが雨で中止になった。
+    body_text: "残念なことに、楽しみにしていたキャンプが雨で中止になった。 \n\n\t\tThe unfortunate thing is that the camp I had looked forward to was canceled due to rain."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ残念なことに、楽しみにしていたキャンプが雨で中止になった。\">\n\t\t\t\t残念なことに、楽しみにしていたキャンプが雨で中止になった。<strong></strong><strong></strong></a> <br/>\n\t\tThe unfortunate thing is that the camp I had looked forward to was canceled due to rain. \n\t\t<strong> </strong>"
+    credits_raw: akiokun
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: 誠
+    text: "I think the English translation should be better with 「The 〜 thing is that, .....」for 「〜ことに」. So for\n\r\nex#\x01 嬉しいことに、四月から給料が一割ほど上がる\n\r\n「The happy/hearthening thing is that, from April onwards my salary will go up by around 10%.」I prefer to use \"hearthening\" in this case.\n\r\nNotice the comma is at the ことに\n\n\n\r\nex#\x01「The unfortunate thing is that, I dropped and lost all my change through a hole in my pocket.」"
+    html: "I think the English translation should be better with 「The 〜 thing is that, .....」for 「〜ことに」. So for<br/>\r\nex<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=kotoni#\x01\">#\x01</a></b> 嬉しいことに、四月から給料が一割ほど上がる<br/>\r\n「The happy/hearthening thing is that, from April onwards my salary will go up by around 10%.」I prefer to use \"hearthening\" in this case.<br/>\r\nNotice the comma is at the ことに<br/>\n<br/>\r\nex<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=kotoni#\x01\">#\x01</a></b>「The unfortunate thing is that, I dropped and lost all my change through a hole in my pocket.」"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: rubyhatchet
+    text: "Example #\x01 does not belong in this entry. This must be \"koto ni (ha).\" Also, you can only use the plain past tense of a verb before it, not plain dictionary form."
+    html: "Example <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=kotoni#\x01\">#\x01</a></b> does not belong in this entry. This must be \"koto ni (ha).\" Also, you can only use the plain past tense of a verb before it, not plain dictionary form."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "〜ことに　「は」 [〜ことに　「は」] (kotoni)\n    Meaning: Very; Quite; The 〜 thing is that.... \n    Example: To my great surprise...\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>〜ことに　「は」 [〜ことに　「は」] (kotoni)</span><br/>    <span><b>Meaning</b>: Very; Quite; The 〜 thing is that.... </span><br/>    <b>Example</b>: <i>To my great surprise...</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225349'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 1950887
+  length: 6296
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: d5a51056acb2455b2b83874d4e43a3b7807f6011e9781765970a82869ebf46b0

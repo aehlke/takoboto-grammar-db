@@ -1,0 +1,210 @@
+schema_version: 2
+id: 1328
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1328/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜にたえる
+romanized_label: nitaeru
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: has value; it is worth doing
+meaning_example: It is worth reading that book
+meaning_notes:
+  - language: ja
+    text: 十分に〜に値する・どうにか〜することができる。
+    html: 十分に〜に値する・どうにか〜することができる。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1328
+    body_text: |-
+      has value; it is worth doing 
+       It is worth reading that book 
+       十分に〜に値する・どうにか〜することができる。
+    body_html: |-
+      <span>has value; it is worth doing</span> <br/> <span>It is worth reading that book</span> <br/> <span>十分に〜に値する・どうにか〜することができる。</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 4241
+    position: 0
+    japanese: 十分読むにたえる作品だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8d%81%e5%88%86"><span>十分</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%80"><span>読む</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%9f%e3%81%88%e3%82%8b"><strong>にたえる</strong></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e5%93%81%e3%81%a0%e3%80%82"><span>作品だ。</span></a>
+    segments:
+      - text: 十分読む
+        grammar_highlight: false
+      - text: にたえる
+        grammar_highlight: true
+      - text: 作品だ。
+        grammar_highlight: false
+    reading: じゅうぶんよむにたえるさくひんだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: That book is worth reading
+        html: |-
+          <span>That book </span><strong>is worth </strong><span>reading </span>
+        segments:
+          - text: 'That book '
+            grammar_highlight: false
+          - text: 'is worth '
+            grammar_highlight: true
+          - text: 'reading '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7082
+    position: 1
+    japanese: 趣味で始めた焼き物だが、ようやく市販するにたえる作品ができるようになった
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%b6%a3%e5%91%b3%e3%81%a7"><span>趣味で</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><span>始めた</span></a><a href="https://takoboto.jp/?q=%e7%84%bc%e3%81%8d"><span>焼き</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%81%a0%e3%81%8c%e3%80%81%e3%82%88%e3%81%86%e3%82%84%e3%81%8f"><span>物だが、ようやく</span></a><a href="https://takoboto.jp/?q=%e5%b8%82%e8%b2%a9%e3%81%99%e3%82%8b"><span>市販する</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%9f%e3%81%88%e3%82%8b"><strong>にたえる</strong></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e5%93%81%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f"><span>作品ができるようになった</span></a>
+    segments:
+      - text: 趣味で始めた焼き物だが、ようやく市販する
+        grammar_highlight: false
+      - text: にたえる
+        grammar_highlight: true
+      - text: 作品ができるようになった
+        grammar_highlight: false
+    reading: しゅみではじめたやきものだが、ようやくしはんするにたえるさくひんができるようになった
+    credits_raw: va_tei
+    translations:
+      - language: en
+        text: I just started pottery as a hobby, but pretty soon I was making stuff that was good enough for sale
+        html: |-
+          <span>I just started pottery as a hobby, but pretty soon I was making stuff that was </span><strong>good enough for </strong><span>sale </span>
+        segments:
+          - text: 'I just started pottery as a hobby, but pretty soon I was making stuff that was '
+            grammar_highlight: false
+          - text: 'good enough for '
+            grammar_highlight: true
+          - text: 'sale '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7086
+    position: 2
+    japanese: あの子は大人の鑑賞にたえる絵を描く
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e3%81%af"><span>子は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e4%ba%ba%e3%81%ae"><span>大人の</span></a><a href="https://takoboto.jp/?q=%e9%91%91%e8%b3%9e"><span>鑑賞</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%9f%e3%81%88%e3%82%8b"><strong>にたえる</strong></a><a href="https://takoboto.jp/?q=%e7%b5%b5%e3%82%92"><span>絵を</span></a><a href="https://takoboto.jp/?q=%e6%8f%8f%e3%81%8f"><span>描く</span></a>
+    segments:
+      - text: あの子は大人の鑑賞
+        grammar_highlight: false
+      - text: にたえる
+        grammar_highlight: true
+      - text: 絵を描く
+        grammar_highlight: false
+    reading: あのこはおとなのかんしょうにたえるえをえがく
+    credits_raw: boobataur
+    translations:
+      - language: en
+        text: That kid draws pictures that are worthy of adult appreciation.
+        html: |-
+          <span>That kid draws pictures that are </span><strong>worthy of </strong><span>adult appreciation. </span>
+        segments:
+          - text: 'That kid draws pictures that are '
+            grammar_highlight: false
+          - text: 'worthy of '
+            grammar_highlight: true
+          - text: 'adult appreciation. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8020
+    position: 3
+    japanese: ずいぶん値段が安いけど、使用にたえるかどうか、ちゃんと確認して買った方がいい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9a%e3%81%84%e3%81%b6%e3%82%93"><span>ずいぶん</span></a><a href="https://takoboto.jp/?q=%e5%80%a4%e6%ae%b5%e3%81%8c"><span>値段が</span></a><a href="https://takoboto.jp/?q=%e5%ae%89%e3%81%84%e3%81%91%e3%81%a9%e3%80%81"><span>安いけど、</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e7%94%a8"><span>使用</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%9f%e3%81%88%e3%82%8b"><strong>にたえる</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b%e3%80%81%e3%81%a1%e3%82%83%e3%82%93%e3%81%a8"><span>かどうか、ちゃんと</span></a><a href="https://takoboto.jp/?q=%e7%a2%ba%e8%aa%8d%e3%81%97%e3%81%a6"><span>確認して</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%9f"><span>買った</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84%e3%80%82"><span>方がいい。</span></a>
+    segments:
+      - text: ずいぶん値段が安いけど、使用
+        grammar_highlight: false
+      - text: にたえる
+        grammar_highlight: true
+      - text: かどうか、ちゃんと確認して買った方がいい。
+        grammar_highlight: false
+    reading: ずいぶんねだんがやすいけど、しようにたえるかどうか、ちゃんとかくにんしてかったほうがいい。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: The price may be very cheap, but before you buy it you should make sure to check whether it merits use or not.
+        html: |-
+          <span>The price may be very cheap, but before you buy it you should make sure to check whether it merits use or not. </span>
+        segments:
+          - text: 'The price may be very cheap, but before you buy it you should make sure to check whether it merits use or not. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 耐える = to put up with, be able bear.
+    html: 耐える = to put up with, be able bear.
+    credits_raw: dc
+    content_sha256: 6c06f92bdd1894f77cfc08bfe1e364f6ee12a88fd35852e9b88f41cc9034e4b0
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p67 - no.64'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p67 - no.64
+    credits_raw: LR
+    content_sha256: e1d2c51109f69e90a2cc118fa487118c016548b2d733425c2a451466c740f9aa
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      注意
+      While the verb 耐える as a piece of vocabulary means being able to withstand / endure, the grammar phrase にたえる means to deserve, be worthy of, to have value in... にたえる is completely different from 耐える!
+    html: |-
+      <b>注意</b><br/>While the verb 耐える as a piece of vocabulary means being able to withstand / endure, the grammar phrase にたえる means to deserve, be worthy of, to have value in... <b><strong>にたえる is completely different from 耐える</strong></b>!
+    credits_raw: LR
+    content_sha256: f1a011675e244b0a91e01338510dabd791e5f6a7c6da233f053fc03cec69db0c
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Customarily used with a set number of words such as 市販、鑑賞、読む、見る、聞く、批判、評価 (worthy of being sold, admired, read, seen, heard, criticism/comment, evaluation)
+    html: |-
+      Customarily used with a set number of words such as 市販、鑑賞、読む、見る、聞く、批判、評価 (worthy of being sold, admired, read, seen, heard, criticism/comment, evaluation)
+    credits_raw: LR
+    content_sha256: 9911abdfab1be695908e3cb857878bdd9a2943aff64dbfdc37c88e792feeb3c2
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: I have found that this entry, just like the one on に耐えない, is considered as belonging to Level 1 of JPLT.
+    html: I have found that this entry, just like the one on に耐えない, is considered as belonging to Level 1 of JPLT.
+    credits_raw: olivier
+    content_sha256: ebd8b08005235810754867a5390b5bd552d06f6dfe8c3b49295df9142f10806b
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: Moving this one, also, to JLPT 1 - 2010/12/04
+    html: Moving this one, also, to JLPT 1 - 2010/12/04
+    credits_raw: LR
+    content_sha256: 1ba4c926eae275c5e3f5cda80de63b9685c71c45882913f500dc6aea1057d0a1
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: changed example sentences that were unrelated to this grammar entry.
+    html: changed example sentences that were unrelated to this grammar entry.
+    credits_raw: LR
+    content_sha256: 53ca2961dc1bb8e28eed18880d87c413672c5b4d5d7467fafb28974fbc7d377c
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1330
+    label: 〜にたえない
+    source_url: https://takoboto.jp/bunpo/1330
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:44:41+00:00'
+response_sha256: 37e965bac75c603fb26029a86fc9f6fe19b25791a608a3b90d77339011cce917
+warnings: []

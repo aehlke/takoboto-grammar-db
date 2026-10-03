@@ -1,0 +1,165 @@
+schema_version: 2
+id: 1297
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1297/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: たかだか (高高)
+romanized_label: takadaka
+alternate_forms: []
+jlpt_level: 1
+credits_raw: bamboo4
+meaning: At most
+meaning_example: At the very outside
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1297
+    body_text: |-
+      At most 
+       At the very outside
+    body_html: |-
+      <span>At most</span> <br/> <span>At the very outside</span>
+    credits_raw: bamboo4
+formations: []
+examples:
+  - source_id: 1128
+    position: 0
+    japanese: この仕事だったらたかだか三日もあればできる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%a0%e3%81%a3%e3%81%9f%e3%82%89"><span>仕事だったら</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%8b%e3%81%a0%e3%81%8b"><strong>たかだか</strong></a><a href="https://takoboto.jp/?q=%e4%b8%89%e6%97%a5%e3%82%82%e3%81%82%e3%82%8c%e3%81%b0%e3%81%a7%e3%81%8d%e3%82%8b%e3%80%82"><span>三日もあればできる。</span></a>
+    segments:
+      - text: この仕事だったら
+        grammar_highlight: false
+      - text: たかだか
+        grammar_highlight: true
+      - text: 三日もあればできる。
+        grammar_highlight: false
+    reading: このしごとだったらたかだかさんにちもあればできる。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: This work can be completed within about three days at the outside.
+        html: |-
+          <span>This work can be completed within about three days </span><strong>at the outside. </strong>
+        segments:
+          - text: 'This work can be completed within about three days '
+            grammar_highlight: false
+          - text: 'at the outside. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8090
+    position: 1
+    japanese: パーティーの出席者はたかだか20人だろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc%e3%81%ae"><span>パーティーの</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e5%b8%ad%e8%80%85%e3%81%af"><span>出席者は</span></a><a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%8b%e3%81%a0%e3%81%8b"><strong>たかだか</strong></a><a href="https://takoboto.jp/?q=20"><span>20</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>人だろう。</span></a>
+    segments:
+      - text: パーティーの出席者は
+        grammar_highlight: false
+      - text: たかだか
+        grammar_highlight: true
+      - text: 20人だろう。
+        grammar_highlight: false
+    reading: パーティーのしゅっせきしゃはたかだかにんだろう。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: No more than (At best, only) 20 people will come to the party.
+        html: |-
+          <strong>No more than (At best, only) </strong><span>20 people will come to the party. </span>
+        segments:
+          - text: 'No more than (At best, only) '
+            grammar_highlight: true
+          - text: '20 people will come to the party. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8091
+    position: 2
+    japanese: たかだか五万円稼いだくらいでいばるな。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%8b%e3%81%a0%e3%81%8b"><strong>たかだか</strong></a><a href="https://takoboto.jp/?q=%e4%ba%94%e4%b8%87%e5%86%86%e7%a8%bc%e3%81%84%e3%81%a0%e3%81%8f%e3%82%89%e3%81%84%e3%81%a7%e3%81%84%e3%81%b0%e3%82%8b%e3%81%aa%e3%80%82"><span>五万円稼いだくらいでいばるな。</span></a>
+    segments:
+      - text: たかだか
+        grammar_highlight: true
+      - text: 五万円稼いだくらいでいばるな。
+        grammar_highlight: false
+    reading: たかだかごまんえんかせいだくらいでいばるな。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Don't be cocky about making a mere 50,000 yen.
+        html: |-
+          <span>Don't be cocky about making a </span><strong>mere </strong><span>50,000 yen. </span>
+        segments:
+          - text: 'Don''t be cocky about making a '
+            grammar_highlight: false
+          - text: 'mere '
+            grammar_highlight: true
+          - text: '50,000 yen. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: is this the same as [seizei] ?
+    html: is this the same as [seizei] ?
+    credits_raw: dc
+    content_sha256: 45503deac0d2dfe8d03604624219353ca1058e1a52ea700996e3bb6765f239d9
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Yes, it is sinonymous to [seizei]
+    html: Yes, it is sinonymous to [seizei]
+    credits_raw: bamboo4
+    content_sha256: 668dac78ee9995f0e7a5b774530372cc3477236c6857b3d8a6acb98efa9e8a51
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Can anyone make use of sentence to use Seizei
+    html: Can anyone make use of sentence to use Seizei
+    credits_raw: Narender
+    content_sha256: 00f3debab9a2d1bf28cd61abef7bb3bfef17b1f25af500ec4cae34d065ba81c0
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: 'Please check [seizei]. Especially, #1111'
+    html: 'Please check [seizei]. Especially, #1111'
+    credits_raw: Miki
+    content_sha256: 952935440b8bc11666e65c1c9c47cdd832ea6d9405d5013adf50ff42825ed756
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Proper translation for takadaka is "At best".
+      At most has opposite meaning.
+    html: |-
+      Proper translation for takadaka is "At best".<br/>At most has opposite meaning.
+    credits_raw: christ
+    content_sha256: c0e589c9b8a9c17755caf5756d7974ce8a20f6a4b6f5a72c5cf389292c8a3e09
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: Narender-san. Ex：せいぜい勉強しておけよ。Study as hard as possible (you can).
+    html: Narender-san. Ex：せいぜい勉強しておけよ。Study as hard as possible (you can).
+    credits_raw: karekano
+    content_sha256: ec7efade80073178563de061ddf6bf34a0ce4c80350096b29b6c3f46c5fa784d
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 937
+    label: せいぜい (精精)
+    source_url: https://takoboto.jp/bunpo/937
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:46:12+00:00'
+response_sha256: fa2203439d152144cf4710491dd69ff3e3f4bba4714a911000001aa863a3cf5f
+warnings: []

@@ -1,0 +1,372 @@
+schema_version: 2
+id: 1302
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1302/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: させる
+romanized_label: saseru
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: make, let someone do something
+meaning_example: I made my daughter study
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1302
+    body_text: |-
+      make, let someone do something 
+       I made my daughter study
+    body_html: |-
+      <span>make, let someone do something</span> <br/> <span>I made my daughter study</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 1030
+    position: 0
+    japanese: 田中さんは娘を大学へ行かせた
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%94%b0%e4%b8%ad%e3%81%95%e3%82%93%e3%81%af"><span>田中さんは</span></a><a href="https://takoboto.jp/?q=%e5%a8%98%e3%82%92"><span>娘を</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e3%81%b8"><span>大学へ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8b%e3%81%9b%e3%81%9f"><strong>行かせた</strong></a>
+    segments:
+      - text: 田中さんは娘を大学へ
+        grammar_highlight: false
+      - text: 行かせた
+        grammar_highlight: true
+    reading: たなかさんはむすめをだいがくへいかせた
+    credits_raw: d4, Miki
+    translations:
+      - language: en
+        text: Tanaka san made/let his daughter go to college
+        html: |-
+          <span>Tanaka san </span><span>made/let </span><strong>his daughter go to college </strong>
+        segments:
+          - text: 'Tanaka san made/let '
+            grammar_highlight: false
+          - text: 'his daughter go to college '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3188
+    position: 1
+    japanese: そんなことさせるなんて、あんたも強情だね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%93%e3%81%aa%e3%81%93%e3%81%a8"><span>そんなこと</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%9b%e3%82%8b"><strong>させる</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a6%e3%80%81%e3%81%82%e3%82%93%e3%81%9f%e3%82%82"><span>なんて、あんたも</span></a><a href="https://takoboto.jp/?q=%e5%bc%b7%e6%83%85%e3%81%a0%e3%81%ad%e3%80%82"><span>強情だね。</span></a>
+    segments:
+      - text: そんなこと
+        grammar_highlight: false
+      - text: させる
+        grammar_highlight: true
+      - text: なんて、あんたも強情だね。
+        grammar_highlight: false
+    reading: そんなことさせるなんて、あんたもごうじょうだね。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: You must be pretty hardheaded to make him do that.
+        html: |-
+          <span>You must be pretty hardheaded </span><strong>to make him </strong><span>do that. </span>
+        segments:
+          - text: 'You must be pretty hardheaded '
+            grammar_highlight: false
+          - text: 'to make him '
+            grammar_highlight: true
+          - text: 'do that. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4968
+    position: 2
+    japanese: あなたの息子さんを親離れさせるべきです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>あなたの</span></a><a href="https://takoboto.jp/?q=%e6%81%af%e5%ad%90%e3%81%95%e3%82%93%e3%82%92"><span>息子さんを</span></a><a href="https://takoboto.jp/?q=%e8%a6%aa%e9%9b%a2%e3%82%8c"><span>親離れ</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%9b%e3%82%8b"><strong>させる</strong></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8d%e3%81%a7%e3%81%99%e3%80%82"><span>べきです。</span></a>
+    segments:
+      - text: あなたの息子さんを親離れ
+        grammar_highlight: false
+      - text: させる
+        grammar_highlight: true
+      - text: べきです。
+        grammar_highlight: false
+    reading: あなたのむすこさんをおやはなれさせるべきです。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You should make your son independent from you.
+        html: |-
+          <span>You should </span><strong>make </strong><span>your son </span><strong>independent </strong><span>from you. </span>
+        segments:
+          - text: 'You should '
+            grammar_highlight: false
+          - text: 'make '
+            grammar_highlight: true
+          - text: 'your son '
+            grammar_highlight: false
+          - text: 'independent '
+            grammar_highlight: true
+          - text: 'from you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4969
+    position: 3
+    japanese: あなたに心配させるつもりがない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab%e5%bf%83%e9%85%8d"><span>あなたに心配</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%9b%e3%82%8b"><strong>させる</strong></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%82%82%e3%82%8a%e3%81%8c%e3%81%aa%e3%81%84%e3%80%82"><span>つもりがない。</span></a>
+    segments:
+      - text: あなたに心配
+        grammar_highlight: false
+      - text: させる
+        grammar_highlight: true
+      - text: つもりがない。
+        grammar_highlight: false
+    reading: あなたにしんぱいさせるつもりがない。
+    credits_raw: Miki, Sodoo12
+    translations:
+      - language: en
+        text: I don't mean to make  you worry.
+        html: |-
+          <span>I don't mean to </span><strong>make </strong><span> you </span><strong>worry. </strong>
+        segments:
+          - text: 'I don''t mean to '
+            grammar_highlight: false
+          - text: 'make '
+            grammar_highlight: true
+          - text: ' you '
+            grammar_highlight: false
+          - text: 'worry. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4970
+    position: 4
+    japanese: どうしても私の言葉を彼に信じさせる事ができなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6%e3%82%82"><span>どうしても</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e8%91%89%e3%82%92"><span>言葉を</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab"><span>彼に</span></a><a href="https://takoboto.jp/?q=%e4%bf%a1%e3%81%98"><span>信じ</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%9b%e3%82%8b"><strong>させる</strong></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>事ができなかった。</span></a>
+    segments:
+      - text: どうしても私の言葉を彼に信じ
+        grammar_highlight: false
+      - text: させる
+        grammar_highlight: true
+      - text: 事ができなかった。
+        grammar_highlight: false
+    reading: どうしてもわたしのことばをかれにしんじさせることができなかった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I could never make him believe what I said.
+        html: |-
+          <span>I could never </span><strong>make </strong><span>him </span><strong>believe what I said. </strong>
+        segments:
+          - text: 'I could never '
+            grammar_highlight: false
+          - text: 'make '
+            grammar_highlight: true
+          - text: 'him '
+            grammar_highlight: false
+          - text: 'believe what I said. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4971
+    position: 5
+    japanese: サリーは弟にバスルームを掃除させた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b5%e3%83%aa%e3%83%bc%e3%81%af"><span>サリーは</span></a><a href="https://takoboto.jp/?q=%e5%bc%9f%e3%81%ab%e3%83%90%e3%82%b9%e3%83%ab%e3%83%bc%e3%83%a0%e3%82%92"><span>弟にバスルームを</span></a><a href="https://takoboto.jp/?q=%e6%8e%83%e9%99%a4"><span>掃除</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%9b%e3%81%9f%e3%80%82"><strong>させた。</strong></a>
+    segments:
+      - text: サリーは弟にバスルームを掃除
+        grammar_highlight: false
+      - text: させた。
+        grammar_highlight: true
+    reading: サリーはおとうとにバスルームをそうじさせた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Sally made her brother clean the bathroom.
+        html: |-
+          <span>Sally </span><strong>made </strong><span>her brother </span><strong>clean the bathroom. </strong>
+        segments:
+          - text: 'Sally '
+            grammar_highlight: false
+          - text: 'made '
+            grammar_highlight: true
+          - text: 'her brother '
+            grammar_highlight: false
+          - text: 'clean the bathroom. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4972
+    position: 6
+    japanese: 私は彼に計画を変更させた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab"><span>彼に</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%82%92"><span>計画を</span></a><a href="https://takoboto.jp/?q=%e5%a4%89%e6%9b%b4"><span>変更</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%9b%e3%81%9f%e3%80%82"><strong>させた。</strong></a>
+    segments:
+      - text: 私は彼に計画を変更
+        grammar_highlight: false
+      - text: させた。
+        grammar_highlight: true
+    reading: わたしはかれにけいかくをへんこうさせた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I made him change his plan.
+        html: |-
+          <span>I </span><strong>made </strong><span>him </span><strong>change his plan. </strong>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'made '
+            grammar_highlight: true
+          - text: 'him '
+            grammar_highlight: false
+          - text: 'change his plan. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4973
+    position: 7
+    japanese: 私は彼に戸を開けさせた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ab"><span>彼に</span></a><a href="https://takoboto.jp/?q=%e6%88%b8%e3%82%92"><span>戸を</span></a><a href="https://takoboto.jp/?q=%e9%96%8b%e3%81%91"><span>開け</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%9b%e3%81%9f%e3%80%82"><strong>させた。</strong></a>
+    segments:
+      - text: 私は彼に戸を開け
+        grammar_highlight: false
+      - text: させた。
+        grammar_highlight: true
+    reading: わたしはかれにとをあけさせた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I made him open the door.
+        html: |-
+          <span>I </span><strong>made </strong><span>him </span><strong>open the door. </strong>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'made '
+            grammar_highlight: true
+          - text: 'him '
+            grammar_highlight: false
+          - text: 'open the door. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4974
+    position: 8
+    japanese: 先生は彼を帰宅させた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%af"><span>先生は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%82%92"><span>彼を</span></a><a href="https://takoboto.jp/?q=%e5%b8%b0%e5%ae%85"><span>帰宅</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%9b%e3%81%9f%e3%80%82"><strong>させた。</strong></a>
+    segments:
+      - text: 先生は彼を帰宅
+        grammar_highlight: false
+      - text: させた。
+        grammar_highlight: true
+    reading: せんせいはかれをきたくさせた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The teacher let him go home.
+        html: |-
+          <span>The teacher </span><strong>let </strong><span>him </span><strong>go home. </strong>
+        segments:
+          - text: 'The teacher '
+            grammar_highlight: false
+          - text: 'let '
+            grammar_highlight: true
+          - text: 'him '
+            grammar_highlight: false
+          - text: 'go home. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8844
+    position: 9
+    japanese: 彼は私に会議の準備させた.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e7%a7%81%e3%81%ab%e4%bc%9a%e8%ad%b0%e3%81%ae%e6%ba%96%e5%82%99"><span>彼は私に会議の準備</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%9b%e3%81%9f"><strong>させた</strong></a><a href="https://takoboto.jp/?q=."><span>.</span></a>
+    segments:
+      - text: 彼は私に会議の準備
+        grammar_highlight: false
+      - text: させた
+        grammar_highlight: true
+      - text: .
+        grammar_highlight: false
+    reading: かれはわたしにかいぎのじゅんびさせた
+    credits_raw: '#4975 veer'
+    translations:
+      - language: en
+        text: He had me prepare for the meeting.
+        html: |-
+          <span>He had me prepare for the meeting. </span>
+        segments:
+          - text: 'He had me prepare for the meeting. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: great page here
+    html: great page here
+    credits_raw: dc
+    content_sha256: dad5a10cb5b87f3f475f7b47aff347b392d9a672fbb7bbbdc11c41529a38cdcc
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Isn't this JLPT Level 3 grammar?
+    html: Isn't this JLPT Level 3 grammar?
+    credits_raw: Jon
+    content_sha256: 4534980de355331132fdd34a41ec627839c9ed9d1c72278794e8015cd564f7cf
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: yep, its level 3. changed...
+    html: yep, its level 3. changed...
+    credits_raw: dc
+    content_sha256: 0139d4e10fd366218b909aeb401cb9a5d311b45f7c902100191a0ce4151743a9
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: させる I belive can also imply that you were allowed to do something.
+    html: させる I belive can also imply that you were allowed to do something.
+    credits_raw: LP
+    content_sha256: 87529aa46137e28e77485300a3a44dd18c8b07b8f12fb44c772afed8717ea1d9
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: that's the "let" part :)
+    html: that's the "let" part :)
+    credits_raw: nnskage
+    content_sha256: c345543feaf662c918700f8906aaad2169abff2de75b3da2b489af11cc52452e
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: Does this need it's own entry? Shouldn't this just be merged with all other causative verb forms?
+    html: Does this need it's own entry? Shouldn't this just be merged with all other causative verb forms?
+    credits_raw: KyleGoetz
+    content_sha256: 1dd9648b38d41948ed9e220a6ab24cc3b4bae1a7742cafdae0963862dc21a56c
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: Does Have the form rasaseru and saserareru?
+    html: Does Have the form rasaseru and saserareru?
+    credits_raw: Adm.Heloise
+    content_sha256: 1e9ab5bc041ab2c8b6ab1a02f1e2996f1f23533602a7c10137ba3d2a48b0f11c
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 846
+    label: 貰う
+    source_url: https://takoboto.jp/bunpo/846
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:43+00:00'
+response_sha256: f0bbf3e3f4f02eedb78e2c4992f605c7dd804154cd2a8b008f911ccea4efef34
+warnings: []

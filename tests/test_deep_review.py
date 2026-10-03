@@ -14,7 +14,7 @@ from takoboto_grammar.cli import verified_feed_labels
 from takoboto_grammar.archive_parser import parse_archive
 from takoboto_grammar.archive_feeds import crawl_feeds, parse_feed
 from takoboto_grammar.parser import ParseError, parse_entry, segments
-from takoboto_grammar.storage import cache_response, read_archive_records, read_archive_feeds, write_json
+from takoboto_grammar.storage import cache_response, read_archive_records, read_archive_feeds, write_json, write_record, load_record
 
 FIXTURES = Path(__file__).parent / 'fixtures'
 RAW = (FIXTURES / 'archive-ageku.html').read_bytes()
@@ -52,7 +52,7 @@ class DeepReviewTests(unittest.TestCase):
         conflicting = RAW + b'<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">license</a>'
         report = crawl_archive(Replay(root, conflicting), inventory)
         self.assertTrue(report['review_required'])
-        self.assertTrue((root / f'records/{KEY}.json').exists(), 'keep earlier evidence')
+        self.assertTrue((root / f'records/{KEY}.yaml').exists(), 'keep earlier evidence')
         # Overwriting the run report must not erase the label's eligibility hold.
         write_json(root, 'crawl-report.json', {'parsed': [], 'review_required': []})
         with self.assertRaisesRegex(ValueError, 'not exportable'):
@@ -82,15 +82,15 @@ class DeepReviewTests(unittest.TestCase):
                 root = self.root()
                 inventory = self.inventory(root)
                 crawl_archive(Replay(root, RAW), inventory)
-                path = root / f'records/{KEY}.json'
-                record = json.loads(path.read_text())
+                path = root / f'records/{KEY}.yaml'
+                record = load_record(path)
                 if key == 'sections':
                     record[key][0]['text'] = 'CORRUPTED'
                 elif key == 'related_entries':
                     record[key][0]['annotation_text'] = 'CORRUPTED'
                 else:
                     record[key] = 'CORRUPTED'
-                write_json(root, f'records/{KEY}.json', record)
+                write_record(root, f'records/{KEY}.yaml', record)
                 self.assertFalse(audit_archive(root)['parsed_records_verified'])
 
     def test_incomplete_cdx_inventory_never_claims_complete_crawl(self):
@@ -201,11 +201,11 @@ class DeepReviewTests(unittest.TestCase):
         root = self.root()
         inventory = self.inventory(root)
         crawl_archive(Replay(root, RAW), inventory)
-        record = json.loads((root / f'records/{KEY}.json').read_text())
+        record = load_record(root / f'records/{KEY}.yaml')
         record['archive_timestamp'] = '20070411155229'
         record['archive_url'] = CAPTURE['archive_url'].replace(CAPTURE['timestamp'], record['archive_timestamp'])
         record['warnings'] = []
-        write_json(root, f'records/{KEY}.json', record)
+        write_record(root, f'records/{KEY}.yaml', record)
         report = audit_archive(root)
         self.assertFalse(report['parsed_records_verified'])
         self.assertTrue(report['warnings'])

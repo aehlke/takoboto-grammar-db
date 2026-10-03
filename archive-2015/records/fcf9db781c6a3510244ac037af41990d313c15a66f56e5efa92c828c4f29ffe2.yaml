@@ -1,0 +1,64 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1787
+label: yokumo~monoda
+title_raw: よくも〜ものだ [よくも〜ものだ] (yokumo~monoda)
+title: よくも〜ものだ
+reading: よくも〜ものだ
+romanized_label: yokumo~monoda
+category: null
+jlpt_level_original: '0'
+meaning: How the hell is it possible, that ...?
+meaning_example: How the hell could someone like him, who never studied during school, become a teacher?
+credits_raw: yousei42
+source_url: http://jgram.org/pages/viewOne.php?tagE=yokumo%7Emonoda
+archive_url: https://web.archive.org/web/20150224225957id_/http://jgram.org/pages/viewOne.php?tagE=yokumo%7Emonoda
+archive_timestamp: '20150224225957'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: CWPVAAQ7P7XK5ER7IDBKFYVEFWZCJXNK
+response_sha256: 7b27b2ed13ae0f2f37f884d78ae82bd601c0681ff36e3e646d53d074d2c1a1a6
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 8679
+    position: 0
+    japanese: こんな大きなケーキをよくもひとりで食べられるものだ
+    body_text: |-
+      こんな大きなケーキをよくもひとりで食べられるものだ 
+
+      How the hell could he eat a cake that big all by himself?
+    body_html: |-
+      <a href="http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこんな大きなケーキをよくもひとりで食べられるものだ">
+      <strong>こんな大きなケーキをよくもひとりで食べられるものだ</strong><strong></strong></a> <br/>
+      <strong>How the hell could he eat a cake that big all by himself? </strong>
+    credits_raw: yousei42
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "よくも〜ものだ [よくも〜ものだ] (yokumo~monoda)\n    Meaning: How the hell is it possible, that ...? \n    Example: How the hell could someone like him, who never studied during school, become a teacher?\n    JLPT Level: 0\n    Author: yousei42"
+    html: |-
+      <span>よくも〜ものだ [よくも〜ものだ] (yokumo~monoda)</span><br/>    <span><b>Meaning</b>: How the hell is it possible, that ...? </span><br/>    <b>Example</b>: <i>How the hell could someone like him, who never studied during school, become a teacher?</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Author</b>: <i>yousei42</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225957'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 8537145
+  length: 5044
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 8244eb088a5e0e254c58761089d8ed2c639c3a76efa457f51ef6b1d9a0fb939c

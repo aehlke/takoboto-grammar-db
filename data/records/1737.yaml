@@ -1,0 +1,129 @@
+schema_version: 2
+id: 1737
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1737/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: までに
+romanized_label: madeni
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Chad
+meaning: by __[day, date, time, etc.]__
+meaning_example: Turn in the report by Friday.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1737
+    body_text: |-
+      by __[day, date, time, etc.]__ 
+       Turn in the report by Friday.
+    body_html: |-
+      <span>by __[day, date, time, etc.]__</span> <br/> <span>Turn in the report by Friday.</span>
+    credits_raw: Chad
+formations: []
+examples:
+  - source_id: 8119
+    position: 0
+    japanese: 明日までにそれを済ませてしまうべきです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%98%8e%e6%97%a5"><span>明日</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%a7%e3%81%ab"><strong>までに</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%82%92"><span>それを</span></a><a href="https://takoboto.jp/?q=%e6%b8%88%e3%81%be%e3%81%9b%e3%81%a6%e3%81%97%e3%81%be%e3%81%86%e3%81%b9%e3%81%8d%e3%81%a7%e3%81%99%e3%80%82"><span>済ませてしまうべきです。</span></a>
+    segments:
+      - text: 明日
+        grammar_highlight: false
+      - text: までに
+        grammar_highlight: true
+      - text: それを済ませてしまうべきです。
+        grammar_highlight: false
+    reading: あしたまでにそれをすませてしまうべきです。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: You ought to have done it by tomorrow.
+        html: |-
+          <span>You ought to have done it by tomorrow. </span>
+        segments:
+          - text: 'You ought to have done it by tomorrow. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8670
+    position: 1
+    japanese: お昼までに戻らないといけない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e6%98%bc"><span>昼</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%a7%e3%81%ab"><strong>までに</strong></a><a href="https://takoboto.jp/?q=%e6%88%bb%e3%82%89%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%e3%80%82"><span>戻らないといけない。</span></a>
+    segments:
+      - text: お昼
+        grammar_highlight: false
+      - text: までに
+        grammar_highlight: true
+      - text: 戻らないといけない。
+        grammar_highlight: false
+    reading: おひるまでにもどらないといけない。
+    credits_raw: mdchachi
+    translations:
+      - language: en
+        text: (I) need to be back by noon.
+        html: |-
+          <span>(I) need to be back by noon. </span>
+        segments:
+          - text: '(I) need to be back by noon. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8849
+    position: 2
+    japanese: 書類を夜までにださなければなりません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9b%b8%e9%a1%9e%e3%82%92%e5%a4%9c"><span>書類を夜</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%81%a7%e3%81%ab"><strong>までに</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%95%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>ださなければなりません。</span></a>
+    segments:
+      - text: 書類を夜
+        grammar_highlight: false
+      - text: までに
+        grammar_highlight: true
+      - text: ださなければなりません。
+        grammar_highlight: false
+    reading: しょるいをよるまでにださなければなりません。
+    credits_raw: '#8671 veer'
+    translations:
+      - language: en
+        text: Document must be submitted by  evening.
+        html: |-
+          <span>Document must be submitted </span><strong>by </strong><span> evening. </span>
+        segments:
+          - text: 'Document must be submitted '
+            grammar_highlight: false
+          - text: 'by '
+            grammar_highlight: true
+          - text: ' evening. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      までに is giving a time limit which must be kept. Finishing the required action before is also fine.
+
+      In opposition まで denotes an action etc. which continues until the given time and does not finish before.
+    html: |-
+      までに is giving a time limit which must be kept. Finishing the required action before is also fine.<br/><br/>In opposition まで denotes an action etc. which continues until the given time and does not finish before.
+    credits_raw: Chad
+    content_sha256: 9255175683caef693709d975fd9df382a4aecebab2611221376489b838832b4f
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Cannot be used with continuous action/state, such as "aru/iru". See made de for subtle difference.
+    html: Cannot be used with continuous action/state, such as "aru/iru". See made de for subtle difference.
+    credits_raw: american57
+    content_sha256: 6c8441d51a0e4f3c213a570e16392a92874417c7d9c45490c36c5963acf4b797
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:35:20+00:00'
+response_sha256: de55fbfaad03b9dc87a0369b18ec8952df9fc9ac562f39354ffe3b8b6836a08c
+warnings: []

@@ -1,0 +1,639 @@
+schema_version: 2
+id: 703
+source: takoboto
+source_url: https://takoboto.jp/bunpo/703/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: つつ
+romanized_label: tsutsu
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: Vm, -ing
+meaning_example: even knowing I need exercise, I don't
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_703
+    body_text: |-
+      Vm, -ing 
+       even knowing I need exercise, I don't
+    body_html: |-
+      <span>Vm, -ing</span> <br/> <span>even knowing I need exercise, I don't</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_703
+    body_text: Verb ます - stem+つつ
+    body_html: |-
+      <div><div><div>Verb ます - stem</div></div><div><div>+</div><div>つつ</div></div></div>
+    credits_raw: null
+formations:
+  - Verb ます - stem + つつ
+examples:
+  - source_id: 820
+    position: 0
+    japanese: コマーシャルのマーケティングの仕事をやりつつ、音楽の仕事もやりました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b3%e3%83%9e%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%ab%e3%81%ae%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ae"><span>コマーシャルのマーケティングの</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%82%92"><span>仕事を</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%82%8a"><span>やり</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e9%9f%b3%e6%a5%bd%e3%81%ae"><span>音楽の</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%82%82%e3%82%84%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>仕事もやりました。</span></a>
+    segments:
+      - text: コマーシャルのマーケティングの仕事をやり
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 、音楽の仕事もやりました。
+        grammar_highlight: false
+    reading: コマーシャルのマーケティングのしごとをやりつつ、おんがくのしごともやりました。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: While continuing with the commercial marketing work I also worked in the music industry.
+        html: |-
+          <strong>While continuing with </strong><span>the commercial marketing work I also worked in the music industry. </span>
+        segments:
+          - text: 'While continuing with '
+            grammar_highlight: true
+          - text: 'the commercial marketing work I also worked in the music industry. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 924
+    position: 1
+    japanese: 食べつつパソコンも使う
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9"><span>食べ</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%82%82"><span>パソコンも</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%86"><span>使う</span></a>
+    segments:
+      - text: 食べ
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: パソコンも使う
+        grammar_highlight: false
+    reading: たべつつパソコンもつかう
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: While eating, I also use the PC
+        html: |-
+          <strong>While </strong><span>eating, I also use the PC </span>
+        segments:
+          - text: 'While '
+            grammar_highlight: true
+          - text: 'eating, I also use the PC '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3266
+    position: 2
+    japanese: 道を歩きつつ本を読む。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%81%93%e3%82%92"><span>道を</span></a><a href="https://takoboto.jp/?q=%e6%ad%a9%e3%81%8d"><span>歩き</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%82%92"><span>本を</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%80%e3%80%82"><span>読む。</span></a>
+    segments:
+      - text: 道を歩き
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 本を読む。
+        grammar_highlight: false
+    reading: みちをあるきつつほんをよむ。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Read the book while walking down the road.
+        html: |-
+          <span>Read the book </span><strong>while </strong><span>walking down the road. </span>
+        segments:
+          - text: 'Read the book '
+            grammar_highlight: false
+          - text: 'while '
+            grammar_highlight: true
+          - text: 'walking down the road. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3267
+    position: 3
+    japanese: 事態は、改善されつつある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%ba%8b%e6%85%8b%e3%81%af%e3%80%81"><span>事態は、</span></a><a href="https://takoboto.jp/?q=%e6%94%b9%e5%96%84%e3%81%95%e3%82%8c"><span>改善され</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8b%e3%80%82"><span>ある。</span></a>
+    segments:
+      - text: 事態は、改善され
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: ある。
+        grammar_highlight: false
+    reading: じたいは、かいぜんされつつある。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: The situation is in the process of improvement.
+        html: |-
+          <span>The situation is </span><strong>in the process of </strong><span>improvement. </span>
+        segments:
+          - text: 'The situation is '
+            grammar_highlight: false
+          - text: 'in the process of '
+            grammar_highlight: true
+          - text: 'improvement. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6073
+    position: 4
+    japanese: ミルクパンをほおばりつつ、チョコパイにも手を伸ばす。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%9f%e3%83%ab%e3%82%af%e3%83%91%e3%83%b3%e3%82%92%e3%81%bb%e3%81%8a%e3%81%b0%e3%82%8a"><span>ミルクパンをほおばり</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%83%81%e3%83%a7%e3%82%b3%e3%83%91%e3%82%a4%e3%81%ab%e3%82%82"><span>、チョコパイにも</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e3%82%92"><span>手を</span></a><a href="https://takoboto.jp/?q=%e4%bc%b8%e3%81%b0%e3%81%99%e3%80%82"><span>伸ばす。</span></a>
+    segments:
+      - text: ミルクパンをほおばり
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 、チョコパイにも手を伸ばす。
+        grammar_highlight: false
+    reading: ミルクパンをほおばりつつ、チョコパイにもてをのばす。
+    credits_raw: maky
+    translations:
+      - language: en
+        text: While stuffing my face with milk bread, I also reach for chocolate pie.
+        html: |-
+          <span>While stuffing my face with milk bread, I also reach for chocolate pie. </span>
+        segments:
+          - text: 'While stuffing my face with milk bread, I also reach for chocolate pie. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6213
+    position: 5
+    japanese: 昨夜、久しぶりに会った友達と酒を飲みつつ語り合った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%98%a8%e5%a4%9c%e3%80%81"><span>昨夜、</span></a><a href="https://takoboto.jp/?q=%e4%b9%85%e3%81%97%e3%81%b6%e3%82%8a%e3%81%ab"><span>久しぶりに</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e3%81%a3%e3%81%9f"><span>会った</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%81%a8"><span>友達と</span></a><a href="https://takoboto.jp/?q=%e9%85%92%e3%82%92"><span>酒を</span></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%81%bf"><span>飲み</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e8%aa%9e%e3%82%8a"><span>語り</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e3%81%a3%e3%81%9f%e3%80%82"><span>合った。</span></a>
+    segments:
+      - text: 昨夜、久しぶりに会った友達と酒を飲み
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 語り合った。
+        grammar_highlight: false
+    reading: さくや、ひさしぶりにあったともだちとさけをのみつつかたりあった。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: Last night, I met up with friend I hadn't seen in a while, and we talked together while drinking.
+        html: |-
+          <span>Last night, I met up with friend I hadn't seen in a while, and we talked together while drinking. </span>
+        segments:
+          - text: 'Last night, I met up with friend I hadn''t seen in a while, and we talked together while drinking. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6214
+    position: 6
+    japanese: 目の前の美しい山を眺めつつ、自分に絵の才能のないことを残念に思った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%9b%ae%e3%81%ae"><span>目の</span></a><a href="https://takoboto.jp/?q=%e5%89%8d%e3%81%ae"><span>前の</span></a><a href="https://takoboto.jp/?q=%e7%be%8e%e3%81%97%e3%81%84"><span>美しい</span></a><a href="https://takoboto.jp/?q=%e5%b1%b1%e3%82%92"><span>山を</span></a><a href="https://takoboto.jp/?q=%e7%9c%ba%e3%82%81"><span>眺め</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ab"><span>自分に</span></a><a href="https://takoboto.jp/?q=%e7%b5%b5%e3%81%ae"><span>絵の</span></a><a href="https://takoboto.jp/?q=%e6%89%8d%e8%83%bd%e3%81%ae%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%82%92"><span>才能のないことを</span></a><a href="https://takoboto.jp/?q=%e6%ae%8b%e5%bf%b5%e3%81%ab"><span>残念に</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%9f%e3%80%82"><span>思った。</span></a>
+    segments:
+      - text: 目の前の美しい山を眺め
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 、自分に絵の才能のないことを残念に思った。
+        grammar_highlight: false
+    reading: めのまえのうつくしいやまをながめつつ、じぶんにえのさいのうのないことをざんねんにおもった。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: While gazing at the beautiful mountain before me, I thought it was a pity that I have no talent for painting.
+        html: |-
+          <strong>While </strong><span>gazing at the beautiful mountain before me, I thought it was a pity that I have no talent for painting. </span>
+        segments:
+          - text: 'While '
+            grammar_highlight: true
+          - text: 'gazing at the beautiful mountain before me, I thought it was a pity that I have no talent for painting. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6215
+    position: 7
+    japanese: このレポートでは、調査の結果を分析しつつ、今後の問題点を明らかにしてみたいと思う。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e3%81%a7%e3%81%af%e3%80%81"><span>このレポートでは、</span></a><a href="https://takoboto.jp/?q=%e8%aa%bf%e6%9f%bb%e3%81%ae"><span>調査の</span></a><a href="https://takoboto.jp/?q=%e7%b5%90%e6%9e%9c%e3%82%92"><span>結果を</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e6%9e%90%e3%81%97"><span>分析し</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e5%be%8c%e3%81%ae"><span>今後の</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e7%82%b9%e3%82%92"><span>問題点を</span></a><a href="https://takoboto.jp/?q=%e6%98%8e%e3%82%89%e3%81%8b%e3%81%ab%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84%e3%81%a8"><span>明らかにしてみたいと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%86%e3%80%82"><span>思う。</span></a>
+    segments:
+      - text: このレポートでは、調査の結果を分析し
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 、今後の問題点を明らかにしてみたいと思う。
+        grammar_highlight: false
+    reading: このレポートでは、ちょうさのけっかをぶんせきしつつ、こんごのもんだいてんをあきらかにしてみたいとおもう。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: In this report, I tried to analyze the results of the investigation while shedding some light on future issues.
+        html: |-
+          <span>In this report, I tried to analyze the results of the investigation while shedding some light on future issues. </span>
+        segments:
+          - text: 'In this report, I tried to analyze the results of the investigation while shedding some light on future issues. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6216
+    position: 8
+    japanese: 運動不足は体に悪いと知れつつ、時間がなくて運動ができない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%81%8b%e5%8b%95%e4%b8%8d%e8%b6%b3%e3%81%af"><span>運動不足は</span></a><a href="https://takoboto.jp/?q=%e4%bd%93%e3%81%ab"><span>体に</span></a><a href="https://takoboto.jp/?q=%e6%82%aa%e3%81%84%e3%81%a8"><span>悪いと</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8c"><span>知れ</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%96%93%e3%81%8c%e3%81%aa%e3%81%8f%e3%81%a6"><span>時間がなくて</span></a><a href="https://takoboto.jp/?q=%e9%81%8b%e5%8b%95%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%82"><span>運動ができない。</span></a>
+    segments:
+      - text: 運動不足は体に悪いと知れ
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 、時間がなくて運動ができない。
+        grammar_highlight: false
+    reading: うんどうふそくはからだにわるいとしれつつ、じかんがなくてうんどうができない。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: Even while knowing that a lack of physical activity is bad for my body, I don't have the time and can't exercise.
+        html: |-
+          <span>Even while knowing that a lack of physical activity is bad for my body, I don't have the time and can't exercise. </span>
+        segments:
+          - text: 'Even while knowing that a lack of physical activity is bad for my body, I don''t have the time and can''t exercise. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6217
+    position: 9
+    japanese: もらった手紙に返事を書かなければと思いつつ、もう10日も経ってしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%82%e3%82%89%e3%81%a3%e3%81%9f"><span>もらった</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%81%ab"><span>手紙に</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e4%ba%8b%e3%82%92"><span>返事を</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%8b%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%a8"><span>書かなければと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%82%82%e3%81%8610"><span>、もう10</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e3%82%82"><span>日も</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>経ってしまった。</span></a>
+    segments:
+      - text: もらった手紙に返事を書かなければと思い
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 、もう10日も経ってしまった。
+        grammar_highlight: false
+    reading: もらったてがみにへんじをかかなければとおもいつつ、もうにちもたってしまった。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: Even while thinking that I have to reply to the letter I received, ten days have already passed.
+        html: |-
+          <strong>Even while </strong><span>thinking that I have to reply to the letter I received, ten days have already passed. </span>
+        segments:
+          - text: 'Even while '
+            grammar_highlight: true
+          - text: 'thinking that I have to reply to the letter I received, ten days have already passed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6218
+    position: 10
+    japanese: 試験の準備を早くはじめようと思いつつも、まだはじめていない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%81%ae"><span>試験の</span></a><a href="https://takoboto.jp/?q=%e6%ba%96%e5%82%99%e3%82%92"><span>準備を</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e3%81%8f%e3%81%af%e3%81%98%e3%82%81%e3%82%88%e3%81%86%e3%81%a8"><span>早くはじめようと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%80%81%e3%81%be%e3%81%a0%e3%81%af%e3%81%98%e3%82%81%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>も、まだはじめていない。</span></a>
+    segments:
+      - text: 試験の準備を早くはじめようと思い
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: も、まだはじめていない。
+        grammar_highlight: false
+    reading: しけんのじゅんびをはやくはじめようとおもいつつも、まだはじめていない。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: Even while thinking that I have to hurry up and start preparing for the exam, I haven't yet started.
+        html: |-
+          <span>Even while thinking that I have to hurry up and start preparing for the exam, I haven't yet started. </span>
+        segments:
+          - text: 'Even while thinking that I have to hurry up and start preparing for the exam, I haven''t yet started. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6912
+    position: 11
+    japanese: 今夜漢字を勉強しようと思いつつ、テレビゲームをやってしまいました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e5%a4%9c%e6%bc%a2%e5%ad%97%e3%82%92"><span>今夜漢字を</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%97%e3%82%88%e3%81%86%e3%81%a8"><span>勉強しようと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%83%86%e3%83%ac%e3%83%93%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%92%e3%82%84%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>、テレビゲームをやってしまいました。</span></a>
+    segments:
+      - text: 今夜漢字を勉強しようと思い
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 、テレビゲームをやってしまいました。
+        grammar_highlight: false
+    reading: こんやかんじをべんきょうしようとおもいつつ、テレビゲームをやってしまいました。
+    credits_raw: aoiaki
+    translations:
+      - language: en
+        text: Thinking I'd study kanji tonight, I ended up playing video games.
+        html: |-
+          <span>Thinking I'd study kanji tonight, I ended up playing video games. </span>
+        segments:
+          - text: 'Thinking I''d study kanji tonight, I ended up playing video games. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7163
+    position: 12
+    japanese: もう起き なければと思いつつも, なかなか起きられない.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86"><span>もう</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%8d+%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%a8"><span>起き なければと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%2c+%e3%81%aa%e3%81%8b%e3%81%aa%e3%81%8b"><span>も, なかなか</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%8d%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84."><span>起きられない.</span></a>
+    segments:
+      - text: もう起き なければと思い
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: も, なかなか起きられない.
+        grammar_highlight: false
+    reading: もうおきなければとおもいつつもなかなかおきられない
+    credits_raw: sureshnihon
+    translations:
+      - language: en
+        text: Even though I want to getup early, but still I`m in the bed.
+        html: |-
+          <strong>Even though </strong><span>I want to getup early, but still I`m in the bed. </span>
+        segments:
+          - text: 'Even though '
+            grammar_highlight: true
+          - text: 'I want to getup early, but still I`m in the bed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8313
+    position: 13
+    japanese: その病気は蔓延しつつあるそうだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e7%97%85%e6%b0%97%e3%81%af"><span>病気は</span></a><a href="https://takoboto.jp/?q=%e8%94%93%e5%bb%b6%e3%81%97"><span>蔓延し</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8b%e3%81%9d%e3%81%86%e3%81%a0%e3%80%82"><span>あるそうだ。</span></a>
+    segments:
+      - text: その病気は蔓延し
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: あるそうだ。
+        grammar_highlight: false
+    reading: そのびょうきはまんえんしつつあるそうだ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: It is said that the disease has been spreading.
+        html: |-
+          <span>It is said that the disease has been spreading. </span>
+        segments:
+          - text: 'It is said that the disease has been spreading. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8314
+    position: 14
+    japanese: 地球は温室効果の増大によりしだいに暖かくなりつつある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%9c%b0%e7%90%83%e3%81%af"><span>地球は</span></a><a href="https://takoboto.jp/?q=%e6%b8%a9%e5%ae%a4%e5%8a%b9%e6%9e%9c%e3%81%ae"><span>温室効果の</span></a><a href="https://takoboto.jp/?q=%e5%a2%97%e5%a4%a7%e3%81%ab%e3%82%88%e3%82%8a%e3%81%97%e3%81%a0%e3%81%84%e3%81%ab"><span>増大によりしだいに</span></a><a href="https://takoboto.jp/?q=%e6%9a%96%e3%81%8b%e3%81%8f%e3%81%aa%e3%82%8a"><span>暖かくなり</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8b%e3%80%82"><span>ある。</span></a>
+    segments:
+      - text: 地球は温室効果の増大によりしだいに暖かくなり
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: ある。
+        grammar_highlight: false
+    reading: ちきゅうはおんしつこうかのぞうだいによりしだいにあたたかくなりつつある。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: The Earth is gradually becoming warmer because of an increase in the greenhouse effect.
+        html: |-
+          <span>The Earth is gradually becoming warmer because of an increase in the greenhouse effect. </span>
+        segments:
+          - text: 'The Earth is gradually becoming warmer because of an increase in the greenhouse effect. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8315
+    position: 15
+    japanese: これ以上はやめておくべきだと思いつつ、彼はビールをもう一杯注文しました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c"><span>これ</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e4%b8%8a%e3%81%af%e3%82%84%e3%82%81%e3%81%a6%e3%81%8a%e3%81%8f%e3%81%b9%e3%81%8d%e3%81%a0%e3%81%a8"><span>以上はやめておくべきだと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%83%93%e3%83%bc%e3%83%ab%e3%82%92%e3%82%82%e3%81%86"><span>彼はビールをもう</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%9d%af%e6%b3%a8%e6%96%87%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>一杯注文しました。</span></a>
+    segments:
+      - text: これ以上はやめておくべきだと思い
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 、彼はビールをもう一杯注文しました。
+        grammar_highlight: false
+    reading: これいじょうはやめておくべきだとおもいつつ、かれはビールをもういちはいちゅうもんしました。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He ordered another glass of beer, though he knew he shouldn`t.
+        html: |-
+          <span>He ordered another glass of beer, though he knew he shouldn`t. </span>
+        segments:
+          - text: 'He ordered another glass of beer, though he knew he shouldn`t. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8579
+    position: 16
+    japanese: 立ち止まりつつ涼みます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%ab%8b%e3%81%a1"><span>立ち</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%81%be%e3%82%8a"><span>止まり</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e6%b6%bc%e3%81%bf%e3%81%be%e3%81%99%e3%80%82"><span>涼みます。</span></a>
+    segments:
+      - text: 立ち止まり
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 涼みます。
+        grammar_highlight: false
+    reading: たちどまりつつすずみます。
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: to stop while cool off
+        html: |-
+          <span>to stop while cool off </span>
+        segments:
+          - text: 'to stop while cool off '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8580
+    position: 17
+    japanese: 先生に臨みたいと思いつつ、先生を避けました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%ab"><span>先生に</span></a><a href="https://takoboto.jp/?q=%e8%87%a8%e3%81%bf%e3%81%9f%e3%81%84%e3%81%a8"><span>臨みたいと</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%84"><span>思い</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%a4"><strong>つつ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%82%92"><span>先生を</span></a><a href="https://takoboto.jp/?q=%e9%81%bf%e3%81%91%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>避けました。</span></a>
+    segments:
+      - text: 先生に臨みたいと思い
+        grammar_highlight: false
+      - text: つつ
+        grammar_highlight: true
+      - text: 、先生を避けました。
+        grammar_highlight: false
+    reading: せんせいにのぞみたいとおもいつつ、せんせいをさけました。
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: Despite wanting to meet with the teacher, I avoided him.
+        html: |-
+          <strong>Despite </strong><span>wanting to meet with the teacher, I avoided him. </span>
+        segments:
+          - text: 'Despite '
+            grammar_highlight: true
+          - text: 'wanting to meet with the teacher, I avoided him. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      masu-stem + tsutsu
+      食べつつ
+    html: |-
+      masu-stem + tsutsu<br/>食べつつ
+    credits_raw: dc
+    content_sha256: cfcd0ba76e1e3aa93365466791dbcb56b2b8f4a2a837be134198a2c80cd12e47
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      〜つつ(1)
+      「Ａつつ、Ｂ」: A and B are done simultaneously.
+      ＊This expression is more "solid" than ながら. See examples #6213, #6214, and #6215.
+      FORMATION:
+      Ｖ(minus ます) + つつ
+
+      〜つつ(2)・つつも
+      ＊This expression is used alongside negative emotions. The forms used most often include: 「〜と思いつつ」 and 「〜と知りつつ」. See examples #6216, #6217, and #6218.
+      FORMATION:
+      Ｖ(minus ます) + つつ・つつも
+    html: |-
+      〜つつ(1)<br/>「Ａつつ、Ｂ」: A and B are done simultaneously.<br/>＊This expression is more "solid" than ながら. See examples #6213, #6214, and #6215.<br/>FORMATION:<br/>Ｖ(minus ます) + つつ<br/><br/>〜つつ(2)・つつも<br/>＊This expression is used alongside negative emotions. The forms used most often include: 「〜と思いつつ」 and 「〜と知りつつ」. See examples #6216, #6217, and #6218.<br/>FORMATION:<br/>Ｖ(minus ます) + つつ・つつも
+    credits_raw: rubyhatchet
+    content_sha256: 43ae3bb18735f3ea721cdef5e5fe892cb6a4f506d12fb7ee6d3370f677eba631
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Pls see also 〜ながら
+    html: Pls see also 〜ながら
+    credits_raw: Miki
+    content_sha256: 880faccae3f2bfda8ea15e272cbadb31cf7144dd4a8f804b74cfb2e8b33d73ac
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Is 何々つつ　mostly a written expression? People look at me funny when I talk like a book, so I'd like to clear that up.
+
+      Any chance of tagging the expressions on jGram as being either mainly written or spoken?
+    html: |-
+      Is 何々つつ　mostly a written expression? People look at me funny when I talk like a book, so I'd like to clear that up.<br/><br/>Any chance of tagging the expressions on jGram as being either mainly written or spoken?
+    credits_raw: Leslie
+    content_sha256: d8ecdc44dccdec35a41fc3d72479556515190b9fb5e7cc84bbd6c51364f7555b
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Formed from Verb -masu base + tsutsu
+
+      Vm = Verb -masu base
+    html: |-
+      Formed from Verb -masu base + tsutsu<br/><br/>Vm = Verb -masu base
+    credits_raw: Amatuka
+    content_sha256: c56142f58d42d9cf44689009905f1a9b26120f10b55453b7ab301a0aeddcf05a
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      tagging written/spoken should be there, you're right. Also, degree of formailty (t-shirt or tie icon?).
+
+      It could be added to the notes section as a text note, though it would be nice to have a popup menu i guess... means more work for people entering stuff though.
+    html: |-
+      tagging written/spoken should be there, you're right. Also, degree of formailty (t-shirt or tie icon?).<br/><br/>It could be added to the notes section as a text note, though it would be nice to have a popup menu i guess... means more work for people entering stuff though.
+    credits_raw: dc
+    content_sha256: e790b1beaee8a8c8817cd2128faa46f110bf05c74f26e5fc8a191d6a2206c0e7
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: I agree that, in conversational context, you don't use つつ but use ながら.
+    html: I agree that, in conversational context, you don't use つつ but use ながら.
+    credits_raw: bamboo4
+    content_sha256: 3fdcf5eb3b029e8948b893e7acc9d37158070abb71a42a680f3c5feb0eb76b04
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      Here, here. I am studying a grammar book right now, but I always have to ask my teacher whether or not a certain piece of grammar is conversational or not. Some kind of Icon or note would be MOST HELPFUL!
+    html: |-
+      Here, here. I am studying a grammar book right now, but I always have to ask my teacher whether or not a certain piece of grammar is conversational or not. Some kind of Icon or note would be MOST HELPFUL!
+    credits_raw: JLJZEN
+    content_sha256: 7bafd623acd347ac3b9145fc801fa369751f4fa4ffa386f16da2d25c876849a4
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      Example #3267 belongs in another category. Also, there are two ways of translating つつ on its own.
+
+      つつ(1) is close to ながら, but つつ(2)・つつも is similar to 〜ているのに.
+    html: |-
+      Example #3267 belongs in another category. Also, there are two ways of translating つつ on its own.<br/><br/>つつ(1) is close to ながら, but つつ(2)・つつも is similar to 〜ているのに.
+    credits_raw: rubyhatchet
+    content_sha256: e131cd343d297bf9a6524932240caf18774731c69df5904beb1eeab43873be62
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      I think there is a spelling mistake in #6214.
+      It should be:
+      目の前の美しい山を眺めつつ、自分に絵のの才狽ﾈいことを残念に思った。
+    html: |-
+      I think there is a spelling mistake in #6214.<br/>It should be:<br/>目の前の美しい山を眺めつつ、自分に絵のの才狽ﾈいことを残念に思った。
+    credits_raw: nuka
+    content_sha256: 189bc8dd9511be00a3a8b10a29b069988b2761499166a46d7d389743652da9fa
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: '#6214 I edited as it looked garbled. 自分に絵のの才狽ﾈいことを残念に思った。→ 自分に絵の才能のないことを残念に思った。'
+    html: '#6214 I edited as it looked garbled. 自分に絵のの才狽ﾈいことを残念に思った。→ 自分に絵の才能のないことを残念に思った。'
+    credits_raw: Miki
+    content_sha256: 883232aca3423de28043d0212a2ab7f21b8a33841a824bdca0bad2294bccd90c
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      I have to disagree with bamboo4. The native Japanese speakers around me use this expression quite a bit in conversation (though certainly they use ながら even more).
+    html: |-
+      I have to disagree with bamboo4. The native Japanese speakers around me use this expression quite a bit in conversation (though certainly they use ながら even more).
+    credits_raw: etihwttam
+    content_sha256: 09715ecedf52516e35046bf962a38fa0ef94bb845e34bfd3210d88c49adaa7a4
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      I'm having difficulty understanding when I should use つつ in a sentence versus ながら. Can anyone shed some light on this for me?
+    html: |-
+      I'm having difficulty understanding when I should use つつ in a sentence versus ながら. Can anyone shed some light on this for me?
+    credits_raw: zerorin00
+    content_sha256: 99bd2c398412616d68a2f9f718a3626ad162f058c7d6838519464a469f1c8dee
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 707
+    label: ながら
+    source_url: https://takoboto.jp/bunpo/707
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:01+00:00'
+response_sha256: e17957096e3a3959b0297955a922009d2f81d787672678c75a6bfde973d5ff13
+warnings: []

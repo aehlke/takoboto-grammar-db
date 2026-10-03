@@ -1,0 +1,143 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1155
+label: ueha
+title_raw: 上は [うえは] (ueha)
+title: 上は
+reading: うえは
+romanized_label: ueha
+category: grammar
+jlpt_level_original: '2'
+meaning: since when
+meaning_example: since you have kids, you should stop smoking
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=ueha
+archive_url: https://web.archive.org/web/20150224225436id_/http://jgram.org/pages/viewOne.php?tagE=ueha
+archive_timestamp: '20150224225436'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: 6GUQUUFBLONODV7ZW2JPIPS3CTPEENWC
+response_sha256: 7ffd517f6a1a3801e322e26208f7a3a8b9939e9cff5981bd7be206eb7d15c73c
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      The clause prior to "ue" contains a situation or fact. The clause following "ue wa" indicates the speaker's decision/hope/or resolve.
+    html: |-
+      The clause prior to "ue" contains a situation or fact. The clause following "ue wa" indicates the speaker's decision/hope/or resolve.
+    credits_raw: lucinda lohmanoota
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 1164
+    position: 0
+    japanese: 動物を飼う上は責任をもって世話をするべきです。
+    body_text: "動物を飼う上は責任をもって世話をするべきです。 \n\nsince \n\t\tyou have a pet, you should pay attention to your responsibility."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ動物を飼う上は責任をもって世話をするべきです。\">\n\t\t\t\t動物を飼う<strong>上は</strong>責任をもって世話をするべきです。<strong></strong></a> <br/>\n<strong>since </strong>\n\t\tyou have a pet, you should pay attention to your responsibility."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3193
+    position: 1
+    japanese: 彼のことだから、「やる」と言った上は、絶対にやるだろう。
+    body_text: "彼のことだから、「やる」と言った上は、絶対にやるだろう。\r\n \n\n\t\tHe's the type that when he says he will do it, he definitely will do it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼のことだから、「やる」と言った上は、絶対にやるだろう。\">\n\t\t\t\t彼のことだから、「やる」と言った上は、絶対にやるだろう。\r\n<strong></strong><strong></strong></a> <br/>\n\t\tHe's the type that when he says he will do it, he definitely will do it. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6749
+    position: 2
+    japanese: 事態がこうなったうえは、もう彼一人には任せてはおけない。
+    body_text: "事態がこうなったうえは、もう彼一人には任せてはおけない。 \n\nSince \n\t\tthe situation have gone this way,  you cannot entrust it only to him another time."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ事態がこうなったうえは\">\n\t\t\t\t事態がこうなった<strong>うえは</strong><strong></strong>、もう彼一人には任せてはおけない。</a> <br/>\n<strong>Since </strong>\n\t\tthe situation have gone this way,  you cannot entrust it only to him another time."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Oops. On second thoughts kill that 'see also'
+    html: Oops. On second thoughts kill that 'see also'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Miki
+    text: "ex#\x01 Although I've changed from 言って上 to 言った上, the J sounds unnatural. 「やる」と言ったからには would be more natural."
+    html: "ex<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=ueha#\x01\">#\x01</a></b> Although I've changed from 言って上 to 言った上, the J sounds unnatural. 「やる」と言ったからには would be more natural."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Miki
+    text: ah or 彼のことだから、「やる」と以上は、絶対にやるだろう。
+    html: ah or 彼のことだから、「やる」と以上は、絶対にやるだろう。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Miki
+    text: oops 抜けた...  彼のことだから、「やる」と言った以上は、絶対にやるだろう。
+    html: oops 抜けた...  彼のことだから、「やる」と言った以上は、絶対にやるだろう。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: benkyou_gariben
+    text: 'What about: タバコは法律上、認められているんですよ。In this case, 上は is like "According to". According to the law, tobacco is acceptable.'
+    html: 'What about: タバコは法律上、認められているんですよ。In this case, 上は is like "According to". According to the law, tobacco is acceptable.'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: とき
+    label: とき
+    annotation_text: とき    (とき is almost always used for time expressions, whereas 上は can be a bit more cause and effect.) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=とき">とき</a>    (とき is almost always used for time expressions, whereas 上は can be a bit more cause and effect.) [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: ijou
+    label: ijou
+    annotation_text: ijou    (very similar) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=ijou">ijou</a>    (very similar) [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 2
+    target_label: karaniha
+    label: karaniha
+    annotation_text: karaniha [tuananh]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=karaniha">karaniha</a> [<a href="http://jgram.org/pages/contributions.php?author=tuananh">tuananh</a>]
+    credits_raw: tuananh
+sections:
+  - kind: header
+    text: "上は [うえは] (ueha)\n    Meaning: since when \n    Example: since you have kids, you should stop smoking\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>上は [うえは] (ueha)</span><br/>    <span><b>Meaning</b>: since when </span><br/>    <b>Example</b>: <i>since you have kids, you should stop smoking</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225436'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 2639198
+  length: 5902
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 8ce43bc6fe9a458924ed95cf8ccc232524e7fd26a8e491df4b89f0ab327252d6

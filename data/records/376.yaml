@@ -1,0 +1,303 @@
+schema_version: 2
+id: 376
+source: takoboto
+source_url: https://takoboto.jp/bunpo/376/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜さえ〜ば
+romanized_label: sae-ba
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: If ~ just If ~ only
+meaning_example: if you just have a map, you
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_376
+    body_text: |-
+      If ~ just If ~ only 
+       if you just have a map, you
+    body_html: |-
+      <span>If ~ just If ~ only</span> <br/> <span>if you just have a map, you</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 361
+    position: 0
+    japanese: 地図さえあれば、何の迷いもなく目的地に到着します。.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%9c%b0%e5%9b%b3"><span>地図</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8c"><span>あれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0%e3%80%81"><strong>ば、</strong></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%ae"><span>何の</span></a><a href="https://takoboto.jp/?q=%e8%bf%b7%e3%81%84%e3%82%82%e3%81%aa%e3%81%8f"><span>迷いもなく</span></a><a href="https://takoboto.jp/?q=%e7%9b%ae%e7%9a%84%e5%9c%b0%e3%81%ab"><span>目的地に</span></a><a href="https://takoboto.jp/?q=%e5%88%b0%e7%9d%80%e3%81%97%e3%81%be%e3%81%99%e3%80%82."><span>到着します。.</span></a>
+    segments:
+      - text: 地図
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: あれ
+        grammar_highlight: false
+      - text: ば、
+        grammar_highlight: true
+      - text: 何の迷いもなく目的地に到着します。.
+        grammar_highlight: false
+    reading: ちずさえあれば、なにのまよいもなくもくてきちにとうちゃくします。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: If only we had a map we'd get to our destination without going astray.
+        html: |-
+          <strong>If only </strong><span>we had a map we'd get to our destination without going astray. </span>
+        segments:
+          - text: 'If only '
+            grammar_highlight: true
+          - text: 'we had a map we''d get to our destination without going astray. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5238
+    position: 1
+    japanese: お金さえあれば、この車を買います。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91"><span>金</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8c"><span>あれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%93%e3%81%ae"><span>、この</span></a><a href="https://takoboto.jp/?q=%e8%bb%8a%e3%82%92"><span>車を</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>買います。</span></a>
+    segments:
+      - text: お金
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: あれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 、この車を買います。
+        grammar_highlight: false
+    reading: おかねさえあれば、このくるまをかいます。
+    credits_raw: eastmael
+    translations:
+      - language: en
+        text: If only I had the money, I would have bought this car.
+        html: |-
+          <strong>If only I had the money, </strong><span>I would have bought this car. </span>
+        segments:
+          - text: 'If only I had the money, '
+            grammar_highlight: true
+          - text: 'I would have bought this car. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6130
+    position: 2
+    japanese: 資料を調べさえすれば、すぐ分かることです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%b3%87%e6%96%99%e3%82%92"><span>資料を</span></a><a href="https://takoboto.jp/?q=%e8%aa%bf%e3%81%b9"><span>調べ</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88%e3%81%99%e3%82%8c%e3%81%b0"><strong>さえすれば</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%99%e3%81%90"><span>、すぐ</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%8b%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99%e3%80%82"><span>分かることです。</span></a>
+    segments:
+      - text: 資料を調べ
+        grammar_highlight: false
+      - text: さえすれば
+        grammar_highlight: true
+      - text: 、すぐ分かることです。
+        grammar_highlight: false
+    reading: しりょうをしらべさえすれば、すぐわかることです。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: If you would only check the documents, you'd understand immediately.
+        html: |-
+          <strong>If you would only </strong><span>check the documents, you'd understand immediately. </span>
+        segments:
+          - text: 'If you would only '
+            grammar_highlight: true
+          - text: 'check the documents, you''d understand immediately. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8405
+    position: 3
+    japanese: あなたが幸せでありさえすれば私は高?ﾈい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c"><span>あなたが</span></a><a href="https://takoboto.jp/?q=%e5%b9%b8%e3%81%9b%e3%81%a7%e3%81%82%e3%82%8a"><span>幸せであり</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0"><span>すれば</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%3f"><span>高?</span></a><a href="https://takoboto.jp/?q=%ef%be%88%e3%81%84%e3%80%82"><span>ﾈい。</span></a>
+    segments:
+      - text: あなたが幸せであり
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すれば私は高?ﾈい。
+        grammar_highlight: false
+    reading: あなたがしあわせでありさえすればわたしはこうい。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I don`t care as long as you are happy.
+        html: |-
+          <span>I don`t care as long as you are happy. </span>
+        segments:
+          - text: 'I don`t care as long as you are happy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8406
+    position: 4
+    japanese: それが欲しかったら頼みさえすればいいですよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%8c"><span>それが</span></a><a href="https://takoboto.jp/?q=%e6%ac%b2%e3%81%97%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%89"><span>欲しかったら</span></a><a href="https://takoboto.jp/?q=%e9%a0%bc%e3%81%bf"><span>頼み</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%82%88%e3%80%82"><span>すればいいですよ。</span></a>
+    segments:
+      - text: それが欲しかったら頼み
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればいいですよ。
+        grammar_highlight: false
+    reading: それがほしかったらたのみさえすればいいですよ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: You have only to ask if you want it.
+        html: |-
+          <span>You have only to ask if you want it. </span>
+        segments:
+          - text: 'You have only to ask if you want it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8407
+    position: 5
+    japanese: 彼女がもう少し速く来てさえいればなあ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%8c%e3%82%82%e3%81%86"><span>彼女がもう</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><span>少し</span></a><a href="https://takoboto.jp/?q=%e9%80%9f%e3%81%8f"><span>速く</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%81%a6"><span>来て</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%82%8c%e3%81%b0%e3%81%aa%e3%81%82%e3%80%82"><span>いればなあ。</span></a>
+    segments:
+      - text: 彼女がもう少し速く来て
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: いればなあ。
+        grammar_highlight: false
+    reading: かのじょがもうすこしはやくきてさえいればなあ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: If she had only come earlier！
+        html: |-
+          <span>If she had only come earlier！ </span>
+        segments:
+          - text: 'If she had only come earlier！ '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8408
+    position: 6
+    japanese: ボタンを押しさえすればよい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%9c%e3%82%bf%e3%83%b3%e3%82%92"><span>ボタンを</span></a><a href="https://takoboto.jp/?q=%e6%8a%bc%e3%81%97"><span>押し</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%82%88%e3%81%84%e3%80%82"><span>すればよい。</span></a>
+    segments:
+      - text: ボタンを押し
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればよい。
+        grammar_highlight: false
+    reading: ボタンをおしさえすればよい。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: All you have to do is to push the button.
+        html: |-
+          <span>All you have to do is to push the button. </span>
+        segments:
+          - text: 'All you have to do is to push the button. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6718
+    position: 7
+    japanese: 住所さえ分かれば、地図で探して行きます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bd%8f%e6%89%80"><span>住所</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%8c"><span>分かれ</span></a><a href="https://takoboto.jp/?q=%e3%81%b0"><strong>ば</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%9c%b0%e5%9b%b3%e3%81%a7"><span>地図で</span></a><a href="https://takoboto.jp/?q=%e6%8e%a2%e3%81%97%e3%81%a6"><span>探して</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d%e3%81%be%e3%81%99%e3%80%82"><span>行きます。</span></a>
+    segments:
+      - text: 住所
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 分かれ
+        grammar_highlight: false
+      - text: ば
+        grammar_highlight: true
+      - text: 、地図で探して行きます。
+        grammar_highlight: false
+    reading: じゅうしょさえわかれば、ちずでさがしていきます。
+    credits_raw: minutiae
+    translations:
+      - language: en
+        text: If only I knew the address, I will search in the map and go there.
+        html: |-
+          <strong>If only </strong><span>I knew the address, I will search in the map and go there. </span>
+        segments:
+          - text: 'If only '
+            grammar_highlight: true
+          - text: 'I knew the address, I will search in the map and go there. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      さえ is often used in a pattern like:
+
+      noun-sae　verb-ba = result
+      noun-only verb-if = result
+
+      ひま<b>さえ</b>　あれ<b>ば</b>　幸せです
+      free time <b>only</b> <b>if</b> I had = I would be happy
+      if only i had some free time, i would be happy
+
+      薬<b>さえ</b>　飲め<b>ば</b>、直ります
+      medicine <b>only</b> <b>if</b> you drink = get better
+      if you just take your medicine, you will get better
+    html: |-
+      さえ is often used in a pattern like:<br/><br/>noun-sae　verb-ba = result<br/>noun-only verb-if = result<br/><br/>ひま&lt;b&gt;さえ&lt;/b&gt;　あれ&lt;b&gt;ば&lt;/b&gt;　幸せです<br/>free time &lt;b&gt;only&lt;/b&gt; &lt;b&gt;if&lt;/b&gt; I had = I would be happy<br/>if only i had some free time, i would be happy<br/><br/>薬&lt;b&gt;さえ&lt;/b&gt;　飲め&lt;b&gt;ば&lt;/b&gt;、直ります<br/>medicine &lt;b&gt;only&lt;/b&gt; &lt;b&gt;if&lt;/b&gt; you drink = get better<br/>if you just take your medicine, you will get better
+    credits_raw: dc
+    content_sha256: 85663588e3486deadf25fce41013cccbda37ce287020c69e77a5c3eadca620a7
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      ば - most commonly used
+      たら - can be used, but is less common
+      なら - only in limited contexts
+      *と　- unacceptable
+
+      ex：君さえ承知してくれたら・(してくれる）なら、今すぐこのプロジェクトを始めるつもりだ。
+      As long as you agree (to our plan), we are planning to begin this project right away
+    html: |-
+      ば - most commonly used<br/>たら - can be used, but is less common<br/>なら - only in limited contexts<br/>*と　- unacceptable<br/><br/>ex：君さえ承知してくれたら・(してくれる）なら、今すぐこのプロジェクトを始めるつもりだ。<br/>As long as you agree (to our plan), we are planning to begin this project right away
+    credits_raw: deeana
+    content_sha256: 5471ad972b78119a8538cbe36e5ec8515ba7357f4ba4a6b893ba855c0386ec8d
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      In the example, 何の迷いもなく到着します does not make sense. It should be 迷わないで到着できたのに(we would have gotten to our destination without going astray). 迷いもなく is okay, but normally it is used to describe abstruct mental confusion rather than physical or concrete one.
+    html: |-
+      In the example, 何の迷いもなく到着します does not make sense. It should be 迷わないで到着できたのに(we would have gotten to our destination without going astray). 迷いもなく is okay, but normally it is used to describe abstruct mental confusion rather than physical or concrete one.
+    credits_raw: bamboo4
+    content_sha256: 22eba61f154197bd5207084a95d893e48efc4d790491aa0c2ba6915ee4fe3e6e
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: sentence pattern "sae..ba"= coditional sentence type III???
+    html: sentence pattern "sae..ba"= coditional sentence type III???
+    credits_raw: ngocduong
+    content_sha256: fb504ef17a276875e03656c855d9f1c81cc695113fda5943f56699c054d386ae
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1304
+    label: さえ
+    source_url: https://takoboto.jp/bunpo/1304
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:42:04+00:00'
+response_sha256: 6613178423bb90c6fda106c5e3af706d9c14cb750df2bad421ed76b61720df7f
+warnings: []

@@ -1,0 +1,165 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 376
+label: sae-ba
+title_raw: ～さえ～ば [～さえ～ば] (sae-ba)
+title: ～さえ～ば
+reading: ～さえ～ば
+romanized_label: sae-ba
+category: grammar
+jlpt_level_original: '2'
+meaning: If ~ just  If ~ only
+meaning_example: if you just have a map, you
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=sae-ba
+archive_url: https://web.archive.org/web/20150224225428id_/http://jgram.org/pages/viewOne.php?tagE=sae-ba
+archive_timestamp: '20150224225428'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: 6X6U2PSJGPGQZL5SCTKENRBTFDBB2DOR
+response_sha256: e48e407cbb297c81a4980e707ccf15b00c87f2eb790ad365298a01f5405649cc
+encoding: cp932
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "さえ is often used in a pattern like:\n\n\n\r\nnoun-sae　verb-ba = result\n\r\nnoun-only verb-if = result\n\n\n\r\nひま<b>さえ</b>　あれ<b>ば</b>　幸せです\n\r\nfree time <b>only</b> <b>if</b> I had = I would be happy\n\r\nif only i had some free time, i would be happy\n\n\n\r\n薬<b>さえ</b>　飲め<b>ば</b>、直ります\n\r\nmedicine <b>only</b> <b>if</b> you drink = get better\n\r\nif you just take your medicine, you will get better"
+    html: "さえ is often used in a pattern like:<br/>\n<br/>\r\nnoun-sae　verb-ba = result<br/>\r\nnoun-only verb-if = result<br/>\n<br/>\r\nひま&lt;b&gt;さえ&lt;/b&gt;　あれ&lt;b&gt;ば&lt;/b&gt;　幸せです<br/>\r\nfree time &lt;b&gt;only&lt;/b&gt; &lt;b&gt;if&lt;/b&gt; I had = I would be happy<br/>\r\nif only i had some free time, i would be happy<br/>\n<br/>\r\n薬&lt;b&gt;さえ&lt;/b&gt;　飲め&lt;b&gt;ば&lt;/b&gt;、直ります<br/>\r\nmedicine &lt;b&gt;only&lt;/b&gt; &lt;b&gt;if&lt;/b&gt; you drink = get better<br/>\r\nif you just take your medicine, you will get better"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "ば - most commonly used\n\r\nたら - can be used, but is less common\n\r\nなら - only in limited contexts\n\r\n*と　- unacceptable\n\n\n\r\nex：君さえ承知してくれたら・(してくれる）なら、今すぐこのプロジェクトを始めるつもりだ。\n\r\nAs long as you agree (to our plan), we are planning to begin this project right away"
+    html: "ば - most commonly used<br/>\r\nたら - can be used, but is less common<br/>\r\nなら - only in limited contexts<br/>\r\n*と　- unacceptable<br/>\n<br/>\r\nex：君さえ承知してくれたら・(してくれる）なら、今すぐこのプロジェクトを始めるつもりだ。<br/>\r\nAs long as you agree (to our plan), we are planning to begin this project right away"
+    credits_raw: deeana
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 361
+    position: 0
+    japanese: 地図さえあれば、何の迷いもなく目的地に到着します。.
+    body_text: "地図さえあれば、何の迷いもなく目的地に到着します。.  \n\nIf only \n\t\twe had a map we'd get to our destination without going astray."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ地図さえあれ\">\n地図<strong>さえ</strong>あれ<strong>ば、</strong>何の迷いもなく目的地に到着します。. </a> <br/>\n<strong>If only </strong>\n\t\twe had a map we'd get to our destination without going astray."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5238
+    position: 1
+    japanese: お金さえあれば、この車を買います。
+    body_text: "お金さえあれば、この車を買います。 \n\nIf only I had the money, \n\t\tI would have bought this car."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJお金さえあれ\">\nお金<strong>さえ</strong>あれ<strong>ば</strong>、この車を買います。</a> <br/>\n<strong>If only I had the money, </strong>\n\t\tI would have bought this car."
+    credits_raw: eastmael
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6130
+    position: 2
+    japanese: "資料を調べ\r\nさえすれば、すぐ分かることです。"
+    body_text: "資料を調べ\r\nさえすれば、すぐ分かることです。 \n\nIf you would only \n\t\tcheck the documents, you'd understand immediately."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ資料を調べさえすれば、すぐ分かることです。\">\n\t\t\t\t資料を調べ\r\n<strong>さえすれば</strong>、すぐ分かることです。<strong></strong></a> <br/>\n<strong>If you would only </strong>\n\t\tcheck the documents, you'd understand immediately."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6718
+    position: 3
+    japanese: 住所さえ分かれば、地図で探して行きます。
+    body_text: "住所さえ分かれば、地図で探して行きます。 \n\nIf only \n\t\t  I knew the address, I will search in the map and go there."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ住所さえ分かれ\">\n\t\t\t\t住所<strong>さえ</strong>分かれ<strong>ば</strong>、地図で探して行きます。</a> <br/>\n<strong>If only </strong>\n\t\t  I knew the address, I will search in the map and go there."
+    credits_raw: minutiae
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8405
+    position: 4
+    japanese: あなたが幸せでありさえすれば私は高墲ﾈい。
+    body_text: "あなたが幸せでありさえすれば私は高墲ﾈい。\r \n\n\t\tI don`t care as long as you are happy."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあなたが幸せでありさえすれば私は高墲ﾈい。\">\n\t\t\t\tあなたが幸せであり<strong>さえ</strong>すれば私は高墲ﾈい。\r<strong></strong></a> <br/>\n\t\tI don`t care as long as you are happy. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8406
+    position: 5
+    japanese: それが欲しかったら頼みさえすればいいですよ。
+    body_text: "それが欲しかったら頼みさえすればいいですよ。\r \n\n\t\tYou have only to ask if you want it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJそれが欲しかったら頼みさえすればいいですよ。\">\n\t\t\t\tそれが欲しかったら頼み<strong>さえ</strong>すればいいですよ。\r<strong></strong></a> <br/>\n\t\tYou have only to ask if you want it. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8407
+    position: 6
+    japanese: 彼女がもう少し速く来てさえいればなあ。
+    body_text: "彼女がもう少し速く来てさえいればなあ。\r \n\n\t\tIf she had only come earlier！"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女がもう少し速く来てさえいればなあ。\">\n\t\t\t\t彼女がもう少し速く来て<strong>さえ</strong>いればなあ。\r<strong></strong></a> <br/>\n\t\tIf she had only come earlier！ \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8408
+    position: 7
+    japanese: ボタンを押しさえすればよい。
+    body_text: "ボタンを押しさえすればよい。\r \n\n\t\tAll you have to do is to push the button."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJボタンを押しさえすればよい。\">\n\t\t\t\tボタンを押し<strong>さえ</strong>すればよい。\r<strong></strong></a> <br/>\n\t\tAll you have to do is to push the button. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: |-
+      In the example, 何の迷いもなく到着します does not make sense. It should be 迷わないで到着できたのに(we would have gotten to our destination without going astray). 迷いもなく is okay, but normally it is used to describe abstruct mental confusion rather than physical or concrete one.
+    html: |-
+      In the example, 何の迷いもなく到着します does not make sense. It should be 迷わないで到着できたのに(we would have gotten to our destination without going astray). 迷いもなく is okay, but normally it is used to describe abstruct mental confusion rather than physical or concrete one.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: ngocduong
+    text: sentence pattern "sae..ba"= coditional sentence type III???
+    html: sentence pattern "sae..ba"= coditional sentence type III???
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: sae
+    label: sae
+    annotation_text: sae    (The さえ in さえ～ば can also be used on its own.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=sae">sae</a>    (The さえ in さえ～ば can also be used on its own.) [<a href="http://jgram.org/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: "～さえ～ば [～さえ～ば] (sae-ba)\n    Meaning: If ~ just  If ~ only \n    Example: if you just have a map, you\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>～さえ～ば [～さえ～ば] (sae-ba)</span><br/>    <span><b>Meaning</b>: If ~ just  If ~ only </span><br/>    <b>Example</b>: <i>if you just have a map, you</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225428'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 2535753
+  length: 6431
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 9bfe26a82095b7cc305d2863fbfac8317f6b17b029c9343c05069f0dc5dfbf9d

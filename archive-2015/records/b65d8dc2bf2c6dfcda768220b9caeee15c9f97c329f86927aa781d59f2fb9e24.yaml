@@ -1,0 +1,54 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1698
+label: hitoridemoooku
+title_raw: 一人でも多く ([ひとりでもおおく] )(hitoridemoooku)
+title: 一人でも多く
+reading: ひとりでもおおく
+romanized_label: hitoridemoooku
+category: grammar
+jlpt_level_original: '2'
+meaning: More than one person たくさんの人
+meaning_example: 1円でも多くのお金をためたいです。夏休みに多くの人が海へ行きます
+credits_raw: mkarthiheyan
+source_url: http://jgram.org/pages/viewOne.php?tagE=hitoridemoooku
+archive_url: https://web.archive.org/web/20150224225513id_/http://jgram.org/pages/viewOne.php?tagE=hitoridemoooku
+archive_timestamp: '20150224225513'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: UW5V76DSBJNY5ZJDJBLRZLSVZERI2LKM
+response_sha256: 11cb451614044fa59f45121e4b73327e906cfebecd0d7c554c36b08b902bf896
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      一人でも多く ([ひとりでもおおく] )(hitoridemoooku)
+          Meaning: More than one person たくさんの人
+          Example: 1円でも多くのお金をためたいです。夏休みに多くの人が海へ行きます
+          JLPT Level: 2
+          Category: grammar
+          Author: mkarthiheyan
+    html: |-
+      <span>一人でも多く ([ひとりでもおおく] )(hitoridemoooku)</span><br/>    <span><b>Meaning</b>: More than one person たくさんの人</span><br/>    <b>Example</b>: <i>1円でも多くのお金をためたいです。夏休みに多くの人が海へ行きます</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>mkarthiheyan</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225513'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3118039
+  length: 4875
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 27811c4d722f649f8e0f4b0f0098096d49a4608e41501f429218198086cf6542

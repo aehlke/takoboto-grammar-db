@@ -1,0 +1,317 @@
+schema_version: 2
+id: 223
+source: takoboto
+source_url: https://takoboto.jp/bunpo/223/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: きり
+romanized_label: kiri1
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: just, only
+meaning_example: he just drinks coffee
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_223
+    body_text: |-
+      just, only 
+       he just drinks coffee
+    body_html: |-
+      <span>just, only</span> <br/> <span>he just drinks coffee</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_223
+    body_text: Noun+きりverb+きり
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>きり</div></div></div><div><div><div>verb</div></div><div><div>+</div><div>きり</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + きり
+  - verb + きり
+examples:
+  - source_id: 109
+    position: 0
+    japanese: 今朝コーヒーを飲んだきりで、何も食べてない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e6%9c%9d%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%82%92"><span>今朝コーヒーを</span></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%93%e3%81%a0"><span>飲んだ</span></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%82%8a"><strong>きり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%80%81"><span>で、</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%82"><span>何も</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%a6%e3%81%aa%e3%81%84%e3%80%82"><span>食べてない。</span></a>
+    segments:
+      - text: 今朝コーヒーを飲んだ
+        grammar_highlight: false
+      - text: きり
+        grammar_highlight: true
+      - text: で、何も食べてない。
+        grammar_highlight: false
+    reading: けさコーヒーをのんだきりで、なにもたべてない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: in the morning, he just drank coffee, and didnt eat anything.
+        html: |-
+          <span>in the morning, he </span><strong>just </strong><span>drank coffee, and didnt eat anything. </span>
+        segments:
+          - text: 'in the morning, he '
+            grammar_highlight: false
+          - text: 'just '
+            grammar_highlight: true
+          - text: 'drank coffee, and didnt eat anything. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4629
+    position: 1
+    japanese: あなたはどうして一人きりなのですか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6"><span>あなたはどうして</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e4%ba%ba"><span>一人</span></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%82%8a"><strong>きり</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8b%e3%80%82"><span>なのですか。</span></a>
+    segments:
+      - text: あなたはどうして一人
+        grammar_highlight: false
+      - text: きり
+        grammar_highlight: true
+      - text: なのですか。
+        grammar_highlight: false
+    reading: あなたはどうしていちにんきりなのですか。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Why are you alone?
+        html: |-
+          <span>Why are you alone? </span>
+        segments:
+          - text: 'Why are you alone? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4630
+    position: 2
+    japanese: あなたは昨晩私が彼女と二人っきりでいるところを見つけて、驚いたに違いない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e6%98%a8%e6%99%a9%e7%a7%81%e3%81%8c"><span>昨晩私が</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%a8"><span>彼女と</span></a><a href="https://takoboto.jp/?q=%e4%ba%8c%e4%ba%ba"><span>二人</span></a><a href="https://takoboto.jp/?q=%e3%81%a3%e3%81%8d%e3%82%8a"><strong>っきり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%84%e3%82%8b%e3%81%a8%e3%81%93%e3%82%8d%e3%82%92"><span>でいるところを</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%a4%e3%81%91%e3%81%a6%e3%80%81"><span>見つけて、</span></a><a href="https://takoboto.jp/?q=%e9%a9%9a%e3%81%84%e3%81%9f%e3%81%ab"><span>驚いたに</span></a><a href="https://takoboto.jp/?q=%e9%81%95%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>違いない。</span></a>
+    segments:
+      - text: あなたは昨晩私が彼女と二人
+        grammar_highlight: false
+      - text: っきり
+        grammar_highlight: true
+      - text: でいるところを見つけて、驚いたに違いない。
+        grammar_highlight: false
+    reading: あなたはさくばんわたしがかのじょとににんっきりでいるところをみつけて、おどろいたにちがいない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You must have been surprised to find me with her alone last night.
+        html: |-
+          <span>You must have been surprised to find me with her alone last night. </span>
+        segments:
+          - text: 'You must have been surprised to find me with her alone last night. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4631
+    position: 3
+    japanese: その家で彼女は赤ん坊と二人きりだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e3%81%a7"><span>家で</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e8%b5%a4%e3%82%93"><span>赤ん</span></a><a href="https://takoboto.jp/?q=%e5%9d%8a%e3%81%a8"><span>坊と</span></a><a href="https://takoboto.jp/?q=%e4%ba%8c%e4%ba%ba"><span>二人</span></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%82%8a%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><strong>きりだった。</strong></a>
+    segments:
+      - text: その家で彼女は赤ん坊と二人
+        grammar_highlight: false
+      - text: きりだった。
+        grammar_highlight: true
+    reading: そのいえでかのじょはあかんぼうとににんきりだった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: She was alone with her baby in the house.
+        html: |-
+          <span>She was alone with her baby in the house. </span>
+        segments:
+          - text: 'She was alone with her baby in the house. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4633
+    position: 4
+    japanese: 独りきりの人生など耐えられない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%8b%ac%e3%82%8a"><span>独り</span></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%82%8a"><strong>きり</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e7%94%9f%e3%81%aa%e3%81%a9"><span>人生など</span></a><a href="https://takoboto.jp/?q=%e8%80%90%e3%81%88%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82"><span>耐えられない。</span></a>
+    segments:
+      - text: 独り
+        grammar_highlight: false
+      - text: きり
+        grammar_highlight: true
+      - text: の人生など耐えられない。
+        grammar_highlight: false
+    reading: ひとりきりのじんせいなどたえられない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I can't face this life alone.
+        html: |-
+          <span>I can't face this life alone. </span>
+        segments:
+          - text: 'I can''t face this life alone. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4634
+    position: 5
+    japanese: 半分きりでもないよりはまし。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%8d%8a%e5%88%86"><span>半分</span></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%82%8a"><strong>きり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84%e3%82%88%e3%82%8a%e3%81%af%e3%81%be%e3%81%97%e3%80%82"><span>でもないよりはまし。</span></a>
+    segments:
+      - text: 半分
+        grammar_highlight: false
+      - text: きり
+        grammar_highlight: true
+      - text: でもないよりはまし。
+        grammar_highlight: false
+    reading: はんぶんきりでもないよりはまし。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Half a loaf is better than none.
+        html: |-
+          <span>Half a loaf is better than none. </span>
+        segments:
+          - text: 'Half a loaf is better than none. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5936
+    position: 6
+    japanese: 上司は一人きりで男性雑誌を読む。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%8a%e5%8f%b8%e3%81%af"><span>上司は</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e4%ba%ba%e3%81%8d%e3%82%8a"><strong>一人きり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7"><span>で</span></a><a href="https://takoboto.jp/?q=%e7%94%b7%e6%80%a7%e9%9b%91%e8%aa%8c%e3%82%92"><span>男性雑誌を</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%80%e3%80%82"><span>読む。</span></a>
+    segments:
+      - text: 上司は
+        grammar_highlight: false
+      - text: 一人きり
+        grammar_highlight: true
+      - text: で男性雑誌を読む。
+        grammar_highlight: false
+    reading: じょうしはいちにんきりでだんせいざっしをよむ。
+    credits_raw: brsdjbd
+    translations:
+      - language: en
+        text: My boss reads men's magazines by himself.
+        html: |-
+          <span>My boss reads men's magazines </span><strong>by himself. </strong>
+        segments:
+          - text: 'My boss reads men''s magazines '
+            grammar_highlight: false
+          - text: 'by himself. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7141
+    position: 7
+    japanese: 大学時代にいつもとなりの席に座っていた内田さんは今ごろどうしているだろう。卒業した翌年に一度会ったきりだ.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e6%99%82%e4%bb%a3%e3%81%ab%e3%81%84%e3%81%a4%e3%82%82%e3%81%a8%e3%81%aa%e3%82%8a%e3%81%ae%e5%b8%ad%e3%81%ab%e5%ba%a7%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e5%86%85%e7%94%b0%e3%81%95%e3%82%93%e3%81%af%e4%bb%8a%e3%81%94%e3%82%8d%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82%e5%8d%92%e6%a5%ad%e3%81%97%e3%81%9f%e7%bf%8c%e5%b9%b4%e3%81%ab%e4%b8%80%e5%ba%a6%e4%bc%9a%e3%81%a3%e3%81%9f"><span>大学時代にいつもとなりの席に座っていた内田さんは今ごろどうしているだろう。卒業した翌年に一度会った</span></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%82%8a"><strong>きり</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0."><span>だ.</span></a>
+    segments:
+      - text: 大学時代にいつもとなりの席に座っていた内田さんは今ごろどうしているだろう。卒業した翌年に一度会った
+        grammar_highlight: false
+      - text: きり
+        grammar_highlight: true
+      - text: だ.
+        grammar_highlight: false
+    reading: だいがくじだいにいつもとなりのせきにすわっていたうちださんはいまごろどうしているだろう。そつぎょうしたよくねんにいちどあったきりだ
+    credits_raw: sureshnihon, Giuse
+    translations:
+      - language: en
+        text: |-
+          Mr.uchida who was sitting besides me in the college days,what is doing now? I had met him once after completing our graduation.
+        html: |-
+          <span>Mr.uchida who was sitting besides me in the college days,what is doing now? I had met him once after completing our graduation. </span>
+        segments:
+          - text: "Mr.uchida who was sitting besides me in the college days,what is doing now? I had met him once after completing our graduation. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8231
+    position: 8
+    japanese: 彼は両親の一人きりの息子です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e4%b8%a1%e8%a6%aa%e3%81%ae"><span>両親の</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e4%ba%ba"><span>一人</span></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%82%8a"><strong>きり</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e6%81%af%e5%ad%90%e3%81%a7%e3%81%99%e3%80%82"><span>息子です。</span></a>
+    segments:
+      - text: 彼は両親の一人
+        grammar_highlight: false
+      - text: きり
+        grammar_highlight: true
+      - text: の息子です。
+        grammar_highlight: false
+    reading: かれはりょうしんのいちにんきりのむすこです。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He is the only son of his parents.
+        html: |-
+          <span>He is the only son of his parents. </span>
+        segments:
+          - text: 'He is the only son of his parents. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8789
+    position: 9
+    japanese: 一度きりの人生を大切に生きる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%80%e5%ba%a6%e3%81%8d%e3%82%8a%e3%81%ae%e4%ba%ba%e7%94%9f%e3%82%92%e5%a4%a7%e5%88%87%e3%81%ab%e7%94%9f%e3%81%8d%e3%82%8b%e3%80%82"><span>一度きりの人生を大切に生きる。</span></a>
+    segments:
+      - text: 一度きりの人生を大切に生きる。
+        grammar_highlight: false
+    reading: いちどきりのじんせいをたいせつにいきる。
+    credits_raw: バラティ
+    translations:
+      - language: en
+        text: One life live carefully.
+        html: |-
+          <span>One life live carefully. </span>
+        segments:
+          - text: 'One life live carefully. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Right on!
+    html: Right on!
+    credits_raw: bamboo4
+    content_sha256: e76f9f6d4d57aeea81c0a272e31224345c5344754fd3ad92529373d48a2dd307
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      I think this example is actually the same as 'kiri2'.
+      He drank just the coffee, and stayed in that state (without eating anything).
+    html: |-
+      I think this example is actually the same as 'kiri2'.<br/>He drank just the coffee, and stayed in that state (without eating anything).
+    credits_raw: Amatuka
+    content_sha256: 25a6c7940493d2b4216f249cf86c6abc6625ef492ac9c5166da3c66376e8e520
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 'so, in ex #5936, 男性雑誌 is translated as jazz mags???'
+    html: 'so, in ex #5936, 男性雑誌 is translated as jazz mags???'
+    credits_raw: mirobr
+    content_sha256: 7b36fc27a8b3d3cb58b1ecaad1b598e4918c87eb122f1b8031cd7c32f4200996
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: English Sentence 7141 missed the core point, the speaker is asking what where his classmate is right now.
+    html: English Sentence 7141 missed the core point, the speaker is asking what where his classmate is right now.
+    credits_raw: Giuse
+    content_sha256: 1898d6911985cb5daf0af1d310aa9ddbcc14bbef3f7951d3c1b31ef4817117a4
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:46+00:00'
+response_sha256: 3fda7c07374613172196d980f0ed0bed74956f936daaa06e0a4c5363d1667134
+warnings: []

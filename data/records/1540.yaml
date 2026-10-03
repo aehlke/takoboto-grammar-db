@@ -1,0 +1,262 @@
+schema_version: 2
+id: 1540
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1540/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ような気がする
+romanized_label: younakigasuru
+alternate_forms:
+  - ようなきがする
+jlpt_level: 2
+credits_raw: ninja_k
+meaning: It's like it could be...
+meaning_example: It's like we can make it a Curry and Rice Night
+meaning_notes:
+  - language: ja
+    text: 予感・予測・不確かな記憶・予兆を表現する方法としてもっとも幅広く用いられる言い方っす。
+    html: 予感・予測・不確かな記憶・予兆を表現する方法としてもっとも幅広く用いられる言い方っす。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1540
+    body_text: |-
+      It's like it could be... 
+       It's like we can make it a Curry and Rice Night 
+       予感・予測・不確かな記憶・予兆を表現する方法としてもっとも幅広く用いられる言い方っす。
+    body_html: |-
+      <span>It's like it could be...</span> <br/> <span>It's like we can make it a Curry and Rice Night</span> <br/> <span>予感・予測・不確かな記憶・予兆を表現する方法としてもっとも幅広く用いられる言い方っす。</span>
+    credits_raw: ninja_k
+formations: []
+examples:
+  - source_id: 6534
+    position: 0
+    japanese: もう他に方法はないような気がする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86"><span>もう</span></a><a href="https://takoboto.jp/?q=%e4%bb%96%e3%81%ab"><span>他に</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e6%b3%95%e3%81%af%e3%81%aa%e3%81%84"><span>方法はない</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%aa%e6%b0%97%e3%81%8c%e3%81%99%e3%82%8b"><strong>ような気がする</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: もう他に方法はない
+        grammar_highlight: false
+      - text: ような気がする
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: もうたにほうほうはないようなきがする。
+    credits_raw: tipographo
+    translations:
+      - language: en
+        text: It's like there is no other way.
+        html: |-
+          <strong>It's like </strong><span>there is no other way. </span>
+        segments:
+          - text: 'It''s like '
+            grammar_highlight: true
+          - text: 'there is no other way. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6741
+    position: 1
+    japanese: 明日雨が降るような気がする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%98%8e%e6%97%a5%e9%9b%a8%e3%81%8c"><span>明日雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%8b"><span>降る</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%aa%e6%b0%97%e3%81%8c%e3%81%99%e3%82%8b"><strong>ような気がする</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 明日雨が降る
+        grammar_highlight: false
+      - text: ような気がする
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あしたあめがふるようなきがする。
+    credits_raw: nickm758
+    translations:
+      - language: en
+        text: It looks like it may rain tomorrow.
+        html: |-
+          <span>It looks like it may rain tomorrow. </span>
+        segments:
+          - text: 'It looks like it may rain tomorrow. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7041
+    position: 2
+    japanese: その話は本当のような気がする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%af"><span>話は</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e5%bd%93%e3%81%ae"><span>本当の</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%aa%e6%b0%97%e3%81%8c%e3%81%99%e3%82%8b"><strong>ような気がする</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: その話は本当の
+        grammar_highlight: false
+      - text: ような気がする
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: そのはなしはほんとうのようなきがする。
+    credits_raw: brewski
+    translations:
+      - language: en
+        text: Something tells me that story is true.
+        html: |-
+          <span>Something tells me that story is true. </span>
+        segments:
+          - text: 'Something tells me that story is true. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7838
+    position: 3
+    japanese: あれはまだ終わってなかったっけ。もう終わったような気がする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8c%e3%81%af%e3%81%be%e3%81%a0"><span>あれはまだ</span></a><a href="https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%a6%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%a3%e3%81%91%e3%80%82%e3%82%82%e3%81%86"><span>終わってなかったっけ。もう</span></a><a href="https://takoboto.jp/?q=%e7%b5%82%e3%82%8f%e3%81%a3%e3%81%9f"><span>終わった</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%aa%e6%b0%97%e3%81%8c%e3%81%99%e3%82%8b"><strong>ような気がする</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あれはまだ終わってなかったっけ。もう終わった
+        grammar_highlight: false
+      - text: ような気がする
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あれはまだおわってなかったっけ。もうおわったようなきがする。
+    credits_raw: ppmohapatra
+    translations:
+      - language: en
+        text: Wasn't that over! I thought it's already done.
+        html: |-
+          <span>Wasn't that over! I thought it's already done. </span>
+        segments:
+          - text: 'Wasn''t that over! I thought it''s already done. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8538
+    position: 4
+    japanese: 新しい仕事ではうまくいくような気がする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%96%b0%e3%81%97%e3%81%84"><span>新しい</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%a7%e3%81%af%e3%81%86%e3%81%be%e3%81%8f%e3%81%84%e3%81%8f"><span>仕事ではうまくいく</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%aa%e6%b0%97%e3%81%8c%e3%81%99%e3%82%8b"><strong>ような気がする</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 新しい仕事ではうまくいく
+        grammar_highlight: false
+      - text: ような気がする
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あたらしいしごとではうまくいくようなきがする。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I have the feeling that I'm getting along in my new job.
+        html: |-
+          <span>I have the feeling that I'm getting along in my new job. </span>
+        segments:
+          - text: 'I have the feeling that I''m getting along in my new job. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8539
+    position: 5
+    japanese: 心臓が張り裂けるような気がする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bf%83%e8%87%93%e3%81%8c"><span>心臓が</span></a><a href="https://takoboto.jp/?q=%e5%bc%b5%e3%82%8a"><span>張り</span></a><a href="https://takoboto.jp/?q=%e8%a3%82%e3%81%91%e3%82%8b"><span>裂ける</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%aa%e6%b0%97%e3%81%8c%e3%81%99%e3%82%8b"><strong>ような気がする</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 心臓が張り裂ける
+        grammar_highlight: false
+      - text: ような気がする
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: しんぞうがはりさけるようなきがする。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: I feel as if my heart were bursting.
+        html: |-
+          <span>I feel as if my heart were bursting. </span>
+        segments:
+          - text: 'I feel as if my heart were bursting. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8540
+    position: 6
+    japanese: 自分がこの世で最も幸せな者のような気がする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%8c%e3%81%93%e3%81%ae%e4%b8%96%e3%81%a7%e6%9c%80%e3%82%82%e5%b9%b8%e3%81%9b%e3%81%aa%e8%80%85%e3%81%ae"><span>自分がこの世で最も幸せな者の</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%aa%e6%b0%97%e3%81%8c%e3%81%99%e3%82%8b"><strong>ような気がする</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 自分がこの世で最も幸せな者の
+        grammar_highlight: false
+      - text: ような気がする
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: じぶんがこのよでもっともしあわせなもののようなきがする。
+    credits_raw: karekano, srishti
+    translations:
+      - language: en
+        text: I feel like i'm the happiest person in the world.
+        html: |-
+          <span>I feel like i'm the happiest person in the world. </span>
+        segments:
+          - text: 'I feel like i''m the happiest person in the world. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      名詞のような気がする
+      名詞だったような気がする
+      い形容詞辞書形ような気がする
+      な形容詞辞書形なような気がする
+      動詞辞書形ような気がする
+      （動詞・名詞・形容詞）ない刑ような気がする
+      （動詞・名詞・形容詞）普通体過去ような気がする
+    html: |-
+      名詞のような気がする<br/>名詞だったような気がする<br/>い形容詞辞書形ような気がする<br/>な形容詞辞書形なような気がする<br/>動詞辞書形ような気がする<br/>（動詞・名詞・形容詞）ない刑ような気がする<br/>（動詞・名詞・形容詞）普通体過去ような気がする
+    credits_raw: ninja_k
+    content_sha256: ccdecac1582575c7d3449b5fa5b2f1a844ddbf780f35d6e4c3ea272f80a0ecea
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Here's another way to describe the connection:
+      noun-modifier form (名詞修飾型）
+
+      V （辞書・た・ない・なかった) + ような気がする
+      い形（い・くない・かった・くなかった）+ ような気がする
+      な形（な・ではない・だった・ではなかった）+ ような気がする
+      N （の・ではない・だった・ではなかった） + ような気がする
+    html: |-
+      Here's another way to describe the connection:<br/>noun-modifier form (名詞修飾型）<br/><br/>V （辞書・た・ない・なかった) + ような気がする<br/>い形（い・くない・かった・くなかった）+ ような気がする<br/>な形（な・ではない・だった・ではなかった）+ ような気がする<br/>N （の・ではない・だった・ではなかった） + ような気がする
+    credits_raw: srobertson
+    content_sha256: 4a5fee881bb305fd42e256cd122246fa796cd275f335bab8eab360cd230b4b4a
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      these types of explanations seem too hard to really read and understand, tho they may be scientifically accurate. examples are needed. eg:
+      noun+のような＋気がする
+      　悪い人のような気がする
+
+      tho examples dont really make the point. hmm, perhaps we need some kind of table layout to make it clear
+    html: |-
+      these types of explanations seem too hard to really read and understand, tho they may be scientifically accurate. examples are needed. eg:<br/>noun+のような＋気がする<br/>　悪い人のような気がする<br/><br/>tho examples dont really make the point. hmm, perhaps we need some kind of table layout to make it clear
+    credits_raw: dc
+    content_sha256: 5bb3a875489904f63ea70186e16af111ef10f19d5786db1e0166c5cbe8044dc0
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: btw we already have this gram item under [kigasuru]
+    html: btw we already have this gram item under [kigasuru]
+    credits_raw: dc
+    content_sha256: 028aa608ed3ea699853c7dfbd87a26ec69eaaf8ff7744957e09258881c08e93e
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:38:47+00:00'
+response_sha256: 74ed52cb9767c703517df116df7507263785b81884ac95c436cc4bf22b6cbf74
+warnings: []

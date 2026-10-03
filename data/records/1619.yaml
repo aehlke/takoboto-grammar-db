@@ -1,0 +1,192 @@
+schema_version: 2
+id: 1619
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1619/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ないで
+romanized_label: naide
+alternate_forms: []
+jlpt_level: 4
+credits_raw: sw
+meaning: without
+meaning_example: '"I went to school without eating breakfast."'
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1619
+    body_text: |-
+      without 
+       "I went to school without eating breakfast."
+    body_html: |-
+      <span>without</span> <br/> <span>"I went to school without eating breakfast."</span>
+    credits_raw: sw
+  - kind: formation
+    source_dom_id: editable_Formation_1619
+    body_text: Verb nai form+で
+    body_html: |-
+      <div><div><div>Verb nai form</div></div><div><div>+</div><div>で</div></div></div>
+    credits_raw: null
+formations:
+  - Verb nai form + で
+examples:
+  - source_id: 6426
+    position: 0
+    japanese: 朝ご飯を食べないで学校へ行った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%9d%e3%81%94"><span>朝ご</span></a><a href="https://takoboto.jp/?q=%e9%a3%af%e3%82%92"><span>飯を</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9"><span>食べ</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%a7"><strong>ないで</strong></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e6%a0%a1%e3%81%b8"><span>学校へ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%80%82"><span>行った。</span></a>
+    segments:
+      - text: 朝ご飯を食べ
+        grammar_highlight: false
+      - text: ないで
+        grammar_highlight: true
+      - text: 学校へ行った。
+        grammar_highlight: false
+    reading: あさごはんをたべないでがっこうへいった。
+    credits_raw: sw
+    translations:
+      - language: en
+        text: I went to school without eating breakfast.
+        html: |-
+          <span>I went to school </span><strong>without </strong><span>eating breakfast. </span>
+        segments:
+          - text: 'I went to school '
+            grammar_highlight: false
+          - text: 'without '
+            grammar_highlight: true
+          - text: 'eating breakfast. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6427
+    position: 1
+    japanese: 払わないで去る
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%89%95%e3%82%8f"><span>払わ</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%a7"><strong>ないで</strong></a><a href="https://takoboto.jp/?q=%e5%8e%bb%e3%82%8b"><span>去る</span></a>
+    segments:
+      - text: 払わ
+        grammar_highlight: false
+      - text: ないで
+        grammar_highlight: true
+      - text: 去る
+        grammar_highlight: false
+    reading: はらわないでさる
+    credits_raw: sw
+    translations:
+      - language: en
+        text: leave without paying
+        html: |-
+          <span>leave </span><strong>without </strong><span>paying </span>
+        segments:
+          - text: 'leave '
+            grammar_highlight: false
+          - text: 'without '
+            grammar_highlight: true
+          - text: 'paying '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8666
+    position: 2
+    japanese: 宿題をしないで、学校へ行った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ae%bf%e9%a1%8c%e3%82%92%e3%81%97"><span>宿題をし</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%a7"><strong>ないで</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e6%a0%a1%e3%81%b8"><span>学校へ</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%80%82"><span>行った。</span></a>
+    segments:
+      - text: 宿題をし
+        grammar_highlight: false
+      - text: ないで
+        grammar_highlight: true
+      - text: 、学校へ行った。
+        grammar_highlight: false
+    reading: しゅくだいをしないで、がっこうへいった。
+    credits_raw: 反戦
+    translations:
+      - language: en
+        text: I went to school without doing my homework.
+        html: |-
+          <span>I went to school </span><strong>without </strong><span>doing my homework. </span>
+        segments:
+          - text: 'I went to school '
+            grammar_highlight: false
+          - text: 'without '
+            grammar_highlight: true
+          - text: 'doing my homework. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8815
+    position: 3
+    japanese: 彼は死なないで埋められた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e6%ad%bb%e3%81%aa"><span>彼は死な</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%84%e3%81%a7"><strong>ないで</strong></a><a href="https://takoboto.jp/?q=%e5%9f%8b%e3%82%81%e3%82%89%e3%82%8c%e3%81%9f%e3%80%82"><span>埋められた。</span></a>
+    segments:
+      - text: 彼は死な
+        grammar_highlight: false
+      - text: ないで
+        grammar_highlight: true
+      - text: 埋められた。
+        grammar_highlight: false
+    reading: かれはしなないでうめられた。
+    credits_raw: 貴博
+    translations:
+      - language: en
+        text: He was buried alive.
+        html: |-
+          <span>He was buried alive. </span>
+        segments:
+          - text: 'He was buried alive. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Formation:
+
+      negV + で
+    html: |-
+      Formation:<br/><br/>negV + で
+    credits_raw: sw
+    content_sha256: 02a82a4729aea2704e35fe369d57e2b5a92482908fd35923b43021afe92eb370
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      this is also a connective negative:
+
+      行かないでください - dont go, please
+      払わないで欲しい - i dont want you to pay
+    html: |-
+      this is also a connective negative:<br/><br/>行かないでください - dont go, please<br/>払わないで欲しい - i dont want you to pay
+    credits_raw: dc
+    content_sha256: f8735883f3c4a9f4cea5b3a0ddc53622719dbc7a47741ff2df90f3405c77bf47
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 送らないでください。
+    html: 送らないでください。
+    credits_raw: ウメシュ
+    content_sha256: 5c3e51668d93b98a919b9cd2ecf14164d21c235970c77f4e71d8c2a615e02b63
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Very great dictionary,
+    html: Very great dictionary,
+    credits_raw: Bandula hewamanage
+    content_sha256: e466c2e9f4b68b527b22a6e520b429c025a67c94ef282b360d28343b1839c012
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1561
+    label: ずに
+    source_url: https://takoboto.jp/bunpo/1561
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:40+00:00'
+response_sha256: 3abe10fe0621dc58cf3b46025b6ffbd00440aa9cd388603ce923dee130f51332
+warnings: []

@@ -1,0 +1,88 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1673
+label: nakutemosumu
+title_raw: なくてもすむ ([なくてもすむ] )(nakutemosumu)
+title: なくてもすむ
+reading: なくてもすむ
+romanized_label: nakutemosumu
+category: grammar
+jlpt_level_original: '0'
+meaning: Don't have to 〜　(and are happy because of it) なくてもいい
+meaning_example: Above anything, employees are happy for not having to ride on overcrowded trains.
+credits_raw: TMac
+source_url: http://jgram.org/pages/viewOne.php?tagE=nakutemosumu
+archive_url: https://web.archive.org/web/20150224225825id_/http://jgram.org/pages/viewOne.php?tagE=nakutemosumu
+archive_timestamp: '20150224225825'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: 6I4HP7WJB24YOPIEU75DJWBJ5Q5TV4JU
+response_sha256: e24b22e5cbc89b3b76c4ddfb466ec8b676c21dddf86ace84434081bb917007ae
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Also can appear as なくてすむ。\n\n\n\r\nHas the nuance that the thing you don't have to do is something you don't want to do in the first place, and by being able to avoid it, you're happy because of it.\n\n\n\r\nConversational grammar"
+    html: "Also can appear as なくてすむ。<br/>\n<br/>\r\nHas the nuance that the thing you don't have to do is something you don't want to do in the first place, and by being able to avoid it, you're happy because of it.<br/>\n<br/>\r\nConversational grammar"
+    credits_raw: TMac
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7046
+    position: 0
+    japanese: 何よりも、満員電車に乗らなくてもすむのはうれしい。
+    body_text: "何よりも、満員電車に乗らなくてもすむのはうれしい。\r \n\n\t\tAbove anything, employees are happy for not having to ride on overcrowded trains."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ何よりも、満員電車に乗らなくてもすむのはうれしい。\">\n\t\t\t\t何よりも、満員電車に乗ら<strong>なくてもすむ</strong>のはうれしい。\r<strong></strong></a> <br/>\n\t\tAbove anything, employees are happy for not having to ride on overcrowded trains. \n\t\t<strong> </strong>"
+    credits_raw: TMac
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7047
+    position: 1
+    japanese: 今度の試験は易しいから、あまり勉強しなくてもすむ。
+    body_text: "今度の試験は易しいから、あまり勉強しなくてもすむ。 \n\n\t\tThe upcoming test should be easy, so I think I can get by without studying much."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ今度の試験は易しいから、あまり勉強しなくてもすむ。\">\n\t\t\t\t今度の試験は易しいから、あまり勉強し<strong>なくてもすむ</strong>。<strong></strong></a> <br/>\n\t\tThe upcoming test should be easy, so I think I can get by without studying much. \n\t\t<strong> </strong>"
+    credits_raw: TMac
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: TMac
+    text: Taken from Book 3 (Week 9, Day 2) of the Jet Translation and Interpretation Course for 2008-2009.
+    html: Taken from Book 3 (Week 9, Day 2) of the Jet Translation and Interpretation Course for 2008-2009.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      なくてもすむ ([なくてもすむ] )(nakutemosumu)
+          Meaning: Don't have to 〜　(and are happy because of it) なくてもいい
+          Example: Above anything, employees are happy for not having to ride on overcrowded trains.
+          JLPT Level: 0
+          Category: grammar
+          Author: TMac
+    html: |-
+      <span>なくてもすむ ([なくてもすむ] )(nakutemosumu)</span><br/>    <span><b>Meaning</b>: Don't have to 〜　(and are happy because of it) なくてもいい</span><br/>    <b>Example</b>: <i>Above anything, employees are happy for not having to ride on overcrowded trains.</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>TMac</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225825'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 7052090
+  length: 5364
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 5d0f8c52a659e295ac0f97aea2f6b493e8b314743cc8e977ef3ad76a825d898a

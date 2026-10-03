@@ -1,0 +1,70 @@
+schema_version: 2
+id: 1769
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1769/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ことにする
+romanized_label: koto ni suru
+alternate_forms:
+  - ことになる
+jlpt_level: null
+credits_raw: ドラコ1416
+meaning: (I/you/he/she/we/they) has/have decided that...
+meaning_example: I have decided that I'll do the test.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1769
+    body_text: |-
+      (I/you/he/she/we/they) has/have decided that... 
+       I have decided that I'll do the test.
+    body_html: |-
+      <span>(I/you/he/she/we/they) has/have decided that...</span> <br/> <span>I have decided that I'll do the test.</span>
+    credits_raw: ドラコ1416
+formations: []
+examples:
+  - source_id: 8544
+    position: 0
+    japanese: たばこを止めることにしました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9f%e3%81%b0%e3%81%93%e3%82%92"><span>たばこを</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%82%81%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>止めることにしました。</span></a>
+    segments:
+      - text: たばこを止めることにしました。
+        grammar_highlight: false
+    reading: たばこをとめることにしました。
+    credits_raw: ドラコ1416
+    translations:
+      - language: en
+        text: I have decided to quit smoking.
+        html: |-
+          <span>I have decided to quit smoking. </span>
+        segments:
+          - text: 'I have decided to quit smoking. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: http://jgram.org/pages/viewOne.php?tagE=kotonisuru aren't they the same?
+    html: http://jgram.org/pages/viewOne.php?tagE=kotonisuru aren't they the same?
+    credits_raw: monol0g
+    content_sha256: a6b9b2cb3a8ba039c1670f77be4e9d8818e71835fbe4bbb1efe9c14bdde4c95a
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Yes, they are the same, but I can't change it... maybe some 'moderator' could take a look...
+    html: Yes, they are the same, but I can't change it... maybe some 'moderator' could take a look...
+    credits_raw: karekano
+    content_sha256: b97bbcc8dd24f5704b8f85170724976033812986ae477d9a2174aeffda77c1e8
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:47:31+00:00'
+response_sha256: c96f59c6331244ffbba9df257e4a3d941583564f503c4a6fa15bfe72501238fe
+warnings: []

@@ -1,0 +1,173 @@
+schema_version: 2
+id: 580
+source: takoboto
+source_url: https://takoboto.jp/bunpo/580/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: これ(此・是・之・惟)、それ(其), あれ(彼)
+romanized_label: kore, sore, are
+alternate_forms:
+  - これ, それ, あれ
+jlpt_level: 5
+credits_raw: Amatuka
+meaning: this, that, the other
+meaning_example: this is mine, that is yours and the other is anybody's guess.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_580
+    body_text: |-
+      this, that, the other 
+       this is mine, that is yours and the other is anybody's guess.
+    body_html: |-
+      <span>this, that, the other</span> <br/> <span>this is mine, that is yours and the other is anybody's guess.</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 634
+    position: 0
+    japanese: それはりんごケーキです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c"><strong>それ</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%82%8a%e3%82%93%e3%81%94%e3%82%b1%e3%83%bc%e3%82%ad%e3%81%a7%e3%81%99%e3%80%82"><span>はりんごケーキです。</span></a>
+    segments:
+      - text: それ
+        grammar_highlight: true
+      - text: はりんごケーキです。
+        grammar_highlight: false
+    reading: それはりんごケーキです。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: That is apple cake.
+        html: |-
+          <strong>That </strong><span>is apple cake. </span>
+        segments:
+          - text: 'That '
+            grammar_highlight: true
+          - text: 'is apple cake. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 635
+    position: 1
+    japanese: あれは何のケーキでしょうか。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8c"><strong>あれ</strong></a><a href="https://takoboto.jp/?q=%e3%81%af"><span>は</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%ae%e3%82%b1%e3%83%bc%e3%82%ad%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%81%8b%e3%80%82"><span>何のケーキでしょうか。</span></a>
+    segments:
+      - text: あれ
+        grammar_highlight: true
+      - text: は何のケーキでしょうか。
+        grammar_highlight: false
+    reading: あれはなにのケーキでしょうか。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I wonder what that cake is [over there] ?
+        html: |-
+          <span>I wonder what </span><strong>that </strong><span>cake is </span><strong>[over there] </strong><span>? </span>
+        segments:
+          - text: 'I wonder what '
+            grammar_highlight: false
+          - text: 'that '
+            grammar_highlight: true
+          - text: 'cake is '
+            grammar_highlight: false
+          - text: '[over there] '
+            grammar_highlight: true
+          - text: '? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 636
+    position: 2
+    japanese: これはイチゴケーキです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c"><strong>これ</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%82%a4%e3%83%81%e3%82%b4%e3%82%b1%e3%83%bc%e3%82%ad%e3%81%a7%e3%81%99%e3%80%82"><span>はイチゴケーキです。</span></a>
+    segments:
+      - text: これ
+        grammar_highlight: true
+      - text: はイチゴケーキです。
+        grammar_highlight: false
+    reading: これはイチゴケーキです。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: This is strawberry cake.
+        html: |-
+          <strong>This </strong><span>is strawberry cake. </span>
+        segments:
+          - text: 'This '
+            grammar_highlight: true
+          - text: 'is strawberry cake. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8814
+    position: 3
+    japanese: すみません！これはいくらですか？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%99%e3%81%bf%e3%81%be%e3%81%9b%e3%82%93%ef%bc%81"><span>すみません！</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c"><strong>これ</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%84%e3%81%8f%e3%82%89%e3%81%a7%e3%81%99%e3%81%8b%ef%bc%9f"><span>はいくらですか？</span></a>
+    segments:
+      - text: すみません！
+        grammar_highlight: false
+      - text: これ
+        grammar_highlight: true
+      - text: はいくらですか？
+        grammar_highlight: false
+    reading: すみません！これはいくらですか？
+    credits_raw: 貴博
+    translations:
+      - language: en
+        text: Excuse me! How much is this ?
+        html: |-
+          <span>Excuse me! How much is </span><strong>this </strong><span>? </span>
+        segments:
+          - text: 'Excuse me! How much is '
+            grammar_highlight: false
+          - text: 'this '
+            grammar_highlight: true
+          - text: '? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      The kanji are just given for reference. Kana spelling is normal today. 
+      These words are part of what is called kosoado. The ko, so and a indicate the relation to the speaker, the re turns them into the pronouns for a certain object.
+      The most important thing to remember is that you cannot these words to say, for example, "I want this apple" = "kore ringo ga hoshii." That is wrong. You can only use them for "I want this."
+      ("this apple" would be "kono ringo")
+    html: |-
+      The kanji are just given for reference. Kana spelling is normal today. <br/>These words are part of what is called kosoado. The ko, so and a indicate the relation to the speaker, the re turns them into the pronouns for a certain object.<br/>The most important thing to remember is that you cannot these words to say, for example, "I want this apple" = "kore ringo ga hoshii." That is wrong. You can only use them for "I want this."<br/>("this apple" would be "kono ringo")
+    credits_raw: blutorange
+    content_sha256: 8e2c706155e6701be6f4e5d31c01edc65ff406ce8cb8a0ce53a40ee5b70f12a9
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      kore : near to speaker
+      sore : near to spoken to
+      are : far from both speaker and spoken to
+    html: |-
+      kore : near to speaker<br/>sore : near to spoken to<br/>are : far from both speaker and spoken to
+    credits_raw: Amatuka
+    content_sha256: 5f8909521b17d7228235c4a2d684c3ea8d082bbf4096eb489ac5c6af3b76fcab
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: There are more words than these in the 'set'.
+    html: There are more words than these in the 'set'.
+    credits_raw: Amatuka
+    content_sha256: 63fa26c86a1b838f36d3e05a7cd21fbc49b6314a5bc65062eb91d3e446461fb6
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:05+00:00'
+response_sha256: ef2eb2dd1c4881c7b21863675f0b405d4f377a126cc5e554e696dd671db8c018
+warnings: []

@@ -1,0 +1,63 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1699
+label: kagirida
+title_raw: 限りだ ([かぎりだ] )(kagirida)
+title: 限りだ
+reading: かぎりだ
+romanized_label: kagirida
+category: null
+jlpt_level_original: '2'
+meaning: extremely とても、たいへん、きわめて
+meaning_example: I am extremely mortified to have failed my exam
+credits_raw: Sasato
+source_url: http://jgram.org/pages/viewOne.php?tagE=kagirida
+archive_url: https://web.archive.org/web/20150224225550id_/http://jgram.org/pages/viewOne.php?tagE=kagirida
+archive_timestamp: '20150224225550'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: 5D6XKY7NIW5BU2M5ZRJSJL6LHBAZB7MM
+response_sha256: 51e8c51ed008a779a984392bc4d364e25b1fa82b0d58d4378e2e82fccfe53856
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 7218
+    position: 0
+    japanese: 試験にパスできなくて、悔しい限りだ。
+    body_text: "試験にパスできなくて、悔しい限りだ。 \n\n\t\tI am extremely mortified to have failed my exam"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ試験にパスできなくて、悔しい限りだ。\">\n\t\t\t\t試験にパスできなくて、悔しい<strong>限りだ</strong>。<strong></strong></a> <br/>\n\t\tI am extremely mortified to have failed my exam \n\t\t<strong> </strong>"
+    credits_raw: Sasato
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      限りだ ([かぎりだ] )(kagirida)
+          Meaning: extremely とても、たいへん、きわめて
+          Example: I am extremely mortified to have failed my exam
+          JLPT Level: 2
+          Author: Sasato
+    html: |-
+      <span>限りだ ([かぎりだ] )(kagirida)</span><br/>    <span><b>Meaning</b>: extremely とても、たいへん、きわめて</span><br/>    <b>Example</b>: <i>I am extremely mortified to have failed my exam</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Author</b>: <i>Sasato</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225550'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3637028
+  length: 4985
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 77fa84c43586f548dd2a3538cdbf0770cd7a812e93dc01bd144e2cbae94d9962

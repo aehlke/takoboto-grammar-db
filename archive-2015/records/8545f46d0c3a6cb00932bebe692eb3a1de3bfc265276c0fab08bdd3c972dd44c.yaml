@@ -1,0 +1,246 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 732
+label: eba
+title_raw: 条件形 [えば] (eba)
+title: 条件形
+reading: えば
+romanized_label: eba
+category: grammar
+jlpt_level_original: '3'
+meaning: if
+meaning_example: If you go, you'll understand.
+credits_raw: Amatuka
+source_url: http://jgram.org/pages/viewOne.php?tagE=eba
+archive_url: https://web.archive.org/web/20150224225737id_/http://jgram.org/pages/viewOne.php?tagE=eba
+archive_timestamp: '20150224225737'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: GDFMF26ISAG6OKXZBYFAP2LCMLEL47DN
+response_sha256: d12e031f3b11758aaff1a921b63cc988f1cba5af1c05a5994d9f513d03ccdc4a
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "this is also used for soft suggetsions to do something.\n\r\nタバコを消せばいい  if you could put out your cigarette"
+    html: "this is also used for soft suggetsions to do something.<br/>\r\nタバコを消せばいい  if you could put out your cigarette"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 878
+    position: 0
+    japanese: 行けばわかる。
+    body_text: "行けばわかる。 \n\nIf \n\t\tyou go, you'll understand."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ行けばわかる。\">\n行け<strong>ば</strong>わかる。<strong></strong></a> <br/>\n<strong>If </strong>\n\t\tyou go, you'll understand."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4976
+    position: 1
+    japanese: この本をもう一度読めば、5回読んだことになります。
+    body_text: "この本をもう一度読めば、5回読んだことになります。 \n\nIf \n\t\tI read this book again, I will have read it five times."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの本をもう一度読めば、5回読んだことになります。\">\n\t\t\t\tこの本をもう一度読め<strong>ば、</strong>5回読んだことになります。<strong></strong></a> <br/>\n<strong>If </strong>\n\t\tI read this book again, I will have read it five times."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4977
+    position: 2
+    japanese: 走れば、すぐに彼に追いつくだろう。
+    body_text: "走れば、すぐに彼に追いつくだろう。 \n\n\t\tYou will soon come up with him \n\t\tif \n\t\tyou run."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ走れば、すぐに彼に追いつくだろう。\">\n走れ<strong>ば、</strong>すぐに彼に追いつくだろう。<strong></strong></a> <br/>\n\t\tYou will soon come up with him \n\t\t<strong>if </strong>\n\t\tyou run."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4978
+    position: 3
+    japanese: しばらく眠れば、ずっと気分がよくなりますよ。
+    body_text: "しばらく眠れば、ずっと気分がよくなりますよ。 \n\nIf \n\t\tyou sleep for a while, you will feel much better."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJしばらく眠れば、ずっと気分がよくなりますよ。\">\n\t\t\t\tしばらく眠れ<strong>ば、</strong>ずっと気分がよくなりますよ。<strong></strong></a> <br/>\n<strong>If </strong>\n\t\tyou sleep for a while, you will feel much better."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4979
+    position: 4
+    japanese: このクラブに入会すれば、その施設の全てを使用する権利が与えられる。
+    body_text: "このクラブに入会すれば、その施設の全てを使用する権利が与えられる。 \n\nIf \n\t\tyou join this club, you will be entitled to use all of its facilities."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこのクラブに入会すれば、その施設の全てを使用する権利が与えられる。\">\n\t\t\t\tこのクラブに入会すれ<strong>ば、</strong>その施設の全てを使用する権利が与えられる。<strong></strong></a> <br/>\n<strong>If </strong>\n\t\tyou join this club, you will be entitled to use all of its facilities."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4980
+    position: 5
+    japanese: すぐに出発すれば電車に間に合うだろう。
+    body_text: "すぐに出発すれば電車に間に合うだろう。 \n\n\t\tYou will be in time for the train \n\t\tif \n\t\tyou start at once."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJすぐに出発すれば電車に間に合うだろう。\">\n\t\t\t\tすぐに出発すれ<strong>ば</strong>電車に間に合うだろう。<strong></strong></a> <br/>\n\t\tYou will be in time for the train \n\t\t<strong>if </strong>\n\t\tyou start at once."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4981
+    position: 6
+    japanese: そのとおりにすれば間違いない。
+    body_text: "そのとおりにすれば間違いない。 \n\nIf \n\t\tyou do it that way you won't be mistaken."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJそのとおりにすれば間違いない。\">\n\t\t\t\tそのとおりにすれ<strong>ば</strong>間違いない。<strong></strong></a> <br/>\n<strong>If </strong>\n\t\tyou do it that way you won't be mistaken."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5721
+    position: 7
+    japanese: その本は、安ければ買うかもしれない。
+    body_text: "その本は、安ければ買うかもしれない。 \n\nIf \n\t\tthat book was cheaper , I might just buy it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJその本は、安ければ買うかもしれない。\">\n\t\t\t\tその本は、安<strong>ければ</strong>買うかもしれない。<strong></strong></a> <br/>\n<strong>If </strong>\n\t\tthat book was cheaper , I might just buy it."
+    credits_raw: zep3xvii
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6441
+    position: 8
+    japanese: この薬を飲めばよくなります。(このくすりをのめばよくなります。）えば
+    body_text: "この薬を飲めばよくなります。(このくすりをのめばよくなります。）えば \n\n\t\tIf you take this medicine, you will get well. \n\t\tIf-conditional"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの薬を飲めばよくなります。(このくすりをのめばよくなります。）えば\">\n\t\t\t\tこの薬を飲めばよくなります。(このくすりをのめばよくなります。）<strong>えば</strong><strong></strong></a> <br/>\n\t\tIf you take this medicine, you will get well. \n\t\t<strong>If-conditional </strong>"
+    credits_raw: hana
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8617
+    position: 9
+    japanese: 練習すればもっと上手になります。
+    body_text: "練習すればもっと上手になります。 \n\n\t\tYou will become better \n\t\tif \n\t\tyou practice."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ練習すればもっと上手になります。\">\n\t\t\t\t練習<strong>すれば</strong>もっと上手になります。<strong></strong></a> <br/>\n\t\tYou will become better \n\t\t<strong>if </strong>\n\t\tyou practice."
+    credits_raw: ay
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: "ichidan (regular group 2) verbs replace -ru with -reba たべる (taberu) → 食べれば (tabereba).\n\r\ngodan (regular group 1) verbs change last kana to -e column and add -ba. 行く (iku) → 行けば (ikeba)"
+    html: "ichidan (regular group 2) verbs replace -ru with -reba たべる (taberu) → 食べれば (tabereba).<br/>\r\ngodan (regular group 1) verbs change last kana to -e column and add -ba. 行く (iku) → 行けば (ikeba)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "The following is not good Japanese - えば can't be used in sentences of the form \"If X then please do Y.\"\n\n\n\r\n(BAD) 彼がそちらに着けば、知らせてください。\n\r\nIf he arrives there, let him know.\n\n\n\r\nInstead -tara can be used.\n\n\n\r\n(GOOD) 彼がそちらに着いたら、知らせてください。\n\r\nWhen he arrives there, let him know."
+    html: "The following is not good Japanese - えば can't be used in sentences of the form \"If X then please do Y.\"<br/>\n<br/>\r\n(BAD) 彼がそちらに着けば、知らせてください。<br/>\r\nIf he arrives there, let him know.<br/>\n<br/>\r\nInstead -tara can be used.<br/>\n<br/>\r\n(GOOD) 彼がそちらに着いたら、知らせてください。<br/>\r\nWhen he arrives there, let him know."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: "えば can be used if the following sentence is expressed as a likely outcome.\n\r\n(GOOD) 彼がそちらに着けば、知らせてくれるでしょう。\n\r\nI guess you'll let me know if he turns up there."
+    html: "えば can be used if the following sentence is expressed as a likely outcome.<br/>\r\n(GOOD) 彼がそちらに着けば、知らせてくれるでしょう。<br/>\r\nI guess you'll let me know if he turns up there."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: natsumi
+    text: what is the differences between tara and eba? wakarimasen
+    html: what is the differences between tara and eba? wakarimasen
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: dc
+    text: "simply, ~\x01 seems to have more of an impression of \"when\", not just if. eg:\n\r\n東京に来たら、是非連絡してください。\n\r\nwhen/if you come to tokyo, be sure to contact me.\n\n\n\r\nthere is probably more on this in Tae Kim's pages."
+    html: "simply, ~<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> seems to have more of an impression of \"when\", not just if. eg:<br/>\r\n東京に来たら、是非連絡してください。<br/>\r\nwhen/if you come to tokyo, be sure to contact me.<br/>\n<br/>\r\nthere is probably more on this in Tae Kim's pages."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: dc
+    text: "yep, check the bottom of this page: \x01\n\r\ndifferent from my explanation tho."
+    html: "yep, check the bottom of this page: <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b><br/>\r\ndifferent from my explanation tho."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: Mukade
+    text: "Actually, the command form is okay as long as the えば is not a verb.\n\r\n(BAD) 田中さんが着ければ、教えてください。\n\r\n(GOOD) よろしければ、食べてください。"
+    html: "Actually, the command form is okay as long as the えば is not a verb.<br/>\r\n(BAD) 田中さんが着ければ、教えてください。<br/>\r\n(GOOD) よろしければ、食べてください。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: horms
+    text: "I think that the English in ex #\x01 is a little strange:\n\n\n\r\n走れば、すぐに彼に追いつくだろう。 \n\r\nYou will soon come up with him if you run. \n\n\n\r\nI think that either of the following better reflects the Japanese text.\n\n\n\r\nYou will soon catch up to/with him if you run.\n\r\nYou will soon overtake/pass him if your run.\n\n\n\r\nAlso, in ex #\x01, I think leave would be better than start.\n\n\n\r\nすぐに出発すれば電車に間に合うだろう。 \n\r\nYou will be in time for the train if you leave at once.  \n\n\n\r\nDepart could also be used in place of start (or leave), though it sounds a little misleading as there is a strong connection between trains and departing."
+    html: "I think that the English in ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=eba#\x01\">#\x01</a></b> is a little strange:<br/>\n<br/>\r\n走れば、すぐに彼に追いつくだろう。 <br/>\r\nYou will soon come up with him if you run. <br/>\n<br/>\r\nI think that either of the following better reflects the Japanese text.<br/>\n<br/>\r\nYou will soon catch up to/with him if you run.<br/>\r\nYou will soon overtake/pass him if your run.<br/>\n<br/>\r\nAlso, in ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=eba#\x01\">#\x01</a></b>, I think leave would be better than start.<br/>\n<br/>\r\nすぐに出発すれば電車に間に合うだろう。 <br/>\r\nYou will be in time for the train if you leave at once.  <br/>\n<br/>\r\nDepart could also be used in place of start (or leave), though it sounds a little misleading as there is a strong connection between trains and departing."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: dante
+    text: "Maybe in ex #\x01 ーたら　form is more preferable? 「この薬を飲んだらよくなります。」\n\n\n\r\nSome more examples:\n\r\n秋が来れば雨が降る。(Expresses usual occasion. In this case 'と' may be used, but not 'ーたら')\n\r\n誰か寄ってくれば赤ちゃんはたいてい泣き始める。(This one expresses usual occasion too. As in above example えば may be replaced with 'と', but not with ーたら)\n\n\n\r\n新しくなければ買いません。 [If it is not new, I will not buy it.] (Expresses intention)\n\r\n怖ければ後ろに隠れたほうがいい。[If it is scary, you'd better hide behind.] (This is not a command, but in this example なら would be better, I think)."
+    html: "Maybe in ex <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=eba#\x01\">#\x01</a></b> ーたら　form is more preferable? 「この薬を飲んだらよくなります。」<br/>\n<br/>\r\nSome more examples:<br/>\r\n秋が来れば雨が降る。(Expresses usual occasion. In this case 'と' may be used, but not 'ーたら')<br/>\r\n誰か寄ってくれば赤ちゃんはたいてい泣き始める。(This one expresses usual occasion too. As in above example えば may be replaced with 'と', but not with ーたら)<br/>\n<br/>\r\n新しくなければ買いません。 [If it is not new, I will not buy it.] (Expresses intention)<br/>\r\n怖ければ後ろに隠れたほうがいい。[If it is scary, you'd better hide behind.] (This is not a command, but in this example なら would be better, I think)."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: kinoko
+    text: "Okay, let me see if I've got this straight...\n\n\n\r\n「えば」 and 「たら」 are similar, but 「えば」 is used to express more of a cause-and-effect sort of relationship, and that's why it's used to express natural consequences. 「たら」 has less of a cause-and-effect tone, and it implies \"when\" or \"after\" more than 「えば」."
+    html: "Okay, let me see if I've got this straight...<br/>\n<br/>\r\n「えば」 and 「たら」 are similar, but 「えば」 is used to express more of a cause-and-effect sort of relationship, and that's why it's used to express natural consequences. 「たら」 has less of a cause-and-effect tone, and it implies \"when\" or \"after\" more than 「えば」."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: cerotaph
+    text: "eba alaways indicate a positive effect\n\r\nwhich kara can be positive or negative\n\r\nfor example\n\n\n\r\nkuruma ga areba iroirona basho ni ikemasu.\n\r\nif you have a car you can go to different places"
+    html: "eba alaways indicate a positive effect<br/>\r\nwhich kara can be positive or negative<br/>\r\nfor example<br/>\n<br/>\r\nkuruma ga areba iroirona basho ni ikemasu.<br/>\r\nif you have a car you can go to different places"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: to
+    label: to
+    annotation_text: to    (えば and と both tend to be used in denoting natural / inevitable consequences.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=to">to</a>    (えば and と both tend to be used in denoting natural / inevitable consequences.) [<a href="http://jgram.org/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: tara
+    label: tara
+    annotation_text: tara [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=tara">tara</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "条件形 [えば] (eba)\n    Meaning: if \n    Example: If you go, you'll understand.\n    JLPT Level: 3\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>条件形 [えば] (eba)</span><br/>    <span><b>Meaning</b>: if </span><br/>    <b>Example</b>: <i>If you go, you'll understand.</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225737'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6246536
+  length: 7622
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 69885a35b48b94eeafe24f72ce97f416b0057adca552b543254be3c8d6210603

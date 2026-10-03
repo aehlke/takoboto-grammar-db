@@ -1,0 +1,418 @@
+schema_version: 2
+id: 253
+source: takoboto
+source_url: https://takoboto.jp/bunpo/253/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜こそ
+romanized_label: koso
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: this, especially (emphasis),very, emphasize the preceding word
+meaning_example: It is "love" that truly strengthens people
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_253
+    body_text: |-
+      this, especially (emphasis),very, emphasize the preceding word 
+       It is "love" that truly strengthens people
+    body_html: |-
+      <span>this, especially (emphasis),very, emphasize the preceding word</span> <br/> <span>It is "love" that truly strengthens people</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_253
+    body_text: Noun+こそ
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>こそ</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + こそ
+examples:
+  - source_id: 249
+    position: 0
+    japanese: 愛こそが人を強くする
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%84%9b"><span>愛</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e3%81%8c%e4%ba%ba%e3%82%92%e5%bc%b7%e3%81%8f%e3%81%99%e3%82%8b"><span>が人を強くする</span></a>
+    segments:
+      - text: 愛
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: が人を強くする
+        grammar_highlight: false
+    reading: あいこそがひとをつよくする
+    credits_raw: Amatuka, Aitchxs
+    translations:
+      - language: en
+        text: It is love  that truly strengthens people.
+        html: |-
+          <span>It is </span><strong>love </strong><span> that truly strengthens people. </span>
+        segments:
+          - text: 'It is '
+            grammar_highlight: false
+          - text: 'love '
+            grammar_highlight: true
+          - text: ' that truly strengthens people. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3089
+    position: 1
+    japanese: 今度こそやってやる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e5%ba%a6"><span>今度</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%a3%e3%81%a6%e3%82%84%e3%82%8b%e3%80%82"><span>やってやる。</span></a>
+    segments:
+      - text: 今度
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: やってやる。
+        grammar_highlight: false
+    reading: こんどこそやってやる。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: I'm gonna do it this time
+        html: |-
+          <span>I'm gonna do it </span><strong>this time </strong>
+        segments:
+          - text: 'I''m gonna do it '
+            grammar_highlight: false
+          - text: 'this time '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3090
+    position: 2
+    japanese: 夢こそが希望の源だ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%a2"><span>夢</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e3%81%8c%e5%b8%8c%e6%9c%9b%e3%81%ae%e6%ba%90%e3%81%a0"><span>が希望の源だ</span></a>
+    segments:
+      - text: 夢
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: が希望の源だ
+        grammar_highlight: false
+    reading: ゆめこそがきぼうのみなもとだ
+    credits_raw: bamboo4, Aitchxs
+    translations:
+      - language: en
+        text: Dreams  are the source of hope.
+        html: |-
+          <strong>Dreams </strong><span> are the source of hope. </span>
+        segments:
+          - text: 'Dreams '
+            grammar_highlight: true
+          - text: ' are the source of hope. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3091
+    position: 3
+    japanese: わたしこそお詫びしなければなりません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97"><span>わたし</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e8%a9%ab%e3%81%b3%e3%81%97%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>詫びしなければなりません。</span></a>
+    segments:
+      - text: わたし
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: お詫びしなければなりません。
+        grammar_highlight: false
+    reading: わたしこそおわびしなければなりません。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: It is I, and not you, who must apologize.
+        html: |-
+          <span>It is </span><strong>I, and not you, </strong><span>who must apologize. </span>
+        segments:
+          - text: 'It is '
+            grammar_highlight: false
+          - text: 'I, and not you, '
+            grammar_highlight: true
+          - text: 'who must apologize. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3092
+    position: 4
+    japanese: 家族こそが人生で最も大切なものだ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ae%b6%e6%97%8f"><span>家族</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e3%81%8c%e4%ba%ba%e7%94%9f%e3%81%a7%e6%9c%80%e3%82%82%e5%a4%a7%e5%88%87%e3%81%aa%e3%82%82%e3%81%ae%e3%81%a0"><span>が人生で最も大切なものだ</span></a>
+    segments:
+      - text: 家族
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: が人生で最も大切なものだ
+        grammar_highlight: false
+    reading: かぞくこそがじんせいでもっともたいせつなものだ
+    credits_raw: bamboo4, Aitchxs
+    translations:
+      - language: en
+        text: It is indeed family  that is the most important thing in life.
+        html: |-
+          <span>It is indeed </span><strong>family </strong><span> that is the most important thing in life. </span>
+        segments:
+          - text: 'It is indeed '
+            grammar_highlight: false
+          - text: 'family '
+            grammar_highlight: true
+          - text: ' that is the most important thing in life. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3093
+    position: 5
+    japanese: ようこそおいで下さいました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86"><span>よう</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%84%e3%81%a7"><span>おいで</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>下さいました。</span></a>
+    segments:
+      - text: よう
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: おいで下さいました。
+        grammar_highlight: false
+    reading: ようこそおいでくださいました。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: You are very much welcome.
+        html: |-
+          <span>You are </span><strong>very much </strong><span>welcome. </span>
+        segments:
+          - text: 'You are '
+            grammar_highlight: false
+          - text: 'very much '
+            grammar_highlight: true
+          - text: 'welcome. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3106
+    position: 6
+    japanese: マイケルソンｰモーリーの光速度に関する実験があったからこそアインスタインは特殊相対性理論を確立することができた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%9e%e3%82%a4%e3%82%b1%e3%83%ab%e3%82%bd%e3%83%b3"><span>マイケルソン</span></a><a href="https://takoboto.jp/?q=%ef%bd%b0%e3%83%a2%e3%83%bc%e3%83%aa%e3%83%bc%e3%81%ae"><span>ｰモーリーの</span></a><a href="https://takoboto.jp/?q=%e5%85%89%e9%80%9f%e5%ba%a6%e3%81%ab"><span>光速度に</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e3%81%99%e3%82%8b"><span>関する</span></a><a href="https://takoboto.jp/?q=%e5%ae%9f%e9%a8%93%e3%81%8c%e3%81%82%e3%81%a3%e3%81%9f%e3%81%8b%e3%82%89"><span>実験があったから</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e3%82%a2%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf%e3%82%a4%e3%83%b3%e3%81%af"><span>アインスタインは</span></a><a href="https://takoboto.jp/?q=%e7%89%b9%e6%ae%8a%e7%9b%b8%e5%af%be%e6%80%a7%e7%90%86%e8%ab%96%e3%82%92"><span>特殊相対性理論を</span></a><a href="https://takoboto.jp/?q=%e7%a2%ba%e7%ab%8b%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%9f%e3%80%82"><span>確立することができた。</span></a>
+    segments:
+      - text: マイケルソンｰモーリーの光速度に関する実験があったから
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: アインスタインは特殊相対性理論を確立することができた。
+        grammar_highlight: false
+    reading: のひかりそくどにかんするじっけんがあったからこそはとくしゅそうたいせいりろんをかくりつすることができた。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: |-
+          It was purely because of the Michelson-Morley experiment on the speed of light that made it possible for Einstein to establish his special theory of relativity.
+        html: |-
+          <strong>It was purely because of </strong><span>the Michelson-Morley experiment on the speed of light that made it possible for Einstein to establish his special theory of relativity. </span>
+        segments:
+          - text: 'It was purely because of '
+            grammar_highlight: true
+          - text: "the Michelson-Morley experiment on the speed of light that made it possible for Einstein to establish his special theory of relativity. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6325
+    position: 7
+    japanese: これこそ求めていたものですよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c"><span>これ</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e6%b1%82%e3%82%81%e3%81%a6%e3%81%84%e3%81%9f%e3%82%82%e3%81%ae%e3%81%a7%e3%81%99%e3%82%88%e3%80%82"><span>求めていたものですよ。</span></a>
+    segments:
+      - text: これ
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: 求めていたものですよ。
+        grammar_highlight: false
+    reading: これこそもとめていたものですよ。
+    credits_raw: tamilselvan_t
+    translations:
+      - language: en
+        text: That's just what I wanted.
+        html: |-
+          <span>That's just what I wanted. </span>
+        segments:
+          - text: 'That''s just what I wanted. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6624
+    position: 8
+    japanese: 明日こそ、勉強するぞ！（M)
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%98%8e%e6%97%a5"><span>明日</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%99%e3%82%8b%e3%81%9e"><span>勉強するぞ</span></a><a href="https://takoboto.jp/?q=%ef%bc%81%ef%bc%88M)"><span>！（M)</span></a>
+    segments:
+      - text: 明日
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: 、勉強するぞ！（M)
+        grammar_highlight: false
+    reading: あしたこそ、べんきょうするぞ！（
+    credits_raw: hana
+    translations:
+      - language: en
+        text: I will definitely study tomorrow！
+        html: |-
+          <span>I will </span><strong>definitely </strong><span>study tomorrow！ </span>
+        segments:
+          - text: 'I will '
+            grammar_highlight: false
+          - text: 'definitely '
+            grammar_highlight: true
+          - text: 'study tomorrow！ '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8237
+    position: 9
+    japanese: まさかの時の友こそ真の友。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%95%e3%81%8b%e3%81%ae"><span>まさかの</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%81%ae"><span>時の</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b"><span>友</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e7%9c%9f%e3%81%ae"><span>真の</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e3%80%82"><span>友。</span></a>
+    segments:
+      - text: まさかの時の友
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: 真の友。
+        grammar_highlight: false
+    reading: まさかのときのともこそしんのとも。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: A frien in need is a friend indeed.
+        html: |-
+          <span>A frien in need is a friend indeed. </span>
+        segments:
+          - text: 'A frien in need is a friend indeed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8238
+    position: 10
+    japanese: 君自分のためを思えばこそこう言っているのです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e8%87%aa%e5%88%86%e3%81%ae%e3%81%9f%e3%82%81%e3%82%92"><span>君自分のためを</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%88%e3%81%b0"><span>思えば</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%86"><span>こう</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82"><span>言っているのです。</span></a>
+    segments:
+      - text: 君自分のためを思えば
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: こう言っているのです。
+        grammar_highlight: false
+    reading: きみじぶんのためをおもえばこそこういっているのです。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: We`re only saying this for your own sake.
+        html: |-
+          <span>We`re only saying this for your own sake. </span>
+        segments:
+          - text: 'We`re only saying this for your own sake. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8239
+    position: 11
+    japanese: これこそ今私に必要な本です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c"><span>これ</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%9d"><strong>こそ</strong></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e7%a7%81%e3%81%ab"><span>今私に</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%aa"><span>必要な</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%81%a7%e3%81%99%e3%80%82"><span>本です。</span></a>
+    segments:
+      - text: これ
+        grammar_highlight: false
+      - text: こそ
+        grammar_highlight: true
+      - text: 今私に必要な本です。
+        grammar_highlight: false
+    reading: これこそいまわたしにひつようなほんです。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: This is the very book I need now.
+        html: |-
+          <span>This is the very book I need now. </span>
+        segments:
+          - text: 'This is the very book I need now. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: This grammar can only be used after a noun.
+    html: This grammar can only be used after a noun.
+    credits_raw: rubyhatchet
+    content_sha256: b875bb2a21b0d1a086101b35e1ab0eb4536c376c07ef3e563ea1ffcbc05a5094
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: こそ is ubiquitous, but hard to translate.
+    html: こそ is ubiquitous, but hard to translate.
+    credits_raw: bamboo4
+    content_sha256: 34f8b9226316f7bf1c868f8d8cdbb2b250876b294020cc6ef545880b820ce5d2
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: I like to think that whatever is coming before こそ is being smacked on the head (To make a point).
+    html: I like to think that whatever is coming before こそ is being smacked on the head (To make a point).
+    credits_raw: LittleFish
+    content_sha256: 43722d87b846e80494bc03b0e651b647cb995ca1c1b66d014e5713d76df91092
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: I think [3106] should be moved to the [dakarakoso] entry.
+    html: I think [3106] should be moved to the [dakarakoso] entry.
+    credits_raw: srobertson
+    content_sha256: 3804dc31035d5769d66047490556b370fd46de5631dc3618e288232a7b93b29b
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      I think こちらこそ should be added as an example, or as a stock phrase that doesn't mean quite what a non-native might expect.
+    html: |-
+      I think こちらこそ should be added as an example, or as a stock phrase that doesn't mean quite what a non-native might expect.
+    credits_raw: winterkoninkje
+    content_sha256: 50e19eeb9819ada01edba0d480bab5810f403c406b514669e03aa602938703f2
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      こそ　＝＝　this very
+
+      ex:今年こそーthis very year
+    html: |-
+      こそ　＝＝　this very<br/><br/>ex:今年こそーthis very year
+    credits_raw: tamilselvan_t
+    content_sha256: ee09fd36d6ee077d7422b7884d981cf70e907fb91604d5d13d159a4d7ec28ecc
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 496
+    label: あればこそ
+    source_url: https://takoboto.jp/bunpo/496
+  - target_id: 1494
+    label: だからこそ
+    source_url: https://takoboto.jp/bunpo/1494
+  - target_id: 1541
+    label: 〜からこそ
+    source_url: https://takoboto.jp/bunpo/1541
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:22+00:00'
+response_sha256: b97e085bc240ed54b9ff55eba35fecabec0284ab1ff4eec827b10b99366771ba
+warnings: []

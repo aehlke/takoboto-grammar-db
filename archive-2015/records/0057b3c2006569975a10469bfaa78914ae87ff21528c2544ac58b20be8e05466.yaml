@@ -1,0 +1,213 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 976
+label: niyotte-2
+title_raw: によって [によって] (niyotte-2)
+title: によって
+reading: によって
+romanized_label: niyotte-2
+category: grammar
+jlpt_level_original: '2'
+meaning: depending on
+meaning_example: depending on the weather, i will come
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=niyotte-2
+archive_url: https://web.archive.org/web/20150224225500id_/http://jgram.org/pages/viewOne.php?tagE=niyotte-2
+archive_timestamp: '20150224225500'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: WVS6AHK5GPKXBHOMSQFIKJUULSFWFJ7W
+response_sha256: 2182f8327a40c6207314682b42051b115fb0c95c60ac991048952c721b400ad4
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 1309
+    position: 0
+    japanese: 天気によっては来ます
+    body_text: "天気によっては来ます \n\ndepending on \n\t\tthe weather, i will come"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ天気によっては来ます\">\n天気<strong>によっては</strong>来ます<strong></strong></a> <br/>\n<strong>depending on </strong>\n\t\tthe weather, i will come"
+    credits_raw: dc
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1310
+    position: 1
+    japanese: 結果によっては採用しないことがあります。
+    body_text: "結果によっては採用しないことがあります。 \n\nDepending upon \n\t\tthe outcome, you may not be hired."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ結果によっては採用しないことがあります。\">\n結果<strong>によっては</strong>採用しないことがあります。<strong></strong></a> <br/>\n<strong>Depending upon </strong>\n\t\tthe outcome, you may not be hired."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1311
+    position: 2
+    japanese: 天気によっては中止することがあります。
+    body_text: "天気によっては中止することがあります。 \n\nDepending upon \n\t\tthe weather, the event may be cancelled."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ天気によっては中止することがあります。\">\n天気<strong>によっては</strong>中止することがあります。<strong></strong></a> <br/>\n<strong>Depending upon </strong>\n\t\tthe weather, the event may be cancelled."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7179
+    position: 3
+    japanese: 景気にようってはメキシコに行きます。
+    body_text: "景気にようってはメキシコに行きます。 \n\nDepending upon \n\t\tthe finances, I will go to Mexico."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ景気にようってはメキシコに行きます。\">\n景気<strong>にようっては</strong>メキシコに行きます。<strong></strong></a> <br/>\n<strong>Depending upon </strong>\n\t\tthe finances, I will go to Mexico."
+    credits_raw: josue64
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: 天気によって来ます is weird. It should be "天気次第で行きます."
+    html: |-
+      天気によって来ます is weird. It should be "天気次第で行きます."<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: "how about \n\r\n　天気によっては来ます"
+    html: "how about <br/>\r\n　天気によって<b>は</b>来ます"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: bamboo4
+    text: "If you say 天気によっては来ます,it is very likely that you are talking about some third party or things. Like in Nikko, there are many monkeys, and you can say that to indicate that those monkeys will show up depending on the weather. \n\n\n\r\nIf you are talking about yourself, it is normal to say 天気によってはゆきます or 天気によっては帰って来ます but one do not normally see 来ます very often."
+    html: "If you say 天気によっては来ます,it is very likely that you are talking about some third party or things. Like in Nikko, there are many monkeys, and you can say that to indicate that those monkeys will show up depending on the weather. <br/>\n<br/>\r\nIf you are talking about yourself, it is normal to say 天気によってはゆきます or 天気によっては帰って来ます but one do not normally see 来ます very often.<br/>\n<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Snake
+    text: "erm, sorry my encoding messed up again, that first line should be \"saiyou shinai _koto_ ga arimasu\"\n\n\n\r\ndelete button doesn't seem to work :("
+    html: "erm, sorry my encoding messed up again, that first line should be \"saiyou shinai _koto_ ga arimasu\"<br/>\n<br/>\r\ndelete button doesn't seem to work :(<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: dc
+    text: "snake hiya - deleted your mojibake post above... dunno why your delete btn is not working - are you logged in?\n\r\nalso the encoding, i haven't seen probs with. what browser/OS are you on?"
+    html: "snake hiya - deleted your mojibake post above... dunno why your delete btn is not working - are you logged in?<br/>\r\nalso the encoding, i haven't seen probs with. what browser/OS are you on?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Miki
+    text: dc, I cannot delete my comment, too. When I am logged off, I cannot see delete btn.　でしょ？
+    html: dc, I cannot delete my comment, too. When I am logged off, I cannot see delete btn.　でしょ？
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: Miki
+    text: I could delete an example I added.
+    html: I could delete an example I added.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: dc
+    text: |-
+      yes, you can only delete your own comments - so you have to be logged in so the system knows which are yours! otherwise an anonymous user could come in and delete everything...
+    html: |-
+      yes, you can only delete your own comments - so you have to be logged in so the system knows which are yours! otherwise an anonymous user could come in and delete everything...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: Snake
+    text: "I was logged in, and i tried it again just then logged in, but no go. I'm using Opera though.. gomen \n\r\nブラウザによっては削除出来ないことがあります（＾＾；"
+    html: "I was logged in, and i tried it again just then logged in, but no go. I'm using Opera though.. gomen <br/>\r\nブラウザによっては削除出来ないことがあります（＾＾；<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: dc
+    text: dang. that would class as a bug then. might be Opera cookie/session handling. I recommend firefox but IE seems OK too.
+    html: dang. that would class as a bug then. might be Opera cookie/session handling. I recommend firefox but IE seems OK too.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: bamboo4
+    text: Firefox cannot handle Japanese fonts.
+    html: Firefox cannot handle Japanese fonts.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: Miki
+    text: "ex1309 天気 によっては 来ます can also be used such when you were at a gathering and asked if you comes to next gathering.　\n\r\n一郎：「次回はきますか？」Will you come next time?\n\r\n花子：「天気によっては来ます。」"
+    html: "ex1309 天気 によっては 来ます can also be used such when you were at a gathering and asked if you comes to next gathering.　<br/>\r\n一郎：「次回はきますか？」Will you come next time?<br/>\r\n花子：「天気によっては来ます。」"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: dc
+    text: I use Firefox and have had no problems with japanese fonts..?
+    html: I use Firefox and have had no problems with japanese fonts..?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: jmadsen
+    text: Is this the same, or a variation on, かによる?
+    html: |-
+      Is this the same, or a variation on, かによる?<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: lucinda lohmanoota
+    text: |-
+      Hi-General comment. When I log in and browse, the screen jumps all over the place. When I log OUT, the problem is cleared up. For example, I get to the entry I want to look at, and the screen reverts to the beginning of the section. Any suggestions?
+    html: |-
+      Hi-General comment. When I log in and browse, the screen jumps all over the place. When I log OUT, the problem is cleared up. For example, I get to the entry I want to look at, and the screen reverts to the beginning of the section. Any suggestions?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: niyotte
+    label: niyotte
+    annotation_text: niyotte [dc]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=niyotte">niyotte</a> [<a href="http://jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: ikan
+    label: ikan
+    annotation_text: ikan [bi-ru]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=ikan">ikan</a> [<a href="http://jgram.org/pages/contributions.php?author=bi-ru">bi-ru</a>]
+    credits_raw: bi-ru
+sections:
+  - kind: header
+    text: "によって [によって] (niyotte-2)\n    Meaning: depending on \n    Example: depending on the weather, i will come\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>によって [によって] (niyotte-2)</span><br/>    <span><b>Meaning</b>: depending on </span><br/>    <b>Example</b>: <i>depending on the weather, i will come</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225500'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 2944169
+  length: 6416
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 824f0cc7e2eccaf18f336ce94e9e9a80c8f23094f8f69beb91a6b7fb85a356e7

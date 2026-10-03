@@ -1,0 +1,96 @@
+schema_version: 2
+id: 1685
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1685/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ~直す
+romanized_label: ~naosu
+alternate_forms:
+  - ~なおす
+jlpt_level: null
+credits_raw: jmadsen
+meaning: to do something again, hoping to improve it
+meaning_example: This essay is terrible! Please rewrite it (書き直す)
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1685
+    body_text: |-
+      to do something again, hoping to improve it 
+       This essay is terrible! Please rewrite it (書き直す)
+    body_html: |-
+      <span>to do something again, hoping to improve it</span> <br/> <span>This essay is terrible! Please rewrite it (書き直す)</span>
+    credits_raw: jmadsen
+formations: []
+examples:
+  - source_id: 8749
+    position: 0
+    japanese: 第一回目試験を落第したから、受け直すつもりだよ。dai ikkai me shiken wo rakudai shita kara, uke-naosu tsumori da yo.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%ac%ac%e4%b8%80%e5%9b%9e%e7%9b%ae%e8%a9%a6%e9%a8%93%e3%82%92%e8%90%bd%e7%ac%ac%e3%81%97%e3%81%9f%e3%81%8b%e3%82%89%e3%80%81%e5%8f%97%e3%81%91%e7%9b%b4%e3%81%99%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a0%e3%82%88%e3%80%82"><strong>第一回目試験を落第したから、受け直すつもりだよ。</strong></a><a href="https://takoboto.jp/?q=dai+ikkai+me+shiken+wo+rakudai+shita+kara%2c+uke-naosu+tsumori+da+yo."><span>dai ikkai me shiken wo rakudai shita kara, uke-naosu tsumori da yo.</span></a>
+    segments:
+      - text: 第一回目試験を落第したから、受け直すつもりだよ。
+        grammar_highlight: true
+      - text: dai ikkai me shiken wo rakudai shita kara, uke-naosu tsumori da yo.
+        grammar_highlight: false
+    reading: だいいちかいめしけんをらくだいしたから、うけなおすつもりだよ。
+    credits_raw: mducati
+    translations:
+      - language: en
+        text: Since (I) failed the test the first time, (I'm) planning on re-taking it.
+        html: |-
+          <strong>Since (I) failed the test the first time, (I'm) planning on re-taking it. </strong>
+        segments:
+          - text: 'Since (I) failed the test the first time, (I''m) planning on re-taking it. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8668
+    position: 1
+    japanese: やりなおす。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%84%e3%82%8a%e3%81%aa%e3%81%8a%e3%81%99%e3%80%82"><span>やりなおす。</span></a>
+    segments:
+      - text: やりなおす。
+        grammar_highlight: false
+    reading: やりなおす。
+    credits_raw: mdchachi
+    translations:
+      - language: en
+        text: (I) will redo it.
+        html: |-
+          <span>(I) will redo it. </span>
+        segments:
+          - text: '(I) will redo it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8669
+    position: 2
+    japanese: 聞き直したがまだわからない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%8d"><span>聞き</span></a><a href="https://takoboto.jp/?q=%e7%9b%b4%e3%81%97%e3%81%9f%e3%81%8c%e3%81%be%e3%81%a0%e3%82%8f%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>直したがまだわからない。</span></a>
+    segments:
+      - text: 聞き直したがまだわからない。
+        grammar_highlight: false
+    reading: ききなおしたがまだわからない。
+    credits_raw: mdchachi
+    translations:
+      - language: en
+        text: (I) listened to it again but I still don't understand it.
+        html: |-
+          <span>(I) listened to it again but I still don't understand it. </span>
+        segments:
+          - text: '(I) listened to it again but I still don''t understand it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:46:59+00:00'
+response_sha256: 3c0081d9b922b0cb663fdca7b62342dbead9967d22204d04655f670dc7bcbe67
+warnings: []

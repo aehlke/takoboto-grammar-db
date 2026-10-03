@@ -17,6 +17,7 @@ from .archive_audit import audit_archive
 from .archive_feeds import crawl_feeds
 from .archive_dump import DumpFetcher, INDEX, ITEM, dump_inventory, crawl_dump
 from .markdown import update_markdown
+from .storage import migrate_records
 
 
 def main():
@@ -112,6 +113,8 @@ def verified_feed_labels(current, archive_root):
 def run(resources):
     parser = argparse.ArgumentParser(description="Archive only Takoboto's public grammar dataset")
     commands = parser.add_subparsers(dest="command", required=True)
+    migrate = commands.add_parser('migrate-yaml', help='Offline lossless conversion of legacy JSON content records to YAML')
+    migrate.add_argument('--input', action='append', help='Source dataset directory (repeatable; defaults to data)')
     check = commands.add_parser("audit", help="Offline comparison of every captured grammar page against extracted records")
     check.add_argument("--input", default="data")
     historical_check = commands.add_parser('archive-audit', help='Offline source and coverage checks for archived JGram records')
@@ -163,7 +166,7 @@ def run(resources):
             selection.add_argument("--limit", type=int, help="Pilot size; omit for the complete discovered collection")
             selection.add_argument('--id', type=int, action='append', dest='ids', help='Only these indexed grammar IDs (repeatable)')
             cmd.add_argument('--inventory', help='Reuse a saved inventory instead of fetching index pages')
-    build = commands.add_parser("build", help="Offline exports from records/*.json")
+    build = commands.add_parser("build", help="Offline exports from records/*.yaml (legacy JSON is readable)")
     build.add_argument("--input", default="data")
     build.add_argument("--sqlite", help="New SQLite file; existing files are never replaced")
     build.add_argument("--markdown", help="Directory for generated Markdown; prefer a fresh directory")
@@ -175,6 +178,13 @@ def run(resources):
     readers.add_argument('--archive-snapshot', action='append', default=[], help='Additional audited dated backup directory (repeatable)')
     readers.add_argument('--output', default='markdown', help='Managed reader directory (default: markdown)')
     args = parser.parse_args()
+    if args.command == 'migrate-yaml':
+        try:
+            report = migrate_records(args.input or ['data'])
+        except (OSError, ValueError, TypeError, KeyError) as exc:
+            parser.error(f'Cannot migrate records: {exc}')
+        print(json.dumps(report, indent=2))
+        return 0
     if hasattr(args, 'delay'):
         try:
             RequestPacer(args.delay, args.burst_size, args.burst_pause)

@@ -1,0 +1,576 @@
+schema_version: 2
+id: 1303
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1303/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: や否や
+romanized_label: yainaya
+alternate_forms:
+  - やいなや
+jlpt_level: 1
+credits_raw: Amatuka
+meaning: just as soon as
+meaning_example: the baby cried as soon as it saw me
+meaning_notes:
+  - language: ja
+    text: 動詞の終止形に付いて、同時にまたは引き続いてすぐに物事が行われる意を表す。．．．するとすぐに。．．．するが早いか。
+    html: 動詞の終止形に付いて、同時にまたは引き続いてすぐに物事が行われる意を表す。．．．するとすぐに。．．．するが早いか。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1303
+    body_text: |-
+      just as soon as 
+       the baby cried as soon as it saw me 
+       動詞の終止形に付いて、同時にまたは引き続いてすぐに物事が行われる意を表す。．．．するとすぐに。．．．するが早いか。
+    body_html: |-
+      <span>just as soon as</span> <br/> <span>the baby cried as soon as it saw me</span> <br/> <span>動詞の終止形に付いて、同時にまたは引き続いてすぐに物事が行われる意を表す。．．．するとすぐに。．．．するが早いか。</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_1303
+    body_text: Verb (dictionary form)+やいなや
+    body_html: |-
+      <div><div><div>Verb (dictionary form)</div></div><div><div>+</div><div>やいなや</div></div></div>
+    credits_raw: null
+formations:
+  - Verb (dictionary form) + やいなや
+examples:
+  - source_id: 1078
+    position: 0
+    japanese: 赤ん坊は私の顔をみるやいなや、泣き出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%b5%a4%e3%82%93"><span>赤ん</span></a><a href="https://takoboto.jp/?q=%e5%9d%8a%e3%81%af"><span>坊は</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e3%82%92"><span>顔を</span></a><a href="https://takoboto.jp/?q=%e3%81%bf%e3%82%8b"><span>みる</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%b3%a3%e3%81%8d"><span>泣き</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: 赤ん坊は私の顔をみる
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: 、泣き出した。
+        grammar_highlight: false
+    reading: あかんぼうはわたしのかおをみるやいなや、なきだした。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The baby began to cry the moment that she saw my face
+        html: |-
+          <span>The baby began to cry </span><strong>the moment that </strong><span>she saw my face </span>
+        segments:
+          - text: 'The baby began to cry '
+            grammar_highlight: false
+          - text: 'the moment that '
+            grammar_highlight: true
+          - text: 'she saw my face '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3648
+    position: 1
+    japanese: そこに出かけるやいなや彼女は病気になった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%93%e3%81%ab%e5%87%ba%e3%81%8b%e3%81%91%e3%82%8b"><span>そこに出かける</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af%e7%97%85%e6%b0%97%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>彼女は病気になった。</span></a>
+    segments:
+      - text: そこに出かける
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: 彼女は病気になった。
+        grammar_highlight: false
+    reading: そこにでかけるやいなやかのじょはびょうきになった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: As soon as she went there, she fell ill.
+        html: |-
+          <span>As soon as she went there, she fell ill. </span>
+        segments:
+          - text: 'As soon as she went there, she fell ill. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3649
+    position: 2
+    japanese: その一行が出発するやいなや、雨が降り出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e4%b8%80%e8%a1%8c%e3%81%8c%e5%87%ba%e7%99%ba%e3%81%99%e3%82%8b"><span>その一行が出発する</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e9%9b%a8%e3%81%8c%e9%99%8d%e3%82%8a%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>、雨が降り出した。</span></a>
+    segments:
+      - text: その一行が出発する
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: 、雨が降り出した。
+        grammar_highlight: false
+    reading: そのいっこうがしゅっぱつするやいなや、あめがふりだした。
+    credits_raw: dbx, Chad M.
+    translations:
+      - language: en
+        text: The group had no sooner set off than it began to rain.
+        html: |-
+          <span>The group had no sooner set off than it began to rain. </span>
+        segments:
+          - text: 'The group had no sooner set off than it began to rain. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3650
+    position: 3
+    japanese: その音を聞くやいなや、犬は逃げていきました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e9%9f%b3%e3%82%92"><span>音を</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%8f"><span>聞く</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%8a%ac%e3%81%af"><span>犬は</span></a><a href="https://takoboto.jp/?q=%e9%80%83%e3%81%92%e3%81%a6%e3%81%84%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>逃げていきました。</span></a>
+    segments:
+      - text: その音を聞く
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: 、犬は逃げていきました。
+        grammar_highlight: false
+    reading: そのおとをきくやいなや、いぬはにげていきました。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: On hearing the sound, the dog rushed away.
+        html: |-
+          <span>On hearing the sound, the dog rushed away. </span>
+        segments:
+          - text: 'On hearing the sound, the dog rushed away. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3651
+    position: 4
+    japanese: その犬は私の姿を見るやいなや逃げて行った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e7%8a%ac%e3%81%af%e7%a7%81%e3%81%ae%e5%a7%bf%e3%82%92%e8%a6%8b%e3%82%8b"><span>その犬は私の姿を見る</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e9%80%83%e3%81%92%e3%81%a6%e8%a1%8c%e3%81%a3%e3%81%9f%e3%80%82"><span>逃げて行った。</span></a>
+    segments:
+      - text: その犬は私の姿を見る
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: 逃げて行った。
+        grammar_highlight: false
+    reading: そのいぬはわたしのすがたをみるやいなやにげていった。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Scarcely had the dog seen me before it ran away.
+        html: |-
+          <span>Scarcely had the dog seen me before it ran away. </span>
+        segments:
+          - text: 'Scarcely had the dog seen me before it ran away. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3652
+    position: 5
+    japanese: その子はお母さんを見るやいなやワッと泣き出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e3%81%af%e3%81%8a"><span>子はお</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%95%e3%82%93%e3%82%92"><span>母さんを</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8b"><span>見る</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e3%83%af%e3%83%83%e3%81%a8"><span>ワッと</span></a><a href="https://takoboto.jp/?q=%e6%b3%a3%e3%81%8d"><span>泣き</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: その子はお母さんを見る
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: ワッと泣き出した。
+        grammar_highlight: false
+    reading: そのこはおかあさんをみるやいなやとなきだした。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: No sooner had the child seen his mother than he burst into tears.
+        html: |-
+          <span>No sooner had the child seen his mother than he burst into tears. </span>
+        segments:
+          - text: 'No sooner had the child seen his mother than he burst into tears. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3653
+    position: 6
+    japanese: その女の子は母親を見るやいなやわっと泣き出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%a5%b3%e3%81%ae"><span>女の</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e3%81%af"><span>子は</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e8%a6%aa%e3%82%92"><span>母親を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8b"><span>見る</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%a3%e3%81%a8"><span>わっと</span></a><a href="https://takoboto.jp/?q=%e6%b3%a3%e3%81%8d"><span>泣き</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: その女の子は母親を見る
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: わっと泣き出した。
+        grammar_highlight: false
+    reading: そのおんなのこはははおやをみるやいなやわっとなきだした。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: The instant the girl saw her mother, she burst out crying.
+        html: |-
+          <strong>The instant </strong><span>the girl saw her mother, she burst out crying. </span>
+        segments:
+          - text: 'The instant '
+            grammar_highlight: true
+          - text: 'the girl saw her mother, she burst out crying. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3654
+    position: 7
+    japanese: その少女は怪物の姿を見るやいなや逃げ出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e5%a5%b3%e3%81%af"><span>少女は</span></a><a href="https://takoboto.jp/?q=%e6%80%aa%e7%89%a9%e3%81%ae"><span>怪物の</span></a><a href="https://takoboto.jp/?q=%e5%a7%bf%e3%82%92"><span>姿を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%82%8b"><span>見る</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e9%80%83%e3%81%92"><span>逃げ</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: その少女は怪物の姿を見る
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: 逃げ出した。
+        grammar_highlight: false
+    reading: そのしょうじょはかいぶつのすがたをみるやいなやにげだした。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: No sooner had the girl caught sight of the monster than she ran away.
+        html: |-
+          <span>No sooner had the girl caught sight of the monster than she ran away. </span>
+        segments:
+          - text: 'No sooner had the girl caught sight of the monster than she ran away. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3655
+    position: 8
+    japanese: その知らせを聞くやいなや彼女は青ざめた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%81%9b%e3%82%92"><span>知らせを</span></a><a href="https://takoboto.jp/?q=%e8%81%9e%e3%81%8f"><span>聞く</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e9%9d%92%e3%81%96%e3%82%81%e3%81%9f%e3%80%82"><span>青ざめた。</span></a>
+    segments:
+      - text: その知らせを聞く
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: 彼女は青ざめた。
+        grammar_highlight: false
+    reading: そのしらせをきくやいなやかのじょはあおざめた。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: On hearing the news, she turned pale.
+        html: |-
+          <span>On hearing the news, she turned pale. </span>
+        segments:
+          - text: 'On hearing the news, she turned pale. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3656
+    position: 9
+    japanese: その部屋にはいるやいなや私は、たばこの臭いのほかにガスの臭いがするのに気がついた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%81%ab%e3%81%af%e3%81%84%e3%82%8b"><span>部屋にはいる</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%80%81%e3%81%9f%e3%81%b0%e3%81%93%e3%81%ae"><span>私は、たばこの</span></a><a href="https://takoboto.jp/?q=%e8%87%ad%e3%81%84%e3%81%ae%e3%81%bb%e3%81%8b%e3%81%ab%e3%82%ac%e3%82%b9%e3%81%ae"><span>臭いのほかにガスの</span></a><a href="https://takoboto.jp/?q=%e8%87%ad%e3%81%84%e3%81%8c%e3%81%99%e3%82%8b%e3%81%ae%e3%81%ab"><span>臭いがするのに</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%8c%e3%81%a4%e3%81%84%e3%81%9f%e3%80%82"><span>気がついた。</span></a>
+    segments:
+      - text: その部屋にはいる
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: 私は、たばこの臭いのほかにガスの臭いがするのに気がついた。
+        grammar_highlight: false
+    reading: そのへやにはいるやいなやわたしは、たばこのにおいのほかにガスのにおいがするのにきがついた。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: No sooner had I entered the room than I noticed the smell not only of tobacco but of gas.
+        html: |-
+          <span>No sooner had I entered the room than I noticed the smell not only of tobacco but of gas. </span>
+        segments:
+          - text: 'No sooner had I entered the room than I noticed the smell not only of tobacco but of gas. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3657
+    position: 10
+    japanese: その部屋に入るやいなや彼らは話をやめた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%81%ab"><span>部屋に</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8b"><span>入る</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%82%89%e3%81%af"><span>彼らは</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%82%92%e3%82%84%e3%82%81%e3%81%9f%e3%80%82"><span>話をやめた。</span></a>
+    segments:
+      - text: その部屋に入る
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: 彼らは話をやめた。
+        grammar_highlight: false
+    reading: そのへやにはいるやいなやかれらははなしをやめた。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: The minute I entered the room, they stopped talking.
+        html: |-
+          <span>The minute I entered the room, they stopped talking. </span>
+        segments:
+          - text: 'The minute I entered the room, they stopped talking. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5323
+    position: 11
+    japanese: ＰＳＰは発売されるや、すべて売り切れた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%b0%ef%bc%b3%ef%bc%b0%e3%81%af"><span>ＰＳＰは</span></a><a href="https://takoboto.jp/?q=%e7%99%ba%e5%a3%b2%e3%81%95%e3%82%8c%e3%82%8b"><span>発売される</span></a><a href="https://takoboto.jp/?q=%e3%82%84"><strong>や</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%99%e3%81%b9%e3%81%a6"><span>、すべて</span></a><a href="https://takoboto.jp/?q=%e5%a3%b2%e3%82%8a"><span>売り</span></a><a href="https://takoboto.jp/?q=%e5%88%87%e3%82%8c%e3%81%9f%e3%80%82"><span>切れた。</span></a>
+    segments:
+      - text: ＰＳＰは発売される
+        grammar_highlight: false
+      - text: や
+        grammar_highlight: true
+      - text: 、すべて売り切れた。
+        grammar_highlight: false
+    reading: ははつばいされるや、すべてうりきれた。
+    credits_raw: blabby
+    translations:
+      - language: en
+        text: As soon as the the Playstation portable was put on sale, it totally sold out.
+        html: |-
+          <strong>As soon as </strong><span>the the Playstation portable was put on sale, it totally sold out. </span>
+        segments:
+          - text: 'As soon as '
+            grammar_highlight: true
+          - text: 'the the Playstation portable was put on sale, it totally sold out. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5474
+    position: 12
+    japanese: 学校に到着するやいなや
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ad%a6%e6%a0%a1%e3%81%ab"><span>学校に</span></a><a href="https://takoboto.jp/?q=%e5%88%b0%e7%9d%80%e3%81%99%e3%82%8b"><span>到着する</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a>
+    segments:
+      - text: 学校に到着する
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+    reading: がっこうにとうちゃくするやいなや
+    credits_raw: Rukawa
+    translations:
+      - language: en
+        text: As soon as you arrive at the school
+        html: |-
+          <span>As soon as you arrive at the school </span>
+        segments:
+          - text: 'As soon as you arrive at the school '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5475
+    position: 13
+    japanese: ドアを開けるやいなやその猫は飛び出していった
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%89%e3%82%a2%e3%82%92"><span>ドアを</span></a><a href="https://takoboto.jp/?q=%e9%96%8b%e3%81%91%e3%82%8b"><span>開ける</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e7%8c%ab%e3%81%af"><span>猫は</span></a><a href="https://takoboto.jp/?q=%e9%a3%9b%e3%81%b3"><span>飛び</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%a6%e3%81%84%e3%81%a3%e3%81%9f"><span>出していった</span></a>
+    segments:
+      - text: ドアを開ける
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: その猫は飛び出していった
+        grammar_highlight: false
+    reading: ドアをあけるやいなやそのねこはとびだしていった
+    credits_raw: Rukawa
+    translations:
+      - language: en
+        text: As soon as he opened the door, the cat ran out
+        html: |-
+          <span>As soon as he opened the door, the cat ran out </span>
+        segments:
+          - text: 'As soon as he opened the door, the cat ran out '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5476
+    position: 14
+    japanese: 撮影されるやいなやデジタル化され、インターネットに載せられました
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%92%ae%e5%bd%b1%e3%81%95%e3%82%8c%e3%82%8b"><span>撮影される</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%84%e3%81%aa%e3%82%84"><strong>やいなや</strong></a><a href="https://takoboto.jp/?q=%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab"><span>デジタル</span></a><a href="https://takoboto.jp/?q=%e5%8c%96%e3%81%95%e3%82%8c%e3%80%81%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%8d%e3%83%83%e3%83%88%e3%81%ab"><span>化され、インターネットに</span></a><a href="https://takoboto.jp/?q=%e8%bc%89%e3%81%9b%e3%82%89%e3%82%8c%e3%81%be%e3%81%97%e3%81%9f"><span>載せられました</span></a>
+    segments:
+      - text: 撮影される
+        grammar_highlight: false
+      - text: やいなや
+        grammar_highlight: true
+      - text: デジタル化され、インターネットに載せられました
+        grammar_highlight: false
+    reading: さつえいされるやいなやデジタルかされ、インターネットにのせられました
+    credits_raw: Rukawa
+    translations:
+      - language: en
+        text: Filming had hardly ended before it had been digitized and put on the internet
+        html: |-
+          <span>Filming had hardly ended before it had been digitized and put on the internet </span>
+        segments:
+          - text: 'Filming had hardly ended before it had been digitized and put on the internet '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7293
+    position: 15
+    japanese: 私が檻を開けるや否やその猫は飛び出して行った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e6%aa%bb%e3%82%92"><span>檻を</span></a><a href="https://takoboto.jp/?q=%e9%96%8b%e3%81%91%e3%82%8b"><span>開ける</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e5%90%a6%e3%82%84"><strong>や否や</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e7%8c%ab%e3%81%af"><span>猫は</span></a><a href="https://takoboto.jp/?q=%e9%a3%9b%e3%81%b3"><span>飛び</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%a6"><span>出して</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%80%82"><span>行った。</span></a>
+    segments:
+      - text: 私が檻を開ける
+        grammar_highlight: false
+      - text: や否や
+        grammar_highlight: true
+      - text: その猫は飛び出して行った。
+        grammar_highlight: false
+    reading: わたしがおりをあけるやいなやそのねこはとびだしていった。
+    credits_raw: IMABI
+    translations:
+      - language: en
+        text: As soon as I opened the cage, the cat rushed out.
+        html: |-
+          <strong>As soon as </strong><span>I opened the cage, the cat rushed out. </span>
+        segments:
+          - text: 'As soon as '
+            grammar_highlight: true
+          - text: 'I opened the cage, the cat rushed out. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7298
+    position: 16
+    japanese: 出発するや否や雨が降り出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%87%ba%e7%99%ba%e3%81%99%e3%82%8b"><span>出発する</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e5%90%a6%e3%82%84"><strong>や否や</strong></a><a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%8a"><span>降り</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: 出発する
+        grammar_highlight: false
+      - text: や否や
+        grammar_highlight: true
+      - text: 雨が降り出した。
+        grammar_highlight: false
+    reading: しゅっぱつするやいなやうがふりだした。
+    credits_raw: IMABI
+    translations:
+      - language: en
+        text: As soon as I left it started to rain.
+        html: |-
+          <strong>As soon as </strong><span>I left it started to rain. </span>
+        segments:
+          - text: 'As soon as '
+            grammar_highlight: true
+          - text: 'I left it started to rain. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7302
+    position: 17
+    japanese: 帰宅するや否や雨が降り出した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%b8%b0%e5%ae%85%e3%81%99%e3%82%8b"><span>帰宅する</span></a><a href="https://takoboto.jp/?q=%e3%82%84%e5%90%a6%e3%82%84"><strong>や否や</strong></a><a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%8a"><span>降り</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9f%e3%80%82"><span>出した。</span></a>
+    segments:
+      - text: 帰宅する
+        grammar_highlight: false
+      - text: や否や
+        grammar_highlight: true
+      - text: 雨が降り出した。
+        grammar_highlight: false
+    reading: きたくするやいなやうがふりだした。
+    credits_raw: IMABI
+    translations:
+      - language: en
+        text: As soon as I got home it started to rain.
+        html: |-
+          <strong>As soon as </strong><span>I got home it started to rain. </span>
+        segments:
+          - text: 'As soon as '
+            grammar_highlight: true
+          - text: 'I got home it started to rain. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Good page on this here
+    html: Good page on this here
+    credits_raw: Amatuka
+    content_sha256: ff22f6f3716b5636c6d2520cb6ab2087ea29f0fb64f784c3a5a781ab19828486
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Relevant grammar question & comments here (second post).
+    html: Relevant grammar question &amp; comments here (second post).
+    credits_raw: Amatuka
+    content_sha256: 5e5985c8db9a22e791bd89be999ebfd375fdc858acf838712e7e7193bf1c03b4
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      ex#1078 can be also said, 赤ん坊は私の顔をみるなり、泣き出した。
+      hmm no entry for なり?
+    html: |-
+      ex#1078 can be also said, 赤ん坊は私の顔をみるなり、泣き出した。<br/>hmm no entry for なり?
+    credits_raw: Miki
+    content_sha256: 2747a1344683831bd05db9864055b2a3d18def8667459407ee9fe64f6c9f33e5
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Is it always a "negative" sentence that comes after the "yainaya"? (ie cry, shut up, rain...)
+    html: Is it always a "negative" sentence that comes after the "yainaya"? (ie cry, shut up, rain...)
+    credits_raw: Pied
+    content_sha256: 224c71f7322f9dc21af47cc4a5d3467ad520244885fa9b29b73a4830078bfa34
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      My textbook uses kanji for this grammar - や否や.
+      It also says that sometimes the "否や" is omitted - Aや、B.
+    html: |-
+      My textbook uses kanji for this grammar - や否や.<br/>It also says that sometimes the "否や" is omitted - Aや、B.
+    credits_raw: blabby
+    content_sha256: 0790133aa3a055337de84e90e3be9f826a8f2bd49140d06583e12949c07fe93b
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      Still it seems hard for me to difference the use ofや否や、かと思うと、なり、たとたんに. It's clear the meaning of the examples, but if I had to choose one of these in a blank, I'd probably fail.
+    html: |-
+      Still it seems hard for me to difference the use ofや否や、かと思うと、なり、たとたんに. It's clear the meaning of the examples, but if I had to choose one of these in a blank, I'd probably fail.
+    credits_raw: poderesx
+    content_sha256: bf3f7e9cbc9dd33ec80bc4e799b1c0cf2bd77722371b1bfcfc7dea3cfe3e7081
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      #pied, that is not necessary. Any action can come after や否や, like 'No sooner had he closed the door behind him than he burst into hearty laughter.' Picked this up from an old Japanese Sherlock Holmes novel I had.
+    html: |-
+      #pied, that is not necessary. Any action can come after や否や, like 'No sooner had he closed the door behind him than he burst into hearty laughter.' Picked this up from an old Japanese Sherlock Holmes novel I had.
+    credits_raw: Kuval Anand
+    content_sha256: cd30368fe801c71baa78132395bee17da88d55356fc54b95eff6992ba6b6c493
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 543
+    label: 途端（に）
+    source_url: https://takoboto.jp/bunpo/543
+  - target_id: 816
+    label: かどうかのうちに
+    source_url: https://takoboto.jp/bunpo/816
+  - target_id: 1526
+    label: なり
+    source_url: https://takoboto.jp/bunpo/1526
+  - target_id: 1309
+    label: 次第
+    source_url: https://takoboto.jp/bunpo/1309
+  - target_id: 985
+    label: か〜ないかのうちに
+    source_url: https://takoboto.jp/bunpo/985
+  - target_id: 413
+    label: 〜たところ
+    source_url: https://takoboto.jp/bunpo/413
+  - target_id: 1617
+    label: と同時に
+    source_url: https://takoboto.jp/bunpo/1617
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:42:48+00:00'
+response_sha256: e5c0b7e30e5a362334e7b5d9edde970eabb11d71e34013c2e234e2b091a827cb
+warnings: []

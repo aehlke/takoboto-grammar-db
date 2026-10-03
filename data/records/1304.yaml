@@ -1,0 +1,951 @@
+schema_version: 2
+id: 1304
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1304/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: さえ
+romanized_label: sae
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: even; only; just
+meaning_example: I can't even see it
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1304
+    body_text: |-
+      even; only; just 
+       I can't even see it
+    body_html: |-
+      <span>even; only; just</span> <br/> <span>I can't even see it</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1304
+    body_text: Verb ます-stem+さえ+(する/しない)Verb て-form+さえVerb dictionary form+こと+さえNoun+さえNoun+で+さえ
+    body_html: |-
+      <div><div><div>Verb ます-stem</div></div><div><div>+</div><div>さえ</div></div><div><div>+</div><div>(する/しない)</div></div></div><div><div><div>Verb て-form</div></div><div><div>+</div><div>さえ</div></div></div><div><div><div>Verb dictionary form</div></div><div><div>+</div><div>こと</div></div><div><div>+</div><div>さえ</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>さえ</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>で</div></div><div><div>+</div><div>さえ</div></div></div>
+    credits_raw: null
+formations:
+  - Verb ます-stem + さえ + (する/しない)
+  - Verb て-form + さえ
+  - Verb dictionary form + こと + さえ
+  - Noun + さえ
+  - Noun + で + さえ
+examples:
+  - source_id: 115
+    position: 0
+    japanese: 食べ過ぎて、イチゴさえ食べられない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9"><span>食べ</span></a><a href="https://takoboto.jp/?q=%e9%81%8e%e3%81%8e%e3%81%a6%e3%80%81"><span>過ぎて、</span></a><a href="https://takoboto.jp/?q=%e3%82%a4%e3%83%81%e3%82%b4"><span>イチゴ</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82"><span>食べられない。</span></a>
+    segments:
+      - text: 食べ過ぎて、イチゴ
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 食べられない。
+        grammar_highlight: false
+    reading: たべすぎて、イチゴさえたべられない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I am so full I could not even eat a strawberry.
+        html: |-
+          <span>I am so full I could </span><strong>not even </strong><span>eat a strawberry. </span>
+        segments:
+          - text: 'I am so full I could '
+            grammar_highlight: false
+          - text: 'not even '
+            grammar_highlight: true
+          - text: 'eat a strawberry. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 360
+    position: 1
+    japanese: 食べ物がなくなれば、人間はネズミさえ食べる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9"><span>食べ</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%81%8c%e3%81%aa%e3%81%8f%e3%81%aa%e3%82%8c%e3%81%b0%e3%80%81"><span>物がなくなれば、</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e3%81%af"><span>人間は</span></a><a href="https://takoboto.jp/?q=%e3%83%8d%e3%82%ba%e3%83%9f"><span>ネズミ</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%8b%e3%80%82"><span>食べる。</span></a>
+    segments:
+      - text: 食べ物がなくなれば、人間はネズミ
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 食べる。
+        grammar_highlight: false
+    reading: たべものがなくなれば、にんげんはネズミさえたべる。
+    credits_raw: Amatuka, dc
+    translations:
+      - language: en
+        text: If there is no food, humans would even eat a mouse.
+        html: |-
+          <span>If there is no food, humans would </span><strong>even </strong><span>eat a mouse. </span>
+        segments:
+          - text: 'If there is no food, humans would '
+            grammar_highlight: false
+          - text: 'even '
+            grammar_highlight: true
+          - text: 'eat a mouse. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3036
+    position: 2
+    japanese: ほとんどの人がその存在さえ知らないようなこと
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a8%e3%82%93%e3%81%a9%e3%81%ae"><span>ほとんどの</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%8c%e3%81%9d%e3%81%ae"><span>人がその</span></a><a href="https://takoboto.jp/?q=%e5%ad%98%e5%9c%a8"><span>存在</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%81%aa%e3%81%84%e3%82%88%e3%81%86%e3%81%aa%e3%81%93%e3%81%a8"><span>知らないようなこと</span></a>
+    segments:
+      - text: ほとんどの人がその存在
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 知らないようなこと
+        grammar_highlight: false
+    reading: ほとんどのひとがそのそんざいさえしらないようなこと
+    credits_raw: dc
+    translations:
+      - language: en
+        text: thing which most people don't even know exists
+        html: |-
+          <span>thing which most people don't even know exists </span>
+        segments:
+          - text: 'thing which most people don''t even know exists '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3048
+    position: 3
+    japanese: ソースコードを見つけられさえしないのに、開発するなんてもってのほかだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%82%92"><span>ソースコードを</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%a4%e3%81%91%e3%82%89%e3%82%8c"><span>見つけられ</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%aa%e3%81%84%e3%81%ae%e3%81%ab%e3%80%81"><span>しないのに、</span></a><a href="https://takoboto.jp/?q=%e9%96%8b%e7%99%ba%e3%81%99%e3%82%8b%e3%81%aa%e3%82%93%e3%81%a6%e3%82%82%e3%81%a3%e3%81%a6%e3%81%ae%e3%81%bb%e3%81%8b%e3%81%a0%e3%80%82"><span>開発するなんてもってのほかだ。</span></a>
+    segments:
+      - text: ソースコードを見つけられ
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: しないのに、開発するなんてもってのほかだ。
+        grammar_highlight: false
+    reading: ソースコードをみつけられさえしないのに、かいはつするなんてもってのほかだ。
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: they can't even -find- the source code, let alone finish developing it!
+        html: |-
+          <span>they can't </span><strong>even </strong><span>-find- the source code, let alone finish developing it! </span>
+        segments:
+          - text: 'they can''t '
+            grammar_highlight: false
+          - text: 'even '
+            grammar_highlight: true
+          - text: '-find- the source code, let alone finish developing it! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3185
+    position: 4
+    japanese: 定規を使ってさえ、まっすぐに線が引けない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ae%9a%e8%a6%8f%e3%82%92"><span>定規を</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%a3%e3%81%a6"><span>使って</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%be%e3%81%a3%e3%81%99%e3%81%90%e3%81%ab"><span>、まっすぐに</span></a><a href="https://takoboto.jp/?q=%e7%b7%9a%e3%81%8c"><span>線が</span></a><a href="https://takoboto.jp/?q=%e5%bc%95%e3%81%91%e3%81%aa%e3%81%84%e3%80%82"><span>引けない。</span></a>
+    segments:
+      - text: 定規を使って
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 、まっすぐに線が引けない。
+        grammar_highlight: false
+    reading: じょうぎをつかってさえ、まっすぐにせんがひけない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Even using a ruler, he cannot draw a straight line.
+        html: |-
+          <strong>Even </strong><span>using a ruler, he cannot draw a straight line. </span>
+        segments:
+          - text: 'Even '
+            grammar_highlight: true
+          - text: 'using a ruler, he cannot draw a straight line. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3658
+    position: 5
+    japanese: あなたさえよければ、私はかまいませんよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f"><span>あなた</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%91%e3%82%8c%e3%81%b0%e3%80%81"><span>よければ、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%8b%e3%81%be%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%82%88%e3%80%82"><span>私はかまいませんよ。</span></a>
+    segments:
+      - text: あなた
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: よければ、私はかまいませんよ。
+        grammar_highlight: false
+    reading: あなたさえよければ、わたしはかまいませんよ。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: It's OK with me if it's OK with you.
+        html: |-
+          <span>It's OK with me if it's OK with you. </span>
+        segments:
+          - text: 'It''s OK with me if it''s OK with you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3659
+    position: 6
+    japanese: あなたはいわれた通りにしさえすればいい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%84%e3%82%8f%e3%82%8c%e3%81%9f"><span>あなたはいわれた</span></a><a href="https://takoboto.jp/?q=%e9%80%9a%e3%82%8a%e3%81%ab%e3%81%97"><span>通りにし</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%81%84%e3%81%84%e3%80%82"><span>すればいい。</span></a>
+    segments:
+      - text: あなたはいわれた通りにし
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればいい。
+        grammar_highlight: false
+    reading: あなたはいわれたとおりにしさえすればいい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You have only to do what you are told.
+        html: |-
+          <span>You have </span><strong>only </strong><span>to do what you are told. </span>
+        segments:
+          - text: 'You have '
+            grammar_highlight: false
+          - text: 'only '
+            grammar_highlight: true
+          - text: 'to do what you are told. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3660
+    position: 7
+    japanese: あなたの欠点でさえも私のあなたに対する尊敬の気持ちを減じはしないし、友情においてはこれが大切なことです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>あなたの</span></a><a href="https://takoboto.jp/?q=%e6%ac%a0%e7%82%b9%e3%81%a7"><span>欠点で</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%82%82"><span>も</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab"><span>私のあなたに</span></a><a href="https://takoboto.jp/?q=%e5%af%be%e3%81%99%e3%82%8b"><span>対する</span></a><a href="https://takoboto.jp/?q=%e5%b0%8a%e6%95%ac%e3%81%ae"><span>尊敬の</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e6%8c%81%e3%81%a1%e3%82%92"><span>気持ちを</span></a><a href="https://takoboto.jp/?q=%e6%b8%9b%e3%81%98%e3%81%af%e3%81%97%e3%81%aa%e3%81%84%e3%81%97%e3%80%81"><span>減じはしないし、</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e6%83%85%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6%e3%81%af%e3%81%93%e3%82%8c%e3%81%8c"><span>友情においてはこれが</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%88%87%e3%81%aa%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99%e3%80%82"><span>大切なことです。</span></a>
+    segments:
+      - text: あなたの欠点で
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: も私のあなたに対する尊敬の気持ちを減じはしないし、友情においてはこれが大切なことです。
+        grammar_highlight: false
+    reading: あなたのけってんでさえもわたしのあなたにたいするそんけいのきもちをげんじはしないし、ゆうじょうにおいてはこれがたいせつなことです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Even your faults do not lessen my respect for you, and in friendship this is what counts.
+        html: |-
+          <span>Even your faults do not lessen my respect for you, and in friendship this is what counts. </span>
+        segments:
+          - text: 'Even your faults do not lessen my respect for you, and in friendship this is what counts. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3661
+    position: 8
+    japanese: あなたは、彼に参加したいかどうか尋ねさえすればいい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%80%81%e5%bd%bc%e3%81%ab%e5%8f%82%e5%8a%a0%e3%81%97%e3%81%9f%e3%81%84%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b%e5%b0%8b%e3%81%ad"><span>あなたは、彼に参加したいかどうか尋ね</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%81%84%e3%81%84%e3%80%82"><span>すればいい。</span></a>
+    segments:
+      - text: あなたは、彼に参加したいかどうか尋ね
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればいい。
+        grammar_highlight: false
+    reading: あなたは、かれにさんかしたいかどうかたずねさえすればいい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You only have to ask him if he'd like to join us.
+        html: |-
+          <span>You only have to ask him if he'd like to join us. </span>
+        segments:
+          - text: 'You only have to ask him if he''d like to join us. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3662
+    position: 9
+    japanese: あなたはここで待ってさえいればいいのです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%93%e3%81%93%e3%81%a7"><span>あなたはここで</span></a><a href="https://takoboto.jp/?q=%e5%be%85%e3%81%a3%e3%81%a6"><span>待って</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%82%8c%e3%81%b0%e3%81%84%e3%81%84%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82"><span>いればいいのです。</span></a>
+    segments:
+      - text: あなたはここで待って
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: いればいいのです。
+        grammar_highlight: false
+    reading: あなたはここでまってさえいればいいのです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: If you just wait here, thats enough.
+        html: |-
+          <span>If you just wait here, thats enough. </span>
+        segments:
+          - text: 'If you just wait here, thats enough. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3663
+    position: 10
+    japanese: あなたはここに来さえすればよい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%93%e3%81%93%e3%81%ab"><span>あなたはここに</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5"><span>来</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%82%88%e3%81%84%e3%80%82"><span>すればよい。</span></a>
+    segments:
+      - text: あなたはここに来
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればよい。
+        grammar_highlight: false
+    reading: あなたはここにきさえすればよい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You have only to come here.
+        html: |-
+          <span>You have only to come here. </span>
+        segments:
+          - text: 'You have only to come here. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3664
+    position: 11
+    japanese: あなたはこのボタンを押しさえすればいいのです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%93%e3%81%ae%e3%83%9c%e3%82%bf%e3%83%b3%e3%82%92"><span>あなたはこのボタンを</span></a><a href="https://takoboto.jp/?q=%e6%8a%bc%e3%81%97"><span>押し</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%81%84%e3%81%84%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82"><span>すればいいのです。</span></a>
+    segments:
+      - text: あなたはこのボタンを押し
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればいいのです。
+        grammar_highlight: false
+    reading: あなたはこのボタンをおしさえすればいいのです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You have only to push this button.
+        html: |-
+          <span>You have only to push this button. </span>
+        segments:
+          - text: 'You have only to push this button. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3665
+    position: 12
+    japanese: あなたはそれを求めさえすればいいそうすれば、与えられるでしょう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%9d%e3%82%8c%e3%82%92"><span>あなたはそれを</span></a><a href="https://takoboto.jp/?q=%e6%b1%82%e3%82%81"><span>求め</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%81%84%e3%81%84%e3%81%9d%e3%81%86%e3%81%99%e3%82%8c%e3%81%b0%e3%80%81"><span>すればいいそうすれば、</span></a><a href="https://takoboto.jp/?q=%e4%b8%8e%e3%81%88%e3%82%89%e3%82%8c%e3%82%8b%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%80%82"><span>与えられるでしょう。</span></a>
+    segments:
+      - text: あなたはそれを求め
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればいいそうすれば、与えられるでしょう。
+        grammar_highlight: false
+    reading: あなたはそれをもとめさえすればいいそうすれば、あたえられるでしょう。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You have only to ask for it and it will be given to you.
+        html: |-
+          <span>You have only to ask for it and it will be given to you. </span>
+        segments:
+          - text: 'You have only to ask for it and it will be given to you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3666
+    position: 13
+    japanese: あなたはもっと一生懸命勉強しさえすればいいのです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%82%82%e3%81%a3%e3%81%a8"><span>あなたはもっと</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e7%94%9f%e6%87%b8%e5%91%bd%e5%8b%89%e5%bc%b7%e3%81%97"><span>一生懸命勉強し</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%81%84%e3%81%84%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82"><span>すればいいのです。</span></a>
+    segments:
+      - text: あなたはもっと一生懸命勉強し
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればいいのです。
+        grammar_highlight: false
+    reading: あなたはもっといっしょうけんめいべんきょうしさえすればいいのです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: All you have to do is study harder.
+        html: |-
+          <span>All you have to do is study harder. </span>
+        segments:
+          - text: 'All you have to do is study harder. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3667
+    position: 14
+    japanese: あなたは意見を述べさえすればよい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e6%84%8f%e8%a6%8b%e3%82%92"><span>意見を</span></a><a href="https://takoboto.jp/?q=%e8%bf%b0%e3%81%b9"><span>述べ</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%82%88%e3%81%84%e3%80%82"><span>すればよい。</span></a>
+    segments:
+      - text: あなたは意見を述べ
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればよい。
+        grammar_highlight: false
+    reading: あなたはいけんをのべさえすればよい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: All you have to do is to make a comment.
+        html: |-
+          <span>All you have to do is to make a comment. </span>
+        segments:
+          - text: 'All you have to do is to make a comment. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3668
+    position: 15
+    japanese: あなたは一所懸命勉強しさえすればよい、そうすれば試験に合格するだろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%89%80%e6%87%b8%e5%91%bd%e5%8b%89%e5%bc%b7%e3%81%97"><span>一所懸命勉強し</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%82%88%e3%81%84%e3%80%81%e3%81%9d%e3%81%86%e3%81%99%e3%82%8c%e3%81%b0"><span>すればよい、そうすれば</span></a><a href="https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%81%ab"><span>試験に</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e6%a0%bc%e3%81%99%e3%82%8b%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>合格するだろう。</span></a>
+    segments:
+      - text: あなたは一所懸命勉強し
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればよい、そうすれば試験に合格するだろう。
+        grammar_highlight: false
+    reading: あなたはいっしょけんめいべんきょうしさえすればよい、そうすればしけんにごうかくするだろう。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: You have only to study hard, and you will pass the test.
+        html: |-
+          <span>You have only to study hard, and you will pass the test. </span>
+        segments:
+          - text: 'You have only to study hard, and you will pass the test. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3669
+    position: 16
+    japanese: あなたは私についてきさえすればよい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%8d"><span>私についてき</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%82%8c%e3%81%b0%e3%82%88%e3%81%84%e3%80%82"><span>すればよい。</span></a>
+    segments:
+      - text: あなたは私についてき
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: すればよい。
+        grammar_highlight: false
+    reading: あなたはわたしについてきさえすればよい。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: All you have to do is follow me.
+        html: |-
+          <span>All you have to do is follow me. </span>
+        segments:
+          - text: 'All you have to do is follow me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6126
+    position: 17
+    japanese: 彼は英語を勉強したことがなく、アルファベットさえ読めない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%82%92"><span>英語を</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8c%e3%81%aa%e3%81%8f%e3%80%81%e3%82%a2%e3%83%ab%e3%83%95%e3%82%a1%e3%83%99%e3%83%83%e3%83%88"><span>勉強したことがなく、アルファベット</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%81%e3%81%aa%e3%81%84%e3%80%82"><span>読めない。</span></a>
+    segments:
+      - text: 彼は英語を勉強したことがなく、アルファベット
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 読めない。
+        grammar_highlight: false
+    reading: かれはえいごをべんきょうしたことがなく、アルファベットさえよめない。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: He has never studied English, and he can't even read the alphabet.
+        html: |-
+          <span>He has never studied English, and he can't </span><strong>even </strong><span>read the alphabet. </span>
+        segments:
+          - text: 'He has never studied English, and he can''t '
+            grammar_highlight: false
+          - text: 'even '
+            grammar_highlight: true
+          - text: 'read the alphabet. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6127
+    position: 18
+    japanese: この数日、歯が痛くて、固いものはもちろん、豆腐さえ食べられなくて困った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%95%b0%e6%97%a5%e3%80%81"><span>数日、</span></a><a href="https://takoboto.jp/?q=%e6%ad%af%e3%81%8c"><span>歯が</span></a><a href="https://takoboto.jp/?q=%e7%97%9b%e3%81%8f%e3%81%a6%e3%80%81"><span>痛くて、</span></a><a href="https://takoboto.jp/?q=%e5%9b%ba%e3%81%84%e3%82%82%e3%81%ae%e3%81%af%e3%82%82%e3%81%a1%e3%82%8d%e3%82%93%e3%80%81"><span>固いものはもちろん、</span></a><a href="https://takoboto.jp/?q=%e8%b1%86%e8%85%90"><span>豆腐</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%89%e3%82%8c%e3%81%aa%e3%81%8f%e3%81%a6"><span>食べられなくて</span></a><a href="https://takoboto.jp/?q=%e5%9b%b0%e3%81%a3%e3%81%9f%e3%80%82"><span>困った。</span></a>
+    segments:
+      - text: この数日、歯が痛くて、固いものはもちろん、豆腐
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 食べられなくて困った。
+        grammar_highlight: false
+    reading: このすうにち、はがいたくて、かたいものはもちろん、とうふさえたべられなくてこまった。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: I've had a toothache for the past few days, and I can't even eat tofu, let alone tough food.
+        html: |-
+          <span>I've had a toothache for the past few days, and I can't </span><strong>even </strong><span>eat tofu, let alone tough food. </span>
+        segments:
+          - text: 'I''ve had a toothache for the past few days, and I can''t '
+            grammar_highlight: false
+          - text: 'even '
+            grammar_highlight: true
+          - text: 'eat tofu, let alone tough food. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6128
+    position: 19
+    japanese: 食べ物がなくなれば、人間はネズミさえ食べる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9"><span>食べ</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%81%8c%e3%81%aa%e3%81%8f%e3%81%aa%e3%82%8c%e3%81%b0%e3%80%81"><span>物がなくなれば、</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e3%81%af%e3%83%8d%e3%82%ba%e3%83%9f"><span>人間はネズミ</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%82%8b%e3%80%82"><span>食べる。</span></a>
+    segments:
+      - text: 食べ物がなくなれば、人間はネズミ
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 食べる。
+        grammar_highlight: false
+    reading: たべものがなくなれば、にんげんはネズミさえたべる。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: If food were to run out, people would even eat rats.
+        html: |-
+          <span>If food were to run out, people would </span><strong>even </strong><span>eat rats. </span>
+        segments:
+          - text: 'If food were to run out, people would '
+            grammar_highlight: false
+          - text: 'even '
+            grammar_highlight: true
+          - text: 'eat rats. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6180
+    position: 20
+    japanese: 彼女は酒が好きで、料理に使う安い酒さえ飲んでしまう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e9%85%92%e3%81%8c"><span>酒が</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a7%e3%80%81"><span>好きで、</span></a><a href="https://takoboto.jp/?q=%e6%96%99%e7%90%86%e3%81%ab"><span>料理に</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%86"><span>使う</span></a><a href="https://takoboto.jp/?q=%e5%ae%89%e3%81%84"><span>安い</span></a><a href="https://takoboto.jp/?q=%e9%85%92"><span>酒</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%93%e3%81%a7%e3%81%97%e3%81%be%e3%81%86%e3%80%82"><span>飲んでしまう。</span></a>
+    segments:
+      - text: 彼女は酒が好きで、料理に使う安い酒
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 飲んでしまう。
+        grammar_highlight: false
+    reading: かのじょはさけがすきで、りょうりにつかうやすいさけさえのんでしまう。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: She really loves liquor (sake), and she'll even drink cheap liquor (sake) used for cooking.
+        html: |-
+          <span>She really loves liquor (sake), and she'll </span><strong>even </strong><span>drink cheap liquor (sake) used for cooking. </span>
+        segments:
+          - text: 'She really loves liquor (sake), and she''ll '
+            grammar_highlight: false
+          - text: 'even '
+            grammar_highlight: true
+          - text: 'drink cheap liquor (sake) used for cooking. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8401
+    position: 21
+    japanese: 今でさえ彼女を信じられない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e3%81%a7"><span>今で</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%82%92"><span>彼女を</span></a><a href="https://takoboto.jp/?q=%e4%bf%a1%e3%81%98%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82"><span>信じられない。</span></a>
+    segments:
+      - text: 今で
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 彼女を信じられない。
+        grammar_highlight: false
+    reading: いまでさえかのじょをしんじられない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Even now I can`t believe her.
+        html: |-
+          <span>Even now I can`t believe her. </span>
+        segments:
+          - text: 'Even now I can`t believe her. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8402
+    position: 22
+    japanese: 彼女は食費さえ惜しんだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e8%b2%bb"><span>食費</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e6%83%9c%e3%81%97%e3%82%93%e3%81%a0%e3%80%82"><span>惜しんだ。</span></a>
+    segments:
+      - text: 彼女は食費
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 惜しんだ。
+        grammar_highlight: false
+    reading: かのじょはしょくひさえおしんだ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: She even begrudged the money for food.
+        html: |-
+          <span>She even begrudged the money for food. </span>
+        segments:
+          - text: 'She even begrudged the money for food. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8403
+    position: 23
+    japanese: 子供ばかりでなく大人さえも悲鳴をあげた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a7%e3%81%aa%e3%81%8f"><span>子供ばかりでなく</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e4%ba%ba"><span>大人</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%82%82"><span>も</span></a><a href="https://takoboto.jp/?q=%e6%82%b2%e9%b3%b4%e3%82%92%e3%81%82%e3%81%92%e3%81%9f%e3%80%82"><span>悲鳴をあげた。</span></a>
+    segments:
+      - text: 子供ばかりでなく大人
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: も悲鳴をあげた。
+        grammar_highlight: false
+    reading: こどもばかりでなくおとなさえもひめいをあげた。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: In addiction to the children, even the adults screamed.
+        html: |-
+          <span>In addiction to the children, even the adults screamed. </span>
+        segments:
+          - text: 'In addiction to the children, even the adults screamed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8404
+    position: 24
+    japanese: 知ってさえいたならなあ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%9f%a5%e3%81%a3%e3%81%a6"><span>知って</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%9f%e3%81%aa%e3%82%89%e3%81%aa%e3%81%82%e3%80%82"><span>いたならなあ。</span></a>
+    segments:
+      - text: 知って
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: いたならなあ。
+        grammar_highlight: false
+    reading: しってさえいたならなあ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: If I had only known!
+        html: |-
+          <span>If I had only known! </span>
+        segments:
+          - text: 'If I had only known! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3183
+    position: 25
+    japanese: その手紙を（読んだことはともかくとして、）見たかさえ分からない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%82%92"><span>手紙を</span></a><a href="https://takoboto.jp/?q=%ef%bc%88%e8%aa%ad%e3%82%93%e3%81%a0%e3%81%93%e3%81%a8%e3%81%af%e3%81%a8%e3%82%82%e3%81%8b%e3%81%8f%e3%81%a8%e3%81%97%e3%81%a6%e3%80%81"><span>（読んだことはともかくとして、</span></a><a href="https://takoboto.jp/?q=%ef%bc%89"><span>）</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%9f%e3%81%8b"><span>見たか</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84"><span>分からない</span></a>
+    segments:
+      - text: その手紙を（読んだことはともかくとして、）見たか
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: 分からない
+        grammar_highlight: false
+    reading: そのてがみを（よんだことはともかくとして、）みたかさえわからない
+    credits_raw: dc, Miki
+    translations:
+      - language: en
+        text: I don't know if she even -saw- the letter, let alone read it
+        html: |-
+          <span>I don't know if she </span><strong>even </strong><span>-saw- the letter, </span><strong>let alone </strong><span>read it </span>
+        segments:
+          - text: 'I don''t know if she '
+            grammar_highlight: false
+          - text: 'even '
+            grammar_highlight: true
+          - text: '-saw- the letter, '
+            grammar_highlight: false
+          - text: 'let alone '
+            grammar_highlight: true
+          - text: 'read it '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3184
+    position: 26
+    japanese: 見えさえしない、絶対読めない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%88"><span>見え</span></a><a href="https://takoboto.jp/?q=%e3%81%95%e3%81%88"><strong>さえ</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%aa%e3%81%84%e3%80%81"><span>しない、</span></a><a href="https://takoboto.jp/?q=%e7%b5%b6%e5%af%be%e8%aa%ad%e3%82%81%e3%81%aa%e3%81%84%e3%80%82"><span>絶対読めない。</span></a>
+    segments:
+      - text: 見え
+        grammar_highlight: false
+      - text: さえ
+        grammar_highlight: true
+      - text: しない、絶対読めない。
+        grammar_highlight: false
+    reading: みえさえしない、ぜったいよめない。
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: I can't even see it, let alone read it
+        html: |-
+          <span>I can't </span><strong>even </strong><span>see it, </span><strong>let alone </strong><span>read it </span>
+        segments:
+          - text: 'I can''t '
+            grammar_highlight: false
+          - text: 'even '
+            grammar_highlight: true
+          - text: 'see it, '
+            grammar_highlight: false
+          - text: 'let alone '
+            grammar_highlight: true
+          - text: 'read it '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: "Verb-masu stem\n　尋ねさえ　　＞ just ask\n　待ってさえ　＞ just wait\n\nV-te\n　使ってさえ = just use\n\nNoun\n　あなたさえよければ = if its OK with you\n　\nirregular:\n　する　＞　しさえ = if you just do..\n　　　　　　勉強しさえ　= only study\n　くる　＞　来さえ　（きさえ）＞　just come\n　　　　　　ついてきさえ　＞ just follow \n\noften used with ーば \n　意見を述べさえすればよい。\n　If you just tell us your opinion it would be great.\n\nnegative\n　見えます　＞　見えさえしない\n can NOT even see"
+    html: |-
+      Verb-masu stem<br/>　尋ねさえ　　＞ just ask<br/>　待ってさえ　＞ just wait<br/><br/>V-te<br/>　使ってさえ = just use<br/><br/>Noun<br/>　あなたさえよければ = if its OK with you<br/>　<br/>irregular:<br/>　する　＞　しさえ = if you just do..<br/>　　　　　　勉強しさえ　= only study<br/>　くる　＞　来さえ　（きさえ）＞　just come<br/>　　　　　　ついてきさえ　＞ just follow <br/><br/>often used with ーば <br/>　意見を述べさえすればよい。<br/>　If you just tell us your opinion it would be great.<br/><br/>negative<br/>　見えます　＞　見えさえしない<br/> can NOT even see
+    credits_raw: dc
+    content_sha256: a0425615362b2c21229f4f15809266a28ac864bc7888a6579d6087b8c7832374
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      note this usage:
+
+      ○　見ることさえしない
+      　　cannot even see
+
+      ○　見さえしない
+      　　did not even look
+
+      ×　見るさえない　
+       incorrect
+    html: |-
+      note this usage:<br/><br/>○　見ることさえしない<br/>　　cannot even see<br/><br/>○　見さえしない<br/>　　did not even look<br/><br/>×　見るさえない　<br/> incorrect
+    credits_raw: dc
+    content_sha256: 4470e60b049e45b724122cbfa5b83ff2af744aa8c5ecd309f986d3a0ba8ed20b
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      [sae] and [sura] are slightly formal. an informal way of saying "even" is with [mo]
+      見ることもできない - cannot even see
+    html: |-
+      [sae] and [sura] are slightly formal. an informal way of saying "even" is with [mo]<br/>見ることもできない - cannot even see
+    credits_raw: dc
+    content_sha256: 860227737594f45007ce4f72f001be2eebb46ce7d34c13f4b130a88dbecd0dee
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Is there a way to use this with verbs?
+      　見えないさえ、絶対読めない
+       I can't even see it, of course I can't read it.
+    html: |-
+      Is there a way to use this with verbs?<br/>　見えないさえ、絶対読めない<br/> I can't even see it, of course I can't read it.
+    credits_raw: dc
+    content_sha256: c9f999438a0b5def71285e4fa15000b0290028d50d26b7499226a833465fb229
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      見えさえ_しない、絶対読めない。;) 
+      This would be more natural Japanese.
+      定規を使ってさえ、まっすぐに線が引けない。
+      Even useing a ruler, he cannot draw a straight line.
+    html: |-
+      見えさえ_しない、絶対読めない。;) <br/>This would be more natural Japanese.<br/>定規を使ってさえ、まっすぐに線が引けない。<br/>Even useing a ruler, he cannot draw a straight line.
+    credits_raw: Miki
+    content_sha256: b685dc08559a34cc2e233fc29e10921c91cd812ad380bdfd6fc934439fa18dad
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      #115 sounds like a baby talk. 「満腹で」or 「食べ過ぎて」would be more appropriate. #360 can be improved by saying 「飢餓の極限では」(At the extreme hunger).
+    html: |-
+      #115 sounds like a baby talk. 「満腹で」or 「食べ過ぎて」would be more appropriate. #360 can be improved by saying 「飢餓の極限では」(At the extreme hunger).
+    credits_raw: bamboo4
+    content_sha256: 44f3ce3d88a022182697652c8b9ea626fbce41bedb6b157256297a4ef931ea47
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: ex#115 in girls talk it is used like もうお腹がいっぱい過ぎて、デザートさえ食べられないよ。
+    html: ex#115 in girls talk it is used like もうお腹がいっぱい過ぎて、デザートさえ食べられないよ。
+    credits_raw: your name
+    content_sha256: 6bd961837c5746cd7955d92a4d5559e72424480181fb4e5f9e39f705cd3fb93f
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      #3184 is a bad Japanese, and it also does not correspond with the English version. 見さえしない means "does not even look at it" from which 絶対読めない does not follow, since it means "in no event can it be read."
+    html: |-
+      #3184 is a bad Japanese, and it also does not correspond with the English version. 見さえしない means "does not even look at it" from which 絶対読めない does not follow, since it means "in no event can it be read."
+    credits_raw: bamboo4
+    content_sha256: 714747ebaae35d6439e436ef23c5382548f353644b42ce3b92dafbba10167afb
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: 'Delete #3184.'
+    html: 'Delete #3184.'
+    credits_raw: bamboo4
+    content_sha256: d914d77a9487c507d25ada9e67054c522a406200c803d7b0a1e0b6c8d80da324
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      I changed #3184 to be along miki's first comment. Is this correct now? I think a negative example is needed on this page.
+    html: |-
+      I changed #3184 to be along miki's first comment. Is this correct now? I think a negative example is needed on this page.
+    credits_raw: dc
+    content_sha256: 6134628ea8223ebcc01ef01011ba9205fddf81772c3ec9bc473933d00c24ff71
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: 'dc, you really changed #3184? It''s still 変 x2.'
+    html: 'dc, you really changed #3184? It''s still 変 x2.'
+    credits_raw: Miki
+    content_sha256: d5703945271eae1709a6c3cf7a764d34001fb814a2c8f6571b22b5fe01a6940d
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: '#3184 is a bad example. You can change it to read 見ることさえできないのに読める筈がない.'
+    html: '#3184 is a bad example. You can change it to read 見ることさえできないのに読める筈がない.'
+    credits_raw: bamboo4
+    content_sha256: 062b34aa10baf78b8412613daeb70e9ac2a4c936f71443b951246587fdf357e5
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: 'i changed #3184 again, and added bamboos as an alt.'
+    html: 'i changed #3184 again, and added bamboos as an alt.'
+    credits_raw: dc
+    content_sha256: 3cb71cd6f4cc8654156e741003e02d9d4dd8ad291d4fd603c1b91ada00928731
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: but the alt didnt seem to get saved. hmm.
+    html: but the alt didnt seem to get saved. hmm.
+    credits_raw: dc
+    content_sha256: 5237b4d2c99c25287a80a845935a1d7813c8e93093c2f4e356d341ae9d678fe9
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: When さえ is connected to a noun, the particles "が" and "を" are omitted.
+    html: When さえ is connected to a noun, the particles "が" and "を" are omitted.
+    credits_raw: angelitosh2004
+    content_sha256: d0f54849a70a69907d64638c8b0821700b1ce1cf98ebf4ba110d0d30e1df228e
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: |-
+      The word さえ defines the limits of something, and is used to emphasize the statement made following it. It may imply a feeling of surprise or blame.
+    html: |-
+      The word さえ defines the limits of something, and is used to emphasize the statement made following it. It may imply a feeling of surprise or blame.
+    credits_raw: angelitosh2004
+    content_sha256: 353ab0df047af234f8a60824c8aa2a61974c7bdc805c712d04de17768b98092b
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: angeli - good comments - but could you give examples please?
+    html: angeli - good comments - but could you give examples please?
+    credits_raw: dc
+    content_sha256: b2dfa9b66b2acd82cf68cd2bc725eeb761759729e630ffc2efbb956cac297493
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: parachi's comment is all garble to me. Come up with an example to show what you mean.
+    html: parachi's comment is all garble to me. Come up with an example to show what you mean.
+    credits_raw: bamboo4
+    content_sha256: 06baec390c2114b6895771ac4060f727e821d45acfc488b5bf966cf62050cbec
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    source_id: null
+    text: |-
+      sae is an emphatic partical which express the idea of EVEN or ONLY, in conditional clauses.
+      this word can be used as a noun following partical or following a te-form. in the combination with ba form (conditional), it is used as JUST or IF
+    html: |-
+      sae is an emphatic partical which express the idea of EVEN or ONLY, in conditional clauses.<br/>this word can be used as a noun following partical or following a te-form. in the combination with ba form (conditional), it is used as JUST or IF
+    credits_raw: prachi
+    content_sha256: 7444c56c3d121d9e788139a04766635e1b054cbd18af9d4988216d778822a8f8
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    source_id: null
+    text: |-
+      About the translation of Example 3644..The translation i suggest is that..The only thing you have to do is to press this button..I think..If we understand by this way..We are able to emphasize the wanna talk to the opposite people..I am so sorry if there was something wrong.
+    html: |-
+      About the translation of Example 3644..The translation i suggest is that..The only thing you have to do is to press this button..I think..If we understand by this way..We are able to emphasize the wanna talk to the opposite people..I am so sorry if there was something wrong.
+    credits_raw: gahoangdai
+    content_sha256: e0031d59967ba5612475896fb0934be006f8fd052f5c824a6729e87cfbb4b888
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1507
+    label: 〜（で）すら
+    source_url: https://takoboto.jp/bunpo/1507
+  - target_id: 376
+    label: 〜さえ〜ば
+    source_url: https://takoboto.jp/bunpo/376
+  - target_id: 1247
+    label: 〜だに
+    source_url: https://takoboto.jp/bunpo/1247
+  - target_id: 502
+    label: からして
+    source_url: https://takoboto.jp/bunpo/502
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:52+00:00'
+response_sha256: 1ae483f4bf0b7b5af418e45d88591aabbc8069f70597b8d10087690aedf17e05
+warnings: []

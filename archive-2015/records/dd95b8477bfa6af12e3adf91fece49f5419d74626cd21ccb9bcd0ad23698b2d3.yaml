@@ -1,0 +1,150 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1514
+label: taritomo
+title_raw: たりとも [たりとも] (taritomo)
+title: たりとも
+reading: たりとも
+romanized_label: taritomo
+category: grammar
+jlpt_level_original: '1'
+meaning: Even only / Even merely / Even just
+meaning_example: Don't waste even just one cent!
+credits_raw: blabby
+source_url: http://jgram.org/pages/viewOne.php?tagE=taritomo
+archive_url: https://web.archive.org/web/20150224225811id_/http://jgram.org/pages/viewOne.php?tagE=taritomo
+archive_timestamp: '20150224225811'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: VNYTYEEVVBMV54232SBKY5MZOAZC4C6C
+response_sha256: 1e278c5c027d8de3bff65e4306bbbe09118735b4af7d09839a32fbf7b2cc832e
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Small amount + たりとも。\n\r\nOften the small amount starts with a 1. １円, １分, １セント, etc."
+    html: "Small amount + たりとも。<br/>\r\nOften the small amount starts with a 1. １円, １分, １セント, etc."
+    credits_raw: blabby
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "〜たりとも．．．ない　　：　（1円／一日／．．．）\n\r\n　　　　　　　　　　　　　　であっても〜ない\n\n\n\r\noften with negative potential form, できない、許されない"
+    html: "〜たりとも．．．ない　　：　（1円／一日／．．．）<br/>\r\n　　　　　　　　　　　　　　であっても〜ない<br/>\n<br/>\r\noften with negative potential form, できない、許されない"
+    credits_raw: 誠
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 5442
+    position: 0
+    japanese: ご飯の一粒たりとも無駄にするな！
+    body_text: "ご飯の一粒たりとも無駄にするな！ \n\n\t\tDon't you dare waste \n\t\teven one \n\t\tgrain of rice!"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJご飯の一粒たりとも無駄にするな！\">\n\t\t\t\tご飯の一粒<strong>たりとも</strong>無駄にするな！<strong></strong></a> <br/>\n\t\tDon't you dare waste \n\t\t<strong>even one </strong>\n\t\tgrain of rice!"
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5443
+    position: 1
+    japanese: こんなテレビゲームをやる時、一瞬たりとも気を抜くことが出来ない。
+    body_text: "こんなテレビゲームをやる時、一瞬たりとも気を抜くことが出来ない。 \n\n\t\tWith this type of video game, you can't afford to lose your concentration for even just a second."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこんなテレビゲームをやる時、一瞬たりとも気を抜くことが出来ない。\">\n\t\t\t\tこんなテレビゲームをやる時、一瞬<strong>たりとも</strong>気を抜くことが出来ない。<strong></strong></a> <br/>\n\t\tWith this type of video game, you can't afford to lose your concentration for even just a second. \n\t\t<strong> </strong>"
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5444
+    position: 2
+    japanese: １センチたりとも進まない。
+    body_text: "１センチたりとも進まない。 \n\n\t\tNot progress even a centimeter."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ１センチたりとも進まない。\">\n\t\t\t\t１センチ<strong>たりとも</strong>進まない。<strong></strong></a> <br/>\n\t\tNot progress even a centimeter. \n\t\t<strong> </strong>"
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7062
+    position: 3
+    japanese: 一分たりとも無駄に出来ないぞ。
+    body_text: "一分たりとも無駄に出来ないぞ。 \n\n\t\t(We) don't have a minute to waste!"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ一分たりとも無駄に出来ないぞ。\">\n\t\t\t\t一分<strong>たりとも</strong>無駄に出来ないぞ。<strong></strong></a> <br/>\n\t\t(We) don't have a minute to waste! \n\t\t<strong> </strong>"
+    credits_raw: Lorenz
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7798
+    position: 4
+    japanese: 試合の最中は、一瞬たりとも油断はできない。
+    body_text: "試合の最中は、一瞬たりとも油断はできない。 \n\n\t\tWe can't afford even a moment of carelessness during the game."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ試合の最中は、一瞬たりとも油断はできない。\">\n\t\t\t\t試合の最中は、一瞬<strong>たりとも</strong>油断はできない。<strong></strong></a> <br/>\n\t\tWe can't afford even a moment of carelessness during the game. \n\t\t<strong> </strong>"
+    credits_raw: inakaluke
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7799
+    position: 5
+    japanese: 何人たりともここに入ることは許されない。
+    body_text: "何人たりともここに入ることは許されない。 \n\n\t\tNot one person can be allowed to enter."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ何人たりともここに入ることは許されない。\">\n\t\t\t\t何人<strong>たりとも</strong>ここに入ることは許されない。<strong></strong></a> <br/>\n\t\tNot one person can be allowed to enter. \n\t\t<strong> </strong>"
+    credits_raw: inakaluke
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: "#\x01 is awkward. You just use も in that case and say:\n\n\n\r\n1センチも進まない or 1センチも進むことができない.\n\r\nたりとも in such cases is used to prevent or deter the progress. E.g., 1センチたりとも進ませない."
+    html: "<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=taritomo#\x01\">#\x01</a></b> is awkward. You just use も in that case and say:<br/>\n<br/>\r\n1センチも進まない or 1センチも進むことができない.<br/>\r\nたりとも in such cases is used to prevent or deter the progress. E.g., 1センチたりとも進ませない.<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: 誠
+    text: "agree with bamboo on #\x01"
+    html: "agree with bamboo on <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=taritomo#\x01\">#\x01</a></b>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Paul
+    text: Besides which "Not progress" is bad English.
+    html: Besides which "Not progress" is bad English.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: サリル
+    text: Agree with bamboo
+    html: Agree with bamboo
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "たりとも [たりとも] (taritomo)\n    Meaning: Even only / Even merely / Even just \n    Example: Don't waste even just one cent!\n    JLPT Level: 1\n    Category: grammar\n    Author: blabby"
+    html: |-
+      <span>たりとも [たりとも] (taritomo)</span><br/>    <span><b>Meaning</b>: Even only / Even merely / Even just </span><br/>    <b>Example</b>: <i>Don't waste even just one cent!</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>blabby</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225811'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6825254
+  length: 5870
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: daa75ecb782acd7326bfbd043f98ac77a92b7039898ed67563fddda79369aa95

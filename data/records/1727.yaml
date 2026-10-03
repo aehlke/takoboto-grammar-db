@@ -1,0 +1,181 @@
+schema_version: 2
+id: 1727
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1727/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜わけだ
+romanized_label: wakeda
+alternate_forms: []
+jlpt_level: 2
+credits_raw: PurpleMoose
+meaning: of course, expected result
+meaning_example: Of course it's cold. ; As you would expect...
+meaning_notes:
+  - language: ja
+    text: 〜（の）は当り前だ　 〜（の）は当然の結果だ
+    html: 〜（の）は当り前だ　 〜（の）は当然の結果だ
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1727
+    body_text: "of course, expected result \n Of course it's cold. ; As you would expect... \n 〜（の）は当り前だ　 〜（の）は当然の結果だ"
+    body_html: |-
+      <span>of course, expected result</span> <br/> <span>Of course it's cold. ; As you would expect...</span> <br/> <span>〜（の）は当り前だ　 〜（の）は当然の結果だ</span>
+    credits_raw: PurpleMoose
+  - kind: formation
+    source_dom_id: editable_Formation_1727
+    body_text: Verb (casual)+わけだNoun/Sentence+という+わけだNoun+の+わけだな-adjective+な+わけだい-adjective+わけだ
+    body_html: |-
+      <div><div><div>Verb (casual)</div></div><div><div>+</div><div>わけだ</div></div></div><div><div><div>Noun/Sentence</div></div><div><div>+</div><div>という</div></div><div><div>+</div><div>わけだ</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>わけだ</div></div></div><div><div><div>な-adjective</div></div><div><div>+</div><div>な</div></div><div><div>+</div><div>わけだ</div></div></div><div><div><div>い-adjective</div></div><div><div>+</div><div>わけだ</div></div></div>
+    credits_raw: null
+formations:
+  - Verb (casual) + わけだ
+  - Noun/Sentence + という + わけだ
+  - Noun + の + わけだ
+  - な-adjective + な + わけだ
+  - い-adjective + わけだ
+examples:
+  - source_id: 7709
+    position: 0
+    japanese: また、テロがあったそうだ。空港の手荷物検査が厳重なわけだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%9f%e3%80%81%e3%83%86%e3%83%ad%e3%81%8c%e3%81%82%e3%81%a3%e3%81%9f%e3%81%9d%e3%81%86%e3%81%a0%e3%80%82"><span>また、テロがあったそうだ。</span></a><a href="https://takoboto.jp/?q=%e7%a9%ba%e6%b8%af%e3%81%ae"><span>空港の</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e8%8d%b7%e7%89%a9%e6%a4%9c%e6%9f%bb%e3%81%8c"><span>手荷物検査が</span></a><a href="https://takoboto.jp/?q=%e5%8e%b3%e9%87%8d%e3%81%aa"><span>厳重な</span></a><a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%91%e3%81%a0"><strong>わけだ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: また、テロがあったそうだ。空港の手荷物検査が厳重な
+        grammar_highlight: false
+      - text: わけだ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: また、テロがあったそうだ。くうこうのてにもつけんさがげんじゅうなわけだ。
+    credits_raw: PurpleMoose
+    translations:
+      - language: en
+        text: |-
+          Looks like there was another case of terrorism. As you'd expect, the inspection of carry-on luggage at the airport is really strict.
+        html: |-
+          <span>Looks like there was another case of terrorism. As you'd expect, the inspection of carry-on luggage at the airport is really strict. </span>
+        segments:
+          - text: "Looks like there was another case of terrorism. As you'd expect, the inspection of carry-on luggage at the airport is really strict. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7710
+    position: 1
+    japanese: 「この部屋寒いですね。」「寒いわけです。窓が開いています。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%81%93%e3%81%ae"><span>「この</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e5%af%92%e3%81%84%e3%81%a7%e3%81%99%e3%81%ad%e3%80%82%e3%80%8d%e3%80%8c"><span>部屋寒いですね。」「</span></a><a href="https://takoboto.jp/?q=%e5%af%92%e3%81%84%e3%82%8f%e3%81%91%e3%81%a7%e3%81%99%e3%80%82"><span>寒いわけです。</span></a><a href="https://takoboto.jp/?q=%e7%aa%93%e3%81%8c"><span>窓が</span></a><a href="https://takoboto.jp/?q=%e9%96%8b%e3%81%84%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82%e3%80%8d"><span>開いています。」</span></a>
+    segments:
+      - text: 「この部屋寒いですね。」「寒いわけです。窓が開いています。」
+        grammar_highlight: false
+    reading: 「このへやさむいですね。」「さむいわけです。まどがひらいています。」
+    credits_raw: PurpleMoose
+    translations:
+      - language: en
+        text: '"This room''s pretty cold, huh." "Of course it''s cold. The window is open"'
+        html: |-
+          <span>"This room's pretty cold, huh." "Of course it's cold. The window is open" </span>
+        segments:
+          - text: '"This room''s pretty cold, huh." "Of course it''s cold. The window is open" '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7711
+    position: 2
+    japanese: 波が高いわけだ。台風が近づいているんだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%b3%a2%e3%81%8c"><span>波が</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84"><span>高い</span></a><a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%91%e3%81%a0"><strong>わけだ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a><a href="https://takoboto.jp/?q=%e5%8f%b0%e9%a2%a8%e3%81%8c"><span>台風が</span></a><a href="https://takoboto.jp/?q=%e8%bf%91%e3%81%a5%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%82%93%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>近づいているんだった。</span></a>
+    segments:
+      - text: 波が高い
+        grammar_highlight: false
+      - text: わけだ
+        grammar_highlight: true
+      - text: 。台風が近づいているんだった。
+        grammar_highlight: false
+    reading: なみがたかいわけだ。たいふうがちかづいているんだった。
+    credits_raw: PurpleMoose
+    translations:
+      - language: en
+        text: Of course the waves are high. I mean, there is a typhoon coming.
+        html: |-
+          <span>Of course the waves are high. I mean, there is a typhoon coming. </span>
+        segments:
+          - text: 'Of course the waves are high. I mean, there is a typhoon coming. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7712
+    position: 3
+    japanese: 子供が４人もいるから、私は毎日がんばって働いているわけです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%8c"><span>子供が</span></a><a href="https://takoboto.jp/?q=%ef%bc%94%e4%ba%ba%e3%82%82%e3%81%84%e3%82%8b%e3%81%8b%e3%82%89%e3%80%81"><span>４人もいるから、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e6%af%8e%e6%97%a5%e3%81%8c%e3%82%93%e3%81%b0%e3%81%a3%e3%81%a6"><span>毎日がんばって</span></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%82%8f%e3%81%91%e3%81%a7%e3%81%99%e3%80%82"><span>働いているわけです。</span></a>
+    segments:
+      - text: 子供が４人もいるから、私は毎日がんばって働いているわけです。
+        grammar_highlight: false
+    reading: こどもが４にんもいるから、わたしはまいにちがんばってはたらいているわけです。
+    credits_raw: PurpleMoose
+    translations:
+      - language: en
+        text: I've got four kids, so as you'd expect, I work really hard every day.
+        html: |-
+          <span>I've got four kids, so as you'd expect, I work really hard every day. </span>
+        segments:
+          - text: 'I''ve got four kids, so as you''d expect, I work really hard every day. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8547
+    position: 4
+    japanese: この道の辺りは渋滞であって、回り道わけだ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e9%81%93%e3%81%ae"><span>道の</span></a><a href="https://takoboto.jp/?q=%e8%be%ba%e3%82%8a%e3%81%af"><span>辺りは</span></a><a href="https://takoboto.jp/?q=%e6%b8%8b%e6%bb%9e%e3%81%a7%e3%81%82%e3%81%a3%e3%81%a6%e3%80%81"><span>渋滞であって、</span></a><a href="https://takoboto.jp/?q=%e5%9b%9e%e3%82%8a"><span>回り</span></a><a href="https://takoboto.jp/?q=%e9%81%93"><span>道</span></a><a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%91%e3%81%a0"><strong>わけだ</strong></a>
+    segments:
+      - text: この道の辺りは渋滞であって、回り道
+        grammar_highlight: false
+      - text: わけだ
+        grammar_highlight: true
+    reading: このみちのあたりはじゅうたいであって、まわりみちわけだ
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: Around of this road A congestion, detour of course
+        html: |-
+          <span>Around of this road A congestion, detour </span><strong>of course </strong>
+        segments:
+          - text: 'Around of this road A congestion, detour '
+            grammar_highlight: false
+          - text: 'of course '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      The speaker's conclusion obtained through deductive, logical judgement or calculation on the basis of what he has heard or read.
+
+      Formation
+
+      (i) {V / Adj} (i) inf わけ　だ
+      　　｛話す・話した｝わけ　だ　(I take it that s.o. talks / talked)
+      　　｛食べる・食べた｝　わけ　だ (I take it that s.o. eats / ate)
+      　　｛高い・高かった｝わけ　だ (I take it that s.o. is expensive / was expensive)
+
+      (ii) Adj (na) stem ｛な・だった｝わけ　だ
+      　　｛静かな・静かだった｝わけ　だ　(I take it that s.o. is / was quiet)
+
+      (iii) N　｛という・だった｝わけ　だ
+       ｛先生という・先生だった｝わけ だ (I take it that s.o. is / was a teacher)
+    html: |-
+      The speaker's conclusion obtained through deductive, logical judgement or calculation on the basis of what he has heard or read.<br/><br/>Formation<br/><br/>(i) {V / Adj} (i) inf わけ　だ<br/>　　｛話す・話した｝わけ　だ　(I take it that s.o. talks / talked)<br/>　　｛食べる・食べた｝　わけ　だ (I take it that s.o. eats / ate)<br/>　　｛高い・高かった｝わけ　だ (I take it that s.o. is expensive / was expensive)<br/><br/>(ii) Adj (na) stem ｛な・だった｝わけ　だ<br/>　　｛静かな・静かだった｝わけ　だ　(I take it that s.o. is / was quiet)<br/><br/>(iii) N　｛という・だった｝わけ　だ<br/> ｛先生という・先生だった｝わけ だ (I take it that s.o. is / was a teacher)
+    credits_raw: lenzras
+    content_sha256: 6a6329da91a467ec409899af71af9913a057e55172d8095e33e0febb51a7ed31
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:39:32+00:00'
+response_sha256: d948a76799dad95eacc354936d4494eed4613f998738445ce25cda1db6171085
+warnings: []

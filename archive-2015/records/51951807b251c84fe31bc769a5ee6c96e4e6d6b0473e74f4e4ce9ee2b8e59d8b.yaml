@@ -1,0 +1,55 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 964
+label: unrelated-group
+title_raw: を問わず・にかかわらず・もかまわず [を問わず・にかかわらず・もかまわず] (unrelated-group)
+title: を問わず・にかかわらず・もかまわず
+reading: を問わず・にかかわらず・もかまわず
+romanized_label: unrelated-group
+category: lesson
+jlpt_level_original: '2'
+meaning: ignoring,  leaving aside
+meaning_example: leaving aside his reputation
+credits_raw: dc
+source_url: http://jgram.org/pages/viewOne.php?tagE=unrelated-group
+archive_url: https://web.archive.org/web/20150224225606id_/http://jgram.org/pages/viewOne.php?tagE=unrelated-group
+archive_timestamp: '20150224225606'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: C7TNUNAWDY2Q725KIFCYCMG4FLBP3V2Q
+response_sha256: 46b8ffad15fcd0b253de4a1fa5a7ed5d9cf6dabee61bfee48f515a602e3a9e6b
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "\x01 = regardless\n\r\nregardless of the time, its always busy\n\n\n\r\nni\x01 = regardless\n\r\nregardless of the time, its always busy\n\n\n\n\x01 = without mind to\n\n\n\n\n\n\x01 = A is another thing, but B is...\n\r\nthe price is good, but the flavor is another thing\n\n\n\n\x01\n\n\n\r\n----- 1級 ----- \n\n\n\n\x01\n\n\n\n\x01ni\n\n\n\n\x01\n\n\n\n\x01"
+    html: "<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> = regardless<br/>\r\nregardless of the time, its always busy<br/>\n<br/>\r\nni<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> = regardless<br/>\r\nregardless of the time, its always busy<br/>\n<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> = without mind to<br/>\n<br/>\n<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> = A is another thing, but B is...<br/>\r\nthe price is good, but the flavor is another thing<br/>\n<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b><br/>\n<br/>\r\n----- 1級 ----- <br/>\n<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b><br/>\n<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>ni<br/>\n<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b><br/>\n<br/>\n<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b><br/>\n<br/>\n<br/>"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "を問わず・にかかわらず・もかまわず [を問わず・にかかわらず・もかまわず] (unrelated-group)\n    Meaning: ignoring,  leaving aside \n    Example: leaving aside his reputation\n    JLPT Level: 2\n    Category: lesson\n    Author: dc"
+    html: |-
+      <span>を問わず・にかかわらず・もかまわず [を問わず・にかかわらず・もかまわず] (unrelated-group)</span><br/>    <span><b>Meaning</b>: ignoring,  leaving aside </span><br/>    <b>Example</b>: <i>leaving aside his reputation</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225606'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3832427
+  length: 4960
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 62ef197ce540b46f0c5b823f87a59119d9681ce5b6a527d87c9f43d11d637799

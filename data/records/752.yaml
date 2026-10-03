@@ -1,0 +1,197 @@
+schema_version: 2
+id: 752
+source: takoboto
+source_url: https://takoboto.jp/bunpo/752/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜よ
+romanized_label: yo
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: '! (exclamation mark, add emphasis, denote new information being imparted)'
+meaning_example: The bus is coming!
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_752
+    body_text: |-
+      ! (exclamation mark, add emphasis, denote new information being imparted) 
+       The bus is coming!
+    body_html: |-
+      <span>! (exclamation mark, add emphasis, denote new information being imparted)</span> <br/> <span>The bus is coming!</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 669
+    position: 0
+    japanese: バスが来るよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%90%e3%82%b9%e3%81%8c"><span>バスが</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%82%8b"><span>来る</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%80%82"><strong>よ。</strong></a>
+    segments:
+      - text: バスが来る
+        grammar_highlight: false
+      - text: よ。
+        grammar_highlight: true
+    reading: バスがくるよ。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: The bus is coming !
+        html: |-
+          <span>The bus is coming </span><strong>! </strong>
+        segments:
+          - text: 'The bus is coming '
+            grammar_highlight: false
+          - text: '! '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 2939
+    position: 1
+    japanese: それは大変なことだよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af"><span>それは</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a4%89%e3%81%aa%e3%81%93%e3%81%a8%e3%81%a0"><span>大変なことだ</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%80%82"><strong>よ。</strong></a>
+    segments:
+      - text: それは大変なことだ
+        grammar_highlight: false
+      - text: よ。
+        grammar_highlight: true
+    reading: それはたいへんなことだよ。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: That's pretty serious, you realize that!
+        html: |-
+          <span>That's pretty serious, </span><strong>you realize that! </strong>
+        segments:
+          - text: 'That''s pretty serious, '
+            grammar_highlight: false
+          - text: 'you realize that! '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3125
+    position: 2
+    japanese: あなたが好きなんだよ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c"><span>あなたが</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%aa%e3%82%93%e3%81%a0"><span>好きなんだ</span></a><a href="https://takoboto.jp/?q=%e3%82%88"><strong>よ</strong></a>
+    segments:
+      - text: あなたが好きなんだ
+        grammar_highlight: false
+      - text: よ
+        grammar_highlight: true
+    reading: あなたがすきなんだよ
+    credits_raw: KotatsuSama
+    translations:
+      - language: en
+        text: I like you, you know!
+        html: |-
+          <span>I like you, </span><strong>you know! </strong>
+        segments:
+          - text: 'I like you, '
+            grammar_highlight: false
+          - text: 'you know! '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3126
+    position: 3
+    japanese: 好い加減にしなさいよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%84"><span>好い</span></a><a href="https://takoboto.jp/?q=%e5%8a%a0%e6%b8%9b%e3%81%ab%e3%81%97%e3%81%aa%e3%81%95%e3%81%84"><span>加減にしなさい</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%80%82"><strong>よ。</strong></a>
+    segments:
+      - text: 好い加減にしなさい
+        grammar_highlight: false
+      - text: よ。
+        grammar_highlight: true
+    reading: よいかげんにしなさいよ。
+    credits_raw: KotatsuSama
+    translations:
+      - language: en
+        text: Shape up !
+        html: |-
+          <span>Shape up </span><strong>! </strong>
+        segments:
+          - text: 'Shape up '
+            grammar_highlight: false
+          - text: '! '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8783
+    position: 4
+    japanese: いいよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%84"><span>いい</span></a><a href="https://takoboto.jp/?q=%e3%82%88"><strong>よ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: いい
+        grammar_highlight: false
+      - text: よ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: いいよ。
+    credits_raw: 蜜畠
+    translations:
+      - language: en
+        text: Sure!
+        html: |-
+          <span>Sure! </span>
+        segments:
+          - text: 'Sure! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8784
+    position: 5
+    japanese: もういいよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86%e3%81%84%e3%81%84"><span>もういい</span></a><a href="https://takoboto.jp/?q=%e3%82%88"><strong>よ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: もういい
+        grammar_highlight: false
+      - text: よ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: もういいよ。
+    credits_raw: 蜜畠
+    translations:
+      - language: en
+        text: Just stop it already!
+        html: |-
+          <span>Just stop it already! </span>
+        segments:
+          - text: 'Just stop it already! '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      よ [yo] is used at the end of the sentence (e.g. a sentence ending particle).
+
+      S = Sentence.
+    html: |-
+      よ [yo] is used at the end of the sentence (e.g. a sentence ending particle).<br/><br/>S = Sentence.
+    credits_raw: Amatuka
+    content_sha256: b5090981ee8ec52b59ac552e5cb52f67e05df8389490febca35b60f516e23d71
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Generally not to be used to 'out group' / 'superiors'.
+    html: Generally not to be used to 'out group' / 'superiors'.
+    credits_raw: Amatuka
+    content_sha256: a86f9b18277a4e2ca8ad726365d37e6bb9a94c4510a6ee92e7cd1bf395a26884
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:24+00:00'
+response_sha256: 6e8dc314d5f09144e6159427fee7eaae3fe0dced7c5a50c4fac684500f031910
+warnings: []

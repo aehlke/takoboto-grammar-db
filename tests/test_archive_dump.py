@@ -70,11 +70,11 @@ class DumpTests(unittest.TestCase):
 
     def test_backup_offline_resume_preserves_record_bytes(self):
         self.crawl()
-        before = next((self.root / 'records').glob('*.json')).read_bytes()
+        before = next((self.root / 'records').glob('*.yaml')).read_bytes()
         with DumpFetcher(self.root, offline=True) as fetcher, patch.object(fetcher.opener, 'open') as network:
             self.assertTrue(crawl_dump(fetcher, self.inventory)['complete'])
             network.assert_not_called()
-        self.assertEqual(before, next((self.root / 'records').glob('*.json')).read_bytes())
+        self.assertEqual(before, next((self.root / 'records').glob('*.yaml')).read_bytes())
 
     def test_offline_imported_index_reuses_verified_evidence(self):
         self.crawl()

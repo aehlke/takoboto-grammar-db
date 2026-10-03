@@ -1,0 +1,630 @@
+schema_version: 2
+id: 1238
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1238/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: がち
+romanized_label: gachi
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: tend to
+meaning_example: he tends to be late
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1238
+    body_text: |-
+      tend to 
+       he tends to be late
+    body_html: |-
+      <span>tend to</span> <br/> <span>he tends to be late</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1238
+    body_text: Noun+がちVerb ます-stem+がち
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>がち</div></div></div><div><div><div>Verb ます-stem</div></div><div><div>+</div><div>がち</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + がち
+  - Verb ます-stem + がち
+examples:
+  - source_id: 793
+    position: 0
+    japanese: 私のボスは、短気で怒りがち。　　　（怒りっぽい is conventional.）
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae%e3%83%9c%e3%82%b9%e3%81%af%e3%80%81%e7%9f%ad%e6%b0%97%e3%81%a7%e6%80%92%e3%82%8a"><span>私のボスは、短気で怒り</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%80%82%e3%80%80%e3%80%80%e3%80%80%ef%bc%88%e6%80%92%e3%82%8a%e3%81%a3%e3%81%bd%e3%81%84+is+conventional.%ef%bc%89"><span>。　　　（怒りっぽい is conventional.）</span></a>
+    segments:
+      - text: 私のボスは、短気で怒り
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: 。　　　（怒りっぽい is conventional.）
+        grammar_highlight: false
+    reading: わたしのボスは、たんきでいかりがち。（いかりっぽい
+    credits_raw: Amatuka, Miki
+    translations:
+      - language: en
+        text: My boss is short-tempered and tends to get  angry easily  .
+        html: |-
+          <span>My boss is short-tempered and </span><strong>tends to get </strong><span> angry </span><strong>easily </strong><span> . </span>
+        segments:
+          - text: 'My boss is short-tempered and '
+            grammar_highlight: false
+          - text: 'tends to get '
+            grammar_highlight: true
+          - text: ' angry '
+            grammar_highlight: false
+          - text: 'easily '
+            grammar_highlight: true
+          - text: ' . '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 812
+    position: 1
+    japanese: 担当者の好き嫌いによる誤解も場合によっては起こりがち。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%8b%85%e5%bd%93%e8%80%85%e3%81%ae%e5%a5%bd%e3%81%8d%e5%ab%8c%e3%81%84%e3%81%ab%e3%82%88%e3%82%8b%e8%aa%a4%e8%a7%a3%e3%82%82%e5%a0%b4%e5%90%88%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e3%81%af%e8%b5%b7%e3%81%93%e3%82%8a"><span>担当者の好き嫌いによる誤解も場合によっては起こり</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1%e3%80%82"><strong>がち。</strong></a>
+    segments:
+      - text: 担当者の好き嫌いによる誤解も場合によっては起こり
+        grammar_highlight: false
+      - text: がち。
+        grammar_highlight: true
+    reading: たんとうしゃのすききらいによるごかいもばあいによってはおこりがち。
+    credits_raw: Amatuka, Rai Cordero
+    translations:
+      - language: en
+        text: In some cases, misunderstanding tends to  occur due to the likes and dislikes of the person in charge.
+        html: |-
+          <span>In some cases, misunderstanding </span><strong>tends to </strong><span> occur due to the likes and dislikes of the person in charge. </span>
+        segments:
+          - text: 'In some cases, misunderstanding '
+            grammar_highlight: false
+          - text: 'tends to '
+            grammar_highlight: true
+          - text: ' occur due to the likes and dislikes of the person in charge. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3175
+    position: 2
+    japanese: 曇りがち
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9b%87%e3%82%8a"><span>曇り</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a>
+    segments:
+      - text: 曇り
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+    reading: くもりがち
+    credits_raw: dc
+    translations:
+      - language: en
+        text: mainly  cloudy
+        html: |-
+          <strong>mainly </strong><span> cloudy </span>
+        segments:
+          - text: 'mainly '
+            grammar_highlight: true
+          - text: ' cloudy '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3176
+    position: 3
+    japanese: 遠慮がち
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%81%a0%e6%85%ae"><span>遠慮</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a>
+    segments:
+      - text: 遠慮
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+    reading: えんりょがち
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Tends to be reserved/timid
+        html: |-
+          <span>Tends to be reserved/timid </span>
+        segments:
+          - text: 'Tends to be reserved/timid '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4502
+    position: 4
+    japanese: お金持ちは貧乏人を見下しがちである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e6%8c%81%e3%81%a1%e3%81%af"><span>金持ちは</span></a><a href="https://takoboto.jp/?q=%e8%b2%a7%e4%b9%8f%e4%ba%ba%e3%82%92"><span>貧乏人を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e4%b8%8b%e3%81%97"><span>見下し</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>である。</span></a>
+    segments:
+      - text: お金持ちは貧乏人を見下し
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: である。
+        grammar_highlight: false
+    reading: おかねもちはびんぼうにんをみくだしがちである。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The rich are apt to look down upon the poor.
+        html: |-
+          <span>The rich are apt to look down upon the poor. </span>
+        segments:
+          - text: 'The rich are apt to look down upon the poor. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4503
+    position: 5
+    japanese: 学生たちは同じ間違いをおかしがちだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ad%a6%e7%94%9f%e3%81%9f%e3%81%a1%e3%81%af%e5%90%8c%e3%81%98%e9%96%93%e9%81%95%e3%81%84%e3%82%92%e3%81%8a%e3%81%8b%e3%81%97"><span>学生たちは同じ間違いをおかし</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%80%82"><span>だ。</span></a>
+    segments:
+      - text: 学生たちは同じ間違いをおかし
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: だ。
+        grammar_highlight: false
+    reading: がくせいたちはおなじまちがいをおかしがちだ。
+    credits_raw: Miki, Rai Cordero
+    translations:
+      - language: en
+        text: The students are prone to make the same mistakes.
+        html: |-
+          <span>The students are prone to make the same mistakes. </span>
+        segments:
+          - text: 'The students are prone to make the same mistakes. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4504
+    position: 6
+    japanese: 運動が健康の鍵であることを私たちは、とかく忘れがちだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%81%8b%e5%8b%95%e3%81%8c"><span>運動が</span></a><a href="https://takoboto.jp/?q=%e5%81%a5%e5%ba%b7%e3%81%ae"><span>健康の</span></a><a href="https://takoboto.jp/?q=%e9%8d%b5%e3%81%a7%e3%81%82%e3%82%8b%e3%81%93%e3%81%a8%e3%82%92"><span>鍵であることを</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%9f%e3%81%a1%e3%81%af%e3%80%81%e3%81%a8%e3%81%8b%e3%81%8f"><span>私たちは、とかく</span></a><a href="https://takoboto.jp/?q=%e5%bf%98%e3%82%8c"><span>忘れ</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%80%82"><span>だ。</span></a>
+    segments:
+      - text: 運動が健康の鍵であることを私たちは、とかく忘れ
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: だ。
+        grammar_highlight: false
+    reading: うんどうがけんこうのかぎであることをわたしたちは、とかくわすれがちだ。
+    credits_raw: Miki, bamboo4
+    translations:
+      - language: en
+        text: We tend to forget that exercise is a key to good health.
+        html: |-
+          <span>We tend to forget that exercise is a key to good health. </span>
+        segments:
+          - text: 'We tend to forget that exercise is a key to good health. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4505
+    position: 7
+    japanese: 果物はすぐに腐りがちである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9e%9c%e7%89%a9%e3%81%af%e3%81%99%e3%81%90%e3%81%ab"><span>果物はすぐに</span></a><a href="https://takoboto.jp/?q=%e8%85%90%e3%82%8a"><span>腐り</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>である。</span></a>
+    segments:
+      - text: 果物はすぐに腐り
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: である。
+        grammar_highlight: false
+    reading: くだものはすぐにくさりがちである。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Fruits tend to decay soon.
+        html: |-
+          <span>Fruits tend to decay soon. </span>
+        segments:
+          - text: 'Fruits tend to decay soon. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4506
+    position: 8
+    japanese: 私たちはどんな番組が行われているかに関係なく、テレビを見がちである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%9f%e3%81%a1%e3%81%af%e3%81%a9%e3%82%93%e3%81%aa"><span>私たちはどんな</span></a><a href="https://takoboto.jp/?q=%e7%95%aa%e7%b5%84%e3%81%8c"><span>番組が</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8b%e3%81%ab"><span>行われているかに</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e4%bf%82%e3%81%aa%e3%81%8f%e3%80%81%e3%83%86%e3%83%ac%e3%83%93%e3%82%92"><span>関係なく、テレビを</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b"><span>見</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>である。</span></a>
+    segments:
+      - text: 私たちはどんな番組が行われているかに関係なく、テレビを見
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: である。
+        grammar_highlight: false
+    reading: わたしたちはどんなばんぐみがおこなわれているかにかんけいなく、テレビをみがちである。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: We are apt to watch television, irrespective of what program is on.
+        html: |-
+          <span>We are apt to watch television, irrespective of what program is on. </span>
+        segments:
+          - text: 'We are apt to watch television, irrespective of what program is on. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4507
+    position: 9
+    japanese: 寝不足だと注意が散漫になりがちです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%af%9d%e4%b8%8d%e8%b6%b3%e3%81%a0%e3%81%a8"><span>寝不足だと</span></a><a href="https://takoboto.jp/?q=%e6%b3%a8%e6%84%8f%e3%81%8c"><span>注意が</span></a><a href="https://takoboto.jp/?q=%e6%95%a3%e6%bc%ab%e3%81%ab%e3%81%aa%e3%82%8a"><span>散漫になり</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82"><span>です。</span></a>
+    segments:
+      - text: 寝不足だと注意が散漫になり
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: です。
+        grammar_highlight: false
+    reading: ねぶそくだとちゅういがさんまんになりがちです。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: When you lack sleep, you are apt to be careless.
+        html: |-
+          <span>When you lack sleep, you are apt to be careless. </span>
+        segments:
+          - text: 'When you lack sleep, you are apt to be careless. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6025
+    position: 10
+    japanese: 彼女は病気がちで青白い顔をしている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e7%97%85%e6%b0%97"><span>病気</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7"><span>で</span></a><a href="https://takoboto.jp/?q=%e9%9d%92%e7%99%bd%e3%81%84"><span>青白い</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>顔をしている。</span></a>
+    segments:
+      - text: 彼女は病気
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: で青白い顔をしている。
+        grammar_highlight: false
+    reading: かのじょはびょうきがちであおじろいかおをしている。
+    credits_raw: angelitosh2004
+    translations:
+      - language: en
+        text: She is in poor health so she looks pale.
+        html: |-
+          <span>She is in poor health so she looks pale. </span>
+        segments:
+          - text: 'She is in poor health so she looks pale. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6026
+    position: 11
+    japanese: 冬になってから曇りがちの毎日です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%86%ac%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%8b%e3%82%89"><span>冬になってから</span></a><a href="https://takoboto.jp/?q=%e6%9b%87%e3%82%8a"><span>曇り</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae"><span>の</span></a><a href="https://takoboto.jp/?q=%e6%af%8e%e6%97%a5%e3%81%a7%e3%81%99%e3%80%82"><span>毎日です。</span></a>
+    segments:
+      - text: 冬になってから曇り
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: の毎日です。
+        grammar_highlight: false
+    reading: ふゆになってからくもりがちのまいにちです。
+    credits_raw: angelitosh2004
+    translations:
+      - language: en
+        text: The skies are mostly cloudy everyday now that winter has come.
+        html: |-
+          <span>The skies are mostly cloudy everyday now that winter has come. </span>
+        segments:
+          - text: 'The skies are mostly cloudy everyday now that winter has come. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6027
+    position: 12
+    japanese: 彼は欠席が多いので勉強が遅れがちです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%ac%a0%e5%b8%ad%e3%81%8c"><span>欠席が</span></a><a href="https://takoboto.jp/?q=%e5%a4%9a%e3%81%84%e3%81%ae%e3%81%a7"><span>多いので</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%8c"><span>勉強が</span></a><a href="https://takoboto.jp/?q=%e9%81%85%e3%82%8c"><span>遅れ</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%99%e3%80%82"><span>です。</span></a>
+    segments:
+      - text: 彼は欠席が多いので勉強が遅れ
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: です。
+        grammar_highlight: false
+    reading: かれはけっせきがおおいのでべんきょうがおくれがちです。
+    credits_raw: angelitosh2004
+    translations:
+      - language: en
+        text: He is often absent from class so he is apt to be behind the others.
+        html: |-
+          <span>He is often absent from class so he is apt to be behind the others. </span>
+        segments:
+          - text: 'He is often absent from class so he is apt to be behind the others. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6625
+    position: 13
+    japanese: 私は子供の頃、病気がちだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%ae"><span>子供の</span></a><a href="https://takoboto.jp/?q=%e9%a0%83%e3%80%81"><span>頃、</span></a><a href="https://takoboto.jp/?q=%e7%97%85%e6%b0%97"><span>病気</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>だった。</span></a>
+    segments:
+      - text: 私は子供の頃、病気
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: だった。
+        grammar_highlight: false
+    reading: わたしはこどものころ、びょうきがちだった。
+    credits_raw: hana
+    translations:
+      - language: en
+        text: I tended to get sick when I was a child.
+        html: |-
+          <span>I tended to get sick when I was a child. </span>
+        segments:
+          - text: 'I tended to get sick when I was a child. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7043
+    position: 14
+    japanese: 彼は最近休みがちだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e8%bf%91%e4%bc%91%e3%81%bf"><span>最近休み</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%80%82"><span>だ。</span></a>
+    segments:
+      - text: 彼は最近休み
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: だ。
+        grammar_highlight: false
+    reading: かれはさいきんやすみがちだ。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: He's been taking leave from work lately.
+        html: |-
+          <span>He's been taking leave from work lately. </span>
+        segments:
+          - text: 'He''s been taking leave from work lately. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7044
+    position: 15
+    japanese: そのケーキはおいしそうなあ。。。残念ながら、私は太りがちだから。。。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%82%b1%e3%83%bc%e3%82%ad%e3%81%af%e3%81%8a%e3%81%84%e3%81%97%e3%81%9d%e3%81%86%e3%81%aa%e3%81%82%e3%80%82%e3%80%82%e3%80%82"><span>そのケーキはおいしそうなあ。。。</span></a><a href="https://takoboto.jp/?q=%e6%ae%8b%e5%bf%b5%e3%81%aa%e3%81%8c%e3%82%89%e3%80%81"><span>残念ながら、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%a4%aa%e3%82%8a"><span>太り</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%8b%e3%82%89%e3%80%82%e3%80%82%e3%80%82"><span>だから。。。</span></a>
+    segments:
+      - text: そのケーキはおいしそうなあ。。。残念ながら、私は太り
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: だから。。。
+        grammar_highlight: false
+    reading: そのケーキはおいしそうなあ。。。ざんねんながら、わたしはふとりがちだから。。。
+    credits_raw: agnestan
+    translations:
+      - language: en
+        text: That cake looks so yummy... It's a pity,　but I tend to put on weight easily, so....
+        html: |-
+          <span>That cake looks so yummy... It's a pity,　but I tend to put on weight easily, so.... </span>
+        segments:
+          - text: 'That cake looks so yummy... It''s a pity,　but I tend to put on weight easily, so.... '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7160
+    position: 16
+    japanese: 先日、病気がちのおばを見舞いに行った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%88%e6%97%a5%e3%80%81"><span>先日、</span></a><a href="https://takoboto.jp/?q=%e7%97%85%e6%b0%97"><span>病気</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%8a%e3%81%b0%e3%82%92"><span>のおばを</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e8%88%9e%e3%81%84%e3%81%ab"><span>見舞いに</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%80%82"><span>行った。</span></a>
+    segments:
+      - text: 先日、病気
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: のおばを見舞いに行った。
+        grammar_highlight: false
+    reading: せんじつ、びょうきがちのおばをみまいにいった。
+    credits_raw: sureshnihon
+    translations:
+      - language: en
+        text: Yesterday,i went to visit sickly aunt.
+        html: |-
+          <span>Yesterday,i went to visit sickly aunt. </span>
+        segments:
+          - text: 'Yesterday,i went to visit sickly aunt. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8162
+    position: 17
+    japanese: 彼女の小説は退屈になりがちだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%ae"><span>彼女の</span></a><a href="https://takoboto.jp/?q=%e5%b0%8f%e8%aa%ac%e3%81%af"><span>小説は</span></a><a href="https://takoboto.jp/?q=%e9%80%80%e5%b1%88%e3%81%ab%e3%81%aa%e3%82%8a"><span>退屈になり</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%80%82"><span>だ。</span></a>
+    segments:
+      - text: 彼女の小説は退屈になり
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: だ。
+        grammar_highlight: false
+    reading: かのじょのしょうせつはたいくつになりがちだ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Her novels tend to dullness (be dull).
+        html: |-
+          <span>Her novels tend to dullness (be dull). </span>
+        segments:
+          - text: 'Her novels tend to dullness (be dull). '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8163
+    position: 18
+    japanese: 彼は怠惰に走りがちだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%80%a0%e6%83%b0%e3%81%ab"><span>怠惰に</span></a><a href="https://takoboto.jp/?q=%e8%b5%b0%e3%82%8a"><span>走り</span></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%81%a1"><strong>がち</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%80%82"><span>だ。</span></a>
+    segments:
+      - text: 彼は怠惰に走り
+        grammar_highlight: false
+      - text: がち
+        grammar_highlight: true
+      - text: だ。
+        grammar_highlight: false
+    reading: かれはたいだにはしりがちだ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He tends to laziness.
+        html: |-
+          <span>He tends to laziness. </span>
+        segments:
+          - text: 'He tends to laziness. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      verb masu stem + gachi
+      　遅れます　⇒　遅れがち = tends to be late
+
+      noun + gachi
+      　怒りがち = tends to anger (get angry)
+
+      note: many verbs can be turned into nouns by using a -ri ending.
+
+      　怒る【いかる】(v5r) to get angry, to be angry
+      　怒り【いかり】(n) anger, hatred, (P)
+       ⇒ 怒りがち
+    html: |-
+      verb masu stem + gachi<br/>　遅れます　⇒　遅れがち = tends to be late<br/><br/>noun + gachi<br/>　怒りがち = tends to anger (get angry)<br/><br/>note: many verbs can be turned into nouns by using a -ri ending.<br/><br/>　怒る【いかる】(v5r) to get angry, to be angry<br/>　怒り【いかり】(n) anger, hatred, (P)<br/> ⇒ 怒りがち
+    credits_raw: dc
+    content_sha256: 36247d901a86fddd5e296fc2ef0b1200f5ddf77649b7adcb61148b201e5096fc
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: The most common use of 'gachi' I found was ... 便秘がち ^^;
+    html: The most common use of 'gachi' I found was ... 便秘がち ^^;
+    credits_raw: Amatuka
+    content_sha256: d31754e689dc9e6b9c2d0f80d4b3d289c7fbf1f8643f85fdb4fc8f21f447cfba
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Formed from verb -masu base + gachi
+
+      Vm = Verb -masu base
+    html: |-
+      Formed from verb -masu base + gachi<br/><br/>Vm = Verb -masu base
+    credits_raw: Amatuka
+    content_sha256: 6c51e51a0a1850b87a627c20679f164729b9fe3b20ff1d8e62d59cb87de35c6c
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: amatuka > formation instructions can go in the "notes" section at the top, rather than buried in the comments...
+    html: amatuka &gt; formation instructions can go in the "notes" section at the top, rather than buried in the comments...
+    credits_raw: dc
+    content_sha256: 7013f7d3aeb324a63cb0306afd020875bdf2366f35ec99a5bc325fbb04fbc0d6
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      actually i was going to enter your Vm+ .. usage note, but the examples we have here are all with nouns? Can anyone provide some verb+gachi examples?
+    html: |-
+      actually i was going to enter your Vm+ .. usage note, but the examples we have here are all with nouns? Can anyone provide some verb+gachi examples?
+    credits_raw: dc
+    content_sha256: 4395557561341d8ef1c9924176610405df5a3a54b257709fb4013eb134ec8c13
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      機嫌を取る→機嫌を取りがち
+      へつらう→へつらいがち
+      やる気を無くす→やる気を無くしがち
+      遠慮する→遠慮しがち
+      訳は、任せます。:P
+    html: |-
+      機嫌を取る→機嫌を取りがち<br/>へつらう→へつらいがち<br/>やる気を無くす→やる気を無くしがち<br/>遠慮する→遠慮しがち<br/>訳は、任せます。:P
+    credits_raw: Miki
+    content_sha256: 037d1d9664cd6f6aa34988cccfac7e57bcef80570585aa319727113e0d54ac5e
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: waver vi 心が揺らぐ、迷う
+    html: waver vi 心が揺らぐ、迷う
+    credits_raw: Miki
+    content_sha256: 2b58e7098514de3c06dab45dbe9cbfaf80d0f997382f045261914c08ccfa445b
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      〜がち: tendency; inclination
+      This suggests that a situation tends to occur often or easily, as in, 'to be absent often' or 'to become ill easily'. 
+      Both 〜ぎみ and 〜がち are almost always used in a neagtive sense.
+    html: |-
+      〜がち: tendency; inclination<br/>This suggests that a situation tends to occur often or easily, as in, 'to be absent often' or 'to become ill easily'. <br/>Both 〜ぎみ and 〜がち are almost always used in a neagtive sense.
+    credits_raw: angelitosh2004
+    content_sha256: 9e0ef26d030df7b8c90a56b7f9ddbf563995aefe4891163c3324713a124dc853
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: kekke
+    html: kekke
+    credits_raw: quytd
+    content_sha256: 6eb4dacaee85c46dd8c8f8df0aa9ca7bfbb8e0e5bf63284514d11dc266c6b760
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: Long tendencies of being/getting A
+    html: Long tendencies of being/getting A
+    credits_raw: キツネ
+    content_sha256: 55204346d3a57f5f53149364b2ff96d36754cf3168cb81c55eecba4497561d79
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      辛い料理を食べると便秘がちだ
+
+      I tend to be constipated if i eat spicy food
+
+      Saya cenderung sembelit jika makan makanan pedas
+    html: |-
+      辛い料理を食べると便秘がちだ<br/><br/>I tend to be constipated if i eat spicy food<br/><br/>Saya cenderung sembelit jika makan makanan pedas
+    credits_raw: Alditama R
+    content_sha256: 5741f8c741dd7fb3d4a96251aa69fe8e1e8b2d847c5a4a195abf4e170fbabcd0
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 696
+    label: がり
+    source_url: https://takoboto.jp/bunpo/696
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:03+00:00'
+response_sha256: 28bccc34084fca54c8bd4b9f9a6ada3b8f60a1cc558ef383b6dd045e6e32ca73
+warnings: []

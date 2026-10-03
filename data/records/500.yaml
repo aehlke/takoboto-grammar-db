@@ -1,0 +1,1136 @@
+schema_version: 2
+id: 500
+source: takoboto
+source_url: https://takoboto.jp/bunpo/500/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 丸で
+romanized_label: marude
+alternate_forms:
+  - まるで
+jlpt_level: 2
+credits_raw: dc
+meaning: as if, practically
+meaning_example: he orders me around as if I were his servant
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_500
+    body_text: |-
+      as if, practically 
+       he orders me around as if I were his servant
+    body_html: |-
+      <span>as if, practically</span> <br/> <span>he orders me around as if I were his servant</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 523
+    position: 0
+    japanese: まるで猿のような顔だ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e7%8c%bf%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa"><span>猿のような</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e3%81%a0"><span>顔だ</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 猿のような顔だ
+        grammar_highlight: false
+    reading: まるでさるのようなかおだ
+    credits_raw: dc
+    translations:
+      - language: en
+        text: A face just like a monkey's
+        html: |-
+          <span>A face </span><strong>just like </strong><span>a monkey's </span>
+        segments:
+          - text: 'A face '
+            grammar_highlight: false
+          - text: 'just like '
+            grammar_highlight: true
+          - text: 'a monkey''s '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 524
+    position: 1
+    japanese: これはまるで戦争だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af"><span>これは</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e6%88%a6%e4%ba%89%e3%81%a0%e3%80%82"><span>戦争だ。</span></a>
+    segments:
+      - text: これは
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 戦争だ。
+        grammar_highlight: false
+    reading: これはまるでせんそうだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: This is practically a war
+        html: |-
+          <span>This is </span><strong>practically </strong><span>a war </span>
+        segments:
+          - text: 'This is '
+            grammar_highlight: false
+          - text: 'practically '
+            grammar_highlight: true
+          - text: 'a war '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 525
+    position: 2
+    japanese: まるで生きているようだ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e7%94%9f%e3%81%8d%e3%81%a6%e3%81%84%e3%82%8b%e3%82%88%e3%81%86%e3%81%a0"><span>生きているようだ</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 生きているようだ
+        grammar_highlight: false
+    reading: まるでいきているようだ
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Seems like it is alive.
+        html: |-
+          <strong>Seems like </strong><span>it is alive. </span>
+        segments:
+          - text: 'Seems like '
+            grammar_highlight: true
+          - text: 'it is alive. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4076
+    position: 3
+    japanese: まるでつい昨日のことのようにはっきりとあの出来事を覚えている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84"><span>つい</span></a><a href="https://takoboto.jp/?q=%e6%98%a8%e6%97%a5%e3%81%ae%e3%81%93%e3%81%a8%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab%e3%81%af%e3%81%a3%e3%81%8d%e3%82%8a%e3%81%a8%e3%81%82%e3%81%ae"><span>昨日のことのようにはっきりとあの</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e6%9d%a5%e4%ba%8b%e3%82%92"><span>出来事を</span></a><a href="https://takoboto.jp/?q=%e8%a6%9a%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>覚えている。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: つい昨日のことのようにはっきりとあの出来事を覚えている。
+        grammar_highlight: false
+    reading: まるでついきのうのことのようにはっきりとあのできごとをおぼえている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I remember the event as vividly as if it was just yesterday.
+        html: |-
+          <span>I remember the event as vividly as if it was just yesterday. </span>
+        segments:
+          - text: 'I remember the event as vividly as if it was just yesterday. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4077
+    position: 4
+    japanese: まるでなんでも知っているような口ぶりだね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a7%e3%82%82"><span>なんでも</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%82%88%e3%81%86%e3%81%aa"><span>知っているような</span></a><a href="https://takoboto.jp/?q=%e5%8f%a3%e3%81%b6%e3%82%8a%e3%81%a0%e3%81%ad%e3%80%82"><span>口ぶりだね。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: なんでも知っているような口ぶりだね。
+        grammar_highlight: false
+    reading: まるでなんでもしっているようなくちぶりだね。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You talk as if you knew everything.
+        html: |-
+          <span>You talk as if you knew everything. </span>
+        segments:
+          - text: 'You talk as if you knew everything. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4078
+    position: 5
+    japanese: まるでひとりで笑っているみたいだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e3%81%b2%e3%81%a8%e3%82%8a%e3%81%a7"><span>ひとりで</span></a><a href="https://takoboto.jp/?q=%e7%ac%91%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%bf%e3%81%9f%e3%81%84%e3%81%a0%e3%80%82"><span>笑っているみたいだ。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: ひとりで笑っているみたいだ。
+        grammar_highlight: false
+    reading: まるでひとりでわらっているみたいだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: She looks as if she's laughing to herself.
+        html: |-
+          <span>She looks as if she's laughing to herself. </span>
+        segments:
+          - text: 'She looks as if she''s laughing to herself. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4080
+    position: 6
+    japanese: まるでボスのような話し方をする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e3%83%9c%e3%82%b9%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa"><span>ボスのような</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%97"><span>話し</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%82%92%e3%81%99%e3%82%8b%e3%80%82"><span>方をする。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: ボスのような話し方をする。
+        grammar_highlight: false
+    reading: まるでボスのようなはなしかたをする。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You talk as if you were the boss.
+        html: |-
+          <span>You talk as if you were the boss. </span>
+        segments:
+          - text: 'You talk as if you were the boss. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4081
+    position: 7
+    japanese: まるでワインで口の滑りがよくなったように。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e3%83%af%e3%82%a4%e3%83%b3%e3%81%a7"><span>ワインで</span></a><a href="https://takoboto.jp/?q=%e5%8f%a3%e3%81%ae"><span>口の</span></a><a href="https://takoboto.jp/?q=%e6%bb%91%e3%82%8a%e3%81%8c%e3%82%88%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%82%88%e3%81%86%e3%81%ab%e3%80%82"><span>滑りがよくなったように。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: ワインで口の滑りがよくなったように。
+        grammar_highlight: false
+    reading: まるでワインでくちのすべりがよくなったように。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Flowing more freely than wine.
+        html: |-
+          <span>Flowing more freely than wine. </span>
+        segments:
+          - text: 'Flowing more freely than wine. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4082
+    position: 8
+    japanese: まるで悪魔にでも追いかけられてるみたいだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e6%82%aa%e9%ad%94%e3%81%ab%e3%81%a7%e3%82%82"><span>悪魔にでも</span></a><a href="https://takoboto.jp/?q=%e8%bf%bd%e3%81%84%e3%81%8b%e3%81%91%e3%82%89%e3%82%8c%e3%81%a6%e3%82%8b%e3%81%bf%e3%81%9f%e3%81%84%e3%81%a0%e3%80%82"><span>追いかけられてるみたいだ。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 悪魔にでも追いかけられてるみたいだ。
+        grammar_highlight: false
+    reading: まるであくまにでもおいかけられてるみたいだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You'd think Old Nick was after him.
+        html: |-
+          <span>You'd think Old Nick was after him. </span>
+        segments:
+          - text: 'You''d think Old Nick was after him. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4083
+    position: 9
+    japanese: 彼女はまるで一人で笑ってるみたいだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e4%b8%80%e4%ba%ba%e3%81%a7"><span>一人で</span></a><a href="https://takoboto.jp/?q=%e7%ac%91%e3%81%a3%e3%81%a6%e3%82%8b%e3%81%bf%e3%81%9f%e3%81%84%e3%81%a0%e3%80%82"><span>笑ってるみたいだ。</span></a>
+    segments:
+      - text: 彼女は
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 一人で笑ってるみたいだ。
+        grammar_highlight: false
+    reading: かのじょはまるでいちにんでわらってるみたいだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: She looks as if she's laughing to herself.
+        html: |-
+          <span>She </span><strong>looks as </strong><span>if she's laughing to herself. </span>
+        segments:
+          - text: 'She '
+            grammar_highlight: false
+          - text: 'looks as '
+            grammar_highlight: true
+          - text: 'if she''s laughing to herself. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4084
+    position: 10
+    japanese: まるで雨が降り出しそうに見える。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e9%9b%a8%e3%81%8c"><span>雨が</span></a><a href="https://takoboto.jp/?q=%e9%99%8d%e3%82%8a"><span>降り</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%97%e3%81%9d%e3%81%86%e3%81%ab"><span>出しそうに</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%88%e3%82%8b%e3%80%82"><span>見える。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 雨が降り出しそうに見える。
+        grammar_highlight: false
+    reading: まるであめがふりだしそうにみえる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It looks as if it were going to rain.
+        html: |-
+          <span>It looks as if it were going to rain. </span>
+        segments:
+          - text: 'It looks as if it were going to rain. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4085
+    position: 11
+    japanese: まるで化石みたいな人間だわ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e5%8c%96%e7%9f%b3%e3%81%bf%e3%81%9f%e3%81%84%e3%81%aa"><span>化石みたいな</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e3%81%a0%e3%82%8f%e3%80%82"><span>人間だわ。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 化石みたいな人間だわ。
+        grammar_highlight: false
+    reading: まるでかせきみたいなにんげんだわ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He is a living fossil! [F]
+        html: |-
+          <span>He is a living fossil! [F] </span>
+        segments:
+          - text: 'He is a living fossil! [F] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4086
+    position: 12
+    japanese: まるで革命前夜のような騒ぎだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e9%9d%a9%e5%91%bd%e5%89%8d%e5%a4%9c%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa"><span>革命前夜のような</span></a><a href="https://takoboto.jp/?q=%e9%a8%92%e3%81%8e%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>騒ぎだった。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 革命前夜のような騒ぎだった。
+        grammar_highlight: false
+    reading: まるでかくめいぜんやのようなさわぎだった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It looked as if we were on the eve of a revolution.
+        html: |-
+          <span>It looked as if we were on the eve of a revolution. </span>
+        segments:
+          - text: 'It looked as if we were on the eve of a revolution. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4087
+    position: 13
+    japanese: まるで空全体が燃えているようである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e7%a9%ba%e5%85%a8%e4%bd%93%e3%81%8c"><span>空全体が</span></a><a href="https://takoboto.jp/?q=%e7%87%83%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b%e3%82%88%e3%81%86%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>燃えているようである。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 空全体が燃えているようである。
+        grammar_highlight: false
+    reading: まるでそらぜんたいがもえているようである。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It is as if the whole sky were on fire.
+        html: |-
+          <span>It is as if the whole sky were on fire. </span>
+        segments:
+          - text: 'It is as if the whole sky were on fire. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4088
+    position: 14
+    japanese: まるで君は僕の鏡みたいだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%af"><span>君は</span></a><a href="https://takoboto.jp/?q=%e5%83%95%e3%81%ae"><span>僕の</span></a><a href="https://takoboto.jp/?q=%e9%8f%a1%e3%81%bf%e3%81%9f%e3%81%84%e3%81%a0%e3%80%82"><span>鏡みたいだ。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 君は僕の鏡みたいだ。
+        grammar_highlight: false
+    reading: まるできみはぼくのかがみみたいだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You're the only mirror for me. [M]
+        html: |-
+          <span>You're the only mirror for me. [M] </span>
+        segments:
+          - text: 'You''re the only mirror for me. [M] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4089
+    position: 15
+    japanese: まるで月面を歩いているみたい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e6%9c%88%e9%9d%a2%e3%82%92"><span>月面を</span></a><a href="https://takoboto.jp/?q=%e6%ad%a9%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%81%bf%e3%81%9f%e3%81%84%e3%80%82"><span>歩いているみたい。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 月面を歩いているみたい。
+        grammar_highlight: false
+    reading: まるでげつめんをあるいているみたい。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Walking on the moon.
+        html: |-
+          <span>Walking on the moon. </span>
+        segments:
+          - text: 'Walking on the moon. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4090
+    position: 16
+    japanese: まるで腫れ物に触るように扱った。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e8%85%ab%e3%82%8c"><span>腫れ</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%81%ab"><span>物に</span></a><a href="https://takoboto.jp/?q=%e8%a7%a6%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab"><span>触るように</span></a><a href="https://takoboto.jp/?q=%e6%89%b1%e3%81%a3%e3%81%9f%e3%80%82"><span>扱った。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 腫れ物に触るように扱った。
+        grammar_highlight: false
+    reading: まるではれものにさわるようにあつかった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He treated it with utmost care.
+        html: |-
+          <span>He treated it with utmost care. </span>
+        segments:
+          - text: 'He treated it with utmost care. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4091
+    position: 17
+    japanese: 彼女はまるで酔っているようだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e9%85%94%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%82%88%e3%81%86%e3%81%a0%e3%80%82"><span>酔っているようだ。</span></a>
+    segments:
+      - text: 彼女は
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 酔っているようだ。
+        grammar_highlight: false
+    reading: かのじょはまるでよっているようだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: She looks as if she were drunk.
+        html: |-
+          <span>She looks </span><strong>as if </strong><span>she were drunk. </span>
+        segments:
+          - text: 'She looks '
+            grammar_highlight: false
+          - text: 'as if '
+            grammar_highlight: true
+          - text: 'she were drunk. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4092
+    position: 18
+    japanese: まるで太陽が沈んでしまったかのように空は暗くなった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e5%a4%aa%e9%99%bd%e3%81%8c"><span>太陽が</span></a><a href="https://takoboto.jp/?q=%e6%b2%88%e3%82%93%e3%81%a7%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%81%8b%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab"><span>沈んでしまったかのように</span></a><a href="https://takoboto.jp/?q=%e7%a9%ba%e3%81%af"><span>空は</span></a><a href="https://takoboto.jp/?q=%e6%9a%97%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%82"><span>暗くなった。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 太陽が沈んでしまったかのように空は暗くなった。
+        grammar_highlight: false
+    reading: まるでたいようがしずんでしまったかのようにそらはくらくなった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The sky became as dark as if the sun had sunk.
+        html: |-
+          <span>The sky became as dark as if the sun had sunk. </span>
+        segments:
+          - text: 'The sky became as dark as if the sun had sunk. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4093
+    position: 19
+    japanese: まるで頭のような話し方をする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e9%a0%ad%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa"><span>頭のような</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%97"><span>話し</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%82%92%e3%81%99%e3%82%8b%e3%80%82"><span>方をする。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 頭のような話し方をする。
+        grammar_highlight: false
+    reading: まるであたまのようなはなしかたをする。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You talk as if you were the boss.
+        html: |-
+          <span>You talk as if you were the boss. </span>
+        segments:
+          - text: 'You talk as if you were the boss. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4094
+    position: 20
+    japanese: まるで彼の手にふれるものはみんな金に変わるみたいだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e3%81%ab%e3%81%b5%e3%82%8c%e3%82%8b%e3%82%82%e3%81%ae%e3%81%af%e3%81%bf%e3%82%93%e3%81%aa"><span>手にふれるものはみんな</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%81%ab"><span>金に</span></a><a href="https://takoboto.jp/?q=%e5%a4%89%e3%82%8f%e3%82%8b%e3%81%bf%e3%81%9f%e3%81%84%e3%81%a0%e3%80%82"><span>変わるみたいだ。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 彼の手にふれるものはみんな金に変わるみたいだ。
+        grammar_highlight: false
+    reading: まるでかれのてにふれるものはみんなきんにかわるみたいだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It seems as if everything he touches turns to gold.
+        html: |-
+          <span>It seems as if everything he touches turns to gold. </span>
+        segments:
+          - text: 'It seems as if everything he touches turns to gold. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4096
+    position: 21
+    japanese: まるで夢を見ているか気分だった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e5%a4%a2%e3%82%92"><span>夢を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8b"><span>見ているか</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e5%88%86%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>気分だった。</span></a>
+    segments:
+      - text: まるで
+        grammar_highlight: true
+      - text: 夢を見ているか気分だった。
+        grammar_highlight: false
+    reading: まるでゆめをみているかきぶんだった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I felt as if I were dreaming.
+        html: |-
+          <span>I felt as if I were dreaming. </span>
+        segments:
+          - text: 'I felt as if I were dreaming. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4097
+    position: 22
+    japanese: 僕はまるで夢を見ているようだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%83%95%e3%81%af"><span>僕は</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e5%a4%a2%e3%82%92"><span>夢を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%a6%e3%81%84%e3%82%8b%e3%82%88%e3%81%86%e3%81%a0%e3%80%82"><span>見ているようだ。</span></a>
+    segments:
+      - text: 僕は
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 夢を見ているようだ。
+        grammar_highlight: false
+    reading: ぼくはまるでゆめをみているようだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I felt as if I were in a dream.（M)
+        html: |-
+          <span>I felt </span><strong>as if </strong><span>I were in a dream.（M) </span>
+        segments:
+          - text: 'I felt '
+            grammar_highlight: false
+          - text: 'as if '
+            grammar_highlight: true
+          - text: 'I were in a dream.（M) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4098
+    position: 23
+    japanese: ケンはまるで何でも知っているかのように話す。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b1%e3%83%b3%e3%81%af"><span>ケンは</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%a7%e3%82%82"><span>何でも</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8b%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab"><span>知っているかのように</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%99%e3%80%82"><span>話す。</span></a>
+    segments:
+      - text: ケンは
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 何でも知っているかのように話す。
+        grammar_highlight: false
+    reading: ケンはまるでなにでもしっているかのようにはなす。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Ken talks as if he knew everything.
+        html: |-
+          <span>Ken talks as if he knew everything. </span>
+        segments:
+          - text: 'Ken talks as if he knew everything. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4099
+    position: 24
+    japanese: ジョディはまるで幽霊でも見たような顔をしている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b8%e3%83%a7%e3%83%87%e3%82%a3%e3%81%af"><span>ジョディは</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e5%b9%bd%e9%9c%8a%e3%81%a7%e3%82%82"><span>幽霊でも</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%9f%e3%82%88%e3%81%86%e3%81%aa"><span>見たような</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>顔をしている。</span></a>
+    segments:
+      - text: ジョディは
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 幽霊でも見たような顔をしている。
+        grammar_highlight: false
+    reading: はまるでゆうれいでもみたようなかおをしている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Jody looks as if she had seen a ghost.
+        html: |-
+          <span>Jody looks as if she had seen a ghost. </span>
+        segments:
+          - text: 'Jody looks as if she had seen a ghost. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4100
+    position: 25
+    japanese: ジョンが戻ってきたとき、彼はまるで幽霊でもみたように青白い顔つきだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%81%8c"><span>ジョンが</span></a><a href="https://takoboto.jp/?q=%e6%88%bb%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%e3%81%a8%e3%81%8d%e3%80%81"><span>戻ってきたとき、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e5%b9%bd%e9%9c%8a%e3%81%a7%e3%82%82%e3%81%bf%e3%81%9f%e3%82%88%e3%81%86%e3%81%ab"><span>幽霊でもみたように</span></a><a href="https://takoboto.jp/?q=%e9%9d%92%e7%99%bd%e3%81%84"><span>青白い</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e3%81%a4%e3%81%8d%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>顔つきだった。</span></a>
+    segments:
+      - text: ジョンが戻ってきたとき、彼は
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 幽霊でもみたように青白い顔つきだった。
+        grammar_highlight: false
+    reading: ジョンがもどってきたとき、かれはまるでゆうれいでもみたようにあおじろいかおつきだった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: When John came back, he looked pale as if he had seen a ghost.
+        html: |-
+          <span>When John came back, he looked pale as if he had seen a ghost. </span>
+        segments:
+          - text: 'When John came back, he looked pale as if he had seen a ghost. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4101
+    position: 26
+    japanese: ジョンソンさんはまるで生き字引です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%bd%e3%83%b3%e3%81%95%e3%82%93%e3%81%af"><span>ジョンソンさんは</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e7%94%9f%e3%81%8d"><span>生き</span></a><a href="https://takoboto.jp/?q=%e5%ad%97%e5%bc%95%e3%81%a7%e3%81%99%e3%80%82"><span>字引です。</span></a>
+    segments:
+      - text: ジョンソンさんは
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 生き字引です。
+        grammar_highlight: false
+    reading: ジョンソンさんはまるでいきじびきです。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Mr Johnson is, as it were , a walking dictionary.
+        html: |-
+          <span>Mr Johnson is, </span><strong>as it were </strong><span>, a walking dictionary. </span>
+        segments:
+          - text: 'Mr Johnson is, '
+            grammar_highlight: false
+          - text: 'as it were '
+            grammar_highlight: true
+          - text: ', a walking dictionary. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4103
+    position: 27
+    japanese: ティムはまるで左利きのような書き方をする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%86%e3%82%a3%e3%83%a0%e3%81%af"><span>ティムは</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e5%b7%a6%e5%88%a9%e3%81%8d%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa"><span>左利きのような</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%8d"><span>書き</span></a><a href="https://takoboto.jp/?q=%e6%96%b9%e3%82%92%e3%81%99%e3%82%8b%e3%80%82"><span>方をする。</span></a>
+    segments:
+      - text: ティムは
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 左利きのような書き方をする。
+        grammar_highlight: false
+    reading: ティムはまるでひだりききのようなかきかたをする。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Tim writes as if he were left-handed.
+        html: |-
+          <span>Tim writes as if he were left-handed. </span>
+        segments:
+          - text: 'Tim writes as if he were left-handed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4104
+    position: 28
+    japanese: ハムレットはまるで気が狂ったかのようにふるまう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%8f%e3%83%a0%e3%83%ac%e3%83%83%e3%83%88%e3%81%af"><span>ハムレットは</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%8c"><span>気が</span></a><a href="https://takoboto.jp/?q=%e7%8b%82%e3%81%a3%e3%81%9f%e3%81%8b%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab%e3%81%b5%e3%82%8b%e3%81%be%e3%81%86%e3%80%82"><span>狂ったかのようにふるまう。</span></a>
+    segments:
+      - text: ハムレットは
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 気が狂ったかのようにふるまう。
+        grammar_highlight: false
+    reading: ハムレットはまるできがくるったかのようにふるまう。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Hamlet acts as if he were insane.
+        html: |-
+          <span>Hamlet acts as if he were insane. </span>
+        segments:
+          - text: 'Hamlet acts as if he were insane. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4107
+    position: 29
+    japanese: ブレントはアメリカ人であるが、彼はまるで自分の母国語であるかのように日本語を話せる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%96%e3%83%ac%e3%83%b3%e3%83%88%e3%81%af%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab"><span>ブレントはアメリカ</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%a7%e3%81%82%e3%82%8b%e3%81%8c%e3%80%81"><span>人であるが、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae"><span>自分の</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e5%9b%bd%e8%aa%9e%e3%81%a7%e3%81%82%e3%82%8b%e3%81%8b%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab"><span>母国語であるかのように</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%82%92"><span>日本語を</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%9b%e3%82%8b%e3%80%82"><span>話せる。</span></a>
+    segments:
+      - text: ブレントはアメリカ人であるが、彼は
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 自分の母国語であるかのように日本語を話せる。
+        grammar_highlight: false
+    reading: はアメリカじんであるが、かれはまるでじぶんのぼこくごであるかのようににほんごをはなせる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Brent is an American, but he speaks Japanese as if it were his mother tongue.
+        html: |-
+          <span>Brent is an American, but he speaks Japanese as if it were his mother tongue. </span>
+        segments:
+          - text: 'Brent is an American, but he speaks Japanese as if it were his mother tongue. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4108
+    position: 30
+    japanese: ベティーはまるで何でも知っているみたいに話す。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%99%e3%83%86%e3%82%a3%e3%83%bc%e3%81%af"><span>ベティーは</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%a7%e3%82%82"><span>何でも</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%bf%e3%81%9f%e3%81%84%e3%81%ab"><span>知っているみたいに</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%99%e3%80%82"><span>話す。</span></a>
+    segments:
+      - text: ベティーは
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 何でも知っているみたいに話す。
+        grammar_highlight: false
+    reading: はまるでなにでもしっているみたいにはなす。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Betty talks as if she knew everything.
+        html: |-
+          <span>Betty talks as if she knew everything. </span>
+        segments:
+          - text: 'Betty talks as if she knew everything. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4109
+    position: 31
+    japanese: ライトさんは、まるで母国語の様に日本語を話します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%81%95%e3%82%93%e3%81%af%e3%80%81"><span>ライトさんは、</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e6%af%8d%e5%9b%bd%e8%aa%9e%e3%81%ae"><span>母国語の</span></a><a href="https://takoboto.jp/?q=%e6%a7%98%e3%81%ab"><span>様に</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%82%92"><span>日本語を</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>話します。</span></a>
+    segments:
+      - text: ライトさんは、
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 母国語の様に日本語を話します。
+        grammar_highlight: false
+    reading: ライトさんは、まるでぼこくごのようににほんごをはなします。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Mr Wright speaks Japanese as if it were his mother tongue.
+        html: |-
+          <span>Mr Wright speaks Japanese as if it were his mother tongue. </span>
+        segments:
+          - text: 'Mr Wright speaks Japanese as if it were his mother tongue. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4110
+    position: 32
+    japanese: 英語はまるで海のように私達を取り囲んでいる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%af"><span>英語は</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e6%b5%b7%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab"><span>海のように</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e9%81%94%e3%82%92"><span>私達を</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%82%8a"><span>取り</span></a><a href="https://takoboto.jp/?q=%e5%9b%b2%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b%e3%80%82"><span>囲んでいる。</span></a>
+    segments:
+      - text: 英語は
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 海のように私達を取り囲んでいる。
+        grammar_highlight: false
+    reading: えいごはまるでうみのようにわたしたちをとりかこんでいる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The English language surrounds us like a sea.
+        html: |-
+          <span>The English language surrounds us like a sea. </span>
+        segments:
+          - text: 'The English language surrounds us like a sea. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4112
+    position: 33
+    japanese: 我々は山道をまるでアリがはうように進んだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%88%91%e3%80%85%e3%81%af"><span>我々は</span></a><a href="https://takoboto.jp/?q=%e5%b1%b1%e9%81%93%e3%82%92"><span>山道を</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%aa%e3%81%8c%e3%81%af%e3%81%86%e3%82%88%e3%81%86%e3%81%ab"><span>アリがはうように</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%93%e3%81%a0%e3%80%82"><span>進んだ。</span></a>
+    segments:
+      - text: 我々は山道を
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: アリがはうように進んだ。
+        grammar_highlight: false
+    reading: われわれはやまみちをまるでアリがはうようにすすんだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: We crawled like ants along the mountain pass.
+        html: |-
+          <span>We crawled </span><strong>like </strong><span>ants along the mountain pass. </span>
+        segments:
+          - text: 'We crawled '
+            grammar_highlight: false
+          - text: 'like '
+            grammar_highlight: true
+          - text: 'ants along the mountain pass. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4118
+    position: 34
+    japanese: 君はまるで何も起こらなかったような顔をしている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%af"><span>君は</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%82"><span>何も</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%93%e3%82%89%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%88%e3%81%86%e3%81%aa"><span>起こらなかったような</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>顔をしている。</span></a>
+    segments:
+      - text: 君は
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 何も起こらなかったような顔をしている。
+        grammar_highlight: false
+    reading: きみはまるでなにもおこらなかったようなかおをしている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You look as though nothing had happened to you.
+        html: |-
+          <span>You look as though nothing had happened to you. </span>
+        segments:
+          - text: 'You look as though nothing had happened to you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4119
+    position: 35
+    japanese: 君はまるで何も起こらなかったような顔をしているね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%af"><span>君は</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%82"><span>何も</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%93%e3%82%89%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%82%88%e3%81%86%e3%81%aa"><span>起こらなかったような</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ad%e3%80%82"><span>顔をしているね。</span></a>
+    segments:
+      - text: 君は
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 何も起こらなかったような顔をしているね。
+        grammar_highlight: false
+    reading: きみはまるでなにもおこらなかったようなかおをしているね。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You look as though nothing had happened to you.
+        html: |-
+          <span>You look as though nothing had happened to you. </span>
+        segments:
+          - text: 'You look as though nothing had happened to you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4120
+    position: 36
+    japanese: 君はまるで人ごとみたいな顔をしているね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%af"><span>君は</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%94%e3%81%a8%e3%81%bf%e3%81%9f%e3%81%84%e3%81%aa"><span>人ごとみたいな</span></a><a href="https://takoboto.jp/?q=%e9%a1%94%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ad%e3%80%82"><span>顔をしているね。</span></a>
+    segments:
+      - text: 君は
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 人ごとみたいな顔をしているね。
+        grammar_highlight: false
+    reading: きみはまるでひとごとみたいなかおをしているね。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: You look as if it were none of your business.
+        html: |-
+          <span>You look as if it were none of your business. </span>
+        segments:
+          - text: 'You look as if it were none of your business. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4121
+    position: 37
+    japanese: 群衆がまるでハエのようにその車の回りに集まった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%be%a4%e8%a1%86%e3%81%8c"><span>群衆が</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e3%83%8f%e3%82%a8%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab%e3%81%9d%e3%81%ae"><span>ハエのようにその</span></a><a href="https://takoboto.jp/?q=%e8%bb%8a%e3%81%ae"><span>車の</span></a><a href="https://takoboto.jp/?q=%e5%9b%9e%e3%82%8a%e3%81%ab"><span>回りに</span></a><a href="https://takoboto.jp/?q=%e9%9b%86%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>集まった。</span></a>
+    segments:
+      - text: 群衆が
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: ハエのようにその車の回りに集まった。
+        grammar_highlight: false
+    reading: ぐんしゅうがまるでハエのようにそのくるまのまわりにあつまった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The crowd gathered round the car like flies.
+        html: |-
+          <span>The crowd gathered round the car </span><strong>like </strong><span>flies. </span>
+        segments:
+          - text: 'The crowd gathered round the car '
+            grammar_highlight: false
+          - text: 'like '
+            grammar_highlight: true
+          - text: 'flies. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4079
+    position: 38
+    japanese: まだ三月の初めなのにとても暑い。まるで夏になったかのようだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%a0"><span>まだ</span></a><a href="https://takoboto.jp/?q=%e4%b8%89%e6%9c%88%e3%81%ae"><span>三月の</span></a><a href="https://takoboto.jp/?q=%e5%88%9d%e3%82%81%e3%81%aa%e3%81%ae%e3%81%ab%e3%81%a8%e3%81%a6%e3%82%82"><span>初めなのにとても</span></a><a href="https://takoboto.jp/?q=%e6%9a%91%e3%81%84%e3%80%82"><span>暑い。</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e5%a4%8f%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e3%81%8b"><span>夏になったか</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%82%88%e3%81%86%e3%81%a0"><strong>のようだ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: まだ三月の初めなのにとても暑い。
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 夏になったか
+        grammar_highlight: false
+      - text: のようだ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: まださんがつのはじめなのにとてもあつい。まるでなつになったかのようだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Even if we are at the beginning of March, the weather is very hot. It is as if summer had come yet.
+        html: |-
+          <span>Even if we are at the beginning of March, the weather is very hot. </span><strong>It is as if </strong><span>summer had come yet. </span>
+        segments:
+          - text: 'Even if we are at the beginning of March, the weather is very hot. '
+            grammar_highlight: false
+          - text: 'It is as if '
+            grammar_highlight: true
+          - text: 'summer had come yet. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4102
+    position: 39
+    japanese: この湖は水がきれいで、まるで透明なガラスのようだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%b9%96%e3%81%af"><span>湖は</span></a><a href="https://takoboto.jp/?q=%e6%b0%b4%e3%81%8c%e3%81%8d%e3%82%8c%e3%81%84%e3%81%a7%e3%80%81"><span>水がきれいで、</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e9%80%8f%e6%98%8e%e3%81%aa%e3%82%ac%e3%83%a9%e3%82%b9"><span>透明なガラス</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%82%88%e3%81%86%e3%81%a0"><strong>のようだ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: この湖は水がきれいで、
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: 透明なガラス
+        grammar_highlight: false
+      - text: のようだ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このみずうみはみずがきれいで、まるでとうめいなガラスのようだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: As the water is clean, this lake look as transparent as if it were glass.
+        html: |-
+          <span>As the water is clean, this lake look as transparent </span><strong>as if it were </strong><span>glass. </span>
+        segments:
+          - text: 'As the water is clean, this lake look as transparent '
+            grammar_highlight: false
+          - text: 'as if it were '
+            grammar_highlight: true
+          - text: 'glass. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4117
+    position: 40
+    japanese: かれはまるでおさけを飲んだようなかおをしています。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8c%e3%81%af"><span>かれは</span></a><a href="https://takoboto.jp/?q=%e3%81%be%e3%82%8b%e3%81%a7"><strong>まるで</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%95%e3%81%91%e3%82%92"><span>おさけを</span></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%93%e3%81%a0"><span>飲んだ</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%86%e3%81%aa"><strong>ような</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%8a%e3%82%92%e3%81%97%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>かおをしています。</span></a>
+    segments:
+      - text: かれは
+        grammar_highlight: false
+      - text: まるで
+        grammar_highlight: true
+      - text: おさけを飲んだ
+        grammar_highlight: false
+      - text: ような
+        grammar_highlight: true
+      - text: かおをしています。
+        grammar_highlight: false
+    reading: かれはまるでおさけをのんだようなかおをしています。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: His face looks as if he had drunk alcohol.
+        html: |-
+          <span>His face looks </span><strong>as if </strong><span>he had drunk alcohol. </span>
+        segments:
+          - text: 'His face looks '
+            grammar_highlight: false
+          - text: 'as if '
+            grammar_highlight: true
+          - text: 'he had drunk alcohol. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: (MARUDE) is more often than not used in conjunction with "no you na..." "no you da."
+    html: (MARUDE) is more often than not used in conjunction with "no you na..." "no you da."
+    credits_raw: larry
+    content_sha256: 763bc8599e61227b92bb64376003e04094d2fed44dae2d41bdb262d8626e71c1
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: marude can also mean completely or entirely, as in "I have forgotten about it completely"
+    html: marude can also mean completely or entirely, as in "I have forgotten about it completely"
+    credits_raw: dc
+    content_sha256: 13278c1851791484896b637c412bb74ea1205d004640a9163814ecfff98ff400
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: There is no entry for さっぱり yet...
+    html: There is no entry for さっぱり yet...
+    credits_raw: Miki
+    content_sha256: 37f94be68fee04bd90373a21a8c2a15f8527ab09532006cdbabd918ca6b60214
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: For 'completely forgotten' see さっぱり
+    html: For 'completely forgotten' see さっぱり
+    credits_raw: Amatuka
+    content_sha256: ce771033d947dc7d5824676a1a040045a104991cdd3839ff51bc82e9212feb7a
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: '#4101 ジョン?? 文字化け for me'
+    html: '#4101 ジョン?? 文字化け for me'
+    credits_raw: Miki
+    content_sha256: ae4f0817a29ecad9a9cd4cf38086622b40d49e7b8e7badf22f532e7e49f36194
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: '#4102 and #4103 are almost the same.'
+    html: '#4102 and #4103 are almost the same.'
+    credits_raw: Miki
+    content_sha256: fcab59ff32d14d74889bbec453ed9f3e8de201fd84a53bba481c1cb1ae5406ea
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      #4095, #4105, #4106, #4114, #4115, #4116, These まるで are different as dc mentioned in comments.
+      まるで followed by ない neg or 違う.
+      #4111, #4113 part of 始まるでしょうか。
+    html: |-
+      #4095, #4105, #4106, #4114, #4115, #4116, These まるで are different as dc mentioned in comments.<br/>まるで followed by ない neg or 違う.<br/>#4111, #4113 part of 始まるでしょうか。
+    credits_raw: Miki
+    content_sha256: e917199ebf5d81b1d5d563b19fc9be5f1afdaf6c6efdc8b0ef7d18def96b150e
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: i added a [marude-2] but there isnt an easy way to shift the examples over. hang on while we build it...
+    html: i added a [marude-2] but there isnt an easy way to shift the examples over. hang on while we build it...
+    credits_raw: dc
+    content_sha256: 84298d44fac619526e186059307560c0b4233ca2b3a75fc15566af4512f0192d
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      Miki, DC - I went ahead and moved the examples to [marude-2] and deleted the 始まるでしょう examples as those changes are easy to make now. Feel free to delete all these comments since they are no longer relevant...
+    html: |-
+      Miki, DC - I went ahead and moved the examples to [marude-2] and deleted the 始まるでしょう examples as those changes are easy to make now. Feel free to delete all these comments since they are no longer relevant...
+    credits_raw: yookoso
+    content_sha256: 419fddd6a8d53133a30b73b29da76d3c24afcc92f9cba09509e3406d1f9de58e
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      I changed 
+      Ex #4079 which were almost the same than #4078, 
+      Ex #4102 which were almost the same than #4103, and
+      Ex #4117 which were almost the same than #4118,
+      but there is a lot of repeated examples left.
+    html: |-
+      I changed <br/>Ex #4079 which were almost the same than #4078, <br/>Ex #4102 which were almost the same than #4103, and<br/>Ex #4117 which were almost the same than #4118,<br/>but there is a lot of repeated examples left.
+    credits_raw: 赤毛
+    content_sha256: 700e483f3c71059a1ee8020cc8ed3baaed99491174934aee667e3d8bb1bcf6b2
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1316
+    label: かのようだ
+    source_url: https://takoboto.jp/bunpo/1316
+  - target_id: 1527
+    label: まるで
+    source_url: https://takoboto.jp/bunpo/1527
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:40:49+00:00'
+response_sha256: f53470211dcf7b6f3e664045a17cd112f206b99e5895527502df9ed3a128bbf6
+warnings: []

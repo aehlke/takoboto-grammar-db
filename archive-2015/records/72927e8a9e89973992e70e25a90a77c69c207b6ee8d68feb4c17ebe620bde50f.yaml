@@ -1,0 +1,89 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1778
+label: karashite- 2
+title_raw: からして [からして] (karashite- 2)
+title: からして
+reading: からして
+romanized_label: karashite- 2
+category: grammar
+jlpt_level_original: '0'
+meaning: Since; because; Consequently
+meaning_example: 今年の収支は赤字であるからして、来年はなんとか黒字にしよう。
+credits_raw: unscathed18
+source_url: http://jgram.org/pages/viewOne.php?tagE=karashite-%202
+archive_url: https://web.archive.org/web/20150225004324id_/http://jgram.org/pages/viewOne.php?tagE=karashite-%202
+archive_timestamp: '20150225004324'
+retrieved_at: '2026-10-03T16:11:05+00:00'
+archive_digest: 7CLD6AIPCRVFFC4GCQTNY2COB4NS7RD3
+response_sha256: 1eaed147c7e8fce005296c0475a069b4536a0aee0bda472965979835ce53ba10
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "From \"A dictionary of Japanese Particles\", page 65.\n\r\nIt is equivalent to \"から\" or \"ので\".\n\n\n\r\n接続：動詞 + からして"
+    html: "From \"A dictionary of Japanese Particles\", page 65.<br/>\r\nIt is equivalent to \"から\" or \"ので\".<br/>\n<br/>\r\n接続：動詞 + からして"
+    credits_raw: leonardo.stylish
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 8609
+    position: 0
+    japanese: 今年の収支は赤字であるからして、来年はなんとか黒字にしよう。
+    body_text: "今年の収支は赤字であるからして、来年はなんとか黒字にしよう。 \n\n\t\tOur balance sheet is in the red this year; \n\t\tconsequently \n\t\t,let's try to somehow come out on top next year."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ今年の収支は赤字であるからして、来年はなんとか黒字にしよう。\">\n\t\t\t\t今年の収支は赤字である<strong>からして</strong>、来年はなんとか黒字にしよう。<strong></strong></a> <br/>\n\t\tOur balance sheet is in the red this year; \n\t\t<strong>consequently </strong>\n\t\t,let's try to somehow come out on top next year."
+    credits_raw: leonardo.stylish
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8610
+    position: 1
+    japanese: そういう噂からして、あの二人は近々結婚するだろう。
+    body_text: "そういう噂からして、あの二人は近々結婚するだろう。 \n\nSince \n\t\tthat sort of rumor is going around, consequently, it's likely that those two will get married soon."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJそういう噂からして、あの二人は近々結婚するだろう。\">\n\t\t\t\tそういう噂<strong>からして</strong>、あの二人は近々結婚するだろう。<strong></strong></a> <br/>\n<strong>Since </strong>\n\t\tthat sort of rumor is going around, consequently, it's likely that those two will get married soon."
+    credits_raw: leonardo.stylish
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries:
+  - position: 0
+    target_label: kara
+    label: kara
+    annotation_text: kara [leonardo.stylish]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kara">kara</a> [<a href="http://jgram.org/pages/contributions.php?author=leonardo.stylish">leonardo.stylish</a>]
+    credits_raw: leonardo.stylish
+  - position: 1
+    target_label: node
+    label: node
+    annotation_text: node [leonardo.stylish]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=node">node</a> [<a href="http://jgram.org/pages/contributions.php?author=leonardo.stylish">leonardo.stylish</a>]
+    credits_raw: leonardo.stylish
+sections:
+  - kind: header
+    text: "からして [からして] (karashite- 2)\n    Meaning: Since; because; Consequently \n    Example: 今年の収支は赤字であるからして、来年はなんとか黒字にしよう。\n    JLPT Level: 0\n    Category: grammar\n    Author: unscathed18"
+    html: |-
+      <span>からして [からして] (karashite- 2)</span><br/>    <span><b>Meaning</b>: Since; because; Consequently </span><br/>    <b>Example</b>: <i>今年の収支は赤字であるからして、来年はなんとか黒字にしよう。</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>unscathed18</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225004324'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 108998856
+  length: 5390
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 78efbc755803e52860219544c7237f78f69e629c05859ea0c80e43eee4f7ae70

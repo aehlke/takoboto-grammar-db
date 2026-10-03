@@ -1,0 +1,323 @@
+schema_version: 2
+id: 225
+source: takoboto
+source_url: https://takoboto.jp/bunpo/225/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: に加えて
+romanized_label: nikuwaete
+alternate_forms:
+  - にくわえて
+jlpt_level: 2
+credits_raw: dc
+meaning: in addition to
+meaning_example: Well, in addition to that, he also paid for the food.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_225
+    body_text: |-
+      in addition to 
+       Well, in addition to that, he also paid for the food.
+    body_html: |-
+      <span>in addition to</span> <br/> <span>Well, in addition to that, he also paid for the food.</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_225
+    body_text: Noun+に加えて
+    body_html: |-
+      <div><div><div>Noun</div></div><div><div>+</div><div>に加えて</div></div></div>
+    credits_raw: null
+formations:
+  - Noun + に加えて
+examples:
+  - source_id: 438
+    position: 0
+    japanese: サイズ的魅力に加えて画質的なノープロブレム感もある「ペンタックス Optio S」.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b5%e3%82%a4%e3%82%ba"><span>サイズ</span></a><a href="https://takoboto.jp/?q=%e7%9a%84"><span>的</span></a><a href="https://takoboto.jp/?q=%e9%ad%85%e5%8a%9b"><span>魅力</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6"><strong>に加えて</strong></a><a href="https://takoboto.jp/?q=%e7%94%bb%e8%b3%aa%e7%9a%84%e3%81%aa%e3%83%8e%e3%83%bc%e3%83%97%e3%83%ad%e3%83%96%e3%83%ac%e3%83%a0"><span>画質的なノープロブレム</span></a><a href="https://takoboto.jp/?q=%e6%84%9f%e3%82%82%e3%81%82%e3%82%8b%e3%80%8c%e3%83%9a%e3%83%b3%e3%82%bf%e3%83%83%e3%82%af%e3%82%b9+Optio+S%e3%80%8d."><span>感もある「ペンタックス Optio S」.</span></a>
+    segments:
+      - text: サイズ的魅力
+        grammar_highlight: false
+      - text: に加えて
+        grammar_highlight: true
+      - text: 画質的なノープロブレム感もある「ペンタックス Optio S」.
+        grammar_highlight: false
+    reading: サイズてきみりょくにくわえてがしつてきなノープロブレムかんもある「」
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: |-
+          The "Pentax Optio S" : In addition to the attraction from its size, the picture quality also has a 'no problemo' feeling.
+        html: |-
+          <span>The "Pentax Optio S" : </span><strong>In addition to </strong><span>the attraction from its size, the picture quality also has a 'no problemo' feeling. </span>
+        segments:
+          - text: 'The "Pentax Optio S" : '
+            grammar_highlight: false
+          - text: 'In addition to '
+            grammar_highlight: true
+          - text: 'the attraction from its size, the picture quality also has a ''no problemo'' feeling. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5252
+    position: 1
+    japanese: わたしは　日本語に加えて英語の文法もあまり分かりません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97%e3%81%af%e3%80%80"><span>わたしは　</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e"><span>日本語</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6"><strong>に加えて</strong></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%ae"><span>英語の</span></a><a href="https://takoboto.jp/?q=%e6%96%87%e6%b3%95%e3%82%82%e3%81%82%e3%81%be%e3%82%8a"><span>文法もあまり</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>分かりません。</span></a>
+    segments:
+      - text: わたしは　日本語
+        grammar_highlight: false
+      - text: に加えて
+        grammar_highlight: true
+      - text: 英語の文法もあまり分かりません。
+        grammar_highlight: false
+    reading: わたしはにほんごにくわえてえいごのぶんぽうもあまりわかりません。
+    credits_raw: brsdjbd
+    translations:
+      - language: en
+        text: in addition to not knowing Japanese, i also don't understand English grammar
+        html: |-
+          <strong>in addition to </strong><span>not knowing Japanese, i also don't understand English grammar </span>
+        segments:
+          - text: 'in addition to '
+            grammar_highlight: true
+          - text: 'not knowing Japanese, i also don''t understand English grammar '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5268
+    position: 2
+    japanese: このことに加えて、他にもまだ理由がある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%81%93%e3%81%a8"><span>このこと</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6"><strong>に加えて</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bb%96%e3%81%ab%e3%82%82%e3%81%be%e3%81%a0"><span>他にもまだ</span></a><a href="https://takoboto.jp/?q=%e7%90%86%e7%94%b1%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>理由がある。</span></a>
+    segments:
+      - text: このこと
+        grammar_highlight: false
+      - text: に加えて
+        grammar_highlight: true
+      - text: 、他にもまだ理由がある。
+        grammar_highlight: false
+    reading: このことにくわえて、たにもまだりゆうがある。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: In addition to this, there are other reasons.
+        html: |-
+          <strong>In addition to </strong><span>this, there are other reasons. </span>
+        segments:
+          - text: 'In addition to '
+            grammar_highlight: true
+          - text: 'this, there are other reasons. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5269
+    position: 3
+    japanese: この増加に加えて、世界の経済構造の変化があった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%a2%97%e5%8a%a0"><span>増加</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6"><strong>に加えて</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%b8%96%e7%95%8c%e3%81%ae"><span>世界の</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e6%b8%88%e6%a7%8b%e9%80%a0%e3%81%ae"><span>経済構造の</span></a><a href="https://takoboto.jp/?q=%e5%a4%89%e5%8c%96%e3%81%8c%e3%81%82%e3%81%a3%e3%81%9f%e3%80%82"><span>変化があった。</span></a>
+    segments:
+      - text: この増加
+        grammar_highlight: false
+      - text: に加えて
+        grammar_highlight: true
+      - text: 、世界の経済構造の変化があった。
+        grammar_highlight: false
+    reading: このぞうかにくわえて、せかいのけいざいこうぞうのへんかがあった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Along with this increase, there has been a change in the world's economic organization.
+        html: |-
+          <strong>Along with </strong><span>this increase, there has been a change in the world's economic organization. </span>
+        segments:
+          - text: 'Along with '
+            grammar_highlight: true
+          - text: 'this increase, there has been a change in the world''s economic organization. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5270
+    position: 4
+    japanese: そのことに加えて、彼は試験に失敗した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%81%93%e3%81%a8"><span>そのこと</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6"><strong>に加えて</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%81%ab"><span>試験に</span></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e6%95%97%e3%81%97%e3%81%9f%e3%80%82"><span>失敗した。</span></a>
+    segments:
+      - text: そのこと
+        grammar_highlight: false
+      - text: に加えて
+        grammar_highlight: true
+      - text: 、彼は試験に失敗した。
+        grammar_highlight: false
+    reading: そのことにくわえて、かれはしけんにしっぱいした。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: In addition to that, he failed the examination.
+        html: |-
+          <strong>In addition to </strong><span>that, he failed the examination. </span>
+        segments:
+          - text: 'In addition to '
+            grammar_highlight: true
+          - text: 'that, he failed the examination. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5271
+    position: 5
+    japanese: イギリスに加えて、フランスもドイツからの廃棄物の持ちこみを禁止しそうだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a4%e3%82%ae%e3%83%aa%e3%82%b9"><span>イギリス</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6"><strong>に加えて</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9%e3%82%82%e3%83%89%e3%82%a4%e3%83%84%e3%81%8b%e3%82%89%e3%81%ae"><span>、フランスもドイツからの</span></a><a href="https://takoboto.jp/?q=%e5%bb%83%e6%a3%84%e7%89%a9%e3%81%ae"><span>廃棄物の</span></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a1%e3%81%93%e3%81%bf%e3%82%92"><span>持ちこみを</span></a><a href="https://takoboto.jp/?q=%e7%a6%81%e6%ad%a2%e3%81%97%e3%81%9d%e3%81%86%e3%81%a0%e3%80%82"><span>禁止しそうだ。</span></a>
+    segments:
+      - text: イギリス
+        grammar_highlight: false
+      - text: に加えて
+        grammar_highlight: true
+      - text: 、フランスもドイツからの廃棄物の持ちこみを禁止しそうだ。
+        grammar_highlight: false
+    reading: イギリスにくわえて、フランスもドイツからのはいきぶつのもちこみをきんししそうだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Together with Britain, France may ban import of waste from Germany.
+        html: |-
+          <strong>Together with </strong><span>Britain, France may ban import of waste from Germany. </span>
+        segments:
+          - text: 'Together with '
+            grammar_highlight: true
+          - text: 'Britain, France may ban import of waste from Germany. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5272
+    position: 6
+    japanese: 君が勉強した学校ではタイプに加えて常識というものを教えてもらわなかったかい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%8c"><span>君が</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%9f"><span>勉強した</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e6%a0%a1%e3%81%a7%e3%81%af"><span>学校では</span></a><a href="https://takoboto.jp/?q=%e3%82%bf%e3%82%a4%e3%83%97"><span>タイプ</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6"><strong>に加えて</strong></a><a href="https://takoboto.jp/?q=%e5%b8%b8%e8%ad%98%e3%81%a8%e3%81%84%e3%81%86%e3%82%82%e3%81%ae%e3%82%92"><span>常識というものを</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%81%a6%e3%82%82%e3%82%89%e3%82%8f%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%8b%e3%81%84%e3%80%82"><span>教えてもらわなかったかい。</span></a>
+    segments:
+      - text: 君が勉強した学校ではタイプ
+        grammar_highlight: false
+      - text: に加えて
+        grammar_highlight: true
+      - text: 常識というものを教えてもらわなかったかい。
+        grammar_highlight: false
+    reading: きみがべんきょうしたがっこうではタイプにくわえてじょうしきというものをおしえてもらわなかったかい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Didn't they teach you common sense as well as typing at the school where you studied?
+        html: |-
+          <span>Didn't they teach you common sense </span><strong>as well as </strong><span>typing at the school where you studied? </span>
+        segments:
+          - text: 'Didn''t they teach you common sense '
+            grammar_highlight: false
+          - text: 'as well as '
+            grammar_highlight: true
+          - text: 'typing at the school where you studied? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5273
+    position: 7
+    japanese: 豪邸に加えて、彼はベントレーを持っているのです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%b1%aa%e9%82%b8"><span>豪邸</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6"><strong>に加えて</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%83%99%e3%83%b3%e3%83%88%e3%83%ac%e3%83%bc%e3%82%92"><span>彼はベントレーを</span></a><a href="https://takoboto.jp/?q=%e6%8c%81%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82"><span>持っているのです。</span></a>
+    segments:
+      - text: 豪邸
+        grammar_highlight: false
+      - text: に加えて
+        grammar_highlight: true
+      - text: 、彼はベントレーを持っているのです。
+        grammar_highlight: false
+    reading: ごうていにくわえて、かれはベントレーをもっているのです。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: In addition to a mansion, he owns a Bentley.
+        html: |-
+          <strong>In addition to </strong><span>a mansion, he owns a Bentley. </span>
+        segments:
+          - text: 'In addition to '
+            grammar_highlight: true
+          - text: 'a mansion, he owns a Bentley. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5274
+    position: 8
+    japanese: 有名な物理学者であることに加えて、彼は偉大な小説家でもある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%89%e5%90%8d%e3%81%aa"><span>有名な</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e7%90%86%e5%ad%a6%e8%80%85%e3%81%a7%e3%81%82%e3%82%8b%e3%81%93%e3%81%a8"><span>物理学者であること</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6"><strong>に加えて</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%81%89%e5%a4%a7%e3%81%aa"><span>偉大な</span></a><a href="https://takoboto.jp/?q=%e5%b0%8f%e8%aa%ac%e5%ae%b6%e3%81%a7%e3%82%82%e3%81%82%e3%82%8b%e3%80%82"><span>小説家でもある。</span></a>
+    segments:
+      - text: 有名な物理学者であること
+        grammar_highlight: false
+      - text: に加えて
+        grammar_highlight: true
+      - text: 、彼は偉大な小説家でもある。
+        grammar_highlight: false
+    reading: ゆうめいなぶつりがくしゃであることにくわえて、かれはいだいなしょうせつかでもある。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: In addition to being a famous physicist, he is a great novelist.
+        html: |-
+          <strong>In addition to </strong><span>being a famous physicist, he is a great novelist. </span>
+        segments:
+          - text: 'In addition to '
+            grammar_highlight: true
+          - text: 'being a famous physicist, he is a great novelist. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8543
+    position: 9
+    japanese: 私は大学で医学生物学の勉強に加えて日本語も学ぶつもりです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e3%81%a7"><span>大学で</span></a><a href="https://takoboto.jp/?q=%e5%8c%bb%e5%ad%a6%e7%94%9f%e7%89%a9%e5%ad%a6%e3%81%ae"><span>医学生物学の</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7"><span>勉強</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6"><strong>に加えて</strong></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%82%82"><span>日本語も</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e3%81%b6%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a7%e3%81%99%e3%80%82"><span>学ぶつもりです。</span></a>
+    segments:
+      - text: 私は大学で医学生物学の勉強
+        grammar_highlight: false
+      - text: に加えて
+        grammar_highlight: true
+      - text: 日本語も学ぶつもりです。
+        grammar_highlight: false
+    reading: わたしはだいがくでいがくせいぶつがくのべんきょうにくわえてにほんごもまなぶつもりです。
+    credits_raw: pimbimsys
+    translations:
+      - language: en
+        text: I plan to study Japanese in addition to medical biology at university.
+        html: |-
+          <span>I plan to study Japanese in addition to medical biology at university. </span>
+        segments:
+          - text: 'I plan to study Japanese in addition to medical biology at university. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      ex #5274
+      小説化 ---> 小説家
+    html: |-
+      ex #5274<br/>小説化 ---&gt; 小説家
+    credits_raw: ludi
+    content_sha256: ebbc8ca07f590f55d8e95059840c6ae59b63bc5b8a14ee3f38e47a14d2f8128a
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Fixed
+    html: Fixed
+    credits_raw: teska
+    content_sha256: afd1d67f89ce5526803cf571c44d6dbd1873af87ee9864a45f959f761287e7dd
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:36:40+00:00'
+response_sha256: c934768b4a90195712e52e400f0f46df4f586c8cebcd9498601f6a28be735c56
+warnings: []

@@ -1,0 +1,58 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1777
+label: tabi, tabi ni
+title_raw: たび、たびに [たび、たびに] (tabi, tabi ni)
+title: たび、たびに
+reading: たび、たびに
+romanized_label: tabi, tabi ni
+category: grammar
+jlpt_level_original: '2'
+meaning: each time, every time whenever
+meaning_example: 'Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。   [ex #731]'
+credits_raw: raoulduke813
+source_url: http://jgram.org/pages/viewOne.php?tagE=tabi,%20tabi%20ni
+archive_url: https://web.archive.org/web/20150225003756id_/http://jgram.org/pages/viewOne.php?tagE=tabi,%20tabi%20ni
+archive_timestamp: '20150225003756'
+retrieved_at: '2026-10-03T16:10:29+00:00'
+archive_digest: NQVQGO2TBJQDCENBDXQBVP7ES2WADA3F
+response_sha256: b137015a88d42a8e0ea146cd0e93c7a5051a5411a3fa738febed901cd3b65124
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 8676
+    position: 0
+    japanese: あの日の出来事を思い出すたびに、涙を止められない。
+    body_text: "あの日の出来事を思い出すたびに、涙を止められない。\r \n\n\t\tEvery time I remember the events of that day, I cannot stop the tears."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあの日の出来事を思い出すたびに、涙を止められない。\">\n\t\t\t\tあの日の出来事を思い出すたびに、涙を止められない。\r<strong></strong><strong></strong></a> <br/>\n\t\tEvery time I remember the events of that day, I cannot stop the tears. \n\t\t<strong> </strong>"
+    credits_raw: tess4aria
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "たび、たびに [たび、たびに] (tabi, tabi ni)\n    Meaning: each time, every time whenever \n    Example: Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。   [ex #731]\n    JLPT Level: 2\n    Category: grammar\n    Author: raoulduke813"
+    html: |-
+      <span>たび、たびに [たび、たびに] (tabi, tabi ni)</span><br/>    <span><b>Meaning</b>: each time, every time whenever </span><br/>    <b>Example</b>: <i>Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。   [ex #731]</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>raoulduke813</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225003756'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 101831126
+  length: 5173
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: be822cf32e81f8c33351712c53b1ef874912af45cc77cde7897e6cd3b9465ff6

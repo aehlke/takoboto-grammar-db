@@ -1,0 +1,90 @@
+schema_version: 2
+id: 1774
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1774/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: かしら。
+romanized_label: ka shira.
+alternate_forms: []
+jlpt_level: 3
+credits_raw: american57
+meaning: I wonder if...　（A type of question mark)
+meaning_example: Is she the ikebana teacher?
+meaning_notes:
+  - language: ja
+    text: 質問に
+    html: 質問に
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1774
+    body_text: "I wonder if...　（A type of question mark) \n Is she the ikebana teacher? \n 質問に"
+    body_html: |-
+      <span>I wonder if...　（A type of question mark)</span> <br/> <span>Is she the ikebana teacher?</span> <br/> <span>質問に</span>
+    credits_raw: american57
+formations: []
+examples:
+  - source_id: 8742
+    position: 0
+    japanese: 昨夜、誰がテレビをつけたかしら。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%98%a8%e5%a4%9c%e3%80%81"><span>昨夜、</span></a><a href="https://takoboto.jp/?q=%e8%aa%b0%e3%81%8c%e3%83%86%e3%83%ac%e3%83%93%e3%82%92%e3%81%a4%e3%81%91%e3%81%9f"><span>誰がテレビをつけた</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%97%e3%82%89%e3%80%82"><strong>かしら。</strong></a>
+    segments:
+      - text: 昨夜、誰がテレビをつけた
+        grammar_highlight: false
+      - text: かしら。
+        grammar_highlight: true
+    reading: さくや、だれがテレビをつけたかしら。
+    credits_raw: ochacha
+    translations:
+      - language: en
+        text: I wonder who turned on the TV last night.
+        html: |-
+          <span>I wonder who turned on the TV last night. </span>
+        segments:
+          - text: 'I wonder who turned on the TV last night. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8743
+    position: 1
+    japanese: いくらかしら。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8f%e3%82%89"><span>いくら</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%97%e3%82%89%e3%80%82"><strong>かしら。</strong></a>
+    segments:
+      - text: いくら
+        grammar_highlight: false
+      - text: かしら。
+        grammar_highlight: true
+    reading: いくらかしら。
+    credits_raw: ochacha
+    translations:
+      - language: en
+        text: I wonder how much it is.
+        html: |-
+          <strong>I wonder </strong><span>how much it is. </span>
+        segments:
+          - text: 'I wonder '
+            grammar_highlight: true
+          - text: 'how much it is. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      A type of weak question mark. Tends to be in informal speech but unlike "kai" and "dai" can sometimes be used after "desu". Asks questions in an indirect way, so tends to be in female speech more than male speech. Nevertheless, men use it. Can be used for both yes/no questions and questions requiring more substantial answers. To a friend: "Achira ikebana no sensei ka shira." I wonder if that is the ikebana teacher over there... "Sono obi ha dou yatte somerareta ka shira." I wonder how that obi was dyed. To say "wondered" (past tense) use "ka shira to omotta."
+    html: |-
+      A type of weak question mark. Tends to be in informal speech but unlike "kai" and "dai" can sometimes be used after "desu". Asks questions in an indirect way, so tends to be in female speech more than male speech. Nevertheless, men use it. Can be used for both yes/no questions and questions requiring more substantial answers. To a friend: "Achira ikebana no sensei ka shira." I wonder if that is the ikebana teacher over there... "Sono obi ha dou yatte somerareta ka shira." I wonder how that obi was dyed. To say "wondered" (past tense) use "ka shira to omotta."
+    credits_raw: american57
+    content_sha256: 3e044cfd7622f00f1a15274b5f1577142e80a0071364ffa84657d63794ad30f8
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:35:36+00:00'
+response_sha256: b957b81c6942322addbdb1490e474488f4e6725d0be5391ed389db515048197d
+warnings: []

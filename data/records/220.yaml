@@ -1,0 +1,233 @@
+schema_version: 2
+id: 220
+source: takoboto
+source_url: https://takoboto.jp/bunpo/220/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 一方だ
+romanized_label: ippouda
+alternate_forms:
+  - いっぽうだ
+jlpt_level: 2
+credits_raw: dc
+meaning: increasing tendency
+meaning_example: the number of people with mobile phones is increasing
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_220
+    body_text: |-
+      increasing tendency 
+       the number of people with mobile phones is increasing
+    body_html: |-
+      <span>increasing tendency</span> <br/> <span>the number of people with mobile phones is increasing</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_220
+    body_text: Ｖる+一方
+    body_html: |-
+      <div><div><div>Ｖる</div></div><div><div>+</div><div>一方</div></div></div>
+    credits_raw: null
+formations:
+  - Ｖる + 一方
+examples:
+  - source_id: 206
+    position: 0
+    japanese: 携帯電話を使う人の数は増える一方です
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%90%ba%e5%b8%af%e9%9b%bb%e8%a9%b1%e3%82%92"><span>携帯電話を</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%86"><span>使う</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%ae"><span>人の</span></a><a href="https://takoboto.jp/?q=%e6%95%b0%e3%81%af"><span>数は</span></a><a href="https://takoboto.jp/?q=%e5%a2%97%e3%81%88%e3%82%8b"><span>増える</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%96%b9%e3%81%a7%e3%81%99"><strong>一方です</strong></a>
+    segments:
+      - text: 携帯電話を使う人の数は増える
+        grammar_highlight: false
+      - text: 一方です
+        grammar_highlight: true
+    reading: けいたいでんわをつかうひとのかずはふえるいっぽうです
+    credits_raw: dc
+    translations:
+      - language: en
+        text: the number of people with mobile phones is increasing.
+        html: |-
+          <span>the number of people with mobile phones </span><strong>is increasing. </strong>
+        segments:
+          - text: 'the number of people with mobile phones '
+            grammar_highlight: false
+          - text: 'is increasing. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4583
+    position: 1
+    japanese: 本屋で英語関係の本を見つけると、次々に買っていますが、読まずにいるので、溜まる一方です。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%ac%e5%b1%8b%e3%81%a7"><span>本屋で</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e9%96%a2%e4%bf%82%e3%81%ae"><span>英語関係の</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%82%92"><span>本を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%a4%e3%81%91%e3%82%8b%e3%81%a8%e3%80%81"><span>見つけると、</span></a><a href="https://takoboto.jp/?q=%e6%ac%a1%e3%80%85%e3%81%ab"><span>次々に</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%81%8c%e3%80%81"><span>買っていますが、</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%81%be%e3%81%9a%e3%81%ab%e3%81%84%e3%82%8b%e3%81%ae%e3%81%a7%e3%80%81"><span>読まずにいるので、</span></a><a href="https://takoboto.jp/?q=%e6%ba%9c%e3%81%be%e3%82%8b"><span>溜まる</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%96%b9%e3%81%a7%e3%81%99%e3%80%82"><strong>一方です。</strong></a>
+    segments:
+      - text: 本屋で英語関係の本を見つけると、次々に買っていますが、読まずにいるので、溜まる
+        grammar_highlight: false
+      - text: 一方です。
+        grammar_highlight: true
+    reading: ほんやでえいごかんけいのほんをみつけると、つぎつぎにかっていますが、よまずにいるので、たまるいっぽうです。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: |-
+          I always buy the English-language books I come across at bookstores. But since I never read them, all they do is pile up.
+        html: |-
+          <span>I always buy the English-language books I come across at bookstores. But since I never read them, all they do is pile up. </span>
+        segments:
+          - text: "I always buy the English-language books I come across at bookstores. But since I never read them, all they do is pile up. "
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4584
+    position: 2
+    japanese: 物価は上がる一方だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%89%a9%e4%be%a1%e3%81%af"><span>物価は</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e3%81%8c%e3%82%8b"><span>上がる</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%96%b9%e3%81%a0%e3%80%82"><strong>一方だ。</strong></a>
+    segments:
+      - text: 物価は上がる
+        grammar_highlight: false
+      - text: 一方だ。
+        grammar_highlight: true
+    reading: ぶっかはあがるいっぽうだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Prices go on rising.
+        html: |-
+          <span>Prices go on rising. </span>
+        segments:
+          - text: 'Prices go on rising. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7172
+    position: 3
+    japanese: 近ごろ国際交流がますますさかんになっている。外国文化の情報が増える一方だが、それは自分の国のことについて考えるきっかけにもなったいる.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%bf%91%e3%81%94%e3%82%8d"><span>近ごろ</span></a><a href="https://takoboto.jp/?q=%e5%9b%bd%e9%9a%9b%e4%ba%a4%e6%b5%81%e3%81%8c%e3%81%be%e3%81%99%e3%81%be%e3%81%99%e3%81%95%e3%81%8b%e3%82%93%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>国際交流がますますさかんになっている。</span></a><a href="https://takoboto.jp/?q=%e5%a4%96%e5%9b%bd%e6%96%87%e5%8c%96%e3%81%ae"><span>外国文化の</span></a><a href="https://takoboto.jp/?q=%e6%83%85%e5%a0%b1%e3%81%8c"><span>情報が</span></a><a href="https://takoboto.jp/?q=%e5%a2%97%e3%81%88%e3%82%8b"><span>増える</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%96%b9%e3%81%a0"><strong>一方だ</strong></a><a href="https://takoboto.jp/?q=%e3%81%8c%e3%80%81%e3%81%9d%e3%82%8c%e3%81%af"><span>が、それは</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae"><span>自分の</span></a><a href="https://takoboto.jp/?q=%e5%9b%bd%e3%81%ae%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6"><span>国のことについて</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%8b%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91%e3%81%ab%e3%82%82%e3%81%aa%e3%81%a3%e3%81%9f%e3%81%84%e3%82%8b."><span>考えるきっかけにもなったいる.</span></a>
+    segments:
+      - text: 近ごろ国際交流がますますさかんになっている。外国文化の情報が増える
+        grammar_highlight: false
+      - text: 一方だ
+        grammar_highlight: true
+      - text: が、それは自分の国のことについて考えるきっかけにもなったいる.
+        grammar_highlight: false
+    reading: ちかごろこくさいこうりゅうがますますさかんになっている。がいこくぶんかのじょうほうがふえるいっぽうだが、それはじぶんのくにのことについてかんがえるきっかけにもなったいる
+    credits_raw: sureshnihon
+    translations:
+      - language: en
+        text: |-
+          In recent times, cross-cultural exchange has been becoming more and more popular. Knowledge about foreign cultures is continuing to increase, but this also provides a chance to reflect on one's own country.
+        html: |-
+          <span>In recent times, cross-cultural exchange has been becoming more and more popular. Knowledge about foreign cultures is </span><strong>continuing </strong><span>to increase, but this also provides a chance to reflect on one's own country. </span>
+        segments:
+          - text: 'In recent times, cross-cultural exchange has been becoming more and more popular. Knowledge about foreign cultures is '
+            grammar_highlight: false
+          - text: 'continuing '
+            grammar_highlight: true
+          - text: 'to increase, but this also provides a chance to reflect on one''s own country. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7272
+    position: 4
+    japanese: アメリカに帰って以来、日本語が使えないので、忘れる一方で困っている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%ab"><span>アメリカに</span></a><a href="https://takoboto.jp/?q=%e5%b8%b0%e3%81%a3%e3%81%a6"><span>帰って</span></a><a href="https://takoboto.jp/?q=%e4%bb%a5%e6%9d%a5%e3%80%81"><span>以来、</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%8c"><span>日本語が</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%81%88%e3%81%aa%e3%81%84%e3%81%ae%e3%81%a7%e3%80%81"><span>使えないので、</span></a><a href="https://takoboto.jp/?q=%e5%bf%98%e3%82%8c%e3%82%8b"><span>忘れる</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%96%b9%e3%81%a7"><strong>一方で</strong></a><a href="https://takoboto.jp/?q=%e5%9b%b0%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>困っている。</span></a>
+    segments:
+      - text: アメリカに帰って以来、日本語が使えないので、忘れる
+        grammar_highlight: false
+      - text: 一方で
+        grammar_highlight: true
+      - text: 困っている。
+        grammar_highlight: false
+    reading: アメリカにかえっていらい、にほんごがつかえないので、わすれるいっぽうでこまっている。
+    credits_raw: vraddict
+    translations:
+      - language: en
+        text: Since returning to America I have been unable to use Japanese so I am gradually forgetting it.
+        html: |-
+          <span>Since returning to America I have been unable to use Japanese so I am </span><strong>gradually </strong><span>forgetting it. </span>
+        segments:
+          - text: 'Since returning to America I have been unable to use Japanese so I am '
+            grammar_highlight: false
+          - text: 'gradually '
+            grammar_highlight: true
+          - text: 'forgetting it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8188
+    position: 5
+    japanese: 彼の体重は増える一方だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e4%bd%93%e9%87%8d%e3%81%af"><span>体重は</span></a><a href="https://takoboto.jp/?q=%e5%a2%97%e3%81%88%e3%82%8b"><span>増える</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e6%96%b9%e3%81%a0"><strong>一方だ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 彼の体重は増える
+        grammar_highlight: false
+      - text: 一方だ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: かれのたいじゅうはふえるいっぽうだ。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: His weight increases steadily.
+        html: |-
+          <span>His weight increases steadily. </span>
+        segments:
+          - text: 'His weight increases steadily. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: This expresses the tendency for somethign to continue to increase in number, frequency, or prevelance.
+    html: This expresses the tendency for somethign to continue to increase in number, frequency, or prevelance.
+    credits_raw: vraddict
+    content_sha256: 6ceda3f9af9dd00ab97b21aa6cf9e28e1fff4b93e38c45aa173cc5fe83547926
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Appears at the end of a sentence (unlike the other "ippou"s). Often appears with naru/fueru/heru/agaru...or other verbs showing increases/decreases.
+    html: |-
+      Appears at the end of a sentence (unlike the other "ippou"s). Often appears with naru/fueru/heru/agaru...or other verbs showing increases/decreases.
+    credits_raw: lucinda lohmanoota
+    content_sha256: 5e6f568b169b7b5c326872de255eccb1e19d4e1ceaa2d58d198759324f3c4d73
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: It's a bit stronger than that I think. Implies it's "up all the way" "no sign of slowing / switching direction" etc.
+    html: It's a bit stronger than that I think. Implies it's "up all the way" "no sign of slowing / switching direction" etc.
+    credits_raw: Amatuka
+    content_sha256: c2eb5bcb27a22755543ff3177fb09b4e530ddbf1fc0160480cd117e4bde52944
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: is the usage always vb(る）+一方？
+    html: is the usage always vb(る）+一方？
+    credits_raw: EvilKyra
+    content_sha256: dd2a5400d694cdb367f1ad8e9df354dab392e910a3efff8e0b9002c5aef087a6
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: It's always used with dictionary form. And used with the verbs which express change.
+    html: It's always used with dictionary form. And used with the verbs which express change.
+    credits_raw: Srishti
+    content_sha256: 5d3815ac8cfee23953976ddc0806eeeb02b6d372c5d71558ad3db53ae9f08486
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:38:56+00:00'
+response_sha256: 99e6722e4d0b1e36605daebd511e957799910648442cb492f98591a65e3b6b37
+warnings: []

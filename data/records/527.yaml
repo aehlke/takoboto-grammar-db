@@ -1,0 +1,717 @@
+schema_version: 2
+id: 527
+source: takoboto
+source_url: https://takoboto.jp/bunpo/527/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: に於いて
+romanized_label: nioite
+alternate_forms:
+  - において
+jlpt_level: 2
+credits_raw: dc
+meaning: at/on/in this case
+meaning_example: in london
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_527
+    body_text: |-
+      at/on/in this case 
+       in london
+    body_html: |-
+      <span>at/on/in this case</span> <br/> <span>in london</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 5098
+    position: 0
+    japanese: この場合において、乙は改変部分に関する著作権等の権利主張を行なわない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%a0%b4%e5%90%88"><span>場合</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%b9%99%e3%81%af"><span>乙は</span></a><a href="https://takoboto.jp/?q=%e6%94%b9%e5%a4%89%e9%83%a8%e5%88%86%e3%81%ab"><span>改変部分に</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e3%81%99%e3%82%8b"><span>関する</span></a><a href="https://takoboto.jp/?q=%e8%91%97%e4%bd%9c%e6%a8%a9%e7%ad%89%e3%81%ae"><span>著作権等の</span></a><a href="https://takoboto.jp/?q=%e6%a8%a9%e5%88%a9%e4%b8%bb%e5%bc%b5%e3%82%92"><span>権利主張を</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%aa%e3%82%8f%e3%81%aa%e3%81%84%e3%80%82"><span>行なわない。</span></a>
+    segments:
+      - text: この場合
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 、乙は改変部分に関する著作権等の権利主張を行なわない。
+        grammar_highlight: false
+    reading: このばあいにおいて、おつはかいへんぶぶんにかんするちょさくけんとうのけんりしゅちょうをおこなわない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: In this case, Party A will not insist on retaining copyright of the part that is changed
+        html: |-
+          <span>In this case, Party A will not insist on retaining copyright of the part that is changed </span>
+        segments:
+          - text: 'In this case, Party A will not insist on retaining copyright of the part that is changed '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5099
+    position: 1
+    japanese: 英語は商業において役に立つ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%af"><span>英語は</span></a><a href="https://takoboto.jp/?q=%e5%95%86%e6%a5%ad"><span>商業</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e5%bd%b9%e3%81%ab"><span>役に</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e3%81%a4%e3%80%82"><span>立つ。</span></a>
+    segments:
+      - text: 英語は商業
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 役に立つ。
+        grammar_highlight: false
+    reading: えいごはしょうぎょうにおいてやくにたつ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: English is useful in commerce.
+        html: |-
+          <span>English is useful in commerce. </span>
+        segments:
+          - text: 'English is useful in commerce. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5100
+    position: 2
+    japanese: 科学技術において、大きな革命が起こった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%91%e5%ad%a6%e6%8a%80%e8%a1%93"><span>科学技術</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e3%81%8d%e3%81%aa"><span>大きな</span></a><a href="https://takoboto.jp/?q=%e9%9d%a9%e5%91%bd%e3%81%8c"><span>革命が</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%93%e3%81%a3%e3%81%9f%e3%80%82"><span>起こった。</span></a>
+    segments:
+      - text: 科学技術
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 、大きな革命が起こった。
+        grammar_highlight: false
+    reading: かがくぎじゅつにおいて、おおきなかくめいがおこった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: A great revolution has taken place in technology.
+        html: |-
+          <span>A great revolution has taken place in technology. </span>
+        segments:
+          - text: 'A great revolution has taken place in technology. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5101
+    position: 3
+    japanese: 科学技術において革命が起きた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%91%e5%ad%a6%e6%8a%80%e8%a1%93"><span>科学技術</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e9%9d%a9%e5%91%bd%e3%81%8c"><span>革命が</span></a><a href="https://takoboto.jp/?q=%e8%b5%b7%e3%81%8d%e3%81%9f%e3%80%82"><span>起きた。</span></a>
+    segments:
+      - text: 科学技術
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 革命が起きた。
+        grammar_highlight: false
+    reading: かがくぎじゅつにおいてかくめいがおきた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: A revolution has occurred in technology.
+        html: |-
+          <span>A revolution has occurred in technology. </span>
+        segments:
+          - text: 'A revolution has occurred in technology. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5102
+    position: 4
+    japanese: 過去において高齢者たちは人生の様々な問題を解決するときのエキスパートと考えられていた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%81%8e%e5%8e%bb"><span>過去</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e9%ab%98%e9%bd%a2%e8%80%85%e3%81%9f%e3%81%a1%e3%81%af"><span>高齢者たちは</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e7%94%9f%e3%81%ae"><span>人生の</span></a><a href="https://takoboto.jp/?q=%e6%a7%98%e3%80%85%e3%81%aa"><span>様々な</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%82%92"><span>問題を</span></a><a href="https://takoboto.jp/?q=%e8%a7%a3%e6%b1%ba%e3%81%99%e3%82%8b%e3%81%a8%e3%81%8d%e3%81%ae%e3%82%a8%e3%82%ad%e3%82%b9%e3%83%91%e3%83%bc%e3%83%88%e3%81%a8"><span>解決するときのエキスパートと</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%89%e3%82%8c%e3%81%a6%e3%81%84%e3%81%9f%e3%80%82"><span>考えられていた。</span></a>
+    segments:
+      - text: 過去
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 高齢者たちは人生の様々な問題を解決するときのエキスパートと考えられていた。
+        grammar_highlight: false
+    reading: かこにおいてこうれいしゃたちはじんせいのさまざまなもんだいをかいけつするときのエキスパートとかんがえられていた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: In the past, the old used to be looked upon as experts in solving various problems of life.
+        html: |-
+          <span>In the past, the old used to be looked upon as experts in solving various problems of life. </span>
+        segments:
+          - text: 'In the past, the old used to be looked upon as experts in solving various problems of life. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5103
+    position: 5
+    japanese: 過去において女性は他の選択の余地はほとんどなかった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%81%8e%e5%8e%bb"><span>過去</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e5%a5%b3%e6%80%a7%e3%81%af"><span>女性は</span></a><a href="https://takoboto.jp/?q=%e4%bb%96%e3%81%ae"><span>他の</span></a><a href="https://takoboto.jp/?q=%e9%81%b8%e6%8a%9e%e3%81%ae"><span>選択の</span></a><a href="https://takoboto.jp/?q=%e4%bd%99%e5%9c%b0%e3%81%af%e3%81%bb%e3%81%a8%e3%82%93%e3%81%a9%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>余地はほとんどなかった。</span></a>
+    segments:
+      - text: 過去
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 女性は他の選択の余地はほとんどなかった。
+        grammar_highlight: false
+    reading: かこにおいてじょせいはたのせんたくのよちはほとんどなかった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Women had little choice in the past.
+        html: |-
+          <span>Women had little choice in the past. </span>
+        segments:
+          - text: 'Women had little choice in the past. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5104
+    position: 6
+    japanese: 概して、トムはやることほとんど全てにおいてのんびりした人間だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%a6%82%e3%81%97%e3%81%a6%e3%80%81%e3%83%88%e3%83%a0%e3%81%af%e3%82%84%e3%82%8b%e3%81%93%e3%81%a8%e3%81%bb%e3%81%a8%e3%82%93%e3%81%a9"><span>概して、トムはやることほとんど</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e3%81%a6"><span>全て</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%82%93%e3%81%b3%e3%82%8a%e3%81%97%e3%81%9f"><span>のんびりした</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e9%96%93%e3%81%a0%e3%80%82"><span>人間だ。</span></a>
+    segments:
+      - text: 概して、トムはやることほとんど全て
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: のんびりした人間だ。
+        grammar_highlight: false
+    reading: がいして、トムはやることほとんどすべてにおいてのんびりしたにんげんだ。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: By and large, Tom is an easy going person in almost everything he does.
+        html: |-
+          <span>By and large, Tom is an easy going person in almost everything he does. </span>
+        segments:
+          - text: 'By and large, Tom is an easy going person in almost everything he does. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5105
+    position: 7
+    japanese: 気候の違いのため、同種の穀物が国の北部、東部においては収穫されていない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%b0%97%e5%80%99%e3%81%ae"><span>気候の</span></a><a href="https://takoboto.jp/?q=%e9%81%95%e3%81%84%e3%81%ae%e3%81%9f%e3%82%81%e3%80%81"><span>違いのため、</span></a><a href="https://takoboto.jp/?q=%e5%90%8c%e7%a8%ae%e3%81%ae"><span>同種の</span></a><a href="https://takoboto.jp/?q=%e7%a9%80%e7%89%a9%e3%81%8c"><span>穀物が</span></a><a href="https://takoboto.jp/?q=%e5%9b%bd%e3%81%ae"><span>国の</span></a><a href="https://takoboto.jp/?q=%e5%8c%97%e9%83%a8%e3%80%81"><span>北部、</span></a><a href="https://takoboto.jp/?q=%e6%9d%b1%e9%83%a8"><span>東部</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%81%af"><span>は</span></a><a href="https://takoboto.jp/?q=%e5%8f%8e%e7%a9%ab%e3%81%95%e3%82%8c%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>収穫されていない。</span></a>
+    segments:
+      - text: 気候の違いのため、同種の穀物が国の北部、東部
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: は収穫されていない。
+        grammar_highlight: false
+    reading: きこうのちがいのため、どうしゅのこくもつがくにのほくぶ、とうぶにおいてはしゅうかくされていない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Because of the difference in climate, the same crop is not cultivated in the North and East of the country.
+        html: |-
+          <span>Because of the difference in climate, the same crop is not cultivated in the North and East of the country. </span>
+        segments:
+          - text: 'Because of the difference in climate, the same crop is not cultivated in the North and East of the country. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5106
+    position: 8
+    japanese: 教育において試験が大きな役割を果たしている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%95%99%e8%82%b2"><span>教育</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e8%a9%a6%e9%a8%93%e3%81%8c"><span>試験が</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e3%81%8d%e3%81%aa"><span>大きな</span></a><a href="https://takoboto.jp/?q=%e5%bd%b9%e5%89%b2%e3%82%92"><span>役割を</span></a><a href="https://takoboto.jp/?q=%e6%9e%9c%e3%81%9f%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>果たしている。</span></a>
+    segments:
+      - text: 教育
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 試験が大きな役割を果たしている。
+        grammar_highlight: false
+    reading: きょういくにおいてしけんがおおきなやくわりをはたしている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Examinations play a large part in education.
+        html: |-
+          <span>Examinations play a large part in education. </span>
+        segments:
+          - text: 'Examinations play a large part in education. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5107
+    position: 9
+    japanese: 極端に走ってはいけない。適度であることは何ごとにおいても大切である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%a5%b5%e7%ab%af%e3%81%ab"><span>極端に</span></a><a href="https://takoboto.jp/?q=%e8%b5%b0%e3%81%a3%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%e3%80%82"><span>走ってはいけない。</span></a><a href="https://takoboto.jp/?q=%e9%81%a9%e5%ba%a6%e3%81%a7%e3%81%82%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af"><span>適度であることは</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%94%e3%81%a8"><span>何ごと</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%82%82"><span>も</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%88%87%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>大切である。</span></a>
+    segments:
+      - text: 極端に走ってはいけない。適度であることは何ごと
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: も大切である。
+        grammar_highlight: false
+    reading: きょくたんにはしってはいけない。てきどであることはなにごとにおいてもたいせつである。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Don't go to extremes. To be moderate is important in anything.
+        html: |-
+          <span>Don't go to extremes. To be moderate is important </span><strong>in </strong><span>anything. </span>
+        segments:
+          - text: 'Don''t go to extremes. To be moderate is important '
+            grammar_highlight: false
+          - text: 'in '
+            grammar_highlight: true
+          - text: 'anything. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5108
+    position: 10
+    japanese: 空気の質は過去数年において悪化した。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a9%ba%e6%b0%97%e3%81%ae"><span>空気の</span></a><a href="https://takoboto.jp/?q=%e8%b3%aa%e3%81%af"><span>質は</span></a><a href="https://takoboto.jp/?q=%e9%81%8e%e5%8e%bb%e6%95%b0%e5%b9%b4"><span>過去数年</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e6%82%aa%e5%8c%96%e3%81%97%e3%81%9f%e3%80%82"><span>悪化した。</span></a>
+    segments:
+      - text: 空気の質は過去数年
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 悪化した。
+        grammar_highlight: false
+    reading: くうきのしつはかこすうねんにおいてあっかした。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The air quality has deteriorated these past few years.
+        html: |-
+          <span>The air quality has deteriorated these past few years. </span>
+        segments:
+          - text: 'The air quality has deteriorated these past few years. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5109
+    position: 11
+    japanese: 私の責任においてこの計画を進めます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e8%b2%ac%e4%bb%bb"><span>責任</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%82%92"><span>計画を</span></a><a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%81%e3%81%be%e3%81%99%e3%80%82"><span>進めます。</span></a>
+    segments:
+      - text: 私の責任
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: この計画を進めます。
+        grammar_highlight: false
+    reading: わたしのせきにんにおいてこのけいかくをすすめます。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: On my own responsibility, I will go on with this plan.
+        html: |-
+          <span>On my own responsibility, I will go on with this plan. </span>
+        segments:
+          - text: 'On my own responsibility, I will go on with this plan. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5110
+    position: 12
+    japanese: 私の知る限りにおいては、湖はここが一番深い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%8b"><span>知る</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%8a"><span>限り</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%80%81"><span>は、</span></a><a href="https://takoboto.jp/?q=%e6%b9%96%e3%81%af%e3%81%93%e3%81%93%e3%81%8c"><span>湖はここが</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e7%95%aa%e6%b7%b1%e3%81%84%e3%80%82"><span>一番深い。</span></a>
+    segments:
+      - text: 私の知る限り
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: は、湖はここが一番深い。
+        grammar_highlight: false
+    reading: わたしのしるかぎりにおいては、みずうみはここがいちばんふかい。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The lake is deepest here in so far as I know.
+        html: |-
+          <span>The lake is deepest here in so far as I know. </span>
+        segments:
+          - text: 'The lake is deepest here in so far as I know. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5111
+    position: 13
+    japanese: 私はみな、人生において成功を収めようとするが、成功するのは、きわめて数少ない人たちである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%bf%e3%81%aa%e3%80%81"><span>私はみな、</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e7%94%9f"><span>人生</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%82%92"><span>成功を</span></a><a href="https://takoboto.jp/?q=%e5%8f%8e%e3%82%81%e3%82%88%e3%81%86%e3%81%a8%e3%81%99%e3%82%8b%e3%81%8c%e3%80%81"><span>収めようとするが、</span></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%99%e3%82%8b%e3%81%ae%e3%81%af%e3%80%81%e3%81%8d%e3%82%8f%e3%82%81%e3%81%a6"><span>成功するのは、きわめて</span></a><a href="https://takoboto.jp/?q=%e6%95%b0%e5%b0%91%e3%81%aa%e3%81%84"><span>数少ない</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%9f%e3%81%a1%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>人たちである。</span></a>
+    segments:
+      - text: 私はみな、人生
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 成功を収めようとするが、成功するのは、きわめて数少ない人たちである。
+        grammar_highlight: false
+    reading: わたしはみな、じんせいにおいてせいこうをおさめようとするが、せいこうするのは、きわめてかずすくないひとたちである。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: We all try hard to make the grade in life, but only a few succeed.
+        html: |-
+          <span>We all try hard to make the grade in life, but only a few succeed. </span>
+        segments:
+          - text: 'We all try hard to make the grade in life, but only a few succeed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5112
+    position: 14
+    japanese: 試みはだいたいにおいて失敗だった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%a9%a6%e3%81%bf%e3%81%af%e3%81%a0%e3%81%84%e3%81%9f%e3%81%84"><span>試みはだいたい</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e6%95%97%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>失敗だった。</span></a>
+    segments:
+      - text: 試みはだいたい
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 失敗だった。
+        grammar_highlight: false
+    reading: こころみはだいたいにおいてしっぱいだった。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The attempts were for the most part unsuccessful.
+        html: |-
+          <span>The attempts were for the most part unsuccessful. </span>
+        segments:
+          - text: 'The attempts were for the most part unsuccessful. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5113
+    position: 15
+    japanese: 自分の責任において何でも行いなさい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae"><span>自分の</span></a><a href="https://takoboto.jp/?q=%e8%b2%ac%e4%bb%bb"><span>責任</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%a7%e3%82%82"><span>何でも</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%84%e3%81%aa%e3%81%95%e3%81%84%e3%80%82"><span>行いなさい。</span></a>
+    segments:
+      - text: 自分の責任
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 何でも行いなさい。
+        grammar_highlight: false
+    reading: じぶんのせきにんにおいてなにでもおこないなさい。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Do everything at your own risk.
+        html: |-
+          <span>Do everything </span><strong>at </strong><span>your own risk. </span>
+        segments:
+          - text: 'Do everything '
+            grammar_highlight: false
+          - text: 'at '
+            grammar_highlight: true
+          - text: 'your own risk. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5114
+    position: 16
+    japanese: 自由社会においては個人の権利は重要である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%87%aa%e7%94%b1%e7%a4%be%e4%bc%9a"><span>自由社会</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%81%af"><span>は</span></a><a href="https://takoboto.jp/?q=%e5%80%8b%e4%ba%ba%e3%81%ae"><span>個人の</span></a><a href="https://takoboto.jp/?q=%e6%a8%a9%e5%88%a9%e3%81%af"><span>権利は</span></a><a href="https://takoboto.jp/?q=%e9%87%8d%e8%a6%81%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>重要である。</span></a>
+    segments:
+      - text: 自由社会
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: は個人の権利は重要である。
+        grammar_highlight: false
+    reading: じゆうしゃかいにおいてはこじんのけんりはじゅうようである。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The rights of the individual are important in a free society.
+        html: |-
+          <span>The rights of the individual are important in a free society. </span>
+        segments:
+          - text: 'The rights of the individual are important in a free society. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5115
+    position: 17
+    japanese: 実質上、我々が関わるすべての活動において、学習が行われるのだろう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%ae%9f%e8%b3%aa%e4%b8%8a%e3%80%81"><span>実質上、</span></a><a href="https://takoboto.jp/?q=%e6%88%91%e3%80%85%e3%81%8c"><span>我々が</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e3%82%8f%e3%82%8b%e3%81%99%e3%81%b9%e3%81%a6%e3%81%ae"><span>関わるすべての</span></a><a href="https://takoboto.jp/?q=%e6%b4%bb%e5%8b%95"><span>活動</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%ad%a6%e7%bf%92%e3%81%8c"><span>学習が</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%82%8f%e3%82%8c%e3%82%8b%e3%81%ae%e3%81%a0%e3%82%8d%e3%81%86%e3%80%82"><span>行われるのだろう。</span></a>
+    segments:
+      - text: 実質上、我々が関わるすべての活動
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 、学習が行われるのだろう。
+        grammar_highlight: false
+    reading: じっしつじょう、われわれがかかわるすべてのかつどうにおいて、がくしゅうがおこなわれるのだろう。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Learning probably takes place in virtually every activity in which we take part.
+        html: |-
+          <span>Learning probably takes place in virtually every activity in which we take part. </span>
+        segments:
+          - text: 'Learning probably takes place in virtually every activity in which we take part. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5116
+    position: 18
+    japanese: 郵便局に何度も足を運ばなくてもよいように切手を沢山手元においてある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%83%b5%e4%be%bf%e5%b1%80%e3%81%ab"><span>郵便局に</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e5%ba%a6%e3%82%82"><span>何度も</span></a><a href="https://takoboto.jp/?q=%e8%b6%b3%e3%82%92"><span>足を</span></a><a href="https://takoboto.jp/?q=%e9%81%8b%e3%81%b0%e3%81%aa%e3%81%8f%e3%81%a6%e3%82%82%e3%82%88%e3%81%84%e3%82%88%e3%81%86%e3%81%ab"><span>運ばなくてもよいように</span></a><a href="https://takoboto.jp/?q=%e5%88%87%e6%89%8b%e3%82%92"><span>切手を</span></a><a href="https://takoboto.jp/?q=%e6%b2%a2%e5%b1%b1%e6%89%8b%e5%85%83"><span>沢山手元</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%82%8b%e3%80%82"><span>ある。</span></a>
+    segments:
+      - text: 郵便局に何度も足を運ばなくてもよいように切手を沢山手元
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: ある。
+        grammar_highlight: false
+    reading: ゆうびんきょくになんどもあしをはこばなくてもよいようにきってをたくさんてもとにおいてある。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I keep a good supply of stamps to save trips to the post office.
+        html: |-
+          <span>I keep a good supply of stamps to save trips to the post office. </span>
+        segments:
+          - text: 'I keep a good supply of stamps to save trips to the post office. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5117
+    position: 19
+    japanese: 恋と戦争においてはすべてが正当である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%81%8b%e3%81%a8"><span>恋と</span></a><a href="https://takoboto.jp/?q=%e6%88%a6%e4%ba%89"><span>戦争</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%81%99%e3%81%b9%e3%81%a6%e3%81%8c"><span>はすべてが</span></a><a href="https://takoboto.jp/?q=%e6%ad%a3%e5%bd%93%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>正当である。</span></a>
+    segments:
+      - text: 恋と戦争
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: はすべてが正当である。
+        grammar_highlight: false
+    reading: こいとせんそうにおいてはすべてがせいとうである。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: All's fair in love and war.
+        html: |-
+          <span>All's fair in love and war. </span>
+        segments:
+          - text: 'All''s fair in love and war. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8339
+    position: 20
+    japanese: アメリカは宇宙技術において進んでいる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%81%af"><span>アメリカは</span></a><a href="https://takoboto.jp/?q=%e5%ae%87%e5%ae%99%e6%8a%80%e8%a1%93"><span>宇宙技術</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e9%80%b2%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b%e3%80%82"><span>進んでいる。</span></a>
+    segments:
+      - text: アメリカは宇宙技術
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: 進んでいる。
+        grammar_highlight: false
+    reading: アメリカはうちゅうぎじゅつにおいてすすんでいる。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: America is ahead in space technology.
+        html: |-
+          <span>America is ahead </span><strong>in </strong><span>space technology. </span>
+        segments:
+          - text: 'America is ahead '
+            grammar_highlight: false
+          - text: 'in '
+            grammar_highlight: true
+          - text: 'space technology. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6758
+    position: 21
+    japanese: 当時においては、海外旅行など夢のようなことだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%93%e6%99%82"><span>当時</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%81%af%e3%80%81"><span>は、</span></a><a href="https://takoboto.jp/?q=%e6%b5%b7%e5%a4%96%e6%97%85%e8%a1%8c%e3%81%aa%e3%81%a9"><span>海外旅行など</span></a><a href="https://takoboto.jp/?q=%e5%a4%a2%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e3%81%93%e3%81%a8%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>夢のようなことだった。</span></a>
+    segments:
+      - text: 当時
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: は、海外旅行など夢のようなことだった。
+        grammar_highlight: false
+    reading: とうじにおいては、かいがいりょこうなどゆめのようなことだった。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: In those days , overseas journey and the like where really like dreams.
+        html: |-
+          <strong>In </strong><span>those days </span><span>, overseas journey and the like where really like dreams. </span>
+        segments:
+          - text: 'In '
+            grammar_highlight: true
+          - text: 'those days , overseas journey and the like where really like dreams. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6759
+    position: 22
+    japanese: 最近は職場だけではなく家庭においてもパャRンが使われている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%80%e8%bf%91%e3%81%af"><span>最近は</span></a><a href="https://takoboto.jp/?q=%e8%81%b7%e5%a0%b4%e3%81%a0%e3%81%91%e3%81%a7%e3%81%af%e3%81%aa%e3%81%8f"><span>職場だけではなく</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e5%ba%ad"><span>家庭</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6"><strong>において</strong></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%83%91%e3%83%a3R%e3%83%b3%e3%81%8c"><span>もパャRンが</span></a><a href="https://takoboto.jp/?q=%e4%bd%bf%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>使われている。</span></a>
+    segments:
+      - text: 最近は職場だけではなく家庭
+        grammar_highlight: false
+      - text: において
+        grammar_highlight: true
+      - text: もパャRンが使われている。
+        grammar_highlight: false
+    reading: さいきんはしょくばだけではなくかていにおいてもンがつかわれている。
+    credits_raw: 赤毛
+    translations:
+      - language: en
+        text: Nowadays personal computer is used not only at workplace, but also at home .
+        html: |-
+          <span>Nowadays personal computer is used not only at workplace, but also </span><strong>at </strong><span>home </span><span>. </span>
+        segments:
+          - text: 'Nowadays personal computer is used not only at workplace, but also '
+            grammar_highlight: false
+          - text: 'at '
+            grammar_highlight: true
+          - text: 'home . '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: used to relate to circumstances. Often used with 場合
+    html: used to relate to circumstances. Often used with 場合
+    credits_raw: dc
+    content_sha256: 675fa85849c7aef91543de5ee82b55f31af3183d419cd2916499fa1dc67239e3
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: I think this should be deleted as it is the same as [niokeru] じゃないか？
+    html: I think this should be deleted as it is the same as [niokeru] じゃないか？
+    credits_raw: dc
+    content_sha256: 5765d336d459c0324b7fee7c704b7e79ad688855f6b06f62da5fb09f13b97874
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      They originally consist of ni + oku. Usage are slightly different. So the same entry would be easier to understand the difference.
+    html: |-
+      They originally consist of ni + oku. Usage are slightly different. So the same entry would be easier to understand the difference.
+    credits_raw: anon
+    content_sha256: 1318abc5c76771368e6e7a9841d68dc22b3cc1d3e033a5b7fe2cb402b5db7ba5
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: also written as における
+    html: also written as における
+    credits_raw: dc
+    content_sha256: 69acfd775c16dc9a84f5616c05c9c212ccfbbbaeedc46c8cf686d9eeb77b4c3b
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: The sample is ok.
+    html: The sample is ok.
+    credits_raw: Miki
+    content_sha256: a25b51f1b3a1941573f9617722ea19f6f9f6dc8b036a7e728f0fe28d4452b010
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      i think this is different from [niokeru], which can also be shortened to nioite. 
+      における is at a physical place. This nioite relates more to an abstract place/situation. similar, but different?
+    html: |-
+      i think this is different from [niokeru], which can also be shortened to nioite. <br/>における is at a physical place. This nioite relates more to an abstract place/situation. similar, but different?
+    credits_raw: dc
+    content_sha256: 34d039706647389cbef4629d825fcb9abdbbbfbea8c691901825c3684bbb96b1
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: '#5116 is out of place when compaed with the rest of the examples.'
+    html: '#5116 is out of place when compaed with the rest of the examples.'
+    credits_raw: bamboo4
+    content_sha256: be9ceea16e853fe0f1c1b1f2e021424c9fa72ecf3395f02ec725cad6e49bbcbd
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: How about the translation 'regarding'? This seems to fit most cases better than the suggestions given at the top.
+    html: How about the translation 'regarding'? This seems to fit most cases better than the suggestions given at the top.
+    credits_raw: danielredgate
+    content_sha256: ea40f18e6fa4d37b8e3e7d6888b16b3b560b79beaa25fce684b2fcf7b5212498
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: Please help me to understand the difference between nioite and niokeru.
+    html: Please help me to understand the difference between nioite and niokeru.
+    credits_raw: SB
+    content_sha256: 5e864bc901ad9362f17459297c278da3b7f5dc8b08c09c8be6864500a5196909
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      それは私の人生における、最良の日であった。
+      会議は第一会議室において、行われる。
+    html: |-
+      それは私の人生における、最良の日であった。<br/>会議は第一会議室において、行われる。
+    credits_raw: ashishjoshi
+    content_sha256: c8e153d0e2e921015d88ce758c3bd02d37e62bff1b84c5dd6c2b95b20afdbd57
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: Are "ni oite" and "ni totte" synonymous? It seems like there are instances where the meanings overlap.
+    html: Are "ni oite" and "ni totte" synonymous? It seems like there are instances where the meanings overlap.
+    credits_raw: Apollo_Lycos
+    content_sha256: ad5b14f52d4248ec7cd62a0091cb6aa4e4f37941d675d8624cf9442234959573
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      Ni oite = in (this context/ubication) ~
+      Ni totte = for (this subgroup of people) X applies.
+    html: |-
+      Ni oite = in (this context/ubication) ~<br/>Ni totte = for (this subgroup of people) X applies.
+    credits_raw: DrJones
+    content_sha256: a52dc544310243413745f379479bbe4ec40dc1661623d486ed4609f8ed50dd39
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1491
+    label: 〜をおいて (を措いて)
+    source_url: https://takoboto.jp/bunpo/1491
+  - target_id: 1322
+    label: にあって
+    source_url: https://takoboto.jp/bunpo/1322
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:40:56+00:00'
+response_sha256: fc91b249cd228690f0b5ec9708ce305a84a79b70928c3722f6b35b66130ce79b
+warnings: []

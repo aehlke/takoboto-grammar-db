@@ -1,0 +1,430 @@
+schema_version: 2
+id: 1273
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1273/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ことだ
+romanized_label: kotoda
+alternate_forms: []
+jlpt_level: 2
+credits_raw: dc
+meaning: should
+meaning_example: you should read it
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1273
+    body_text: |-
+      should 
+       you should read it
+    body_html: |-
+      <span>should</span> <br/> <span>you should read it</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 5489
+    position: 0
+    japanese: あなたはこれをよむことだ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%81%93%e3%82%8c%e3%82%92"><span>あなたはこれを</span></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%82%80"><span>よむ</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0"><strong>ことだ</strong></a>
+    segments:
+      - text: あなたはこれをよむ
+        grammar_highlight: false
+      - text: ことだ
+        grammar_highlight: true
+    reading: あなたはこれをよむことだ
+    credits_raw: Xephyer
+    translations:
+      - language: en
+        text: You should read this.
+        html: |-
+          <span>You </span><strong>should </strong><span>read this. </span>
+        segments:
+          - text: 'You '
+            grammar_highlight: false
+          - text: 'should '
+            grammar_highlight: true
+          - text: 'read this. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 250
+    position: 1
+    japanese: 自由とは人に迷惑をかけないことだと言ったＪ.Ｓ.ミル
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%87%aa%e7%94%b1%e3%81%a8%e3%81%af"><span>自由とは</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%ab"><span>人に</span></a><a href="https://takoboto.jp/?q=%e8%bf%b7%e6%83%91%e3%82%92%e3%81%8b%e3%81%91%e3%81%aa%e3%81%84"><span>迷惑をかけない</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0"><strong>ことだ</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8"><span>と</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%9f"><span>言った</span></a><a href="https://takoboto.jp/?q=%ef%bc%aa."><span>Ｊ.</span></a><a href="https://takoboto.jp/?q=%ef%bc%b3.%e3%83%9f%e3%83%ab"><span>Ｓ.ミル</span></a>
+    segments:
+      - text: 自由とは人に迷惑をかけない
+        grammar_highlight: false
+      - text: ことだ
+        grammar_highlight: true
+      - text: と言ったＪ.Ｓ.ミル
+        grammar_highlight: false
+    reading: じゆうとはひとにめいわくをかけないことだといったじぇいえすミル
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: J.S. Mill, who said. "Freedom is not to be used to trouble other people."
+        html: |-
+          <span>J.S. Mill, who said. "Freedom is not to be used to trouble other people." </span>
+        segments:
+          - text: 'J.S. Mill, who said. "Freedom is not to be used to trouble other people." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1008
+    position: 2
+    japanese: 大学に入りたければ一生懸命勉強することだ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e3%81%ab"><span>大学に</span></a><a href="https://takoboto.jp/?q=%e5%85%a5%e3%82%8a%e3%81%9f%e3%81%91%e3%82%8c%e3%81%b0"><span>入りたければ</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e7%94%9f%e6%87%b8%e5%91%bd"><span>一生懸命</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%99%e3%82%8b"><span>勉強する</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0"><strong>ことだ</strong></a>
+    segments:
+      - text: 大学に入りたければ一生懸命勉強する
+        grammar_highlight: false
+      - text: ことだ
+        grammar_highlight: true
+    reading: だいがくにはいりたければいっしょうけんめいべんきょうすることだ
+    credits_raw: d4, dc
+    translations:
+      - language: en
+        text: if you want to go to college, you should study as hard as you can.
+        html: |-
+          <span>if you want to go to college, </span><strong>you should study </strong><span>as hard as you can. </span>
+        segments:
+          - text: 'if you want to go to college, '
+            grammar_highlight: false
+          - text: 'you should study '
+            grammar_highlight: true
+          - text: 'as hard as you can. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1009
+    position: 3
+    japanese: 風邪気味なら、早く寝ることだ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%a2%a8%e9%82%aa%e6%b0%97%e5%91%b3%e3%81%aa%e3%82%89%e3%80%81"><span>風邪気味なら、</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e3%81%8f"><span>早く</span></a><a href="https://takoboto.jp/?q=%e5%af%9d%e3%82%8b"><span>寝る</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0"><strong>ことだ</strong></a>
+    segments:
+      - text: 風邪気味なら、早く寝る
+        grammar_highlight: false
+      - text: ことだ
+        grammar_highlight: true
+    reading: かぜぎみなら、はやくねることだ
+    credits_raw: d4
+    translations:
+      - language: en
+        text: if you feel like you have a cold, you better go to bed early
+        html: |-
+          <span>if you feel like you have a cold, </span><span>you better </span><strong>go to bed early </strong>
+        segments:
+          - text: 'if you feel like you have a cold, you better '
+            grammar_highlight: false
+          - text: 'go to bed early '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6104
+    position: 4
+    japanese: 上手になるために、繰り返して練習をすることだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%8a%e6%89%8b%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ab%e3%80%81"><span>上手になるために、</span></a><a href="https://takoboto.jp/?q=%e7%b9%b0%e3%82%8a"><span>繰り</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e3%81%97%e3%81%a6"><span>返して</span></a><a href="https://takoboto.jp/?q=%e7%b7%b4%e7%bf%92%e3%82%92%e3%81%99%e3%82%8b"><span>練習をする</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0"><strong>ことだ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 上手になるために、繰り返して練習をする
+        grammar_highlight: false
+      - text: ことだ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: じょうずになるために、くりかえしてれんしゅうをすることだ。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: In order to do it well, you should practice over and over again.
+        html: |-
+          <span>In order to do it well, you </span><strong>should </strong><span>practice over and over again. </span>
+        segments:
+          - text: 'In order to do it well, you '
+            grammar_highlight: false
+          - text: 'should '
+            grammar_highlight: true
+          - text: 'practice over and over again. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6105
+    position: 5
+    japanese: 一人で悩んでいないで、家族と友達に相談してみることですよ。何かいいアドバイスがもらえるでしょう。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%80%e4%ba%ba%e3%81%a7"><span>一人で</span></a><a href="https://takoboto.jp/?q=%e6%82%a9%e3%82%93%e3%81%a7%e3%81%84%e3%81%aa%e3%81%84%e3%81%a7%e3%80%81"><span>悩んでいないで、</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e6%97%8f%e3%81%a8"><span>家族と</span></a><a href="https://takoboto.jp/?q=%e5%8f%8b%e9%81%94%e3%81%ab"><span>友達に</span></a><a href="https://takoboto.jp/?q=%e7%9b%b8%e8%ab%87%e3%81%97%e3%81%a6%e3%81%bf%e3%82%8b"><span>相談してみる</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99"><strong>ことです</strong></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%80%82"><span>よ。</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8b%e3%81%84%e3%81%84%e3%82%a2%e3%83%89%e3%83%90%e3%82%a4%e3%82%b9%e3%81%8c%e3%82%82%e3%82%89%e3%81%88%e3%82%8b%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%80%82"><span>何かいいアドバイスがもらえるでしょう。</span></a>
+    segments:
+      - text: 一人で悩んでいないで、家族と友達に相談してみる
+        grammar_highlight: false
+      - text: ことです
+        grammar_highlight: true
+      - text: よ。何かいいアドバイスがもらえるでしょう。
+        grammar_highlight: false
+    reading: いちにんでなやんでいないで、かぞくとともだちにそうだんしてみることですよ。なにかいいアドバイスがもらえるでしょう。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: |-
+          You should try discussing this with your family and friends, and not suffer alone. You can probably get a lot of good advice.
+        html: |-
+          <span>You </span><strong>should </strong><span>try discussing this with your family and friends, and not suffer alone. You can probably get a lot of good advice. </span>
+        segments:
+          - text: 'You '
+            grammar_highlight: false
+          - text: 'should '
+            grammar_highlight: true
+          - text: 'try discussing this with your family and friends, and not suffer alone. You can probably get a lot of good advice. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6107
+    position: 6
+    japanese: お金をためたいのでしょう。それなら、無駄づかいをしないことです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e3%82%92%e3%81%9f%e3%82%81%e3%81%9f%e3%81%84%e3%81%ae%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%80%82%e3%81%9d%e3%82%8c%e3%81%aa%e3%82%89%e3%80%81"><span>金をためたいのでしょう。それなら、</span></a><a href="https://takoboto.jp/?q=%e7%84%a1%e9%a7%84%e3%81%a5%e3%81%8b%e3%81%84%e3%82%92%e3%81%97%e3%81%aa%e3%81%84"><span>無駄づかいをしない</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99"><strong>ことです</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: お金をためたいのでしょう。それなら、無駄づかいをしない
+        grammar_highlight: false
+      - text: ことです
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: おかねをためたいのでしょう。それなら、むだづかいをしないことです。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: You want to save money, right? If that's the case, you shouldn't waste it.
+        html: |-
+          <span>You want to save money, right? If that's the case, you </span><strong>shouldn't </strong><span>waste it. </span>
+        segments:
+          - text: 'You want to save money, right? If that''s the case, you '
+            grammar_highlight: false
+          - text: 'shouldn''t '
+            grammar_highlight: true
+          - text: 'waste it. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6568
+    position: 7
+    japanese: 暖かくして、ゆっくり休むことだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9a%96%e3%81%8b%e3%81%8f%e3%81%97%e3%81%a6%e3%80%81%e3%82%86%e3%81%a3%e3%81%8f%e3%82%8a"><span>暖かくして、ゆっくり</span></a><a href="https://takoboto.jp/?q=%e4%bc%91%e3%82%80"><span>休む</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0"><strong>ことだ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 暖かくして、ゆっくり休む
+        grammar_highlight: false
+      - text: ことだ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あたたかくして、ゆっくりやすむことだ。
+    credits_raw: hana
+    translations:
+      - language: en
+        text: You should keep warm, relax and rest.
+        html: |-
+          <span>You should keep warm, relax and rest. </span>
+        segments:
+          - text: 'You should keep warm, relax and rest. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6569
+    position: 8
+    japanese: 無理をしないことです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%84%a1%e7%90%86%e3%82%92%e3%81%97%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%a7%e3%81%99%e3%80%82"><span>無理をしないことです。</span></a>
+    segments:
+      - text: 無理をしないことです。
+        grammar_highlight: false
+    reading: むりをしないことです。
+    credits_raw: hana
+    translations:
+      - language: en
+        text: Don't push yourself too hard.
+        html: |-
+          <span>Don't push yourself too hard. </span>
+        segments:
+          - text: 'Don''t push yourself too hard. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8558
+    position: 9
+    japanese: 発言する前に、この問題の要点は理解することだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%99%ba%e8%a8%80%e3%81%99%e3%82%8b"><span>発言する</span></a><a href="https://takoboto.jp/?q=%e5%89%8d%e3%81%ab%e3%80%81%e3%81%93%e3%81%ae"><span>前に、この</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%ae"><span>問題の</span></a><a href="https://takoboto.jp/?q=%e8%a6%81%e7%82%b9%e3%81%af"><span>要点は</span></a><a href="https://takoboto.jp/?q=%e7%90%86%e8%a7%a3%e3%81%99%e3%82%8b"><span>理解する</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0"><strong>ことだ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 発言する前に、この問題の要点は理解する
+        grammar_highlight: false
+      - text: ことだ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: はつげんするまえに、このもんだいのようてんはりかいすることだ。
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: Before you speak, this is the point of issue should be understand.
+        html: |-
+          <span>Before you speak, this is the point of issue should be understand. </span>
+        segments:
+          - text: 'Before you speak, this is the point of issue should be understand. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8559
+    position: 10
+    japanese: 発言する前に、この問題の要点は理解することだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%99%ba%e8%a8%80%e3%81%99%e3%82%8b"><span>発言する</span></a><a href="https://takoboto.jp/?q=%e5%89%8d%e3%81%ab%e3%80%81%e3%81%93%e3%81%ae"><span>前に、この</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%ae"><span>問題の</span></a><a href="https://takoboto.jp/?q=%e8%a6%81%e7%82%b9%e3%81%af"><span>要点は</span></a><a href="https://takoboto.jp/?q=%e7%90%86%e8%a7%a3%e3%81%99%e3%82%8b"><span>理解する</span></a><a href="https://takoboto.jp/?q=%e3%81%93%e3%81%a8%e3%81%a0"><strong>ことだ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 発言する前に、この問題の要点は理解する
+        grammar_highlight: false
+      - text: ことだ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: はつげんするまえに、このもんだいのようてんはりかいすることだ。
+    credits_raw: belajar
+    translations:
+      - language: en
+        text: Before you speak, this is the point of issue should be understand.
+        html: |-
+          <span>Before you speak, this is the point of issue should be understand. </span>
+        segments:
+          - text: 'Before you speak, this is the point of issue should be understand. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Ｖ(plain form) + ことだ (should)
+      Ｖない(form) + ことだ (should not)
+    html: |-
+      Ｖ(plain form) + ことだ (should)<br/>Ｖない(form) + ことだ (should not)
+    credits_raw: rubyhatchet
+    content_sha256: f1aed16da4129a3e477af250c56378061fca8f75d172cf7709275923b618a7b1
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: often used to emphasize some important thing
+    html: often used to emphasize some important thing
+    credits_raw: dc
+    content_sha256: f1e00cb78d2765c37de367fd5943a159c4dc66102ec869a73124df5bdc03cc07
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      seems pretty identical to 〜べき
+      読むべき = 読むことだ = you should read
+    html: |-
+      seems pretty identical to 〜べき<br/>読むべき = 読むことだ = you should read
+    credits_raw: dc
+    content_sha256: 17ca7dafe3fdeb56565a34832ccefd7924d10c0609ee163a28b557bd9f80a05a
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      I think my translation is a little rough here ^^; Incidently this is much the same as "An it harm none, do as ye will shalt be the whole of the law."
+    html: |-
+      I think my translation is a little rough here ^^; Incidently this is much the same as "An it harm none, do as ye will shalt be the whole of the law."
+    credits_raw: Amatuka
+    content_sha256: 0433be04f91b7823f71c818aaa3fa4944a3dfa86ae0929b7ec6c9be13a0b892e
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Formed from verb + koto
+      Negative sense etc possible.
+      V = verb.
+    html: |-
+      Formed from verb + koto<br/>Negative sense etc possible.<br/>V = verb.
+    credits_raw: Amatuka
+    content_sha256: 9b33237c113c595107afee4ce0b08a2c621c22287b3173f1e11d5ea20ca9abc3
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: 'is #5489 correct? xephyer, did you make up the japanese example?'
+    html: 'is #5489 correct? xephyer, did you make up the japanese example?'
+    credits_raw: dc
+    content_sha256: c4a081972ba9efb7dc88c5e09677dc1625624d90ed2cd2c60c6c089fa0c19ff5
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: thanks for the correction miki. changed.
+    html: thanks for the correction miki. changed.
+    credits_raw: dc
+    content_sha256: 256ff75c2c2d016d8b05868815d43d28a8fc39e243fa6ac4e9aeabfc62869017
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: '#5489 is weird. No one would say that. あなたはこれを読むべきだ would be okay,'
+    html: '#5489 is weird. No one would say that. あなたはこれを読むべきだ would be okay,'
+    credits_raw: bamboo4
+    content_sha256: c56f4054fc959df3bf9ec37de1db7fc8a3a708aa29bfc7697f3c56f132cec026
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: '#5489 when you are scolded, you might be told in this way. あなたはこれをよむことだ。（そうすれば全てがわかる。。とかかんとか）Don''t you think so?'
+    html: '#5489 when you are scolded, you might be told in this way. あなたはこれをよむことだ。（そうすれば全てがわかる。。とかかんとか）Don''t you think so?'
+    credits_raw: Miki
+    content_sha256: 4e06c3de47591377ff1c5075630fc826aa223a28c88596704b6995f89d420cab
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      べき seemingly implies somewhat more of 'should'ness, while 〜ことだ is literally like 'this is about 〜(gerund)', and really is the emphasis on something being required. In a way, ことだ is even more imperative.
+    html: |-
+      べき seemingly implies somewhat more of 'should'ness, while 〜ことだ is literally like 'this is about 〜(gerund)', and really is the emphasis on something being required. In a way, ことだ is even more imperative.
+    credits_raw: Kaens
+    content_sha256: 2057b021219a0535bea8ce2cacac10d7fc75abbdc364913aeee66825956e0845
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      It is not necessarily a stern usage(e.g.scolding), it can be an advice or recommendation with the meaning "should". 
+      〜ことだ ： 〜ことを勧める 、〜ことが必要だ
+    html: |-
+      It is not necessarily a stern usage(e.g.scolding), it can be an advice or recommendation with the meaning "should". <br/>〜ことだ ： 〜ことを勧める 、〜ことが必要だ
+    credits_raw: 誠
+    content_sha256: 3ecf881e3fa7ea8687f725d9a51b057c96e258cb422f14efb409bdf2948274d0
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      For 〜ものだ, it is used when the thing is of common sense, and usually is used to advice or remind people of morality,principle of life,etc.
+       
+      〜ものだ： 〜が一般的な常識だ （人に対して注意する時によく使われる）
+    html: |-
+      For 〜ものだ, it is used when the thing is of common sense, and usually is used to advice or remind people of morality,principle of life,etc.<br/> <br/>〜ものだ： 〜が一般的な常識だ （人に対して注意する時によく使われる）
+    credits_raw: 誠
+    content_sha256: e54989022fb237e5f847a158ba041d721484395894593eca569567f830e17dcd
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 699
+    label: ものだ
+    source_url: https://takoboto.jp/bunpo/699
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:43+00:00'
+response_sha256: b628ab3b38f7aff5d135870addc163c4731eabe236956b3d8dd0460ec6eaaf3a
+warnings: []

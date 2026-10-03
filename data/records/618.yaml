@@ -1,0 +1,420 @@
+schema_version: 2
+id: 618
+source: takoboto
+source_url: https://takoboto.jp/bunpo/618/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 必ずしも・・・でない
+romanized_label: kanarazushimo
+alternate_forms:
+  - かならずしも・・・でない
+jlpt_level: 2
+credits_raw: dc, Kuval Anand
+meaning: not necessarily
+meaning_example: Big men are not necessarily strong men
+meaning_notes:
+  - language: ja
+    text: 背の高い人は必ずしも力のあるかたではない。
+    html: 背の高い人は必ずしも力のあるかたではない。
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_618
+    body_text: |-
+      not necessarily 
+       Big men are not necessarily strong men 
+       背の高い人は必ずしも力のあるかたではない。
+    body_html: |-
+      <span>not necessarily</span> <br/> <span>Big men are not necessarily strong men</span> <br/> <span>背の高い人は必ずしも力のあるかたではない。</span>
+    credits_raw: dc, Kuval Anand
+  - kind: formation
+    source_dom_id: editable_Formation_618
+    body_text: Statement+必ずしも+Negative Statement
+    body_html: |-
+      <div><div><div>Statement</div></div><div><div>+</div><div>必ずしも</div></div><div><div>+</div><div>Negative Statement</div></div></div>
+    credits_raw: null
+formations:
+  - Statement + 必ずしも + Negative Statement
+examples:
+  - source_id: 536
+    position: 0
+    japanese: 身体の大きな男が必ずしも強い男とは限らない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%ba%ab%e4%bd%93%e3%81%ae"><span>身体の</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e3%81%8d%e3%81%aa"><span>大きな</span></a><a href="https://takoboto.jp/?q=%e7%94%b7"><span>男</span></a><a href="https://takoboto.jp/?q=%e3%81%8c"><span>が</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e5%bc%b7%e3%81%84"><span>強い</span></a><a href="https://takoboto.jp/?q=%e7%94%b7%e3%81%a8%e3%81%af"><span>男とは</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%89%e3%81%aa%e3%81%84"><span>限らない</span></a>
+    segments:
+      - text: 身体の大きな男が
+        grammar_highlight: false
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: 強い男とは限らない
+        grammar_highlight: false
+    reading: しんたいのおおきなおとこがかならずしもつよいおとことはかぎらない
+    credits_raw: dc
+    translations:
+      - language: en
+        text: big men are not necessarily strong men.
+        html: |-
+          <span>big men are </span><strong>not necessarily </strong><span>strong men. </span>
+        segments:
+          - text: 'big men are '
+            grammar_highlight: false
+          - text: 'not necessarily '
+            grammar_highlight: true
+          - text: 'strong men. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 186
+    position: 1
+    japanese: 善人が必ずしも成功するとは限らない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%96%84%e4%ba%ba"><span>善人</span></a><a href="https://takoboto.jp/?q=%e3%81%8c"><span>が</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e6%88%90%e5%8a%9f%e3%81%99%e3%82%8b%e3%81%a8%e3%81%af"><span>成功するとは</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>限らない。</span></a>
+    segments:
+      - text: 善人が
+        grammar_highlight: false
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: 成功するとは限らない。
+        grammar_highlight: false
+    reading: ぜんにんがかならずしもせいこうするとはかぎらない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: the good will not neccesarily prosper.
+        html: |-
+          <span>the good will </span><strong>not neccesarily </strong><span>prosper. </span>
+        segments:
+          - text: 'the good will '
+            grammar_highlight: false
+          - text: 'not neccesarily '
+            grammar_highlight: true
+          - text: 'prosper. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 344
+    position: 2
+    japanese: パリに行ったとは言え必ずしもエッフェル塔を登らなくてはならないわけではない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%91%e3%83%aa%e3%81%ab"><span>パリに</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%9f%e3%81%a8%e3%81%af"><span>行ったとは</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%88"><span>言え</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e3%82%a8%e3%83%83%e3%83%95%e3%82%a7%e3%83%ab"><span>エッフェル</span></a><a href="https://takoboto.jp/?q=%e5%a1%94%e3%82%92"><span>塔を</span></a><a href="https://takoboto.jp/?q=%e7%99%bb%e3%82%89%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%af%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84%e3%82%8f%e3%81%91%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%80%82"><span>登らなくてはならないわけではない。</span></a>
+    segments:
+      - text: パリに行ったとは言え
+        grammar_highlight: false
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: エッフェル塔を登らなくてはならないわけではない。
+        grammar_highlight: false
+    reading: パリにいったとはいえかならずしもえっふぇるとうをのぼらなくてはならないわけではない。
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: Just because you go to Paris, it is not necessary to climb the Eiffel Tower.
+        html: |-
+          <span>Just because you go to Paris, it is </span><strong>not necessary </strong><span>to climb the Eiffel Tower. </span>
+        segments:
+          - text: 'Just because you go to Paris, it is '
+            grammar_highlight: false
+          - text: 'not necessary '
+            grammar_highlight: true
+          - text: 'to climb the Eiffel Tower. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1243
+    position: 3
+    japanese: 渋谷といっても、必ずしもにぎやかな店ばかりだとは限らない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%b8%8b%e8%b0%b7"><span>渋谷</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%84%e3%81%a3%e3%81%a6%e3%82%82%e3%80%81"><span>といっても、</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%8e%e3%82%84%e3%81%8b%e3%81%aa"><span>にぎやかな</span></a><a href="https://takoboto.jp/?q=%e5%ba%97%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a0"><span>店ばかりだ</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84"><strong>とは限らない</strong></a>
+    segments:
+      - text: 渋谷といっても、
+        grammar_highlight: false
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: にぎやかな店ばかりだ
+        grammar_highlight: false
+      - text: とは限らない
+        grammar_highlight: true
+    reading: しぶやといっても、かならずしもにぎやかなみせばかりだとはかぎらない
+    credits_raw: dc, Miki
+    translations:
+      - language: en
+        text: Just because it's Shibuya that does not neccesarily mean it has nothing but busy shops
+        html: |-
+          <span>Just because it's Shibuya </span><strong>that does not neccesarily mean </strong><span>it has nothing but busy shops </span>
+        segments:
+          - text: 'Just because it''s Shibuya '
+            grammar_highlight: false
+          - text: 'that does not neccesarily mean '
+            grammar_highlight: true
+          - text: 'it has nothing but busy shops '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1244
+    position: 4
+    japanese: 東京だといっても必ずしもなんでも高い訳ではない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9d%b1%e4%ba%ac%e3%81%a0%e3%81%a8%e3%81%84%e3%81%a3%e3%81%a6%e3%82%82"><span>東京だといっても</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%93%e3%81%a7%e3%82%82"><span>なんでも</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84"><span>高い</span></a><a href="https://takoboto.jp/?q=%e8%a8%b3%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84"><strong>訳ではない</strong></a>
+    segments:
+      - text: 東京だといっても
+        grammar_highlight: false
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: なんでも高い
+        grammar_highlight: false
+      - text: 訳ではない
+        grammar_highlight: true
+    reading: とうきょうだといってもかならずしもなんでもたかいわけではない
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: Just because its Tokyo does not neccesarily mean everything is expensive
+        html: |-
+          <span>Just because its Tokyo </span><strong>does not neccesarily mean </strong><span>everything is expensive </span>
+        segments:
+          - text: 'Just because its Tokyo '
+            grammar_highlight: false
+          - text: 'does not neccesarily mean '
+            grammar_highlight: true
+          - text: 'everything is expensive '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3150
+    position: 5
+    japanese: お金持ちが必ずしも幸せとは限らない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e9%87%91%e6%8c%81%e3%81%a1%e3%81%8c"><span>金持ちが</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e5%b9%b8%e3%81%9b%e3%81%a8%e3%81%af"><span>幸せとは</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%89%e3%81%aa%e3%81%84"><span>限らない</span></a>
+    segments:
+      - text: お金持ちが
+        grammar_highlight: false
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: 幸せとは限らない
+        grammar_highlight: false
+    reading: おかねもちがかならずしもしあわせとはかぎらない
+    credits_raw: dc
+    translations:
+      - language: en
+        text: rich people are not neccesarily happy
+        html: |-
+          <span>rich people are not neccesarily happy </span>
+        segments:
+          - text: 'rich people are not neccesarily happy '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3151
+    position: 6
+    japanese: 語学が得意だからといって、必ずしも就職に有利だとは限らない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%aa%9e%e5%ad%a6%e3%81%8c"><span>語学が</span></a><a href="https://takoboto.jp/?q=%e5%be%97%e6%84%8f%e3%81%a0%e3%81%8b%e3%82%89%e3%81%a8%e3%81%84%e3%81%a3%e3%81%a6%e3%80%81"><span>得意だからといって、</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><span>必ずしも</span></a><a href="https://takoboto.jp/?q=%e5%b0%b1%e8%81%b7%e3%81%ab%e6%9c%89%e5%88%a9%e3%81%a0%e3%81%a8%e3%81%af"><strong>就職に有利だとは</strong></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%89%e3%81%aa%e3%81%84"><span>限らない</span></a>
+    segments:
+      - text: 語学が得意だからといって、必ずしも
+        grammar_highlight: false
+      - text: 就職に有利だとは
+        grammar_highlight: true
+      - text: 限らない
+        grammar_highlight: false
+    reading: ごがくがとくいだからといって、かならずしもしゅうしょくにゆうりだとはかぎらない
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: just because (you say?) you have a good linguistic ability doesn't neccesarily mean that its helpful to get a job.
+        html: |-
+          <span>just because (you say?) you have a good linguistic ability doesn't </span><strong>neccesarily </strong><span>mean that its helpful to get a job. </span>
+        segments:
+          - text: 'just because (you say?) you have a good linguistic ability doesn''t '
+            grammar_highlight: false
+          - text: 'neccesarily '
+            grammar_highlight: true
+          - text: 'mean that its helpful to get a job. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3152
+    position: 7
+    japanese: 日本人は礼儀正しい人々だと言う人もいるようだが、実態は必ずしもそうではないと私は思っている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e4%ba%ba%e3%81%af"><span>日本人は</span></a><a href="https://takoboto.jp/?q=%e7%a4%bc%e5%84%80%e6%ad%a3%e3%81%97%e3%81%84"><span>礼儀正しい</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%80%85%e3%81%a0%e3%81%a8"><span>人々だと</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86"><span>言う</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%82%82%e3%81%84%e3%82%8b%e3%82%88%e3%81%86%e3%81%a0%e3%81%8c%e3%80%81"><span>人もいるようだが、</span></a><a href="https://takoboto.jp/?q=%e5%ae%9f%e6%85%8b%e3%81%af"><span>実態は</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%a8"><span>そうではないと</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>思っている。</span></a>
+    segments:
+      - text: 日本人は礼儀正しい人々だと言う人もいるようだが、実態は
+        grammar_highlight: false
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: そうではないと私は思っている。
+        grammar_highlight: false
+    reading: にほんじんはれいぎただしいひとびとだというひともいるようだが、じったいはかならずしもそうではないとわたしはおもっている。
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: |-
+          There are people who say that Japanese are very polite, but the fact of the matter is that I do not necessarily think that is correct.
+        html: |-
+          <span>There are people who say that Japanese are very polite, but the fact of the matter is that I do not </span><strong>necessarily </strong><span>think that is correct. </span>
+        segments:
+          - text: 'There are people who say that Japanese are very polite, but the fact of the matter is that I do not '
+            grammar_highlight: false
+          - text: 'necessarily '
+            grammar_highlight: true
+          - text: 'think that is correct. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8197
+    position: 8
+    japanese: 金持ちは必ずしも幸福とは限らない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%87%91%e6%8c%81%e3%81%a1%e3%81%af"><span>金持ちは</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e5%b9%b8%e7%a6%8f%e3%81%a8%e3%81%af"><span>幸福とは</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>限らない。</span></a>
+    segments:
+      - text: 金持ちは
+        grammar_highlight: false
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: 幸福とは限らない。
+        grammar_highlight: false
+    reading: かねもちはかならずしもこうふくとはかぎらない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: The rich are not necessarily happy.
+        html: |-
+          <span>The rich are not necessarily happy. </span>
+        segments:
+          - text: 'The rich are not necessarily happy. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8198
+    position: 9
+    japanese: 必ずしも君の言う通りではない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%ae"><span>君の</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86"><span>言う</span></a><a href="https://takoboto.jp/?q=%e9%80%9a%e3%82%8a%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%80%82"><span>通りではない。</span></a>
+    segments:
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: 君の言う通りではない。
+        grammar_highlight: false
+    reading: かならずしもきみのいうとおりではない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: You are not necessarily right.
+        html: |-
+          <span>You are not necessarily right. </span>
+        segments:
+          - text: 'You are not necessarily right. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8199
+    position: 10
+    japanese: 金はそれ自体では必ずしも幸福をもたらすとは限らない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%87%91%e3%81%af%e3%81%9d%e3%82%8c"><span>金はそれ</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e4%bd%93%e3%81%a7%e3%81%af"><span>自体では</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e5%b9%b8%e7%a6%8f%e3%82%92%e3%82%82%e3%81%9f%e3%82%89%e3%81%99%e3%81%a8%e3%81%af"><span>幸福をもたらすとは</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>限らない。</span></a>
+    segments:
+      - text: 金はそれ自体では
+        grammar_highlight: false
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: 幸福をもたらすとは限らない。
+        grammar_highlight: false
+    reading: きんはそれじたいではかならずしもこうふくをもたらすとはかぎらない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Money, as such, not necessarily bring happiness.
+        html: |-
+          <span>Money, as such, not necessarily bring happiness. </span>
+        segments:
+          - text: 'Money, as such, not necessarily bring happiness. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8200
+    position: 11
+    japanese: 偉大が必ずしも賢いとは限らない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%81%89%e5%a4%a7%e3%81%8c"><span>偉大が</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e3%81%9a%e3%81%97%e3%82%82"><strong>必ずしも</strong></a><a href="https://takoboto.jp/?q=%e8%b3%a2%e3%81%84%e3%81%a8%e3%81%af"><span>賢いとは</span></a><a href="https://takoboto.jp/?q=%e9%99%90%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>限らない。</span></a>
+    segments:
+      - text: 偉大が
+        grammar_highlight: false
+      - text: 必ずしも
+        grammar_highlight: true
+      - text: 賢いとは限らない。
+        grammar_highlight: false
+    reading: いだいがかならずしもかしこいとはかぎらない。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Great men are not necessarily wise.
+        html: |-
+          <span>Great men are not necessarily wise. </span>
+        segments:
+          - text: 'Great men are not necessarily wise. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      This is usually used in the patterns:
+
+      (a) does not neccesarily mean (b)
+
+      (big) kanarazushimo (strong) [tohakagiranai]
+      (big) kanarazushimo (strong) to iu [wake] de ha nai
+      (big) kanarazushimo (strong) [bakari] de ha nai
+
+      (big) does not neccesarily mean (strong)
+    html: |-
+      This is usually used in the patterns:<br/><br/>(a) does not neccesarily mean (b)<br/><br/>(big) kanarazushimo (strong) [tohakagiranai]<br/>(big) kanarazushimo (strong) to iu [wake] de ha nai<br/>(big) kanarazushimo (strong) [bakari] de ha nai<br/><br/>(big) does not neccesarily mean (strong)
+    credits_raw: dc
+    content_sha256: d5ea3cce22097f4447d18ba98f6c3a2fd7f3dbe3818f18a50975854dc1a91cc2
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: is there a smily mark for "dry english humor"?
+    html: is there a smily mark for "dry english humor"?
+    credits_raw: dc
+    content_sha256: d3bd224fb1b8ebcfd08391ecb60bd467944d559ea3042917e21e70a6402f6cce
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Of course. But only the English can see it.
+    html: Of course. But only the English can see it.
+    credits_raw: Amatuka
+    content_sha256: 3e63dbd69760adcba72969c943557e83303dcd78491768ac2fb40a75c243c6bb
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: I changed the Jpaanee verison to conform to the "dry English humor."
+    html: I changed the Jpaanee verison to conform to the "dry English humor."
+    credits_raw: bamboo4
+    content_sha256: c15a32e5afe8df3dfcb38ea554deb040a6801a78f3c4b1fb49b933047b69a8f3
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Wouldn't that be "go up the Eiffel Tower" unless they are particularly masochistic ?
+    html: Wouldn't that be "go up the Eiffel Tower" unless they are particularly masochistic ?
+    credits_raw: Amatuka
+    content_sha256: db544bd1689c33d34ce0c6a07cafb43e95d3b43236f2def427ac70da00c62f0e
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 516
+    label: とは限らない
+    source_url: https://takoboto.jp/bunpo/516
+  - target_id: 781
+    label: 訳
+    source_url: https://takoboto.jp/bunpo/781
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:36:38+00:00'
+response_sha256: 6e19049b85c481e8f92e976db4cd674aaec136d3205f5efdf90b7704176a08e6
+warnings: []

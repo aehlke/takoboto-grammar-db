@@ -1,0 +1,283 @@
+schema_version: 2
+id: 659
+source: takoboto
+source_url: https://takoboto.jp/bunpo/659/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜に
+romanized_label: ni-2
+alternate_forms: []
+jlpt_level: 5
+credits_raw: Amatuka
+meaning: to, from (indirect object marker)
+meaning_example: I was given this by my mother.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_659
+    body_text: |-
+      to, from (indirect object marker) 
+       I was given this by my mother.
+    body_html: |-
+      <span>to, from (indirect object marker)</span> <br/> <span>I was given this by my mother.</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 697
+    position: 0
+    japanese: これは母に貰いました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%af"><span>これは</span></a><a href="https://takoboto.jp/?q=%e6%af%8d"><span>母</span></a><a href="https://takoboto.jp/?q=%e3%81%ab"><strong>に</strong></a><a href="https://takoboto.jp/?q=%e8%b2%b0%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82+"><span>貰いました。 </span></a>
+    segments:
+      - text: これは母
+        grammar_highlight: false
+      - text: に
+        grammar_highlight: true
+      - text: '貰いました。 '
+        grammar_highlight: false
+    reading: これはははにもらいました。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I got this from my mother.
+        html: |-
+          <span>I got this </span><strong>from </strong><span>my mother. </span>
+        segments:
+          - text: 'I got this '
+            grammar_highlight: false
+          - text: 'from '
+            grammar_highlight: true
+          - text: 'my mother. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4899
+    position: 1
+    japanese: そこに着いたら私に教えてください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%93"><span>そこ</span></a><a href="https://takoboto.jp/?q=%e3%81%ab"><strong>に</strong></a><a href="https://takoboto.jp/?q=%e7%9d%80%e3%81%84%e3%81%9f%e3%82%89%e7%a7%81"><span>着いたら私</span></a><a href="https://takoboto.jp/?q=%e3%81%ab"><strong>に</strong></a><a href="https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>教えてください。</span></a>
+    segments:
+      - text: そこ
+        grammar_highlight: false
+      - text: に
+        grammar_highlight: true
+      - text: 着いたら私
+        grammar_highlight: false
+      - text: に
+        grammar_highlight: true
+      - text: 教えてください。
+        grammar_highlight: false
+    reading: そこについたらわたしにおしえてください。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Please let me know  when you get there.
+        html: |-
+          <span>Please let me </span><strong>know </strong><span> when you get there. </span>
+        segments:
+          - text: 'Please let me '
+            grammar_highlight: false
+          - text: 'know '
+            grammar_highlight: true
+          - text: ' when you get there. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4900
+    position: 2
+    japanese: 私はともだちに電話をします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%82%82%e3%81%a0%e3%81%a1"><span>ともだち</span></a><a href="https://takoboto.jp/?q=%e3%81%ab"><strong>に</strong></a><a href="https://takoboto.jp/?q=%e9%9b%bb%e8%a9%b1%e3%82%92%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>電話をします。</span></a>
+    segments:
+      - text: 私はともだち
+        grammar_highlight: false
+      - text: に
+        grammar_highlight: true
+      - text: 電話をします。
+        grammar_highlight: false
+    reading: わたしはともだちにでんわをします。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I will call a friend.
+        html: |-
+          <span>I will </span><strong>call </strong><span>a friend. </span>
+        segments:
+          - text: 'I will '
+            grammar_highlight: false
+          - text: 'call '
+            grammar_highlight: true
+          - text: 'a friend. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4901
+    position: 3
+    japanese: 私はあなたにりんごをあげる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f"><span>あなた</span></a><a href="https://takoboto.jp/?q=%e3%81%ab"><strong>に</strong></a><a href="https://takoboto.jp/?q=%e3%82%8a%e3%82%93%e3%81%94%e3%82%92%e3%81%82%e3%81%92%e3%82%8b%e3%80%82"><span>りんごをあげる。</span></a>
+    segments:
+      - text: 私はあなた
+        grammar_highlight: false
+      - text: に
+        grammar_highlight: true
+      - text: りんごをあげる。
+        grammar_highlight: false
+    reading: わたしはあなたにりんごをあげる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I will give an apple to you.
+        html: |-
+          <span>I will give an apple </span><strong>to </strong><span>you. </span>
+        segments:
+          - text: 'I will give an apple '
+            grammar_highlight: false
+          - text: 'to '
+            grammar_highlight: true
+          - text: 'you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4902
+    position: 4
+    japanese: 彼は先生にしかられた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f"><span>先生</span></a><a href="https://takoboto.jp/?q=%e3%81%ab"><strong>に</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%81%8b%e3%82%89%e3%82%8c%e3%81%9f%e3%80%82"><span>しかられた。</span></a>
+    segments:
+      - text: 彼は先生
+        grammar_highlight: false
+      - text: に
+        grammar_highlight: true
+      - text: しかられた。
+        grammar_highlight: false
+    reading: かれはせんせいにしかられた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: He got scolded by the teacher.
+        html: |-
+          <span>He got scolded </span><strong>by </strong><span>the teacher. </span>
+        segments:
+          - text: 'He got scolded '
+            grammar_highlight: false
+          - text: 'by '
+            grammar_highlight: true
+          - text: 'the teacher. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8805
+    position: 5
+    japanese: 今日は大学に行く気がない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%af%e5%a4%a7%e5%ad%a6"><span>今日は大学</span></a><a href="https://takoboto.jp/?q=%e3%81%ab"><strong>に</strong></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f%e6%b0%97%e3%81%8c%e3%81%aa%e3%81%84%e3%80%82"><span>行く気がない。</span></a>
+    segments:
+      - text: 今日は大学
+        grammar_highlight: false
+      - text: に
+        grammar_highlight: true
+      - text: 行く気がない。
+        grammar_highlight: false
+    reading: きょうはだいがくにいくきがない。
+    credits_raw: 貴博
+    translations:
+      - language: en
+        text: I don't feel like going to the university today.
+        html: |-
+          <span>I don't feel like going </span><strong>to </strong><span>the university today. </span>
+        segments:
+          - text: 'I don''t feel like going '
+            grammar_highlight: false
+          - text: 'to '
+            grammar_highlight: true
+          - text: 'the university today. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Remind me to check up on 貰う etc. with all that in-group / out-group etc stuff.
+    html: Remind me to check up on 貰う etc. with all that in-group / out-group etc stuff.
+    credits_raw: Amatuka
+    content_sha256: a64a3bf5de03f141779c66172c560da6d9d02e036079f9c8bdd331e31df2a7c5
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      に marks the indirect object of the verb
+      receiver of the action
+    html: |-
+      に marks the indirect object of the verb<br/>receiver of the action
+    credits_raw: Miki
+    content_sha256: 2581806e0b86f251d80bb25144a24839c261aecef4db7a10f6914db63d30a227
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Some E translations don't have right words just for に and I put verb instead. Please change English if you have better translation.
+    html: |-
+      Some E translations don't have right words just for に and I put verb instead. Please change English if you have better translation.
+    credits_raw: Miki
+    content_sha256: 217278831cd3b49cf03576143919f86ac1b503561bcd28612420176aa5ab121d
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      there is a mistake in the grammar in #4899
+      should be something like "please let me know when you get there."
+    html: |-
+      there is a mistake in the grammar in #4899<br/>should be something like "please let me know when you get there."
+    credits_raw: ck1984
+    content_sha256: 3c208e9211a1481451646eaa2618779d3ae38c79be8de7ff50237518ba641e76
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      "に marks the indirect object of the verb
+      receiver of the action"
+
+      this causes some confusion with ex #4902 since 'he' is the one receiving the scolding?
+    html: |-
+      "に marks the indirect object of the verb<br/>receiver of the action"<br/><br/>this causes some confusion with ex #4902 since 'he' is the one receiving the scolding?
+    credits_raw: skysongz
+    content_sha256: 66d4a195acd200225a9e98f28fd0ab804469ab633a90ab7914800a950eafa393
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      I was a bit confused about this as well, though thinking of it as marking an indirect object helps so much-- all of the books and things have explained it in a way that connects it to its first meaning...
+    html: |-
+      I was a bit confused about this as well, though thinking of it as marking an indirect object helps so much-- all of the books and things have explained it in a way that connects it to its first meaning...
+    credits_raw: Saralynne
+    content_sha256: 97cbc5a8d81526081bc0259860d3b72d286ded5bd53f1bf8854dc99b22f04148
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      Isn't the verb in #4902 in passive form? If that's the case, then に denotes the agent (I think that's the correct English term) of the action. In other words, the one acting/subject.
+
+      That's why the English translation is in passive form also. I think.
+    html: |-
+      Isn't the verb in #4902 in passive form? If that's the case, then に denotes the agent (I think that's the correct English term) of the action. In other words, the one acting/subject.<br/><br/>That's why the English translation is in passive form also. I think.
+    credits_raw: yari
+    content_sha256: 8b19d0b618ce9b8747af179b35c6d201c536096775cebab38dff2c261bb5c2eb
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 626
+    label: 〜に
+    source_url: https://takoboto.jp/bunpo/626
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:31:59+00:00'
+response_sha256: ec842446b0ea5757b87f321e5c3d3ef4bdf69f93124cf86860d702c9da955493
+warnings: []

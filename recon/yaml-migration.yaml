@@ -1,0 +1,29 @@
+canonical_format: yaml
+records_converted: 1410
+rss_records_converted: 5
+schema_versions_unchanged: true
+record_values_and_provenance_hashes_unchanged: true
+sqlite_export_byte_identical: true
+sqlite_integrity: ok
+foreign_keys: ok
+network_calls: 0
+counts:
+  entries: 643
+  examples: 5334
+  translations: 5324
+  comments: 4546
+  archive_entries: 767
+  archive_notes: 916
+  archive_examples: 5983
+  archive_comments: 4091
+  archive_feeds: 5
+  archive_feed_items: 4
+record_digests:
+  current: 0ec290cb145b17c9c487247c173eda77b8ca72b604c72d6771f3cbfcc09b4cb3
+  newer: 2a3a2b1c3c7f21f06cfac3189ff51798b74135086b98d0036afcb552cf7e25a0
+  backup: a1a33b3af13004985149b42a104fac4014f6fa8b210d79f701aac40fea94a042
+  feeds: 888649e4564a6520bd1df280d75a58442acea8a9fac8c673cb5c34c0b6069662
+tests_passed: 124
+interrupted_conversion_resumable: true
+unchanged_record_writes_preserve_mtimes: true
+wheel_includes_yaml_scope_manifest: true

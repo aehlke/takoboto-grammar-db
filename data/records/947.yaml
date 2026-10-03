@@ -1,0 +1,348 @@
+schema_version: 2
+id: 947
+source: takoboto
+source_url: https://takoboto.jp/bunpo/947/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: つい
+romanized_label: tsui
+alternate_forms: []
+jlpt_level: 3
+credits_raw: dc
+meaning: without thinking, despite myself
+meaning_example: oops, i said too much!
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_947
+    body_text: |-
+      without thinking, despite myself 
+       oops, i said too much!
+    body_html: |-
+      <span>without thinking, despite myself</span> <br/> <span>oops, i said too much!</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_947
+    body_text: つい+phrase (the thing done unintentionally)
+    body_html: |-
+      <div><div><div>つい</div></div><div><div>+</div><div>phrase (the thing done unintentionally)</div></div></div>
+    credits_raw: null
+formations:
+  - つい + phrase (the thing done unintentionally)
+examples:
+  - source_id: 305
+    position: 0
+    japanese: 秘密でしたか？ついうっかり喋ちゃいました。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%98%e5%af%86%e3%81%a7%e3%81%97%e3%81%9f%e3%81%8b"><span>秘密でしたか</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84"><strong>つい</strong></a><a href="https://takoboto.jp/?q=%e3%81%86%e3%81%a3%e3%81%8b%e3%82%8a"><span>うっかり</span></a><a href="https://takoboto.jp/?q=%e5%96%8b%e3%81%a1%e3%82%83%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>喋ちゃいました。</span></a>
+    segments:
+      - text: 秘密でしたか？
+        grammar_highlight: false
+      - text: つい
+        grammar_highlight: true
+      - text: うっかり喋ちゃいました。
+        grammar_highlight: false
+    reading: ひみつでしたか？ついうっかりちょうちゃいました。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It was a secret? Oops! I spoke about it without thinking...
+        html: |-
+          <span>It was a secret? </span><strong>Oops! </strong><span>I spoke about it without thinking... </span>
+        segments:
+          - text: 'It was a secret? '
+            grammar_highlight: false
+          - text: 'Oops! '
+            grammar_highlight: true
+          - text: 'I spoke about it without thinking... '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 306
+    position: 1
+    japanese: つい買っちゃった！
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84"><strong>つい</strong></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%81%a3%e3%81%a1%e3%82%83%e3%81%a3%e3%81%9f"><span>買っちゃった</span></a><a href="https://takoboto.jp/?q=%ef%bc%81"><span>！</span></a>
+    segments:
+      - text: つい
+        grammar_highlight: true
+      - text: 買っちゃった！
+        grammar_highlight: false
+    reading: ついかっちゃった！
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Damn! I went and bought it (and I shouldn't have).
+        html: |-
+          <strong>Damn! </strong><span>I went and bought it (and I shouldn't have). </span>
+        segments:
+          - text: 'Damn! '
+            grammar_highlight: true
+          - text: 'I went and bought it (and I shouldn''t have). '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 384
+    position: 2
+    japanese: つい「コンピュータがおかしい」と思ってしまいます．でも，コンピュータ側がおかしいことはまずありません．
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84"><strong>つい</strong></a><a href="https://takoboto.jp/?q=%e3%80%8c%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%81%8c%e3%81%8a%e3%81%8b%e3%81%97%e3%81%84%e3%80%8d%e3%81%a8"><span>「コンピュータがおかしい」と</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%84%e3%81%be%e3%81%99"><span>思ってしまいます</span></a><a href="https://takoboto.jp/?q=%ef%bc%8e%e3%81%a7%e3%82%82"><span>．でも</span></a><a href="https://takoboto.jp/?q=%ef%bc%8c%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf"><span>，コンピュータ</span></a><a href="https://takoboto.jp/?q=%e5%81%b4%e3%81%8c%e3%81%8a%e3%81%8b%e3%81%97%e3%81%84%e3%81%93%e3%81%a8%e3%81%af%e3%81%be%e3%81%9a%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93"><span>側がおかしいことはまずありません</span></a><a href="https://takoboto.jp/?q=%ef%bc%8e"><span>．</span></a>
+    segments:
+      - text: つい
+        grammar_highlight: true
+      - text: 「コンピュータがおかしい」と思ってしまいます．でも，コンピュータ側がおかしいことはまずありません．
+        grammar_highlight: false
+    reading: つい「コンピュータがおかしい」とおもってしまいます．でも，コンピュータがわがおかしいことはまずありません．
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: |-
+          I carelessly thought "There's something up with the computer". But actually there was nothing up with the _computer_ side.
+        html: |-
+          <span>I </span><strong>carelessly </strong><span>thought "There's something up with the computer". But actually there was nothing up with the _computer_ side. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'carelessly '
+            grammar_highlight: true
+          - text: 'thought "There''s something up with the computer". But actually there was nothing up with the _computer_ side. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1273
+    position: 3
+    japanese: つい先ほど時雨れた
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84"><strong>つい</strong></a><a href="https://takoboto.jp/?q=%e5%85%88%e3%81%bb%e3%81%a9"><span>先ほど</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e9%9b%a8%e3%82%8c%e3%81%9f"><span>時雨れた</span></a>
+    segments:
+      - text: つい
+        grammar_highlight: true
+      - text: 先ほど時雨れた
+        grammar_highlight: false
+    reading: ついさきほどしぐれた
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: We had a light shower a while ago.
+        html: |-
+          <span>We had a light shower </span><strong>a while </strong><span>ago. </span>
+        segments:
+          - text: 'We had a light shower '
+            grammar_highlight: false
+          - text: 'a while '
+            grammar_highlight: true
+          - text: 'ago. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5528
+    position: 4
+    japanese: つい必要なワードフィルを削除してしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84"><strong>つい</strong></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%aa%e3%83%af%e3%83%bc%e3%83%89%e3%83%95%e3%82%a3%e3%83%ab%e3%82%92"><span>必要なワードフィルを</span></a><a href="https://takoboto.jp/?q=%e5%89%8a%e9%99%a4%e3%81%97%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>削除してしまった。</span></a>
+    segments:
+      - text: つい
+        grammar_highlight: true
+      - text: 必要なワードフィルを削除してしまった。
+        grammar_highlight: false
+    reading: ついひつようなワードフィルをさくじょしてしまった。
+    credits_raw: Archana
+    translations:
+      - language: en
+        text: I just (unintentional) deleted an important word file.
+        html: |-
+          <span>I </span><strong>just (unintentional) </strong><span>deleted an important word file. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'just (unintentional) '
+            grammar_highlight: true
+          - text: 'deleted an important word file. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8500
+    position: 5
+    japanese: 彼はつい自分の名前を言ってしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84"><strong>つい</strong></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae"><span>自分の</span></a><a href="https://takoboto.jp/?q=%e5%90%8d%e5%89%8d%e3%82%92"><span>名前を</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>言ってしまった。</span></a>
+    segments:
+      - text: 彼は
+        grammar_highlight: false
+      - text: つい
+        grammar_highlight: true
+      - text: 自分の名前を言ってしまった。
+        grammar_highlight: false
+    reading: かれはついじぶんのなまえをいってしまった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He carelessly said his name.
+        html: |-
+          <span>He carelessly said his name. </span>
+        segments:
+          - text: 'He carelessly said his name. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8501
+    position: 6
+    japanese: 彼は大変まずいことをつい言ってしまった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%a4%89%e3%81%be%e3%81%9a%e3%81%84%e3%81%93%e3%81%a8%e3%82%92"><span>大変まずいことを</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84"><strong>つい</strong></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%81%97%e3%81%be%e3%81%a3%e3%81%9f%e3%80%82"><span>言ってしまった。</span></a>
+    segments:
+      - text: 彼は大変まずいことを
+        grammar_highlight: false
+      - text: つい
+        grammar_highlight: true
+      - text: 言ってしまった。
+        grammar_highlight: false
+    reading: かれはたいへんまずいことをついいってしまった。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: He slip a very unfortunate remark.
+        html: |-
+          <span>He slip a very unfortunate remark. </span>
+        segments:
+          - text: 'He slip a very unfortunate remark. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8502
+    position: 7
+    japanese: 彼女は貧しさのあまりつい盗みを働いた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e8%b2%a7%e3%81%97%e3%81%95%e3%81%ae%e3%81%82%e3%81%be%e3%82%8a"><span>貧しさのあまり</span></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%81%84"><strong>つい</strong></a><a href="https://takoboto.jp/?q=%e7%9b%97%e3%81%bf%e3%82%92"><span>盗みを</span></a><a href="https://takoboto.jp/?q=%e5%83%8d%e3%81%84%e3%81%9f%e3%80%82"><span>働いた。</span></a>
+    segments:
+      - text: 彼女は貧しさのあまり
+        grammar_highlight: false
+      - text: つい
+        grammar_highlight: true
+      - text: 盗みを働いた。
+        grammar_highlight: false
+    reading: かのじょはまずしさのあまりついぬすみをはたらいた。
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Poverty implied her to steal.
+        html: |-
+          <span>Poverty implied her to steal. </span>
+        segments:
+          - text: 'Poverty implied her to steal. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Also means, just (now), or recently.
+    html: Also means, just (now), or recently.
+    credits_raw: KotatsuSama
+    content_sha256: ad49e8e8e8bf3cee1a3283dbcebfffa546957a73ed3e2c64f0d6c2be0c2e2bba
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: I always thought that was ついに？ Am I wrong or can you drop the に？
+    html: I always thought that was ついに？ Am I wrong or can you drop the に？
+    credits_raw: huess
+    content_sha256: bf61c6ffb5c3aae3091ce9b789528c6ebf06272f2772b5923e8c9a39f95c2d5c
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      ついに is different from つい.
+      ついに can be replaced with やっと at last
+      ついに買っちゃった！
+      Finally, I got it!
+    html: |-
+      ついに is different from つい.<br/>ついに can be replaced with やっと at last<br/>ついに買っちゃった！<br/>Finally, I got it!
+    credits_raw: Miki
+    content_sha256: 3990fc58b89399e8183fe708bd37df7e46bc44f041e697712b1d99888aaa1210
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      「つい」and「ついに」is different. 
+
+      「つい」means... "regretfully"
+      for example, you go shopping, you find a new PC. you already have a PC, but you buy the spanky new one anyway. then, you say
+      「つい、買った。」
+      in fact, you don't need that PC. 
+
+      「ついに」means..."at last"
+      you wanted a PC for a long time, and eventually you get one. then, you say,
+      「ついに買った。」
+      you really need that PC.
+
+      :( tsui = ukkari
+      :) tsuini = yatto
+    html: |-
+      「つい」and「ついに」is different. <br/><br/>「つい」means... "regretfully"<br/>for example, you go shopping, you find a new PC. you already have a PC, but you buy the spanky new one anyway. then, you say<br/>「つい、買った。」<br/>in fact, you don't need that PC. <br/><br/>「ついに」means..."at last"<br/>you wanted a PC for a long time, and eventually you get one. then, you say,<br/>「ついに買った。」<br/>you really need that PC.<br/><br/>:( tsui = ukkari<br/>:) tsuini = yatto
+    credits_raw: hiro
+    content_sha256: 42e62c3e459a4722278ec75912a7a6ee02a9efdd300ef8b82a335f3dbea2c32b
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Inadvertantly, unintentionally, etc.
+    html: Inadvertantly, unintentionally, etc.
+    credits_raw: Amatuka
+    content_sha256: ddcd70b74b7d21913d46d28d217119f3ab5199402de8ba3f9d76e36f9488dbc8
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: ex1273 seems different from the others?
+    html: ex1273 seems different from the others?
+    credits_raw: dc
+    content_sha256: 2006de9d29df65fb8a39f0123459e4af11c30a9dcfafa0ac8642be8e52fc6a16
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      Yes. The つい means すぐ。This emphases something happens very close in time/distance.
+      つい２、３時間前に as recently as a few hours 
+      ついそこまで休憩に行ってきました。I went right over there for break.
+    html: |-
+      Yes. The つい means すぐ。This emphases something happens very close in time/distance.<br/>つい２、３時間前に as recently as a few hours <br/>ついそこまで休憩に行ってきました。I went right over there for break.
+    credits_raw: Miki
+    content_sha256: 3b029da21da8a907b3ba4560fca985ef77cd704e7fc1cd95938258665aaf151f
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      'tsui',according to me is used when you get indulged in your inner feelings so much that you forget what is going around.
+      ex-夢中で、つい大きい声で歌ってしまって、はずかしかった。
+    html: |-
+      'tsui',according to me is used when you get indulged in your inner feelings so much that you forget what is going around.<br/>ex-夢中で、つい大きい声で歌ってしまって、はずかしかった。
+    credits_raw: ashishjoshi
+    content_sha256: 70202bef27ef4ea2e62dc6b7e48c33103c259e4ab3682ce874262bef675f579f
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: Is "tsui" an interjection like "tsk" or "tsch"?
+    html: Is "tsui" an interjection like "tsk" or "tsch"?
+    credits_raw: DrJones
+    content_sha256: b27dc5238bdb2e00cac6cbee8298913521edd99ceaad76f5c909c9b3b5d492c3
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 946
+    label: ふと
+    source_url: https://takoboto.jp/bunpo/946
+  - target_id: 948
+    label: うっかり
+    source_url: https://takoboto.jp/bunpo/948
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:54+00:00'
+response_sha256: 9f766668563ee387416cf7a0b8a41ebf1668da87dd9155987092ddbd462e3356
+warnings: []

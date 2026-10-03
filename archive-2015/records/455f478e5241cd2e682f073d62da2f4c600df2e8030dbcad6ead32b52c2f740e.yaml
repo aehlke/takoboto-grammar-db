@@ -1,0 +1,115 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1743
+label: yueni
+title_raw: 故に, 故の [ゆえに, ゆえの] (yueni)
+title: 故に, 故の
+reading: ゆえに, ゆえの
+romanized_label: yueni
+category: null
+jlpt_level_original: '1'
+meaning: Due to, therefore (formal, written)
+meaning_example: She also has many worries due to her good looks.
+credits_raw: LR
+source_url: http://jgram.org/pages/viewOne.php?tagE=yueni
+archive_url: https://web.archive.org/web/20150224225957id_/http://jgram.org/pages/viewOne.php?tagE=yueni
+archive_timestamp: '20150224225957'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: JVU2WC4UCSJ6SBPM2QJGFKPNH44I7DK3
+response_sha256: 4fded46d16487a9c0b3cd3ff279788c70c18b6e43e31c3e11bb950207adb5356
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Ref #\x01 Kanzen Master Level 1 - p24 - no.23"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=yueni#\x01\">#\x01</a></b></b> Kanzen Master Level 1 - p24 - no.23"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Ref #\x01 A Dictionary of Advanced Japanese Grammar p745"
+    html: "<b>Ref <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=yueni#\x01\">#\x01</a></b></b> A Dictionary of Advanced Japanese Grammar p745"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "can be used at the beginning of a setence:\n\r\nI think. Therefore I am.\n\r\n我思う。ゆえに我在り。"
+    html: "can be used at the beginning of a setence:<br/>\r\nI think. Therefore I am.<br/>\r\n我思う。<strong>ゆえに</strong>我在り。"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: |-
+      The second clause cannot usually be in the past tense, unless the result (2d clause) is ongoing.  So, になった　is OK for the predicate because it tells of the circumstances today.
+    html: |-
+      The second clause cannot usually be in the past tense, unless the result (2d clause) is ongoing.  So, になった　is OK for the predicate because it tells of the circumstances today.
+    credits_raw: american57
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7888
+    position: 0
+    japanese: 動かぬ証拠があるゆえに、有罪が確定した
+    body_text: "動かぬ証拠があるゆえに、有罪が確定した \n\nbecause of \n\t\tthe rock-solid evidence, his guilt was proven"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ動かぬ証拠があるゆえに、有罪が確定した\">\n\t\t\t\t動かぬ証拠がある<strong>ゆえに</strong>、有罪が確定した<strong></strong></a> <br/>\n<strong>because of </strong>\n\t\tthe rock-solid evidence, his guilt was proven"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7889
+    position: 1
+    japanese: 彼女はその美貌の故に、悩みも多い。
+    body_text: "彼女はその美貌の故に、悩みも多い。 \n\nBecause of \n\t\ther good looks, she also has many things to worry about."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼女はその美貌の故に、悩みも多い。\">\n\t\t\t\t彼女はその美貌の<strong>故に</strong>、悩みも多い。<strong></strong></a> <br/>\n<strong>Because of </strong>\n\t\ther good looks, she also has many things to worry about."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7890
+    position: 2
+    japanese: 結果にこだわりすぎるがゆえに、小さなことに心を奪われることになる。
+    body_text: "結果にこだわりすぎるがゆえに、小さなことに心を奪われることになる。 \n\nBecause \n\t\tyou want the end result to be perfect, you end up being distracted by the little things,"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ結果にこだわりすぎるがゆえに、小さなことに心を奪われることになる。\">\n\t\t\t\t結果にこだわりすぎる<strong>がゆえに</strong>、小さなことに心を奪われることになる。<strong></strong></a> <br/>\n<strong>Because </strong>\n\t\tyou want the end result to be perfect, you end up being distracted by the little things,"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: american57
+    text: "I have my doubts about example 7888 because it is past tense and the proving has finished. So, I think \"yue ni\" cannot be used here.  However, if the predicate were \"yuuzai hanketsu ni natta\" or \"yuuzai de aru\" (\"is a guilty verdict\" or \"is guilty\"), it may be grammatical.\n\n\n\r\nThe second clause cannot be a completed action, per Dictionary of Advanced Japanese Grammar p.747. Examples 7889 and 7890 are copied from that book verbatim and should be credited to it."
+    html: "I have my doubts about example 7888 because it is past tense and the proving has finished. So, I think \"yue ni\" cannot be used here.  However, if the predicate were \"yuuzai hanketsu ni natta\" or \"yuuzai de aru\" (\"is a guilty verdict\" or \"is guilty\"), it may be grammatical.<br/>\n<br/>\r\nThe second clause cannot be a completed action, per Dictionary of Advanced Japanese Grammar p.747. Examples 7889 and 7890 are copied from that book verbatim and should be credited to it."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "故に, 故の [ゆえに, ゆえの] (yueni)\n    Meaning: Due to, therefore (formal, written) \n    Example: She also has many worries due to her good looks.\n    JLPT Level: 1\n    Author: LR"
+    html: |-
+      <span>故に, 故の [ゆえに, ゆえの] (yueni)</span><br/>    <span><b>Meaning</b>: Due to, therefore (formal, written) </span><br/>    <b>Example</b>: <i>She also has many worries due to her good looks.</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Author</b>: <i>LR</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225957'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 8524306
+  length: 5791
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 1705bd9ef68a822f72a0a6d8d2332d87917a6be77b49118dd1e52ce58a17d8b1

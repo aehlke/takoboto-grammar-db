@@ -1,0 +1,278 @@
+schema_version: 2
+id: 1139
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1139/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 致します
+romanized_label: itashimasu
+alternate_forms:
+  - いたします
+jlpt_level: 2
+credits_raw: dc
+meaning: do (humble)
+meaning_example: I will present this to you
+meaning_notes:
+  - language: ja
+    text: 致すと言う言葉はするの意味と一緒です
+    html: 致すと言う言葉はするの意味と一緒です
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1139
+    body_text: |-
+      do (humble) 
+       I will present this to you 
+       致すと言う言葉はするの意味と一緒です
+    body_html: |-
+      <span>do (humble)</span> <br/> <span>I will present this to you</span> <br/> <span>致すと言う言葉はするの意味と一緒です</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 3173
+    position: 0
+    japanese: あなたの申し出をお受け致します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>あなたの</span></a><a href="https://takoboto.jp/?q=%e7%94%b3%e3%81%97"><span>申し</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%82%92"><span>出を</span></a><a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e5%8f%97%e3%81%91"><span>受け</span></a><a href="https://takoboto.jp/?q=%e8%87%b4%e3%81%97%e3%81%be%e3%81%99"><strong>致します</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あなたの申し出をお受け
+        grammar_highlight: false
+      - text: 致します
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あなたのもうしでをおうけいたします。
+    credits_raw: dc, bamboo4
+    translations:
+      - language: en
+        text: We'd like to accept your proposal.
+        html: |-
+          <span>We'd like to accept your proposal. </span>
+        segments:
+          - text: 'We''d like to accept your proposal. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3174
+    position: 1
+    japanese: また何か他の募集がありましたらお知らせ致します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%be%e3%81%9f"><span>また</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%81%8b"><span>何か</span></a><a href="https://takoboto.jp/?q=%e4%bb%96%e3%81%ae"><span>他の</span></a><a href="https://takoboto.jp/?q=%e5%8b%9f%e9%9b%86%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%97%e3%81%9f%e3%82%89%e3%81%8a"><span>募集がありましたらお</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%81%9b"><span>知らせ</span></a><a href="https://takoboto.jp/?q=%e8%87%b4%e3%81%97%e3%81%be%e3%81%99"><strong>致します</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: また何か他の募集がありましたらお知らせ
+        grammar_highlight: false
+      - text: 致します
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: またなにかたのぼしゅうがありましたらおしらせいたします。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I most certainly will let you know if we have any other recruitment program turns up.
+        html: |-
+          <strong>I most certainly will </strong><span>let you know if we have any other recruitment program turns up. </span>
+        segments:
+          - text: 'I most certainly will '
+            grammar_highlight: true
+          - text: 'let you know if we have any other recruitment program turns up. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4595
+    position: 2
+    japanese: 少々お待ち下さい。おつなぎ致します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%b0%91%e3%80%85%e3%81%8a"><span>少々お</span></a><a href="https://takoboto.jp/?q=%e5%be%85%e3%81%a1"><span>待ち</span></a><a href="https://takoboto.jp/?q=%e4%b8%8b%e3%81%95%e3%81%84%e3%80%82"><span>下さい。</span></a><a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%a4%e3%81%aa%e3%81%8e"><span>おつなぎ</span></a><a href="https://takoboto.jp/?q=%e8%87%b4%e3%81%97%e3%81%be%e3%81%99"><strong>致します</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 少々お待ち下さい。おつなぎ
+        grammar_highlight: false
+      - text: 致します
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: しょうしょうおまちください。おつなぎいたします。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: Hang on, I'll transfer you.
+        html: |-
+          <span>Hang on, I'll transfer you. </span>
+        segments:
+          - text: 'Hang on, I''ll transfer you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4596
+    position: 3
+    japanese: この場合、未開封のメディアパッケージを速やかにABC社に返送して頂ければ、商品代金を全額払い戻し致します。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%a0%b4%e5%90%88%e3%80%81"><span>場合、</span></a><a href="https://takoboto.jp/?q=%e6%9c%aa%e9%96%8b%e5%b0%81%e3%81%ae%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%83%91%e3%83%83%e3%82%b1%e3%83%bc%e3%82%b8%e3%82%92"><span>未開封のメディアパッケージを</span></a><a href="https://takoboto.jp/?q=%e9%80%9f%e3%82%84%e3%81%8b%e3%81%abABC"><span>速やかにABC</span></a><a href="https://takoboto.jp/?q=%e7%a4%be%e3%81%ab"><span>社に</span></a><a href="https://takoboto.jp/?q=%e8%bf%94%e9%80%81%e3%81%97%e3%81%a6"><span>返送して</span></a><a href="https://takoboto.jp/?q=%e9%a0%82%e3%81%91%e3%82%8c%e3%81%b0%e3%80%81"><span>頂ければ、</span></a><a href="https://takoboto.jp/?q=%e5%95%86%e5%93%81%e4%bb%a3%e9%87%91%e3%82%92"><span>商品代金を</span></a><a href="https://takoboto.jp/?q=%e5%85%a8%e9%a1%8d"><span>全額</span></a><a href="https://takoboto.jp/?q=%e6%89%95%e3%81%84"><span>払い</span></a><a href="https://takoboto.jp/?q=%e6%88%bb%e3%81%97"><span>戻し</span></a><a href="https://takoboto.jp/?q=%e8%87%b4%e3%81%97%e3%81%be%e3%81%99"><strong>致します</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: この場合、未開封のメディアパッケージを速やかにABC社に返送して頂ければ、商品代金を全額払い戻し
+        grammar_highlight: false
+      - text: 致します
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このばあい、みかいふうのメディアパッケージをすみやかにしゃにへんそうしていただければ、しょうひんだいきんをぜんがくはらいもどしいたします。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: In this case, promptly return the unopened media package to ABC for a full refund.
+        html: |-
+          <span>In this case, promptly return the unopened media package to ABC for a full refund. </span>
+        segments:
+          - text: 'In this case, promptly return the unopened media package to ABC for a full refund. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8190
+    position: 4
+    japanese: お手伝い致しましょうか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e4%bc%9d%e3%81%84"><span>手伝い</span></a><a href="https://takoboto.jp/?q=%e8%87%b4%e3%81%97%e3%81%be%e3%81%97%e3%82%87%e3%81%86"><strong>致しましょう</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b"><span>か</span></a>
+    segments:
+      - text: お手伝い
+        grammar_highlight: false
+      - text: 致しましょう
+        grammar_highlight: true
+      - text: か
+        grammar_highlight: false
+    reading: おてつだいいたしましょうか
+    credits_raw: karekano
+    translations:
+      - language: en
+        text: Shall I help you?
+        html: |-
+          <strong>Shall </strong><span>I help you? </span>
+        segments:
+          - text: 'Shall '
+            grammar_highlight: true
+          - text: 'I help you? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      itashimasu is "to do" spoken in a modest manner, or which the Japanese call 謙譲語 (kenjyougo or humble language).
+
+      私がいたします would be directed to your superior meaning that "I will do that." 
+      It has nothing to do with "giving" or "receiving" which would be involved in 貰う and あげる.
+    html: |-
+      itashimasu is "to do" spoken in a modest manner, or which the Japanese call 謙譲語 (kenjyougo or humble language).<br/><br/>私がいたします would be directed to your superior meaning that "I will do that." <br/>It has nothing to do with "giving" or "receiving" which would be involved in 貰う and あげる.
+    credits_raw: dc
+    content_sha256: a3209fe7cff5c3558b7b9bb32b7f57424bc32093abf9bab0e5700c216c7fa622
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      致します is the keigo form of suru. Although it can mean I will do, it can also take the past tense form and mean I have done. IE 致しました
+    html: |-
+      致します is the keigo form of suru. Although it can mean I will do, it can also take the past tense form and mean I have done. IE 致しました
+    credits_raw: tigert
+    content_sha256: 790b4ed3e074bfc9da68e67da3fd8f368538fd63e9e94a2a6a76fcb357b5ad64
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Trying to nail down [itashimasu] and [itadakimasu] Are these slightly literal translations (a) correct japanese and (b) accurate translations?
+
+      社長の指示を転送致します
+       I hereby forward the boss's instructions
+
+      社長の指示を転送させて頂きます
+       Please let me forward the boss's instructions
+    html: |-
+      Trying to nail down [itashimasu] and [itadakimasu] Are these slightly literal translations (a) correct japanese and (b) accurate translations?<br/><br/>社長の指示を転送致します<br/> I hereby forward the boss's instructions<br/><br/>社長の指示を転送させて頂きます<br/> Please let me forward the boss's instructions
+    credits_raw: dc
+    content_sha256: 56c755cfa768399c3657fbf1a30e1409829a13ed9cae329632cda3eefbda87dc
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: dc ex3173 文字化けしていましたよ。
+    html: dc ex3173 文字化けしていましたよ。
+    credits_raw: Miki
+    content_sha256: be5792265107b73415c8d593d3729164ce51246a39f04765d3687d76a87db169
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: looks like 文字化け but actually i got the example verbatim from ALC... is it wrong?
+    html: looks like 文字化け but actually i got the example verbatim from ALC... is it wrong?
+    credits_raw: dc
+    content_sha256: dc7b78b5acc09c026ec80a6172bebab0639cfe631fdbad18c7b034c0264da92a
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      so [itashimasu] can be thought of like a polite form of [suru]? Thus used to make all the suru verbs polite?
+      転送します ⇒ 転送致します
+    html: |-
+      so [itashimasu] can be thought of like a polite form of [suru]? Thus used to make all the suru verbs polite?<br/>転送します ⇒ 転送致します
+    credits_raw: dc
+    content_sha256: 775e09412779d136e4a810487f4a10b09e8f4499dbeed44f664b411ad68cfce9
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: itashimasu 致し ます can be 丁寧語 or 謙譲語 of suru.
+    html: itashimasu 致し ます can be 丁寧語 or 謙譲語 of suru.
+    credits_raw: Miki
+    content_sha256: 191e93249b3147bd19385fa5ae758f26e6e989000448c9cbb00b8278e304d681
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      good page 
+       here on humble/honorific
+    html: |-
+      good page <br/> here on humble/honorific
+    credits_raw: dc
+    content_sha256: 9f97af08b370ee3c5e64cdd83352fc875155560848082f83e988f4841d26a637
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: dc, could you please delete my commnet of "The kanji 「申」 seems to become ..."? Thanks!
+    html: dc, could you please delete my commnet of "The kanji 「申」 seems to become ..."? Thanks!
+    credits_raw: Miki
+    content_sha256: ef253362f274f11078b3bb2348337b445869a244d2147ff7f00d3f4414a34939
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: sure, I deleted the one about fUnny characters.
+    html: sure, I deleted the one about fUnny characters.
+    credits_raw: dc
+    content_sha256: dd82fcaffcf6f453bf69768c46762e202349392cdcaef9aedf92b3efa9926ad7
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      Is there a difference between やる and 致す？ Can they be used interchangeably? If not, could someone please explain the difference? Thank you in advance!
+
+      eg. 
+      それも私がやります。
+      versus
+      それも私が致します。
+    html: |-
+      Is there a difference between やる and 致す？ Can they be used interchangeably? If not, could someone please explain the difference? Thank you in advance!<br/><br/>eg. <br/>それも私がやります。<br/>versus<br/>それも私が致します。
+    credits_raw: kokowani
+    content_sha256: 035181a198f2dd56e987fea193f53c0f15a5a249e018d396052f54404f704451
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:39:24+00:00'
+response_sha256: 5336a6c0ae2b809e6cc39612e2c8d00e8050078513d498a5d1d92911b484ca51
+warnings: []

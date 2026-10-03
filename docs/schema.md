@@ -6,21 +6,21 @@ comments, and grammar links form a graph. A Markdown-only hierarchy cannot
 represent those relationships reliably or answer queries without reparsing
 prose.
 
-Use per-entry JSON as the loss-preserving text interchange format in Git,
+Use per-entry YAML as the loss-preserving text interchange format in Git,
 SQLite as the queryable build, and Markdown as the reader-friendly build.
-The JSON record includes every extracted HTML/text field and observation;
-SQLite also embeds it in `entries.record_json`, so SQL normalization does not
+The YAML record includes every extracted HTML/text field and observation;
+SQLite embeds the complete parsed record as JSON in `entries.record_json`, so SQL normalization does not
 discard information. Raw response bytes live separately in a hash-addressed
 cache. Database/Markdown exports require no network.
 
 The executable schema is [schema.sql](../src/takoboto_grammar/schema.sql).
 SQLite schema **3** is set in `user_version` and database metadata.
-Current-source JSON remains schema **2**; legacy version 1 records can be read.
+Current-source records remain schema **2**; legacy version 1 records can be read.
 Historical records have their own `archive_schema_version: 1`.
 
 SQLite schema **3** preserves repeated historical example IDs by keying
 `archive_examples` on `(entry_key, position)`. `source_id` is original metadata
-and may repeat. Current JSON schema remains 2; historical JSON remains 1.
+and may repeat. Current record schema remains 2; historical record schema remains 1.
 Dated backup observations use a snapshot-qualified entry key and preserve the
 complete `retrieval` and `source_decoding_segments` objects in `record_json`.
 See [provenance](provenance.md) for the WARC verification and byte-preservation rules.
@@ -88,7 +88,7 @@ and unsanitized description strings remain in the feed record JSON for auditing.
   links, and presentation cues. Strip scripts, event handlers, forms, and unsafe
   link schemes from display fragments. Preserve original bytes in the cache.
 - Snapshot old responses instead of erasing evidence on refresh. The current
-  JSON record is a refreshed extraction, not a claim to contain revision history.
+  YAML record is a refreshed extraction, not a claim to contain revision history.
 - Do not silently omit unfamiliar content blocks. Retain them, report a warning,
   and review the parser before calling the full extraction complete.
 
@@ -125,7 +125,7 @@ SELECT entry_id, kind, text FROM search_documents WHERE text LIKE '%ように%';
 
 ## Community workflow
 
-Commit canonical JSON records, provenance manifests, attribution, and reviewed
+Commit canonical YAML records, provenance manifests, attribution, and reviewed
 corrections. Publish SQLite as a generated release artifact. Generate Markdown
 locally for browsing or documentation hosting; keep it out of Git. Exports should use
 fresh directories so changed classifications cannot leave old copies behind.
@@ -133,8 +133,8 @@ fresh directories so changed classifications cannot leave old copies behind.
 Human corrections should live in a separate overlay keyed by entry ID and,
 where applicable, example ID. Comment corrections need a snapshot/content hash
 anchor because source positions can shift. That overlay and its merge policy
-are not implemented in version 0.3.0. Source refresh currently replaces
-`records/<id>.json`; do not use those files as the only home of manual edits.
+are not implemented in version 0.4.0. Source refresh currently replaces
+`records/<id>.yaml`; do not use those files as the only home of manual edits.
 
 The raw-response cache is local by default. Historical response metadata and
 hashes provide source auditability; a future release can include selected

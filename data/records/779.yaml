@@ -1,0 +1,467 @@
+schema_version: 2
+id: 779
+source: takoboto
+source_url: https://takoboto.jp/bunpo/779/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: べき
+romanized_label: beki
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: should do
+meaning_example: I should have studied more.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_779
+    body_text: |-
+      should do 
+       I should have studied more.
+    body_html: |-
+      <span>should do</span> <br/> <span>I should have studied more.</span>
+    credits_raw: Amatuka
+  - kind: formation
+    source_dom_id: editable_Formation_779
+    body_text: Verb (standard form)+べき（だ）Special verb+する+べき（だ）な-adjective+(な) → である+べき（だ）い-adjective+(い) → くある+べき（だ）
+    body_html: |-
+      <div><div><div>Verb (standard form)</div></div><div><div>+</div><div>べき（だ）</div></div></div><div><div><div>Special verb</div></div><div><div>+</div><div>する</div></div><div><div>+</div><div>べき（だ）</div></div></div><div><div><div>な-adjective</div></div><div><div>+</div><div>(な) → である</div></div><div><div>+</div><div>べき（だ）</div></div></div><div><div><div>い-adjective</div></div><div><div>+</div><div>(い) → くある</div></div><div><div>+</div><div>べき（だ）</div></div></div>
+    credits_raw: null
+formations:
+  - Verb (standard form) + べき（だ）
+  - Special verb + する + べき（だ）
+  - な-adjective + (な) → である + べき（だ）
+  - い-adjective + (い) → くある + べき（だ）
+examples:
+  - source_id: 898
+    position: 0
+    japanese: 私は列車に乗り遅れた。もっと早く来るべきだった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%88%97%e8%bb%8a%e3%81%ab"><span>列車に</span></a><a href="https://takoboto.jp/?q=%e4%b9%97%e3%82%8a"><span>乗り</span></a><a href="https://takoboto.jp/?q=%e9%81%85%e3%82%8c%e3%81%9f%e3%80%82%e3%82%82%e3%81%a3%e3%81%a8"><span>遅れた。もっと</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e3%81%8f"><span>早く</span></a><a href="https://takoboto.jp/?q=%e6%9d%a5%e3%82%8b"><span>来る</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8d"><strong>べき</strong></a><a href="https://takoboto.jp/?q=%e3%81%a0%e3%81%a3%e3%81%9f%e3%80%82"><span>だった。</span></a>
+    segments:
+      - text: 私は列車に乗り遅れた。もっと早く来る
+        grammar_highlight: false
+      - text: べき
+        grammar_highlight: true
+      - text: だった。
+        grammar_highlight: false
+    reading: わたしはれっしゃにのりおくれた。もっとはやくきたるべきだった。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I missed the train. I should have come earlier.
+        html: |-
+          <span>I missed the train. </span><strong>I should have </strong><span>come earlier. </span>
+        segments:
+          - text: 'I missed the train. '
+            grammar_highlight: false
+          - text: 'I should have '
+            grammar_highlight: true
+          - text: 'come earlier. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3916
+    position: 1
+    japanese: われわれはなるべくたくさん本を読むべきである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%82%8c%e3%82%8f%e3%82%8c%e3%81%af%e3%81%aa%e3%82%8b%e3%81%b9%e3%81%8f%e3%81%9f%e3%81%8f%e3%81%95%e3%82%93"><span>われわれはなるべくたくさん</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%82%92"><span>本を</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%80"><span>読む</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8d"><strong>べき</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>である。</span></a>
+    segments:
+      - text: われわれはなるべくたくさん本を読む
+        grammar_highlight: false
+      - text: べき
+        grammar_highlight: true
+      - text: である。
+        grammar_highlight: false
+    reading: われわれはなるべくたくさんほんをよむべきである。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: We should read as many books as possible.
+        html: |-
+          <span>We </span><strong>should </strong><span>read as many books as possible. </span>
+        segments:
+          - text: 'We '
+            grammar_highlight: false
+          - text: 'should '
+            grammar_highlight: true
+          - text: 'read as many books as possible. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4405
+    position: 2
+    japanese: あなたは他の人たちの援助を当てにすべきでない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af"><span>あなたは</span></a><a href="https://takoboto.jp/?q=%e4%bb%96%e3%81%ae"><span>他の</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%9f%e3%81%a1%e3%81%ae"><span>人たちの</span></a><a href="https://takoboto.jp/?q=%e6%8f%b4%e5%8a%a9%e3%82%92"><span>援助を</span></a><a href="https://takoboto.jp/?q=%e5%bd%93%e3%81%a6%e3%81%ab%e3%81%99"><span>当てにす</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8d"><strong>べき</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%81%aa%e3%81%84%e3%80%82"><span>でない。</span></a>
+    segments:
+      - text: あなたは他の人たちの援助を当てにす
+        grammar_highlight: false
+      - text: べき
+        grammar_highlight: true
+      - text: でない。
+        grammar_highlight: false
+    reading: あなたはたのひとたちのえんじょをあてにすべきでない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: You shouldn't rely on other people's help.
+        html: |-
+          <span>You shouldn't rely on other people's help. </span>
+        segments:
+          - text: 'You shouldn''t rely on other people''s help. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4406
+    position: 3
+    japanese: いかに生きるべきかは、青年にとって重要な問題である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8b%e3%81%ab"><span>いかに</span></a><a href="https://takoboto.jp/?q=%e7%94%9f%e3%81%8d%e3%82%8b"><span>生きる</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8d"><strong>べき</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%af%e3%80%81"><span>かは、</span></a><a href="https://takoboto.jp/?q=%e9%9d%92%e5%b9%b4%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6"><span>青年にとって</span></a><a href="https://takoboto.jp/?q=%e9%87%8d%e8%a6%81%e3%81%aa"><span>重要な</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>問題である。</span></a>
+    segments:
+      - text: いかに生きる
+        grammar_highlight: false
+      - text: べき
+        grammar_highlight: true
+      - text: かは、青年にとって重要な問題である。
+        grammar_highlight: false
+    reading: いかにいきるべきかは、せいねんにとってじゅうようなもんだいである。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: How to live is an important question to young people.
+        html: |-
+          <span>How to live is an important question to young people. </span>
+        segments:
+          - text: 'How to live is an important question to young people. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4407
+    position: 4
+    japanese: いつ出発するべきか私に教えてください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%a4"><span>いつ</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e7%99%ba%e3%81%99%e3%82%8b"><span>出発する</span></a><a href="https://takoboto.jp/?q=%e3%81%b9%e3%81%8d"><strong>べき</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b"><span>か</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ab"><span>私に</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>教えてください。</span></a>
+    segments:
+      - text: いつ出発する
+        grammar_highlight: false
+      - text: べき
+        grammar_highlight: true
+      - text: か私に教えてください。
+        grammar_highlight: false
+    reading: いつしゅっぱつするべきかわたしにおしえてください。
+    credits_raw: Miki, vizoso
+    translations:
+      - language: en
+        text: Please tell me when I should leave.
+        html: |-
+          <span>Please tell me when I </span><strong>should </strong><span>leave. </span>
+        segments:
+          - text: 'Please tell me when I '
+            grammar_highlight: false
+          - text: 'should '
+            grammar_highlight: true
+          - text: 'leave. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4746
+    position: 5
+    japanese: ここで君は何をすべきかを真剣に考える必要があると思う。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%93%e3%81%a7"><span>ここで</span></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%af"><span>君は</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%92"><span>何を</span></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%81%b9%e3%81%8d"><strong>すべき</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%92"><span>かを</span></a><a href="https://takoboto.jp/?q=%e7%9c%9f%e5%89%a3%e3%81%ab"><span>真剣に</span></a><a href="https://takoboto.jp/?q=%e8%80%83%e3%81%88%e3%82%8b"><span>考える</span></a><a href="https://takoboto.jp/?q=%e5%bf%85%e8%a6%81%e3%81%8c%e3%81%82%e3%82%8b%e3%81%a8"><span>必要があると</span></a><a href="https://takoboto.jp/?q=%e6%80%9d%e3%81%86%e3%80%82"><span>思う。</span></a>
+    segments:
+      - text: ここで君は何を
+        grammar_highlight: false
+      - text: すべき
+        grammar_highlight: true
+      - text: かを真剣に考える必要があると思う。
+        grammar_highlight: false
+    reading: ここできみはなにをすべきかをしんけんにかんがえるひつようがあるとおもう。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: I think it is necessary for you to ponder seriously what you ought to be doing at this juncture.
+        html: |-
+          <span>I think it is necessary for you to ponder seriously what you </span><strong>ought to be </strong><span>doing at this juncture. </span>
+        segments:
+          - text: 'I think it is necessary for you to ponder seriously what you '
+            grammar_highlight: false
+          - text: 'ought to be '
+            grammar_highlight: true
+          - text: 'doing at this juncture. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      It is incorrect to use negative+beki. eg
+      その本を読まないべきです。 (wrong)
+
+      if you want to use negative use [houga]ii
+    html: |-
+      It is incorrect to use negative+beki. eg<br/>その本を読まないべきです。 (wrong)<br/><br/>if you want to use negative use [houga]ii
+    credits_raw: dc
+    content_sha256: bb7b0b5cf4eb0d0a8c6c79bcd3b4d665cc473af7e59939a8a1d2ed0f7eb64238
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      V-dict + beki
+      読むべき - should read
+      するべき - should do
+    html: |-
+      V-dict + beki<br/>読むべき - should read<br/>するべき - should do
+    credits_raw: dc
+    content_sha256: 3e2c02b10f20d5b740dee0cd1d6c56c506028281b89b9f895e401883c8c8e068
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: "〜べき is conjugated like this\n\nVruべき or すべき (for the actual verb する only, or verbs like 充分する) \n\n例：行くべき すべき\n　\n　Noun/ adj(na)であるべき　　　Adj(i)くべき\n\n例：心配であるべき 例：鋭くべき\n　　目的でらるべき\n\nThe adj(i) form is not used frequently, but you might encounter it in some books or proverbs.\n\nBecause it is considered a noun, there is also a negative form and past form of べき, you conjugate it like any other noun.\n\nYou generally end べき with だ、but you can also attach other nouns like こと、もの or even use the verbal form of べき, べく.\n\n☆ Be careful,　べき is considered very strong language in Japanese and should only be used with (or when referring to) people on your level or lower.\n\nべき is similar to はず be cause both express expectation. However　はず literally means 'expectation' and simply states that you expect something to (or not to) happen. \n\nべき　expresses the fact that something or someone is expected to do something based on the current situation, such as status (You should be polite because you're younger.) For the most part you use べき when it is something that should be done because it should come naturally (or is expected to happen naturally.)\n\nThis is considered strong because the thing that is expected to happen usually carries a sense of obligation (generally social) and if what should happen doesn't there is an implied sense of dire consequences for the person."
+    html: |-
+      〜べき is conjugated like this<br/><br/>Vruべき or すべき (for the actual verb する only, or verbs like 充分する) <br/><br/>例：行くべき すべき<br/>　<br/>　Noun/ adj(na)であるべき　　　Adj(i)くべき<br/><br/>例：心配であるべき 例：鋭くべき<br/>　　目的でらるべき<br/><br/>The adj(i) form is not used frequently, but you might encounter it in some books or proverbs.<br/><br/>Because it is considered a noun, there is also a negative form and past form of べき, you conjugate it like any other noun.<br/><br/>You generally end べき with だ、but you can also attach other nouns like こと、もの or even use the verbal form of べき, べく.<br/><br/>☆ <strong>Be careful,　べき is considered very strong language in Japanese and should only be used with (or when referring to) people on your level or lower.</strong><br/><br/>べき is similar to はず be cause both express expectation. However　はず literally means 'expectation' and simply states that you expect something to (or not to) happen. <br/><br/>べき　expresses the fact that something or someone is expected to do something based on the current situation, such as status (You should be polite because you're younger.) For the most part you use べき when it is something that should be done because it should come naturally (or is expected to happen naturally.)<br/><br/><strong>This is considered strong because the thing that is expected to happen usually carries a sense of obligation (generally social) and if what should happen doesn't there is an implied sense of <b>dire</b> consequences for the person.</strong>
+    credits_raw: Jinyanwa
+    content_sha256: 01ac26ed7dc1a09fd60b04d5bc011d141474efb4ee04ce720a5b5872faf20be4
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      From my experience, べき is used in conversation only in philosophical or theoretical type discussions..... when talking about things you should or shouldn`t do in society or at school or even just while driving a car -- that`s the only time I ever hear it in conversation. Any feedback on this --
+    html: |-
+      From my experience, べき is used in conversation only in philosophical or theoretical type discussions..... when talking about things you should or shouldn`t do in society or at school or even just while driving a car -- that`s the only time I ever hear it in conversation. Any feedback on this --
+    credits_raw: Gren
+    content_sha256: 87890387616f3d539644051d0b36d665eeefa7f99d382790ed0e82681056e366
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Hello. Need a hand here , guyz.
+      私は列車に乗り遅れた。もっと早く来るべきだった.
+      if i add だった to べき , the meaning changes to should have done sth ? and at the top of this page it says : Meaning: should do Vru, why is benkyou followed by su, instead of Vru(which would have been suru)「Mちゃん、もっと勉強すべきだよ。」and Mr.dc said it must not be used in negative sentences, what about this one [ あなたは他の人たちの援助を当てにすべきでない。 ]
+      seems negative to me ^^
+
+       Help is much appreciated.
+    html: |-
+      Hello. Need a hand here , guyz.<br/>私は列車に乗り遅れた。もっと早く来るべきだった.<br/>if i add だった to べき , the meaning changes to should have done sth ? and at the top of this page it says : Meaning: should do Vru, why is benkyou followed by su, instead of Vru(which would have been suru)「Mちゃん、もっと勉強すべきだよ。」and Mr.dc said it must not be used in negative sentences, what about this one [ あなたは他の人たちの援助を当てにすべきでない。 ]<br/>seems negative to me ^^<br/><br/> Help is much appreciated.
+    credits_raw: gregory
+    content_sha256: f29b4eac101ed57b2242f45ae308aaa43e4f00ec1071f3f22cb14d575d5b1666
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      @adamstudio:
+      べき is the 連体形 of the classical auxiliary verb べし, which attaches to the dictionary form of verbs. It's not a noun.
+
+      Can you express the idea of "should" with "〜ばいいだろう"？
+    html: |-
+      @adamstudio:<br/>べき is the 連体形 of the classical auxiliary verb べし, which attaches to the dictionary form of verbs. It's not a noun.<br/><br/>Can you express the idea of "should" with "〜ばいいだろう"？
+    credits_raw: jimmyseal
+    content_sha256: 12b0fcc2dcf534ca90ab8cd24425837fabdb51e87cfc0847ec48dc6ea853cbab
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      An important note would be to indicate that beki is used in a sense of "you should do something" as if there was an obligation involved such as attending a very imperative meeting or conference as opposed to hazu which roughly means "you should do something" without an obligation, e.g. "You should read books to get good grades"
+      In terms of archaicness beki is moderately outdated.
+    html: |-
+      An important note would be to indicate that beki is used in a sense of "you should do something" as if there was an obligation involved such as attending a very imperative meeting or conference as opposed to hazu which roughly means "you should do something" without an obligation, e.g. "You should read books to get good grades"<br/>In terms of archaicness beki is moderately outdated.
+    credits_raw: eidolon_shell
+    content_sha256: 2cb98173c3294a0e6976c9a6a546b6a79e7ec450d2d2b800760be7b27590775d
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      My correction. I made a tragic typo mistake. I meant to state that hazu is obligatory and beki is based on a general idea of supposition. Sorry about the confusion.
+    html: |-
+      My correction. I made a tragic typo mistake. I meant to state that hazu is obligatory and beki is based on a general idea of supposition. Sorry about the confusion.
+    credits_raw: eidolon_shell
+    content_sha256: 7f8fac0d7edc1cdb50125afc39ff6e11331b01d70fd43be678561cd873cd25ef
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: みなさん、ありがとう
+    html: みなさん、ありがとう
+    credits_raw: ythanh
+    content_sha256: edde8dd46c271501e8f6527edda14afe3af297e592b5f70a9b5e148ccfabe9dc
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      #1087
+      実際、これらの目標を達成するのに必要な役割を果たしてきた。
+      I wonder who says 欠くべからざる nowadays.
+
+      The other examples are all good.
+    html: |-
+      #1087<br/>実際、これらの目標を達成するのに必要な役割を果たしてきた。<br/>I wonder who says 欠くべからざる nowadays.<br/><br/>The other examples are all good.
+    credits_raw: Nick
+    content_sha256: 666ab54b440be6d168fe744cd08c682eb4ebd6de05408c159db2e1c84d8186b3
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      Relevant grammar question & comments here (fifth post).
+      P.S. Some handling for accidental, lone " marks inside [a] tags might be a good idea. ^^;
+    html: |-
+      Relevant grammar question &amp; comments here (fifth post).<br/>P.S. Some handling for accidental, lone " marks inside [a] tags might be a good idea. ^^;
+    credits_raw: Amatuka
+    content_sha256: 37c672bd781bdb02b57c4085d5a16e3833f61de8788a41da5e4b3723abf0c572
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: '#1088 好機逸すべからず。This is ことわざ(saying) Strike while the iron is hot, is a translation in a dictionry. 好機（こうき）、逸する（いっする）'
+    html: '#1088 好機逸すべからず。This is ことわざ(saying) Strike while the iron is hot, is a translation in a dictionry. 好機（こうき）、逸する（いっする）'
+    credits_raw: Miki
+    content_sha256: 5a19144775fe3aedf5769d7a0ad0e036c3149c8851470914ee32857fb15baaca
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      Correct me if I'm wrong, but I have a sense that "beki" is really a noun rather than a verb -- much like "hazu" or "tsumori" -- a noun that is modified by possibly long left-branching phrases. So in "motto hayaku kuru beki datta" you'd have "[there was a] motto-hayaku-kuru beki." -- what do you think?
+    html: |-
+      Correct me if I'm wrong, but I have a sense that "beki" is really a noun rather than a verb -- much like "hazu" or "tsumori" -- a noun that is modified by possibly long left-branching phrases. So in "motto hayaku kuru beki datta" you'd have "[there was a] motto-hayaku-kuru beki." -- what do you think?
+    credits_raw: adamstudio
+    content_sha256: 595c8c6c99bf1313a5d3004122d30daf77ae1a24b0f18002b74baad3cca3ebb7
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      I thought I wrote this yesterday... Can anyone confirm the relative strength of beki in speech? I was told it was rather strong...
+      (seems odd for comments to dissapear...)
+    html: |-
+      I thought I wrote this yesterday... Can anyone confirm the relative strength of beki in speech? I was told it was rather strong...<br/>(seems odd for comments to dissapear...)
+    credits_raw: ninja_k
+    content_sha256: 4fda1143944672f5fa77aa8ca4953ea8a7947d6e7064a632618b6a8e959f6869
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      There is a negative form of べき that can be used instead of 方がいい. They have slightly different meanings behind them also.
+    html: |-
+      There is a negative form of べき that can be used instead of 方がいい. They have slightly different meanings behind them also.
+    credits_raw: Jinyanwa
+    content_sha256: dacb044cbfbec08330d121cd178a83b1c98eeb4717dd8370c2d9ea8783be7878
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: べき is basically archaic.As such, it does have the effect of emphasis when used in ordinary conversation.
+    html: べき is basically archaic.As such, it does have the effect of emphasis when used in ordinary conversation.
+    credits_raw: bamboo4
+    content_sha256: d72c5a6c241b8803d148fe23da7238bb673d3dd29280200dc1d04ef77f579d5e
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: |-
+      To Nick, #1087 欠くべからざる is still used in a speech and in writing. 
+      実際、これらの目標を達成するのに不可欠な役割を果たしてきた would be a better alternative.
+    html: |-
+      To Nick, #1087 欠くべからざる is still used in a speech and in writing. <br/>実際、これらの目標を達成するのに不可欠な役割を果たしてきた would be a better alternative.
+    credits_raw: Miki
+    content_sha256: 681810336d456cefc7398327aa8c0e1c64fb52f17f6a709496b7f3361513a4ae
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    source_id: null
+    text: |-
+      It is incorrect to use negative+beki. (I made this mistake in my speaking test).
+      eg, this is gramatically incorrect: その本を読まないべきです。
+    html: |-
+      It is incorrect to use negative+beki. (I made this mistake in my speaking test).<br/>eg, this is gramatically incorrect: その本を読まないべきです。
+    credits_raw: NR
+    content_sha256: 2e16fb664309c3525d34fe0ce866d5e6080bc0f5af2bdd62fb8b60c52431f193
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    source_id: null
+    text: |-
+      If you want to say you should not read you say.
+
+      読まない方がいい
+    html: |-
+      If you want to say you should not read you say.<br/><br/>読まない方がいい
+    credits_raw: akiokun
+    content_sha256: dad4dd01a5e02e777f1dda350cafe522bfeb1d4886c7d32e5672decb92c53cbe
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    source_id: null
+    text: |-
+      My translation professor always grimaces if I use `beki` in class, he says it`s too bookish. What are some other options?
+    html: |-
+      My translation professor always grimaces if I use `beki` in class, he says it`s too bookish. What are some other options?
+    credits_raw: krafdhepkat
+    content_sha256: 82a80b1a2e986a205e3a36d7ba0d012393ceba4620b4a74367a886002944fc3d
+    original_created_at: null
+    original_updated_at: null
+  - position: 20
+    source_id: null
+    text: |-
+      べき can be replaced by （した）ほうがいい but not all the time.
+      ex1087 & 1088 this is a kind of set and cannot replaced.
+      ex898 : もっと早くきたほうがよかった。
+      ex3916: たくさん本を読んだほうがいい。
+
+      I don't think it's not too bookish if you use a casual sentence like this. But this sounds a bit acrid compared to したほうがいい.
+      「Mちゃん、もっと勉強すべきだよ。」
+    html: |-
+      べき can be replaced by （した）ほうがいい but not all the time.<br/>ex1087 &amp; 1088 this is a kind of set and cannot replaced.<br/>ex898 : もっと早くきたほうがよかった。<br/>ex3916: たくさん本を読んだほうがいい。<br/><br/>I don't think it's not too bookish if you use a casual sentence like this. But this sounds a bit acrid compared to したほうがいい.<br/>「Mちゃん、もっと勉強すべきだよ。」
+    credits_raw: Miki
+    content_sha256: f489cfa8ac087bd354b6070c36cc9529da43edd2397c57c943c0930238089535
+    original_created_at: null
+    original_updated_at: null
+  - position: 21
+    source_id: null
+    text: |-
+      great discussion. maybe someone could place a summary of the agreed meaning in the notes section at the top? (btw is Xephyers comment correct?)
+    html: |-
+      great discussion. maybe someone could place a summary of the agreed meaning in the notes section at the top? (btw is Xephyers comment correct?)
+    credits_raw: dc
+    content_sha256: 3c7fde824ab601559870b97f91c4ff34e54b88b879ee0bc96916cb855a96c60f
+    original_created_at: null
+    original_updated_at: null
+  - position: 22
+    source_id: null
+    text: "Hey gregory すべき　is japanese short form for するべき｡　and yes adding だった to the end of the sentence changes it to past tense. \n\nabout the negatives. what he ment by that is that you cannot use a negative verb before the べき\n\nI hope that helps a little, I would try and break into your example, work day has just ended and I`m off to prep for a much needed vacation.\n\nlaters"
+    html: |-
+      Hey gregory すべき　is japanese short form for するべき｡　and yes adding だった to the end of the sentence changes it to past tense. <br/><br/>about the negatives. what he ment by that is that you cannot use a negative verb before the べき<br/><br/>I hope that helps a little, I would try and break into your example, work day has just ended and I`m off to prep for a much needed vacation.<br/><br/>laters
+    credits_raw: tigert
+    content_sha256: f0068112e62af9e173971c8da1adffd40dda480c98e2e989b780e3703b6dc345
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1154
+    label: 筈
+    source_url: https://takoboto.jp/bunpo/1154
+  - target_id: 679
+    label: べきだ
+    source_url: https://takoboto.jp/bunpo/679
+  - target_id: 1342
+    label: 〜べからず
+    source_url: https://takoboto.jp/bunpo/1342
+  - target_id: 786
+    label: 方が
+    source_url: https://takoboto.jp/bunpo/786
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:33:51+00:00'
+response_sha256: 608d86c6f436234bcdca523319abc30c99cdd8fe11973e72431c1f004e6d727e
+warnings: []

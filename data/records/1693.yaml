@@ -1,0 +1,203 @@
+schema_version: 2
+id: 1693
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1693/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ~としたところで, ~としたって, ~にしたところで
+romanized_label: toshitatokorode toshitatte nishitatokorode
+alternate_forms: []
+jlpt_level: 1
+credits_raw: Sasato
+meaning: even if, though
+meaning_example: Even if all the members participated, there'd still only be about 20 persons
+meaning_notes:
+  - language: ja
+    text: としても
+    html: としても
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1693
+    body_text: |-
+      even if, though 
+       Even if all the members participated, there'd still only be about 20 persons 
+       としても
+    body_html: |-
+      <span>even if, though</span> <br/> <span>Even if all the members participated, there'd still only be about 20 persons</span> <br/> <span>としても</span>
+    credits_raw: Sasato
+formations: []
+examples:
+  - source_id: 7130
+    position: 0
+    japanese: 全員が参加するとしたところで、せいぜい２０人位だ.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%85%a8%e5%93%a1%e3%81%8c"><span>全員が</span></a><a href="https://takoboto.jp/?q=%e5%8f%82%e5%8a%a0%e3%81%99%e3%82%8b"><span>参加する</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%9f%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7"><strong>としたところで</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84"><span>、せいぜい</span></a><a href="https://takoboto.jp/?q=%ef%bc%92%ef%bc%90%e4%ba%ba%e4%bd%8d%e3%81%a0."><span>２０人位だ.</span></a>
+    segments:
+      - text: 全員が参加する
+        grammar_highlight: false
+      - text: としたところで
+        grammar_highlight: true
+      - text: 、せいぜい２０人位だ.
+        grammar_highlight: false
+    reading: ぜんいんがさんかするとしたところで、せいぜい２０にんいだ
+    credits_raw: Sasato
+    translations:
+      - language: en
+        text: Even if all the members participated, there'd still only be about 20 persons
+        html: |-
+          <strong>Even if </strong><span>all the members participated, there'd still only be about 20 persons </span>
+        segments:
+          - text: 'Even if '
+            grammar_highlight: true
+          - text: 'all the members participated, there''d still only be about 20 persons '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7902
+    position: 1
+    japanese: 彼は日本語を20年も勉強しているが、その彼にしたところで、まだ分からない文法に時々出くわすそうだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%82%9220"><span>日本語を20</span></a><a href="https://takoboto.jp/?q=%e5%b9%b4%e3%82%82"><span>年も</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8c%e3%80%81%e3%81%9d%e3%81%ae"><span>勉強しているが、その</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc"><span>彼</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%9f%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7"><strong>にしたところで</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%be%e3%81%a0"><span>、まだ</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84"><span>分からない</span></a><a href="https://takoboto.jp/?q=%e6%96%87%e6%b3%95%e3%81%ab"><span>文法に</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e3%80%85"><span>時々</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%8f%e3%82%8f%e3%81%99%e3%81%9d%e3%81%86%e3%81%a0%e3%80%82"><span>出くわすそうだ。</span></a>
+    segments:
+      - text: 彼は日本語を20年も勉強しているが、その彼
+        grammar_highlight: false
+      - text: にしたところで
+        grammar_highlight: true
+      - text: 、まだ分からない文法に時々出くわすそうだ。
+        grammar_highlight: false
+    reading: かれはにほんごをねんもべんきょうしているが、そのかれにしたところで、まだわからないぶんぽうにときどきでくわすそうだ。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: He has studied Japanese for 20 years, but he told me that even he enccounters grammar he doesn't understand.
+        html: |-
+          <span>He has studied Japanese for 20 years, but he told me that </span><strong>even he </strong><span>enccounters grammar he doesn't understand. </span>
+        segments:
+          - text: 'He has studied Japanese for 20 years, but he told me that '
+            grammar_highlight: false
+          - text: 'even he '
+            grammar_highlight: true
+          - text: 'enccounters grammar he doesn''t understand. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7903
+    position: 2
+    japanese: 三島由紀夫は産湯に浸かった記憶があると書いているが、彼にしたところで、死ぬまでのすべての記憶がある訳ではない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%89%e5%b3%b6%e7%94%b1%e7%b4%80%e5%a4%ab%e3%81%af"><span>三島由紀夫は</span></a><a href="https://takoboto.jp/?q=%e7%94%a3%e6%b9%af%e3%81%ab"><span>産湯に</span></a><a href="https://takoboto.jp/?q=%e6%b5%b8%e3%81%8b%e3%81%a3%e3%81%9f"><span>浸かった</span></a><a href="https://takoboto.jp/?q=%e8%a8%98%e6%86%b6%e3%81%8c%e3%81%82%e3%82%8b%e3%81%a8"><span>記憶があると</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%84%e3%81%a6%e3%81%84%e3%82%8b%e3%81%8c%e3%80%81"><span>書いているが、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc"><span>彼</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%9f%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7"><strong>にしたところで</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e6%ad%bb%e3%81%ac%e3%81%be%e3%81%a7%e3%81%ae%e3%81%99%e3%81%b9%e3%81%a6%e3%81%ae"><span>死ぬまでのすべての</span></a><a href="https://takoboto.jp/?q=%e8%a8%98%e6%86%b6%e3%81%8c%e3%81%82%e3%82%8b"><span>記憶がある</span></a><a href="https://takoboto.jp/?q=%e8%a8%b3%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%80%82"><span>訳ではない。</span></a>
+    segments:
+      - text: 三島由紀夫は産湯に浸かった記憶があると書いているが、彼
+        grammar_highlight: false
+      - text: にしたところで
+        grammar_highlight: true
+      - text: 、死ぬまでのすべての記憶がある訳ではない。
+        grammar_highlight: false
+    reading: みしまゆきおはうぶゆにつかったきおくがあるとかいているが、かれにしたところで、しぬまでのすべてのきおくがあるわけではない。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: |-
+          Yukio Mishima wrote that he remembered taking his first bath as a baby, but there's no way even he remembered everything he did from birth until death.
+        html: |-
+          <span>Yukio Mishima wrote that he remembered taking his first bath as a baby, </span><strong>but there's no way even he </strong><span>remembered everything he did from birth until death. </span>
+        segments:
+          - text: 'Yukio Mishima wrote that he remembered taking his first bath as a baby, '
+            grammar_highlight: false
+          - text: 'but there''s no way even he '
+            grammar_highlight: true
+          - text: 'remembered everything he did from birth until death. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7904
+    position: 3
+    japanese: 彼がどんなに歌が得意としたって、素人の域を出ていないよ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c%e3%81%a9%e3%82%93%e3%81%aa%e3%81%ab"><span>彼がどんなに</span></a><a href="https://takoboto.jp/?q=%e6%ad%8c%e3%81%8c"><span>歌が</span></a><a href="https://takoboto.jp/?q=%e5%be%97%e6%84%8f"><span>得意</span></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%97%e3%81%9f%e3%81%a3%e3%81%a6"><strong>としたって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%b4%a0%e4%ba%ba%e3%81%ae"><span>素人の</span></a><a href="https://takoboto.jp/?q=%e5%9f%9f%e3%82%92"><span>域を</span></a><a href="https://takoboto.jp/?q=%e5%87%ba%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%82%88%e3%80%82"><span>出ていないよ。</span></a>
+    segments:
+      - text: 彼がどんなに歌が得意
+        grammar_highlight: false
+      - text: としたって
+        grammar_highlight: true
+      - text: 、素人の域を出ていないよ。
+        grammar_highlight: false
+    reading: かれがどんなにうたがとくいとしたって、しろうとのいきをでていないよ。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: However good his singing is, the fact is he hasn't left the realms of an amateur.
+        html: |-
+          <strong>However </strong><span>good his singing is, the fact is he hasn't left the realms of an amateur. </span>
+        segments:
+          - text: 'However '
+            grammar_highlight: true
+          - text: 'good his singing is, the fact is he hasn''t left the realms of an amateur. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7905
+    position: 4
+    japanese: わたしにしたって、その問題については、どうしたりいかわからにんです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%8f%e3%81%9f%e3%81%97"><span>わたし</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%97%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にしたって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%81%ae"><span>、その</span></a><a href="https://takoboto.jp/?q=%e5%95%8f%e9%a1%8c%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%af%e3%80%81%e3%81%a9%e3%81%86%e3%81%97%e3%81%9f%e3%82%8a%e3%81%84%e3%81%8b%e3%82%8f%e3%81%8b%e3%82%89%e3%81%ab%e3%82%93%e3%81%a7%e3%81%99%e3%80%82"><span>問題については、どうしたりいかわからにんです。</span></a>
+    segments:
+      - text: わたし
+        grammar_highlight: false
+      - text: にしたって
+        grammar_highlight: true
+      - text: 、その問題については、どうしたりいかわからにんです。
+        grammar_highlight: false
+    reading: わたしにしたって、そのもんだいについては、どうしたりいかわからにんです。
+    credits_raw: LR
+    translations:
+      - language: en
+        text: Even I don't know what the right thing to do is when it comes to that problem
+        html: |-
+          <strong>Even I </strong><span>don't know what the right thing to do is when it comes to that problem </span>
+        segments:
+          - text: 'Even I '
+            grammar_highlight: true
+          - text: 'don''t know what the right thing to do is when it comes to that problem '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 'Ref # Kanzen Master Level 1 - p28 - no.29'
+    html: |-
+      <b>Ref #</b> Kanzen Master Level 1 - p28 - no.29
+    credits_raw: LR
+    content_sha256: 9e3c37bc2ef60ff16174f197a643d5b5a8149eb9976a1ecae220ffe102c456b6
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'Ref # A Dictionary of Advanced Japanese Grammar p423'
+    html: |-
+      <b>Ref #</b> A Dictionary of Advanced Japanese Grammar p423
+    credits_raw: LR
+    content_sha256: a112d0cdeec33b8f7200529bac89c1e0b05697903c5b66ac809f790a517e953f
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      In ex # 7905, I don't recognize the exact grammar from "どうしたりいかわからにんです。 " It seems like "Dou shitari i ka wakarani n desu" ought to be more like "Dou shitara ii ka wakaranai n desu." Is the original sentence slang or regional dialect?
+    html: |-
+      In ex # 7905, I don't recognize the exact grammar from "どうしたりいかわからにんです。 " It seems like "Dou shitari i ka wakarani n desu" ought to be more like "Dou shitara ii ka wakaranai n desu." Is the original sentence slang or regional dialect?
+    credits_raw: bshock
+    content_sha256: e408442b2135b8248e7ad5e92d33c536ad1fdb0b28534471263cce53d6dd8835
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1089
+    label: 今さら〜たところで
+    source_url: https://takoboto.jp/bunpo/1089
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:44:24+00:00'
+response_sha256: 3989bcceb00cb3632baae7d460f0e1182bb3406c12f6c9de8b2bc130bf643c39
+warnings: []

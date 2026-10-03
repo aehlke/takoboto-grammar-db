@@ -1,0 +1,415 @@
+schema_version: 2
+id: 1301
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1301/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜始める
+romanized_label: -hajimeru
+alternate_forms:
+  - 〜はじめる
+jlpt_level: 4
+credits_raw: dc
+meaning: to begin/start VERB-ing
+meaning_example: I started reading yesterday.
+meaning_notes:
+  - language: ja
+    text: ある活動を始める
+    html: ある活動を始める
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1301
+    body_text: |-
+      to begin/start VERB-ing 
+       I started reading yesterday. 
+       ある活動を始める
+    body_html: |-
+      <span>to begin/start VERB-ing</span> <br/> <span>I started reading yesterday.</span> <br/> <span>ある活動を始める</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1301
+    body_text: Verb stem+始める
+    body_html: |-
+      <div><div><div>Verb stem</div></div><div><div>+</div><div>始める</div></div></div>
+    credits_raw: null
+formations:
+  - Verb stem + 始める
+examples:
+  - source_id: 4365
+    position: 0
+    japanese: ６時を過ぎると従業員は帰り始めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%ef%bc%96%e6%99%82%e3%82%92%e9%81%8e%e3%81%8e%e3%82%8b%e3%81%a8%e5%be%93%e6%a5%ad%e5%93%a1%e3%81%af%e5%b8%b0%e3%82%8a"><span>６時を過ぎると従業員は帰り</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><strong>始めた</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: ６時を過ぎると従業員は帰り
+        grammar_highlight: false
+      - text: 始めた
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: ６じをすぎるとじゅうぎょういんはかえりはじめた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: After 6 p.m. the employees began to  return home.
+        html: |-
+          <span>After 6 p.m. the employees </span><strong>began to </strong><span> return home. </span>
+        segments:
+          - text: 'After 6 p.m. the employees '
+            grammar_highlight: false
+          - text: 'began to '
+            grammar_highlight: true
+          - text: ' return home. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1180
+    position: 1
+    japanese: 本を読み始めた
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%ac%e3%82%92"><span>本を</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%81%bf"><span>読み</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><strong>始めた</strong></a>
+    segments:
+      - text: 本を読み
+        grammar_highlight: false
+      - text: 始めた
+        grammar_highlight: true
+    reading: ほんをよみはじめた
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I started reading the book.
+        html: |-
+          <span>I </span><strong>started </strong><span>reading the book. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'started '
+            grammar_highlight: true
+          - text: 'reading the book. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3194
+    position: 2
+    japanese: 本格的に本を読み始めたのは大学生になってからである。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%9c%ac%e6%a0%bc%e7%9a%84%e3%81%ab"><span>本格的に</span></a><a href="https://takoboto.jp/?q=%e6%9c%ac%e3%82%92"><span>本を</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%81%bf"><span>読み</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><strong>始めた</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%81%af"><span>のは</span></a><a href="https://takoboto.jp/?q=%e5%a4%a7%e5%ad%a6%e7%94%9f%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%8b%e3%82%89%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>大学生になってからである。</span></a>
+    segments:
+      - text: 本格的に本を読み
+        grammar_highlight: false
+      - text: 始めた
+        grammar_highlight: true
+      - text: のは大学生になってからである。
+        grammar_highlight: false
+    reading: ほんかくてきにほんをよみはじめたのはだいがくせいになってからである。
+    credits_raw: dc, dcf
+    translations:
+      - language: en
+        text: I really began reading books in earnest once I was a University Student.
+        html: |-
+          <span>I really </span><strong>began </strong><span>reading books in earnest once I was a University Student. </span>
+        segments:
+          - text: 'I really '
+            grammar_highlight: false
+          - text: 'began '
+            grammar_highlight: true
+          - text: 'reading books in earnest once I was a University Student. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4366
+    position: 3
+    japanese: あまりにも彼の手紙が優しかったので、彼女は感動して泣き始めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%be%e3%82%8a%e3%81%ab%e3%82%82"><span>あまりにも</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e6%89%8b%e7%b4%99%e3%81%8c"><span>手紙が</span></a><a href="https://takoboto.jp/?q=%e5%84%aa%e3%81%97%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%a7%e3%80%81"><span>優しかったので、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e6%84%9f%e5%8b%95%e3%81%97%e3%81%a6"><span>感動して</span></a><a href="https://takoboto.jp/?q=%e6%b3%a3%e3%81%8d"><span>泣き</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><strong>始めた</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: あまりにも彼の手紙が優しかったので、彼女は感動して泣き
+        grammar_highlight: false
+      - text: 始めた
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: あまりにもかれのてがみがやさしかったので、かのじょはかんどうしてなきはじめた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: So friendly was his letter that she was deeply moved and began to cry.
+        html: |-
+          <span>So friendly was his letter that she was deeply moved and </span><strong>began to </strong><span>cry. </span>
+        segments:
+          - text: 'So friendly was his letter that she was deeply moved and '
+            grammar_highlight: false
+          - text: 'began to '
+            grammar_highlight: true
+          - text: 'cry. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4367
+    position: 4
+    japanese: お母さんはコーヒーカップの歴史について調べ始めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%95%e3%82%93%e3%81%af%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%82%ab%e3%83%83%e3%83%97%e3%81%ae"><span>母さんはコーヒーカップの</span></a><a href="https://takoboto.jp/?q=%e6%ad%b4%e5%8f%b2%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6"><span>歴史について</span></a><a href="https://takoboto.jp/?q=%e8%aa%bf%e3%81%b9"><span>調べ</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><strong>始めた</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: お母さんはコーヒーカップの歴史について調べ
+        grammar_highlight: false
+      - text: 始めた
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: おかあさんはコーヒーカップのれきしについてしらべはじめた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: My mother looked up the history of coffee cups.
+        html: |-
+          <span>My mother </span><span>looked up the history of coffee cups. </span>
+        segments:
+          - text: 'My mother looked up the history of coffee cups. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4368
+    position: 5
+    japanese: お母さんが突然歌い始めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%95%e3%82%93%e3%81%8c"><span>母さんが</span></a><a href="https://takoboto.jp/?q=%e7%aa%81%e7%84%b6"><span>突然</span></a><a href="https://takoboto.jp/?q=%e6%ad%8c%e3%81%84"><span>歌い</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><strong>始めた</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: お母さんが突然歌い
+        grammar_highlight: false
+      - text: 始めた
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: おかあさんがとつぜんうたいはじめた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: All of a sudden my mother began to sing.
+        html: |-
+          <span>All of a sudden my mother </span><strong>began to </strong><span>sing. </span>
+        segments:
+          - text: 'All of a sudden my mother '
+            grammar_highlight: false
+          - text: 'began to '
+            grammar_highlight: true
+          - text: 'sing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4369
+    position: 6
+    japanese: この新聞は最も人気のある筆者をはずしてから、読者数を減らし始めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%96%b0%e8%81%9e%e3%81%af"><span>新聞は</span></a><a href="https://takoboto.jp/?q=%e6%9c%80%e3%82%82"><span>最も</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e6%b0%97%e3%81%ae%e3%81%82%e3%82%8b"><span>人気のある</span></a><a href="https://takoboto.jp/?q=%e7%ad%86%e8%80%85%e3%82%92%e3%81%af%e3%81%9a%e3%81%97%e3%81%a6%e3%81%8b%e3%82%89%e3%80%81"><span>筆者をはずしてから、</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e8%80%85%e6%95%b0%e3%82%92"><span>読者数を</span></a><a href="https://takoboto.jp/?q=%e6%b8%9b%e3%82%89%e3%81%97"><span>減らし</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><strong>始めた</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: この新聞は最も人気のある筆者をはずしてから、読者数を減らし
+        grammar_highlight: false
+      - text: 始めた
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: このしんぶんはもっともにんきのあるひっしゃをはずしてから、どくしゃすうをへらしはじめた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The newspaper began to lose readers when it dispensed with one of its most popular writers.
+        html: |-
+          <span>The newspaper </span><strong>began to </strong><span>lose readers when it dispensed with one of its most popular writers. </span>
+        segments:
+          - text: 'The newspaper '
+            grammar_highlight: false
+          - text: 'began to '
+            grammar_highlight: true
+          - text: 'lose readers when it dispensed with one of its most popular writers. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4370
+    position: 7
+    japanese: さらに悪いことに、激しく雷が鳴り始めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%95%e3%82%89%e3%81%ab"><span>さらに</span></a><a href="https://takoboto.jp/?q=%e6%82%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%ab%e3%80%81"><span>悪いことに、</span></a><a href="https://takoboto.jp/?q=%e6%bf%80%e3%81%97%e3%81%8f"><span>激しく</span></a><a href="https://takoboto.jp/?q=%e9%9b%b7%e3%81%8c"><span>雷が</span></a><a href="https://takoboto.jp/?q=%e9%b3%b4%e3%82%8a"><span>鳴り</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><strong>始めた</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: さらに悪いことに、激しく雷が鳴り
+        grammar_highlight: false
+      - text: 始めた
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: さらにわるいことに、はげしくかみなりがなりはじめた。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: To make matters worse, it began to thunder fiercely.
+        html: |-
+          <span>To make matters worse, it </span><strong>began to </strong><span>thunder fiercely. </span>
+        segments:
+          - text: 'To make matters worse, it '
+            grammar_highlight: false
+          - text: 'began to '
+            grammar_highlight: true
+          - text: 'thunder fiercely. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8803
+    position: 8
+    japanese: 進撃の巨人を見始めたの？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%80%b2%e6%92%83%e3%81%ae%e5%b7%a8%e4%ba%ba%e3%82%92%e8%a6%8b"><span>進撃の巨人を見</span></a><a href="https://takoboto.jp/?q=%e5%a7%8b%e3%82%81%e3%81%9f"><strong>始めた</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%ef%bc%9f"><span>の？</span></a>
+    segments:
+      - text: 進撃の巨人を見
+        grammar_highlight: false
+      - text: 始めた
+        grammar_highlight: true
+      - text: の？
+        grammar_highlight: false
+    reading: しんげきのきょじんをみはじめたの？
+    credits_raw: 貴博
+    translations:
+      - language: en
+        text: Did you start watching Attack on Titan?
+        html: |-
+          <span>Did you </span><strong>start </strong><span>watching Attack on Titan? </span>
+        segments:
+          - text: 'Did you '
+            grammar_highlight: false
+          - text: 'start '
+            grammar_highlight: true
+          - text: 'watching Attack on Titan? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      This construct expresses the beginning of an action or verb. It takes the [conjunctive form] of the verb and appends to it the auxiliary verb 始める.
+    html: |-
+      This construct expresses the beginning of an action or verb. It takes the [conjunctive form] of the verb and appends to it the auxiliary verb 始める.
+    credits_raw: KyleGoetz
+    content_sha256: 7f9e7d6c893dcdcdc292be78a20c9e0c1b15e48e37a1418fd9546e2f4a35a473
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      Hajimaru which also means to start same as hajimeru means the same.
+
+      However, hajimaru doesn't require someone to do something and it never takes the を particle while hajimeru needs を.
+
+      Japanese contains these types of verbs: transitive and intransitive.
+    html: |-
+      Hajimaru which also means to start same as hajimeru means the same.<br/><br/>However, hajimaru doesn't require someone to do something and it never takes the を particle while hajimeru needs を.<br/><br/>Japanese contains these types of verbs: transitive and intransitive.
+    credits_raw: Sakuratree
+    content_sha256: 269b70749c4dd3e13aaeaeadbb178ae51fdcaeab4c859aa77cbf0fc7f35c7e48
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      出す have a nuance of sudden action
+
+      走り出す means to "break into a run", like when a girl sees a cockroach and she "走り出す"。
+
+      始めた have a more neutral meaning, as in started eating, or start running in the case of "走り始めた" (like you start running when a race start.)
+
+      so that's what i think...
+    html: |-
+      出す have a nuance of sudden action<br/><br/>走り出す means to "break into a run", like when a girl sees a cockroach and she "走り出す"。<br/><br/>始めた have a more neutral meaning, as in started eating, or start running in the case of "走り始めた" (like you start running when a race start.)<br/><br/>so that's what i think...
+    credits_raw: arkofnoah
+    content_sha256: 40c648545af5af9869314e7cc802a74d6593fe539e9cab39a8a127a388724236
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      本格的に本を読み出したのは大学生になってからである。
+      "When i really began to read books was after i became a University Student".
+
+      What are the differences here betweeen the yomihajimeta and the yomidashita? It feels as if the yomidashita is done in a faster way or something more epochal? Appreciate the comments on this observation :)!
+    html: |-
+      本格的に本を読み出したのは大学生になってからである。<br/>"When i really began to read books was after i became a University Student".<br/><br/>What are the differences here betweeen the yomihajimeta and the yomidashita? It feels as if the yomidashita is done in a faster way or something more epochal? Appreciate the comments on this observation :)!
+    credits_raw: Exrulez
+    content_sha256: ec3cc26885ca415a525df31bbeaa2613c184f81a67e78403554656838e4bac43
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      V-hajimeta and
+      V-dashita
+
+      I infer some differences from the examples we have so far (need more though, hint hint :)
+
+      yomi-hajimeta : that was the first time I started reading
+
+      ugoki-dashita : it started moving
+      not neccesarily the first time.
+
+      ugoki-hajimeta : it started to move (first time?)
+
+      also, depends on the verb. -dashita seems to feel more sudden, violent to me, like machinery lurching to a start... ?
+    html: |-
+      V-hajimeta and<br/>V-dashita<br/><br/>I infer some differences from the examples we have so far (need more though, hint hint :)<br/><br/>yomi-hajimeta : that was the first time I started reading<br/><br/>ugoki-dashita : it started moving<br/>not neccesarily the first time.<br/><br/>ugoki-hajimeta : it started to move (first time?)<br/><br/>also, depends on the verb. -dashita seems to feel more sudden, violent to me, like machinery lurching to a start... ?
+    credits_raw: dc
+    content_sha256: cb183682ff1dc2389655593d8bea373b3791cffbf4f979c37042ff9eb166d302
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      PS i added your example anyway above, but as a -hajimeta (on this page). by adding examples makes it easier for others to edit (comments can only be edited/deleted by their author but ex's are open)
+    html: |-
+      PS i added your example anyway above, but as a -hajimeta (on this page). by adding examples makes it easier for others to edit (comments can only be edited/deleted by their author but ex's are open)
+    credits_raw: dc
+    content_sha256: 0fb200e201719680d6d92e1bd5879fe82be0c7da03732613103c5d907346284f
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: I cannot find a difference between V出すand vし始める.
+    html: I cannot find a difference between V出すand vし始める.
+    credits_raw: Miki
+    content_sha256: ff669e7ba86aca970f57411979a27549bd2054ddfff86faa94af51a8240d7ffc
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      I changed the information about this entry, because the entry appeared to be a grammar rule for the plain past tense of 始める, when in fact the rule can be abstracted to cover the entirety of conjugations of the verb (be it plain, polite, past, non-past).
+
+      @Miki - arkofnoah hit it right on the head; 〜出す carries an "explosive" feeling along with it. 〜始める does not.
+    html: |-
+      I changed the information about this entry, because the entry appeared to be a grammar rule for the plain past tense of 始める, when in fact the rule can be abstracted to cover the entirety of conjugations of the verb (be it plain, polite, past, non-past).<br/><br/>@Miki - arkofnoah hit it right on the head; 〜出す carries an "explosive" feeling along with it. 〜始める does not.
+    credits_raw: KyleGoetz
+    content_sha256: c022e02dd2f722d21bf4873bec891625e9d722728c7472066cdf0ff6f3bd3823
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: Yes, I agree with arkofnoah.(@_@)
+    html: Yes, I agree with arkofnoah.(@_@)
+    credits_raw: Miki
+    content_sha256: 5fb9dbbe27619987ddd5dc1024925732a386eeb5bd7bdf6e3b329675e4775cbb
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      Are there any exmaples of 「生き始める」and the usage of this compound verb?
+       Thank you
+    html: |-
+      Are there any exmaples of 「生き始める」and the usage of this compound verb?<br/> Thank you
+    credits_raw: Patty
+    content_sha256: bd72415ee8f3bae1c38d8e023be5d6ab6aec1ff13afa71ac7c6a8fdf60985cb3
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:22+00:00'
+response_sha256: 3eac307d1ffefc842e0ecd5a10816ee09e2ed7027624d13d75255699df8c798d
+warnings: []

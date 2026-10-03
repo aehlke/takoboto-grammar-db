@@ -1,0 +1,128 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 766
+label: wo-2
+title_raw: 〜を [〜を] (wo-2)
+title: 〜を
+reading: 〜を
+romanized_label: wo-2
+category: grammar
+jlpt_level_original: '3'
+meaning: area passed through (通過点)
+meaning_example: I walked through the park.
+credits_raw: Amatuka
+source_url: http://jgram.org/pages/viewOne.php?tagE=wo-2
+archive_url: https://web.archive.org/web/20150224225739id_/http://jgram.org/pages/viewOne.php?tagE=wo-2
+archive_timestamp: '20150224225739'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: CLKBFY2RTKWGI4IZH6DU6JBM2V4OHBDE
+response_sha256: 875284e95b7e991059bdf3d550364d3329c414dce0908796a3d7277a76707414
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 889
+    position: 0
+    japanese: 公園を歩きました。
+    body_text: "公園を歩きました。 \n\n\t\tI walked \n\t\t(through/in) \n\t\tthe park."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ公園を歩きました。\">\n公園<strong>を</strong>歩きました。<strong></strong></a> <br/>\n\t\tI walked \n\t\t<strong>(through/in) </strong>\n\t\tthe park."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4952
+    position: 1
+    japanese: 12歳のとき、私は川を泳いで渡ることができた。
+    body_text: "12歳のとき、私は川を泳いで渡ることができた。 \n\n\t\tI could swim \n\t\t* \n\t\tacross the river when I was twelve."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ12歳のとき、私は川を泳いで渡ることができた。\">\n\t\t\t\t12歳のとき、私は川<strong>を</strong>泳いで渡ることができた。<strong></strong></a> <br/>\n\t\tI could swim \n\t\t<strong>* </strong>\n\t\tacross the river when I was twelve."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4954
+    position: 2
+    japanese: この列車はニューヨークとボストン間を走っている。
+    body_text: "この列車はニューヨークとボストン間を走っている。 \n\n\t\tThis train runs \n\t\t* \n\t\tbetween New York and Boston."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJこの列車はニューヨークとボストン間を走っている。\">\n\t\t\t\tこの列車はニューヨークとボストン間<strong>を</strong>走っている。<strong></strong></a> <br/>\n\t\tThis train runs \n\t\t<strong>* </strong>\n\t\tbetween New York and Boston."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4962
+    position: 3
+    japanese: お忙しいところをお出で頂きありがとうございます。
+    body_text: "お忙しいところをお出で頂きありがとうございます。 \n\n\t\tThan you very much for coming \n\t\tdespite the fact that. \n\t\tyou were busy."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJお忙しいところをお出で頂きありがとうございます。\">\nお忙しいところ<strong>を</strong>お出で頂きありがとうございます。<strong></strong></a> <br/>\n\t\tThan you very much for coming \n\t\t<strong>despite the fact that. </strong>\n\t\tyou were busy."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: "The three uses of を \x01 are \n\r\n1. objective / target (目的) \n\r\n2. area passed through (通過点) \n\r\n3. departure point (出発点)"
+    html: "The three uses of を <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> are <br/>\r\n1. objective / target (目的) <br/>\r\n2. area passed through (通過点) <br/>\r\n3. departure point (出発点)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "を is used to mark a noun or noun phrase.\n\n\n\r\nN = noun."
+    html: "を is used to mark a noun or noun phrase.<br/>\n<br/>\r\nN = noun."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: bamboo4
+    text: "を is a particle which is essentially acusative case. It also serves as connective of opposing thoughts,as shown in #\x01."
+    html: "を is a particle which is essentially acusative case. It also serves as connective of opposing thoughts,as shown in <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=wo-2#\x01\">#\x01</a></b>."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: KWhazit
+    text: "If you're used to seeing を as marking a direct object, and having it mark an area passed through seems strange, consider this: Even English does this occasionally to what grammatically ought to be direct objects, as in \"travel the world\" and \"sail the seven seas\". While you wouldn't normally say \"I walked the park\" (#\x01) in English, it's the same concept."
+    html: "If you're used to seeing を as marking a direct object, and having it mark an area passed through seems strange, consider this: Even English does this occasionally to what grammatically ought to be direct objects, as in \"travel the world\" and \"sail the seven seas\". While you wouldn't normally say \"I walked the park\" (<b><a href=\"http://jgram.org/pages/viewOne.php?tagE=wo-2#\x01\">#\x01</a></b>) in English, it's the same concept."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: wo
+    label: wo
+    annotation_text: "wo    (Don't confuse target を \x01 with area passed through を \x01) [Amatuka]"
+    annotation_html: "<a href=\"http://jgram.org/pages/viewOne.php?tagE=wo\">wo</a>    (Don't confuse target を <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> with area passed through を <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>) [<a href=\"http://jgram.org/pages/contributions.php?author=Amatuka\">Amatuka</a>]"
+    credits_raw: Amatuka
+  - position: 1
+    target_label: wo-3
+    label: wo-3
+    annotation_text: "wo-3    (Don't confuse target を \x01 with departure point を \x01) [Miki]"
+    annotation_html: "<a href=\"http://jgram.org/pages/viewOne.php?tagE=wo-3\">wo-3</a>    (Don't confuse target を <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> with departure point を <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b>) [<a href=\"http://jgram.org/pages/contributions.php?author=Miki\">Miki</a>]"
+    credits_raw: Miki
+sections:
+  - kind: header
+    text: "〜を [〜を] (wo-2)\n    Meaning: area passed through (通過点) \n    Example: I walked through the park.\n    JLPT Level: 3\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>〜を [〜を] (wo-2)</span><br/>    <span><b>Meaning</b>: area passed through (通過点) </span><br/>    <b>Example</b>: <i>I walked through the park.</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225739'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 6281653
+  length: 5873
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: e4e7f8136fe519e754cb637f41f66190dcbabf45bca39c471280367776957e05

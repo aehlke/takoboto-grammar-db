@@ -1,0 +1,269 @@
+schema_version: 2
+id: 660
+source: takoboto
+source_url: https://takoboto.jp/bunpo/660/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜は
+romanized_label: ha-2
+alternate_forms: []
+jlpt_level: 3
+credits_raw: Amatuka
+meaning: '''ha (wa)'' used to indicate contrast'
+meaning_example: I don't eat /meat/ (but I do eat fish).
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_660
+    body_text: |-
+      'ha (wa)' used to indicate contrast 
+       I don't eat /meat/ (but I do eat fish).
+    body_html: |-
+      <span>'ha (wa)' used to indicate contrast</span> <br/> <span>I don't eat /meat/ (but I do eat fish).</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 765
+    position: 0
+    japanese: 私は肉は食べない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e8%82%89"><span>肉</span></a><a href="https://takoboto.jp/?q=%e3%81%af"><strong>は</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%aa%e3%81%84%e3%80%82"><span>食べない。</span></a>
+    segments:
+      - text: 私は肉
+        grammar_highlight: false
+      - text: は
+        grammar_highlight: true
+      - text: 食べない。
+        grammar_highlight: false
+    reading: わたしはにくはたべない。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: I don't eat / meat / . (but I eat fish)
+        html: |-
+          <span>I don't eat </span><strong>/ </strong><span>meat </span><strong>/ </strong><span>. (but I eat fish) </span>
+        segments:
+          - text: 'I don''t eat '
+            grammar_highlight: false
+          - text: '/ '
+            grammar_highlight: true
+          - text: 'meat '
+            grammar_highlight: false
+          - text: '/ '
+            grammar_highlight: true
+          - text: '. (but I eat fish) '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 767
+    position: 1
+    japanese: 「セリーナをみせて！」「心配は要らない。いきてはいる、いきて。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e3%82%bb%e3%83%aa%e3%83%bc%e3%83%8a%e3%82%92%e3%81%bf%e3%81%9b%e3%81%a6"><span>「セリーナをみせて</span></a><a href="https://takoboto.jp/?q=%ef%bc%81%e3%80%8d%e3%80%8c"><span>！」「</span></a><a href="https://takoboto.jp/?q=%e5%bf%83%e9%85%8d%e3%81%af"><span>心配は</span></a><a href="https://takoboto.jp/?q=%e8%a6%81%e3%82%89%e3%81%aa%e3%81%84%e3%80%82"><span>要らない。</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%8d%e3%81%a6"><span>いきて</span></a><a href="https://takoboto.jp/?q=%e3%81%af"><strong>は</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%82%8b%e3%80%81%e3%81%84%e3%81%8d%e3%81%a6%e3%80%82%e3%80%8d"><span>いる、いきて。」</span></a>
+    segments:
+      - text: 「セリーナをみせて！」「心配は要らない。いきて
+        grammar_highlight: false
+      - text: は
+        grammar_highlight: true
+      - text: いる、いきて。」
+        grammar_highlight: false
+    reading: 「をみせて！」「しんぱいはいらない。いきてはいる、いきて。」
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: '"Show me Serena!" "No need to worry. She''s / alive / . Alive (but _not_ well)."'
+        html: |-
+          <span>"Show me Serena!" "No need to worry. She's </span><strong>/ </strong><span>alive </span><strong>/ </strong><span>. Alive (but _not_ well)." </span>
+        segments:
+          - text: '"Show me Serena!" "No need to worry. She''s '
+            grammar_highlight: false
+          - text: '/ '
+            grammar_highlight: true
+          - text: 'alive '
+            grammar_highlight: false
+          - text: '/ '
+            grammar_highlight: true
+          - text: '. Alive (but _not_ well)." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4987
+    position: 2
+    japanese: いや、でも野球を見に行くのは好きだけどね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%82%84%e3%80%81%e3%81%a7%e3%82%82"><span>いや、でも</span></a><a href="https://takoboto.jp/?q=%e9%87%8e%e7%90%83%e3%82%92"><span>野球を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%ab"><span>見に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8f%e3%81%ae"><span>行くの</span></a><a href="https://takoboto.jp/?q=%e3%81%af"><strong>は</strong></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a0%e3%81%91%e3%81%a9%e3%81%ad%e3%80%82"><span>好きだけどね。</span></a>
+    segments:
+      - text: いや、でも野球を見に行くの
+        grammar_highlight: false
+      - text: は
+        grammar_highlight: true
+      - text: 好きだけどね。
+        grammar_highlight: false
+    reading: いや、でもやきゅうをみにいくのはすきだけどね。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: No, but I like + going to baseball.
+        html: |-
+          <span>No, but I like </span><strong>+ </strong><span>going to baseball. </span>
+        segments:
+          - text: 'No, but I like '
+            grammar_highlight: false
+          - text: '+ '
+            grammar_highlight: true
+          - text: 'going to baseball. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4988
+    position: 3
+    japanese: 私は、足し算は好きだけど、引き算は嫌いだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%80%81"><span>私は、</span></a><a href="https://takoboto.jp/?q=%e8%b6%b3%e3%81%97"><span>足し</span></a><a href="https://takoboto.jp/?q=%e7%ae%97"><span>算</span></a><a href="https://takoboto.jp/?q=%e3%81%af"><strong>は</strong></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a0%e3%81%91%e3%81%a9%e3%80%81"><span>好きだけど、</span></a><a href="https://takoboto.jp/?q=%e5%bc%95%e3%81%8d"><span>引き</span></a><a href="https://takoboto.jp/?q=%e7%ae%97"><span>算</span></a><a href="https://takoboto.jp/?q=%e3%81%af"><strong>は</strong></a><a href="https://takoboto.jp/?q=%e5%ab%8c%e3%81%84%e3%81%a0%e3%80%82"><span>嫌いだ。</span></a>
+    segments:
+      - text: 私は、足し算
+        grammar_highlight: false
+      - text: は
+        grammar_highlight: true
+      - text: 好きだけど、引き算
+        grammar_highlight: false
+      - text: は
+        grammar_highlight: true
+      - text: 嫌いだ。
+        grammar_highlight: false
+    reading: わたしは、たしざんはすきだけど、ひきざんはきらいだ。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I like + addition but + subtraction.
+        html: |-
+          <span>I like </span><strong>+ </strong><span>addition but </span><strong>+ </strong><span>subtraction. </span>
+        segments:
+          - text: 'I like '
+            grammar_highlight: false
+          - text: '+ '
+            grammar_highlight: true
+          - text: 'addition but '
+            grammar_highlight: false
+          - text: '+ '
+            grammar_highlight: true
+          - text: 'subtraction. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6004
+    position: 4
+    japanese: 彼は上海で住んでいたので、戦争は彼とは全く関係のないところで行われていた．
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e6%b5%b7%e3%81%a7"><span>上海で</span></a><a href="https://takoboto.jp/?q=%e4%bd%8f%e3%82%93%e3%81%a7%e3%81%84%e3%81%9f%e3%81%ae%e3%81%a7%e3%80%81"><span>住んでいたので、</span></a><a href="https://takoboto.jp/?q=%e6%88%a6%e4%ba%89%e3%81%af"><span>戦争は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%a8"><span>彼と</span></a><a href="https://takoboto.jp/?q=%e3%81%af"><strong>は</strong></a><a href="https://takoboto.jp/?q=%e5%85%a8%e3%81%8f"><span>全く</span></a><a href="https://takoboto.jp/?q=%e9%96%a2%e4%bf%82%e3%81%ae%e3%81%aa%e3%81%84%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7"><span>関係のないところで</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%84%e3%81%9f"><span>行われていた</span></a><a href="https://takoboto.jp/?q=%ef%bc%8e"><span>．</span></a>
+    segments:
+      - text: 彼は上海で住んでいたので、戦争は彼と
+        grammar_highlight: false
+      - text: は
+        grammar_highlight: true
+      - text: 全く関係のないところで行われていた．
+        grammar_highlight: false
+    reading: かれはしゃんはいですんでいたので、せんそうはかれとはまったくかんけいのないところでおこなわれていた．
+    credits_raw: nexalacer
+    translations:
+      - language: en
+        text: |-
+          Because he was living in Shang-hai, the war was being fought (lit. performed) in places that did not have a connection with him at all.
+        html: |-
+          <span>Because he was living in Shang-hai, the war was being fought (lit. performed) in places that did not have a connection </span><strong>with him </strong><span>at all. </span>
+        segments:
+          - text: 'Because he was living in Shang-hai, the war was being fought (lit. performed) in places that did not have a connection '
+            grammar_highlight: false
+          - text: 'with him '
+            grammar_highlight: true
+          - text: 'at all. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7834
+    position: 5
+    japanese: 魚は食べますが、肉は食べません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%ad%9a"><span>魚</span></a><a href="https://takoboto.jp/?q=%e3%81%af"><strong>は</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%be%e3%81%99%e3%81%8c%e3%80%81%e8%82%89"><span>食べますが、肉</span></a><a href="https://takoboto.jp/?q=%e3%81%af"><strong>は</strong></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>食べません。</span></a>
+    segments:
+      - text: 魚
+        grammar_highlight: false
+      - text: は
+        grammar_highlight: true
+      - text: 食べますが、肉
+        grammar_highlight: false
+      - text: は
+        grammar_highlight: true
+      - text: 食べません。
+        grammar_highlight: false
+    reading: さかなはたべますが、にくはたべません。
+    credits_raw: Rinji_HalfElf
+    translations:
+      - language: en
+        text: I eat fish, but I don't eat meat.
+        html: |-
+          <span>I eat fish, but I don't eat meat. </span>
+        segments:
+          - text: 'I eat fish, but I don''t eat meat. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      The 'normal' negative sentence would be 私は肉を食べない。'I don't eat fish'.
+      With the object marker を overridden by は this implies that not eating meat is in contrast to eating something else (for example fish).
+      Note: When Japanese refer to meat (肉) they generally would not understand that as including fish (魚).
+    html: |-
+      The 'normal' negative sentence would be 私は肉を食べない。'I don't eat fish'.<br/>With the object marker を overridden by は this implies that not eating meat is in contrast to eating something else (for example fish).<br/>Note: When Japanese refer to meat (肉) they generally would not understand that as including fish (魚).
+    credits_raw: Amatuka
+    content_sha256: c5c866d809ccace353362e951a4c293a1364f832e6be3065d72c0b5d5589ef7c
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      This contrastative は can fit in places that you might not expect. Take 生きている '(she's) alive.' vs. 生きてはいる '(she's) alive (but not well).'.
+    html: |-
+      This contrastative は can fit in places that you might not expect. Take 生きている '(she's) alive.' vs. 生きてはいる '(she's) alive (but not well).'.
+    credits_raw: Amatuka
+    content_sha256: c0e7bbaa1fe7587d8b5fd78e79cb49a8cf71147c1fe00346b53d8633cd9474ba
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: P.S. How's the Hero / Villain / Hostage example?
+    html: P.S. How's the Hero / Villain / Hostage example?
+    credits_raw: Amatuka
+    content_sha256: d3b9fff1e0ade1596690fb9cfa473f183dda5466e7e641edca8d524d798bc863
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: Very helpful :)
+    html: Very helpful :)
+    credits_raw: Kana-chan
+    content_sha256: 4a08b36c28bd538727dd83c9497628d7542e0209b6b1c9f3608db71107d4f632
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      In your comment, you said "私は肉を食べない。'I don't eat fish'”, but obviously you meant to say 'I don't eat meat'. I also liked the hostage example! :-)
+    html: |-
+      In your comment, you said "私は肉を食べない。'I don't eat fish'”, but obviously you meant to say 'I don't eat meat'. I also liked the hostage example! :-)
+    credits_raw: khyron
+    content_sha256: 2b1a87cad9de61c95f5111c28a72572d4820127ac6861c0afde98a22e0bdbbd0
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 753
+    label: 〜は
+    source_url: https://takoboto.jp/bunpo/753
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:21+00:00'
+response_sha256: dee2f98ae67b392dd4d14fc513da85c7348d74bc03f41321d063a196b306040a
+warnings: []

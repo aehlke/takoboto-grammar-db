@@ -1,0 +1,75 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1729
+label: komu
+title_raw: 込む [こむ] (komu)
+title: 込む
+reading: こむ
+romanized_label: komu
+category: null
+jlpt_level_original: '2'
+meaning: '...into'
+meaning_example: to jump into pool
+credits_raw: Maru1
+source_url: http://jgram.org/pages/viewOne.php?tagE=komu
+archive_url: https://web.archive.org/web/20150224225608id_/http://jgram.org/pages/viewOne.php?tagE=komu
+archive_timestamp: '20150224225608'
+retrieved_at: '2026-10-03T16:03:23+00:00'
+archive_digest: LHYDSN5TD6L46MTHFKGCM4TZMM6KLMQS
+response_sha256: 9a4101cf4ce45d7394565c9e1b0b0d2e242614f7b10f045508153698202a1640
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: Vマス　＋　込む
+    html: Vマス　＋　込む
+    credits_raw: Maru1
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7764
+    position: 0
+    japanese: あまり暑いので、プールに飛び込んだ。
+    body_text: "あまり暑いので、プールに飛び込んだ。\r \n\n\t\tBecause it was too hot he jumped into the pool."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJあまり暑いので、プールに飛び込んだ。\">\n\t\t\t\tあまり暑いので、プールに飛び込んだ。\r<strong></strong><strong></strong></a> <br/>\n\t\tBecause it was too hot he jumped into the pool. \n\t\t<strong> </strong>"
+    credits_raw: Maru1
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8674
+    position: 1
+    japanese: 心を込めて作りました。
+    body_text: "心を込めて作りました。 \n\n\t\tI made it wholeheartedly."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ心を込めて作りました。\">\n\t\t\t\t心を込めて作りました。<strong></strong><strong></strong></a> <br/>\n\t\tI made it wholeheartedly. \n\t\t<strong> </strong>"
+    credits_raw: fox
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "込む [こむ] (komu)\n    Meaning: ...into \n    Example: to jump into pool\n    JLPT Level: 2\n    Author: Maru1"
+    html: |-
+      <span>込む [こむ] (komu)</span><br/>    <span><b>Meaning</b>: ...into </span><br/>    <b>Example</b>: <i>to jump into pool</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Author</b>: <i>Maru1</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225608'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 3876648
+  length: 5068
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 367f58dfbc3cf645abbed99efe96a6830ceb492492b54ef715a57978aebbe08a

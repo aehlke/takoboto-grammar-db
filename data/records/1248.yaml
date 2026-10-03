@@ -1,0 +1,282 @@
+schema_version: 2
+id: 1248
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1248/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: なので
+romanized_label: nanode
+alternate_forms: []
+jlpt_level: 4
+credits_raw: dc
+meaning: since
+meaning_example: since this is secret
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1248
+    body_text: |-
+      since 
+       since this is secret
+    body_html: |-
+      <span>since</span> <br/> <span>since this is secret</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1248
+    body_text: N/なadj+なので
+    body_html: |-
+      <div><div><div>N/なadj</div></div><div><div>+</div><div>なので</div></div></div>
+    credits_raw: null
+formations:
+  - N/なadj + なので
+examples:
+  - source_id: 3129
+    position: 0
+    japanese: この情報は内々に知らされたものなので、あなたに何も教えることはできない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%83%85%e5%a0%b1%e3%81%af"><span>情報は</span></a><a href="https://takoboto.jp/?q=%e5%86%85%e3%80%85%e3%81%ab"><span>内々に</span></a><a href="https://takoboto.jp/?q=%e7%9f%a5%e3%82%89%e3%81%95%e3%82%8c%e3%81%9f"><span>知らされた</span></a><a href="https://takoboto.jp/?q=%e3%82%82%e3%81%ae"><span>もの</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7"><strong>なので</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab"><span>、あなたに</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%82"><span>何も</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84"><span>教えることはできない</span></a>
+    segments:
+      - text: この情報は内々に知らされたもの
+        grammar_highlight: false
+      - text: なので
+        grammar_highlight: true
+      - text: 、あなたに何も教えることはできない
+        grammar_highlight: false
+    reading: このじょうほうはうちうちにしらされたものなので、あなたになにもおしえることはできない
+    credits_raw: dc
+    translations:
+      - language: en
+        text: This information was given to me in confidence, so I can't tell you anything.
+        html: |-
+          <span>This information was given to me in confidence, </span><strong>so </strong><span>I can't tell you anything. </span>
+        segments:
+          - text: 'This information was given to me in confidence, '
+            grammar_highlight: false
+          - text: 'so '
+            grammar_highlight: true
+          - text: 'I can''t tell you anything. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3131
+    position: 1
+    japanese: それは真実なのでいまさら四の五の言ってもはじまらない
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%82%8c%e3%81%af"><span>それは</span></a><a href="https://takoboto.jp/?q=%e7%9c%9f%e5%ae%9f"><span>真実</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7"><strong>なので</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%be%e3%81%95%e3%82%89"><span>いまさら</span></a><a href="https://takoboto.jp/?q=%e5%9b%9b%e3%81%ae"><span>四の</span></a><a href="https://takoboto.jp/?q=%e4%ba%94%e3%81%ae"><span>五の</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%a3%e3%81%a6%e3%82%82%e3%81%af%e3%81%98%e3%81%be%e3%82%89%e3%81%aa%e3%81%84"><span>言ってもはじまらない</span></a>
+    segments:
+      - text: それは真実
+        grammar_highlight: false
+      - text: なので
+        grammar_highlight: true
+      - text: いまさら四の五の言ってもはじまらない
+        grammar_highlight: false
+    reading: それはしんじつなのでいまさらよんのごのいってもはじまらない
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Since it is quite true, grumbling about it now does not get you anywhere.
+        html: |-
+          <strong>Since </strong><span>it is quite true, grumbling about it now does not get you anywhere. </span>
+        segments:
+          - text: 'Since '
+            grammar_highlight: true
+          - text: 'it is quite true, grumbling about it now does not get you anywhere. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3556
+    position: 2
+    japanese: あんなに子供が好きなので、スーは先生になるべきだ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%82%93%e3%81%aa%e3%81%ab"><span>あんなに</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e3%81%8c"><span>子供が</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d"><span>好き</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7"><strong>なので</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%82%b9%e3%83%bc%e3%81%af"><span>、スーは</span></a><a href="https://takoboto.jp/?q=%e5%85%88%e7%94%9f%e3%81%ab%e3%81%aa%e3%82%8b%e3%81%b9%e3%81%8d%e3%81%a0%e3%80%82"><span>先生になるべきだ。</span></a>
+    segments:
+      - text: あんなに子供が好き
+        grammar_highlight: false
+      - text: なので
+        grammar_highlight: true
+      - text: 、スーは先生になるべきだ。
+        grammar_highlight: false
+    reading: あんなにこどもがすきなので、スーはせんせいになるべきだ。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Liking children the way she does Sue should become a teacher.
+        html: |-
+          <span>Liking children the way she does Sue should become a teacher. </span>
+        segments:
+          - text: 'Liking children the way she does Sue should become a teacher. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3557
+    position: 3
+    japanese: いすをどかしてください。邪魔なので。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%84%e3%81%99%e3%82%92%e3%81%a9%e3%81%8b%e3%81%97%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>いすをどかしてください。</span></a><a href="https://takoboto.jp/?q=%e9%82%aa%e9%ad%94"><span>邪魔</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7"><strong>なので</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: いすをどかしてください。邪魔
+        grammar_highlight: false
+      - text: なので
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: いすをどかしてください。じゃまなので。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Please put those chairs away. As they are in the way.
+        html: |-
+          <span>Please put those chairs away. </span><strong>As </strong><span>they are in the way. </span>
+        segments:
+          - text: 'Please put those chairs away. '
+            grammar_highlight: false
+          - text: 'As '
+            grammar_highlight: true
+          - text: 'they are in the way. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3558
+    position: 4
+    japanese: イヤホンを頼んだはずなのですが。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%a4%e3%83%a4%e3%83%9b%e3%83%b3%e3%82%92"><span>イヤホンを</span></a><a href="https://takoboto.jp/?q=%e9%a0%bc%e3%82%93%e3%81%a0%e3%81%af%e3%81%9a"><span>頼んだはず</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7"><strong>なので</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%81%8c%e3%80%82"><span>すが。</span></a>
+    segments:
+      - text: イヤホンを頼んだはず
+        grammar_highlight: false
+      - text: なので
+        grammar_highlight: true
+      - text: すが。
+        grammar_highlight: false
+    reading: イヤホンをたのんだはずなのですが。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: The thing is , I asked for earphones.
+        html: |-
+          <span>The thing </span><strong>is </strong><span>, I asked for earphones. </span>
+        segments:
+          - text: 'The thing '
+            grammar_highlight: false
+          - text: 'is '
+            grammar_highlight: true
+          - text: ', I asked for earphones. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3559
+    position: 5
+    japanese: お天気なので、釣りに行きたいような気がする。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e5%a4%a9%e6%b0%97"><span>天気</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7"><strong>なので</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e9%87%a3%e3%82%8a%e3%81%ab"><span>釣りに</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8d%e3%81%9f%e3%81%84%e3%82%88%e3%81%86%e3%81%aa"><span>行きたいような</span></a><a href="https://takoboto.jp/?q=%e6%b0%97%e3%81%8c%e3%81%99%e3%82%8b%e3%80%82"><span>気がする。</span></a>
+    segments:
+      - text: お天気
+        grammar_highlight: false
+      - text: なので
+        grammar_highlight: true
+      - text: 、釣りに行きたいような気がする。
+        grammar_highlight: false
+    reading: おてんきなので、つりにいきたいようなきがする。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: It is a fine day and I feel like going fishing.
+        html: |-
+          <span>It is a fine day and I feel like going fishing. </span>
+        segments:
+          - text: 'It is a fine day and I feel like going fishing. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3560
+    position: 6
+    japanese: お母さんが病気なので、今日はお父さんが料理をします。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%95%e3%82%93%e3%81%8c"><span>母さんが</span></a><a href="https://takoboto.jp/?q=%e7%97%85%e6%b0%97"><span>病気</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7"><strong>なので</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%af%e3%81%8a"><span>今日はお</span></a><a href="https://takoboto.jp/?q=%e7%88%b6%e3%81%95%e3%82%93%e3%81%8c"><span>父さんが</span></a><a href="https://takoboto.jp/?q=%e6%96%99%e7%90%86%e3%82%92%e3%81%97%e3%81%be%e3%81%99%e3%80%82"><span>料理をします。</span></a>
+    segments:
+      - text: お母さんが病気
+        grammar_highlight: false
+      - text: なので
+        grammar_highlight: true
+      - text: 、今日はお父さんが料理をします。
+        grammar_highlight: false
+    reading: おかあさんがびょうきなので、きょうはおとうさんがりょうりをします。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Because my mother is sick, my father will cook today.
+        html: |-
+          <span>Because my mother is sick, my father will cook today. </span>
+        segments:
+          - text: 'Because my mother is sick, my father will cook today. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3561
+    position: 7
+    japanese: こういうわけで私はあなたに反対なのです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%86%e3%81%84%e3%81%86%e3%82%8f%e3%81%91%e3%81%a7"><span>こういうわけで</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab"><span>私はあなたに</span></a><a href="https://takoboto.jp/?q=%e5%8f%8d%e5%af%be"><span>反対</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%ae%e3%81%a7"><strong>なので</strong></a><a href="https://takoboto.jp/?q=%e3%81%99%e3%80%82"><span>す。</span></a>
+    segments:
+      - text: こういうわけで私はあなたに反対
+        grammar_highlight: false
+      - text: なので
+        grammar_highlight: true
+      - text: す。
+        grammar_highlight: false
+    reading: こういうわけでわたしはあなたにはんたいなのです。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: This is the reason I disagree with you.
+        html: |-
+          <span>This is the reason I disagree with you. </span>
+        segments:
+          - text: 'This is the reason I disagree with you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: can someone explain the difference between this and just [node] ?
+    html: can someone explain the difference between this and just [node] ?
+    credits_raw: dc
+    content_sha256: e66c2ab143936216239068aa121b6e07d8ccfa44fe2333b8d9b7b93ca10b767f
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      I think it is simply that if the clause before node is a noun, such as in this example, then you use 'nanode'. If it is a verb then you only use 'node'. 
+
+      As far as I know, 'na' seems to be related to the copula 'da', and can be seen in other similar circumstances such as 'nanoni'. Exactly why it changes to na instead of da I don't know. 
+
+      Contrast 'sou da to omou',and 'sou na node...'
+    html: |-
+      I think it is simply that if the clause before node is a noun, such as in this example, then you use 'nanode'. If it is a verb then you only use 'node'. <br/><br/>As far as I know, 'na' seems to be related to the copula 'da', and can be seen in other similar circumstances such as 'nanoni'. Exactly why it changes to na instead of da I don't know. <br/><br/>Contrast 'sou da to omou',and 'sou na node...'
+    credits_raw: bi-ru
+    content_sha256: 07ec9f5c0b0f5cbd17fbfeced4afbb0690af006ac1e8735ccc472a738faf156a
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: な is 連体形 of 助動詞「だ」which inflect as だろ、で、だっ、だ、な、なら but な only connects to particles の、ので、のに.
+    html: な is 連体形 of 助動詞「だ」which inflect as だろ、で、だっ、だ、な、なら but な only connects to particles の、ので、のに.
+    credits_raw: bamboo4
+    content_sha256: ae1b28f4bb01d5b1a98548e2662ca18c1e3e16707301be21600dc74ba66bd129
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1217
+    label: ので
+    source_url: https://takoboto.jp/bunpo/1217
+  - target_id: 373
+    label: 〜につき
+    source_url: https://takoboto.jp/bunpo/373
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:25+00:00'
+response_sha256: 47d473ca7f00a381b875cc3f29ebb8207cfbfe62e030eff3151f6eb730e53ba3
+warnings: []

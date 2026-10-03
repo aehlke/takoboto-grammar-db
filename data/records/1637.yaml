@@ -1,0 +1,57 @@
+schema_version: 2
+id: 1637
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1637/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: それに
+romanized_label: soreni
+alternate_forms: []
+jlpt_level: null
+credits_raw: makara
+meaning: moreover, and what's more
+meaning_example: The price of food in this restaurant is cheap moreover food is delicious.
+meaning_notes:
+  - language: ja
+    text: そのうえ
+    html: そのうえ
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1637
+    body_text: |-
+      moreover, and what's more 
+       The price of food in this restaurant is cheap moreover food is delicious. 
+       そのうえ
+    body_html: |-
+      <span>moreover, and what's more</span> <br/> <span>The price of food in this restaurant is cheap moreover food is delicious.</span> <br/> <span>そのうえ</span>
+    credits_raw: makara
+formations: []
+examples:
+  - source_id: 6640
+    position: 0
+    japanese: The city that I live in is small,and moreover, it is very quiet.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=The+city+that+I+live+in+is+small%2cand+moreover%2c+it+is+very+quiet."><span>The city that I live in is small,and moreover, it is very quiet.</span></a>
+    segments:
+      - text: The city that I live in is small,and moreover, it is very quiet.
+        grammar_highlight: false
+    reading: null
+    credits_raw: ryuumegami06
+    translations:
+      - language: en
+        text: 住んでいる市は小さいし、それにとても静かな市です。
+        html: |-
+          <span>住んでいる市は小さいし、それにとても静かな市です。 </span>
+        segments:
+          - text: '住んでいる市は小さいし、それにとても静かな市です。 '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:47:22+00:00'
+response_sha256: 6aa8d126c2d007a314f7e56e67b186c79244a5ffbc6434ddd7dad02c1c4dc14a
+warnings: []

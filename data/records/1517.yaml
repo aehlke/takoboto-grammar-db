@@ -1,0 +1,290 @@
+schema_version: 2
+id: 1517
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1517/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜中に、〜上に、〜下に、など
+romanized_label: naka, ue, shita, etc.
+alternate_forms:
+  - 〜なかに、〜うえに、〜したに、など
+jlpt_level: 3
+credits_raw: Xephyer
+meaning: Talking about relative location of an object
+meaning_example: My hat is in your car
+meaning_notes:
+  - language: ja
+    text: ある物について立地を説明するために
+    html: ある物について立地を説明するために
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1517
+    body_text: |-
+      Talking about relative location of an object 
+       My hat is in your car 
+       ある物について立地を説明するために
+    body_html: |-
+      <span>Talking about relative location of an object</span> <br/> <span>My hat is in your car</span> <br/> <span>ある物について立地を説明するために</span>
+    credits_raw: Xephyer
+formations: []
+examples:
+  - source_id: 5902
+    position: 0
+    japanese: スポーツの中に、どちらが一番好き？
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84"><span>スポーツ</span></a><a href="https://takoboto.jp/?q=%e3%81%ae%e4%b8%ad%e3%81%ab"><strong>の中に</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%a9%e3%81%a1%e3%82%89%e3%81%8c"><span>、どちらが</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e7%95%aa%e5%a5%bd%e3%81%8d"><span>一番好き</span></a><a href="https://takoboto.jp/?q=%ef%bc%9f"><span>？</span></a>
+    segments:
+      - text: スポーツ
+        grammar_highlight: false
+      - text: の中に
+        grammar_highlight: true
+      - text: 、どちらが一番好き？
+        grammar_highlight: false
+    reading: スポーツのなかに、どちらがいちばんすき？
+    credits_raw: karekora
+    translations:
+      - language: en
+        text: out of all the sports, which do you like best?
+        html: |-
+          <strong>out of </strong><span>all the sports, which do you like best? </span>
+        segments:
+          - text: 'out of '
+            grammar_highlight: true
+          - text: 'all the sports, which do you like best? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6634
+    position: 1
+    japanese: その建物に銀行がありますか｡
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae"><span>その</span></a><a href="https://takoboto.jp/?q=%e5%bb%ba%e7%89%a9%e3%81%ab"><span>建物に</span></a><a href="https://takoboto.jp/?q=%e9%8a%80%e8%a1%8c%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%81%8b"><span>銀行がありますか</span></a><a href="https://takoboto.jp/?q=%ef%bd%a1"><span>｡</span></a>
+    segments:
+      - text: その建物に銀行がありますか｡
+        grammar_highlight: false
+    reading: そのたてものにぎんこうがありますか
+    credits_raw: tigert
+    translations:
+      - language: en
+        text: Is there a bank in that building?
+        html: |-
+          <span>Is there a bank in that building? </span>
+        segments:
+          - text: 'Is there a bank in that building? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6635
+    position: 2
+    japanese: ドアの近いにあるかばんは誰のですか｡
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%89%e3%82%a2%e3%81%ae"><span>ドアの</span></a><a href="https://takoboto.jp/?q=%e8%bf%91%e3%81%84%e3%81%ab%e3%81%82%e3%82%8b%e3%81%8b%e3%81%b0%e3%82%93%e3%81%af"><span>近いにあるかばんは</span></a><a href="https://takoboto.jp/?q=%e8%aa%b0%e3%81%ae%e3%81%a7%e3%81%99%e3%81%8b"><span>誰のですか</span></a><a href="https://takoboto.jp/?q=%ef%bd%a1"><span>｡</span></a>
+    segments:
+      - text: ドアの近いにあるかばんは誰のですか｡
+        grammar_highlight: false
+    reading: ドアのちかいにあるかばんはだれのですか
+    credits_raw: tigert
+    translations:
+      - language: en
+        text: whos bag is that by the door.
+        html: |-
+          <span>whos bag is that by the door. </span>
+        segments:
+          - text: 'whos bag is that by the door. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6636
+    position: 3
+    japanese: 車が家の左に止まっておいたよ｡
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%bb%8a%e3%81%8c"><span>車が</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e3%81%ae"><span>家の</span></a><a href="https://takoboto.jp/?q=%e5%b7%a6%e3%81%ab"><span>左に</span></a><a href="https://takoboto.jp/?q=%e6%ad%a2%e3%81%be%e3%81%a3%e3%81%a6%e3%81%8a%e3%81%84%e3%81%9f%e3%82%88"><span>止まっておいたよ</span></a><a href="https://takoboto.jp/?q=%ef%bd%a1"><span>｡</span></a>
+    segments:
+      - text: 車が家の左に止まっておいたよ｡
+        grammar_highlight: false
+    reading: くるまがいえのひだりにとまっておいたよ
+    credits_raw: tigert
+    translations:
+      - language: en
+        text: I parked the car on the left side of the house.
+        html: |-
+          <span>I parked the car on the left side of the house. </span>
+        segments:
+          - text: 'I parked the car on the left side of the house. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6637
+    position: 4
+    japanese: チキンは冷凍庫の中です｡
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%81%e3%82%ad%e3%83%b3%e3%81%af"><span>チキンは</span></a><a href="https://takoboto.jp/?q=%e5%86%b7%e5%87%8d%e5%ba%ab%e3%81%ae"><span>冷凍庫の</span></a><a href="https://takoboto.jp/?q=%e4%b8%ad%e3%81%a7%e3%81%99"><span>中です</span></a><a href="https://takoboto.jp/?q=%ef%bd%a1"><span>｡</span></a>
+    segments:
+      - text: チキンは冷凍庫の中です｡
+        grammar_highlight: false
+    reading: チキンはれいとうこのなかです
+    credits_raw: tigert
+    translations:
+      - language: en
+        text: The chicken is in the freezer.
+        html: |-
+          <span>The chicken is in the freezer. </span>
+        segments:
+          - text: 'The chicken is in the freezer. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6638
+    position: 5
+    japanese: 郵便局はまっすぐに行って､右側にあります｡
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e9%83%b5%e4%be%bf%e5%b1%80%e3%81%af%e3%81%be%e3%81%a3%e3%81%99%e3%81%90%e3%81%ab"><span>郵便局はまっすぐに</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%a3%e3%81%a6"><span>行って</span></a><a href="https://takoboto.jp/?q=%ef%bd%a4%e5%8f%b3%e5%81%b4%e3%81%ab%e3%81%82%e3%82%8a%e3%81%be%e3%81%99"><span>､右側にあります</span></a><a href="https://takoboto.jp/?q=%ef%bd%a1"><span>｡</span></a>
+    segments:
+      - text: 郵便局はまっすぐに行って､右側にあります｡
+        grammar_highlight: false
+    reading: ゆうびんきょくはまっすぐにいってみぎがわにあります
+    credits_raw: tigert
+    translations:
+      - language: en
+        text: The post office is straight down and on the right.
+        html: |-
+          <span>The post office is straight down and on the right. </span>
+        segments:
+          - text: 'The post office is straight down and on the right. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6639
+    position: 6
+    japanese: 授業は２階にあります｡
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%8e%88%e6%a5%ad%e3%81%af"><span>授業は</span></a><a href="https://takoboto.jp/?q=%ef%bc%92%e9%9a%8e%e3%81%ab%e3%81%82%e3%82%8a%e3%81%be%e3%81%99"><span>２階にあります</span></a><a href="https://takoboto.jp/?q=%ef%bd%a1"><span>｡</span></a>
+    segments:
+      - text: 授業は２階にあります｡
+        grammar_highlight: false
+    reading: じゅぎょうは２かいにあります
+    credits_raw: tigert
+    translations:
+      - language: en
+        text: the class is on the second floor.
+        html: |-
+          <span>the class is on the second floor. </span>
+        segments:
+          - text: 'the class is on the second floor. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Location is specified with the combination of a location noun and/or relative place word (上、下、中、外、後ろ、前、横、そば）and the location marker に､and one of the two existance verbs ある or いる
+
+      ある　is used when talking about inanimate objects or states of being. while いる　is used for animate objects.
+
+      My dog is in your car
+      わたしの犬はあなたの車にいます｡
+      My hat is in your car
+      わたしのぼうしはあなたの車にあります｡
+
+      If you want to specify a relative location IE in something, next to something, on something. you combine the　location noun with the relative location word using the posessive particle　の
+
+      On the desk
+      つくえの上
+      In the bag
+      かばんの中
+      by the tv
+      テレビの横
+      behind the car
+      車の後ろ
+      infront of the computer
+      パャRンの前
+
+      becareful to include the location particle に at the end of the relative location statement.
+      で can also be used for location, but not in combination with the いる and ある verbs.
+    html: |-
+      Location is specified with the combination of a location noun and/or relative place word (上、下、中、外、後ろ、前、横、そば）and the location marker に､and one of the two existance verbs ある or いる<br/><br/>ある　is used when talking about inanimate objects or states of being. while いる　is used for animate objects.<br/><br/>My dog is in your car<br/>わたしの犬はあなたの車にいます｡<br/>My hat is in your car<br/>わたしのぼうしはあなたの車にあります｡<br/><br/>If you want to specify a relative location IE in something, next to something, on something. you combine the　location noun with the relative location word using the posessive particle　の<br/><br/>On the desk<br/>つくえの上<br/>In the bag<br/>かばんの中<br/>by the tv<br/>テレビの横<br/>behind the car<br/>車の後ろ<br/>infront of the computer<br/>パャRンの前<br/><br/>becareful to include the location particle に at the end of the relative location statement.<br/>で can also be used for location, but not in combination with the いる and ある verbs.
+    credits_raw: tigert
+    content_sha256: 78b5d5b8490284c30e66e461bb37a471df7d75ef171c90e54b36e9a562433309
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      の中に is to indicate object location, for example スパートの中に本屋があります。(Bookshop is in the supermarket.)
+
+      の中で is exlpain as "among the category", for example 果物の中で、どちらが一番すきですか。(Among the fruits,what is your favourite?)
+    html: |-
+      の中に is to indicate object location, for example スパートの中に本屋があります。(Bookshop is in the supermarket.)<br/><br/>の中で is exlpain as "among the category", for example 果物の中で、どちらが一番すきですか。(Among the fruits,what is your favourite?)
+    credits_raw: bsloh
+    content_sha256: c72fc2342efb66219488ac2db3f336e9ce0fab2061be2bd53dbe77eaf8d8f9be
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 'ex #5902 の中に should be changed to 中で(なかで）. Also "out of" should be "among".'
+    html: 'ex #5902 の中に should be changed to 中で(なかで）. Also "out of" should be "among".'
+    credits_raw: bamboo4
+    content_sha256: f9f7b1514670f6b071ca9502bd503bd71123fa8b3a88ce040ee44210b6854aee
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      I hope you don`t mind but I added some grammar to your grammar note. As for に and で they are used in much the same way, but they are not interchangable. に is used for static states of being, while で is used for dynamic states or action. if your verb is いる､ある use に if its anything else で would be a good bet.
+    html: |-
+      I hope you don`t mind but I added some grammar to your grammar note. As for に and で they are used in much the same way, but they are not interchangable. に is used for static states of being, while で is used for dynamic states or action. if your verb is いる､ある use に if its anything else で would be a good bet.
+    credits_raw: tigert
+    content_sha256: 5ed85f94c4e36e564c7666382b7dfd9b776f467478e49af7304387d682cee85a
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      Is this a grammar entry?
+
+      ex#5902 J is strange. I guess you ment スポーツでは、どれが／何が 一番好き（ですか）？ What sport do you like best?
+    html: |-
+      Is this a grammar entry?<br/><br/>ex#5902 J is strange. I guess you ment スポーツでは、どれが／何が 一番好き（ですか）？ What sport do you like best?
+    credits_raw: Miki
+    content_sha256: cee32d84e95eba5fe0877a97f02a780ce3f56bd1923893bfab9a5008c6963798
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      As what i get from the book it should be "スポーツの中で、どちらが一番好きですか" . As what Cleber's example, it should be "果物の中で、どちらが一番好きですか" in English "Among the fruits what(which one) is your favourite". Please correct me if i am wrong どうぞ宜しくお願いします.
+    html: |-
+      As what i get from the book it should be "スポーツの中で、どちらが一番好きですか" . As what Cleber's example, it should be "果物の中で、どちらが一番好きですか" in English "Among the fruits what(which one) is your favourite". Please correct me if i am wrong どうぞ宜しくお願いします.
+    credits_raw: bsloh
+    content_sha256: e4ac8112a82410f2d56755ea287c1b31006f00cf2c28629a05ece60b1ff15071
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      I think the example ex#5902 is right. I read already a sentence like this:
+      kudamono no nakani, dochiraga ichibansukidesuka.
+    html: |-
+      I think the example ex#5902 is right. I read already a sentence like this:<br/>kudamono no nakani, dochiraga ichibansukidesuka.
+    credits_raw: Cleber
+    content_sha256: 0b38ccb52fc3a7f85f8fd6249f778c9f0d05e6cd7829bee01f55f122d85426f4
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      According to my Japanese friend they never use "の中に" when you are picking items out of a list (like picking your favorite). They say, "スポーツの中で、どちらが一番好き？ I think that "の中に" translates more to "within" and "の中で”is "in or out of". So the sentence 箱の中に、なにがあるの？ is correct because it can be translated as "What is there within the box?"
+    html: |-
+      According to my Japanese friend they never use "の中に" when you are picking items out of a list (like picking your favorite). They say, "スポーツの中で、どちらが一番好き？ I think that "の中に" translates more to "within" and "の中で”is "in or out of". So the sentence 箱の中に、なにがあるの？ is correct because it can be translated as "What is there within the box?"
+    credits_raw: dbartlett95
+    content_sha256: c6d2a46cb14844f1eae46fbaf72d3f5efca323387d4b4a9f110ee4329c7f6c4d
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:34:00+00:00'
+response_sha256: bd16316303dc1cdb8d38d06703c564757a87145893cc34875b8d4ef0ba956d14
+warnings: []

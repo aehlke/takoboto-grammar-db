@@ -1,0 +1,507 @@
+schema_version: 2
+id: 506
+source: takoboto
+source_url: https://takoboto.jp/bunpo/506/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: に当たって; に当たり
+romanized_label: niatatte; niatari
+alternate_forms:
+  - にあたって; にあたり
+jlpt_level: 2
+credits_raw: dc
+meaning: on the occasion of; at; in; before; prior to
+meaning_example: On the occasion of my study abroad, my father told me about his own experience.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_506
+    body_text: |-
+      on the occasion of; at; in; before; prior to 
+       On the occasion of my study abroad, my father told me about his own experience.
+    body_html: |-
+      <span>on the occasion of; at; in; before; prior to</span> <br/> <span>On the occasion of my study abroad, my father told me about his own experience.</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_506
+    body_text: Verb dictionary form+に+あたって/あたりNoun+に+あたって/あたり
+    body_html: |-
+      <div><div><div>Verb dictionary form</div></div><div><div>+</div><div>に</div></div><div><div>+</div><div>あたって/あたり</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>に</div></div><div><div>+</div><div>あたって/あたり</div></div></div>
+    credits_raw: null
+formations:
+  - Verb dictionary form + に + あたって/あたり
+  - Noun + に + あたって/あたり
+examples:
+  - source_id: 6306
+    position: 0
+    japanese: 私は就寝に当たって少量の洋酒を喫すること習慣にしている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%b0%b1%e5%af%9d"><span>就寝</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%bd%93%e3%81%9f%e3%81%a3%e3%81%a6"><strong>に当たって</strong></a><a href="https://takoboto.jp/?q=%e5%b0%91%e9%87%8f%e3%81%ae"><span>少量の</span></a><a href="https://takoboto.jp/?q=%e6%b4%8b%e9%85%92%e3%82%92"><span>洋酒を</span></a><a href="https://takoboto.jp/?q=%e5%96%ab%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8"><span>喫すること</span></a><a href="https://takoboto.jp/?q=%e7%bf%92%e6%85%a3%e3%81%ab%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b%e3%80%82"><span>習慣にしている。</span></a>
+    segments:
+      - text: 私は就寝
+        grammar_highlight: false
+      - text: に当たって
+        grammar_highlight: true
+      - text: 少量の洋酒を喫すること習慣にしている。
+        grammar_highlight: false
+    reading: わたしはしゅうしんにあたってしょうりょうのようしゅをきっすることしゅうかんにしている。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: It is my custom to drink a small amount of foreign liquor prior to going to bed.
+        html: |-
+          <span>It is my custom to drink a small amount of foreign liquor </span><strong>prior to </strong><span>going to bed. </span>
+        segments:
+          - text: 'It is my custom to drink a small amount of foreign liquor '
+            grammar_highlight: false
+          - text: 'prior to '
+            grammar_highlight: true
+          - text: 'going to bed. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6307
+    position: 1
+    japanese: 小説家は時代小説を書くに当たり、その時代の歴史を詳しく調べた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%b0%8f%e8%aa%ac%e5%ae%b6%e3%81%af"><span>小説家は</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e4%bb%a3%e5%b0%8f%e8%aa%ac%e3%82%92"><span>時代小説を</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%8f"><span>書く</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%bd%93%e3%81%9f%e3%82%8a"><strong>に当たり</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e3%81%9d%e3%81%ae"><span>、その</span></a><a href="https://takoboto.jp/?q=%e6%99%82%e4%bb%a3%e3%81%ae"><span>時代の</span></a><a href="https://takoboto.jp/?q=%e6%ad%b4%e5%8f%b2%e3%82%92"><span>歴史を</span></a><a href="https://takoboto.jp/?q=%e8%a9%b3%e3%81%97%e3%81%8f"><span>詳しく</span></a><a href="https://takoboto.jp/?q=%e8%aa%bf%e3%81%b9%e3%81%9f%e3%80%82"><span>調べた。</span></a>
+    segments:
+      - text: 小説家は時代小説を書く
+        grammar_highlight: false
+      - text: に当たり
+        grammar_highlight: true
+      - text: 、その時代の歴史を詳しく調べた。
+        grammar_highlight: false
+    reading: しょうせつかはじだいしょうせつをかくにあたり、そのじだいのれきしをくわしくしらべた。
+    credits_raw: rubyhatchet
+    translations:
+      - language: en
+        text: Before writing an historical novel, the novelist did an in-depth survey of the history of the period he dealt with.
+        html: |-
+          <strong>Before </strong><span>writing an historical novel, the novelist did an in-depth survey of the history of the period he dealt with. </span>
+        segments:
+          - text: 'Before '
+            grammar_highlight: true
+          - text: 'writing an historical novel, the novelist did an in-depth survey of the history of the period he dealt with. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 433
+    position: 2
+    japanese: サイトのご利用にあたって
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ae%e3%81%94"><span>サイトのご</span></a><a href="https://takoboto.jp/?q=%e5%88%a9%e7%94%a8"><span>利用</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a>
+    segments:
+      - text: サイトのご利用
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+    reading: サイトのごりようにあたって
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: When using this site
+        html: |-
+          <strong>When </strong><span>using this site </span>
+        segments:
+          - text: 'When '
+            grammar_highlight: true
+          - text: 'using this site '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 434
+    position: 3
+    japanese: 科学論文を書くにあたって
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%91%e5%ad%a6%e8%ab%96%e6%96%87%e3%82%92"><span>科学論文を</span></a><a href="https://takoboto.jp/?q=%e6%9b%b8%e3%81%8f"><span>書く</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a>
+    segments:
+      - text: 科学論文を書く
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+    reading: かがくろんぶんをかくにあたって
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: When writing a science thesis
+        html: |-
+          <strong>When </strong><span>writing a science thesis </span>
+        segments:
+          - text: 'When '
+            grammar_highlight: true
+          - text: 'writing a science thesis '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 530
+    position: 4
+    japanese: 私の留学に当たり父は自分の経験を話してくれた
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e7%95%99%e5%ad%a6"><span>留学</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e5%bd%93%e3%81%9f%e3%82%8a"><strong>に当たり</strong></a><a href="https://takoboto.jp/?q=%e7%88%b6%e3%81%af"><span>父は</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%ae"><span>自分の</span></a><a href="https://takoboto.jp/?q=%e7%b5%8c%e9%a8%93%e3%82%92"><span>経験を</span></a><a href="https://takoboto.jp/?q=%e8%a9%b1%e3%81%97%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%9f"><span>話してくれた</span></a>
+    segments:
+      - text: 私の留学
+        grammar_highlight: false
+      - text: に当たり
+        grammar_highlight: true
+      - text: 父は自分の経験を話してくれた
+        grammar_highlight: false
+    reading: わたしのりゅうがくにあたりちちはじぶんのけいけんをはなしてくれた
+    credits_raw: dc
+    translations:
+      - language: en
+        text: On the occasion of my study abroad, my father told me about his own experience
+        html: |-
+          <strong>On the occasion of </strong><span>my study abroad, my father told me about his own experience </span>
+        segments:
+          - text: 'On the occasion of '
+            grammar_highlight: true
+          - text: 'my study abroad, my father told me about his own experience '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4062
+    position: 5
+    japanese: もし困った事があればユーザーズガイドにあたってください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%82%e3%81%97"><span>もし</span></a><a href="https://takoboto.jp/?q=%e5%9b%b0%e3%81%a3%e3%81%9f"><span>困った</span></a><a href="https://takoboto.jp/?q=%e4%ba%8b%e3%81%8c%e3%81%82%e3%82%8c%e3%81%b0%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%ba%e3%82%ac%e3%82%a4%e3%83%89"><span>事があればユーザーズガイド</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>ください。</span></a>
+    segments:
+      - text: もし困った事があればユーザーズガイド
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+      - text: ください。
+        grammar_highlight: false
+    reading: もしこまったことがあればユーザーズガイドにあたってください。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: Refer to the Users' Guide if you have any problems.
+        html: |-
+          <span>Refer to the Users' Guide if you have any problems. </span>
+        segments:
+          - text: 'Refer to the Users'' Guide if you have any problems. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4063
+    position: 6
+    japanese: 我々は決定にあたって偏見に左右されない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%88%91%e3%80%85%e3%81%af"><span>我々は</span></a><a href="https://takoboto.jp/?q=%e6%b1%ba%e5%ae%9a"><span>決定</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a><a href="https://takoboto.jp/?q=%e5%81%8f%e8%a6%8b%e3%81%ab"><span>偏見に</span></a><a href="https://takoboto.jp/?q=%e5%b7%a6%e5%8f%b3%e3%81%95%e3%82%8c%e3%81%aa%e3%81%84%e3%80%82"><span>左右されない。</span></a>
+    segments:
+      - text: 我々は決定
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+      - text: 偏見に左右されない。
+        grammar_highlight: false
+    reading: われわれはけっていにあたってへんけんにさゆうされない。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: We should not be influenced in our decisions by our prejudices.
+        html: |-
+          <span>We should not be influenced in our decisions by our prejudices. </span>
+        segments:
+          - text: 'We should not be influenced in our decisions by our prejudices. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4064
+    position: 7
+    japanese: 研究部長はその部門が新製品のテストをするにあたって、徹底的な仕事をさせた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a0%94%e7%a9%b6%e9%83%a8%e9%95%b7%e3%81%af%e3%81%9d%e3%81%ae"><span>研究部長はその</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e9%96%80%e3%81%8c"><span>部門が</span></a><a href="https://takoboto.jp/?q=%e6%96%b0%e8%a3%bd%e5%93%81%e3%81%ae%e3%83%86%e3%82%b9%e3%83%88%e3%82%92%e3%81%99%e3%82%8b"><span>新製品のテストをする</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%be%b9%e5%ba%95%e7%9a%84%e3%81%aa"><span>徹底的な</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%82%92%e3%81%95%e3%81%9b%e3%81%9f%e3%80%82"><span>仕事をさせた。</span></a>
+    segments:
+      - text: 研究部長はその部門が新製品のテストをする
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+      - text: 、徹底的な仕事をさせた。
+        grammar_highlight: false
+    reading: けんきゅうぶちょうはそのぶもんがしんせいひんのテストをするにあたって、てっていてきなしごとをさせた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The research director had the department do thorough job in testing the new product.
+        html: |-
+          <span>The research director had the department do thorough job in testing the new product. </span>
+        segments:
+          - text: 'The research director had the department do thorough job in testing the new product. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4065
+    position: 8
+    japanese: 私が部屋を掃除する番にあたっていた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e9%83%a8%e5%b1%8b%e3%82%92"><span>部屋を</span></a><a href="https://takoboto.jp/?q=%e6%8e%83%e9%99%a4%e3%81%99%e3%82%8b"><span>掃除する</span></a><a href="https://takoboto.jp/?q=%e7%95%aa"><span>番</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%9f%e3%80%82"><span>いた。</span></a>
+    segments:
+      - text: 私が部屋を掃除する番
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+      - text: いた。
+        grammar_highlight: false
+    reading: わたしがへやをそうじするばんにあたっていた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It was my turn to clean the room.
+        html: |-
+          <span>It was my turn to clean the room. </span>
+        segments:
+          - text: 'It was my turn to clean the room. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4066
+    position: 9
+    japanese: 私たちが到着する日は日曜日にあたっている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%9f%e3%81%a1%e3%81%8c"><span>私たちが</span></a><a href="https://takoboto.jp/?q=%e5%88%b0%e7%9d%80%e3%81%99%e3%82%8b"><span>到着する</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e3%81%af"><span>日は</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9b%9c%e6%97%a5"><span>日曜日</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%82%8b%e3%80%82"><span>いる。</span></a>
+    segments:
+      - text: 私たちが到着する日は日曜日
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+      - text: いる。
+        grammar_highlight: false
+    reading: わたしたちがとうちゃくするひはにちようびにあたっている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: The day when we will arrive falls on Sunday.
+        html: |-
+          <span>The day when we will arrive falls on Sunday. </span>
+        segments:
+          - text: 'The day when we will arrive falls on Sunday. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4067
+    position: 10
+    japanese: 凄い明かりが野球場にあたっていた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%87%84%e3%81%84"><span>凄い</span></a><a href="https://takoboto.jp/?q=%e6%98%8e%e3%81%8b%e3%82%8a%e3%81%8c"><span>明かりが</span></a><a href="https://takoboto.jp/?q=%e9%87%8e%e7%90%83%e5%a0%b4"><span>野球場</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%9f%e3%80%82"><span>いた。</span></a>
+    segments:
+      - text: 凄い明かりが野球場
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+      - text: いた。
+        grammar_highlight: false
+    reading: すごいあかりがやきゅうじょうにあたっていた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: A great light was diffused over the baseball stadium.
+        html: |-
+          <span>A great light was diffused over the baseball stadium. </span>
+        segments:
+          - text: 'A great light was diffused over the baseball stadium. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4068
+    position: 11
+    japanese: 日にあたってからだを暖めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5"><span>日</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%a0%e3%82%92"><span>からだを</span></a><a href="https://takoboto.jp/?q=%e6%9a%96%e3%82%81%e3%81%9f%e3%80%82"><span>暖めた。</span></a>
+    segments:
+      - text: 日
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+      - text: からだを暖めた。
+        grammar_highlight: false
+    reading: にちにあたってからだをあたためた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: I warmed myself at the sun.
+        html: |-
+          <span>I warmed myself </span><strong>at </strong><span>the sun. </span>
+        segments:
+          - text: 'I warmed myself '
+            grammar_highlight: false
+          - text: 'at '
+            grammar_highlight: true
+          - text: 'the sun. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4069
+    position: 12
+    japanese: 彼が外人客の接待にあたっている。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%8c"><span>彼が</span></a><a href="https://takoboto.jp/?q=%e5%a4%96%e4%ba%ba%e5%ae%a2%e3%81%ae"><span>外人客の</span></a><a href="https://takoboto.jp/?q=%e6%8e%a5%e5%be%85"><span>接待</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%82%8b%e3%80%82"><span>いる。</span></a>
+    segments:
+      - text: 彼が外人客の接待
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+      - text: いる。
+        grammar_highlight: false
+    reading: かれががいじんきゃくのせったいにあたっている。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: He is in charge of entertaining the foreign guests.
+        html: |-
+          <span>He is in charge of entertaining the foreign guests. </span>
+        segments:
+          - text: 'He is in charge of entertaining the foreign guests. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4070
+    position: 13
+    japanese: 彼女は火にあたってからだを暖めた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e5%a5%b3%e3%81%af"><span>彼女は</span></a><a href="https://takoboto.jp/?q=%e7%81%ab"><span>火</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%89%e3%81%a0%e3%82%92"><span>からだを</span></a><a href="https://takoboto.jp/?q=%e6%9a%96%e3%82%81%e3%81%9f%e3%80%82"><span>暖めた。</span></a>
+    segments:
+      - text: 彼女は火
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+      - text: からだを暖めた。
+        grammar_highlight: false
+    reading: かのじょはひにあたってからだをあたためた。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: She warmed herself by the fire.
+        html: |-
+          <span>She warmed herself by the fire. </span>
+        segments:
+          - text: 'She warmed herself by the fire. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4071
+    position: 14
+    japanese: 母親が、彼の看護にあたってる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%af%8d%e8%a6%aa%e3%81%8c%e3%80%81"><span>母親が、</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%ae"><span>彼の</span></a><a href="https://takoboto.jp/?q=%e7%9c%8b%e8%ad%b7"><span>看護</span></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6"><strong>にあたって</strong></a><a href="https://takoboto.jp/?q=%e3%82%8b%e3%80%82"><span>る。</span></a>
+    segments:
+      - text: 母親が、彼の看護
+        grammar_highlight: false
+      - text: にあたって
+        grammar_highlight: true
+      - text: る。
+        grammar_highlight: false
+    reading: ははおやが、かれのかんごにあたってる。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: His mother is in attendance on him.
+        html: |-
+          <span>His mother is in attendance on him. </span>
+        segments:
+          - text: 'His mother is in attendance on him. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7150
+    position: 15
+    japanese: 新年を迎えるにあたって,一年の計画を立てた.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%96%b0%e5%b9%b4%e3%82%92"><span>新年を</span></a><a href="https://takoboto.jp/?q=%e8%bf%8e%e3%81%88%e3%82%8b%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6%2c"><span>迎えるにあたって,</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e5%b9%b4%e3%81%ae"><span>一年の</span></a><a href="https://takoboto.jp/?q=%e8%a8%88%e7%94%bb%e3%82%92"><span>計画を</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e3%81%a6%e3%81%9f."><span>立てた.</span></a>
+    segments:
+      - text: 新年を迎えるにあたって,一年の計画を立てた.
+        grammar_highlight: false
+    reading: しんねんをむかえるにあたっていちねんのけいかくをたてた
+    credits_raw: sureshnihon
+    translations:
+      - language: en
+        text: The whole year was planned for welcome new year.
+        html: |-
+          <span>The whole year was planned for welcome new year. </span>
+        segments:
+          - text: 'The whole year was planned for welcome new year. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      ＊This grammar is used to indicate time when one faces something formal. The compound particle is primarily used in written Japanese. When a verb precedes it, the verb is often a Sino-Japanese する verb, as in example #6306.
+
+      ＊The tense of the verb before に当たって;に当たり is always nonpast regardless of the tense of the final predicate. In this way, an incomplete aspect of an action is indicated by the verb. This is why the phrase can be translated into English as 'before' or 'prior to.'
+
+      ＊に当たり is more formal than　に当たって.
+
+      FORMATION:
+      Ｖ(plain nonpast) + にあたって・にあたり
+      Ｎ + にあたって・にあたり
+    html: |-
+      ＊This grammar is used to indicate time when one faces something formal. The compound particle is primarily used in written Japanese. When a verb precedes it, the verb is often a Sino-Japanese する verb, as in example #6306.<br/><br/>＊The tense of the verb before に当たって;に当たり is always nonpast regardless of the tense of the final predicate. In this way, an incomplete aspect of an action is indicated by the verb. This is why the phrase can be translated into English as 'before' or 'prior to.'<br/><br/>＊に当たり is more formal than　に当たって.<br/><br/>FORMATION:<br/>Ｖ(plain nonpast) + にあたって・にあたり<br/>Ｎ + にあたって・にあたり
+    credits_raw: rubyhatchet
+    content_sha256: 3534b03309dd0d2fc63930e8813a64c27ea418c11636d887d89c97e11c1179f7
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: this is usually used for very serious occasions, or important events.
+    html: this is usually used for very serious occasions, or important events.
+    credits_raw: dc
+    content_sha256: 40d0c63d36d73bde6dd16735d6793a4e6b9e2ef33d28f6efd6354428130e837b
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      maeni is similar as niatatte preceding verb cannot be past tense. 
+       留学行く「前に・にあたって」
+    html: |-
+      maeni is similar as niatatte preceding verb cannot be past tense. <br/> 留学行く「前に・にあたって」
+    credits_raw: dc
+    content_sha256: 0a3be9b2e31418230048156a108c98c041bd07724eb97cc7f10da77072446c09
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: 'updated: goro is more around the time. niatatte is more precise, but more formal.'
+    html: 'updated: goro is more around the time. niatatte is more precise, but more formal.'
+    credits_raw: dc
+    content_sha256: e9962c4faa3f5dd01c684668e57bd3996d0d2c5d7751cf9fc63b0ac4ade841c9
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: Technically the first two examples are sentence fragments.
+    html: Technically the first two examples are sentence fragments.
+    credits_raw: Amatuka
+    content_sha256: c714fcf79f84ea7c0671b5544d9d9670f052bb51a4aed267052f2da6d139fe49
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: 'The use of あたって in #4067, #4068 and #4070 do not belong here. あたる as used there is a different verb.'
+    html: 'The use of あたって in #4067, #4068 and #4070 do not belong here. あたる as used there is a different verb.'
+    credits_raw: bamboo4
+    content_sha256: fffff8467b9dcb80ba3b31146b406f11276ad9e059a2df679b1e2bce705e308f
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 523
+    label: 前に
+    source_url: https://takoboto.jp/bunpo/523
+  - target_id: 509
+    label: 〜時
+    source_url: https://takoboto.jp/bunpo/509
+  - target_id: 508
+    label: に際して
+    source_url: https://takoboto.jp/bunpo/508
+  - target_id: 256
+    label: 〜際
+    source_url: https://takoboto.jp/bunpo/256
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:36:37+00:00'
+response_sha256: 61752d12586a0633bddfb7f80e9cfa05817a8329134ea038ebdbe15cea3352f1
+warnings: []

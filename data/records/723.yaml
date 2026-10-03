@@ -1,0 +1,465 @@
+schema_version: 2
+id: 723
+source: takoboto
+source_url: https://takoboto.jp/bunpo/723/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 少し
+romanized_label: sukoshi
+alternate_forms:
+  - すこし
+jlpt_level: 4
+credits_raw: funfactory
+meaning: a bit...
+meaning_example: A bit cold
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_723
+    body_text: |-
+      a bit... 
+       A bit cold
+    body_html: |-
+      <span>a bit...</span> <br/> <span>A bit cold</span>
+    credits_raw: funfactory
+formations: []
+examples:
+  - source_id: 869
+    position: 0
+    japanese: かれは少しおそいですね。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8b%e3%82%8c%e3%81%af"><span>かれは</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a%e3%81%9d%e3%81%84%e3%81%a7%e3%81%99%e3%81%ad%e3%80%82"><span>おそいですね。</span></a>
+    segments:
+      - text: かれは
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: おそいですね。
+        grammar_highlight: false
+    reading: かれはすこしおそいですね。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: He's a bit late isn't he?
+        html: |-
+          <span>He's </span><strong>a bit </strong><span>late isn't he? </span>
+        segments:
+          - text: 'He''s '
+            grammar_highlight: false
+          - text: 'a bit '
+            grammar_highlight: true
+          - text: 'late isn''t he? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4721
+    position: 1
+    japanese: もう少し居てもいいですか
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86"><span>もう</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e5%b1%85%e3%81%a6%e3%82%82%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b"><span>居てもいいですか</span></a>
+    segments:
+      - text: もう
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: 居てもいいですか
+        grammar_highlight: false
+    reading: もうすこしいてもいいですか
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: Can I stay a bit longer?
+        html: |-
+          <span>Can I stay </span><strong>a bit </strong><span>longer? </span>
+        segments:
+          - text: 'Can I stay '
+            grammar_highlight: false
+          - text: 'a bit '
+            grammar_highlight: true
+          - text: 'longer? '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4927
+    position: 2
+    japanese: 「水を少しください。」「いいですよ。」
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%80%8c%e6%b0%b4%e3%82%92"><span>「水を</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82%e3%80%8d%e3%80%8c%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%82%88%e3%80%82%e3%80%8d"><span>ください。」「いいですよ。」</span></a>
+    segments:
+      - text: 「水を
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: ください。」「いいですよ。」
+        grammar_highlight: false
+    reading: 「みずをすこしください。」「いいですよ。」
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: '"Please give me some  water." "All right."'
+        html: |-
+          <span>"Please give me </span><strong>some </strong><span> water." "All right." </span>
+        segments:
+          - text: '"Please give me '
+            grammar_highlight: false
+          - text: 'some '
+            grammar_highlight: true
+          - text: ' water." "All right." '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4928
+    position: 3
+    japanese: 11時15分前を少し過ぎています。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=11"><span>11</span></a><a href="https://takoboto.jp/?q=%e6%99%8215"><span>時15</span></a><a href="https://takoboto.jp/?q=%e5%88%86%e5%89%8d%e3%82%92"><span>分前を</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e9%81%8e%e3%81%8e%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>過ぎています。</span></a>
+    segments:
+      - text: 11時15分前を
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: 過ぎています。
+        grammar_highlight: false
+    reading: じふんまえをすこしすぎています。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It is a little after a quarter to eleven.
+        html: |-
+          <span>It is </span><strong>a little </strong><span>after a quarter to eleven. </span>
+        segments:
+          - text: 'It is '
+            grammar_highlight: false
+          - text: 'a little '
+            grammar_highlight: true
+          - text: 'after a quarter to eleven. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4929
+    position: 4
+    japanese: あそこは少し高すぎると思います。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%9d%e3%81%93%e3%81%af"><span>あそこは</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%99%e3%81%8e%e3%82%8b%e3%81%a8%e6%80%9d%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>高すぎると思います。</span></a>
+    segments:
+      - text: あそこは
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: 高すぎると思います。
+        grammar_highlight: false
+    reading: あそこはすこしたかすぎるとおもいます。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I think that place is a little  too expensive.
+        html: |-
+          <span>I think that place is </span><strong>a little </strong><span> too expensive. </span>
+        segments:
+          - text: 'I think that place is '
+            grammar_highlight: false
+          - text: 'a little '
+            grammar_highlight: true
+          - text: ' too expensive. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4930
+    position: 5
+    japanese: あなたの報告書には少し間違いがあります。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae"><span>あなたの</span></a><a href="https://takoboto.jp/?q=%e5%a0%b1%e5%91%8a%e6%9b%b8%e3%81%ab%e3%81%af"><span>報告書には</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e9%96%93%e9%81%95%e3%81%84%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%80%82"><span>間違いがあります。</span></a>
+    segments:
+      - text: あなたの報告書には
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: 間違いがあります。
+        grammar_highlight: false
+    reading: あなたのほうこくしょにはすこしまちがいがあります。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: There are a few mistakes in your report.
+        html: |-
+          <span>There are </span><strong>a few </strong><span>mistakes in your report. </span>
+        segments:
+          - text: 'There are '
+            grammar_highlight: false
+          - text: 'a few '
+            grammar_highlight: true
+          - text: 'mistakes in your report. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4931
+    position: 6
+    japanese: お茶が濃すぎるので少し水を加えてください。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%8a"><span>お</span></a><a href="https://takoboto.jp/?q=%e8%8c%b6%e3%81%8c"><span>茶が</span></a><a href="https://takoboto.jp/?q=%e6%bf%83%e3%81%99%e3%81%8e%e3%82%8b%e3%81%ae%e3%81%a7"><span>濃すぎるので</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e6%b0%b4%e3%82%92"><span>水を</span></a><a href="https://takoboto.jp/?q=%e5%8a%a0%e3%81%88%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84%e3%80%82"><span>加えてください。</span></a>
+    segments:
+      - text: お茶が濃すぎるので
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: 水を加えてください。
+        grammar_highlight: false
+    reading: おちゃがこすぎるのですこしみずをくわえてください。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The tea is too strong. Add some water.
+        html: |-
+          <span>The tea is too strong. Add </span><strong>some </strong><span>water. </span>
+        segments:
+          - text: 'The tea is too strong. Add '
+            grammar_highlight: false
+          - text: 'some '
+            grammar_highlight: true
+          - text: 'water. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4932
+    position: 7
+    japanese: 今日は少し寒い。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%8a%e6%97%a5%e3%81%af"><span>今日は</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e5%af%92%e3%81%84%e3%80%82"><span>寒い。</span></a>
+    segments:
+      - text: 今日は
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: 寒い。
+        grammar_highlight: false
+    reading: きょうはすこしさむい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: It's a little cold today.
+        html: |-
+          <span>It's </span><strong>a little </strong><span>cold today. </span>
+        segments:
+          - text: 'It''s '
+            grammar_highlight: false
+          - text: 'a little '
+            grammar_highlight: true
+          - text: 'cold today. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4933
+    position: 8
+    japanese: この靴は少しゆるい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e9%9d%b4%e3%81%af"><span>靴は</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e3%82%86%e3%82%8b%e3%81%84%e3%80%82"><span>ゆるい。</span></a>
+    segments:
+      - text: この靴は
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: ゆるい。
+        grammar_highlight: false
+    reading: このくつはすこしゆるい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: These shoes are a little loose.
+        html: |-
+          <span>These shoes are </span><strong>a little </strong><span>loose. </span>
+        segments:
+          - text: 'These shoes are '
+            grammar_highlight: false
+          - text: 'a little '
+            grammar_highlight: true
+          - text: 'loose. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4934
+    position: 9
+    japanese: このスープは塩が少し足りない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%b9%e3%83%bc%e3%83%97%e3%81%af"><span>このスープは</span></a><a href="https://takoboto.jp/?q=%e5%a1%a9%e3%81%8c"><span>塩が</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e8%b6%b3%e3%82%8a%e3%81%aa%e3%81%84%e3%80%82"><span>足りない。</span></a>
+    segments:
+      - text: このスープは塩が
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: 足りない。
+        grammar_highlight: false
+    reading: このスープはしおがすこしたりない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: This soup needs a bit of salt.
+        html: |-
+          <span>This soup needs </span><strong>a bit </strong><span>of salt. </span>
+        segments:
+          - text: 'This soup needs '
+            grammar_highlight: false
+          - text: 'a bit '
+            grammar_highlight: true
+          - text: 'of salt. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4935
+    position: 10
+    japanese: このスカートは少しきついのです。くのすかあとはすこしきつのです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae%e3%82%b9%e3%82%ab%e3%83%bc%e3%83%88%e3%81%af"><span>このスカートは</span></a><a href="https://takoboto.jp/?q=%e5%b0%91%e3%81%97"><strong>少し</strong></a><a href="https://takoboto.jp/?q=%e3%81%8d%e3%81%a4%e3%81%84%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82"><span>きついのです。</span></a><a href="https://takoboto.jp/?q=%e3%81%8f%e3%81%ae%e3%81%99%e3%81%8b%e3%81%82%e3%81%a8%e3%81%af%e3%81%99%e3%81%93%e3%81%97%e3%81%8d%e3%81%a4%e3%81%ae%e3%81%a7%e3%81%99%e3%80%82"><strong>くのすかあとはすこしきつのです。</strong></a>
+    segments:
+      - text: このスカートは
+        grammar_highlight: false
+      - text: 少し
+        grammar_highlight: true
+      - text: きついのです。
+        grammar_highlight: false
+      - text: くのすかあとはすこしきつのです。
+        grammar_highlight: true
+    reading: このスカートはすこしきついのです。くのすかあとはすこしきつのです。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The skirt is a little tight for me.
+        html: |-
+          <span>The skirt is </span><strong>a little </strong><span>tight for me. </span>
+        segments:
+          - text: 'The skirt is '
+            grammar_highlight: false
+          - text: 'a little '
+            grammar_highlight: true
+          - text: 'tight for me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8797
+    position: 11
+    japanese: もう少し静かにして下さい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%82%e3%81%86%e5%b0%91%e3%81%97%e9%9d%99%e3%81%8b%e3%81%ab%e3%81%97%e3%81%a6%e4%b8%8b%e3%81%95%e3%81%84%e3%80%82"><span>もう少し静かにして下さい。</span></a>
+    segments:
+      - text: もう少し静かにして下さい。
+        grammar_highlight: false
+    reading: もうすこししずかにしてください。
+    credits_raw: 貴博
+    translations:
+      - language: en
+        text: Please be a little bit  more quiet.
+        html: |-
+          <span>Please be </span><strong>a little bit </strong><span> more quiet. </span>
+        segments:
+          - text: 'Please be '
+            grammar_highlight: false
+          - text: 'a little bit '
+            grammar_highlight: true
+          - text: ' more quiet. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      Don't get sukoshi confused with chiisai
+      少し : sukoshi samui desu (a bit cold)
+      小さい : chiisai neko desu (a little cat)
+    html: |-
+      Don't get sukoshi confused with chiisai<br/>少し : sukoshi samui desu (a bit cold)<br/>小さい : chiisai neko desu (a little cat)
+    credits_raw: Amatuka
+    content_sha256: 824365eaeda169cc6ef825e66a1f49aaa88000b5f58392e2f5e91aab685fff95
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 少し 【すこし】 (adv,n) (1) small quantity; little; few; something; (2) little while; (3) short distance; (P)
+    html: 少し 【すこし】 (adv,n) (1) small quantity; little; few; something; (2) little while; (3) short distance; (P)
+    credits_raw: Amatuka
+    content_sha256: 0cb233e721d4804bd0b93a58a80985e17f536d4dff6bc01ebba7ad09602aac88
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: Roma-ji in red is wrong, it should be s_U_koshi.
+    html: Roma-ji in red is wrong, it should be s_U_koshi.
+    credits_raw: Miki
+    content_sha256: 30929e68764dbd8474b59aefbbccd11b0f2dbb15309a5e328e5093691a64977a
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: '*sigh* romaji will be the death of me.'
+    html: '*sigh* romaji will be the death of me.'
+    credits_raw: Amatuka
+    content_sha256: f9c044aaf6932c62de973ed7d7ddafcc6416e10522bc5a070fdd42bff4081c5f
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: 彼は少しおそいですね is a bit confusing because it could also mean "he's a bit slow." 彼はすこし遅れてますね would sound clearer.
+    html: 彼は少しおそいですね is a bit confusing because it could also mean "he's a bit slow." 彼はすこし遅れてますね would sound clearer.
+    credits_raw: bamboo4
+    content_sha256: 3670b7d55dbb9e3e80765fb9ff7eff54e4cac6eaf142ae9ddbfb72aaef979fb3
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: 'ex #4934 - "This soup needs a bit of salt." reads better in English.'
+    html: 'ex #4934 - "This soup needs a bit of salt." reads better in English.'
+    credits_raw: GenkiGuy
+    content_sha256: 5883a626502afec8ceb4481ddc942506758d6fd600283f11b3592606fc96137d
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      actually the translation is not that literal. 足りない means not enough. so "this soup's saltiness is not quite enough". i prefer literal translations as my english is fine - would rather know exactly what the japanese way of saying it is.
+    html: |-
+      actually the translation is not that literal. 足りない means not enough. so "this soup's saltiness is not quite enough". i prefer literal translations as my english is fine - would rather know exactly what the japanese way of saying it is.
+    credits_raw: dc
+    content_sha256: b6f5e61ddd38c06db8e32e78d12550fdae660e3e282558383c4a2d80238396b2
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: 彼はちょっと遅いですね。Would be better?
+    html: 彼はちょっと遅いですね。Would be better?
+    credits_raw: 誠
+    content_sha256: 93119fa0e5763dcb93d1f245b220026cde1cda7e19e7c146055cb7dbf68d85f8
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: 彼はちょっと遅いですね would be better, but we are here concerned with すこし.
+    html: 彼はちょっと遅いですね would be better, but we are here concerned with すこし.
+    credits_raw: bambo4
+    content_sha256: 0c520e18fd598f21a498a2e16e543f95a35c9c654a697ebcf2c989923df9855d
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: 'For #4934, how about "This soup is [a bit] short on salt" or "This soup isn''t [quite] salty enough"?'
+    html: 'For #4934, how about "This soup is [a bit] short on salt" or "This soup isn''t [quite] salty enough"?'
+    credits_raw: KWhazit
+    content_sha256: 34c0307b18189ddbb4479a21871436980a71895ba0717b7cd6c5d156535f7b88
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: What's the difference between 少し and ちょっと?
+    html: What's the difference between 少し and ちょっと?
+    credits_raw: herinapotter
+    content_sha256: 815b724a6783e4feaaeee8f052d16e57709cb4e7cda752560af2ea49f0046566
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1478
+    label: 少しも〜ない
+    source_url: https://takoboto.jp/bunpo/1478
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:18+00:00'
+response_sha256: d121f35e9b7c98dae1e04c2d4f7301203e73795575e2ec3502dedf5b61cf2d01
+warnings: []

@@ -1,0 +1,72 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1675
+label: to douyou
+title_raw: と同様 ([とどうよう] )(to douyou)
+title: と同様
+reading: とどうよう
+romanized_label: to douyou
+category: null
+jlpt_level_original: '3'
+meaning: the same way as, as well as 同じである事。
+meaning_example: 大都市と同様、地方でも交通事故が増えている
+credits_raw: aline
+source_url: http://jgram.org/pages/viewOne.php?tagE=to%20douyou
+archive_url: https://web.archive.org/web/20150225005647id_/http://jgram.org/pages/viewOne.php?tagE=to%20douyou
+archive_timestamp: '20150225005647'
+retrieved_at: '2026-10-03T16:12:22+00:00'
+archive_digest: YNUJ25HNJKYABCXQNJ57KHIRP6RRML3E
+response_sha256: 241d0c2e888e2960b4cc73309df597fa791c8663cf57e15627be3d2dde966e24
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      To douyou is used when you show a relationship between things that are essentially the same. Used in situations where in one thing happened it also did ... the same way. I myself teach Japanese at www.freewebs.com/kanjiwebs/
+    html: |-
+      To douyou is used when you show a relationship between things that are essentially the same. Used in situations where in one thing happened it also did ... the same way. I myself teach Japanese at www.freewebs.com/kanjiwebs/
+    credits_raw: IMABI
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7248
+    position: 0
+    japanese: 多くのアメリカ人と同様に彼は気さくだ。
+    body_text: "多くのアメリカ人と同様に彼は気さくだ。 \n\nLike/similar to \n\t\tmany Americans, he is very friendly."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ多くのアメリカ人と同様に彼は気さくだ。\">\n多くのアメリカ人<strong>と同様に</strong>彼は気さくだ。<strong></strong></a> <br/>\n<strong>Like/similar to </strong>\n\t\tmany Americans, he is very friendly."
+    credits_raw: IMABI
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      と同様 ([とどうよう] )(to douyou)
+          Meaning: the same way as, as well as 同じである事。
+          Example: 大都市と同様、地方でも交通事故が増えている
+          JLPT Level: 3
+          Author: aline
+    html: |-
+      <span>と同様 ([とどうよう] )(to douyou)</span><br/>    <span><b>Meaning</b>: the same way as, as well as 同じである事。</span><br/>    <b>Example</b>: <i>大都市と同様、地方でも交通事故が増えている</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Author</b>: <i>aline</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150225005647'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 119766148
+  length: 5242
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 98c01dd4640452321574ce22d7338b02b5073e1b384b0ec88b7ae71aa32d52e6

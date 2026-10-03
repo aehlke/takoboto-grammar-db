@@ -1,0 +1,315 @@
+schema_version: 2
+id: 726
+source: takoboto
+source_url: https://takoboto.jp/bunpo/726/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: でも
+romanized_label: demo
+alternate_forms: []
+jlpt_level: 4
+credits_raw: Amatuka
+meaning: but
+meaning_example: I'd like to make it easier to use but still not use frames.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_726
+    body_text: |-
+      but 
+       I'd like to make it easier to use but still not use frames.
+    body_html: |-
+      <span>but</span> <br/> <span>I'd like to make it easier to use but still not use frames.</span>
+    credits_raw: Amatuka
+formations: []
+examples:
+  - source_id: 870
+    position: 0
+    japanese: 品質はいい。でも、値段は高いです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%93%81%e8%b3%aa%e3%81%af"><span>品質は</span></a><a href="https://takoboto.jp/?q=%e3%81%84%e3%81%84%e3%80%82"><span>いい。</span></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%82%82"><strong>でも</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%80%a4%e6%ae%b5%e3%81%af"><span>値段は</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84%e3%81%a7%e3%81%99%e3%80%82"><span>高いです。</span></a>
+    segments:
+      - text: 品質はいい。
+        grammar_highlight: false
+      - text: でも
+        grammar_highlight: true
+      - text: 、値段は高いです。
+        grammar_highlight: false
+    reading: ひんしつはいい。でも、ねだんはたかいです。
+    credits_raw: Amatuka
+    translations:
+      - language: en
+        text: The quality is good but the price is high.
+        html: |-
+          <span>The quality is good </span><strong>but </strong><span>the price is high. </span>
+        segments:
+          - text: 'The quality is good '
+            grammar_highlight: false
+          - text: 'but '
+            grammar_highlight: true
+          - text: 'the price is high. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4783
+    position: 1
+    japanese: でも、あなたにあげるりんごはありません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%a7%e3%82%82%e3%80%81"><strong>でも、</strong></a><a href="https://takoboto.jp/?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab%e3%81%82%e3%81%92%e3%82%8b%e3%82%8a%e3%82%93%e3%81%94%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>あなたにあげるりんごはありません。</span></a>
+    segments:
+      - text: でも、
+        grammar_highlight: true
+      - text: あなたにあげるりんごはありません。
+        grammar_highlight: false
+    reading: でも、あなたにあげるりんごはありません。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: But I have no apples left to give you.
+        html: |-
+          <strong>But </strong><span>I have no apples left to give you. </span>
+        segments:
+          - text: 'But '
+            grammar_highlight: true
+          - text: 'I have no apples left to give you. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4784
+    position: 2
+    japanese: 日本が好きです、でもときどき日本が好きではありません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%8c"><span>日本が</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a7%e3%81%99%e3%80%81"><span>好きです、</span></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%82%82"><strong>でも</strong></a><a href="https://takoboto.jp/?q=%e3%81%a8%e3%81%8d%e3%81%a9%e3%81%8d"><span>ときどき</span></a><a href="https://takoboto.jp/?q=%e6%97%a5%e6%9c%ac%e3%81%8c"><span>日本が</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a7%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>好きではありません。</span></a>
+    segments:
+      - text: 日本が好きです、
+        grammar_highlight: false
+      - text: でも
+        grammar_highlight: true
+      - text: ときどき日本が好きではありません。
+        grammar_highlight: false
+    reading: にほんがすきです、でもときどきにほんがすきではありません。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: I like Japan, but sometimes I don't like Japan.
+        html: |-
+          <span>I like Japan, </span><strong>but </strong><span>sometimes I don't like Japan. </span>
+        segments:
+          - text: 'I like Japan, '
+            grammar_highlight: false
+          - text: 'but '
+            grammar_highlight: true
+          - text: 'sometimes I don''t like Japan. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8627
+    position: 3
+    japanese: 彼はアニメが好きです。でもアニメが好きではありません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af%e3%82%a2%e3%83%8b%e3%83%a1%e3%81%8c"><span>彼はアニメが</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a7%e3%81%99%e3%80%82"><span>好きです。</span></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%82%82"><strong>でも</strong></a><a href="https://takoboto.jp/?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%81%8c"><span>アニメが</span></a><a href="https://takoboto.jp/?q=%e5%a5%bd%e3%81%8d%e3%81%a7%e3%81%af%e3%81%82%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>好きではありません。</span></a>
+    segments:
+      - text: 彼はアニメが好きです。
+        grammar_highlight: false
+      - text: でも
+        grammar_highlight: true
+      - text: アニメが好きではありません。
+        grammar_highlight: false
+    reading: かれはアニメがすきです。でもアニメがすきではありません。
+    credits_raw: Sakuratree
+    translations:
+      - language: en
+        text: He likes anime. But , I don't like anime.
+        html: |-
+          <span>He likes anime. </span><strong>But </strong><span>, I don't like anime. </span>
+        segments:
+          - text: 'He likes anime. '
+            grammar_highlight: false
+          - text: 'But '
+            grammar_highlight: true
+          - text: ', I don''t like anime. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8810
+    position: 4
+    japanese: 教室に来ました。でも、誰もいません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%95%99%e5%ae%a4%e3%81%ab%e6%9d%a5%e3%81%be%e3%81%97%e3%81%9f%e3%80%82"><span>教室に来ました。</span></a><a href="https://takoboto.jp/?q=%e3%81%a7%e3%82%82"><strong>でも</strong></a><a href="https://takoboto.jp/?q=%e3%80%81%e8%aa%b0%e3%82%82%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>、誰もいません。</span></a>
+    segments:
+      - text: 教室に来ました。
+        grammar_highlight: false
+      - text: でも
+        grammar_highlight: true
+      - text: 、誰もいません。
+        grammar_highlight: false
+    reading: きょうしつにきました。でも、だれもいません。
+    credits_raw: 貴博
+    translations:
+      - language: en
+        text: I came to the class. But  no one is here.
+        html: |-
+          <span>I came to the class. </span><strong>But </strong><span> no one is here. </span>
+        segments:
+          - text: 'I came to the class. '
+            grammar_highlight: false
+          - text: 'But '
+            grammar_highlight: true
+          - text: ' no one is here. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      でも can never appear in the middle of a sentence like けど or other words meaning 'but.'
+
+      You can say:
+
+      友達の家に行くつもりでした。でも、彼女は病気です。
+      I was planning on going to my friend's house. But, she's sick.
+    html: |-
+      でも can never appear in the middle of a sentence like けど or other words meaning 'but.'<br/><br/>You can say:<br/><br/>友達の家に行くつもりでした。でも、彼女は病気です。<br/>I was planning on going to my friend's house. But, she's sick.
+    credits_raw: Sakuratree
+    content_sha256: 96a2a98b8b5b9ce124d63016bd1217b76b41646e05e6a099e5107d1bfe32c783
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: Nor have we お茶でもいかがですか。
+    html: Nor have we お茶でもいかがですか。
+    credits_raw: hari
+    content_sha256: bc2741c15109e6a677c45a3cafdb56988acd0497c16fa8c9af1deed869460295
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      but i often hear お茶でもいい？
+      do you want some tea? (just (humble) tea is ok?)
+    html: |-
+      but i often hear お茶でもいい？<br/>do you want some tea? (just (humble) tea is ok?)
+    credits_raw: dc
+    content_sha256: d6dcfdb9d92b419faa42b15a7bb836b75aa60289762624a5e95d2fd6842cccfb
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      Both are ok as Japanese.
+      お茶でもいかがですか。is a polite way to ask tea or something. Also I heard this is used by a guy to start a converstaion with a girl. 
+      お茶でもいい？ is a casual way to suggest. dc's understanding is ok.
+    html: |-
+      Both are ok as Japanese.<br/>お茶でもいかがですか。is a polite way to ask tea or something. Also I heard this is used by a guy to start a converstaion with a girl. <br/>お茶でもいい？ is a casual way to suggest. dc's understanding is ok.
+    credits_raw: Miki
+    content_sha256: bd3ba37e3e8d9d8630c54a7c6d4368214ecaeff0c5cd753a8e1651dcb225036c
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: N.B. The Japanese example was 'home made' not 'Google found' so I'm not sure how natural it is.
+    html: N.B. The Japanese example was 'home made' not 'Google found' so I'm not sure how natural it is.
+    credits_raw: Amatuka
+    content_sha256: 11d156f66681643d97ebeb41800ab5da4d1038a98ad263fd213b60f025ad173d
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: To make it more natural, 「品質_は_いい。でも、…。」Nobody cares it（が） when the sentence is used in conversation.
+    html: To make it more natural, 「品質_は_いい。でも、…。」Nobody cares it（が） when the sentence is used in conversation.
+    credits_raw: Miki
+    content_sha256: 9bb7daf29fcfcfd9c0ad32f6f800ed748cff15dcfa0327795293062423021447
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: Ah, thanks. (は and が are tricky beasties).
+    html: Ah, thanks. (は and が are tricky beasties).
+    credits_raw: Amatuka
+    content_sha256: 620d07542297f54b73c3a30bf76aeb964ace426064a08ef8e4e9935691903172
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: We don't have でも in the sense of 日本人でも漢字は難しい？
+    html: We don't have でも in the sense of 日本人でも漢字は難しい？
+    credits_raw: bamboo4
+    content_sha256: 5ae58eeb81c021ebb29f6881f4fd6570af092d33cd98bd0cacf828e3ca01d1a1
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      お茶でもいかがですか。is a polite form of asking "would you have some green tea?". Here でも is used to indicate that " the are other things,equally well to be offered to listener, but the offeror just make a single choice (which is お茶) out of the other offerings, the listerner can make other choices if he/she didn't want green tea", 
+      If it is お茶でいいですか , it indicates that " there is only green-tea to be offered, and if the listerner doesn't want then the offeror doesn't have any other to offer"
+    html: |-
+      お茶でもいかがですか。is a polite form of asking "would you have some green tea?". Here でも is used to indicate that " the are other things,equally well to be offered to listener, but the offeror just make a single choice (which is お茶) out of the other offerings, the listerner can make other choices if he/she didn't want green tea", <br/>If it is お茶でいいですか , it indicates that " there is only green-tea to be offered, and if the listerner doesn't want then the offeror doesn't have any other to offer"
+    credits_raw: 誠
+    content_sha256: 41ee0c7972286aa2a8cf08e17c2f045b0e09ab1a5ed6d528d904b480ecbcf996
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: Is this really JLPT 1? I would have thought it 4 or 3 at most.
+    html: Is this really JLPT 1? I would have thought it 4 or 3 at most.
+    credits_raw: Paul
+    content_sha256: f3a7e8d4848250ecff316aa5cb8b6e522613f491c7a20f69a3c24c6250cedf73
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: How about だけど？ It might be worth a "see also" entry.
+    html: How about だけど？ It might be worth a "see also" entry.
+    credits_raw: ushimitsudoki
+    content_sha256: e8a47a7bc13c6d2301b53c28bb34382c989c540b033eb82e85fc42abfdb1586c
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: how about in context of "sore demo daijoubu"
+    html: how about in context of "sore demo daijoubu"
+    credits_raw: takamichi
+    content_sha256: d3b0329274af8cf3ba4c9a88eba3e17f7a12ca7a55a7a2df2e1f19c094f946b6
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: |-
+      Why on this website, every time there should be an apostrophe, is there this intead : ' ?
+      Can anyone explain me how to solve this problem ?
+    html: |-
+      Why on this website, every time there should be an apostrophe, is there this intead : ' ?<br/>Can anyone explain me how to solve this problem ?
+    credits_raw: fuyugare
+    content_sha256: 79a90eddb9450ff237d666530e11fd4876f0af223e3e82dcbe139000351cfb24
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: |-
+      When typing English using a Japanese IME the ' is replaced by : because that's what is naturally on that key on a Japanese keyboard. I am constantly placing a colon where an apostrophe should be while typing in IME mode. I always have to go back and hit Shift+7 because that's where it is on the 106/109 key keyboards.
+    html: |-
+      When typing English using a Japanese IME the ' is replaced by : because that's what is naturally on that key on a Japanese keyboard. I am constantly placing a colon where an apostrophe should be while typing in IME mode. I always have to go back and hit Shift+7 because that's where it is on the 106/109 key keyboards.
+    credits_raw: jatznic
+    content_sha256: b1a79f10380881a6c3cd82f449dfaf6bd31031ccbf87405f102fbefabc2e6bdd
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 724
+    label: けれども
+    source_url: https://takoboto.jp/bunpo/724
+  - target_id: 727
+    label: しかし (然し・併し)
+    source_url: https://takoboto.jp/bunpo/727
+  - target_id: 725
+    label: 〜が
+    source_url: https://takoboto.jp/bunpo/725
+  - target_id: 990
+    label: 〜にしても
+    source_url: https://takoboto.jp/bunpo/990
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:32:34+00:00'
+response_sha256: 69d5b1039166993cc5388a2e61ff30b0b4f09e1ecd9d17473ac8643a337c1ab0
+warnings: []

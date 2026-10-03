@@ -2,7 +2,7 @@
   "reviewed_at": "2026-10-03",
   "data_license": "CC-BY-SA-2.0",
   "provenance_document": "docs/provenance.md",
-  "membership_review_manifest": "src/takoboto_grammar/grammar-membership.json",
+  "membership_review_manifest": "src/takoboto_grammar/grammar-membership.yaml",
   "investigation": {
     "finding": "Original ArchiveTeam website WARC found through partial TSV x-archive-src header; no separate full SQL database found in targeted searches.",
     "item_url": "https://archive.org/details/archiveteam_archivebot_go_20150302130001",
@@ -1739,5 +1739,10 @@
       }
     ],
     "limit": "No-entry responses prove these latest label responses, not absence of earlier or differently named content."
+  },
+  "storage_migration": {
+    "canonical_record_format": "yaml",
+    "qa": "recon/yaml-migration.yaml",
+    "original_values_and_hashes_preserved": true
   }
 }

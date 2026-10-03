@@ -1,0 +1,163 @@
+schema_version: 2
+id: 1551
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1551/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: ならいざ知らず
+romanized_label: naraizashirazu
+alternate_forms:
+  - ならいざしらず
+jlpt_level: 1
+credits_raw: blabby
+meaning: I'm not sure if it is [possible/so] but...
+meaning_example: It's possible that an expert could do this but there is no way I can do it.
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1551
+    body_text: |-
+      I'm not sure if it is [possible/so] but... 
+       It's possible that an expert could do this but there is no way I can do it.
+    body_html: |-
+      <span>I'm not sure if it is [possible/so] but...</span> <br/> <span>It's possible that an expert could do this but there is no way I can do it.</span>
+    credits_raw: blabby
+formations: []
+examples:
+  - source_id: 5780
+    position: 0
+    japanese: 辞書があるならいざ知らず、何もなくてはこの文章はとても読めるものではない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e8%be%9e%e6%9b%b8%e3%81%8c%e3%81%82%e3%82%8b"><span>辞書がある</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89%e3%81%84%e3%81%96%e7%9f%a5%e3%82%89%e3%81%9a"><strong>ならいざ知らず</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%bd%95%e3%82%82%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%af%e3%81%93%e3%81%ae"><span>何もなくてはこの</span></a><a href="https://takoboto.jp/?q=%e6%96%87%e7%ab%a0%e3%81%af%e3%81%a8%e3%81%a6%e3%82%82"><span>文章はとても</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%81%e3%82%8b%e3%82%82%e3%81%ae%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%80%82"><span>読めるものではない。</span></a>
+    segments:
+      - text: 辞書がある
+        grammar_highlight: false
+      - text: ならいざ知らず
+        grammar_highlight: true
+      - text: 、何もなくてはこの文章はとても読めるものではない。
+        grammar_highlight: false
+    reading: じしょがあるならいざしらず、なにもなくてはこのぶんしょうはとてもよめるものではない。
+    credits_raw: blabby
+    translations:
+      - language: en
+        text: Maybe it would be possible if I had a dictionary, but with nothing, it is by no means easy to read.
+        html: |-
+          <strong>Maybe it would be possible </strong><span>if I had a dictionary, but with nothing, it is by no means easy to read. </span>
+        segments:
+          - text: 'Maybe it would be possible '
+            grammar_highlight: true
+          - text: 'if I had a dictionary, but with nothing, it is by no means easy to read. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5781
+    position: 1
+    japanese: 専門家ならいざ知らず、素人ではこの化学品を作ることができない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%b0%82%e9%96%80%e5%ae%b6"><span>専門家</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89%e3%81%84%e3%81%96%e7%9f%a5%e3%82%89%e3%81%9a"><strong>ならいざ知らず</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%b4%a0%e4%ba%ba%e3%81%a7%e3%81%af%e3%81%93%e3%81%ae"><span>素人ではこの</span></a><a href="https://takoboto.jp/?q=%e5%8c%96%e5%ad%a6%e5%93%81%e3%82%92"><span>化学品を</span></a><a href="https://takoboto.jp/?q=%e4%bd%9c%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%82"><span>作ることができない。</span></a>
+    segments:
+      - text: 専門家
+        grammar_highlight: false
+      - text: ならいざ知らず
+        grammar_highlight: true
+      - text: 、素人ではこの化学品を作ることができない。
+        grammar_highlight: false
+    reading: せんもんかならいざしらず、しろうとではこのかがくひんをつくることができない。
+    credits_raw: blabby
+    translations:
+      - language: en
+        text: Maybe it's possible for an expert, but a beginner can't make this chemical.
+        html: |-
+          <span>Maybe it's possible for an expert, but a beginner can't make this chemical. </span>
+        segments:
+          - text: 'Maybe it''s possible for an expert, but a beginner can''t make this chemical. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6971
+    position: 2
+    japanese: 他の人ならいざしらず、私はそんなことができない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%96%e3%81%ae"><span>他の</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba"><span>人</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%82%89%e3%81%84%e3%81%96%e3%81%97%e3%82%89%e3%81%9a"><strong>ならいざしらず</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%9d%e3%82%93%e3%81%aa%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%aa%e3%81%84%e3%80%82"><span>私はそんなことができない。</span></a>
+    segments:
+      - text: 他の人
+        grammar_highlight: false
+      - text: ならいざしらず
+        grammar_highlight: true
+      - text: 、私はそんなことができない。
+        grammar_highlight: false
+    reading: たのひとならいざしらず、わたしはそんなことができない。
+    credits_raw: amenya
+    translations:
+      - language: en
+        text: Maybe it's possible for someone, but I can't do that
+        html: |-
+          <strong>Maybe it's possible </strong><span>for someone, </span><strong>but </strong><span>I can't do that </span>
+        segments:
+          - text: 'Maybe it''s possible '
+            grammar_highlight: true
+          - text: 'for someone, '
+            grammar_highlight: false
+          - text: 'but '
+            grammar_highlight: true
+          - text: 'I can''t do that '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 名詞句 + ならいざ知らず, B
+    html: 名詞句 + ならいざ知らず, B
+    credits_raw: blabby
+    content_sha256: cfd3b8dd82be09c0405da5b1b53caef1edfe6cfcd1fab5075f9aba7a1ba03125
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: You can also say ならともかく which has the same meaning.
+    html: You can also say ならともかく which has the same meaning.
+    credits_raw: blabby
+    content_sha256: 4e5ed70e2b80aab8b6c85cf420da005cfcb4cbe306ac226bff2968b445ca4a02
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: 'ex#5780 ものではない means : " shouldn''t". So,I feel that it may be わけがない (impossible, by no means) or ことができない'
+    html: 'ex#5780 ものではない means : " shouldn''t". So,I feel that it may be わけがない (impossible, by no means) or ことができない'
+    credits_raw: 誠
+    content_sha256: 4edb737698aec2e993b8a9308f7be6edd00486f586bb701ef7c0aeffc632dfe1
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: |-
+      >誠
+      Thanks for your great contributions to this site!
+      Yes you are correct that わけがない and ことができない are good translations for "by no means"/"impossible". 
+
+      However, this example uses "読める" which is like saying "できるものではない" rather than just "ものではない". Therefore I stand by my translation.
+    html: |-
+      &gt;誠<br/>Thanks for your great contributions to this site!<br/>Yes you are correct that わけがない and ことができない are good translations for "by no means"/"impossible". <br/><br/>However, this example uses "読める" which is like saying "できるものではない" rather than just "ものではない". Therefore I stand by my translation.
+    credits_raw: blabby
+    content_sha256: ec1efcfc65c7011499b8c74bff379ea8582d64cd5d09bf83b4d9177fdced4c6d
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: You can also put 「は」 or 「だったら」 before 「いざしらず」, not only 「なら」.
+    html: You can also put 「は」 or 「だったら」 before 「いざしらず」, not only 「なら」.
+    credits_raw: otenba
+    content_sha256: 6e424d32e98df93597bfe8fd99da7e679a4feb964a30d36a645be03de781af12
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 1554
+    label: ならともかく
+    source_url: https://takoboto.jp/bunpo/1554
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:45:20+00:00'
+response_sha256: 69c1bf7310a065fef2726cfbae81185055c5d0696ca552d3cc42b2a311472dd4
+warnings: []

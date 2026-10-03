@@ -1,0 +1,130 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1127
+label: tekuru
+title_raw: て形+くる (て来る) [てくる] (tekuru)
+title: て形+くる (て来る)
+reading: てくる
+romanized_label: tekuru
+category: grammar
+jlpt_level_original: '3'
+meaning: Vte go, do something, and return
+meaning_example: I'll go buy the newspaper (and come back)
+credits_raw: bi-ru
+source_url: http://jgram.org/pages/viewOne.php?tagE=tekuru
+archive_url: https://web.archive.org/web/20150224225713id_/http://jgram.org/pages/viewOne.php?tagE=tekuru
+archive_timestamp: '20150224225713'
+retrieved_at: '2026-10-03T16:03:41+00:00'
+archive_digest: BTZEVXRAPCIX66R6OMTLKM7LQONAJZQB
+response_sha256: 5c0743a59209830e7294e1b7ce6183b03b3aff85654c66e475d52641eda525c6
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 3134
+    position: 0
+    japanese: 新聞を買ってくる。
+    body_text: "新聞を買ってくる。 \n\n\t\tI'll go buy the newspaper. \n\t\t(implying you'll be back)"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ新聞を買ってくる。\">\n\t\t\t\t新聞を買って<strong>くる</strong>。<strong></strong></a> <br/>\n\t\tI'll go buy the newspaper. \n\t\t<strong>(implying you'll be back) </strong>"
+    credits_raw: bi-ru
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3136
+    position: 1
+    japanese: 医者に行って薬をもらってきました。
+    body_text: "医者に行って薬をもらってきました。 \n\n\t\tI went to the doctor and got some medicine \n\t\t(and came back with it) \n\t\t."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ医者に行って薬をもらってきました。\">\n\t\t\t\t医者に行って薬をもらって<strong>きました</strong>。<strong></strong></a> <br/>\n\t\tI went to the doctor and got some medicine \n\t\t<strong>(and came back with it) </strong>\n\t\t."
+    credits_raw: bi-ru
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4963
+    position: 2
+    japanese: 日本語が少しずつ分かってきた
+    body_text: "日本語が少しずつ分かってきた \n\n\t\tLittle by little, I　 \n\t\tcame to　 \nunderstand  Japanese."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ日本語が少しずつ分かってきた\">\n\t\t\t\t日本語が少しずつ分かって<strong>きた</strong><strong></strong></a> <br/>\n\t\tLittle by little, I　 \n\t\t<strong>came to　 </strong>\nunderstand  Japanese."
+    credits_raw: bi-ru
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4964
+    position: 3
+    japanese: 物価が下がってくる。
+    body_text: "物価が下がってくる。 \n\n\t\tPrices \n\t\tcontinue to \nfall."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ物価が下がってくる。\">\n\t\t\t\t物価が下がって<strong>くる</strong>。<strong></strong></a> <br/>\n\t\tPrices \n\t\t<strong>continue to </strong>\nfall."
+    credits_raw: bi-ru
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: "contrast with verb-te+iku\n\r\n　買って行く\n\r\n　I'll go and buy (on the way to somewhere else)"
+    html: "contrast with verb-te+iku<br/>\r\n　買って行く<br/>\r\n　I'll go and buy (on the way to somewhere else)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: "maybe this grammar entry should be more ーてくる as it is about appending -kuru to compound a verb.\n\r\n買ってくる、持ってくる　等"
+    html: "maybe this grammar entry should be more ーてくる as it is about appending -kuru to compound a verb.<br/>\r\n買ってくる、持ってくる　等"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: bi-ru
+    text: Maybe we could transfer that example into -nagara
+    html: Maybe we could transfer that example into -nagara
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: "its done, on \x01 page"
+    html: "its done, on <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> page"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bi-ru
+    text: "As I found on (Takasugi Shinji's site) - contrast the difference of -tekuru and -teiku in the following:\n\n\n\r\n物価が下がっていく。\n\r\n物価が下がってくる。\n\n\n\r\nBoth mean that prices continue to fall. Both tekuru and teiku indicate continuation in this example. However teiku implies motion away from, whereas tekuru implies motion towards.\n\n\n\r\nYou think prices are going away from you in sentence 1, such as when you don't like the trend. You think prices are approaching you in sentence 2, such as when you like it."
+    html: "As I found on (Takasugi Shinji's site) - contrast the difference of -tekuru and -teiku in the following:<br/>\n<br/>\r\n物価が下がっていく。<br/>\r\n物価が下がってくる。<br/>\n<br/>\r\nBoth mean that prices continue to fall. Both tekuru and teiku indicate continuation in this example. However teiku implies motion away from, whereas tekuru implies motion towards.<br/>\n<br/>\r\nYou think prices are going away from you in sentence 1, such as when you don't like the trend. You think prices are approaching you in sentence 2, such as when you like it."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: anna.kendall
+    text: wow! わかった。I get iｔ. Thanks
+    html: wow! わかった。I get iｔ. Thanks
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "て形+くる (て来る) [てくる] (tekuru)\n    Meaning: Vte go, do something, and return \n    Example: I'll go buy the newspaper (and come back)\n    JLPT Level: 3\n    Category: grammar\n    Author: bi-ru"
+    html: |-
+      <span>て形+くる (て来る) [てくる] (tekuru)</span><br/>    <span><b>Meaning</b>: Vte go, do something, and return </span><br/>    <b>Example</b>: <i>I'll go buy the newspaper (and come back)</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>bi-ru</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224225713'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 5821652
+  length: 5791
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 800b046244355a999bc1e6761a488b721c3302441ed2e4f92382a0d85917f11f

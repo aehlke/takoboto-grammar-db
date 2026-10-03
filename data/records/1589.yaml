@@ -1,0 +1,117 @@
+schema_version: 2
+id: 1589
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1589/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: なくちゃ
+romanized_label: nakucha
+alternate_forms: []
+jlpt_level: 2
+credits_raw: ziaz
+meaning: Must;Have to
+meaning_example: I have to buy a shirt
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1589
+    body_text: |-
+      Must;Have to 
+       I have to buy a shirt
+    body_html: |-
+      <span>Must;Have to</span> <br/> <span>I have to buy a shirt</span>
+    credits_raw: ziaz
+formations: []
+examples:
+  - source_id: 6067
+    position: 0
+    japanese: シャツを買わなくちゃ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%82%b7%e3%83%a3%e3%83%84%e3%82%92"><span>シャツを</span></a><a href="https://takoboto.jp/?q=%e8%b2%b7%e3%82%8f"><span>買わ</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%8f%e3%81%a1%e3%82%83%e3%80%82"><strong>なくちゃ。</strong></a>
+    segments:
+      - text: シャツを買わ
+        grammar_highlight: false
+      - text: なくちゃ。
+        grammar_highlight: true
+    reading: シャツをかわなくちゃ。
+    credits_raw: ziaz
+    translations:
+      - language: en
+        text: I have to buy a shirt.
+        html: |-
+          <span>I </span><strong>have to </strong><span>buy a shirt. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'have to '
+            grammar_highlight: true
+          - text: 'buy a shirt. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6158
+    position: 1
+    japanese: 検査して貰うため病院に行かなくちゃ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%a4%9c%e6%9f%bb%e3%81%97%e3%81%a6"><span>検査して</span></a><a href="https://takoboto.jp/?q=%e8%b2%b0%e3%81%86%e3%81%9f%e3%82%81"><span>貰うため</span></a><a href="https://takoboto.jp/?q=%e7%97%85%e9%99%a2%e3%81%ab"><span>病院に</span></a><a href="https://takoboto.jp/?q=%e8%a1%8c%e3%81%8b"><span>行か</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%8f%e3%81%a1%e3%82%83"><strong>なくちゃ</strong></a><a href="https://takoboto.jp/?q=%e3%80%82"><span>。</span></a>
+    segments:
+      - text: 検査して貰うため病院に行か
+        grammar_highlight: false
+      - text: なくちゃ
+        grammar_highlight: true
+      - text: 。
+        grammar_highlight: false
+    reading: けんさしてもらうためびょういんにいかなくちゃ。
+    credits_raw: julz
+    translations:
+      - language: en
+        text: I have to go to the hospital for a check up.
+        html: |-
+          <span>I </span><strong>have to </strong><span>go to the hospital for a check up. </span>
+        segments:
+          - text: 'I '
+            grammar_highlight: false
+          - text: 'have to '
+            grammar_highlight: true
+          - text: 'go to the hospital for a check up. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6163
+    position: 2
+    japanese: 明日試合があるから、早く寝なくちゃ
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%98%8e%e6%97%a5%e8%a9%a6%e5%90%88%e3%81%8c%e3%81%82%e3%82%8b%e3%81%8b%e3%82%89%e3%80%81"><span>明日試合があるから、</span></a><a href="https://takoboto.jp/?q=%e6%97%a9%e3%81%8f"><span>早く</span></a><a href="https://takoboto.jp/?q=%e5%af%9d"><span>寝</span></a><a href="https://takoboto.jp/?q=%e3%81%aa%e3%81%8f%e3%81%a1%e3%82%83"><strong>なくちゃ</strong></a>
+    segments:
+      - text: 明日試合があるから、早く寝
+        grammar_highlight: false
+      - text: なくちゃ
+        grammar_highlight: true
+    reading: あしたしあいがあるから、はやくねなくちゃ
+    credits_raw: tsengpw0606
+    translations:
+      - language: en
+        text: There is a compeition tomorrow, therefore I must sleep early
+        html: |-
+          <span>There is a compeition tomorrow, therefore I must sleep early </span>
+        segments:
+          - text: 'There is a compeition tomorrow, therefore I must sleep early '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: 〜なくちゃ is the casual term of 〜なくてはいけません. 〜なきゃmeans the same
+    html: 〜なくちゃ is the casual term of 〜なくてはいけません. 〜なきゃmeans the same
+    credits_raw: tsengpw0606
+    content_sha256: 88787f5f1e9df54c2351f792107528f65d89f63173994cf43992ca11f91bc75f
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:39:59+00:00'
+response_sha256: abe4e95c2551e4cef30081fd5e709d45e219b31be9234c6ed0dfda1d144d18fd
+warnings: []

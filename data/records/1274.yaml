@@ -1,0 +1,285 @@
+schema_version: 2
+id: 1274
+source: takoboto
+source_url: https://takoboto.jp/bunpo/1274/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: かたわら
+romanized_label: katawara
+alternate_forms: []
+jlpt_level: 1
+credits_raw: dc
+meaning: besides doing a main thing, one is also involved in another activities.
+meaning_example: the king sat beside the queen
+meaning_notes:
+  - language: ja
+    text: ~という本業をしながら、別の活動もしている
+    html: ~という本業をしながら、別の活動もしている
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_1274
+    body_text: |-
+      besides doing a main thing, one is also involved in another activities. 
+       the king sat beside the queen 
+       ~という本業をしながら、別の活動もしている
+    body_html: |-
+      <span>besides doing a main thing, one is also involved in another activities.</span> <br/> <span>the king sat beside the queen</span> <br/> <span>~という本業をしながら、別の活動もしている</span>
+    credits_raw: dc
+  - kind: formation
+    source_dom_id: editable_Formation_1274
+    body_text: Verb dictionary form+かたわらNoun+の+かたわら
+    body_html: |-
+      <div><div><div>Verb dictionary form</div></div><div><div>+</div><div>かたわら</div></div></div><div><div><div>Noun</div></div><div><div>+</div><div>の</div></div><div><div>+</div><div>かたわら</div></div></div>
+    credits_raw: null
+formations:
+  - Verb dictionary form + かたわら
+  - Noun + の + かたわら
+examples:
+  - source_id: 3478
+    position: 0
+    japanese: メアリーは読書をしており、１匹の猫がかたわらで眠っていた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%a1%e3%82%a2%e3%83%aa%e3%83%bc%e3%81%af"><span>メアリーは</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e6%9b%b8%e3%82%92%e3%81%97%e3%81%a6%e3%81%8a%e3%82%8a%e3%80%81"><span>読書をしており、</span></a><a href="https://takoboto.jp/?q=%ef%bc%91%e5%8c%b9%e3%81%ae"><span>１匹の</span></a><a href="https://takoboto.jp/?q=%e7%8c%ab%e3%81%8c"><span>猫が</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%9f%e3%82%8f%e3%82%89"><strong>かたわら</strong></a><a href="https://takoboto.jp/?q=%e3%81%a7"><span>で</span></a><a href="https://takoboto.jp/?q=%e7%9c%a0%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e3%80%82"><span>眠っていた。</span></a>
+    segments:
+      - text: メアリーは読書をしており、１匹の猫が
+        grammar_highlight: false
+      - text: かたわら
+        grammar_highlight: true
+      - text: で眠っていた。
+        grammar_highlight: false
+    reading: メアリーはどくしょをしており、１ひきのねこがかたわらでねむっていた。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: Mary was reading, with a cat sleeping beside her.
+        html: |-
+          <span>Mary was reading, with a cat sleeping beside her. </span>
+        segments:
+          - text: 'Mary was reading, with a cat sleeping beside her. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3479
+    position: 1
+    japanese: 王妃は王のかたわらに立っていた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%8e%8b%e5%a6%83%e3%81%af"><span>王妃は</span></a><a href="https://takoboto.jp/?q=%e7%8e%8b%e3%81%ae"><span>王の</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%9f%e3%82%8f%e3%82%89"><strong>かたわら</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab"><span>に</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e3%80%82"><span>立っていた。</span></a>
+    segments:
+      - text: 王妃は王の
+        grammar_highlight: false
+      - text: かたわら
+        grammar_highlight: true
+      - text: に立っていた。
+        grammar_highlight: false
+    reading: おうひはおうのかたわらにたっていた。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: The queen stood beside the king.
+        html: |-
+          <span>The queen stood beside the king. </span>
+        segments:
+          - text: 'The queen stood beside the king. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3480
+    position: 2
+    japanese: 審判はコートのかたわらにある高い椅子に座る。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%af%a9%e5%88%a4%e3%81%af%e3%82%b3%e3%83%bc%e3%83%88%e3%81%ae"><span>審判はコートの</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%9f%e3%82%8f%e3%82%89"><strong>かたわら</strong></a><a href="https://takoboto.jp/?q=%e3%81%ab%e3%81%82%e3%82%8b"><span>にある</span></a><a href="https://takoboto.jp/?q=%e9%ab%98%e3%81%84"><span>高い</span></a><a href="https://takoboto.jp/?q=%e6%a4%85%e5%ad%90%e3%81%ab"><span>椅子に</span></a><a href="https://takoboto.jp/?q=%e5%ba%a7%e3%82%8b%e3%80%82"><span>座る。</span></a>
+    segments:
+      - text: 審判はコートの
+        grammar_highlight: false
+      - text: かたわら
+        grammar_highlight: true
+      - text: にある高い椅子に座る。
+        grammar_highlight: false
+    reading: しんぱんはコートのかたわらにあるたかいいすにすわる。
+    credits_raw: dbx
+    translations:
+      - language: en
+        text: The umpire sits in a high chair at the side of the court.
+        html: |-
+          <span>The umpire sits in a high chair at the side of the court. </span>
+        segments:
+          - text: 'The umpire sits in a high chair at the side of the court. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6627
+    position: 3
+    japanese: 私はスペイン語を習うかたわら、趣味でフラメンコを習うことにしました.
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3"><span>私はスペイン</span></a><a href="https://takoboto.jp/?q=%e8%aa%9e%e3%82%92"><span>語を</span></a><a href="https://takoboto.jp/?q=%e7%bf%92%e3%81%86"><span>習う</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%9f%e3%82%8f%e3%82%89"><strong>かたわら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e8%b6%a3%e5%91%b3%e3%81%a7%e3%83%95%e3%83%a9%e3%83%a1%e3%83%b3%e3%82%b3%e3%82%92"><span>趣味でフラメンコを</span></a><a href="https://takoboto.jp/?q=%e7%bf%92%e3%81%86%e3%81%93%e3%81%a8%e3%81%ab%e3%81%97%e3%81%be%e3%81%97%e3%81%9f."><span>習うことにしました.</span></a>
+    segments:
+      - text: 私はスペイン語を習う
+        grammar_highlight: false
+      - text: かたわら
+        grammar_highlight: true
+      - text: 、趣味でフラメンコを習うことにしました.
+        grammar_highlight: false
+    reading: わたしはスペインごをならうかたわら、しゅみでフラメンコをならうことにしました
+    credits_raw: rakki
+    translations:
+      - language: en
+        text: As well as studying Spanish, I decided to study flamenco as a hobby.
+        html: |-
+          <span>As well as studying Spanish, I decided to study flamenco as a hobby. </span>
+        segments:
+          - text: 'As well as studying Spanish, I decided to study flamenco as a hobby. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7019
+    position: 4
+    japanese: 私の母は自分で編み物を習うかたわら、人にも教えている
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%ae"><span>私の</span></a><a href="https://takoboto.jp/?q=%e6%af%8d%e3%81%af"><span>母は</span></a><a href="https://takoboto.jp/?q=%e8%87%aa%e5%88%86%e3%81%a7"><span>自分で</span></a><a href="https://takoboto.jp/?q=%e7%b7%a8%e3%81%bf"><span>編み</span></a><a href="https://takoboto.jp/?q=%e7%89%a9%e3%82%92"><span>物を</span></a><a href="https://takoboto.jp/?q=%e7%bf%92%e3%81%86"><span>習う</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%9f%e3%82%8f%e3%82%89"><strong>かたわら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e4%ba%ba%e3%81%ab%e3%82%82"><span>人にも</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b"><span>教えている</span></a>
+    segments:
+      - text: 私の母は自分で編み物を習う
+        grammar_highlight: false
+      - text: かたわら
+        grammar_highlight: true
+      - text: 、人にも教えている
+        grammar_highlight: false
+    reading: わたしのはははじぶんであみものをならうかたわら、ひとにもおしえている
+    credits_raw: 酢渇
+    translations:
+      - language: en
+        text: In addition to learning how to knit, my mother also teaches it .
+        html: |-
+          <span>In addition to learning how to knit, my mother also teaches it </span><strong>. </strong>
+        segments:
+          - text: 'In addition to learning how to knit, my mother also teaches it '
+            grammar_highlight: false
+          - text: '. '
+            grammar_highlight: true
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7227
+    position: 5
+    japanese: 妹は会社に勤めるかたわら、夜は専門学校で英語を勉強しています。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%a6%b9%e3%81%af"><span>妹は</span></a><a href="https://takoboto.jp/?q=%e4%bc%9a%e7%a4%be%e3%81%ab"><span>会社に</span></a><a href="https://takoboto.jp/?q=%e5%8b%a4%e3%82%81%e3%82%8b"><span>勤める</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%9f%e3%82%8f%e3%82%89"><strong>かたわら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%a4%9c%e3%81%af"><span>夜は</span></a><a href="https://takoboto.jp/?q=%e5%b0%82%e9%96%80%e5%ad%a6%e6%a0%a1%e3%81%a7"><span>専門学校で</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%82%92"><span>英語を</span></a><a href="https://takoboto.jp/?q=%e5%8b%89%e5%bc%b7%e3%81%97%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>勉強しています。</span></a>
+    segments:
+      - text: 妹は会社に勤める
+        grammar_highlight: false
+      - text: かたわら
+        grammar_highlight: true
+      - text: 、夜は専門学校で英語を勉強しています。
+        grammar_highlight: false
+    reading: いもうとはかいしゃにつとめるかたわら、よるはせんもんがっこうでえいごをべんきょうしています。
+    credits_raw: ddblue
+    translations:
+      - language: en
+        text: My little sister studies English at a trade school at night while working at a company.
+        html: |-
+          <span>My little sister studies English at a trade school at night while working at a company. </span>
+        segments:
+          - text: 'My little sister studies English at a trade school at night while working at a company. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4749
+    position: 6
+    japanese: 仕事のかたわら、子供達にフランス語を教えるつもりです。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%ae"><span>仕事の</span></a><a href="https://takoboto.jp/?q=%e3%81%8b%e3%81%9f%e3%82%8f%e3%82%89"><strong>かたわら</strong></a><a href="https://takoboto.jp/?q=%e3%80%81"><span>、</span></a><a href="https://takoboto.jp/?q=%e5%ad%90%e4%be%9b%e9%81%94%e3%81%ab%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9"><span>子供達にフランス</span></a><a href="https://takoboto.jp/?q=%e8%aa%9e%e3%82%92"><span>語を</span></a><a href="https://takoboto.jp/?q=%e6%95%99%e3%81%88%e3%82%8b%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a7%e3%81%99%e3%80%82"><span>教えるつもりです。</span></a>
+    segments:
+      - text: 仕事の
+        grammar_highlight: false
+      - text: かたわら
+        grammar_highlight: true
+      - text: 、子供達にフランス語を教えるつもりです。
+        grammar_highlight: false
+    reading: しごとのかたわら、こどもたちにふらんすごをおしえるつもりです。
+    credits_raw: ninja_k
+    translations:
+      - language: en
+        text: Besides working, I'm planning to teach the children french.
+        html: |-
+          <strong>Besides </strong><span>working, I'm planning to teach the children french. </span>
+        segments:
+          - text: 'Besides '
+            grammar_highlight: true
+          - text: 'working, I''m planning to teach the children french. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: |-
+      〜のかたわら can also be in the more figurative sense as well. It is also a more archaic expression in spoken Japanese (according to a friend)
+    html: |-
+      〜のかたわら can also be in the more figurative sense as well. It is also a more archaic expression in spoken Japanese (according to a friend)
+    credits_raw: ninja_k
+    content_sha256: 114ab9563997712d073e365b9a3759e2ddea3c979ce6f95146c9fb0ba0ff0282
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: 'This can also mean (according to my book): on the side, besides ... see my example.'
+    html: 'This can also mean (according to my book): on the side, besides ... see my example.'
+    credits_raw: ninja_k
+    content_sha256: 05550612e780e5e50df65988ebba72884caa44898d00e5cc44974bb83ffa242b
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      かたわら in #4749 is diffierent from other examples, but it is stil correct use of that word.It may properly rate another slot.
+    html: |-
+      かたわら in #4749 is diffierent from other examples, but it is stil correct use of that word.It may properly rate another slot.
+    credits_raw: bamboo4
+    content_sha256: f6f46ddf66bb716827cf5fb04c9981d3ccb7fecdf073a8d8e20f4f342f9b5681
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: I defer to precedent on the topic...
+    html: I defer to precedent on the topic...
+    credits_raw: ninja_k
+    content_sha256: 9ec40e03272b55e21dc0cfc3b4092513c9ae17bde58312b91deda5d928c39bfc
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: |-
+      This is in my 一級 grammar book. The explanation is "〜しながら、同時に"
+      This is different to 傍ら/側ら/かたわら(で/に) "Next to/Nearby" as bamboo4 said.
+    html: |-
+      This is in my 一級 grammar book. The explanation is "〜しながら、同時に"<br/>This is different to 傍ら/側ら/かたわら(で/に) "Next to/Nearby" as bamboo4 said.
+    credits_raw: blabby
+    content_sha256: 19fb28f24344bf246061e7695378634836298c9b5c40611bb0603f1aa1833c85
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      An example of the 一級 grammar is
+      私は会社に勤めてるかたわら、夜は家で日本語を勉強しています。
+      Besides working, at night I study Japanese at home.
+    html: |-
+      An example of the 一級 grammar is<br/>私は会社に勤めてるかたわら、夜は家で日本語を勉強しています。<br/>Besides working, at night I study Japanese at home.
+    credits_raw: blabby
+    content_sha256: 369300a5565ae1a9e38952ceccf75def39729b08d6b0558462936feb91e4b71c
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: "平日に仕事をするかたわら、休みの日にはボランティアをしている。\nBesides working during the week, (he/she/they)do/does volunteer work on (his/her/their) days off.\n\nYou could also replace \"besides\" with \"while\". かたわら is used figuratively and not. \nWhen used after a verb it usually means 〜しながら、同時に\nWhen used after a noun it usually means \"to be physicaly beside\".\nかたわらに置いています　\"placed beside\"\n〜のかたわらに \"beside 〜\" \nThere should most definatley be another meaning and example added to the entry."
+    html: |-
+      平日に仕事をするかたわら、休みの日にはボランティアをしている。<br/>Besides working during the week, (he/she/they)do/does volunteer work on (his/her/their) days off.<br/><br/>You could also replace "besides" with "while". かたわら is used figuratively and not. <br/>When used after a verb it usually means 〜しながら、同時に<br/>When used after a noun it usually means "to be physicaly beside".<br/>かたわらに置いています　"placed beside"<br/>〜のかたわらに "beside 〜" <br/>There should most definatley be another meaning and example added to the entry.
+    credits_raw: crlane
+    content_sha256: 3af021a692c9365dc09107b75b304cbb775c22644412e380a7008c4bd78a4620
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:46:07+00:00'
+response_sha256: b8e627ae889ae44c850371b8aeafb34d563939947f47f88c66eab0bec3097526
+warnings: []

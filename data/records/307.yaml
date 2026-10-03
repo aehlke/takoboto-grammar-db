@@ -1,0 +1,650 @@
+schema_version: 2
+id: 307
+source: takoboto
+source_url: https://takoboto.jp/bunpo/307/
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+title: 〜程
+romanized_label: hodo
+alternate_forms:
+  - 〜ほど
+jlpt_level: 2
+credits_raw: dc
+meaning: the more... the more... as along with, to the extent
+meaning_example: the colder it is, the more delicious sake can be made
+meaning_notes: []
+sections:
+  - kind: meaning
+    source_dom_id: editable_Meaning_307
+    body_text: |-
+      the more... the more... as along with, to the extent 
+       the colder it is, the more delicious sake can be made
+    body_html: |-
+      <span>the more... the more... as along with, to the extent</span> <br/> <span>the colder it is, the more delicious sake can be made</span>
+    credits_raw: dc
+formations: []
+examples:
+  - source_id: 263
+    position: 0
+    japanese: 寒ければ寒い（referring to 'weather'）冷たければ冷たい（referring to 'Sake')ほどお酒がおいしくなると言われている
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%af%92%e3%81%91%e3%82%8c%e3%81%b0%e5%af%92%e3%81%84%ef%bc%88referring+to+%27weather%27%ef%bc%89%e5%86%b7%e3%81%9f%e3%81%91%e3%82%8c%e3%81%b0%e5%86%b7%e3%81%9f%e3%81%84%ef%bc%88referring+to+%27Sake%27)"><span>寒ければ寒い（referring to 'weather'）冷たければ冷たい（referring to 'Sake')</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e3%81%8a%e9%85%92%e3%81%8c%e3%81%8a%e3%81%84%e3%81%97%e3%81%8f%e3%81%aa%e3%82%8b%e3%81%a8%e8%a8%80%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b"><span>お酒がおいしくなると言われている</span></a>
+    segments:
+      - text: 寒ければ寒い（referring to 'weather'）冷たければ冷たい（referring to 'Sake')
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: お酒がおいしくなると言われている
+        grammar_highlight: false
+    reading: さむければさむい（つめたければつめたい（ほどおさけがおいしくなるといわれている
+    credits_raw: dc, Kuval Anand
+    translations:
+      - language: en
+        text: the colder it is the more  delicious sake can become, it is said
+        html: |-
+          <span>the colder it is </span><strong>the more </strong><span> delicious sake can become, it is said </span>
+        segments:
+          - text: 'the colder it is '
+            grammar_highlight: false
+          - text: 'the more '
+            grammar_highlight: true
+          - text: ' delicious sake can become, it is said '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 666
+    position: 1
+    japanese: 彼は口も利けないほど腹を立てていた。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e5%bd%bc%e3%81%af"><span>彼は</span></a><a href="https://takoboto.jp/?q=%e5%8f%a3%e3%82%82"><span>口も</span></a><a href="https://takoboto.jp/?q=%e5%88%a9%e3%81%91%e3%81%aa%e3%81%84"><span>利けない</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e8%85%b9%e3%82%92"><span>腹を</span></a><a href="https://takoboto.jp/?q=%e7%ab%8b%e3%81%a6%e3%81%a6%e3%81%84%e3%81%9f%e3%80%82"><span>立てていた。</span></a>
+    segments:
+      - text: 彼は口も利けない
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 腹を立てていた。
+        grammar_highlight: false
+    reading: かれはくちもきけないほどはらをたてていた。
+    credits_raw: dc, Miki
+    translations:
+      - language: en
+        text: He could not speak, he was so angry.
+        html: |-
+          <span>He could not speak, he was </span><strong>so </strong><span>angry. </span>
+        segments:
+          - text: 'He could not speak, he was '
+            grammar_highlight: false
+          - text: 'so '
+            grammar_highlight: true
+          - text: 'angry. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1211
+    position: 2
+    japanese: ドアが閉まらないほど込んでいます。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%83%89%e3%82%a2%e3%81%8c"><span>ドアが</span></a><a href="https://takoboto.jp/?q=%e9%96%89%e3%81%be%e3%82%89%e3%81%aa%e3%81%84"><span>閉まらない</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e8%be%bc%e3%82%93%e3%81%a7%e3%81%84%e3%81%be%e3%81%99%e3%80%82"><span>込んでいます。</span></a>
+    segments:
+      - text: ドアが閉まらない
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 込んでいます。
+        grammar_highlight: false
+    reading: ドアがしまらないほどこんでいます。
+    credits_raw: dc
+    translations:
+      - language: en
+        text: It is so crowded, the door cannot be closed
+        html: |-
+          <span>It is </span><strong>so </strong><span>crowded, the door cannot be closed </span>
+        segments:
+          - text: 'It is '
+            grammar_highlight: false
+          - text: 'so '
+            grammar_highlight: true
+          - text: 'crowded, the door cannot be closed '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4546
+    position: 3
+    japanese: 一日では食べきれないほどのリンゴがある。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e4%b8%80%e6%97%a5%e3%81%a7%e3%81%af"><span>一日では</span></a><a href="https://takoboto.jp/?q=%e9%a3%9f%e3%81%b9%e3%81%8d%e3%82%8c%e3%81%aa%e3%81%84"><span>食べきれない</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e3%81%ae%e3%83%aa%e3%83%b3%e3%82%b4%e3%81%8c%e3%81%82%e3%82%8b%e3%80%82"><span>のリンゴがある。</span></a>
+    segments:
+      - text: 一日では食べきれない
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: のリンゴがある。
+        grammar_highlight: false
+    reading: いちにちではたべきれないほどのリンゴがある。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: We have more apples than we could eat in a day.
+        html: |-
+          <span>We have more apples than we could eat in a day. </span>
+        segments:
+          - text: 'We have more apples than we could eat in a day. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4547
+    position: 4
+    japanese: この英語の小説は、君が一週間で読めるほどやさしくない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e8%8b%b1%e8%aa%9e%e3%81%ae"><span>英語の</span></a><a href="https://takoboto.jp/?q=%e5%b0%8f%e8%aa%ac%e3%81%af%e3%80%81"><span>小説は、</span></a><a href="https://takoboto.jp/?q=%e5%90%9b%e3%81%8c"><span>君が</span></a><a href="https://takoboto.jp/?q=%e4%b8%80%e9%80%b1%e9%96%93%e3%81%a7"><span>一週間で</span></a><a href="https://takoboto.jp/?q=%e8%aa%ad%e3%82%81%e3%82%8b"><span>読める</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e3%82%84%e3%81%95%e3%81%97%e3%81%8f%e3%81%aa%e3%81%84%e3%80%82"><span>やさしくない。</span></a>
+    segments:
+      - text: この英語の小説は、君が一週間で読める
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: やさしくない。
+        grammar_highlight: false
+    reading: このえいごのしょうせつは、きみがいちしゅうかんでよめるほどやさしくない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: This English novel is not easy enough for you to read in a week.
+        html: |-
+          <span>This English novel is not easy enough for you to read in a week. </span>
+        segments:
+          - text: 'This English novel is not easy enough for you to read in a week. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4548
+    position: 5
+    japanese: この家具のほうが比較にならないほど上等である。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%ae%b6%e5%85%b7%e3%81%ae%e3%81%bb%e3%81%86%e3%81%8c"><span>家具のほうが</span></a><a href="https://takoboto.jp/?q=%e6%af%94%e8%bc%83%e3%81%ab%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84"><span>比較にならない</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e4%b8%8a%e7%ad%89%e3%81%a7%e3%81%82%e3%82%8b%e3%80%82"><span>上等である。</span></a>
+    segments:
+      - text: この家具のほうが比較にならない
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 上等である。
+        grammar_highlight: false
+    reading: このかぐのほうがひかくにならないほどじょうとうである。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: This furniture is superior beyond comparison.
+        html: |-
+          <span>This furniture is superior beyond comparison. </span>
+        segments:
+          - text: 'This furniture is superior beyond comparison. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4549
+    position: 6
+    japanese: この果物は摘み取られるほど成長していない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e6%9e%9c%e7%89%a9%e3%81%af"><span>果物は</span></a><a href="https://takoboto.jp/?q=%e6%91%98%e3%81%bf"><span>摘み</span></a><a href="https://takoboto.jp/?q=%e5%8f%96%e3%82%89%e3%82%8c%e3%82%8b"><span>取られる</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e6%88%90%e9%95%b7%e3%81%97%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>成長していない。</span></a>
+    segments:
+      - text: この果物は摘み取られる
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 成長していない。
+        grammar_highlight: false
+    reading: このくだものはつみとられるほどせいちょうしていない。
+    credits_raw: Miki, bamboo4
+    translations:
+      - language: en
+        text: This fruit has not ripened enough to be picked.
+        html: |-
+          <span>This fruit has not ripened enough to be picked. </span>
+        segments:
+          - text: 'This fruit has not ripened enough to be picked. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4550
+    position: 7
+    japanese: この仕事は死ぬほどしんどい。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e4%bb%95%e4%ba%8b%e3%81%af"><span>仕事は</span></a><a href="https://takoboto.jp/?q=%e6%ad%bb%e3%81%ac"><span>死ぬ</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e3%81%97%e3%82%93%e3%81%a9%e3%81%84%e3%80%82"><span>しんどい。</span></a>
+    segments:
+      - text: この仕事は死ぬ
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: しんどい。
+        grammar_highlight: false
+    reading: このしごとはしぬほどしんどい。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: This job is killing me.
+        html: |-
+          <span>This job is killing me. </span>
+        segments:
+          - text: 'This job is killing me. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4551
+    position: 8
+    japanese: 愛するものを失う（こと）ほどつらいことはない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e6%84%9b%e3%81%99%e3%82%8b%e3%82%82%e3%81%ae%e3%82%92"><span>愛するものを</span></a><a href="https://takoboto.jp/?q=%e5%a4%b1%e3%81%86"><span>失う</span></a><a href="https://takoboto.jp/?q=%ef%bc%88%e3%81%93%e3%81%a8"><span>（こと</span></a><a href="https://takoboto.jp/?q=%ef%bc%89"><span>）</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e3%81%a4%e3%82%89%e3%81%84%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84%e3%80%82"><span>つらいことはない。</span></a>
+    segments:
+      - text: 愛するものを失う（こと）
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: つらいことはない。
+        grammar_highlight: false
+    reading: あいするものをうしなう（こと）ほどつらいことはない。
+    credits_raw: Miki, bamboo4
+    translations:
+      - language: en
+        text: Nothing is as terrible as losing someone you love.
+        html: |-
+          <span>Nothing is </span><strong>as </strong><span>terrible </span><strong>as </strong><span>losing someone you love. </span>
+        segments:
+          - text: 'Nothing is '
+            grammar_highlight: false
+          - text: 'as '
+            grammar_highlight: true
+          - text: 'terrible '
+            grammar_highlight: false
+          - text: 'as '
+            grammar_highlight: true
+          - text: 'losing someone you love. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4552
+    position: 9
+    japanese: この店は僕が望んでいるほど遅くまで開いていない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e5%ba%97%e3%81%af"><span>店は</span></a><a href="https://takoboto.jp/?q=%e5%83%95%e3%81%8c"><span>僕が</span></a><a href="https://takoboto.jp/?q=%e6%9c%9b%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b"><span>望んでいる</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e9%81%85%e3%81%8f%e3%81%be%e3%81%a7"><span>遅くまで</span></a><a href="https://takoboto.jp/?q=%e9%96%8b%e3%81%84%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>開いていない。</span></a>
+    segments:
+      - text: この店は僕が望んでいる
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 遅くまで開いていない。
+        grammar_highlight: false
+    reading: このみせはぼくがのぞんでいるほどおそくまでひらいていない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: This store doesn't stay open as late as I'd like. [M]
+        html: |-
+          <span>This store doesn't stay open as late as I'd like. [M] </span>
+        segments:
+          - text: 'This store doesn''t stay open as late as I''d like. [M] '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4553
+    position: 10
+    japanese: この薬は鼻水に不思議なほどよく効く。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%81%ae"><span>この</span></a><a href="https://takoboto.jp/?q=%e8%96%ac%e3%81%af"><span>薬は</span></a><a href="https://takoboto.jp/?q=%e9%bc%bb%e6%b0%b4%e3%81%ab"><span>鼻水に</span></a><a href="https://takoboto.jp/?q=%e4%b8%8d%e6%80%9d%e8%ad%b0%e3%81%aa"><span>不思議な</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e3%82%88%e3%81%8f"><span>よく</span></a><a href="https://takoboto.jp/?q=%e5%8a%b9%e3%81%8f%e3%80%82"><span>効く。</span></a>
+    segments:
+      - text: この薬は鼻水に不思議な
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: よく効く。
+        grammar_highlight: false
+    reading: このくすりははなみずにふしぎなほどよくきく。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: This medicine will do wonders for a runny nose.
+        html: |-
+          <span>This medicine will do wonders for a runny nose. </span>
+        segments:
+          - text: 'This medicine will do wonders for a runny nose. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4554
+    position: 11
+    japanese: これまで訪れた中で、エベレストほど美しい山を見たことがない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%93%e3%82%8c%e3%81%be%e3%81%a7"><span>これまで</span></a><a href="https://takoboto.jp/?q=%e8%a8%aa%e3%82%8c%e3%81%9f"><span>訪れた</span></a><a href="https://takoboto.jp/?q=%e4%b8%ad%e3%81%a7%e3%80%81"><span>中で、</span></a><a href="https://takoboto.jp/?q=%e3%82%a8%e3%83%99%e3%83%ac%e3%82%b9%e3%83%88"><span>エベレスト</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e7%be%8e%e3%81%97%e3%81%84"><span>美しい</span></a><a href="https://takoboto.jp/?q=%e5%b1%b1%e3%82%92"><span>山を</span></a><a href="https://takoboto.jp/?q=%e8%a6%8b%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8c%e3%81%aa%e3%81%84%e3%80%82"><span>見たことがない。</span></a>
+    segments:
+      - text: これまで訪れた中で、エベレスト
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 美しい山を見たことがない。
+        grammar_highlight: false
+    reading: これまでおとずれたなかで、エベレストほどうつくしいやまをみたことがない。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: In all my travels I've never seen a more beautiful mountain than Everest.
+        html: |-
+          <span>In all my travels I've never seen a more beautiful mountain than Everest. </span>
+        segments:
+          - text: 'In all my travels I''ve never seen a more beautiful mountain than Everest. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4555
+    position: 12
+    japanese: そう言う訳で、私は彼を死ぬほど憎んでいる。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%86"><span>そう</span></a><a href="https://takoboto.jp/?q=%e8%a8%80%e3%81%86"><span>言う</span></a><a href="https://takoboto.jp/?q=%e8%a8%b3%e3%81%a7%e3%80%81"><span>訳で、</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af"><span>私は</span></a><a href="https://takoboto.jp/?q=%e5%bd%bc%e3%82%92"><span>彼を</span></a><a href="https://takoboto.jp/?q=%e6%ad%bb%e3%81%ac"><span>死ぬ</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e6%86%8e%e3%82%93%e3%81%a7%e3%81%84%e3%82%8b%e3%80%82"><span>憎んでいる。</span></a>
+    segments:
+      - text: そう言う訳で、私は彼を死ぬ
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 憎んでいる。
+        grammar_highlight: false
+    reading: そういうわけで、わたしはかれをしぬほどにくんでいる。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: That's why I have such an extreme hatred for him.
+        html: |-
+          <span>That's why I have such an extreme hatred for him. </span>
+        segments:
+          - text: 'That''s why I have such an extreme hatred for him. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4556
+    position: 13
+    japanese: そのコーヒーは私が飲めないほど熱かった。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%9d%e3%81%ae%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%81%af"><span>そのコーヒーは</span></a><a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%8c"><span>私が</span></a><a href="https://takoboto.jp/?q=%e9%a3%b2%e3%82%81%e3%81%aa%e3%81%84"><span>飲めない</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e7%86%b1%e3%81%8b%e3%81%a3%e3%81%9f%e3%80%82"><span>熱かった。</span></a>
+    segments:
+      - text: そのコーヒーは私が飲めない
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 熱かった。
+        grammar_highlight: false
+    reading: そのコーヒーはわたしがのめないほどあつかった。
+    credits_raw: Miki
+    translations:
+      - language: en
+        text: The coffee was too hot for me to drink.
+        html: |-
+          <span>The coffee was too hot for me to drink. </span>
+        segments:
+          - text: 'The coffee was too hot for me to drink. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4576
+    position: 14
+    japanese: あの店はこちらの都合に合わせるほど遅くまでやっていない。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e3%81%82%e3%81%ae"><span>あの</span></a><a href="https://takoboto.jp/?q=%e5%ba%97%e3%81%af%e3%81%93%e3%81%a1%e3%82%89%e3%81%ae"><span>店はこちらの</span></a><a href="https://takoboto.jp/?q=%e9%83%bd%e5%90%88%e3%81%ab"><span>都合に</span></a><a href="https://takoboto.jp/?q=%e5%90%88%e3%82%8f%e3%81%9b%e3%82%8b"><span>合わせる</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e9%81%85%e3%81%8f%e3%81%be%e3%81%a7%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%aa%e3%81%84%e3%80%82"><span>遅くまでやっていない。</span></a>
+    segments:
+      - text: あの店はこちらの都合に合わせる
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 遅くまでやっていない。
+        grammar_highlight: false
+    reading: あのみせはこちらのつごうにあわせるほどおそくまでやっていない。
+    credits_raw: bamboo4
+    translations:
+      - language: en
+        text: That shop does not stay open as late as would suit my convenience.
+        html: |-
+          <span>That shop does not stay open </span><strong>as late as </strong><span>would suit my convenience. </span>
+        segments:
+          - text: 'That shop does not stay open '
+            grammar_highlight: false
+          - text: 'as late as '
+            grammar_highlight: true
+          - text: 'would suit my convenience. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7809
+    position: 15
+    japanese: 私はあなたほど忙しいく有りません。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%a7%81%e3%81%af%e3%81%82%e3%81%aa%e3%81%9f"><span>私はあなた</span></a><a href="https://takoboto.jp/?q=%e3%81%bb%e3%81%a9"><strong>ほど</strong></a><a href="https://takoboto.jp/?q=%e5%bf%99%e3%81%97%e3%81%84%e3%81%8f"><span>忙しいく</span></a><a href="https://takoboto.jp/?q=%e6%9c%89%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e3%80%82"><span>有りません。</span></a>
+    segments:
+      - text: 私はあなた
+        grammar_highlight: false
+      - text: ほど
+        grammar_highlight: true
+      - text: 忙しいく有りません。
+        grammar_highlight: false
+    reading: わたしはあなたほどいそがしいくありません。
+    credits_raw: Rinji_HalfElf
+    translations:
+      - language: en
+        text: I'm not as busy as you are.
+        html: |-
+          <span>I'm not </span><strong>as </strong><span>busy </span><strong>as </strong><span>you are. </span>
+        segments:
+          - text: 'I''m not '
+            grammar_highlight: false
+          - text: 'as '
+            grammar_highlight: true
+          - text: 'busy '
+            grammar_highlight: false
+          - text: 'as '
+            grammar_highlight: true
+          - text: 'you are. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8606
+    position: 16
+    japanese: 相撲では、太っているほど有利だ。
+    japanese_html: |-
+      <a href="https://takoboto.jp/?q=%e7%9b%b8%e6%92%b2%e3%81%a7%e3%81%af%e3%80%81"><span>相撲では、</span></a><a href="https://takoboto.jp/?q=%e5%a4%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%bb%e3%81%a9"><span>太っているほど</span></a><a href="https://takoboto.jp/?q=%e6%9c%89%e5%88%a9%e3%81%a0%e3%80%82"><span>有利だ。</span></a>
+    segments:
+      - text: 相撲では、太っているほど有利だ。
+        grammar_highlight: false
+    reading: すもうでは、ふとっているほどゆうりだ。
+    credits_raw: DrJones
+    translations:
+      - language: en
+        text: At Sumo, the fatter you are, the better.
+        html: |-
+          <span>At Sumo, the fatter you are, the better. </span>
+        segments:
+          - text: 'At Sumo, the fatter you are, the better. '
+            grammar_highlight: false
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    source_id: null
+    text: Ｔｈｉｓ ｇｒａｍｍａｒ ｐａｔｔｅｒｎ ｓｈｏｕｌｄ ｈａｖｅ 〜ば Ｂｅｆｏｒｅ ほど。
+    html: Ｔｈｉｓ ｇｒａｍｍａｒ ｐａｔｔｅｒｎ ｓｈｏｕｌｄ ｈａｖｅ 〜ば Ｂｅｆｏｒｅ ほど。
+    credits_raw: yuurei007
+    content_sha256: e4bdbadd747affb17f8f0239015a47e8893c3c5fc3e60bee31728680647a5e64
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    source_id: null
+    text: |-
+      お酒 would be 冷たい (tsumetai) not 寒い (samui), wouldn't it? I get this one confused a lot--based on situation, so I thought I'd ask to clarify.
+    html: |-
+      お酒 would be 冷たい (tsumetai) not 寒い (samui), wouldn't it? I get this one confused a lot--based on situation, so I thought I'd ask to clarify.
+    credits_raw: jpeppel
+    content_sha256: b9665d0fb807354915a93b868fbf84c5e31d2e4db626bce014e4909af8ee3056
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    source_id: null
+    text: |-
+      Yes, but this is not talking about the sake itself - but the environment in which it is made... from the icy north comes delicious sake... ってこと？
+    html: |-
+      Yes, but this is not talking about the sake itself - but the environment in which it is made... from the icy north comes delicious sake... ってこと？
+    credits_raw: anon
+    content_sha256: 2900334e5e3488296d9a744a668d5b7a55109ab6f7872f56862db9152c8688ef
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    source_id: null
+    text: 'or possibly depending on context: in cold weather hot sake tastes more delicious?'
+    html: 'or possibly depending on context: in cold weather hot sake tastes more delicious?'
+    credits_raw: anon
+    content_sha256: f09779e16316390176cf2007e5d9ebe341a60f54f2914cc27b58295f7dd5e68d
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    source_id: null
+    text: 出来る cannot have the connotation of "taste more delicious."
+    html: 出来る cannot have the connotation of "taste more delicious."
+    credits_raw: bamboo4
+    content_sha256: cccb930ff40598e0bca9a3f2d8868b1fdc9ef625d8f20835c35b6a9656f865d2
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    source_id: null
+    text: |-
+      ex. 666 and 1211 seem different from 263.
+      The first two have the effect coming before ほど.. can not speakほどangry. can not openほどcrowded.
+      Example 263 seems backwards, but is similar to the explanation for 〜ば〜ほど.
+      Could someone explain the first two examples, please?
+    html: |-
+      ex. 666 and 1211 seem different from 263.<br/>The first two have the effect coming before ほど.. can not speakほどangry. can not openほどcrowded.<br/>Example 263 seems backwards, but is similar to the explanation for 〜ば〜ほど.<br/>Could someone explain the first two examples, please?
+    credits_raw: gtunak85
+    content_sha256: 99f8f57ecd0938d39a206c7f42018c4c824dc1a2cb1ee47edb3085f2c506e452
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    source_id: null
+    text: |-
+      To add to that, the first two examples, ほど has the effect of "such that."
+      Such that he could not speak, he was angry.
+      Such that the door could not be closed, it was crowded.
+      Does that soudn right?
+    html: |-
+      To add to that, the first two examples, ほど has the effect of "such that."<br/>Such that he could not speak, he was angry.<br/>Such that the door could not be closed, it was crowded.<br/>Does that soudn right?
+    credits_raw: gtunak85
+    content_sha256: 2f36a7ea3fec547521b28c74789ed0bbe14ff24b51965ae450ef0bcc2c6595e8
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    source_id: null
+    text: |-
+      I think it is smoother if the English versions of the first two examples read:
+      He was so angry that he could hardly speak.
+      It was so crowded that the door cluld not be closed.
+    html: |-
+      I think it is smoother if the English versions of the first two examples read:<br/>He was so angry that he could hardly speak.<br/>It was so crowded that the door cluld not be closed.
+    credits_raw: bamboo4
+    content_sha256: c828c77334d4fcd4761275d9b2ae6b194897fb07228ffe8a9b00959b18a51eee
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    source_id: null
+    text: |-
+      In the second example, 閉まらないほど would be "cannot be closed" instead of opened.
+      In the third example, "can be made" assumes possibility of human intervention, whereas 出来る denies that. So, the English should be "can become" instead of "can be made."
+    html: |-
+      In the second example, 閉まらないほど would be "cannot be closed" instead of opened.<br/>In the third example, "can be made" assumes possibility of human intervention, whereas 出来る denies that. So, the English should be "can become" instead of "can be made."
+    credits_raw: bamboo4
+    content_sha256: 547f5f8bcf7972d3c34eba54e0ba51e5b65c579d5c983b728daa2b2ecef4964d
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    source_id: null
+    text: |-
+      but isn't this talking about "making" お酒 as opposed to tasting, as mentioned above (...from the icy north comes delicious sake)?
+    html: |-
+      but isn't this talking about "making" お酒 as opposed to tasting, as mentioned above (...from the icy north comes delicious sake)?
+    credits_raw: jj
+    content_sha256: 7d1bb573393b3753504d4b2ef226f1b0b62b2b4fd7230c15ecb77b4b796aabf7
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    source_id: null
+    text: |-
+      i think the entry meaning should be " so〜(such)that..." for " 〜ほど "
+      "the more... , the more ..." should be the entry for "〜ば〜ほど " , therefore any examples with the meaning " the more... the more..." should be moved to the corresponding entry, to avoid confusion. お願い致します
+    html: |-
+      i think the entry meaning should be " so〜(such)that..." for " 〜ほど "<br/>"the more... , the more ..." should be the entry for "〜ば〜ほど " , therefore any examples with the meaning " the more... the more..." should be moved to the corresponding entry, to avoid confusion. お願い致します
+    credits_raw: 誠
+    content_sha256: b39fa0f4872ddf72339f81cd59e63d81b0f5e3c21857eb6b54bd3d3bb1727d18
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    source_id: null
+    text: |-
+      会場にあふれるほど、ギターを持った若者が集まっていた
+
+      戦争ほど悲惨なものはない
+
+      Have these ほど the same meaning? ?_?
+    html: |-
+      会場にあふれるほど、ギターを持った若者が集まっていた<br/><br/>戦争ほど悲惨なものはない<br/><br/>Have these ほど the same meaning? ?_?
+    credits_raw: Lucia06
+    content_sha256: 6067e6a48442a2e53b0d9ef31c6e9a2fdb78c829c947dc940eb155cf40c04ddd
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    source_id: null
+    text: I think "extent" is the best single-word equivalent for ほど. It fits with most of the example sentences above.
+    html: I think "extent" is the best single-word equivalent for ほど. It fits with most of the example sentences above.
+    credits_raw: Sumofan
+    content_sha256: 55a41bdbddc6424c6b56a9d4bb54d41f4dc48d8145f1d2a6838e1cc96cb21fa7
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    source_id: null
+    text: 'I agree with Sumofan. I found this sentence in a song: 飽きるほど でんわした. I called until I got tired of calling.'
+    html: 'I agree with Sumofan. I found this sentence in a song: 飽きるほど でんわした. I called until I got tired of calling.'
+    credits_raw: pingpongpaddle
+    content_sha256: 4de8045e37b90ff2707ed838dc681f4e5b60c02630130b9c0cad4a03378844aa
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    source_id: null
+    text: |-
+      I also learned that "extent" or "as much as" is a good representation for ほど. 
+
+      Also, I once read a Japan Times piece about the set phrase それほどではありません。Apparently, it is good to use whenever you want to respond humbly to a compliment (e.g. about how good your lousy Japanese is).
+    html: |-
+      I also learned that "extent" or "as much as" is a good representation for ほど. <br/><br/>Also, I once read a Japan Times piece about the set phrase それほどではありません。Apparently, it is good to use whenever you want to respond humbly to a compliment (e.g. about how good your lousy Japanese is).
+    credits_raw: yookoso
+    content_sha256: 06cab9cabc6e74583c59c4836f6ec6bd1aae7f8da1256b23f084ec8d067c986a
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    source_id: null
+    text: |-
+      Yookosoさん、ありがとうございます。I have been wanting to know the polite way to say, "I know my japanese sucks, but thanks for the complement." 今まで僕は「まぁ、そんな。。。」を使いましたがそれは本当に女性の話し方ですね。一人のコーワーカは僕に「マットさん、大釜ですか？」と聞きました。ほかの人々は「やっぱりマットさんの日本語の先生が女の人ですね」ということもあります。
+    html: |-
+      Yookosoさん、ありがとうございます。I have been wanting to know the polite way to say, "I know my japanese sucks, but thanks for the complement." 今まで僕は「まぁ、そんな。。。」を使いましたがそれは本当に女性の話し方ですね。一人のコーワーカは僕に「マットさん、大釜ですか？」と聞きました。ほかの人々は「やっぱりマットさんの日本語の先生が女の人ですね」ということもあります。
+    credits_raw: tigert
+    content_sha256: 400846781c950b64271c33da0ae94f4c62095653163999f9457e980b3265da59
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    source_id: null
+    text: This is JLPT2
+    html: This is JLPT2
+    credits_raw: DrJones
+    content_sha256: edbe99d448b6c9b35a9fc60157ecb2ab6aa0c535dfd179f19e431d6fc8c0b0a4
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - target_id: 977
+    label: ば〜ほど
+    source_url: https://takoboto.jp/bunpo/977
+  - target_id: 1595
+    label: くらい、ぐらい (位)
+    source_url: https://takoboto.jp/bunpo/1595
+original_created_at: null
+original_updated_at: null
+retrieved_at: '2026-10-03T05:37:03+00:00'
+response_sha256: 748d6f3a820e52c35b07b2edc23e2e027851326e83c418ac8af095735f9fc2fd
+warnings: []
