@@ -12,6 +12,9 @@ offline fixtures for development.
 ```sh
 uv sync --locked
 uv run --locked python -m unittest discover -s tests -v
+uv run --locked takoboto-grammar update-markdown --input data \
+  --archive archive-data --output markdown
+git diff -- data/records archive-data/records archive-data/feeds markdown
 uv run --locked takoboto-grammar build --input data --archive archive-data \
   --sqlite exports/dev/grammar.sqlite --markdown exports/dev/markdown
 ```
@@ -19,6 +22,12 @@ uv run --locked takoboto-grammar build --input data --archive archive-data \
 Choose fresh export paths. Raw caches are local and excluded from Git; source
 audits need those retained bytes and cannot run from a records-only checkout.
 The unit tests and export command work without crawling either site.
+
+Reader Markdown is committed under `markdown/`. Its hash manifest makes offline
+updates repeatable: unchanged pages are not rewritten, and obsolete generated
+pages move to `~/.Trash`. Manual edits to generated pages stop the update rather
+than being overwritten. Changes to source JSON and generated Markdown can be
+reviewed together in a pull request. SQLite remains a generated release asset.
 
 Keep human corrections separate from scraped records so refreshes cannot erase
 them. A correction overlay is not yet implemented; discuss proposed changes in

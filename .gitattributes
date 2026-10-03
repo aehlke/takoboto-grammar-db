@@ -1,2 +1,4 @@
 # Captured fixtures must retain exact bytes, encodings and line endings.
 tests/fixtures/* -text -whitespace
+# Reader pages retain source whitespace and Markdown hard line breaks.
+markdown/** -whitespace

@@ -1,6 +1,6 @@
 # Releases
 
-The public repository contains the scraper, tests, extracted JSON, historical
+The public repository contains the scraper, tests, reader Markdown, extracted JSON, historical
 verification states, inventories and provenance reports. Generated SQLite files,
 raw caches, local smoke tests and virtual environments are excluded from Git.
 SQLite is published as a GitHub release asset.
@@ -10,9 +10,17 @@ Run the locked test suite and build into fresh destinations:
 ```sh
 uv sync --locked
 uv run --locked python -m unittest discover -s tests -v
+uv run --locked takoboto-grammar update-markdown --input data \
+  --archive archive-data --output markdown
 uv run --locked takoboto-grammar build --input data --archive archive-data \
   --sqlite exports/new-release/grammar.sqlite --markdown exports/new-release/markdown
 ```
+
+Review and commit changed JSON and reader pages before tagging the release.
+The Markdown update command maintains `markdown/.generated.json`, rewrites only
+changed pages and moves obsolete generated pages to `~/.Trash`. It refuses
+manual edits to managed pages; keep corrections separate. SQLite exports require
+a fresh filename rather than overwriting an existing release database.
 
 Check SQLite integrity and foreign keys, roundtrip all full JSON records and
 preserve displayed credits. Where raw caches are available, also run both source

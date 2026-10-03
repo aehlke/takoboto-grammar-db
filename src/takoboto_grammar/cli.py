@@ -14,6 +14,7 @@ from .audit import audit
 from .archive import ArchiveFetcher, ArchiveAccessError, original_label, crawl_archive, discover_archive
 from .archive_audit import audit_archive
 from .archive_feeds import crawl_feeds
+from .markdown import update_markdown
 
 
 def main():
@@ -154,6 +155,10 @@ def run(resources):
     build.add_argument("--sqlite", help="New SQLite file; existing files are never replaced")
     build.add_argument("--markdown", help="Directory for generated Markdown; prefer a fresh directory")
     build.add_argument('--archive', help='Optional directory of supplemental JGram records')
+    readers = commands.add_parser('update-markdown', help='Offline refresh of managed Markdown pages for Git diffs')
+    readers.add_argument('--input', default='data')
+    readers.add_argument('--archive', help='Optional directory of supplemental JGram records')
+    readers.add_argument('--output', default='markdown', help='Managed reader directory (default: markdown)')
     args = parser.parse_args()
     if hasattr(args, 'delay'):
         try:
@@ -219,6 +224,18 @@ def run(resources):
         report = audit(args.input)
         print(json.dumps(report, ensure_ascii=False, indent=2))
         return 0 if report["coverage_verified"] else 1
+    if args.command == 'update-markdown':
+        try:
+            records = read_records(args.input)
+            archived = read_archive_records(args.archive) if args.archive else []
+            archived_feeds = read_archive_feeds(args.archive) if args.archive else []
+            if not records:
+                raise ValueError('No current records found')
+            report = update_markdown(records, args.output, archived, archived_feeds)
+        except (OSError, ValueError, KeyError, TypeError) as exc:
+            parser.error(f'Cannot update Markdown: {exc}')
+        print(json.dumps(report, ensure_ascii=False, indent=2))
+        return 0
     if args.command == "build":
         if not args.sqlite and not args.markdown:
             parser.error("build needs --sqlite and/or --markdown")

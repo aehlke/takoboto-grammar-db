@@ -1,0 +1,58 @@
+# ことに〜 — historical JGram
+
+[Archived source](https://web.archive.org/web/20200919182110id_/http://www.jgram.org/pages/viewOne.php?tagE=kotoni-group)  
+Original: http://www.jgram.org/pages/viewOne.php?tagE=kotoni-group  
+Archive timestamp: 20200919182110  
+Retrieved: 2026-10-03T06:34:27+00:00  
+Original JLPT level: 2 (historical classification)  
+Credits: dc  
+License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
+## Meaning
+
+I decided, it was decided, it is a rule
+
+I decided to change companies
+
+## Notes
+
+### 1 — dc
+
+<b><a href="http://www.jgram.org/pages/viewOne.php?tagE=kotonisuru">kotonisuru</a></b><br/>
+日本へ行くことにする<br/>
+I have decided to go to japan<br/>
+<br/>
+<b><a href="http://www.jgram.org/pages/viewOne.php?tagE=kotoninaru">kotoninaru</a></b><br/>
+日本へ行くことになった<br/>
+It has been decided I will go to japan<br/>
+<br/>
+<b><a href="http://www.jgram.org/pages/viewOne.php?tagE=kotoninatteiru">kotoninatteiru</a></b><br/>
+日本へ行くことになっている<br/>
+I go to Japan <br/>
+(eg as a rule, once a month)
+
+## Discussion
+
+### 1 — yookoso
+
+according to a textbook I once used: <br/>
+<br/>
+Use にする to indicate a decision made at one's own will; use になる to indicate a decision or change of circumstances that is generated in the course of one's dealings with others.
+
+### 2 — bamboo4
+
+Generally, こと is a nominalizer that makes whatever preceds it into a noun or a nominal. 行くこと would be "the act of going" 食べること would mean the act of eating, etc.<br/>
+
+## See also
+
+### 1 — dc
+
+<a href="http://www.jgram.org/pages/viewOne.php?tagE=kotoninaru">kotoninaru</a> [<a href="http://www.jgram.org/pages/contributions.php?author=dc">dc</a>]
+
+### 2 — dc
+
+<a href="http://www.jgram.org/pages/viewOne.php?tagE=kotoninatteiru">kotoninatteiru</a> [<a href="http://www.jgram.org/pages/contributions.php?author=dc">dc</a>]
+
+## Source section: header
+
+<span>ことに〜 [ことに〜] (kotoni-group)</span><br/>    <span><b>Meaning</b>: I decided, it was decided, it is a rule </span><br/>    <b>Example</b>: <i>I decided to change companies</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>

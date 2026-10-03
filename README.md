@@ -25,6 +25,7 @@ grammar excerpts and publication dates; these are feed-event dates.
 
 Start with [the reconnaissance](docs/reconnaissance.md),
 [the schema](docs/schema.md) or [Archive.org handling](docs/archive.md).
+Browse the **[reader Markdown](markdown/README.md)** committed in this repository.
 Download the **[SQLite database](https://github.com/aehlke/takoboto-grammar-db/releases/latest/download/grammar.sqlite)**
 from [GitHub Releases](https://github.com/aehlke/takoboto-grammar-db/releases).
 Release assets include attribution, the complete data license, permission
@@ -47,9 +48,9 @@ uv run --locked takoboto-grammar build --input data --archive archive-data \
 
 ## Storage choice
 
-Use **SQLite for the queryable dataset** and generate Markdown for readers.
-Retain one JSON record per entry as the text interchange format for GitHub:
-those files provide reviewable diffs and reproduce both exports offline.
+Use **SQLite for the queryable release artifact**. The repository tracks both
+reader Markdown under `markdown/` and one JSON source record per entry.
+Both text formats provide reviewable Git diffs; JSON reproduces the exports offline.
 Keep scraped source records separate from community corrections so subsequent
 crawls cannot silently erase an edit. Correction merging is a future feature.
 
@@ -74,20 +75,44 @@ archive-data/
   coverage-report.json           parsed-record checks and remaining labels
 exports/
   grammar.sqlite
-  markdown/
-    README.md
-    n1/<id>.md ... n5/<id>.md
-    unclassified/<id>.md
-    jgram/<id>-<label-hash>.md
+markdown/                        generated reader files committed to Git
+  .generated.json                managed page paths and content hashes
+  README.md
+  n1/<id>.md ... n5/<id>.md
+  unclassified/<id>.md
+  jgram/<id>-<label-hash>.md
 ```
 
 Stable numeric IDs determine filenames; titles are not unique and levels can
 change. Markdown folders describe the current displayed JLPT classification.
 
+After an authorized crawl into the existing `data` and `archive-data`
+directories, refresh the committed reader pages offline and review the diff:
+
+```sh
+uv run --locked takoboto-grammar update-markdown --input data \
+  --archive archive-data --output markdown
+git diff -- data/records archive-data/records archive-data/feeds markdown
+git status --short
+```
+
+The crawler writes deterministic per-entry JSON. Cached observations retain
+their original retrieval timestamps. `--refresh` can change retrieval metadata
+even when the grammar text is unchanged, so those provenance changes also appear
+in the diff. The crawler does not regenerate Markdown automatically.
+
+`update-markdown` updates only changed generated pages, preserves unchanged
+files, and moves obsolete pages to a fresh directory under `~/.Trash` when
+entries are removed or change level. `.generated.json` has no run timestamps.
+The command checks all existing page hashes before writing and refuses to
+overwrite manual edits or unmanaged files. Keep corrections separate from
+these generated reader pages. SQLite builds still require a fresh filename;
+publish a new database artifact for each release.
+
 ## Run
 
 The implementation passed an initial [two-page live smoke test](recon/uv-smoke-test.json)
-and now passes **87 automated tests**.
+and now passes **97 automated tests**.
 The original smoke-test exports remain local; the public release contains the
 combined dataset. Raw-response caches and local QA outputs are not committed.
 
