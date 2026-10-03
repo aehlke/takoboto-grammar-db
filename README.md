@@ -137,6 +137,10 @@ publish a new database artifact for each release.
 
 The implementation passed an initial [two-page live smoke test](recon/uv-smoke-test.json)
 and now passes **124 automated tests**.
+GitHub checks both Python 3.11 and 3.14, including an offline build of all
+committed YAML records. Run that preservation check locally with
+`uv run --locked --offline python scripts/verify_dataset.py`; see
+[the contributor guide](CONTRIBUTING.md) for its scope and baseline policy.
 The original smoke-test exports remain local; the public release contains the
 combined dataset. Raw-response caches and local QA outputs are not committed.
 

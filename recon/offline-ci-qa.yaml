@@ -1,0 +1,24 @@
+scope: offline verifier and continuous integration
+dataset_source_commit: 350e4c56eb1bf82f762eeab5f169c81adc31ee76
+baseline: recon/yaml-migration.yaml
+local_python: '3.14'
+tests_passed: 124
+canonical_yaml_files_verified: 1415
+cache_free_git_snapshot_build: true
+sqlite_integrity: ok
+foreign_keys: ok
+full_record_roundtrips: true
+provenance_hashes_match: true
+source_bytes_and_mtimes_unchanged: true
+unverified_current_edit_rejected: true
+damaged_published_historical_state_rejected: true
+unexpected_socket_connection_blocked: true
+source_network_requests: 0
+ci_python_matrix: ['3.11', '3.14']
+ci_action_versions:
+  actions/checkout: v7.0.1
+  astral-sh/setup-uv: v10.2.0
+ci_uv_version: '0.12.5'
+limitations:
+  - This checks committed records and verification states; source audits require local raw caches.
+  - Historical coverage remains partial as documented in docs/provenance.md.

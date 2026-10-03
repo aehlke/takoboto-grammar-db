@@ -11,6 +11,7 @@ Run the locked test suite and build into fresh destinations:
 ```sh
 uv sync --locked
 uv run --locked python -m unittest discover -s tests -v
+uv run --locked --offline python scripts/verify_dataset.py
 uv run --locked takoboto-grammar build --input data --archive archive-data --archive-snapshot archive-2015 \
   --sqlite exports/new-release/grammar.sqlite --markdown exports/new-release/markdown
 ```
