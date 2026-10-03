@@ -1,0 +1,65 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1384,
+  "label": "kononinaru",
+  "title_raw": "(kononinaru)",
+  "title": "(kononinaru)",
+  "reading": null,
+  "romanized_label": "kononinaru",
+  "category": "grammar",
+  "jlpt_level_original": "2",
+  "meaning": null,
+  "meaning_example": null,
+  "credits_raw": "kurkoski",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=kononinaru",
+  "archive_url": "https://web.archive.org/web/20150224225554id_/http://jgram.org/pages/viewOne.php?tagE=kononinaru",
+  "archive_timestamp": "20150224225554",
+  "retrieved_at": "2026-10-03T16:03:23+00:00",
+  "archive_digest": "NAM4JQJ35D5NZ6QP6CSP6KVLKD4R2WZ5",
+  "response_sha256": "b1a0b5f7ef2c4be9a23889fb64d20b11fd824972129920296cf56372350f9bfe",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [],
+  "examples": [],
+  "comments": [
+    {
+      "position": 0,
+      "credits_raw": "Kaens",
+      "text": "このになる means 'turns out like'.",
+      "html": "このになる means 'turns out like'.",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "(kononinaru)\n    Meaning:  \n    JLPT Level: 2\n    Category: grammar\n    Author: kurkoski",
+      "html": "<span> (kononinaru)</span><br/>    <span><b>Meaning</b>:  </span><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>kurkoski</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224225554",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 3686158,
+    "length": 4766,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "c5ccb83a44a51073b831da043d928e7dc95acb5cda3615784f5c67e339aef272"
+  }
+}

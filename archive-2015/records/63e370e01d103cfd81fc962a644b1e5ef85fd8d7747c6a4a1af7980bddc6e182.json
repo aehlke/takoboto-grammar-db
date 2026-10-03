@@ -1,0 +1,75 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1604,
+  "label": "otya wo nigosu",
+  "title_raw": "お茶を濁す ([おちゃをにごす] )(otya wo nigosu)",
+  "title": "お茶を濁す",
+  "reading": "おちゃをにごす",
+  "romanized_label": "otya wo nigosu",
+  "category": "grammar",
+  "jlpt_level_original": "1",
+  "meaning": "to avoid giving a direct answer 直接答えないで、曖昧に言えること",
+  "meaning_example": "本音を見せず、お茶を濁した。He beat around the bush and avoided showing his true feelings.//もちろん人それぞれだからと慌てて茶を濁し、話題をすり替えた。She hurriedly made up some excuse about there being all types of people and changed the subject.",
+  "credits_raw": "hicks",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=otya%20wo%20nigosu",
+  "archive_url": "https://web.archive.org/web/20150225004451id_/http://jgram.org/pages/viewOne.php?tagE=otya%20wo%20nigosu",
+  "archive_timestamp": "20150225004451",
+  "retrieved_at": "2026-10-03T16:11:05+00:00",
+  "archive_digest": "ODUUAAP5HXJDLH7EBOTVEF7X4IXZJTB6",
+  "response_sha256": "040df9840939b10861bfd360fb42afb4d2c3344003e398af7fe04547386f91ad",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [
+    {
+      "position": 0,
+      "text": "I think usage is not limited to negative connatation, e.g., \"ramble on about\".",
+      "html": "I think usage is not limited to negative connatation, e.g., \"ramble on about\".",
+      "credits_raw": "hicks",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "examples": [],
+  "comments": [
+    {
+      "position": 0,
+      "credits_raw": "Sumofan",
+      "text": "Shouldn't this entry be filed under \"idioms\" rather than \"grammar\"?",
+      "html": "Shouldn't this entry be filed under \"idioms\" rather than \"grammar\"?",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "お茶を濁す ([おちゃをにごす] )(otya wo nigosu)\n    Meaning: to avoid giving a direct answer 直接答えないで、曖昧に言えること\n    Example: 本音を見せず、お茶を濁した。He beat around the bush and avoided showing his true feelings.//もちろん人それぞれだからと慌てて茶を濁し、話題をすり替えた。She hurriedly made up some excuse about there being all types of people and changed the subject. \n    JLPT Level: 1\n    Category: grammar\n    Author: hicks",
+      "html": "<span>お茶を濁す ([おちゃをにごす] )(otya wo nigosu)</span><br/>    <span><b>Meaning</b>: to avoid giving a direct answer 直接答えないで、曖昧に言えること</span><br/>    <b>Example</b>: <i>本音を見せず、お茶を濁した。He beat around the bush and avoided showing his true feelings.//もちろん人それぞれだからと慌てて茶を濁し、話題をすり替えた。She hurriedly made up some excuse about there being all types of people and changed the subject. </i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>hicks</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150225004451",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 109385431,
+    "length": 5227,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "1331fd866f0b04f8e1df84c52e950443bf5144d8fa84a5902de317bb3faad40a"
+  }
+}

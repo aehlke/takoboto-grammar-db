@@ -1,0 +1,69 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1669,
+  "label": "mune",
+  "title_raw": "旨 ([むね] )(mune)",
+  "title": "旨",
+  "reading": "むね",
+  "romanized_label": "mune",
+  "category": null,
+  "jlpt_level_original": "0",
+  "meaning": "concerning ... , regarding ... , that ...  similar to こと",
+  "meaning_example": "(phrase)する旨。。。　that (phrase)",
+  "credits_raw": "angie",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=mune",
+  "archive_url": "https://web.archive.org/web/20150224225938id_/http://jgram.org/pages/viewOne.php?tagE=mune",
+  "archive_timestamp": "20150224225938",
+  "retrieved_at": "2026-10-03T16:03:41+00:00",
+  "archive_digest": "YHV3ZOLLFMVWDAX222OIZG6ATQBVO43N",
+  "response_sha256": "cea9a17236182c1046c74c17a23b4b35cc89ad1d1920f308b99e0d485ebfcd02",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [],
+  "examples": [
+    {
+      "source_id": 7012,
+      "position": 0,
+      "japanese": "被疑者が検察官の、自白をすれば起訴猶予する旨のことばを信じた。",
+      "body_text": "被疑者が検察官の、自白をすれば起訴猶予する旨のことばを信じた。 \n\n\t\tThe suspect believed in the prosecutor's words \n\t\tTHAT \n\t\tthe prosecution would be delayed if he confessed.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ被疑者が検察官の、自白をすれば起訴猶予する旨のことばを信じた。\">\n\t\t\t\t被疑者が検察官の、自白をすれば起訴猶予する<strong>旨</strong>のことばを信じた。<strong></strong></a> <br/>\n\t\tThe suspect believed in the prosecutor's words \n\t\t<strong>THAT </strong>\n\t\tthe prosecution would be delayed if he confessed.",
+      "credits_raw": "angie",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [],
+  "related_entries": [],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "旨 ([むね] )(mune)\n    Meaning: concerning ... , regarding ... , that ...  similar to こと \n    Example: (phrase)する旨。。。　that (phrase) \n    JLPT Level: 0\n    Author: angie",
+      "html": "<span>旨 ([むね] )(mune)</span><br/>    <span><b>Meaning</b>: concerning ... , regarding ... , that ...  similar to こと </span><br/>    <b>Example</b>: <i>(phrase)する旨。。。　that (phrase) </i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Author</b>: <i>angie</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224225938",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 8239616,
+    "length": 5053,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "81f5ce9a2efd74e671b7110ba9c5520772336dca4bbf95662b158a3c229d5038"
+  }
+}

@@ -14,9 +14,16 @@ discard information. Raw response bytes live separately in a hash-addressed
 cache. Database/Markdown exports require no network.
 
 The executable schema is [schema.sql](../src/takoboto_grammar/schema.sql).
-Schema version **2** is set in SQLite `user_version`, database metadata, and
-current-source JSON. Legacy version 1 current records can still be read.
+SQLite schema **3** is set in `user_version` and database metadata.
+Current-source JSON remains schema **2**; legacy version 1 records can be read.
 Historical records have their own `archive_schema_version: 1`.
+
+SQLite schema **3** preserves repeated historical example IDs by keying
+`archive_examples` on `(entry_key, position)`. `source_id` is original metadata
+and may repeat. Current JSON schema remains 2; historical JSON remains 1.
+Dated backup observations use a snapshot-qualified entry key and preserve the
+complete `retrieval` and `source_decoding_segments` objects in `record_json`.
+See [provenance](provenance.md) for the WARC verification and byte-preservation rules.
 
 | Table | Key | Purpose |
 | --- | --- | --- |
@@ -32,9 +39,9 @@ Historical records have their own `archive_schema_version: 1`.
 | `related_entries` | Entry + position | Reference target ID, display label, and source URL |
 | `metadata` | `key` | Build schema and included entry count |
 | `search_documents` | SQL view | Union of entry, section, example, translation, and comment text |
-| `archive_entries` | SHA-256 of source label | Original ID, category/level, capture and retrieval dates, original/replay URLs, response hash, full JSON record |
+| `archive_entries` | Label hash; snapshot-qualified for dated backups | Original ID, category/level, capture and retrieval dates, original/replay URLs, response hash, full JSON record |
 | `archive_notes` | Historical entry + position | Original explanatory notes and displayed contributor credits |
-| `archive_examples` | Historical entry + original example ID | Japanese where exposed separately, complete example body including translations, credits and original verification classes |
+| `archive_examples` | Historical entry + position | Japanese where exposed separately, complete example body including translations, credits and original verification classes |
 | `archive_comments` | Historical entry + position | Original discussion text, HTML and credits |
 | `archive_relationships` | Historical entry + position | See Also labels, annotation prose/HTML and credits |
 | `archive_feeds` | Original RSS path | Latest grammar feed capture, source/replay URLs, retrieval time, hash and full source observation |
@@ -126,7 +133,7 @@ fresh directories so changed classifications cannot leave old copies behind.
 Human corrections should live in a separate overlay keyed by entry ID and,
 where applicable, example ID. Comment corrections need a snapshot/content hash
 anchor because source positions can shift. That overlay and its merge policy
-are not implemented in version 0.2.0. Source refresh currently replaces
+are not implemented in version 0.3.0. Source refresh currently replaces
 `records/<id>.json`; do not use those files as the only home of manual edits.
 
 The raw-response cache is local by default. Historical response metadata and

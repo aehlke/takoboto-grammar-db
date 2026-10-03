@@ -1,0 +1,101 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1554,
+  "label": "naratomokaku",
+  "title_raw": "ならともかく [ならともかく] (naratomokaku)",
+  "title": "ならともかく",
+  "reading": "ならともかく",
+  "romanized_label": "naratomokaku",
+  "category": "grammar",
+  "jlpt_level_original": "1",
+  "meaning": "I'm not sure if it is [possible/so] but...",
+  "meaning_example": "It's possible that an expert could do this, but I can't.",
+  "credits_raw": "blabby",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=naratomokaku",
+  "archive_url": "https://web.archive.org/web/20150224225803id_/http://jgram.org/pages/viewOne.php?tagE=naratomokaku",
+  "archive_timestamp": "20150224225803",
+  "retrieved_at": "2026-10-03T16:03:41+00:00",
+  "archive_digest": "XOBM22SINV7RJSXMLOWZLIRF5KUBRHUH",
+  "response_sha256": "e5bb0c4a67195987b7609277e1afe5bf83e654fe56a8334b3ba6a6fae44b3682",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [
+    {
+      "position": 0,
+      "text": "名詞句 + ならともかく, B",
+      "html": "名詞句 + ならともかく, B",
+      "credits_raw": "blabby",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "examples": [
+    {
+      "source_id": 5803,
+      "position": 0,
+      "japanese": "君ならともかく、俺はそんなことをしない。",
+      "body_text": "君ならともかく、俺はそんなことをしない。 \n\nMaybe \n\t\tyou can do it, but I don't do such a thing.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ君ならともかく、俺はそんなことをしない。\">\n\t\t\t\t君<strong>ならともかく</strong>、俺はそんなことをしない。<strong></strong></a> <br/>\n<strong>Maybe </strong>\n\t\tyou can do it, but I don't do such a thing.",
+      "credits_raw": "blabby",
+      "verification_class": [
+        "green-bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 5804,
+      "position": 1,
+      "japanese": "外人ならともかく、日本人はそんなことは絶対にしない。",
+      "body_text": "外人ならともかく、日本人はそんなことは絶対にしない。 \n\nMaybe \n\t\tit's possible for a foreigner, but Japanese people would never do that.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ外人ならともかく、日本人はそんなことは絶対にしない。\">\n\t\t\t\t外人<strong>ならともかく</strong>、日本人はそんなことは絶対にしない。<strong></strong></a> <br/>\n<strong>Maybe </strong>\n\t\tit's possible for a foreigner, but Japanese people would never do that.",
+      "credits_raw": "blabby",
+      "verification_class": [
+        "green-bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [],
+  "related_entries": [
+    {
+      "position": 0,
+      "target_label": "naraizashirazu",
+      "label": "naraizashirazu",
+      "annotation_text": "naraizashirazu [blabby]",
+      "annotation_html": "<a href=\"http://jgram.org/pages/viewOne.php?tagE=naraizashirazu\">naraizashirazu</a> [<a href=\"http://jgram.org/pages/contributions.php?author=blabby\">blabby</a>]",
+      "credits_raw": "blabby"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "ならともかく [ならともかく] (naratomokaku)\n    Meaning: I'm not sure if it is [possible/so] but... \n    Example: It's possible that an expert could do this, but I can't.\n    JLPT Level: 1\n    Category: grammar\n    Author: blabby",
+      "html": "<span>ならともかく [ならともかく] (naratomokaku)</span><br/>    <span><b>Meaning</b>: I'm not sure if it is [possible/so] but... </span><br/>    <b>Example</b>: <i>It's possible that an expert could do this, but I can't.</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>blabby</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224225803",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 6695875,
+    "length": 5184,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "e7e93b8772a57de1c27cc8172f72bc715aaa33a9ea9a713b2b24e36387a30b59"
+  }
+}

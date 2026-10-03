@@ -1,0 +1,91 @@
+{
+  "run_id": "ed8cfe93ab7a492b92c8570cec0344a9",
+  "finished_at": "2026-10-03T15:35:20+00:00",
+  "request_interval_seconds": 5,
+  "burst_size": 3,
+  "burst_pause_seconds": 30,
+  "concurrency": 1,
+  "attempt_count": 10,
+  "attempts": [
+    {
+      "url": "https://web.archive.org/robots.txt",
+      "started_at": "2026-10-03T15:33:18.710+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.236664
+    },
+    {
+      "url": "https://web.archive.org/web/20200919185359id_/http://www.jgram.org/pages/viewOne.php?tagE=%28yo%29uga,%28yo%29uto",
+      "started_at": "2026-10-03T15:33:23.714+00:00",
+      "status": 200,
+      "bytes_read": 16138,
+      "error_type": null,
+      "duration_seconds": 3.318229
+    },
+    {
+      "url": "https://web.archive.org/web/20181004180152id_/http://www.jgram.org:80/pages/viewOne.php?tagE=(yo)uto~mai,+(yo)uga~mai",
+      "started_at": "2026-10-03T15:33:28.717+00:00",
+      "status": 200,
+      "bytes_read": 16270,
+      "error_type": null,
+      "duration_seconds": 0.322298
+    },
+    {
+      "url": "https://web.archive.org/web/20200215022843id_/http://jgram.org:80/pages/viewOne.php?tagE=Amari+2",
+      "started_at": "2026-10-03T15:33:59.045+00:00",
+      "status": 200,
+      "bytes_read": 11165,
+      "error_type": null,
+      "duration_seconds": 0.349034
+    },
+    {
+      "url": "https://web.archive.org/web/20200215022903id_/http://jgram.org:80/pages/viewOne.php?tagE=Imada+ni",
+      "started_at": "2026-10-03T15:34:04.050+00:00",
+      "status": 200,
+      "bytes_read": 14835,
+      "error_type": null,
+      "duration_seconds": 3.007116
+    },
+    {
+      "url": "https://web.archive.org/web/20200215021145id_/http://jgram.org:80/pages/viewOne.php?tagE=Nisakidatte",
+      "started_at": "2026-10-03T15:34:09.055+00:00",
+      "status": 200,
+      "bytes_read": 12084,
+      "error_type": null,
+      "duration_seconds": 0.458549
+    },
+    {
+      "url": "https://web.archive.org/web/20181004182300id_/http://www.jgram.org:80/pages/viewOne.php?tagE=Q~demo",
+      "started_at": "2026-10-03T15:34:39.517+00:00",
+      "status": 200,
+      "bytes_read": 13216,
+      "error_type": null,
+      "duration_seconds": 0.677835
+    },
+    {
+      "url": "https://web.archive.org/web/20200215030328id_/http://jgram.org:80/pages/viewOne.php?tagE=Shidaini",
+      "started_at": "2026-10-03T15:34:44.522+00:00",
+      "status": 200,
+      "bytes_read": 11868,
+      "error_type": null,
+      "duration_seconds": 0.349831
+    },
+    {
+      "url": "https://web.archive.org/web/20200215024655id_/http://jgram.org:80/pages/viewOne.php?tagE=Sorekkiri",
+      "started_at": "2026-10-03T15:34:49.527+00:00",
+      "status": 200,
+      "bytes_read": 13819,
+      "error_type": null,
+      "duration_seconds": 0.479616
+    },
+    {
+      "url": "https://web.archive.org/web/20200215024701id_/http://jgram.org:80/pages/viewOne.php?tagE=Vaguely",
+      "started_at": "2026-10-03T15:35:20.012+00:00",
+      "status": 200,
+      "bytes_read": 13651,
+      "error_type": null,
+      "duration_seconds": 0.343911
+    }
+  ]
+}

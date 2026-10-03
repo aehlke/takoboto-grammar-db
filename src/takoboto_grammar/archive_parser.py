@@ -1,12 +1,17 @@
 """JGram source observations, kept separate from current Takoboto records."""
 
 import hashlib
+import json
 import re
-from urllib.parse import parse_qs, urlsplit
+from pathlib import Path
+from html.parser import HTMLParser
+from urllib.parse import parse_qs, urlsplit, quote_from_bytes
 
 from bs4 import BeautifulSoup
 
 from .parser import LICENSE, ParseError, cc_license_links, is_data_license, fragment, text
+
+MEMBERSHIP_REVIEWS = json.loads(Path(__file__).with_name('grammar-membership.json').read_text(encoding='utf-8'))['entries']
 
 
 class NotGrammar(ParseError):
@@ -15,6 +20,68 @@ class NotGrammar(ParseError):
 
 class LicenseReviewRequired(ParseError):
     """Do not substitute an older capture to sidestep a source license notice."""
+
+
+def source_soup(body):
+    """Honor Shift-JIS, including Windows extensions and provable UTF-8 nodes.
+
+    Some old comments were stored as UTF-8 inside a Shift-JIS page. Repair a
+    text node only when strict CP932 fails and strict UTF-8 succeeds. Preserve
+    byte offsets so the decoding decision is reproducible from source bytes.
+    """
+    repairs = []
+    if re.search(rb'charset\s*=\s*["\']?(?:x-sjis|shift[_-]jis)', body[:4096], re.I):
+        try:
+            body.decode('shift_jis')
+        except UnicodeDecodeError:
+            offsets = [0] + [i + 1 for i, byte in enumerate(body) if byte == 10]
+            class Nodes(HTMLParser):
+                def handle_starttag(self, tag, attrs):
+                    raw_tag = self.get_starttag_text().encode('latin-1')
+                    line, column = self.getpos()
+                    base = offsets[line - 1] + column
+                    for match in re.finditer(rb'''\b(?:href|src)\s*=\s*(['"])(.*?)\1''', raw_tag, re.S | re.I):
+                        raw_url = match[2]
+                        try:
+                            raw_url.decode('cp932')
+                        except UnicodeDecodeError:
+                            encoded = quote_from_bytes(raw_url, safe='/:?=&;%+@!()*,-._~').encode('ascii')
+                            start = base + match.start(2)
+                            if body[start:start + len(raw_url)] == raw_url:
+                                repairs.append((start, len(raw_url), encoded, 'percent-encoded-original-url-bytes', raw_url.hex()))
+
+                def handle_data(self, data):
+                    raw = data.encode('latin-1')
+                    try:
+                        raw.decode('cp932')
+                    except UnicodeDecodeError:
+                        try:
+                            decoded = raw.decode('utf-8')
+                            encoding = 'utf-8'
+                        except UnicodeDecodeError:
+                            decoded = raw.decode('cp932', errors='replace')
+                            encoding = 'cp932-with-undecodable-bytes'
+                        line, column = self.getpos()
+                        start = offsets[line - 1] + column
+                        if body[start:start + len(raw)] != raw:
+                            return
+                        repaired = ''.join(c if ord(c) < 128 else f'&#{ord(c)};' for c in decoded).encode('ascii')
+                        repairs.append((start, len(raw), repaired, encoding, raw.hex()))
+            parser = Nodes(convert_charrefs=False)
+            parser.feed(body.decode('latin-1'))
+            parser.close()
+            revised = body
+            repairs.sort()
+            for offset, length, replacement, encoding, original_hex in reversed(repairs):
+                revised = revised[:offset] + replacement + revised[offset + length:]
+            try:
+                revised.decode('cp932')
+                return BeautifulSoup(revised, 'html.parser', from_encoding='cp932'), [
+                    {'byte_offset': offset, 'byte_length': length, 'encoding': encoding, 'original_bytes_hex': original_hex}
+                    for offset, length, _, encoding, original_hex in repairs]
+            except UnicodeDecodeError:
+                pass
+    return BeautifulSoup(body, 'html.parser'), []
 
 
 def labeled_value(soup, label, italic=False):
@@ -33,9 +100,24 @@ def labeled_value(soup, label, italic=False):
 
 
 def parse_archive(body, capture, retrieved_at, eligible_ids=()):
-    soup = BeautifulSoup(body, 'html.parser')
+    soup, decoding_segments = source_soup(body)
     title_node = soup.select_one('.viewOnetitle')
     if title_node is None:
+        missing = re.search(r'No entry exists for\s+(.*?)\s+- click here to add one', text(soup))
+        raw_missing = re.search(rb'''No entry exists for\s*(.*?)\s*-\s*(?:<a\s+href=['"]addGrammar\.php['"]>click here</a>|click here)\s+to add one''', body, re.S)
+        raw_labels = [capture['label'].encode('utf-8')]
+        try:
+            raw_labels.append(capture['label'].encode('cp932'))
+        except UnicodeEncodeError:
+            pass
+        exact_raw = any(re.search(rb'''No entry exists for ''' + re.escape(label) +
+            rb'''\s*-\s*(?:<a\s+href=['"]addGrammar\.php['"]>click here</a>|click here)\s+to add one''', body)
+            for label in raw_labels)
+        matches = ((missing and missing[1] == capture['label']) or exact_raw or
+                   (raw_missing and raw_missing[1] in raw_labels))
+        if (matches and soup.title and 'JGram' in text(soup.title) and
+            any(is_data_license(href) for href in cc_license_links(soup))):
+            raise NotGrammar('Archived JGram explicitly reports no entry for this label')
         raise ParseError('Replay is not a JGram entry (missing viewOnetitle)')
     identifier = None
     for link in soup.select('a[href]'):
@@ -46,7 +128,16 @@ def parse_archive(body, capture, retrieved_at, eligible_ids=()):
                 identifier = int(value)
                 break
     category = labeled_value(soup, 'Category', italic=True)
-    if category not in {'grammar', 'lesson'} and identifier not in set(eligible_ids):
+    scope_review = next((r for r in MEMBERSHIP_REVIEWS if r['id'] == identifier and r['label'] == capture['label']), None)
+    if scope_review and category is None and text(title_node) != scope_review['expected_title_raw']:
+        raise LicenseReviewRequired('Entry title differs from historical membership review; recheck scope evidence')
+    if category is None and identifier is not None and identifier not in set(eligible_ids):
+        if scope_review is None:
+            raise LicenseReviewRequired('Original collection membership is unclassified; retain response for scope review')
+        if scope_review['decision'] == 'non-grammar':
+            raise NotGrammar('Reviewed dictionary-only entry: ' + scope_review['basis'])
+    reviewed_grammar = category is None and scope_review and scope_review['decision'] == 'grammar'
+    if category not in {'grammar', 'lesson'} and identifier not in set(eligible_ids) and not reviewed_grammar:
         raise NotGrammar(f'Outside collection: category {category!r}, ID {identifier}')
     license_links = cc_license_links(soup)
     if not any(is_data_license(href) for href in license_links):
@@ -72,6 +163,12 @@ def parse_archive(body, capture, retrieved_at, eligible_ids=()):
         'notes': [], 'examples': [], 'comments': [], 'related_entries': [], 'sections': [],
         'original_created_at': None, 'original_updated_at': None, 'warnings': [],
     }
+    if decoding_segments:
+        record['source_decoding_segments'] = decoding_segments
+    if reviewed_grammar:
+        record['membership_review'] = scope_review
+    if soup.contains_replacement_characters:
+        record['warnings'].append('Source contains undecodable bytes; retain original WARC/response for review')
     if soup.select('time,[datetime],[data-date],[data-timestamp]'):
         record['warnings'].append('Historical date metadata detected; inspect response before interpreting contribution dates')
     # Retain the grammar header, including category, level, creator and variations.
@@ -153,6 +250,6 @@ def parse_archive(body, capture, retrieved_at, eligible_ids=()):
             record['sections'].append({'kind': name, 'text': text(heading.parent),
                                       'html': fragment(heading.parent, capture['original'])})
             record['warnings'].append(f'Unfamiliar historical section retained: {name}')
-    if len({e['source_id'] for e in record['examples']}) != len(record['examples']):
-        raise ParseError('Duplicate archived example ID')
+    # Original IDs can repeat. Position identifies each source occurrence;
+    # preserving both rows avoids losing an example or its attribution.
     return record

@@ -1,0 +1,79 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1684,
+  "label": "Nisakidatte",
+  "title_raw": "に先立って [にさきだって] (Nisakidatte)",
+  "title": "に先立って",
+  "reading": "にさきだって",
+  "romanized_label": "Nisakidatte",
+  "category": null,
+  "jlpt_level_original": "2",
+  "meaning": "before; preceeding; prior to",
+  "meaning_example": "There will be an opening ceremony before the competition",
+  "credits_raw": "va_tei",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=Nisakidatte",
+  "archive_url": "https://web.archive.org/web/20150224225426id_/http://jgram.org/pages/viewOne.php?tagE=Nisakidatte",
+  "archive_timestamp": "20150224225426",
+  "retrieved_at": "2026-10-03T16:03:23+00:00",
+  "archive_digest": "FUABGBNOHCZUBHQVWPJDBKKHUSIFXK7Q",
+  "response_sha256": "4e8203efa9ba78e40cf25b3ddec0f902c589f4de92055c9e63559bc6cf44abd8",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [],
+  "examples": [
+    {
+      "source_id": 7089,
+      "position": 0,
+      "japanese": "試合に先立って開会式を行う",
+      "body_text": "試合に先立って開会式を行う \n\n\t\tThere will be an opening ceremony \n\t\tbefore \n\t\tthe competition.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ試合に先立って開会式を行う\">\n\t\t\t\t試合<strong>に先立って</strong>開会式を行う<strong></strong></a> <br/>\n\t\tThere will be an opening ceremony \n\t\t<strong>before </strong>\n\t\tthe competition.",
+      "credits_raw": "va_tei",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "credits_raw": "missshapoooo",
+      "text": "In sentense preceding the pattern an important work or action is indicated. Some preparation must be made before advent of that work or action.",
+      "html": "In sentense preceding the pattern an important work or action is indicated. Some preparation must be made before advent of that work or action.",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "に先立って [にさきだって] (Nisakidatte)\n    Meaning: before; preceeding; prior to \n    Example: There will be an opening ceremony before the competition \n    JLPT Level: 2\n    Author: va_tei",
+      "html": "<span>に先立って [にさきだって] (Nisakidatte)</span><br/>    <span><b>Meaning</b>: before; preceeding; prior to </span><br/>    <b>Example</b>: <i>There will be an opening ceremony before the competition </i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Author</b>: <i>va_tei</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224225426",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 2500131,
+    "length": 5083,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "2be177ed2a7da3266e95f51e95069cf01186363944b0fc6c586c85fd6a8ca7ce"
+  }
+}

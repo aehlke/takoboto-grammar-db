@@ -1,0 +1,107 @@
+{
+  "run_id": "b0e9e65d0725452eb3b5bdcc1572405e",
+  "finished_at": "2026-10-03T16:34:45+00:00",
+  "request_interval_seconds": 5,
+  "burst_size": 3,
+  "burst_pause_seconds": 30,
+  "concurrency": 1,
+  "attempt_count": 12,
+  "attempts": [
+    {
+      "url": "https://web.archive.org/robots.txt",
+      "started_at": "2026-10-03T16:32:30.829+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.30643
+    },
+    {
+      "url": "https://web.archive.org/web/20170622031655id_/http://jgram.org/pages/viewOne.php?tagE=Gerrund+form+of+Verb+%2B+nakade",
+      "started_at": "2026-10-03T16:32:35.833+00:00",
+      "status": 200,
+      "bytes_read": 12800,
+      "error_type": null,
+      "duration_seconds": 0.455473
+    },
+    {
+      "url": "https://web.archive.org/web/20200215021210id_/http://jgram.org:80/pages/viewOne.php?tagE=ano",
+      "started_at": "2026-10-03T16:32:40.836+00:00",
+      "status": 200,
+      "bytes_read": 19097,
+      "error_type": null,
+      "duration_seconds": 1.191682
+    },
+    {
+      "url": "https://web.archive.org/web/20200215024921id_/http://jgram.org:80/pages/viewOne.php?tagE=gokensonwo",
+      "started_at": "2026-10-03T16:33:12.029+00:00",
+      "status": 200,
+      "bytes_read": 21443,
+      "error_type": null,
+      "duration_seconds": 0.580165
+    },
+    {
+      "url": "https://web.archive.org/web/20200215024926id_/http://jgram.org:80/pages/viewOne.php?tagE=gomottomo",
+      "started_at": "2026-10-03T16:33:17.034+00:00",
+      "status": 200,
+      "bytes_read": 22060,
+      "error_type": null,
+      "duration_seconds": 0.362815
+    },
+    {
+      "url": "https://web.archive.org/web/20200215021450id_/http://jgram.org:80/pages/viewOne.php?tagE=gosinpainaku",
+      "started_at": "2026-10-03T16:33:22.039+00:00",
+      "status": 200,
+      "bytes_read": 19886,
+      "error_type": null,
+      "duration_seconds": 0.322364
+    },
+    {
+      "url": "https://web.archive.org/web/20200215023154id_/http://jgram.org:80/pages/viewOne.php?tagE=ha-3",
+      "started_at": "2026-10-03T16:33:52.365+00:00",
+      "status": 200,
+      "bytes_read": 17592,
+      "error_type": null,
+      "duration_seconds": 0.283527
+    },
+    {
+      "url": "https://web.archive.org/web/20200919182006id_/http://www.jgram.org/pages/viewOne.php?tagE=ittai",
+      "started_at": "2026-10-03T16:33:57.370+00:00",
+      "status": 200,
+      "bytes_read": 19366,
+      "error_type": null,
+      "duration_seconds": 0.626383
+    },
+    {
+      "url": "https://web.archive.org/web/20200215031008id_/http://jgram.org:80/pages/viewOne.php?tagE=manten",
+      "started_at": "2026-10-03T16:34:02.376+00:00",
+      "status": 200,
+      "bytes_read": 11099,
+      "error_type": null,
+      "duration_seconds": 0.334428
+    },
+    {
+      "url": "https://web.archive.org/web/20200215031144id_/http://jgram.org:80/pages/viewOne.php?tagE=nidoto",
+      "started_at": "2026-10-03T16:34:32.716+00:00",
+      "status": 200,
+      "bytes_read": 20138,
+      "error_type": null,
+      "duration_seconds": 0.372756
+    },
+    {
+      "url": "https://web.archive.org/web/20200215025657id_/http://jgram.org:80/pages/viewOne.php?tagE=ryuu",
+      "started_at": "2026-10-03T16:34:37.718+00:00",
+      "status": 200,
+      "bytes_read": 11323,
+      "error_type": null,
+      "duration_seconds": 0.34366
+    },
+    {
+      "url": "https://web.archive.org/web/20200215024310id_/http://jgram.org:80/pages/viewOne.php?tagE=teshimaimashita",
+      "started_at": "2026-10-03T16:34:42.725+00:00",
+      "status": 200,
+      "bytes_read": 20067,
+      "error_type": null,
+      "duration_seconds": 3.117272
+    }
+  ]
+}

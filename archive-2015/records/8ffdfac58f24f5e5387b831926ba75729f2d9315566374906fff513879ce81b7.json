@@ -1,0 +1,89 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1674,
+  "label": "dakaratoitte",
+  "title_raw": "だからといって　 [だからといって] (dakaratoitte)",
+  "title": "だからといって",
+  "reading": "だからといって",
+  "romanized_label": "dakaratoitte",
+  "category": "grammar",
+  "jlpt_level_original": "0",
+  "meaning": "However.. / It doesn't follow that .../ But it doesn't mean that..",
+  "meaning_example": "He is young. He has little experience. But it doesn't follow from this that he cannot teach",
+  "credits_raw": "cosby kid",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=dakaratoitte",
+  "archive_url": "https://web.archive.org/web/20150224225858id_/http://jgram.org/pages/viewOne.php?tagE=dakaratoitte",
+  "archive_timestamp": "20150224225858",
+  "retrieved_at": "2026-10-03T16:03:41+00:00",
+  "archive_digest": "CMW4U4ICGPX2S6JFPMOFA7KW76KG4JIJ",
+  "response_sha256": "e171def2e0fe39a66c82575a70c1a45247b6843128f983ba9924860219f55fda",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [
+    {
+      "position": 0,
+      "text": "often occurs in a sentences with \u0001 and \u0001",
+      "html": "often occurs in a sentences with <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\u0001\">\u0001</a></b> and <b><a href=\"http://jgram.org/pages/viewOne.php?tagE=\u0001\">\u0001</a></b>",
+      "credits_raw": "cosby kid",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "examples": [
+    {
+      "source_id": 7048,
+      "position": 0,
+      "japanese": "チェンさんは日本語が苦手だ。テストではいつも半分も出来ない。だからといって、頭が悪いわけではない。",
+      "body_text": "チェンさんは日本語が苦手だ。テストではいつも半分も出来ない。だからといって、頭が悪いわけではない。\r \n\n\t\tMr. Cheng is not good at Japanese. On a test he cannot even finish half of it. But it doesn't follow from this that he is not smart.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJチェンさんは日本語が苦手だ。テストではいつも半分も出来ない。だからといって、頭が悪いわけではない。\">\n\t\t\t\tチェンさんは日本語が苦手だ。テストではいつも半分も出来ない。だからといって、頭が悪いわけではない。\r<strong></strong><strong></strong></a> <br/>\n\t\tMr. Cheng is not good at Japanese. On a test he cannot even finish half of it. But it doesn't follow from this that he is not smart.　 \n\t\t<strong> </strong>",
+      "credits_raw": "cosby",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "credits_raw": "jmadsen",
+      "text": "sorry, add more later, but...\n\n\n\r\n1) this is JLPT 2\n\r\n2) can be: any form + から　と　いって\n\r\n3) more generally, meaning of \"just because X, doesn't mean Y\"",
+      "html": "sorry, add more later, but...<br/>\n<br/>\r\n1) this is JLPT 2<br/>\r\n2) can be: any form + から　と　いって<br/>\r\n3) more generally, meaning of \"just because X, doesn't mean Y\"",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "だからといって　 [だからといって] (dakaratoitte)\n    Meaning: However.. / It doesn't follow that .../ But it doesn't mean that.. \n    Example: He is young. He has little experience. But it doesn't follow from this that he cannot teach\n    JLPT Level: 0\n    Category: grammar\n    Author: cosby kid",
+      "html": "<span>だからといって　 [だからといって] (dakaratoitte)</span><br/>    <span><b>Meaning</b>: However.. / It doesn't follow that .../ But it doesn't mean that.. </span><br/>    <b>Example</b>: <i>He is young. He has little experience. But it doesn't follow from this that he cannot teach</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>cosby kid</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224225858",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 7646017,
+    "length": 5295,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "d4551992a0a0e7bfa629d62ddb4ad710ca7ae83256c6578bb7e00d0f47b4ce9a"
+  }
+}

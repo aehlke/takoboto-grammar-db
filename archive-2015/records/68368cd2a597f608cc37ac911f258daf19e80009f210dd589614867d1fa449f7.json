@@ -1,0 +1,69 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1682,
+  "label": "namini",
+  "title_raw": "並みに [なみに] (namini)",
+  "title": "並みに",
+  "reading": "なみに",
+  "romanized_label": "namini",
+  "category": null,
+  "jlpt_level_original": "0",
+  "meaning": "As...as, to the same degree as",
+  "meaning_example": "Wikipedia is as accurate as Britannica",
+  "credits_raw": "ZekkDistor",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=namini",
+  "archive_url": "https://web.archive.org/web/20150224225920id_/http://jgram.org/pages/viewOne.php?tagE=namini",
+  "archive_timestamp": "20150224225920",
+  "retrieved_at": "2026-10-03T16:03:41+00:00",
+  "archive_digest": "TJB3HRNPML66CZZY7ZZAYFGTPWH2BZ7C",
+  "response_sha256": "eb6deb21beb2939ceb7b6836b52d747a3e8efe262d36a2087e9eec9dce72658b",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [],
+  "examples": [
+    {
+      "source_id": 7079,
+      "position": 0,
+      "japanese": "Wikipediaはブリタニカ並みに正確だ。",
+      "body_text": "Wikipediaはブリタニカ並みに正確だ。 \n\n\t\tWikipedia is as accurate as Britannica",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJWikipediaはブリタニカ並みに正確だ。\">\n\t\t\t\tWikipediaはブリタニカ<strong>並みに</strong>正確だ。<strong></strong></a> <br/>\n\t\tWikipedia is as accurate as Britannica \n\t\t<strong> </strong>",
+      "credits_raw": "ZekkDistor",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [],
+  "related_entries": [],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "並みに [なみに] (namini)\n    Meaning: As...as, to the same degree as \n    Example: Wikipedia is as accurate as Britannica\n    JLPT Level: 0\n    Author: ZekkDistor",
+      "html": "<span>並みに [なみに] (namini)</span><br/>    <span><b>Meaning</b>: As...as, to the same degree as </span><br/>    <b>Example</b>: <i>Wikipedia is as accurate as Britannica</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Author</b>: <i>ZekkDistor</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224225920",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 7982813,
+    "length": 4943,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "4dc0d07182550cd61981e38eebe640e94c38c19657462989a453ede7147bdef5"
+  }
+}

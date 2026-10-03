@@ -1,0 +1,69 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1340,
+  "label": "soremadeda",
+  "title_raw": "〜それまでだ [〜それまでだ] (soremadeda)",
+  "title": "〜それまでだ",
+  "reading": "〜それまでだ",
+  "romanized_label": "soremadeda",
+  "category": "grammar",
+  "jlpt_level_original": "1",
+  "meaning": "Conveys the idea that if something occurs, then a bad end is reached.",
+  "meaning_example": "If you tell your girlfriend that her cooking sucks, you're screwed.",
+  "credits_raw": "dc",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=soremadeda",
+  "archive_url": "https://web.archive.org/web/20150224225705id_/http://jgram.org/pages/viewOne.php?tagE=soremadeda",
+  "archive_timestamp": "20150224225705",
+  "retrieved_at": "2026-10-03T16:03:41+00:00",
+  "archive_digest": "UEJVFJOL7H6PN3J5DJOPCZ6C6YE62ZHO",
+  "response_sha256": "cd16acb10a55210f51469f9d6bf8f2b9cfcfaaecdd8567526c6120e5c1ecf36c",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [],
+  "examples": [
+    {
+      "source_id": 8677,
+      "position": 0,
+      "japanese": "今までどんなに頑張ったには関係なく、あきらめたらそれまでだ。",
+      "body_text": "今までどんなに頑張ったには関係なく、あきらめたらそれまでだ。 \n\n\t\tIt doesn't matter how hard you've tried up this point. If you quit, it's all over.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ今までどんなに頑張ったには関係なく、あきらめたらそれまでだ。\">\n\t\t\t\t今までどんなに頑張ったには関係なく、あきらめたら<strong>それまでだ</strong>。<strong></strong></a> <br/>\n\t\tIt doesn't matter how hard you've tried up this point. If you quit, it's all over. \n\t\t<strong> </strong>",
+      "credits_raw": "tess4aria",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [],
+  "related_entries": [],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "〜それまでだ [〜それまでだ] (soremadeda)\n    Meaning: Conveys the idea that if something occurs, then a bad end is reached. \n    Example: If you tell your girlfriend that her cooking sucks, you're screwed.\n    JLPT Level: 1\n    Category: grammar\n    Author: dc",
+      "html": "<span>〜それまでだ [〜それまでだ] (soremadeda)</span><br/>    <span><b>Meaning</b>: Conveys the idea that if something occurs, then a bad end is reached. </span><br/>    <b>Example</b>: <i>If you tell your girlfriend that her cooking sucks, you're screwed.</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224225705",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 5688003,
+    "length": 5112,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "ece40b372e0c92906b33844d299a2d458ed29a64babcc1c717277b9e9a00b481"
+  }
+}

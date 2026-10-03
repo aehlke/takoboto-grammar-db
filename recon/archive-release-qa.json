@@ -1,0 +1,27 @@
+{
+  "tests_passed": 115,
+  "sqlite_integrity": "ok",
+  "sqlite_foreign_keys": "ok",
+  "sqlite_user_version": 3,
+  "complete_record_roundtrips": true,
+  "cache_free_build_identical": true,
+  "unchanged_markdown_hashes_and_mtimes": true,
+  "httpx_send_calls": 0,
+  "counts": {
+    "entries": 643,
+    "examples": 5334,
+    "translations": 5324,
+    "comments": 4546,
+    "meaning_notes": 150,
+    "archive_entries": 767,
+    "archive_notes": 916,
+    "archive_examples": 5983,
+    "archive_comments": 4091,
+    "archive_relationships": 980,
+    "archive_feeds": 5,
+    "archive_feed_items": 4
+  },
+  "current_source_complete": true,
+  "historical_sources_export_ready": true,
+  "latest_historical_coverage_complete": false
+}

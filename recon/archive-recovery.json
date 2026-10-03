@@ -1,0 +1,1743 @@
+{
+  "reviewed_at": "2026-10-03",
+  "data_license": "CC-BY-SA-2.0",
+  "provenance_document": "docs/provenance.md",
+  "membership_review_manifest": "src/takoboto_grammar/grammar-membership.json",
+  "investigation": {
+    "finding": "Original ArchiveTeam website WARC found through partial TSV x-archive-src header; no separate full SQL database found in targeted searches.",
+    "item_url": "https://archive.org/details/archiveteam_archivebot_go_20150302130001",
+    "metadata_url": "https://archive.org/metadata/archiveteam_archivebot_go_20150302130001",
+    "metadata_response_sha256": "78ab8b68e060ede52fb787baac4623653ff01ed211973374372465966c1b3928",
+    "files": [
+      {
+        "name": "jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+        "size": "5281178690",
+        "sha1": "758a7dc751afe9a531dedd9f747de7d78edd46a0",
+        "md5": "e6ca985f66a2a3d0978430914d34e2a7",
+        "format": "Web ARChive GZ"
+      },
+      {
+        "name": "jgram.org-inf-20150224-175105-5bi1u-00000.warc.os.cdx.gz",
+        "size": "67021044",
+        "sha1": "83a1a76f708c5b41dcc9975b9928aba4b94b1f9a",
+        "md5": "92df8423469d57ae6570e3abfcb779c6",
+        "format": "WARC CDX Index"
+      }
+    ],
+    "export_research": [
+      {
+        "url": "https://web.archive.org/cdx/search/cdx?url=jgram.org%2Fpages%2Fexport.php&matchType=prefix&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cmimetype%2Cdigest&limit=10000",
+        "final_url": "https://web.archive.org/cdx/search/cdx?url=jgram.org%2Fpages%2Fexport.php&matchType=prefix&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cmimetype%2Cdigest&limit=10000",
+        "retrieved_at": "2026-10-03T15:21:35+00:00",
+        "sha256": "8241e727f6db8fab3b65ba1fe86600e7c395800ca4d8c929a07541defa63f7b9",
+        "headers": {
+          "date": "Sat, 03 Oct 2026 15:21:35 GMT",
+          "content-type": "application/json"
+        }
+      },
+      {
+        "url": "https://web.archive.org/cdx/search/cdx?url=jgram.org%2Fpages%2Fcopyright.php&matchType=prefix&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cmimetype%2Cdigest&limit=10000",
+        "final_url": "https://web.archive.org/cdx/search/cdx?url=jgram.org%2Fpages%2Fcopyright.php&matchType=prefix&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cmimetype%2Cdigest&limit=10000",
+        "retrieved_at": "2026-10-03T15:22:07+00:00",
+        "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+        "headers": {
+          "date": "Sat, 03 Oct 2026 15:22:07 GMT",
+          "content-type": "application/json"
+        }
+      },
+      {
+        "url": "https://web.archive.org/web/20170626135234id_/http://jgram.org/pages/archive/jdic_20170606_003610.tsv.txt",
+        "final_url": "https://web.archive.org/web/20170626135234id_/http://jgram.org/pages/archive/jdic_20170606_003610.tsv.txt",
+        "retrieved_at": "2026-10-03T15:27:00+00:00",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "headers": {
+          "date": "Sat, 03 Oct 2026 15:27:00 GMT",
+          "content-type": "text/plain",
+          "x-archive-orig-date": "Mon, 26 Jun 2017 13:52:34 GMT",
+          "memento-datetime": "Mon, 26 Jun 2017 13:52:34 GMT",
+          "x-archive-src": "WIDE-20170626133905-crawl806/WIDE-20170626133947-00868.warc.gz"
+        }
+      },
+      {
+        "url": "https://web.archive.org/web/20201202121641id_/http://jgram.org/pages/export.php?limit=0&level=&x=Build",
+        "final_url": "https://web.archive.org/web/20201202121641id_/http://jgram.org/pages/export.php?limit=0&level=&x=Build",
+        "retrieved_at": "2026-10-03T15:23:48+00:00",
+        "sha256": "29cf3a89b287ce72725aa59fbb560278cebd6c3a9f7341153b4c5073541818ea",
+        "headers": {
+          "date": "Sat, 03 Oct 2026 15:23:48 GMT",
+          "content-type": "text/html;charset=Shift_JIS",
+          "x-archive-orig-date": "Wed, 02 Dec 2020 12:16:41 GMT",
+          "memento-datetime": "Wed, 02 Dec 2020 12:16:41 GMT",
+          "x-archive-src": "CC-MAIN-2020-50-1606141708017.73-0007/CC-MAIN-20201202113815-20201202143815-00145.warc.gz"
+        }
+      },
+      {
+        "url": "https://web.archive.org/robots.txt",
+        "retrieved_at": "2026-10-03T15:26:55+00:00",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "url": "https://web.archive.org/cdx/search/cdx?url=jgram.org%2Fpages%2Farchive%2Fjdic_&matchType=prefix&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cmimetype%2Cdigest&limit=10000",
+        "final_url": "https://web.archive.org/cdx/search/cdx?url=jgram.org%2Fpages%2Farchive%2Fjdic_&matchType=prefix&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cmimetype%2Cdigest&limit=10000",
+        "retrieved_at": "2026-10-03T15:25:44+00:00",
+        "sha256": "d21364e7f038ba9cdab63ebbb7cfb0fcd30092442556f1d662fea311ecb9a3ad",
+        "headers": {
+          "date": "Sat, 03 Oct 2026 15:25:44 GMT",
+          "content-type": "application/json"
+        }
+      },
+      {
+        "url": "https://web.archive.org/web/20200713231147id_/http://www.jgram.org:80/pages/export.php?limit=0&level=&x=Build",
+        "final_url": "https://web.archive.org/web/20200713231147id_/http://www.jgram.org:80/pages/export.php?limit=0&level=&x=Build",
+        "retrieved_at": "2026-10-03T15:23:53+00:00",
+        "sha256": "edd7ad0627883eb3b9ba31b51b7f072ecfc6fb9c3251e9358708201cae6cb74b",
+        "headers": {
+          "date": "Sat, 03 Oct 2026 15:23:53 GMT",
+          "content-type": "text/html;charset=Shift_JIS",
+          "x-archive-orig-date": "Mon, 13 Jul 2020 23:11:47 GMT",
+          "memento-datetime": "Mon, 13 Jul 2020 23:11:47 GMT",
+          "x-archive-src": "alexa20200714-10/52_77_20200713231029_crawl300.arc.gz"
+        }
+      },
+      {
+        "url": "https://web.archive.org/web/20150224234234id_/http://jgram.org/pages/archive/jdic_20150224_145647.tsv.txt",
+        "final_url": "https://web.archive.org/web/20150224234234id_/http://jgram.org/pages/archive/jdic_20150224_145647.tsv.txt",
+        "retrieved_at": "2026-10-03T15:27:05+00:00",
+        "sha256": "d0a07d688809ae48ad4fdf4bcce99dfcd4e63c7c1b05a951753d119b7ddee9e5",
+        "headers": {
+          "date": "Sat, 03 Oct 2026 15:27:05 GMT",
+          "content-type": "text/plain",
+          "x-archive-orig-date": "Tue, 24 Feb 2015 23:42:34 GMT",
+          "memento-datetime": "Tue, 24 Feb 2015 23:42:34 GMT",
+          "x-archive-src": "archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz"
+        }
+      },
+      {
+        "url": "https://web.archive.org/web/20210326061933id_/http://www.jgram.org/pages/export.php?limit=0&amp%3Blevel=&amp%3Bx=Build",
+        "final_url": "https://web.archive.org/web/20210326061933id_/http://www.jgram.org/pages/export.php?limit=0&amp%3Blevel=&amp%3Bx=Build",
+        "retrieved_at": "2026-10-03T15:21:36+00:00",
+        "sha256": "ed15770f1c31ea540cd326244ca45d2fb234d438211ab0142c7585c286479923",
+        "headers": {
+          "date": "Sat, 03 Oct 2026 15:21:36 GMT",
+          "content-type": "text/html; charset=utf-8",
+          "x-archive-orig-date": "Fri, 26 Mar 2021 06:19:32 GMT",
+          "memento-datetime": "Fri, 26 Mar 2021 06:19:33 GMT",
+          "x-archive-src": "spn2-20210326075634/spn2-20210326060710-wwwb-spn10.us.archive.org-8000.warc.gz"
+        }
+      }
+    ],
+    "summary_export_limit": "Summary export/TSV omits complete notes, comments and attribution; not used to replace detail records."
+  },
+  "backup": {
+    "snapshot": "archivebot-2015-02",
+    "dates": "2015-02-24 through 2015-03-02",
+    "selection": "Latest indexed successful grammar detail capture within this backup; not final live JGram",
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "original_index_rows": 1069710,
+    "scoped_captures": 1312,
+    "selected_labels": 1077,
+    "included_observations": 704,
+    "distinct_original_ids": 701,
+    "original_ids_absent_current": [
+      116,
+      596,
+      606,
+      610,
+      615,
+      630,
+      634,
+      650,
+      713,
+      735,
+      791,
+      796,
+      844,
+      899,
+      912,
+      924,
+      926,
+      928,
+      930,
+      935,
+      936,
+      955,
+      957,
+      958,
+      962,
+      964,
+      1000,
+      1030,
+      1035,
+      1143,
+      1153,
+      1194,
+      1195,
+      1225,
+      1294,
+      1379,
+      1384,
+      1393,
+      1397,
+      1424,
+      1430,
+      1470,
+      1476,
+      1480,
+      1503,
+      1505,
+      1510,
+      1518,
+      1522,
+      1532,
+      1533,
+      1534,
+      1535,
+      1536,
+      1545,
+      1581,
+      1582,
+      1586,
+      1612,
+      1615,
+      1616,
+      1634,
+      1654,
+      1672,
+      1689,
+      1690,
+      1698,
+      1700,
+      1705,
+      1708,
+      1714,
+      1718,
+      1724,
+      1726,
+      1733,
+      1765,
+      1767,
+      1782,
+      1786
+    ],
+    "verified_exclusions": 310,
+    "review_required": 63,
+    "failed": 0,
+    "range_requests": 71,
+    "range_payload_bytes": 42172280,
+    "source_audit": "archive-2015/coverage-report.json",
+    "held_cases": [
+      {
+        "label": "similar",
+        "original_id": 1458,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=similar",
+        "archive_url": "https://web.archive.org/web/20150224234813id_/http://www.jgram.org/pages/viewOne.php?tagE=similar",
+        "archive_timestamp": "20150224234813",
+        "response_sha256": "80e66a8f6a1105ae88a168cfce84979e544bab960100338472be8f0137da4939",
+        "member_sha256": "c0a6c8a98a9492c04826a27cf4faf029b1f6cb660f314a9e105e0ac14e58a7c1",
+        "warc_offset": 60138705,
+        "warc_length": 11363,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "reasoning",
+        "original_id": 1433,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=reasoning",
+        "archive_url": "https://web.archive.org/web/20150224234928id_/http://www.jgram.org/pages/viewOne.php?tagE=reasoning",
+        "archive_timestamp": "20150224234928",
+        "response_sha256": "67953f0bab0b8f43f9712c954c711aefc8881283c50c4485e181b1703ef18306",
+        "member_sha256": "f5ec1efaa28eea9ad7ddbfafe4be52dfecd84b51c321d51c6ff089e48d8b7be9",
+        "warc_offset": 60950830,
+        "warc_length": 8842,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "compare",
+        "original_id": 1457,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=compare",
+        "archive_url": "https://web.archive.org/web/20150224235807id_/http://www.jgram.org/pages/viewOne.php?tagE=compare",
+        "archive_timestamp": "20150224235807",
+        "response_sha256": "19c7ec0df06d592a747475e5fdbc1c5f00ad33a6181929fda882db40d00950a3",
+        "member_sha256": "691665e1afd6319f7d0bff12713ac64b58fb3a6968da5a8fc3912f8bb85bf41b",
+        "warc_offset": 66740115,
+        "warc_length": 9297,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "enduring",
+        "original_id": 1442,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=enduring",
+        "archive_url": "https://web.archive.org/web/20150224234445id_/http://www.jgram.org/pages/viewOne.php?tagE=enduring",
+        "archive_timestamp": "20150224234445",
+        "response_sha256": "f006cf86124f34bd3d4ab708af133840bceed8c4207cc71adac0df82522d6aae",
+        "member_sha256": "a1955ea2dff09b4332a04081751846c890e51909f7937853f072229c3521185c",
+        "warc_offset": 57877206,
+        "warc_length": 10858,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "particles2",
+        "original_id": 1443,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=particles2",
+        "archive_url": "https://web.archive.org/web/20150224234429id_/http://www.jgram.org/pages/viewOne.php?tagE=particles2",
+        "archive_timestamp": "20150224234429",
+        "response_sha256": "73905810c9c2000fdbd63d37cad97f6995f4fb425ecff0b64fed520d1b0f8d87",
+        "member_sha256": "7cfeba1a179c4f0d66b5130aa7a115879cf2b6d8252248c6a5271e575c52e399",
+        "warc_offset": 57614845,
+        "warc_length": 10042,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "index",
+        "original_id": 1411,
+        "category": "grammar",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=index",
+        "archive_url": "https://web.archive.org/web/20150224230941id_/http://www.jgram.org/pages/viewOne.php?tagE=index",
+        "archive_timestamp": "20150224230941",
+        "response_sha256": "79e7cd0903fe93653122f5d1d085068d08db628b75872bdcaac11e98d910c70e",
+        "member_sha256": "c3aff5b2dca2bcfec9b4a45ecd8bc815b7f8e9cc9742943c9627521c8e39c863",
+        "warc_offset": 17481929,
+        "warc_length": 7515,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "try",
+        "original_id": 1454,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=try",
+        "archive_url": "https://web.archive.org/web/20150224235424id_/http://www.jgram.org/pages/viewOne.php?tagE=try",
+        "archive_timestamp": "20150224235424",
+        "response_sha256": "d4af3369ec9ea240229b6606c551ebf35e0bae7f9bd9dab2af1cfe4553ae6820",
+        "member_sha256": "65e5df32b27cb9720b552b6ecefef2cbb690dca6b2895d36bcf9c6863727e37b",
+        "warc_offset": 64347390,
+        "warc_length": 7875,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "question",
+        "original_id": 1448,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=question",
+        "archive_url": "https://web.archive.org/web/20150224234444id_/http://www.jgram.org/pages/viewOne.php?tagE=question",
+        "archive_timestamp": "20150224234444",
+        "response_sha256": "5a6e7396d51f95803653ed6988e1fa5efe49e43f2fccd3aca3f6fd23a3b74b56",
+        "member_sha256": "813597bc4d7a7364182c0f0297b84f2b23f1586fe741b316cc99f2e2166b3841",
+        "warc_offset": 57843145,
+        "warc_length": 8901,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "katakana_ex",
+        "original_id": 1568,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=katakana_ex",
+        "archive_url": "https://web.archive.org/web/20150224235022id_/http://www.jgram.org/pages/viewOne.php?tagE=katakana_ex",
+        "archive_timestamp": "20150224235022",
+        "response_sha256": "cf818f720b845ff4a70f0cbbee68d63963f2a24c2d5827c144d4c35243001f72",
+        "member_sha256": "78802999cd9b9c12ad7e92a2164cf6d5b711b707eb0509de20ae812180f05b31",
+        "warc_offset": 61562414,
+        "warc_length": 8003,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "covered",
+        "original_id": 1577,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=covered",
+        "archive_url": "https://web.archive.org/web/20150224230936id_/http://www.jgram.org/pages/viewOne.php?tagE=covered",
+        "archive_timestamp": "20150224230936",
+        "response_sha256": "030d7cfe8696dd84cbf02914b66d78da9e5510cec62a21d875b062c10a3dddfb",
+        "member_sha256": "dda4426307267849283aa7697145b706a730288d3731c7bc5405cd8afef99eb4",
+        "warc_offset": 17408076,
+        "warc_length": 7432,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "particles",
+        "original_id": 1435,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=particles",
+        "archive_url": "https://web.archive.org/web/20150224230956id_/http://www.jgram.org/pages/viewOne.php?tagE=particles",
+        "archive_timestamp": "20150224230956",
+        "response_sha256": "88cac4c2868e35e3ebbeb2966e503b40e7744b9cd8918394d3d3640a3f6112ed",
+        "member_sha256": "36750f2d745d6496510e45f2ffb8ee7ade8f2c43cb6841cde7dfe2e4639f7259",
+        "warc_offset": 17636008,
+        "warc_length": 8488,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "nochange",
+        "original_id": 1436,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=nochange",
+        "archive_url": "https://web.archive.org/web/20150224235810id_/http://www.jgram.org/pages/viewOne.php?tagE=nochange",
+        "archive_timestamp": "20150224235810",
+        "response_sha256": "7d842f0a8031435f22987028384790a5d0f3d3eee3f65994f380f8a48a185699",
+        "member_sha256": "43ad95555490f11428d8cda9dfa0f265e9617abab29d55dd691bbc33d8129e21",
+        "warc_offset": 66794657,
+        "warc_length": 7609,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "tendency",
+        "original_id": 1575,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=tendency",
+        "archive_url": "https://web.archive.org/web/20150224230935id_/http://www.jgram.org/pages/viewOne.php?tagE=tendency",
+        "archive_timestamp": "20150224230935",
+        "response_sha256": "519ef3aa7e6247fa8cbf450c54ecd61f077f392e9dd685fd1c75062778d26eea",
+        "member_sha256": "82a3fd2f429271b6468ae431dc5a4c39017f553495b15a3ac4381fd8286e06b5",
+        "warc_offset": 17389404,
+        "warc_length": 8063,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "copula_ex",
+        "original_id": 1569,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=copula_ex",
+        "archive_url": "https://web.archive.org/web/20150224235706id_/http://www.jgram.org/pages/viewOne.php?tagE=copula_ex",
+        "archive_timestamp": "20150224235706",
+        "response_sha256": "6481274da5126b382c2860f11035be328bb76a78a212de06404d29acbb3dcb42",
+        "member_sha256": "c3cbb3b53bcbbd76a5381d120ae06e1f3379c15e9b9fbad26221ce43ac406dda",
+        "warc_offset": 66189598,
+        "warc_length": 7656,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "particles3",
+        "original_id": 1440,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=particles3",
+        "archive_url": "https://web.archive.org/web/20150224234445id_/http://www.jgram.org/pages/viewOne.php?tagE=particles3",
+        "archive_timestamp": "20150224234445",
+        "response_sha256": "86352c07dac8fedf13ea47d9ced5ad63a43e429077c73049d3602dbcd3e95dd1",
+        "member_sha256": "e377f8f8808f23da7f0d5b0d9b397ca8ecea6109218754d5e7f8f2b0f9dbdb15",
+        "warc_offset": 57862402,
+        "warc_length": 11285,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "writingsys",
+        "original_id": 1461,
+        "category": "lesson",
+        "source_url": "http://jgram.org/pages/viewOne.php?tagE=writingsys",
+        "archive_url": "https://web.archive.org/web/20150302045124id_/http://jgram.org/pages/viewOne.php?tagE=writingsys",
+        "archive_timestamp": "20150302045124",
+        "response_sha256": "950075b695ef755d8692150bbb2c25f6d66bf659136b008af96ec817a8f9abdd",
+        "member_sha256": "6ed86f84d484a234a3abfcf363c6f91de1255454f2c6488238f9ed64392c59dc",
+        "warc_offset": 5040609938,
+        "warc_length": 6757,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "genericnoun",
+        "original_id": 1451,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=genericnoun",
+        "archive_url": "https://web.archive.org/web/20150224234802id_/http://www.jgram.org/pages/viewOne.php?tagE=genericnoun",
+        "archive_timestamp": "20150224234802",
+        "response_sha256": "4ff4e21c9e852f3add7a022baaee68338c70112217ba0e2b562d828ef6d3e456",
+        "member_sha256": "044e9de26b5fbef85fa1ec610d346c7d3ee59850ea1dd234634ce472f5b2bba8",
+        "warc_offset": 59985092,
+        "warc_length": 6986,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "conditional",
+        "original_id": 1418,
+        "category": "grammar",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=conditional",
+        "archive_url": "https://web.archive.org/web/20150224234807id_/http://www.jgram.org/pages/viewOne.php?tagE=conditional",
+        "archive_timestamp": "20150224234807",
+        "response_sha256": "76d7f7a3ec3b2f76764441a18fb1c61d042459acab74753c67d584e26cb649f2",
+        "member_sha256": "b036ec4c9ab3e1fee8daec513d003b33f5fd749a2857fdfa7ccf77f71505435b",
+        "warc_offset": 60057228,
+        "warc_length": 11011,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "pastverb",
+        "original_id": 1444,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=pastverb",
+        "archive_url": "https://web.archive.org/web/20150224234443id_/http://www.jgram.org/pages/viewOne.php?tagE=pastverb",
+        "archive_timestamp": "20150224234443",
+        "response_sha256": "4a8dc637e70a9d7e420014dc855b03f9f680bcc3345f0ed3658e5afa5dd865ca",
+        "member_sha256": "80bea1aed8a87b82a48184174bb49dcc1b356450f0b10bb9e845af3dcbcc1bf8",
+        "warc_offset": 57835950,
+        "warc_length": 7195,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "adjectives_ex",
+        "original_id": 1571,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=adjectives_ex",
+        "archive_url": "https://web.archive.org/web/20150224234833id_/http://www.jgram.org/pages/viewOne.php?tagE=adjectives_ex",
+        "archive_timestamp": "20150224234833",
+        "response_sha256": "ae59a27f6068057eb62b250fa4114a0aedb43f309ca6ce92d2fd26af7a806f0f",
+        "member_sha256": "699371409ad8e65ff38d4c01dc563b5b6b589f182209a978982135b5339aa994",
+        "warc_offset": 60395402,
+        "warc_length": 7607,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "verbs",
+        "original_id": 1459,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=verbs",
+        "archive_url": "https://web.archive.org/web/20150224231025id_/http://www.jgram.org/pages/viewOne.php?tagE=verbs",
+        "archive_timestamp": "20150224231025",
+        "response_sha256": "4ef38dda2ed18f3d26dc57b96c8b072c808fc7989541a8f1b29ec30d56986765",
+        "member_sha256": "0ebd08cc6e77fa085fef965ea7eebe23579b5de58c3844347a24801128d8592f",
+        "warc_offset": 17945448,
+        "warc_length": 7372,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "transtype",
+        "original_id": 1453,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=transtype",
+        "archive_url": "https://web.archive.org/web/20150224235417id_/http://www.jgram.org/pages/viewOne.php?tagE=transtype",
+        "archive_timestamp": "20150224235417",
+        "response_sha256": "280b833adca90ad5ba1aff5896a3d9deea97db236e545d00b3b09568c1336896",
+        "member_sha256": "e9cc6a92f908a9685e9fdaa46c026423b9ac702af35ab2857461673b33827212",
+        "warc_offset": 64243358,
+        "warc_length": 6911,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "kanji",
+        "original_id": 951,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=kanji",
+        "archive_url": "https://web.archive.org/web/20150224231300id_/http://www.jgram.org/pages/viewOne.php?tagE=kanji",
+        "archive_timestamp": "20150224231300",
+        "response_sha256": "9e0ea638ab6e6eeaec5db9fe470597ed2183c13ff41eee30540c5fdd64ed184d",
+        "member_sha256": "8146b3c3320ca71d162d351f2c9a3a70671b3aab52967427907ffa1c10369532",
+        "warc_offset": 20298255,
+        "warc_length": 9232,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "potential",
+        "original_id": 1447,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=potential",
+        "archive_url": "https://web.archive.org/web/20150224233358id_/http://www.jgram.org/pages/viewOne.php?tagE=potential",
+        "archive_timestamp": "20150224233358",
+        "response_sha256": "92ff11395bd6110250a4aaf6a9ca4b3d14c9b1767def2202e9415b655c7b6c94",
+        "member_sha256": "370d8c5dadbe218fac448022801e2fe6ef7857a57cf8266b6f2a2c8195504aec",
+        "warc_offset": 51459483,
+        "warc_length": 8653,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "adjectives",
+        "original_id": 1412,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=adjectives",
+        "archive_url": "https://web.archive.org/web/20150224231026id_/http://www.jgram.org/pages/viewOne.php?tagE=adjectives",
+        "archive_timestamp": "20150224231026",
+        "response_sha256": "6e98231f6a5c922c614332186a2a3e06989803c0e3947ca726807b0e8ce1ce47",
+        "member_sha256": "92a08318b909bc5dfead9346aa1db91c421c0734582510223fe9e488abb01d28",
+        "warc_offset": 17953484,
+        "warc_length": 8981,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "desire",
+        "original_id": 1420,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=desire",
+        "archive_url": "https://web.archive.org/web/20150224230940id_/http://www.jgram.org/pages/viewOne.php?tagE=desire",
+        "archive_timestamp": "20150224230940",
+        "response_sha256": "0043ff77845bbd06c8c21cea42563d083b81ec4c82955b67daf5381ed90886e1",
+        "member_sha256": "13724486b212641f04651dbfb4ec19e2f6bbb085b285c782649b8d0d9c3e730f",
+        "warc_offset": 17462042,
+        "warc_length": 9466,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "subclause",
+        "original_id": 1419,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=subclause",
+        "archive_url": "https://web.archive.org/web/20150224234918id_/http://www.jgram.org/pages/viewOne.php?tagE=subclause",
+        "archive_timestamp": "20150224234918",
+        "response_sha256": "1fe78303433174fa5544a7ac920274f8dd0b9ef410146ab96882060f94498268",
+        "member_sha256": "8788a55fbcf04da10b7e802e1666731078921e9b0d06814cca03cb0e5f06a290",
+        "warc_offset": 60814628,
+        "warc_length": 8310,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "surunaru",
+        "original_id": 1456,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=surunaru",
+        "archive_url": "https://web.archive.org/web/20150224230937id_/http://www.jgram.org/pages/viewOne.php?tagE=surunaru",
+        "archive_timestamp": "20150224230937",
+        "response_sha256": "d1fdd9d055593b3920ec632df89f064fa3478c7bd41ac0a28e451f0c53b0dd2b",
+        "member_sha256": "edd76d504b56fd5ad7063d83ade19ff7487eafec7fff4d59663c67745bbf48f0",
+        "warc_offset": 17422850,
+        "warc_length": 8089,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "negverb",
+        "original_id": 1439,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=negverb",
+        "archive_url": "https://web.archive.org/web/20150224234428id_/http://www.jgram.org/pages/viewOne.php?tagE=negverb",
+        "archive_timestamp": "20150224234428",
+        "response_sha256": "4f46a416253ba0cdaf105a32612dcb4d31915309378d7b7825ae84dd03cbbf29",
+        "member_sha256": "43f3c50a8a4349aa6a1a143cf33a86ac3ba48240a53f62a3ac4725886f0bdbbb",
+        "warc_offset": 57602745,
+        "warc_length": 7780,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "essential",
+        "original_id": 1422,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=essential",
+        "archive_url": "https://web.archive.org/web/20150224235731id_/http://www.jgram.org/pages/viewOne.php?tagE=essential",
+        "archive_timestamp": "20150224235731",
+        "response_sha256": "638fe9587bfdda99265a84879203e5083523e17f570e3f5bec2b24a4553f2772",
+        "member_sha256": "ee3adbf81bd7e7cc365bf310846d9e75085c98abee26959339160ce08993375a",
+        "warc_offset": 66382280,
+        "warc_length": 6883,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "wrapup4",
+        "original_id": 1460,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=wrapup4",
+        "archive_url": "https://web.archive.org/web/20150224235237id_/http://www.jgram.org/pages/viewOne.php?tagE=wrapup4",
+        "archive_timestamp": "20150224235237",
+        "response_sha256": "3ac54e9f0aa7243e96f541d5814a98a2c9728284dd9b6c60d1342c12ad7aa3b9",
+        "member_sha256": "fa5d4512338c901fb5beafbaa66e24bfc7e728bc4137123f80090ce870ccf59c",
+        "warc_offset": 63083132,
+        "warc_length": 10171,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "da",
+        "original_id": 568,
+        "category": "grammar",
+        "source_url": "http://jgram.org/pages/viewOne.php?tagE=da",
+        "archive_url": "https://web.archive.org/web/20150224225247id_/http://jgram.org/pages/viewOne.php?tagE=da",
+        "archive_timestamp": "20150224225247",
+        "response_sha256": "cfd4c373769dedfc22f31ed17c4a28113e5d7a06556a035eb8e27e847c66bb8e",
+        "member_sha256": "f72cece50322c318f410f2fbc64cb6501a0bad74c62ebb32617cd9bfeeec5db6",
+        "warc_offset": 1167152,
+        "warc_length": 9376,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "basicgram",
+        "original_id": 1415,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=basicgram",
+        "archive_url": "https://web.archive.org/web/20150224230956id_/http://www.jgram.org/pages/viewOne.php?tagE=basicgram",
+        "archive_timestamp": "20150224230956",
+        "response_sha256": "64a11dad1c26754f51d074777dbb2b423b8be8b5754cc18389a67da1a33a726f",
+        "member_sha256": "42a79950ce139f7d1729db2c715b961f9b35e09b783fe0bf8c105d87f150f90b",
+        "warc_offset": 17644496,
+        "warc_length": 6293,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "feasibility",
+        "original_id": 1574,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=feasibility",
+        "archive_url": "https://web.archive.org/web/20150224234401id_/http://www.jgram.org/pages/viewOne.php?tagE=feasibility",
+        "archive_timestamp": "20150224234401",
+        "response_sha256": "73e19d0bccbc0a84fa7aa60081720245d2705eda9ff4c5b0cba52bd839098950",
+        "member_sha256": "1946aa388830c0b20481052d8cd4b830fea05e43d41938af9b08dcfc6b06ebb0",
+        "warc_offset": 57243126,
+        "warc_length": 8187,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "adgobi",
+        "original_id": 1455,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=adgobi",
+        "archive_url": "https://web.archive.org/web/20150224234808id_/http://www.jgram.org/pages/viewOne.php?tagE=adgobi",
+        "archive_timestamp": "20150224234808",
+        "response_sha256": "46d4036b1797a54846c7326fb6589be6ff41c8d627180c631fca8cc847db6e6b",
+        "member_sha256": "a29e8156fe951f178e56a9222150f26aa4caa4d922db27d638e153c103e54cb2",
+        "warc_offset": 60073131,
+        "warc_length": 8397,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "othergrammar",
+        "original_id": 1579,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=othergrammar",
+        "archive_url": "https://web.archive.org/web/20150224235809id_/http://www.jgram.org/pages/viewOne.php?tagE=othergrammar",
+        "archive_timestamp": "20150224235809",
+        "response_sha256": "f18618307c2f63ede37de85ecef22601e50af1b4d31baada1cb62d89236dc87b",
+        "member_sha256": "31648a70c58be1ca4483b7de356da70e71a3d3fc46d3c818620e44474c286fbe",
+        "warc_offset": 66777049,
+        "warc_length": 7439,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "copula",
+        "original_id": 1425,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=copula",
+        "archive_url": "https://web.archive.org/web/20150224230951id_/http://www.jgram.org/pages/viewOne.php?tagE=copula",
+        "archive_timestamp": "20150224230951",
+        "response_sha256": "443b1544738e0a3b9f3da269e60f8165c6ade70bf9fd4c71202aa4863175d4c2",
+        "member_sha256": "281b2ac349e2252d86b3ea00aaa2142792e9b2b85177068e0aa32e7179769d89",
+        "warc_offset": 17595232,
+        "warc_length": 6965,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "formal",
+        "original_id": 1429,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=formal",
+        "archive_url": "https://web.archive.org/web/20150224230941id_/http://www.jgram.org/pages/viewOne.php?tagE=formal",
+        "archive_timestamp": "20150224230941",
+        "response_sha256": "7f9583d4e96c9784fbf96bd0f19f0bf46e51815a5b0cfd0f713b40934d699103",
+        "member_sha256": "aa3dd3e379e5c5ef6be2849e6349acbf2b5d3c723eac30f83ba64ac27a4a81ca",
+        "warc_offset": 17489444,
+        "warc_length": 8025,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "honorhum",
+        "original_id": 1432,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=honorhum",
+        "archive_url": "https://web.archive.org/web/20150224234800id_/http://www.jgram.org/pages/viewOne.php?tagE=honorhum",
+        "archive_timestamp": "20150224234800",
+        "response_sha256": "541514984b14cd45be2cba32a03fe92717b6f831c519526a6e6dc588b3efbf97",
+        "member_sha256": "e595d2703f7af56a932cc4267a086ce2fd89a359220dee395953027f4812d9b4",
+        "warc_offset": 59960261,
+        "warc_length": 11568,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "casual",
+        "original_id": 1580,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=casual",
+        "archive_url": "https://web.archive.org/web/20150224235810id_/http://www.jgram.org/pages/viewOne.php?tagE=casual",
+        "archive_timestamp": "20150224235810",
+        "response_sha256": "a5faf56d79465a90b4203f1e7f1859ad1365964a7c88002088eecdf83af6010a",
+        "member_sha256": "749122aa15394ce1aff2a4bd384627d856700db2cb061e98a80e4ce092eae3c8",
+        "warc_offset": 66784488,
+        "warc_length": 8847,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "unintended",
+        "original_id": 1452,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=unintended",
+        "archive_url": "https://web.archive.org/web/20150224235112id_/http://www.jgram.org/pages/viewOne.php?tagE=unintended",
+        "archive_timestamp": "20150224235112",
+        "response_sha256": "a3442ac7b612d4fd27896a47de13dd24cbe294be7460da029086def2681aca5a",
+        "member_sha256": "ce6277ba2730d343e131e13efcca1baf23f6f29805dfd56b040ce2857a9f894f",
+        "warc_offset": 62201979,
+        "warc_length": 7200,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "polite",
+        "original_id": 1446,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=polite",
+        "archive_url": "https://web.archive.org/web/20150224233355id_/http://www.jgram.org/pages/viewOne.php?tagE=polite",
+        "archive_timestamp": "20150224233355",
+        "response_sha256": "e68584a87b18fed781a4570b8b58ed95a5302e77bf06901eaa81a4b42c794f33",
+        "member_sha256": "8c4c7135a0362382ae44cf4d05dc496b293abf345e22935d07a25c7d58f32e36",
+        "warc_offset": 51422290,
+        "warc_length": 11415,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "negverb2",
+        "original_id": 1438,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=negverb2",
+        "archive_url": "https://web.archive.org/web/20150224233357id_/http://www.jgram.org/pages/viewOne.php?tagE=negverb2",
+        "archive_timestamp": "20150224233357",
+        "response_sha256": "09d6cd244aa806aca2a7f5f13e483360b1e63e2fc083275dd673c4c3b03423ab",
+        "member_sha256": "274c7d9f0654120a2b64f41db2a95900a30820647ab98f138c88588624bba541",
+        "warc_offset": 51440716,
+        "warc_length": 8526,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "start",
+        "original_id": 1434,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=start",
+        "archive_url": "https://web.archive.org/web/20150224235810id_/http://www.jgram.org/pages/viewOne.php?tagE=start",
+        "archive_timestamp": "20150224235810",
+        "response_sha256": "978e0e6277a61a432831dbd16d3d756455badf0147ea2822a86b0a4d96327d64",
+        "member_sha256": "37e31f619f7a45ff80230c3908ab946345a8523dbc5052f5490c5e11524aed03",
+        "warc_offset": 66802920,
+        "warc_length": 9904,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "amount",
+        "original_id": 1423,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=amount",
+        "archive_url": "https://web.archive.org/web/20150224235437id_/http://www.jgram.org/pages/viewOne.php?tagE=amount",
+        "archive_timestamp": "20150224235437",
+        "response_sha256": "21cbdebb1fda77a167044d5b4b4bb506fbb070399a98431c1d739a383e220d71",
+        "member_sha256": "c1a14d4500da38fb35ae9e52b19351a3deaad2cb7d19a4fd9ca9b823c17a6ce9",
+        "warc_offset": 64531296,
+        "warc_length": 13219,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "timeaction2",
+        "original_id": 1427,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=timeaction2",
+        "archive_url": "https://web.archive.org/web/20150224234401id_/http://www.jgram.org/pages/viewOne.php?tagE=timeaction2",
+        "archive_timestamp": "20150224234401",
+        "response_sha256": "5dac6f9ef74eceb6f37e63448ce721c5c2fca718c12a13ef3b732b5624d1659d",
+        "member_sha256": "6ce569a956b971a31fe15fd1adc7318e733f742d30327649c6c734b2e9c74a00",
+        "warc_offset": 57228861,
+        "warc_length": 10037,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "specialexp",
+        "original_id": 1450,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=specialexp",
+        "archive_url": "https://web.archive.org/web/20150224235808id_/http://www.jgram.org/pages/viewOne.php?tagE=specialexp",
+        "archive_timestamp": "20150224235808",
+        "response_sha256": "92950ad232bfcee533dc13420d4ae416fc66f3fadb479e46a93c09add4137d8b",
+        "member_sha256": "a58482fbfa20a28d839ff5418fe8df79546e22ad1229370428a411467821b6a3",
+        "warc_offset": 66750076,
+        "warc_length": 6042,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "certainty",
+        "original_id": 1428,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=certainty",
+        "archive_url": "https://web.archive.org/web/20150224230938id_/http://www.jgram.org/pages/viewOne.php?tagE=certainty",
+        "archive_timestamp": "20150224230938",
+        "response_sha256": "f056fc95a21190d1111cef893656047d7fba5809070505262af3d7816fd6d924",
+        "member_sha256": "1bf277f498f81fa36103d0ec9409debc47eba9df996f61021ea5e013da140597",
+        "warc_offset": 17436483,
+        "warc_length": 7903,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "advanced",
+        "original_id": 1414,
+        "category": "lesson",
+        "source_url": "http://jgram.org/pages/viewOne.php?tagE=advanced",
+        "archive_url": "https://web.archive.org/web/20150302045125id_/http://jgram.org/pages/viewOne.php?tagE=advanced",
+        "archive_timestamp": "20150302045125",
+        "response_sha256": "179cf80f8296e68a5d849e368b708e753756eb61eef5fcaa849f9e44cf2fe55b",
+        "member_sha256": "7eb56f924c961a4e28b73dc5ae5eff41783a83821b5aa7e5b5ef5cb923de857e",
+        "warc_offset": 5040622039,
+        "warc_length": 6217,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "easyhard",
+        "original_id": 1449,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=easyhard",
+        "archive_url": "https://web.archive.org/web/20150224234812id_/http://www.jgram.org/pages/viewOne.php?tagE=easyhard",
+        "archive_timestamp": "20150224234812",
+        "response_sha256": "697285eff7c8fa6c14295f2eb1792c624179db206d9db5eda2fda61e3eb427e6",
+        "member_sha256": "e0fd8f4d00dadd15519e0c07b313f5751c7841503adc39950705ed9b3c92a60c",
+        "warc_offset": 60106125,
+        "warc_length": 7687,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "address",
+        "original_id": 1410,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=address",
+        "archive_url": "https://web.archive.org/web/20150224235808id_/http://www.jgram.org/pages/viewOne.php?tagE=address",
+        "archive_timestamp": "20150224235808",
+        "response_sha256": "4984882b81abc8fcb847f47f66ce809e089f97ff863e981d2fa381f55bf508f7",
+        "member_sha256": "2fe95945cc86bdeb429d2374c6ccbea296e5ccd8714181be1035daf8448f02b1",
+        "warc_offset": 66756777,
+        "warc_length": 11524,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "signs",
+        "original_id": 1573,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=signs",
+        "archive_url": "https://web.archive.org/web/20150224233357id_/http://www.jgram.org/pages/viewOne.php?tagE=signs",
+        "archive_timestamp": "20150224233357",
+        "response_sha256": "e08b7f77bee7fd841777281238e4008434e7be9d1056112bd2cc6b2e90c1c9cc",
+        "member_sha256": "8c1d17ea2e3eeeb36220b6e2c63564ba7a823d84f1cc558832bb2c5f9cbe6213",
+        "warc_offset": 51449907,
+        "warc_length": 8911,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "adv_volitional",
+        "original_id": 1576,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=adv_volitional",
+        "archive_url": "https://web.archive.org/web/20150224233135id_/http://www.jgram.org/pages/viewOne.php?tagE=adv_volitional",
+        "archive_timestamp": "20150224233135",
+        "response_sha256": "9bd4b3ba77b94113af88cea2c4eee75a0967f83f0779029fca6c6e8b770c0eb2",
+        "member_sha256": "0b77b3ac0f4e22745a8559b6deeb753fb90900c8f876739ea2b5fee7e9db66ab",
+        "warc_offset": 50137537,
+        "warc_length": 8806,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "particles_ex",
+        "original_id": 1570,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=particles_ex",
+        "archive_url": "https://web.archive.org/web/20150224234431id_/http://www.jgram.org/pages/viewOne.php?tagE=particles_ex",
+        "archive_timestamp": "20150224234431",
+        "response_sha256": "c8fdcd45fcca86a176ef580468d0e33ab916d5875c58697cffa41ba044d35dce",
+        "member_sha256": "48cb9dfc4bc34246f58bc7681919ec58cbfcc187e03ce0d477a70a3d9c17c811",
+        "warc_offset": 57656988,
+        "warc_length": 7809,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "even",
+        "original_id": 1426,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=even",
+        "archive_url": "https://web.archive.org/web/20150224235812id_/http://www.jgram.org/pages/viewOne.php?tagE=even",
+        "archive_timestamp": "20150224235812",
+        "response_sha256": "420d676c1eace434fb08d7f15f8aba6f3c85d7a6305568e7d09784b21417d2bd",
+        "member_sha256": "5656a58436e4e41974ac80c1421045bcbc2cc2aabb48808e8fd575c8fd206ff4",
+        "warc_offset": 66844982,
+        "warc_length": 7400,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "compound",
+        "original_id": 1417,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=compound",
+        "archive_url": "https://web.archive.org/web/20150224234803id_/http://www.jgram.org/pages/viewOne.php?tagE=compound",
+        "archive_timestamp": "20150224234803",
+        "response_sha256": "8faa78a7f05d7bbaccfb6b56bf8e8402570cd1082d3d4776798b859a1316e6f6",
+        "member_sha256": "506b2e985256fed3558ce4bb5229328034b336e1c8c916a7a821e9032998cf59",
+        "warc_offset": 60010053,
+        "warc_length": 11933,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "hiragana_ex",
+        "original_id": 1567,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=hiragana_ex",
+        "archive_url": "https://web.archive.org/web/20150224231312id_/http://www.jgram.org/pages/viewOne.php?tagE=hiragana_ex",
+        "archive_timestamp": "20150224231312",
+        "response_sha256": "fa1d6ed80782b39a8bdb2b87921783a769cb5d7aced0903a5549f2c00f9c401b",
+        "member_sha256": "2fd3676f3346e5cbe036d544904b506a8ffde13849bb4643a7eb9094bc7e28b6",
+        "warc_offset": 20464002,
+        "warc_length": 7938,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "katakana",
+        "original_id": 1462,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=katakana",
+        "archive_url": "https://web.archive.org/web/20150224231109id_/http://www.jgram.org/pages/viewOne.php?tagE=katakana",
+        "archive_timestamp": "20150224231109",
+        "response_sha256": "6e5afb8783f6e5fb7afc8748d761a3d87b08cc90fa6bc5870c6b7c64f1b54fd0",
+        "member_sha256": "6beb7b1792de5369bf59b1095a1b3469c6196f91d25235766b9f883bc9c664c5",
+        "warc_offset": 18685137,
+        "warc_length": 9076,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "numbers",
+        "original_id": 1441,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=numbers",
+        "archive_url": "https://web.archive.org/web/20150224235812id_/http://www.jgram.org/pages/viewOne.php?tagE=numbers",
+        "archive_timestamp": "20150224235812",
+        "response_sha256": "6af339a8558970eeed49f31e0d130c556c27dbb970cba7efc5a57c58a3f2293b",
+        "member_sha256": "c76ed068c20badecbc630cb5aa82fbcaffb10379a1ca40bfbd0036a95ae641d2",
+        "warc_offset": 66830400,
+        "warc_length": 13808,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "hiragana",
+        "original_id": 1431,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=hiragana",
+        "archive_url": "https://web.archive.org/web/20150224231234id_/http://www.jgram.org/pages/viewOne.php?tagE=hiragana",
+        "archive_timestamp": "20150224231234",
+        "response_sha256": "96855c6a74d49414cc092f233227f7a87dd3315329aa5f855233801cd80d716a",
+        "member_sha256": "dadcda03523c5b35e1246bbd085aa2da69cb08b4296b87e4d979f82bb70fe84d",
+        "warc_offset": 20055392,
+        "warc_length": 9713,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "should",
+        "original_id": 1572,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=should",
+        "archive_url": "https://web.archive.org/web/20150224234739id_/http://www.jgram.org/pages/viewOne.php?tagE=should",
+        "archive_timestamp": "20150224234739",
+        "response_sha256": "6ff8fef4f06b3bc3cbfae615c0bf04e9092f97a6772656967860f639c8f15324",
+        "member_sha256": "15243b94b7bbad89c124ed41aa2d177a512f178bc6a52ddefbb4193c24712683",
+        "warc_offset": 59703873,
+        "warc_length": 9123,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "close_actions",
+        "original_id": 1578,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=close_actions",
+        "archive_url": "https://web.archive.org/web/20150224233134id_/http://www.jgram.org/pages/viewOne.php?tagE=close_actions",
+        "archive_timestamp": "20150224233134",
+        "response_sha256": "c9cbefec95ea5f042b0b22bd140f2a5734c19daac62d95f1c8b75b788a28e43f",
+        "member_sha256": "95bf7202f9d00c1563581877b7695bd7152400878c253c959dfc560ac7586bb2",
+        "warc_offset": 50121119,
+        "warc_length": 8052,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      },
+      {
+        "label": "quotation",
+        "original_id": 1445,
+        "category": "lesson",
+        "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=quotation",
+        "archive_url": "https://web.archive.org/web/20150224234957id_/http://www.jgram.org/pages/viewOne.php?tagE=quotation",
+        "archive_timestamp": "20150224234957",
+        "response_sha256": "f0b2dfc30eea83c3457dd567e9b5301cab0f21afff7c3ea579e879ea0dce8106",
+        "member_sha256": "06f5507810ac13b4eb8d769b8220190f3848ccead5ae368b47e3a20b5bdc70fa",
+        "warc_offset": 61318810,
+        "warc_length": 8317,
+        "review_reasons": [
+          "Unfamiliar historical section retained: Tutorial"
+        ],
+        "status": "held; content not published",
+        "license_check_required": true
+      }
+    ]
+  },
+  "newer_wayback": {
+    "indexed_labels": 1414,
+    "usable_captures": 43686,
+    "repeat_observations_retained": 5154,
+    "included_observations": 63,
+    "original_ids_absent_current": [
+      610,
+      615,
+      912,
+      924,
+      926,
+      928,
+      955,
+      957,
+      958,
+      962,
+      964,
+      1153,
+      1225,
+      1393,
+      1503,
+      1615,
+      1705,
+      1708,
+      1714,
+      1718,
+      1724,
+      1726,
+      1733
+    ],
+    "verified_exclusions": 4,
+    "unresolved_latest_labels": 1347,
+    "unresolved_label_list": "archive-data/coverage-report.json#pending_labels",
+    "source_audit": "archive-data/coverage-report.json",
+    "feeds": 5,
+    "feed_items": 4,
+    "selection": "Latest indexed successful content, with raw-digest proof for equivalent older observations."
+  },
+  "alias_investigation": [
+    {
+      "original_label": "-oku",
+      "successor_label": "oku",
+      "original_id": 1350,
+      "evidence": "All 11 old example IDs present in licensed successor observation; does not assert identical wording or discussion."
+    },
+    {
+      "original_label": "juu",
+      "successor_label": "juu/chuu",
+      "original_id": 739,
+      "evidence": "Old example ID 883 present in licensed successor observation; does not assert identical wording or discussion."
+    },
+    {
+      "original_label": "teshouganai",
+      "successor_label": "teshouganai; tetamaranai",
+      "original_id": 540,
+      "evidence": "Licensed successor record recovered under original ID; failed old replay is not treated as latest proof."
+    }
+  ],
+  "scope_decisions": {
+    "reviewed_at": "2026-10-03",
+    "scope": "Original JGram grammar and grammatical usage; excludes dictionary-only vocabulary and explicit non-grammar categories",
+    "entries": [
+      {
+        "id": 1615,
+        "label": "Gerrund form of Verb + nakade",
+        "decision": "grammar",
+        "basis": "JLPT 2 verb construction explaining selection from a clause using 中で.",
+        "evidence": {
+          "source_url": "http://jgram.org/pages/viewOne.php?tagE=Gerrund+form+of+Verb+%2B+nakade",
+          "archive_url": "https://web.archive.org/web/20170622031655id_/http://jgram.org/pages/viewOne.php?tagE=Gerrund+form+of+Verb+%2B+nakade",
+          "archive_timestamp": "20170622031655",
+          "response_sha256": "f7d6f1e79f2a04ebe2723bb17c85340b34e22ca03feb865f02bf212e4df7274e"
+        },
+        "expected_title_raw": "進行形の動詞＋中で ([しんこうけいのどうし＋なかで] )(Gerrund form of Verb + nakade)"
+      },
+      {
+        "id": 1503,
+        "label": "ano",
+        "decision": "grammar",
+        "basis": "JLPT 4 demonstrative usage with contrasts between あの and その, attributed notes and examples.",
+        "evidence": {
+          "source_url": "http://jgram.org:80/pages/viewOne.php?tagE=ano",
+          "archive_url": "https://web.archive.org/web/20200215021210id_/http://jgram.org:80/pages/viewOne.php?tagE=ano",
+          "archive_timestamp": "20200215021210",
+          "response_sha256": "0c3a2782966f6cd8bbd1b930c4f9b7d2fd4f7b01f42c40e371659e26bbaeac9f"
+        },
+        "expected_title_raw": "あの ([あの] )(ano)"
+      },
+      {
+        "id": 1708,
+        "label": "ittai",
+        "decision": "grammar",
+        "basis": "Interrogative intensifier 一体 with attributed sentence examples.",
+        "evidence": {
+          "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=ittai",
+          "archive_url": "https://web.archive.org/web/20200919182006id_/http://www.jgram.org/pages/viewOne.php?tagE=ittai",
+          "archive_timestamp": "20200919182006",
+          "response_sha256": "fca4873571530cc0358e13e9db8736898f1b8d00b51742a5ba61b19f7a5f85bd"
+        },
+        "expected_title_raw": "一体 [いったい] (ittai)"
+      },
+      {
+        "id": 1726,
+        "label": "nidoto",
+        "decision": "grammar",
+        "basis": "Negative-expression usage of 二度と with attributed sentence examples.",
+        "evidence": {
+          "source_url": "http://jgram.org:80/pages/viewOne.php?tagE=nidoto",
+          "archive_url": "https://web.archive.org/web/20200215031144id_/http://jgram.org:80/pages/viewOne.php?tagE=nidoto",
+          "archive_timestamp": "20200215031144",
+          "response_sha256": "0bab51250e66a12713e45741308a691c2c1760a05ce6fdd5ce69ae0e393eb0e8"
+        },
+        "expected_title_raw": "二度と [にどと] (nidoto)"
+      },
+      {
+        "id": 1718,
+        "label": "gosinpainaku",
+        "decision": "grammar",
+        "basis": "Honorific negative expression ご心配なく with attributed usage examples.",
+        "evidence": {
+          "source_url": "http://jgram.org:80/pages/viewOne.php?tagE=gosinpainaku",
+          "archive_url": "https://web.archive.org/web/20200215021450id_/http://jgram.org:80/pages/viewOne.php?tagE=gosinpainaku",
+          "archive_timestamp": "20200215021450",
+          "response_sha256": "c9548b051579ea69a8f5acb2cc0248f08942cc5a6f3ff81758f9310ef1f36ab0"
+        },
+        "expected_title_raw": "ご心配なく [ごしんぱいなく] (gosinpainaku)"
+      },
+      {
+        "id": 1724,
+        "label": "teshimaimashita",
+        "decision": "grammar",
+        "basis": "Polite past form of the てしまう construction, with attributed regret/accident examples.",
+        "evidence": {
+          "source_url": "http://jgram.org:80/pages/viewOne.php?tagE=teshimaimashita",
+          "archive_url": "https://web.archive.org/web/20200215024310id_/http://jgram.org:80/pages/viewOne.php?tagE=teshimaimashita",
+          "archive_timestamp": "20200215024310",
+          "response_sha256": "19297cff2995739692668f16fcc3cd3aafaadc605be0e2ae49b0f6e00c6377c8"
+        },
+        "expected_title_raw": "〜てしまいました [〜てしまいました] (teshimaimashita)"
+      },
+      {
+        "id": 1714,
+        "label": "gokensonwo",
+        "decision": "grammar",
+        "basis": "Honorific expression ご謙遜を with attributed usage examples and discussion.",
+        "evidence": {
+          "source_url": "http://jgram.org:80/pages/viewOne.php?tagE=gokensonwo",
+          "archive_url": "https://web.archive.org/web/20200215024921id_/http://jgram.org:80/pages/viewOne.php?tagE=gokensonwo",
+          "archive_timestamp": "20200215024921",
+          "response_sha256": "0a772cd227f371eb4ed46a7f5cd4620c428063c57d9021bb15766ca47323fa7b"
+        },
+        "expected_title_raw": "ご謙遜を [ごけんそんを] (gokensonwo)"
+      },
+      {
+        "id": 1705,
+        "label": "gomottomo",
+        "decision": "grammar",
+        "basis": "Honorific agreement expression ごもっとも with attributed grammatical usage and examples.",
+        "evidence": {
+          "source_url": "http://jgram.org:80/pages/viewOne.php?tagE=gomottomo",
+          "archive_url": "https://web.archive.org/web/20200215024926id_/http://jgram.org:80/pages/viewOne.php?tagE=gomottomo",
+          "archive_timestamp": "20200215024926",
+          "response_sha256": "63b8e67145cc6a80e2732cb348f141a54d9c9331d60bb59e9c3b7e4eda453a76"
+        },
+        "expected_title_raw": "ごもっとも [ごもっとも] (gomottomo)"
+      },
+      {
+        "id": 1733,
+        "label": "ha-3",
+        "decision": "grammar",
+        "basis": "Particle は in mathematical statements, with source citation, examples and grammar discussion.",
+        "evidence": {
+          "source_url": "http://jgram.org:80/pages/viewOne.php?tagE=ha-3",
+          "archive_url": "https://web.archive.org/web/20200215023154id_/http://jgram.org:80/pages/viewOne.php?tagE=ha-3",
+          "archive_timestamp": "20200215023154",
+          "response_sha256": "3735326294d1982ea21667ee6219ef1dece4168167ed8dfcd6deabb1d5d75710"
+        },
+        "expected_title_raw": "は [は] (ha-3)"
+      },
+      {
+        "id": 1409,
+        "label": "ryuu",
+        "decision": "non-grammar",
+        "basis": "Dragon vocabulary/kanji entry; moderator dc explicitly says this site is for grammar, not kanji/dictionary material, and schedules deletion.",
+        "evidence": {
+          "source_url": "http://jgram.org:80/pages/viewOne.php?tagE=ryuu",
+          "archive_url": "https://web.archive.org/web/20200215025657id_/http://jgram.org:80/pages/viewOne.php?tagE=ryuu",
+          "archive_timestamp": "20200215025657",
+          "response_sha256": "c156f80e064249f9d37cda172ebd994ca3d7ef11f82dde814584cd121d674f21"
+        },
+        "expected_title_raw": "龒・龍・竜 ([りゅう] )(ryuu)"
+      },
+      {
+        "id": 1715,
+        "label": "manten",
+        "decision": "non-grammar",
+        "basis": "Bare 満点 vocabulary definition (Full score); no grammatical explanation, notes, examples or discussion.",
+        "evidence": {
+          "source_url": "http://jgram.org:80/pages/viewOne.php?tagE=manten",
+          "archive_url": "https://web.archive.org/web/20200215031008id_/http://jgram.org:80/pages/viewOne.php?tagE=manten",
+          "archive_timestamp": "20200215031008",
+          "response_sha256": "65f5cfde7383df0456549731e76c73b62643cfe273cc1e950bb4ccd156379615"
+        },
+        "expected_title_raw": "満点 [まんてん] (manten)"
+      }
+    ]
+  },
+  "verification": {
+    "tests_passed": 115,
+    "source_audits": {
+      "archive-2015": {
+        "captured_entries": 704,
+        "counts": {
+          "notes": 843,
+          "comments": 3843,
+          "examples": 5537,
+          "relationships": 912,
+          "entries": 704
+        },
+        "parsed_records_verified": true,
+        "export_ready": true,
+        "historical_coverage_complete": false
+      },
+      "archive-data": {
+        "captured_entries": 63,
+        "counts": {
+          "notes": 73,
+          "comments": 248,
+          "examples": 446,
+          "relationships": 68,
+          "entries": 63
+        },
+        "parsed_records_verified": true,
+        "export_ready": true,
+        "historical_coverage_complete": false
+      }
+    },
+    "source_payloads_verified": true,
+    "latest_historical_coverage_complete": false,
+    "raw_and_held_content_excluded_from_git": true,
+    "index_matches_published_sha1": true,
+    "export_qa": "recon/archive-release-qa.json"
+  },
+  "remaining_limits": [
+    "63 backup tutorial pages require section and license review; inspected newer Tae Kim material carries CC BY-NC-SA 2.0.",
+    "1347 latest indexed labels unresolved; some overlap dated observations, are aliases or non-grammar candidates. A dated backup cannot establish final revisions.",
+    "Original contribution timestamps unavailable unless displayed; source defects retain exact byte evidence, without guessed corrections."
+  ],
+  "cross_source_gap_check": {
+    "current_ids_without_released_backup_observation": [
+      {
+        "id": 476,
+        "label": "amari nai",
+        "indexed": true
+      },
+      {
+        "id": 568,
+        "label": "da",
+        "indexed": true
+      },
+      {
+        "id": 663,
+        "label": "そう",
+        "indexed": true
+      },
+      {
+        "id": 714,
+        "label": "dai",
+        "indexed": true
+      },
+      {
+        "id": 779,
+        "label": "beki",
+        "indexed": true
+      },
+      {
+        "id": 856,
+        "label": "darou",
+        "indexed": true
+      },
+      {
+        "id": 882,
+        "label": "au",
+        "indexed": true
+      },
+      {
+        "id": 1154,
+        "label": "hazu",
+        "indexed": true
+      },
+      {
+        "id": 1312,
+        "label": "ageru",
+        "indexed": true
+      },
+      {
+        "id": 1482,
+        "label": "yotei",
+        "indexed": true
+      },
+      {
+        "id": 1485,
+        "label": "bakari-2",
+        "indexed": true
+      },
+      {
+        "id": 1621,
+        "label": "mama",
+        "indexed": true
+      },
+      {
+        "id": 1627,
+        "label": "amari-2",
+        "indexed": true
+      },
+      {
+        "id": 1652,
+        "label": "attoiuma",
+        "indexed": true
+      },
+      {
+        "id": 1788,
+        "label": "kotode",
+        "indexed": true
+      },
+      {
+        "id": 1790,
+        "label": "yasakini",
+        "indexed": true
+      },
+      {
+        "id": 1791,
+        "label": "nikagiri",
+        "indexed": true
+      },
+      {
+        "id": 1792,
+        "label": "toittaranai",
+        "indexed": true
+      },
+      {
+        "id": 1795,
+        "label": "~ageru",
+        "indexed": false
+      },
+      {
+        "id": 1796,
+        "label": "kakeru to",
+        "indexed": true
+      },
+      {
+        "id": 1797,
+        "label": "temade",
+        "indexed": false
+      }
+    ],
+    "recovered_current_ids": [
+      476,
+      714,
+      779,
+      856,
+      882,
+      1154,
+      1312,
+      1482,
+      1485,
+      1621,
+      1627,
+      1652,
+      1788,
+      1790,
+      1791,
+      1792,
+      1796
+    ],
+    "remaining_current_ids_without_released_historical_observation": [
+      568,
+      663,
+      1795,
+      1797
+    ],
+    "current_content_preserved": true,
+    "backup_all_url_variant_check": {
+      "labels": [
+        "~ageru",
+        "temade"
+      ],
+      "numeric_ids": [
+        1795,
+        1797
+      ],
+      "matches": 0,
+      "successful_numeric_ID_detail_URLs_in_entire_index": 0
+    },
+    "held_newer_cases": [
+      {
+        "label": "da",
+        "original_id": 568,
+        "reason": "Historical extraction has warnings; inspect retained record",
+        "capture": {
+          "timestamp": "20200215030503",
+          "original": "http://jgram.org:80/pages/viewOne.php?tagE=da",
+          "mimetype": "text/html",
+          "digest": "2M5KI6XJNCNN6J3RLHERL2JPRXGVQQZG",
+          "label": "da",
+          "archive_url": "https://web.archive.org/web/20200215030503id_/http://jgram.org:80/pages/viewOne.php?tagE=da"
+        },
+        "response_sha256": "ff8ca39deb8c03d45520baec28c1ee0f5bbcf07e07948cbcef104108423af5af",
+        "content_published": false
+      }
+    ],
+    "no_entry_label_evidence": [
+      {
+        "label": "そう",
+        "reason": "Archived JGram explicitly reports no entry for this label",
+        "capture": {
+          "timestamp": "20170718205441",
+          "original": "http://jgram.org/pages/viewOne.php?tagE=%E3%81%9D%E3%81%86",
+          "mimetype": "text/html",
+          "digest": "BFWG4TERGGXHW4D5AWN6R6DN5JDOSVZJ",
+          "label": "そう",
+          "archive_url": "https://web.archive.org/web/20170718205441id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%9D%E3%81%86"
+        },
+        "response_sha256": "b436f07ce66bce6267cef878131df89e0aeb3b49cc7abb2518bc5303a970f821"
+      },
+      {
+        "label": "sou-2",
+        "reason": "Archived JGram explicitly reports no entry for this label",
+        "capture": {
+          "timestamp": "20190822012925",
+          "original": "http://jgram.org/pages/viewOne.php?tagE=sou-2",
+          "mimetype": "text/html",
+          "digest": "HHOGRGZHINW7V5P52X6DAPJ7OLYCCDRK",
+          "label": "sou-2",
+          "archive_url": "https://web.archive.org/web/20190822012925id_/http://jgram.org/pages/viewOne.php?tagE=sou-2"
+        },
+        "response_sha256": "0b5d23c59fa7a06c206e7101089ec3a56e0775a8e0227f41089c66e884e8ed41"
+      }
+    ],
+    "limit": "No-entry responses prove these latest label responses, not absence of earlier or differently named content."
+  }
+}

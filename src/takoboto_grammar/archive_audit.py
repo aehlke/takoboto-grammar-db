@@ -4,6 +4,7 @@ import hashlib
 import json
 import re
 import xml.etree.ElementTree as ET
+from urllib.parse import quote
 from collections import Counter
 from pathlib import Path
 
@@ -11,8 +12,8 @@ from bs4 import BeautifulSoup
 
 from .parser import text, parse_entry
 from .crawl import now
-from .archive_parser import NotGrammar, parse_archive
-from .archive import original_label, allowed_archive_url
+from .archive_parser import NotGrammar, parse_archive, source_soup
+from .archive import original_label, allowed_archive_url, latest_body_equivalent
 from .storage import read_records, read_archive_records, read_archive_feeds, read_archive_state, read_feed_state, record_digest, write_json
 from .archive_feeds import parse_feed
 
@@ -70,7 +71,8 @@ def verify_entry_replay(capture, label):
     if original_label(capture['original']) != label or not allowed_archive_url(capture['archive_url']):
         raise ValueError('Historical source URL does not match label or scope')
     replay = re.fullmatch(r'https://web\.archive\.org/web/(\d{14})(?:id_)?/(.*)', capture['archive_url'])
-    if not replay or replay[1] != capture['timestamp'] or replay[2] != capture['original']:
+    original = quote(capture['original'], safe="/:?=&;%+@!()*,-._~'")
+    if not replay or replay[1] != capture['timestamp'] or replay[2] != original:
         raise ValueError('Historical replay URL, timestamp and original URL disagree')
 
 
@@ -85,10 +87,14 @@ def audit_archive(directory, takoboto=None, record_verification=False):
     membership = [{'id': r['id'], 'response_sha256': r['response_sha256']} for r in current]
     membership_digest = record_digest(membership) if takoboto is not None else None
     inventory = json.loads((root / 'inventory.json').read_text(encoding='utf-8'))
+    if inventory.get('snapshot'):
+        from .archive_dump import verify_dump_inventory
+        verify_dump_inventory(root, inventory)
     records = read_archive_records(root, for_export=False)
     indexed = {item['label'] for item in inventory['entries']}
     latest = {item['label']: item['captures'][0]['timestamp'] for item in inventory['entries'] if item.get('captures')}
     latest_urls = {item['label']: item['captures'][0]['archive_url'] for item in inventory['entries'] if item.get('captures')}
+    indexed_entries = {item['label']: item for item in inventory['entries']}
     report = {'indexed_labels': len(indexed), 'captured_entries': len(records),
         'pending_labels': sorted(indexed - {r['label'] for r in records}),
         'errors': [], 'warnings': [], 'content_assets': [], 'date_metadata': [],
@@ -115,13 +121,17 @@ def audit_archive(directory, takoboto=None, record_verification=False):
             report['warnings'].append({'label': label, 'warning': 'Stored label absent from current inventory'})
         if label in latest and record.get('latest_indexed_timestamp') != latest[label]:
             report['warnings'].append({'label': label, 'warning': 'Stored record has not been checked against the latest indexed capture'})
-        if label in latest and record['archive_timestamp'] != latest[label]:
-            report['warnings'].append({'label': label, 'warning': 'Stored replay is not at the latest indexed timestamp'})
         try:
             body = cached_body(root, record['response_sha256'])
             capture = {'label': label, 'original': record['source_url'], 'archive_url': record['archive_url'],
                        'timestamp': record['archive_timestamp'], 'digest': record.get('archive_digest')}
             verify_entry_replay(capture, label)
+            if inventory.get('snapshot') or record.get('snapshot'):
+                from .archive_dump import verify_dump_record
+                verify_dump_record(root, record, inventory)
+            if label in latest and record['archive_timestamp'] != latest[label]:
+                if not latest_body_equivalent(body, capture, indexed_entries[label]):
+                    report['warnings'].append({'label': label, 'warning': 'Stored replay is not the latest indexed content'})
             expected = parse_archive(body, capture, record['retrieved_at'], eligible_ids)
             if any(warning not in record['warnings'] for warning in expected['warnings']):
                 report['errors'].append({'label': label, 'error': 'Stored record omits source parser warnings'})
@@ -133,7 +143,8 @@ def audit_archive(directory, takoboto=None, record_verification=False):
                 verified_labels.setdefault(label, record['id'])
             if not state or state.get('record_sha256') != record_digest(record):
                 if record_verification:
-                    check_latest_cached_response(root, latest_urls[label], record['response_sha256'], record['archive_url'])
+                    if not inventory.get('snapshot'):
+                        check_latest_cached_response(root, record['archive_url'], record['response_sha256'], record['archive_url'])
                 entry_states.append((label, {'label': label, 'status': 'parsed', 'checked_at': now(),
                     'verification': 'offline-source-audit', 'current_membership_sha256': membership_digest,
                     'latest_indexed_timestamp': latest.get(label), 'eligible_ids': sorted(eligible_ids),
@@ -142,7 +153,7 @@ def audit_archive(directory, takoboto=None, record_verification=False):
         except (OSError, ValueError, KeyError, TypeError) as exc:
             report['errors'].append({'label': label, 'error': str(exc)})
             continue
-        soup = BeautifulSoup(body, 'html.parser')
+        soup, _ = source_soup(body)
         headings = {text(h).strip(' \u00a0:'): h for h in soup.select('.titleSection')}
         categories[record['category'] or 'unclassified; verified current ID'] += 1
         report['warnings'].extend({'label': label, 'warning': w} for w in record['warnings'])
@@ -208,11 +219,11 @@ def audit_archive(directory, takoboto=None, record_verification=False):
         try:
             capture = state['capture']
             verify_entry_replay(capture, label)
+            body = cached_body(root, state['response_sha256'])
             if (state.get('latest_indexed_timestamp') != latest.get(label) or
-                capture['timestamp'] != latest.get(label) or
+                (capture['timestamp'] != latest.get(label) and not latest_body_equivalent(body, capture, indexed_entries[label])) or
                 original_label(capture['original']) != label or not allowed_archive_url(capture['archive_url'])):
                 raise ValueError('Exclusion is not backed by the latest indexed replay')
-            body = cached_body(root, state['response_sha256'])
             try:
                 parse_archive(body, capture, state['retrieved_at'], eligible_ids)
             except NotGrammar:

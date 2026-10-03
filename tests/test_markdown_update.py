@@ -10,6 +10,7 @@ from unittest.mock import patch
 from takoboto_grammar.cli import main
 from takoboto_grammar.markdown import MANIFEST, update_markdown
 from takoboto_grammar.parser import parse_entry
+from takoboto_grammar.archive_parser import parse_archive
 from takoboto_grammar.storage import export_markdown, write_json
 
 FIXTURE = Path(__file__).parent / 'fixtures/entry725.html'
@@ -20,6 +21,19 @@ class MarkdownUpdateTests(unittest.TestCase):
         self.root = Path(tempfile.mkdtemp(prefix='takoboto-markdown-test-')).resolve()
         self.output = self.root / 'markdown'
         self.record = parse_entry(FIXTURE.read_bytes(), 725, 'test')
+
+    def test_empty_historical_contributions_keep_credits_and_source_order(self):
+        capture = {'label': 'ageku', 'original': 'http://jgram.org/pages/viewOne.php?tagE=ageku',
+                   'archive_url': 'https://web.archive.org/web/20200215021200id_/http://jgram.org/pages/viewOne.php?tagE=ageku',
+                   'timestamp': '20200215021200'}
+        record = parse_archive(FIXTURE.with_name('archive-ageku.html').read_bytes(), capture, 'test')
+        record['notes'][0].update(text='', html='', credits_raw='empty-note-author')
+        record['comments'][0].update(text='', html='', credits_raw='empty-comment-author')
+        result = update_markdown([], self.output, [record])
+        page = next((self.output / 'jgram').glob('*.md')).read_text()
+        self.assertIn('empty-note-author', page)
+        self.assertIn('empty-comment-author', page)
+        self.assertEqual(result['pages'], 2)
 
     def test_repeat_is_identical_and_does_not_rewrite_files(self):
         first = update_markdown([self.record], self.output)

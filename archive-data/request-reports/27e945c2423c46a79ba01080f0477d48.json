@@ -1,0 +1,27 @@
+{
+  "run_id": "27e945c2423c46a79ba01080f0477d48",
+  "finished_at": "2026-10-03T17:54:08+00:00",
+  "request_interval_seconds": 5,
+  "burst_size": 3,
+  "burst_pause_seconds": 30,
+  "concurrency": 1,
+  "attempt_count": 2,
+  "attempts": [
+    {
+      "url": "https://web.archive.org/robots.txt",
+      "started_at": "2026-10-03T17:54:01.827+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.222693
+    },
+    {
+      "url": "https://web.archive.org/web/20190822012925id_/http://jgram.org/pages/viewOne.php?tagE=sou-2",
+      "started_at": "2026-10-03T17:54:06.828+00:00",
+      "status": 200,
+      "bytes_read": 7611,
+      "error_type": null,
+      "duration_seconds": 1.222846
+    }
+  ]
+}

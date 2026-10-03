@@ -650,7 +650,7 @@ This export contains 643 entries.
 
 ## Historical JGram observations
 
-This build contains 25 historical source observations and may cover only part of the archive inventory.
+This build contains 767 historical source observations and may cover only part of the archive inventory.
 
 Captures are selected separately per entry; dates below are archive timestamps, not contribution dates.
 
@@ -658,27 +658,769 @@ Captures are selected separately per entry; dates below are archive timestamps, 
 - [ (Verb Groups)](jgram/615-02e902fe8ad0.md) — 20200215030338
 - [〜時 (toki)](jgram/509-044984e11511.md) — 20200215022522
 - [挙げ句 (ageku)](jgram/978-0f33b9cf78d3.md) — 20200215021200
+- [筈 (hazu)](jgram/1154-12eb3b84d694.md) — 20200215021510
+- [と言ったらない (toittaranai)](jgram/1792-17b795c02e40.md) — 20200215024345
+- [(よ)うが, (よ)うと　ようが　ようと ((yo)uga,(yo)uto)](jgram/1745-194b4c8f4daf.md) — 20200919185359
+- [あまり　+　動詞(否定形) (amari nai)](jgram/476-1a55d00bf931.md) — 20200215030403
 - [〜始める (-hajimeru)](jgram/1301-1d2b5f78f72c.md) — 20200215024635
+- [なんとなく (Vaguely)](jgram/1475-26e7cd420c9d.md) — 20200215024701
 - [によって・次第で・いかんで (depend-correspond-group)](jgram/962-2fe59fb0bf54.md) — 20200215023053
+- [それっきり (Sorekkiri)](jgram/1487-306d4241d2ce.md) — 20200215024655
+- [一体 (ittai)](jgram/1708-30bee8f64647.md) — 20200919182006
+- [あっと言う間 (attoiuma)](jgram/1652-336c3d57140e.md) — 20200215022948
+- [未だに (Imada ni)](jgram/1704-37d5f54e960e.md) — 20200215022903
+- [あまり (amari-2)](jgram/1627-40080123e3bd.md) — 20200215022933
 - [そのとき (at-the-time-group)](jgram/1225-41e53bc2f1a4.md) — 20200215021230
+- [〜てしまいました (teshimaimashita)](jgram/1724-49311c1bd85e.md) — 20200215024310
+- [ばかり (bakari-2)](jgram/1485-4939911e922a.md) — 20200215030438
 - [〜に (ni)](jgram/626-4db03a277cfb.md) — 20201111223938
+- [〜だい (dai)](jgram/714-4de6bb4e4a6c.md) — 20200919174730
 - [を問わず・にかかわらず・もかまわず (unrelated-group)](jgram/964-51951807b251.md) — 20200215031852
+- [ことで (kotode)](jgram/1788-55aa11b5afc1.md) — 20200215025236
+- [は (ha-3)](jgram/1733-5b2d59dbde7e.md) — 20200215023154
+- [予定 (yotei)](jgram/1482-5b850a721842.md) — 20200215030142
+- [に限り (nikagiri)](jgram/1791-5bd0ab656b5e.md) — 20200215031159
 - [兼ねて (kanete)](jgram/1355-5d7491fae3ef.md) — 20200215025116
+- [あの (ano)](jgram/1503-5eb59fe89054.md) — 20200215021210
 - [ついでに・を契機に・をきっかけに (simultaneous-actions-group)](jgram/926-612219217520.md) — 20200215024135
+- [合う (au)](jgram/882-632cd2fea71d.md) — 20200215030428
 - [(Verb Groups I) (Verb Groups I)](jgram/610-66ca803512da.md) — 20200216030005
+- [おく (oku)](jgram/1350-6a484467708d.md) — 20200215024045
 - [五段動詞ー特例 (Group 1 Verb Exceptions)](jgram/1393-6b7ea57ce220.md) — 20200215021125
 - [〜が (ga-2)](jgram/725-7365f301fc1f.md) — 20200919182854
 - [ないように (naiyouni)](jgram/1725-7440e56f8b02.md) — 20200215031103
+- [Q~でも (Q~demo)](jgram/1771-7718aa929dff.md) — 20181004182300
+- [だろう (darou)](jgram/856-78c58acb3d73.md) — 20200215021325
+- [てしょうがない; てたまらない (teshouganai; tetamaranai)](jgram/540-8b69bebaac85.md) — 20200215024315
+- [ご謙遜を (gokensonwo)](jgram/1714-8bfe7172e2db.md) — 20200215024921
 - [〜なかったろう (-nakattarou probable negative plain form)](jgram/1784-a6e8fc070da0.md) — 20200215022838
+- [ごもっとも (gomottomo)](jgram/1705-aae1b7d2918e.md) — 20200215024926
 - [から・ので (since/because-group)](jgram/1153-ae76b4273776.md) — 20200215022402
+- [に先立って (Nisakidatte)](jgram/1684-b2044ed6de9f.md) — 20200215021145
+- [次第に (Shidaini)](jgram/1667-b875e9737663.md) — 20200215030328
+- [ご心配なく (gosinpainaku)](jgram/1718-b8dd1021f287.md) — 20200215021450
+- [進行形の動詞＋中で (Gerrund form of Verb + nakade)](jgram/1615-b9cf14da7e45.md) — 20170622031655
 - [〜（で）すら ((de)sura)](jgram/1507-bf6ccff9aba5.md) — 20200215022833
+- [かけると (kakeru to)](jgram/1796-c5954a89414a.md) — 20200919183953
+- [儘 (mama)](jgram/1621-ccb711f092ac.md) — 20200215031003
+- [じゅう／ちゅう (juu/chuu)](jgram/739-cf0240fab0fb.md) — 20200215023339
 - [にかけては (nikaketeha) (nikaketeha)](jgram/414-d46c305cf8af.md) — 20051105103734
+- [二度と (nidoto)](jgram/1726-daaffce70fa8.md) — 20200215031144
 - [よう・そう・らしい・聞いた (looks/seems/heard-group)](jgram/924-db9dce57566e.md) — 20200215025321
+- [上げる (ageru)](jgram/1312-dba59cf258d6.md) — 20200215022928
+- [矢先に (yasakini)](jgram/1790-de5d8057a5e8.md) — 20200215024550
+- [あまり〜（動詞）〜ない (Amari 2)](jgram/1656-de619e7d1904.md) — 20200215022843
 - [かわる (kawaru-group)](jgram/928-dfedec346415.md) — 20200215021726
+- [べき (beki)](jgram/779-ed2e495a5ef6.md) — 20201127012222
 - [ことに〜 (kotoni-group)](jgram/912-f0bdfd43d8af.md) — 20200919182110
 - [すぎる (sugiru)](jgram/1537-f1e7a5a33858.md) — 20200215031616
+- [(よ)うと〜まい, (よ)うが〜まい, ようと〜まい, よう ((yo)uto~mai, (yo)uga~mai)](jgram/1753-f22e5735216e.md) — 20181004180152
 - [ように・とおりに・を中心に・に沿って・をもとにして (basis-of-action-group)](jgram/958-f25511cb4732.md) — 20200215022958
 - [にとって・として・の上で・からいうと・から見ると (viewpoint-group)](jgram/955-ff01ee9226af.md) — 20200215022637
+- [によって (niyotte-2)](jgram/976-c2e8ad958eb6.md) — 20150224225500
+- [下さいませんか (kudasaimasenka)](jgram/1720-646b0a5589cc.md) — 20150224225714
+- [きり (kiri1) (kiri1)](jgram/223-428771b7de77.md) — 20150224225625
+- [〜とあれば (toareba)](jgram/1702-b9cdf8ac96ef.md) — 20150224225950
+- [上は (ueha)](jgram/1155-905da8418a77.md) — 20150224225436
+- [条件形〜ほど (ba~hodo)](jgram/977-8e6c646e0850.md) — 20150224225455
+- [かしら。 (ka shira.)](jgram/1774-0d178aad0af4.md) — 20150225005014
+- [わりに・にしては・向きに (evaluation-group)](jgram/957-b3e6c41f17db.md) — 20150224225729
+- [ほとんど (殆・殆ど) (hotondo)](jgram/1690-58b40f62e8a1.md) — 20150224225721
+- [到底 (toutei)](jgram/1506-d1cfd3f61eb5.md) — 20150224225407
+- [はともかく (hatomokaku)](jgram/971-3816d0efecbc.md) — 20150224225611
+- [ (Verb Groups)](jgram/615-7a86e4bcfb51.md) — 20150225001728
+- [にほかならない (nihokanaranai)](jgram/546-e1eb73216126.md) — 20150224225347
+- [にかけては (nikaketewa)](jgram/1683-24fc6e5bd150.md) — 20150224225614
+- [〜時 (toki)](jgram/509-3c58e7436cb5.md) — 20150224225842
+- [ものですから (monodesukara)](jgram/631-c2d41eea1e17.md) — 20150224225521
+- [より (yori-3)](jgram/1650-e83eeb5f4e52.md) — 20150224225812
+- [上に (ueni)](jgram/1298-266a4a87f580.md) — 20150224225514
+- [安らか (yasuraka)](jgram/1634-846bd12147a1.md) — 20150224225737
+- [一方 (ippou)](jgram/418-eed6aead69bd.md) — 20150224225551
+- [唯でさえ (tadadesae)](jgram/1613-716926458a6f.md) — 20150224225847
+- [て形+ある (て在る・て有る) (tearu)](jgram/784-4c3948b7856d.md) — 20150224225715
+- [い形容詞変化 (I-adjective Conjugation)](jgram/1535-4474b17fde22.md) — 20150225001403
+- [ながら (nagara)](jgram/707-286c92ee3357.md) — 20150224225438
+- [のに (noni)](jgram/552-8bd4bb22138a.md) — 20150224225601
+- [通り (toori)](jgram/1272-60f48f6eb06f.md) — 20150224225456
+- [だからこそ (dakarakoso)](jgram/1494-a25b64bde0c5.md) — 20150224225837
+- [いる (居る) (iru)](jgram/596-a5c818cb76e7.md) — 20150224225231
+- [一方では (ippoudeha)](jgram/419-05dd59664176.md) — 20150224225454
+- [〜堪えない (nitaenai2)](jgram/1756-0e8afa8f1804.md) — 20150224225902
+- [ほかない (hokanai)](jgram/346-5c7b53641f45.md) — 20150224225625
+- [~ぶり (buri)](jgram/1686-02621fc32d2e.md) — 20150224225918
+- [かと思うと (katoomouto-2)](jgram/619-ee8717e5c249.md) — 20150224225618
+- [〜こそ (koso)](jgram/253-86752a1ae63a.md) — 20150224225629
+- [するべき・ほうが良い・しなければならない (should do/better to/ought to/have to)](jgram/1397-e1c0cc3597d5.md) — 20150225005744
+- [〜かな (kana)](jgram/749-cbd03b448ddc.md) — 20150224225759
+- [かけだ (kakeda)](jgram/1736-8a0e2b9ca0af.md) — 20150224225511
+- [くれる (呉れる) (kureru)](jgram/1596-99c75aca0f04.md) — 20150224225731
+- [だけに (dakeni)](jgram/966-8fea2907f554.md) — 20150224225618
+- [ばかり (bakari)](jgram/1502-38d7f00a5833.md) — 20150224225918
+- [くらい〜はない (kurai.....wanai)](jgram/1123-5961f6beff63.md) — 20150224225408
+- [せいぜい (精精) (seizei)](jgram/937-b6b6a706c20d.md) — 20150224225739
+- [ともなると (tomonaruto)](jgram/1703-393b0abfe0b1.md) — 20150224225940
+- [かわりに (kawarini)](jgram/1275-aed6b3f14a83.md) — 20150224225516
+- [〜はさておき (hasateoki)](jgram/880-2a235078fa6e.md) — 20150224225344
+- [であろう (dearou)](jgram/1501-322f8c9e2956.md) — 20150224225719
+- [〜ようがない (youganai)](jgram/312-cc1c75b82501.md) — 20150224225418
+- [其の上 (sonoue)](jgram/1711-2bdb4018ba45.md) — 20150224225800
+- [の余り (noamari)](jgram/1369-4e466e233f9e.md) — 20150224225345
+- [挙げ句 (ageku)](jgram/978-f65d09356eb7.md) — 20150224225416
+- [までもない (mademonai)](jgram/1668-55efa72ed447.md) — 20150224225756
+- [ことになる (koto ni naru)](jgram/1732-bc760ae288c2.md) — 20150225004611
+- [のみ (nomi)](jgram/1381-1eb3b788b187.md) — 20150224225349
+- [精一杯 (seiippai)](jgram/796-2ec9debc5d69.md) — 20150224225830
+- [一方だ (ippouda)](jgram/220-5c1a331c8842.md) — 20150224225609
+- [ように〜て (youni-te)](jgram/760-0e78dc3c5039.md) — 20150224225357
+- [〜の (no-3)](jgram/737-1c0f2518a17c.md) — 20150224225848
+- [意向形と思う (toomou)](jgram/1523-42c47d497a1d.md) — 20150224225821
+- [もさることながら (も然る事乍ら) (mosarukotonagara)](jgram/1547-48294249ceb4.md) — 20150224225952
+- [丸で (marude)](jgram/500-b598f71f870b.md) — 20150224225443
+- [と伝えていただけませんか (totsutaeteitadakemasenka)](jgram/1598-7aadcbf1ad19.md) — 20150224225806
+- [については (nitsuiteha)](jgram/562-849330347769.md) — 20150224225428
+- [ことだから (kotodakara)](jgram/246-21e3c1ae5395.md) — 20150224225630
+- [もしかして (mosikasite)](jgram/1722-55365eaf3090.md) — 20150224225703
+- [がする (ga suru)](jgram/556-d9f765543ba7.md) — 20150225005708
+- [今さら〜たところで (imasara-tatokorode)](jgram/1089-e338e4b7ce68.md) — 20150224225943
+- [てやがる (teyagaru)](jgram/1689-fcf0c8b92045.md) — 20150224225519
+- [ようではないか (youdehanaika-2)](jgram/1267-3cdf5200f2ae.md) — 20150224225354
+- [に相当する (nisoutousuru)](jgram/983-b80812da8340.md) — 20150224225722
+- [〜っけ (kke)](jgram/1276-a0658eaa5d85.md) — 20150224225536
+- [方が (houga)](jgram/786-137c839bbdc2.md) — 20150224225822
+- [何 (nani)](jgram/629-ba8982832638.md) — 20150224225241
+- [というもの (toiumono)](jgram/403-4d9a47f06636.md) — 20150224225351
+- [なりに (narini)](jgram/537-c7ca957ece1f.md) — 20150224225847
+- [〜でなくてなんだろう (denakute-nandarou)](jgram/1367-ce821234adcf.md) — 20150224225714
+- [かどうか (kadouka)](jgram/893-7d52527dd06f.md) — 20150224225740
+- [どちらかといえば (dochirakatoieba)](jgram/1477-e70a5821ffe5.md) — 20150224225825
+- [やすい (yasui)](jgram/1645-af4d8b2a77a8.md) — 20150224225907
+- [〜尽くめ (zukume)](jgram/1513-560e50acea9f.md) — 20150224225929
+- [〜に (ni-2)](jgram/659-ef0fe63d17a3.md) — 20150224225226
+- [ごとき, ごとく, ごとし (gotoki,gotoku,gotoshi)](jgram/1511-fbdb0dca58d1.md) — 20150224230115
+- [しか (shika)](jgram/1199-89967ab137aa.md) — 20150224225358
+- [もとい (motoi)](jgram/1587-e647d803f79d.md) — 20150224225903
+- [(よ)うが, (よ)うと　ようが　ようと ((yo)uga,(yo)uto)](jgram/1745-c04aee2c88f4.md) — 20150224234449
+- [〜をよそに (を余所に) (woyosoni)](jgram/1525-5e2575c30a8a.md) — 20150224225905
+- [~出す (verb stem + dasu/dashita)](jgram/1728-f17cf554bada.md) — 20150302045127
+- [〜まい (mai-2)](jgram/425-306cd0246a3c.md) — 20150224225539
+- [〜にたえる (nitaeru)](jgram/1328-fd71037fabfb.md) — 20150224225816
+- [有る (aru)](jgram/935-a5eac4446b67.md) — 20150224225231
+- [〜ず (zu, zuni)](jgram/1172-3492c8c42af5.md) — 20150225002621
+- [どうも (doumo)](jgram/994-90ad3d5c5fd8.md) — 20150224225826
+- [ならいざ知らず (naraizashirazu)](jgram/1551-6e1e8e31b418.md) — 20150224225957
+- [から見ると (karamiruto)](jgram/1271-36886d73fda3.md) — 20150224225502
+- [〜次第で (shidaide)](jgram/260-9b995612f7ea.md) — 20150224225519
+- [きっかけに (kikkakeni)](jgram/901-64682d75c15d.md) — 20150224225506
+- [まさか (masaka)](jgram/844-05ed4b2fb47a.md) — 20150224225702
+- [やまない (止ま無い・已ま無い) (yamanai)](jgram/1256-c50e9dfd9e0a.md) — 20150224225940
+- [にもかかわらず (nimokakawarazu)](jgram/113-40703a110e06.md) — 20150224225623
+- [た形ところで (tatokorode)](jgram/1528-b34b1238bf78.md) — 20150224225427
+- [〜始める (-hajimeru)](jgram/1301-3b5fae199d8b.md) — 20150224225230
+- [と言えば (toieba)](jgram/1712-cda44b3af378.md) — 20150224225738
+- [〜にしては (nishitewa)](jgram/1289-b74667f2069c.md) — 20150224225405
+- [ものだ (monoda-2)](jgram/482-4704e685b371.md) — 20150224225604
+- [くせに (kuseni)](jgram/112-8d6c6fa396f9.md) — 20150224225623
+- [どうやら (douyara)](jgram/992-909ca5408ceb.md) — 20150224225940
+- [わけには　いかない (wakeniha ikanai)](jgram/1555-fdfc9698152e.md) — 20150225003245
+- [みたい (mitai)](jgram/633-f9b7ef644321.md) — 20150224225927
+- [として (toshite2)](jgram/1597-66d499c20aad.md) — 20150224225923
+- [youninaru (become, became, becoming)](jgram/1505-5d3e6ef46f53.md) — 20150225005748
+- [よりもさらに (yorimosarani)](jgram/1592-7a3880f19051.md) — 20150224225354
+- [さながら (sanagara)](jgram/1529-e3fb8cb8d4ee.md) — 20150224225948
+- [に あたらない (ni ataranai)](jgram/1323-f004baed2e27.md) — 20150225004848
+- [邪魔する (butting in)](jgram/1386-59d56821fc96.md) — 20150225003837
+- [〜をもって (を以て) (womotte2)](jgram/1757-de807212f815.md) — 20150224225841
+- [ところを (tokorowo)](jgram/1744-35e0e17f8884.md) — 20150224225715
+- [〜か (ka-2)](jgram/693-e818f5907271.md) — 20150224225954
+- [だらけ (darake)](jgram/711-6f903a94a71c.md) — 20150224225437
+- [致します (itashimasu)](jgram/1139-eb4b0f80e2f3.md) — 20150224225403
+- [なんとなく (Vaguely)](jgram/1475-00ebac41bd5e.md) — 20150224225831
+- [や否や (ya ina ya)](jgram/1518-27ff83f31495.md) — 20150225005328
+- [割りに(は) (warini(wa))](jgram/1764-f66998e0bfc4.md) — 20150224232307
+- [致す (itasu)](jgram/1143-506667655a55.md) — 20150224225913
+- [ないまでも (naimademo)](jgram/1748-9ef6a1dbeb00.md) — 20150224225719
+- [かと思うと (katoomouto)](jgram/293-8b904f1acaf0.md) — 20150224225435
+- [でも (demo)](jgram/726-4785f1455ba6.md) — 20150224225240
+- [〜をぬきにして・はぬきにして (wo/wa nuki ni shite)](jgram/1591-221072660e01.md) — 20150225002634
+- [〜て (te)](jgram/609-e4f704aa0b0e.md) — 20150224225809
+- [掛かる (kakaru)](jgram/1664-f9b733dbb7b9.md) — 20150224225425
+- [色々 (iroiro)](jgram/1035-665a24c18fb4.md) — 20150224225229
+- [も〜ば〜も (mo-ba-mo)](jgram/1112-dbd8f6c664f1.md) — 20150224225426
+- [ふと (futo)](jgram/946-1ebed0921db6.md) — 20150224225729
+- [につき (nitsuki)](jgram/138-14cf305c3616.md) — 20150224225519
+- [これ(此・是・之・惟)、それ(其), あれ(彼) (kore, sore, are)](jgram/580-ece0c3c70c3b.md) — 20150225001629
+- [ものを (monowo)](jgram/1524-0818b837b72f.md) — 20150224225743
+- [に過ぎない (nisuginai)](jgram/144-1517e7c6bb2c.md) — 20150224225501
+- [によって・次第で・いかんで (depend-correspond-group)](jgram/962-87a17cd0fb32.md) — 20150224225605
+- [つもり (積もり・積り) (tsumori)](jgram/1483-603137b037fc.md) — 20150224225233
+- [わりに (warini)](jgram/899-54c09b8fac80.md) — 20150224225420
+- [ってば (tte ba)](jgram/1516-565ff7f08e03.md) — 20150225005011
+- [なくてもすむ (nakutemosumu)](jgram/1673-8ff8d34329bf.md) — 20150224225825
+- [それっきり (Sorekkiri)](jgram/1487-ce138b14a3ee.md) — 20150224225715
+- [〜は愚か・〜は疎か (haoroka)](jgram/1339-3aa790b667ef.md) — 20150224225933
+- [はっちゃける (hacchakeru)](jgram/1677-0c1f6e246bd8.md) — 20150224225721
+- [げ (ge)](jgram/669-d2a3d30042b6.md) — 20150224225459
+- [一体 (ittai)](jgram/1708-44c6555201a5.md) — 20150224225708
+- [〜からして (rashite)](jgram/1566-dfae274a4ac7.md) — 20150224225603
+- [くらい、ぐらい (位) (kurai, gurai)](jgram/1595-900f51d91eaf.md) — 20150225005406
+- [て形+みる (て見る) (temiru)](jgram/1559-cde61fc04011.md) — 20150224225807
+- [一息 (hitoiki)](jgram/1644-39a7bdd2fba1.md) — 20150224225532
+- [ように言う (youniiu)](jgram/759-0b84317a3ce6.md) — 20150224225743
+- [かのようだ (kanoyouda)](jgram/1316-39b11a59c1ad.md) — 20150224225507
+- [むしろ (mushiro)](jgram/842-f465662eea32.md) — 20150224225625
+- [-方 (kata)](jgram/1716-4d137fefe70c.md) — 20150224225702
+- [〜ひいては (hiitewa)](jgram/1681-79d1d0582ed5.md) — 20150224225956
+- [未だ (Imada)](jgram/1624-17c2eee1ae5c.md) — 20150225014731
+- [も〜ば (moba)](jgram/430-08d35265fcf3.md) — 20150224225524
+- [ところに、ところへ、ところを (tokoroni, tokorohe, tokorowo)](jgram/1162-0f14a0b5a139.md) — 20150225003231
+- [ならでは (naradeha)](jgram/1283-a5bca493e362.md) — 20150224225814
+- [から〜にかけて (kara-nikakete)](jgram/169-2dc56b60bda2.md) — 20150224225835
+- [うちに (uchini-2)](jgram/363-8052178295c7.md) — 20150224225458
+- [ようにする (youni-suru)](jgram/761-4e53573e8195.md) — 20150224225417
+- [〜をもって (を以て) (womotte1)](jgram/1492-ad935c8410f8.md) — 20150224225745
+- [なり (nari)](jgram/1526-578990fb6536.md) — 20150224225846
+- [〜へ (he)](jgram/778-7ca7cfda7d33.md) — 20150224225245
+- [〜のような (〜の様な) (~ no you na)](jgram/1768-71658d830091.md) — 20150224225736
+- [未だに (Imada ni)](jgram/1704-eaf009c242a8.md) — 20150225004537
+- [〜べからざる (bekarazaru)](jgram/1343-b00330591474.md) — 20150224225922
+- [~たっけ (takke)](jgram/1710-e56c6b1079f4.md) — 20150224225736
+- [〜といい〜といい (toii~toii)](jgram/1751-5cde348f95de.md) — 20150224225747
+- [における・おいて (niokeru)](jgram/970-604462152014.md) — 20150224225629
+- [どうしても (doushitemo)](jgram/1776-47d62ce91984.md) — 20150224225930
+- [かい。 (kai.)](jgram/1773-298d02874472.md) — 20150224225841
+- [ことになる (kotoninaru)](jgram/913-8503c787ece6.md) — 20150224225407
+- [せっかく (sekkaku)](jgram/852-3e8c3a872b8e.md) — 20150224225822
+- [御 ((go,o,mi,on))](jgram/630-6180aed8a0f8.md) — 20150224230118
+- [〜な (na)](jgram/638-85f1702b988e.md) — 20150224225810
+- [どうせ (douse)](jgram/1175-ce8d51549585.md) — 20150224225756
+- [に伴って (nitomonatte)](jgram/645-2e261b40c718.md) — 20150224225512
+- [貰う (morau)](jgram/846-37a382705767.md) — 20150224225822
+- [のことだから (nokotodakara)](jgram/1489-025665777678.md) — 20150224225551
+- [~ず もがな (zumogana)](jgram/750-a902e2dffaf2.md) — 20150224225927
+- [〜か (ka)](jgram/775-c29f1f6695ae.md) — 20150224225238
+- [(kononinaru) (kononinaru)](jgram/1384-bb1fffaefc32.md) — 20150224225554
+- [かけだ・かけの・かける (kakeda; kakeno; kakeru)](jgram/1210-bab75d9014b7.md) — 20150225003507
+- [に等しい (nihitoshii)](jgram/1474-8f26d76fed8f.md) — 20150224230039
+- [前に (maeni)](jgram/523-7ee104df6902.md) — 20150224225905
+- [〜ものの (monono)](jgram/1178-7d63415c410d.md) — 20150224225409
+- [〜ものがある (monogaaru)](jgram/372-bded7d5ce5ba.md) — 20150224225518
+- [うちに (uchini)](jgram/1131-212e3eb6b690.md) — 20150224225424
+- [は言うまでもなく (haiumademonaku)](jgram/1498-b7d79574f39a.md) — 20150224225828
+- [積もりだった (tsumoridatta)](jgram/1632-ba64c7ad6b73.md) — 20150224225853
+- [そのとき (at-the-time-group)](jgram/1225-ca0086d392cd.md) — 20150224225457
+- [たら (tara)](jgram/729-7cf5f641e5b8.md) — 20150224225830
+- [とは限らない (tohakagiranai)](jgram/516-df63db9cfe23.md) — 20150224225445
+- [にしろ; にせ(も)よ; にしても (nishiro,niseyo,nishitemo-2)](jgram/1628-fa2c2a0dd5f6.md) — 20150224232513
+- [なくして (nakushite)](jgram/1281-7961e2088ae6.md) — 20150224225816
+- [〜が最後 (gasaigo)](jgram/1241-543f20acd5f7.md) — 20150224225802
+- [はかどる (捗る) (hakadoru)](jgram/1262-0c2adf15c613.md) — 20150224225748
+- [故に, 故の (yueni)](jgram/1743-486632191f60.md) — 20150224225957
+- [ろくに〜ない (rokuni)](jgram/1775-86ba0e206d89.md) — 20150224225604
+- [に於いて (nioite)](jgram/527-25cfcee8cdec.md) — 20150224225407
+- [て初めて (tehajimete)](jgram/538-9a3e8ea9625c.md) — 20150224225856
+- [ぼんやり (bonyari)](jgram/1666-3c2ac16a0e26.md) — 20150224225452
+- [上で (joude)](jgram/675-8d0870a27ac7.md) — 20150224225534
+- [ただ〜のみならず (tada~nominarazu)](jgram/1747-d5b7776d89da.md) — 20150224225901
+- [わざとらしい (pretending)](jgram/1657-3e8f18e0d6af.md) — 20150224225812
+- [そうすると (sousuruto)](jgram/1407-25cd1127f8ff.md) — 20150224225755
+- [たとたん (tatotan)](jgram/1642-790b726e392d.md) — 20150224225419
+- [〜中に、〜上に、〜下に、など (naka, ue, shita, etc.)](jgram/1517-ee58a158011f.md) — 20150225004642
+- [〜てしまいました (teshimaimashita)](jgram/1724-eb1458e1cca0.md) — 20150224225949
+- [くらい (kurai)](jgram/57-753e7185ddd9.md) — 20150224225611
+- [少し (sukoshi)](jgram/723-47e3fbeb4760.md) — 20150224225228
+- [たび、たびに (tabi, tabi ni)](jgram/1777-8e39dc048638.md) — 20150225003756
+- [〜ものだから (monodakara)](jgram/1163-e5cb314a23c1.md) — 20150224225631
+- [未だ (imada)](jgram/1624-22f40bde44a8.md) — 20150224225934
+- [上 (jou)](jgram/674-1ef925141a77.md) — 20150224225550
+- [基本的な　日本語　文法 (Basic Japanese Grammar)](jgram/606-f5f4a6396298.md) — 20150225001645
+- [らしい (rashii)](jgram/854-d14ce1b6d717.md) — 20150224225902
+- [〜に (ni)](jgram/626-baecff15d24b.md) — 20150224230023
+- [恐れがある (osoregaaru)](jgram/563-f65c0846a216.md) — 20150224225440
+- [敬語どうし (Respectful Verbs I)](jgram/1194-2cae22545c90.md) — 20150225001415
+- [やむをえない (已むを得無い) (yamuwoenai)](jgram/1609-42f1ecc5c857.md) — 20150224225659
+- [もので (monode)](jgram/416-d8e077f40c07.md) — 20150224225538
+- [訳 (wake)](jgram/781-c66ecc8239fd.md) — 20150224225900
+- [ほど-2 (hodo-2)](jgram/1760-db02d1522e2c.md) — 20150224225840
+- [を問わず・にかかわらず・もかまわず (unrelated-group)](jgram/964-809054fb0a28.md) — 20150224225606
+- [て形 (Te Form of Verbs)](jgram/1765-cc4c1033617c.md) — 20150225001457
+- [〜ずにはいられない (zunihairarenai)](jgram/1315-24d43018aa05.md) — 20150224225620
+- [新規サイトコメントを教えて！ (newSiteFB) (newSiteFB)](jgram/1480-759ce4bc438c.md) — 20150224225140
+- [を契機に (okeikini)](jgram/918-541075013bef.md) — 20150224225413
+- [て形+いる (て居る) (teiru)](jgram/783-61fcf599a7ef.md) — 20150224225803
+- [である (dearu)](jgram/733-973456782c8a.md) — 20150224231326
+- [みたいな (mitai na)](jgram/1767-b846c0a5ec8b.md) — 20150225001751
+- [ので (node)](jgram/1217-230d5c90b787.md) — 20150224225233
+- [ましてや (mashite ya)](jgram/1520-7c21d732708c.md) — 20150225004356
+- [はもちろん (hamochiron)](jgram/1261-1e5335133531.md) — 20150224225410
+- [風 (fuu)](jgram/634-36a47d5dc9d3.md) — 20150224225552
+- [にきまっている (nikimatteiru)](jgram/275-102d4bb23a2b.md) — 20150224225454
+- [でなくては (denakuteha)](jgram/1484-338e8dcdfe86.md) — 20150224225819
+- [通じて (tsuujite)](jgram/386-846c035197ee.md) — 20150224225504
+- [てならない (tenaranai)](jgram/319-2ced4da46343.md) — 20150224225406
+- [からいうと (karaiuto)](jgram/1270-2765e1e7634d.md) — 20150224225414
+- [と共に (totomoni)](jgram/513-8c396a57486a.md) — 20150224225810
+- [を通して (wo tooshite)](jgram/1679-f504fb9dbf4f.md) — 20150225004142
+- [とばかりに (tobakarini)](jgram/1755-488ae413cb9d.md) — 20150224225836
+- [は (ha-3)](jgram/1733-4713c8336e07.md) — 20150224225937
+- [代わりに (kawarini-2)](jgram/933-490f4b648c25.md) — 20150302045115
+- [として (toshite)](jgram/585-6647a5b39553.md) — 20150224225359
+- [兼ねて (kanete)](jgram/1355-9a1cf8d17108.md) — 20150224225701
+- [ないことには (naikotoniha)](jgram/239-51e9e3ceecb4.md) — 20150224225434
+- [掛ける　２ (kakeru 2)](jgram/1663-2ebdfcb6befd.md) — 20150225003625
+- [染まる (somaru)](jgram/1522-2987267ebdc3.md) — 20150224225954
+- [あの (ano)](jgram/1503-5e4fcc1f3a01.md) — 20150224225239
+- [て形からでないと; て形からでなければ (tekaradenaito; tekaradenakereba)](jgram/317-39d8a74080d1.md) — 20150225002520
+- [ないで (naide)](jgram/1619-4fa0e63bd37d.md) — 20150224225243
+- [~としたところで, ~としたって,  ~にしたところで (toshitatokorode toshitatte nishitatokorode)](jgram/1693-a127e3a9871e.md) — 20150302045233
+- [〜ては (teha)](jgram/721-f3da71635dcf.md) — 20150224225515
+- [ないではいられない (naidehairarenai)](jgram/535-d5d4f17da033.md) — 20150224225354
+- [たび、たびに (tabi, tabini)](jgram/644-65d1fb37ebdc.md) — 20150225003448
+- [うちに (uchini-3)](jgram/1761-69f9fec8fb8b.md) — 20150224225421
+- [ついでに・を契機に・をきっかけに (simultaneous-actions-group)](jgram/926-9ecd9fe315a4.md) — 20150224225403
+- [より (yori-2)](jgram/788-1819fd0c7cfe.md) — 20150224225738
+- [を聞いた (wokiita)](jgram/1138-ef6f5e4c97f6.md) — 20150224225720
+- [ならともかく (naratomokaku)](jgram/1554-485ee44a172c.md) — 20150224225803
+- [せいにする (seinisuru)](jgram/1563-2c5b18c8dd5c.md) — 20150224225451
+- [かたがた(旁) (katagata)](jgram/1277-e6773bec37c8.md) — 20150224225846
+- [なる (naru)](jgram/640-68948a4d1947.md) — 20150224225747
+- [大きい (i-adjectives)](jgram/1534-4009174508d1.md) — 20150224225244
+- [に反して (nihanshite)](jgram/100-851192723bd4.md) — 20150224225755
+- [お茶を濁す (otya wo nigosu)](jgram/1604-e4b2d8f0155a.md) — 20150225004451
+- [〜程 (hodo)](jgram/307-d1cb451ce307.md) — 20150224225506
+- [がち (gachi)](jgram/1238-f6ae838aa45d.md) — 20150224225711
+- [ようもない (youmonai)](jgram/1553-12b6cc7156a1.md) — 20150224225547
+- [より (yori)](jgram/789-67a84997194e.md) — 20150224225734
+- [からすると (karasuruto)](jgram/614-ae31595d0066.md) — 20150224225408
+- [〜と (to)](jgram/1368-5ca2970d40d6.md) — 20150224225746
+- [ようになる (youninaru)](jgram/1504-ba15249a3fe1.md) — 20150224225757
+- [(Verb Groups I) (Verb Groups I)](jgram/610-d35043f8225e.md) — 20150225001538
+- [旨 (mune)](jgram/1669-d7f3204018db.md) — 20150224225938
+- [〜べく (beku)](jgram/1243-98ff11b2f5a3.md) — 20150224225840
+- [に対して (nitaishite)](jgram/522-2b634ec77a17.md) — 20150224225456
+- [並みに (namini)](jgram/1682-d2bcd11ca39e.md) — 20150224225920
+- [掛かる　２ (kakaru 2)](jgram/1665-7d7f14a49f6f.md) — 20150225003259
+- [どうぞ (douzo)](jgram/1717-cb8e50e4731b.md) — 20150224225906
+- [余り (amari)](jgram/1660-fb342d8df116.md) — 20150224225616
+- [かねない (kanenai)](jgram/672-7b11285a9cbb.md) — 20150224225437
+- [〜ものなら (mononara)](jgram/310-b9256cdf2d08.md) — 20150224225455
+- [おく (oku)](jgram/1350-f301223ebe03.md) — 20150224225456
+- [気が付いた (kigatsuita)](jgram/382-f4f66028de67.md) — 20150224225950
+- [〜を限りに (wo kagiri ni)](jgram/1641-e0dc96199e1c.md) — 20150225004718
+- [しかし (然し・併し) (shikashi)](jgram/727-0f86e252de08.md) — 20150224225236
+- [ぬく (nuku)](jgram/309-16dc131bface.md) — 20150224225551
+- [五段動詞ー特例 (Group 1 Verb Exceptions)](jgram/1393-1ab1dbf80e60.md) — 20150225004145
+- [いかなる〜でも (如何なる〜でも) (ikanaru-demo)](jgram/1096-24918facdbda.md) — 20150224225856
+- [あだ名 (綽名・渾名)、ニックネーム (Adana, Nikkuneemu)](jgram/1700-72df847e7521.md) — 20150225001514
+- [であろうと (dearou to)](jgram/1361-c45da75e55d7.md) — 20150225003345
+- [居られない (irarenai)](jgram/1608-34f358a1375a.md) — 20150224225914
+- [それに (soreni)](jgram/1637-0270454f8c45.md) — 20150224225712
+- [に応えて (nikotaete)](jgram/1188-63341e897d27.md) — 20150224225549
+- [あるまじき (arumajiki)](jgram/1766-3ada484e2422.md) — 20150224225956
+- [おかげで (okagede)](jgram/55-f36e1d41820c.md) — 20150224225345
+- [というより (toiuyori)](jgram/960-413ecf9ccd39.md) — 20150224225432
+- [〜末に (sueni)](jgram/824-42f48ee139da.md) — 20150224225547
+- [そばから, 傍から (sobakara)](jgram/1691-ba086d12f09c.md) — 20150224225704
+- [をめぐって (womegutte)](jgram/1306-aea964fffdd2.md) — 20150224225538
+- [あまりの〜に (amarino ~ ni)](jgram/1630-ba85c328a0df.md) — 20150224225932
+- [にする (nisuru-2)](jgram/649-b23c63252ce9.md) — 20150224225933
+- [なり (nari2)](jgram/1546-1ad377982de4.md) — 20150224225919
+- [からして (karashite- 2)](jgram/1778-3329e12e1a1b.md) — 20150225004324
+- [頂きます (itadakimasu)](jgram/1207-1a9b3d8ee592.md) — 20150224225547
+- [ではあるまいし (dehaarumaishi)](jgram/1739-6dbe33093761.md) — 20150224225831
+- [〜が (ga-2)](jgram/725-99759182fa6b.md) — 20150224225242
+- [〜ことに　「は」 (kotoni)](jgram/341-de44df9b7ef9.md) — 20150224225349
+- [に限らず (nikagirazu)](jgram/380-694bb6458129.md) — 20150224225436
+- [其れが (sorega)](jgram/1488-25ecc6206488.md) — 20150224225400
+- [ないように (naiyouni)](jgram/1725-ce434fa59149.md) — 20150224225820
+- [に違いない (nichigainai)](jgram/1552-2e96fb368eeb.md) — 20150224225347
+- [辛うじて (karoujite)](jgram/984-4e16bf4f2bf8.md) — 20150224225949
+- [たものだ (tamonoda)](jgram/1550-61a181c666a4.md) — 20150224225453
+- [する必要が　( するひつようが ) (suru hitsuyou ga)](jgram/1424-40e9ce4b5b5f.md) — 20150225004415
+- [〜も (mo-2)](jgram/622-cdd34a3eeabf.md) — 20150224225236
+- [あっての (atteno)](jgram/1214-0979d6656414.md) — 20150224225935
+- [にしろ; にせ(も)よ; にしても (nishiro,niseyo,nishitemo)](jgram/1235-15cd5ea7a241.md) — 20150224230105
+- [にとっての (nitotteno)](jgram/415-dcaa4ccf0573.md) — 20150224225400
+- [〜が早いか (gahayaika)](jgram/1366-d7b86aae4a78.md) — 20150224225725
+- [〜としても (toshitemo)](jgram/410-02db7961cae6.md) — 20150224225345
+- [Q~でも (Q~demo)](jgram/1771-ec2f1b0bd95f.md) — 20150224225954
+- [やっぱり（やはり） (yappari, yahari)](jgram/1107-0639b361a68b.md) — 20150225003902
+- [為 (tame)](jgram/1130-b1f5e21facc9.md) — 20150224225859
+- [のなさ (nonasa)](jgram/1785-3019b500cab4.md) — 20150224225828
+- [〜つ〜つ (tsu~tsu)](jgram/1749-2554f10b0265.md) — 20150224225914
+- [ことになっている (kotoninatteiru)](jgram/793-24c258bba770.md) — 20150224225545
+- [に関わる (nikakawaru)](jgram/1255-5e5f235b2ab0.md) — 20150224225808
+- [をはじめ (wohajime)](jgram/890-57027c6f189b.md) — 20150224225353
+- [〜たい (verb stem + tai)](jgram/1538-6dede388e611.md) — 20150224225246
+- [〜であれ〜であれ (deare~deare)](jgram/1750-0577465b593e.md) — 20150224225959
+- [〜ことから (kotokara)](jgram/1320-b60979250198.md) — 20150224225404
+- [授受 (favor, favour)](jgram/1430-a8c91152abce.md) — 20150225005452
+- [かどうかのうちに (kadoukanouchini)](jgram/816-db04fea41bb5.md) — 20150224225522
+- [に際して (nisaishite)](jgram/508-9ff61b8758f0.md) — 20150224225526
+- [から (kara-2)](jgram/1269-05d524460270.md) — 20150224225226
+- [やっと (yatto)](jgram/1586-7deb989eefa1.md) — 20150224225717
+- [と いいですね　/　いいんですが ((short present) + to (ii desu ne / iin desu ga))](jgram/1782-db9ecf97ff05.md) — 20150224225710
+- [〜にしても (nishitemo)](jgram/990-a78fc49bdcd1.md) — 20150224225348
+- [〜極まる (kiwamaru)](jgram/1291-38ed0e67c1ea.md) — 20150224225513
+- [みせる (miseru)](jgram/533-46da1e8399ca.md) — 20150224225724
+- [気になる (kininaru)](jgram/1639-c3a5e706eb56.md) — 20150224225740
+- [ところで (所で・処で) (tokoro de)](jgram/868-33db9d4eaff3.md) — 20150225005855
+- [〜からこそ (karakoso-2)](jgram/1541-e9dae61f0123.md) — 20150224225425
+- [得る (eru)](jgram/478-31065b045a73.md) — 20150224225555
+- [〜の (no-2)](jgram/641-b2cdb9acb11d.md) — 20150224225921
+- [〜につけ (nitsuke)](jgram/480-b32a399126a7.md) — 20150224225537
+- [兎も角 (tomokaku)](jgram/1697-f49c55854be5.md) — 20150224225430
+- [ということですね (と云う事ですね) (toiukotodesune)](jgram/1734-228ad8a4c518.md) — 20150224225745
+- [ものだ (monoda)](jgram/699-95f76aff1688.md) — 20150224225500
+- [〜なのに (nanoni)](jgram/1493-d4401091aa4d.md) — 20150224225936
+- [なさい (nasai)](jgram/658-7665222b4eb5.md) — 20150224225916
+- [〜に比べて (nikurabete)](jgram/1300-e2e2c17e6764.md) — 20150224225835
+- [〜を (wo-2)](jgram/766-0b0c7a6ff19c.md) — 20150224225739
+- [今ごろになって ~も (imagoroninatte)](jgram/1167-cdd9fc999a66.md) — 20150224225747
+- [ことはない (koto ha nai)](jgram/366-dc3809e123a0.md) — 20150225004001
+- [〜っぱなし (〜っ放し) (ppanashi)](jgram/1515-fff98db54c7e.md) — 20150224225813
+- [〜際 (sai)](jgram/256-e7d824b058a9.md) — 20150224225541
+- [ながらに (nagarani)](jgram/1279-5888814f07d8.md) — 20150224225752
+- [まみれ　(塗れ） (mamire)](jgram/1252-53a4ae4063ca.md) — 20150224225817
+- [en (em)](jgram/1672-42d601eb603d.md) — 20150224225726
+- [せねばならない (seneba naranai)](jgram/1519-97e245fe697f.md) — 20150225005547
+- [条件形 (eba)](jgram/732-06269da97891.md) — 20150224225737
+- [で・に・前 (de, ni, mae)](jgram/1387-6b97ee343852.md) — 20150225005738
+- [〜は (ha)](jgram/753-c08e55dcd2e3.md) — 20150224225225
+- [みせる (miseru-2)](jgram/536-1bfafb165aa5.md) — 20150224225530
+- [切る (kiru)](jgram/859-b015b46b3792.md) — 20150224225451
+- [〜であれ (deare)](jgram/1245-c0e38ea5436c.md) — 20150224225853
+- [〜ことか (kotoka)](jgram/244-64f0e4985360.md) — 20150224225452
+- [〜わ (wa)](jgram/776-d1905c60b30e.md) — 20150224225804
+- [の極み (nokiwami)](jgram/1495-a5d6d71c740a.md) — 20150224225848
+- [向けに (mukeni)](jgram/1701-6c6cd710bed6.md) — 20150224225924
+- [がる (garu)](jgram/1170-052699a32a79.md) — 20150224225946
+- [と相まって (toaimatte)](jgram/1746-ecae0480ee22.md) — 20150224225959
+- [〜反面 (hanmen)](jgram/1481-518c58464eba.md) — 20150224225446
+- [事無く (kotonaku)](jgram/247-a89a0b9a3c85.md) — 20150224225356
+- [〜ともなく,〜ともななしに (tomonaku;tomonashini)](jgram/1496-12a5f9207b95.md) — 20150224230108
+- [まるで (marude-2)](jgram/1527-faa197145267.md) — 20150224225534
+- [わけではない (wakedehanai)](jgram/544-92f90bd68dc0.md) — 20150224225600
+- [てしょうがない; てたまらない (teshouganai; tetamaranai)](jgram/540-0cd19827dc8a.md) — 20150225003427
+- [なあ、な〜、な (naa)](jgram/652-5a94487faed2.md) — 20150224225934
+- [有り得る (ariuru)](jgram/479-f7cbba13e55d.md) — 20150224225602
+- [ご謙遜を (gokensonwo)](jgram/1714-44f7b3f8b7aa.md) — 20150224225827
+- [〜しかない (shikanai)](jgram/259-1b52ba941fda.md) — 20150224225415
+- [させる (saseru)](jgram/1302-9f115b63ec7e.md) — 20150224225943
+- [出す、出して、出した (dasu dashite dashita)](jgram/1626-e5f1bbafc442.md) — 20150225005122
+- [か〜ないかのうちに (kanaikanouchini)](jgram/985-bf4f9f44b9ac.md) — 20150224225557
+- [かわきりに, 皮切りに (kawakirini)](jgram/1294-adb8cd43655e.md) — 20150224225752
+- [隙に (sukini)](jgram/1611-778dc76e13c4.md) — 20150224225735
+- [意向形ではないか (youdehanaika)](jgram/791-b2310b8195cd.md) — 20150224225522
+- [に関して (nikanshite)](jgram/1584-11f25b461cb9.md) — 20150224225505
+- [だからといって (dakaratoitte)](jgram/1674-970f7dc4ae76.md) — 20150224225858
+- [といったら (toittara)](jgram/1610-abcbe9db5f02.md) — 20150224225529
+- [たり する　form (tari suru form)](jgram/1100-25344d303359.md) — 20150225005432
+- [べきだ (bekida)](jgram/679-7ddb9a999d8a.md) — 20150224225542
+- [〜な (na-3)](jgram/792-171f0474627c.md) — 20150224225343
+- [気味 (gimi)](jgram/670-fdb3ccb1190a.md) — 20150224225402
+- [~てもいいですか (~temoiidesuka)](jgram/1723-8ab47ba15169.md) — 20150224225904
+- [少しも〜ない (sukoshimo.....nai)](jgram/1478-1e2638d95a85.md) — 20150224225900
+- [できるだけ (dekirudake)](jgram/1473-3bde7fadfdfb.md) — 20150224225958
+- [そう (sou)](jgram/684-78b5261ad9aa.md) — 20150224225911
+- [〜な (na-2)](jgram/705-ecfaa359622d.md) — 20150224225801
+- [のに (noni-2)](jgram/551-b3f5acea8c63.md) — 20150224225921
+- [〜の (no)](jgram/574-500cc3911379.md) — 20150224225237
+- [せいで (seide)](jgram/1583-39906cfb3140.md) — 20150224225430
+- [つつある (tsutsuaru)](jgram/777-d3de4fca0ae1.md) — 20150224225432
+- [といえども (toiedomo)](jgram/1730-1ea567335447.md) — 20150224225702
+- [〜で (de)](jgram/624-f26be277f336.md) — 20150224225247
+- [ずに (zuni)](jgram/1561-029161db0013.md) — 20150224225915
+- [不調法 or 無調法 (buchouhou)](jgram/1607-0a7ef8997b78.md) — 20150224225937
+- [にひきかえ (nihikikae)](jgram/1333-df9d2ccf7709.md) — 20150224225959
+- [つれて、につれ (tsurete, nitsure)](jgram/1640-5543e71c2725.md) — 20150225003825
+- [〜おうとすると (youtosuru, part II)](jgram/1671-a4c0b7bb692e.md) — 20150225004233
+- [さえ (sae)](jgram/1304-e2d1b011a0e3.md) — 20150224225458
+- [のもとで (nomotode)](jgram/127-86889a9f2009.md) — 20150224225353
+- [かけた (kaketa)](jgram/801-f030e4f56376.md) — 20150224225748
+- [名詞が名詞に代わって (nikawatte)](jgram/930-ddd95aff04dc.md) — 20150224225540
+- [って (tte)](jgram/879-cc533628b909.md) — 20150224225424
+- [ように (youni-2)](jgram/1001-24ca33248e39.md) — 20150224225515
+- [〜やら〜やら (yara-yara)](jgram/1594-0f47d51b37e6.md) — 20150224225549
+- [としたら、とすれば、とすると (toshitara, tosureba, tosuruto)](jgram/297-a7e1e4dc4c5f.md) — 20150225003834
+- [によると (niyoruto)](jgram/974-56716fd50726.md) — 20150224225944
+- [としては (toshiteha)](jgram/1213-ca97dfd4d516.md) — 20150224225514
+- [必ずしも (kanarazushimo)](jgram/618-188b125a7f9e.md) — 20150224225447
+- [と同時に (todoujini)](jgram/1617-9913360e77d3.md) — 20150224225622
+- [きらいがある (kiraigaaru)](jgram/1543-798d1c390ab5.md) — 20150224225724
+- [きり (kiri2)](jgram/343-19d5e2b42819.md) — 20150224225451
+- [得る (uru)](jgram/1220-0fc0dc73f858.md) — 20150224225614
+- [にくい (nikui)](jgram/1408-e74ba48434af.md) — 20150224225833
+- [せる・させる (Causative )](jgram/1195-2bd2dc64899b.md) — 20150224225837
+- [ほどだ; ほどの (hododa; hodono)](jgram/1620-6e278d574c2f.md) — 20150302045131
+- [に即して (nisokushite)](jgram/959-3ae59da5bd9f.md) — 20150224225909
+- [であろうが (dearouga)](jgram/1781-12ceda3dc7b1.md) — 20150224225717
+- [様を見ろ、いい気味だよ、ほら！ (sama wo miro, iikimi da yo, hora\!)](jgram/1612-f34a3378b04d.md) — 20150225003759
+- [とする (tosuru)](jgram/541-78c33392aaf6.md) — 20150224225700
+- [だけあって (dakeatte)](jgram/965-6f3c2d777545.md) — 20150224225530
+- [見た目はともかく (mitamewatomokaku)](jgram/1762-751cfe8fafd3.md) — 20150224225422
+- [と言うと (toiuto)](jgram/1145-b0637894e56d.md) — 20150224225606
+- [途端（に） (totan(ni))](jgram/543-fe4a7dcce5d8.md) — 20150224230058
+- [どころか (dokoroka)](jgram/1348-8a041e84b104.md) — 20150224225626
+- [がたい (gatai)](jgram/668-1066178cf635.md) — 20150224225449
+- [のだ (no da)](jgram/1731-71946d246829.md) — 20150225005853
+- [攻めに (Seme ni (or Noun-Zeme ni))](jgram/1510-2c90ee07acdf.md) — 20150225004617
+- [ばかりか (bakarika)](jgram/303-95276fcb85d6.md) — 20150224225537
+- [めく (meku)](jgram/1490-88f0403e318c.md) — 20150224225926
+- [ことなしに (kotonashini)](jgram/1738-5bc63a712b3c.md) — 20150224225720
+- [どうして (doushite)](jgram/694-17cd4c7d1dd6.md) — 20150224225228
+- [つい (tsui)](jgram/947-7647208a530f.md) — 20150224225430
+- [と思いきや (toomoikiya)](jgram/1692-1a4ac50a968e.md) — 20150224225822
+- [せんがため (sengatame)](jgram/490-21cd3d07c373.md) — 20150224225759
+- [〜なかったろう (-nakattarou probable negative plain form)](jgram/1784-38fc177f131e.md) — 20150225005134
+- [よもや (yomoya)](jgram/1114-07cc68586e3e.md) — 20150224225621
+- [〜を (wo-3)](jgram/767-73f98b31d1e7.md) — 20150224225732
+- [〜れる・〜られる (passive)](jgram/936-a6f54800926e.md) — 20150224225709
+- [あかるい (bright)](jgram/1536-1c1bf7c6ed86.md) — 20150224225235
+- [まだしも (madashimo)](jgram/1603-a3a4404664ca.md) — 20150224225734
+- [っこない (kkonai)](jgram/681-04615b88c59d.md) — 20150224225402
+- [ながらも (nagaramo)](jgram/1377-edc48a07c366.md) — 20150224225942
+- [てからというもの (tekartoiumono)](jgram/1758-29be9c0a38e6.md) — 20150224225938
+- [とあって (toatte)](jgram/1742-49b03c85daf7.md) — 20150224225904
+- [からには (karaniha)](jgram/554-34c7306ba942.md) — 20150224225359
+- [しまう (仕舞う・終う・了う) (shimau)](jgram/718-2102de03ea3d.md) — 20150224225918
+- [ごもっとも (gomottomo)](jgram/1705-116793ae5cf9.md) — 20150224225843
+- [進行形の動詞＋中で (Gerrund form of Verb + naka de)](jgram/1616-6e6b67e04fd0.md) — 20150224225433
+- [からといって (karatoitte)](jgram/348-517a5696450c.md) — 20150224225516
+- [〜放題 (~houdai)](jgram/1651-21eb768288ec.md) — 20150224225739
+- [という風に (fuuni)](jgram/830-32fe1c9fd735.md) — 20150224225456
+- [比べものにならない (kurabemononinaranai)](jgram/1508-d70df97e5280.md) — 20150224225454
+- [とても〜ない (totemo ~ nai)](jgram/1648-8fc8681995df.md) — 20150224234031
+- [きっかけ (kikkake)](jgram/1509-0076af66c03c.md) — 20150224225434
+- [込む (komu)](jgram/1729-083079d79084.md) — 20150224225608
+- [とにかく (tonikaku)](jgram/905-f30519f7b3b5.md) — 20150224225813
+- [て形+しまう (て仕舞う・て終う・て了う) (teshimau)](jgram/1400-4bb21e70a769.md) — 20150224225749
+- [だけ (dake)](jgram/249-a37b0ad91658.md) — 20150224225607
+- [など; なんか; なんて (nado; nanka; nante)](jgram/1606-ed2a5f717458.md) — 20150225002900
+- [せる・させる (Causative)](jgram/1195-9412c896f4e8.md) — 20150224230109
+- [から・ので (since/because-group)](jgram/1153-9fc975f76566.md) — 20150224230100
+- [と言わんばかりに (toiwanbakarini)](jgram/1314-f55a8ee14ca6.md) — 20150224225753
+- [けれども (keredomo)](jgram/724-c58c5ee1be66.md) — 20150224225234
+- [っぽい (ppoi)](jgram/1530-d087d1d84c2e.md) — 20150224225605
+- [に依存 (niizon, niison)](jgram/1371-179f7fe5c64d.md) — 20150225003722
+- [〜にして (nishite)](jgram/1327-4b0290c977fa.md) — 20150224225818
+- [はもとより (hamotoyori)](jgram/152-c187b3eba5ac.md) — 20150224225617
+- [兼ねる (kaneru)](jgram/1266-44e97a7f4abd.md) — 20150224225509
+- [いかん (如何) (ikan)](jgram/1000-3e29f4438485.md) — 20150224225731
+- [がてら (gatera)](jgram/1265-2b709857b8da.md) — 20150224225723
+- [〜にしたら (nishitara)](jgram/375-3df95025384c.md) — 20150224225517
+- [ものか (monoka)](jgram/1321-e85848731e14.md) — 20150224225525
+- [に先立って (Nisakidatte)](jgram/1684-5d80deafd750.md) — 20150224225426
+- [ことだ (kotoda)](jgram/1273-4813a7d5b8c8.md) — 20150224225629
+- [からすると (karasuruto-2)](jgram/728-76aa6885f1f2.md) — 20150224225821
+- [今から思えば (imakaraomoeba)](jgram/1093-f4e63918c440.md) — 20150224225929
+- [ような気がする (younakigasuru)](jgram/1540-04e6f40d6dad.md) — 20150224225348
+- [ひとり〜だけでなく, ひとり〜のみならず (hitori-dakedenaku,hitori-nominarazu)](jgram/1341-53bcb47e2add.md) — 20150224230056
+- [結果 (kekka)](jgram/116-a439d8b34e4e.md) — 20150224225550
+- [ときたら (tokitara)](jgram/1678-a18795504af8.md) — 20150224225754
+- [向き (muki)](jgram/308-d45f459cf10e.md) — 20150224225450
+- [desu (is, am, are (polite, NA-adjective))](jgram/1533-ded84cb4d294.md) — 20150225004439
+- [〜そびれる (sobireru)](jgram/1545-60daf56229b8.md) — 20150224225753
+- [〜をめぐって (wo megutte)](jgram/1676-cea9fc296d02.md) — 20150225003252
+- [に至って (niitatte)](jgram/1288-10f64a88821a.md) — 20150224225844
+- [なくちゃ (nakucha)](jgram/1589-5d1913541ec9.md) — 20150224225420
+- [一人でも多く (hitoridemoooku)](jgram/1698-c64804393f96.md) — 20150224225513
+- [これ以上〜ば (koreijyou-ba)](jgram/1094-14f140f61f33.md) — 20150224225955
+- [Z Mish-mosh of Level I and Level II Subjects (Z Mish-mosh of Level I and Level II Subjects) (Z Mish-mosh of Level I and Level II Subjects)](jgram/1582-defd2c6d0818.md) — 20150225001147
+- [〜まい (mai-4)](jgram/475-34301a79739d.md) — 20150224225442
+- [以上 (ijou-2)](jgram/673-e8a7e97d5d03.md) — 20150224225556
+- [次第に (Shidaini)](jgram/1667-b6596a3aa010.md) — 20150224225839
+- [ご心配なく (gosinpainaku)](jgram/1718-441e3373c8f9.md) — 20150224225724
+- [する (suru)](jgram/735-981ace876584.md) — 20150224225247
+- [進行形の動詞＋中で (Gerrund form of Verb + nakade)](jgram/1615-1aae8f936797.md) — 20150224225413
+- [だした (dashita)](jgram/1379-36044f572680.md) — 20150224225246
+- [まいか (maika-2)](jgram/474-57a199d75e09.md) — 20150224225421
+- [に加えて (nikuwaete)](jgram/225-bb21cf74560a.md) — 20150224225619
+- [いかにも (ikanimo)](jgram/1092-994b91619bc5.md) — 20150224225737
+- [にする (nisuru)](jgram/449-34755f406741.md) — 20150224225608
+- [よう (you)](jgram/861-cf7524bbc18a.md) — 20150224225818
+- [かかわらず (nikakawarazu)](jgram/996-b360219ba440.md) — 20150224225440
+- [ということだ (toiukotoda)](jgram/616-d347a8c6b683.md) — 20150224225351
+- [から (kara)](jgram/1216-571b6cdb4aa7.md) — 20150224225229
+- [たまらない (tamaranai)](jgram/1590-13bf7d287ae0.md) — 20150224225609
+- [気がする (kigasuru)](jgram/1117-12154adb1238.md) — 20150224225401
+- [さすが (流石) (sasuga)](jgram/944-ad94e750a634.md) — 20150224225805
+- [上で (uede)](jgram/124-516c36cfb1cc.md) — 20150224225346
+- [ように (youni)](jgram/1268-8e29a7188bec.md) — 20150224225757
+- [にとって (nitotte)](jgram/117-060a0434cd84.md) — 20150224225936
+- [〜（で）すら ((de)sura)](jgram/1507-893c43e69f41.md) — 20150224230103
+- [どころではない、どころではなく (dokorodehanai, dokorodehanaku)](jgram/902-76664303ae0a.md) — 20150225002848
+- [さもないと (samonaito)](jgram/1706-dbe13e005d76.md) — 20150224225726
+- [のに (noni3)](jgram/1593-63ab780721fd.md) — 20150224225814
+- [〜まい (mai-1)](jgram/424-dc30de63b8f8.md) — 20150224225529
+- [ないことは(も)ない (naikotohanai)](jgram/740-bdcde7fe07fa.md) — 20150224225416
+- [ないばかりか (naibakarika)](jgram/1638-0f8c41d05602.md) — 20150224225442
+- [に先立って; に先立つ (nisakidatte; nisakidatsu)](jgram/1352-209c2f8df78f.md) — 20150225003522
+- [というのに (toiunoni)](jgram/1783-7f5d4eefc8f5.md) — 20150224225820
+- [によれば (niyoreba)](jgram/1643-65b3f633bc86.md) — 20150224225541
+- [次第 (shidai)](jgram/1309-2dc4596b14b6.md) — 20150224225533
+- [かけると (when it comes??)](jgram/1654-e8f84542c5eb.md) — 20150225003932
+- [ことがある (koto ga aru)](jgram/1625-07ecc874e2f4.md) — 20150225003020
+- [をもとにして (womotonishite)](jgram/1258-ed5ba815f324.md) — 20150224225559
+- [かなわない (kanawanai)](jgram/1763-9848945a3646.md) — 20150224225355
+- [に限って (nikagitte)](jgram/143-500886a2bf99.md) — 20150224225948
+- [に基づいて (nimotozuite)](jgram/813-cac94135e342.md) — 20150224225411
+- [て以来 (teirai)](jgram/69-748cb2da677e.md) — 20150224225543
+- [〜の至り (noitari)](jgram/1336-ed8ba825f6ad.md) — 20150224225706
+- [てたまらない (tetamaranai)](jgram/832-c632023ccb21.md) — 20150224225600
+- [～さえ～ば (sae-ba)](jgram/376-497df5a66a3c.md) — 20150224225428
+- [て形+くる (て来る) (tekuru)](jgram/1127-c6d1e937c6e9.md) — 20150224225713
+- [まいか (maika)](jgram/264-288dca469c3f.md) — 20150224225358
+- [なければならない (nakerebanaranai)](jgram/1709-7f265bff25b2.md) — 20150224225930
+- [〜ね (ne)](jgram/628-07895a20d5df.md) — 20150224225227
+- [とも限らない (tomokagiranai)](jgram/1735-7a8d9bbfd6d2.md) — 20150224225617
+- [〜にたえない (nitaenai1)](jgram/1330-233f332eb042.md) — 20150224225958
+- [極まりない/　極まる (kiwamarinai/ kiwamaru)](jgram/1215-6b6c2cddb3c2.md) — 20150225004324
+- [をもとに (womotoni)](jgram/1259-dac21fdc7dfc.md) — 20150224225431
+- [〜など (nado)](jgram/1313-1c228976e39b.md) — 20150224225845
+- [じゅう／ちゅう (juu/chuu)](jgram/739-a101ce510d72.md) — 20150224230121
+- [抜き (nuki)](jgram/352-f3242505ce84.md) — 20150224225358
+- [を禁じを得無い (wo kinjienai)](jgram/1358-3d4e06c6bf41.md) — 20150225005220
+- [といっても (toittemo)](jgram/411-56ef42221616.md) — 20150224225404
+- [以上 (ijou)](jgram/671-ae3d3e1dc9e3.md) — 20150224225406
+- [~なき (~naki)](jgram/1687-5b811873ba8c.md) — 20150224225745
+- [〜まじき (majiki)](jgram/1345-ae73d6ac8835.md) — 20150224225913
+- [da / desu (is, am, are)](jgram/1532-ec0767b7f74b.md) — 20150225005847
+- [続ける (tsuzukeru)](jgram/800-dbcfe17a6dc8.md) — 20150224225721
+- [なしに (nashini)](jgram/1319-8f11d3ac64c5.md) — 20150224225905
+- [を中心に (wochuushinni)](jgram/1295-d1ddcfd40085.md) — 20150224225630
+- [に応じて、に応じた (nioujite)](jgram/975-2ab851c64cb1.md) — 20150224225545
+- [〜ところ(だ) (所だ・処だ) (~tokoro (da))](jgram/589-49dc9b7885f2.md) — 20150224225727
+- [になる (ninaru)](jgram/687-dfa73ee5e3e7.md) — 20150224225731
+- [〜てこそ (tekoso)](jgram/1680-a91dd80ff30d.md) — 20150224225959
+- [〜だに (dani)](jgram/1247-946574d2cda9.md) — 20150224225832
+- [なし (nashi)](jgram/1203-0c276ebda0c0.md) — 20150224225853
+- [〜につき (nitsuki-2)](jgram/373-84b89f1315c9.md) — 20150224225540
+- [Kansai Dialect (Kansai Dialect) (Kansai Dialect)](jgram/1581-78f984acf61e.md) — 20150225002823
+- [ざるをえない (zaruwoenai)](jgram/823-e5c5862dfbf9.md) — 20150224225552
+- [〜もの (mono)](jgram/1562-c017204b6ec5.md) — 20150224225504
+- [まして〜はずがない (mashite ~ hazuganai)](jgram/1558-c2f5ac204a39.md) — 20150224225811
+- [〜は (ha-2)](jgram/660-ef75403d136c.md) — 20150224225728
+- [に当たって; に当たり (niatatte; niatari)](jgram/506-0621b5c2ab26.md) — 20150225003158
+- [下さい (kudasai)](jgram/577-0ead2d1f2c48.md) — 20150224225443
+- [とはいえ (tohaie)](jgram/1636-adf9b6272148.md) — 20150224225727
+- [いくら (幾等) (ikura)](jgram/623-bec49bdd222b.md) — 20150224225241
+- [二度と (nidoto)](jgram/1726-83335def3b04.md) — 20150224225955
+- [時間がたつ (jikangatatsu)](jgram/1719-5dd50f3ac7a6.md) — 20150224225859
+- [にわたる,にわたって (ni wataru, ni watatte)](jgram/1759-af933e84b648.md) — 20150225003939
+- [というものではない; というものでもない (toiumonodehanai; toiumonodemonai)](jgram/1602-e98f65f92900.md) — 20150225003844
+- [よう・そう・らしい・聞いた (looks/seems/heard-group)](jgram/924-8113c7388d9c.md) — 20150224230100
+- [た形ところ (tatokoro)](jgram/413-af4e68fe4808.md) — 20150224225520
+- [Dokotonaku (In some manner)](jgram/1476-11f7f22f7256.md) — 20150225005229
+- [たりとも (taritomo)](jgram/1514-5d0901887394.md) — 20150224225811
+- [たとえ (tatoe-temo)](jgram/715-36441132bf9e.md) — 20150224225355
+- [ひとつとっても (hitotsutottemo)](jgram/1497-31e2bf648e36.md) — 20150224225941
+- [とは限りません (towakagiranai)](jgram/1659-a55689773d8c.md) — 20150224225912
+- [ありうる, ありえる (有り得る) (arieru)](jgram/470-9a87b6f4f28e.md) — 20150224225409
+- [〜べからず (bekarazu)](jgram/1342-938747260e8a.md) — 20150224225558
+- [あまり〜（動詞）〜ない (Amari 2)](jgram/1656-fdabb166b251.md) — 20150225002527
+- [し (shi)](jgram/1499-6e5c54a124e8.md) — 20150224225845
+- [問わず (towazu)](jgram/1696-8922a7ef22a5.md) — 20150224225449
+- [うっかり (ukkari)](jgram/948-e83126497f56.md) — 20150224225808
+- [〜に沿って (nisotte)](jgram/1347-9e95b6c40c95.md) — 20150224225554
+- [かわる (kawaru-group)](jgram/928-3628ce6d122a.md) — 20150224225414
+- [〜てはいられない・〜てばかりはいられない (tehairarenai / tebakarihairarenai)](jgram/1560-abff0130255f.md) — 20150225004731
+- [〜に難くない (nikatakunai)](jgram/1326-713c8fcedfc9.md) — 20150224225856
+- [〜なり〜なり (nari~nari)](jgram/1752-abec2b78665a.md) — 20150224225857
+- [〜ようとする (youtosuru)](jgram/1565-1b7ee09abc6c.md) — 20150224225858
+- [〜もかまわず (mokamawazu)](jgram/1164-de4ab188fac1.md) — 20150224225520
+- [なので (nanode)](jgram/1248-dedc419f305a.md) — 20150224225511
+- [ついでに (tsuideni)](jgram/917-c889265bd0bd.md) — 20150224225513
+- [〜んです (ndesu)](jgram/397-b18c9ead237a.md) — 20150224225509
+- [にもまして (nimomashite)](jgram/1299-e85f78540b96.md) — 20150224225903
+- [そうもない (soumonai)](jgram/1721-b384343ebe92.md) — 20150224225836
+- [ばかりに (bakarini)](jgram/835-4da7dbb75155.md) — 20150224225405
+- [始末だ (shimatsuda)](jgram/1512-652e5074c0e1.md) — 20150224225837
+- [に相違ない (nisouinai)](jgram/420-6a998bb544ef.md) — 20150224225610
+- [にあって (niatte)](jgram/1322-23aab85203f9.md) — 20150224225829
+- [果たして (hatashite)](jgram/961-f690f33f14e4.md) — 20150224225712
+- [なければなりません (nakereba narimasen)](jgram/1772-384fc12fa3c1.md) — 20150225005651
+- [可能性 (kanousei)](jgram/650-3d16d1f47d27.md) — 20150224225703
+- [がり (gari)](jgram/696-abe90006a86f.md) — 20150224225427
+- [からして (karashite)](jgram/502-8440babcc80f.md) — 20150224225628
+- [今では (imadeha)](jgram/1585-bebc66102806.md) — 20150224225744
+- [にかけては, にかけても (nikaketeha, nikaketemo)](jgram/414-17c2e134239a.md) — 20150225002951
+- [ようにも〜ない (younimonai)](jgram/1754-f5a8ccf7092e.md) — 20150224225830
+- [(narau) (narau)](jgram/1786-79309b0c534a.md) — 20150224225828
+- [が欲しい (hoshii)](jgram/756-87d0ecd29d76.md) — 20150224225815
+- [〜よ (yo)](jgram/752-80dcfbd0bdb3.md) — 20150224225948
+- [て形+はいけない (ては行け無い) (tehaikenai)](jgram/1661-c1c98b0cea1b.md) — 20150224225926
+- [まで (made)](jgram/719-f5800433e627.md) — 20150224225240
+- [つつ (tsutsu)](jgram/703-0e873f92dda4.md) — 20150224225410
+- [〜をものともせずに (womonotomosezuni)](jgram/1110-e3c76f362c0c.md) — 20150224225854
+- [たかだか (高高) (takadaka)](jgram/1297-f4764ba3a982.md) — 20150224225928
+- [とか (toka)](jgram/1605-f5586a0fdcb8.md) — 20150224225422
+- [を込めて (wokomete)](jgram/771-8b444aabbb7b.md) — 20150224225622
+- [どんな (donna)](jgram/1095-7ed84cedb814.md) — 20150224225832
+- [によって (niyotte)](jgram/1249-ec6e029040cd.md) — 20150224225722
+- [かえって (kaette)](jgram/399-c0f716fd169c.md) — 20150224225619
+- [あればこそ (arebakoso)](jgram/496-a4a313ff1bdd.md) — 20150224225721
+- [〜だけの (dakeno)](jgram/1244-1b84ee62e835.md) — 20150224225517
+- [~に基づいて (~nimotoduite)](jgram/1688-42965474302b.md) — 20150224225854
+- [のみならず (nominarazu)](jgram/209-9f7b988c58d0.md) — 20150224225532
+- [を問わず (wotowazu)](jgram/1257-8e94f5c30e9b.md) — 20150224225357
+- [や否や (yainaya)](jgram/1303-7d7e7e1b7913.md) — 20150224225805
+- [ないばかりか (Naibakarika)](jgram/1638-3a00edd79e75.md) — 20150225002547
+- [〜をおいて (を措いて) (wo oite)](jgram/1491-22f409aeffa0.md) — 20150225004138
+- [ことに〜 (kotoni-group)](jgram/912-2766721b108d.md) — 20150224225417
+- [頂く (itadaku)](jgram/1141-93d040c45955.md) — 20150224225857
+- [ことにする (koto ni suru)](jgram/1769-bdae7efc3f94.md) — 20150225004813
+- [こととて (kototote)](jgram/1647-c5702e84519a.md) — 20150224225754
+- [いかんによらず (ikanniyorazu)](jgram/1226-63bef3e86a28.md) — 20150224225838
+- [に従って; に従い (nishitagatte; nishitagai)](jgram/972-99351ba117cb.md) — 20150225003901
+- [すぎる (sugiru)](jgram/1537-3eeac22695dc.md) — 20150224225807
+- [限り (kagiri)](jgram/838-f6a8abcef067.md) — 20150224225603
+- [まさかの〜 (masakano)](jgram/1557-21c2a9f1ae29.md) — 20150224225727
+- [(よ)うと〜まい, (よ)うが〜まい, ようと〜まい, よう ((yo)uto~mai, (yo)uga~mai)](jgram/1753-af504f38cce8.md) — 20150224225906
+- [〜に越したことは無いが (ni koshita koto ha nai ga)](jgram/1618-b0dc13c8d786.md) — 20150225004223
+- [ように・とおりに・を中心に・に沿って・をもとにして (basis-of-action-group)](jgram/958-1c23038729fd.md) — 20150224225348
+- [せめて (semete)](jgram/942-ec677b92c42f.md) — 20150224225818
+- [なら (nara)](jgram/780-7577cfa21511.md) — 20150224225719
+- [ことにする (kotonisuru)](jgram/1629-46ed43cf15ae.md) — 20150224225817
+- [について (nitsuite)](jgram/1305-d06a3512a055.md) — 20150224225713
+- [の様 (noyou)](jgram/1713-ef8cb5cc24b5.md) — 20150224225707
+- [〜でたまらない・〜てたまらない (detamaranai/tetamaranai)](jgram/1588-26be954b915a.md) — 20150224230122
+- [とっさに (tossani)](jgram/1631-0187513acc60.md) — 20150224225711
+- [〜も (mo)](jgram/576-c4f68d60fcbf.md) — 20150224225248
+- [たい (tai)](jgram/757-83cdb54acc9d.md) — 20150224225855
+- [に至る (niitaru)](jgram/1296-5c6a9da50121.md) — 20150224225757
+- [〜が (ga)](jgram/754-383099ac01b6.md) — 20150224225230
+- [にわたって (niwatatte)](jgram/518-41888f7c0bc9.md) — 20150224225349
+- [くらいなら〜〜ほうがいい (kurainara-hougaii)](jgram/1211-6124b5fabc18.md) — 20150224225538
+- [とのこと (tonokotoda)](jgram/1779-52d05e02bf68.md) — 20150224225742
+- [までに (madeni)](jgram/1737-fe352c887c5a.md) — 20150224225928
+- [こんな (konna)](jgram/988-554f7066913c.md) — 20150224225746
+- [〜それまでだ (soremadeda)](jgram/1340-c3cee38e4b05.md) — 20150224225705
+- [〜かい (kai)](jgram/713-502cbded88c0.md) — 20150224225716
+- [と同様 (to douyou)](jgram/1675-84572758fd3f.md) — 20150225005647
+- [邪気 (Jaki)](jgram/1470-eeffeee2deac.md) — 20150224225910
+- [〜を (wo)](jgram/765-f6c9068d0402.md) — 20150224225242
+- [最中に (saichuuni)](jgram/59-5fa009cde31d.md) — 20150224225616
+- [stem + 出す (stem + dasu)](jgram/1662-7080afb1ece7.md) — 20150224225923
+- [〜わけだ (wakeda)](jgram/1727-d338d198b51b.md) — 20150224225351
+- [かたわら (katawara)](jgram/1274-948057d18725.md) — 20150224225505
+- [~直す (~naosu)](jgram/1685-0725b389f5ed.md) — 20150224225758
+- [ところ (tokoro)](jgram/888-55aba53f323d.md) — 20150224225800
+- [それで (sorede)](jgram/1486-090394322b6d.md) — 20150224225631
+- [儚い (hakanai)](jgram/886-8688d263a024.md) — 20150224225833
+- [相談 (soudan)](jgram/1030-75ef150e0474.md) — 20150224225502
+- [かのごとく (kanogotoku)](jgram/498-c279ac110a6a.md) — 20150224225951
+- [よくも〜ものだ (yokumo~monoda)](jgram/1787-8dc0a2a53705.md) — 20150224225957
+- [につれて (nitsurete)](jgram/1360-594c5fe7724a.md) — 20150224225438
+- [〜に足る (nitaru)](jgram/1332-97f3aafebb0d.md) — 20150224225424
+- [なぜなら (nazenara)](jgram/1623-68f7f82a75a6.md) — 20150224225801
+- [限りだ (kagirida)](jgram/1699-c7cf99383fc1.md) — 20150224225550
+- [〜こなす, こなす (konasu)](jgram/1548-dfe56dad898b.md) — 20150224225448
+- [た形 積もりで (tatsumoride)](jgram/1635-57f68de4be7f.md) — 20150224225553
+- [か何か (kananika)](jgram/1707-bc758532c65d.md) — 20150224225733
+- [にとって・として・の上で・からいうと・から見ると (viewpoint-group)](jgram/955-f3b1532d1c61.md) — 20150224225518
+- [だけのことはある (dakenokotohaaru)](jgram/237-bd9423d0d64a.md) — 20150224225610
+- [わけがない、わけはない (wakeganai, wakehanai)](jgram/1556-fac47da400c0.md) — 20150225002723
 
 ## Original grammar RSS observations
 

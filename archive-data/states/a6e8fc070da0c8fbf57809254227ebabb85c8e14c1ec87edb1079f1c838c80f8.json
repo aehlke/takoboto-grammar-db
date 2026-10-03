@@ -1,9 +1,7 @@
 {
   "label": "-nakattarou probable negative plain form",
   "status": "parsed",
-  "checked_at": "2026-10-03T08:38:24+00:00",
-  "verification": "offline-source-audit",
-  "current_membership_sha256": "f0ede151dd9a879c35e32707eeb1c6abc834b74a65f2200e03f7a79d55cca927",
+  "checked_at": "2026-10-03T15:33:29+00:00",
   "latest_indexed_timestamp": "20200215022838",
   "eligible_ids": [
     55,
@@ -651,13 +649,16 @@
     1797
   ],
   "capture": {
-    "label": "-nakattarou probable negative plain form",
-    "original": "http://jgram.org:80/pages/viewOne.php?tagE=-nakattarou+probable+negative+plain+form",
-    "archive_url": "https://web.archive.org/web/20200215022838id_/http://jgram.org:80/pages/viewOne.php?tagE=-nakattarou+probable+negative+plain+form",
     "timestamp": "20200215022838",
-    "digest": "YQIGYNYRPIFKXMOYOJ6L2OQX7SUOGX2W"
+    "original": "http://jgram.org:80/pages/viewOne.php?tagE=-nakattarou+probable+negative+plain+form",
+    "mimetype": "text/html",
+    "digest": "YQIGYNYRPIFKXMOYOJ6L2OQX7SUOGX2W",
+    "label": "-nakattarou probable negative plain form",
+    "archive_url": "https://web.archive.org/web/20200215022838id_/http://jgram.org:80/pages/viewOne.php?tagE=-nakattarou+probable+negative+plain+form"
   },
+  "requested_timestamp": "20200215022838",
   "response_sha256": "90fb967f9eca8249b839b843235d71cf3a3a30c4b80e5cb6048d8e966e0e22ab",
+  "retrieved_at": "2026-10-03T06:09:37+00:00",
   "record_sha256": "43b2535e50953032c3548dd2bd629670702c36293af442319ef023f47290a4a4",
-  "retrieved_at": "2026-10-03T06:09:37+00:00"
+  "selection_attempts": []
 }

@@ -15,13 +15,20 @@ The complete Takoboto crawl contains **643 entries, 5,334 examples, 5,324
 translations, and 4,546 comments**, plus 150 additional meaning explanations.
 An independent offline audit accounts for the captured grammar content.
 
-The supplemental JGram archive pilot contains **25 historical records**, with
-40 explanatory notes, 146 examples, 115 comments, and 45 annotated references.
-Fourteen of those original entry IDs are absent from Takoboto. The full Wayback
-replay crawl has not been run: discovery indexed 1,414 labels, including aliases
-and non-grammar pages, from 43,686 usable captures.
-The five latest archived grammar RSS feeds are also preserved. Four contain
-grammar excerpts and publication dates; these are feed-event dates.
+The original ArchiveTeam JGram backup yielded **704 historical records** from
+February 24–March 2, 2015: 843 notes, 5,537 examples, 3,843 comments and 912
+annotated references. It preserves **79 original entry IDs absent from current
+Takoboto**. Every one of the backup's 1,077 selected labels was processed:
+704 included, 310 verified exclusions and 63 tutorial pages held for review.
+The newer Wayback supplement contains **63 verified observations**, with 73
+notes, 446 examples, 248 comments and 68 references. Historical observations
+can overlap current records and each other; these are not unique-content totals.
+Five latest original grammar RSS feeds preserve four excerpts and publication
+dates. Capture dates and RSS events are separate from contribution dates.
+
+See **[provenance and recovery](docs/provenance.md)** for backup discovery,
+source hashes, encoding repairs, scope decisions and unresolved cases. Per-record
+WARC offsets and hashes support independent verification.
 
 Start with [the reconnaissance](docs/reconnaissance.md),
 [the schema](docs/schema.md) or [Archive.org handling](docs/archive.md).
@@ -29,11 +36,13 @@ Browse the **[reader Markdown](markdown/README.md)** committed in this repositor
 Download the **[SQLite database](https://github.com/aehlke/takoboto-grammar-db/releases/latest/download/grammar.sqlite)**
 from [GitHub Releases](https://github.com/aehlke/takoboto-grammar-db/releases).
 Release assets include attribution, the complete data license, permission
-instructions, a build manifest and SHA-256 checksums. The database also embeds
+instructions, provenance, a recovery ledger, a build manifest and SHA-256 checksums. The database also embeds
 these notices in its `metadata` table and retains contributor credits.
 
 The release includes the complete captured Takoboto collection and a **partial
-JGram archive supplement**; 1,389 indexed historical labels remain pending.
+JGram archive supplement**. The latest Wayback inventory still has 1,347
+unresolved labels, including aliases and non-grammar pages; the 2015 backup
+does not establish their final online content.
 
 To generate reader Markdown and SQLite locally from the committed records,
 without requesting either website:
@@ -42,7 +51,7 @@ without requesting either website:
 git clone https://github.com/aehlke/takoboto-grammar-db.git
 cd takoboto-grammar-db
 uv sync --locked
-uv run --locked takoboto-grammar build --input data --archive archive-data \
+uv run --locked takoboto-grammar build --input data --archive archive-data --archive-snapshot archive-2015 \
   --sqlite exports/local/grammar.sqlite --markdown exports/local/markdown
 ```
 
@@ -73,6 +82,12 @@ archive-data/
   access-policy.json             robots check and request policy
   crawl-report.json              parsed, excluded, review-required, failed
   coverage-report.json           parsed-record checks and remaining labels
+archive-2015/
+  inventory.json                 original ArchiveTeam index selection and hash
+  records/<label-hash>.json       dated backup observations with WARC provenance
+  states/<label-hash>.json        extraction, exclusion and review decisions
+  coverage-report.json           source checks and 63 held tutorial labels
+  cache/                         local compressed index and scoped WARC members
 exports/
   grammar.sqlite
 markdown/                        generated reader files committed to Git
@@ -91,8 +106,8 @@ directories, refresh the committed reader pages offline and review the diff:
 
 ```sh
 uv run --locked takoboto-grammar update-markdown --input data \
-  --archive archive-data --output markdown
-git diff -- data/records archive-data/records archive-data/feeds markdown
+  --archive archive-data --archive-snapshot archive-2015 --output markdown
+git diff -- data/records archive-data/records archive-2015/records archive-data/feeds markdown
 git status --short
 ```
 
@@ -112,7 +127,7 @@ publish a new database artifact for each release.
 ## Run
 
 The implementation passed an initial [two-page live smoke test](recon/uv-smoke-test.json)
-and now passes **97 automated tests**.
+and now passes **115 automated tests**.
 The original smoke-test exports remain local; the public release contains the
 combined dataset. Raw-response caches and local QA outputs are not committed.
 
@@ -146,12 +161,16 @@ uv run --locked python -m unittest discover -s tests -v
 uv run --locked takoboto-grammar crawl --output data
 uv run --locked takoboto-grammar audit --input data
 
-# Full original JGram supplement, with grammar RSS feeds.
+# Dated original backup, separate from the latest indexed Wayback pages.
+uv run --locked takoboto-grammar archive-dump --output archive-2015
+uv run --locked takoboto-grammar archive-audit --input archive-2015
+
+# Latest indexed original JGram supplement, with grammar RSS feeds.
 uv run --locked takoboto-grammar archive --output archive-data --feeds
 uv run --locked takoboto-grammar archive-audit --input archive-data
 
 # Offline full exports: choose fresh paths for each build.
-uv run --locked takoboto-grammar build --input data --archive archive-data \
+uv run --locked takoboto-grammar build --input data --archive archive-data --archive-snapshot archive-2015 \
   --sqlite exports/new-build/grammar.sqlite --markdown exports/new-build/markdown
 ```
 
@@ -195,16 +214,14 @@ records, cache metadata and response bodies use atomic file replacement to
 preserve earlier files if replacement is interrupted. Failed temporary files
 are retained for inspection; they are excluded from record reads.
 
-The latest [review and refinement](docs/review-refinement.md) verifies all 643
-stored current entries, 25 historical entries and five RSS feeds offline.
-Persistent archive entry/feed states prevent an unsuccessful refresh from
-silently exporting an older record. Historical records with parser, fallback
-or timestamp warnings remain held for review. The archive audit checks complete
-parsed fields, independent grammar membership and replay provenance; exclusions
-require retained source evidence. Normal historical export requires matching
-states bound to the complete record contents. The active dataset has 25 entry
-states and five feed states. To migrate older captures offline, run
-`uv run --locked takoboto-grammar archive-audit --input archive-data --takoboto data --record-verification`.
+The [recovery ledger](recon/archive-recovery.json) records the latest source QA:
+all 643 current records, 704 backup observations, 63 newer observations and five
+RSS feeds pass their applicable checks. Source audits require local raw caches;
+a fresh clone can reproduce SQLite and Markdown offline from committed records
+and verification states. Persistent states block export after unsuccessful
+refreshes. Same-digest older captures can establish equivalent latest content;
+older different revisions remain held. Historical scope reviews are recorded in
+[grammar-membership.json](src/takoboto_grammar/grammar-membership.json).
 
 Individual failures and unfamiliar data blocks are reported. Review warnings
 before claiming completeness. A clean limited crawl exits successfully but

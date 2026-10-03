@@ -19,6 +19,15 @@ contributors**, with preserved original URLs and replay links supplied by
 **Internet Archive's Wayback Machine**. Archive timestamps identify captures,
 not original contribution dates.
 
+The dated 2015 supplement is recovered from **ArchiveTeam's ArchiveBot JGram
+backup**, hosted by **Internet Archive** in
+[Archivebot GO Pack 20150302130001](https://archive.org/details/archiveteam_archivebot_go_20150302130001).
+Original WARC member URLs, capture times, byte offsets, lengths and hashes are
+preserved in each recovered record. See [provenance and recovery](docs/provenance.md).
+Preservation providers do not replace JGram contributors as the credited creators
+or grant a different license. The backup covers February 24–March 2, 2015;
+these observations remain separate from newer pages.
+
 Displayed contributor credits are preserved with entries, content blocks,
 examples, and comments in the data and reader exports. Those labels identify
 the credits shown by the source; they do not establish separate creator/editor

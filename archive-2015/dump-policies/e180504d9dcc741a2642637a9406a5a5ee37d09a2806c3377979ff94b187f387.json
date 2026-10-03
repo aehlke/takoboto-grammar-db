@@ -1,0 +1,16 @@
+{
+  "origin": "https://archive.org",
+  "robots": {
+    "url": "https://archive.org/robots.txt",
+    "final_url": "https://archive.org/robots.txt",
+    "status": 200,
+    "retrieved_at": "2026-10-03T16:02:37+00:00",
+    "sha256": "83e00f46c71e9fa872694af73fa9c15a615b9052b2f10820a3d146bc506c6161",
+    "content_range": null
+  },
+  "checked_at": "2026-10-03T16:02:37+00:00",
+  "request_interval_seconds": 5,
+  "burst_size": 3,
+  "burst_pause_seconds": 30,
+  "concurrency": 1
+}

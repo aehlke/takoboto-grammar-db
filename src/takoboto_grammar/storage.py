@@ -8,7 +8,7 @@ import tempfile
 from contextlib import closing
 from pathlib import Path
 
-from . import SCHEMA_VERSION
+from . import SCHEMA_VERSION, SQLITE_SCHEMA_VERSION
 
 
 def output_root(path):
@@ -144,6 +144,26 @@ def record_digest(record):
     return hashlib.sha256(body).hexdigest()
 
 
+def archive_record_key(record):
+    identity = record['label']
+    if record.get('snapshot'):
+        identity = record['snapshot'] + ':' + identity
+    return hashlib.sha256(identity.encode()).hexdigest()
+
+
+def read_archive_snapshot(directory):
+    root = Path(directory).expanduser().resolve(strict=True)
+    inventory = json.loads((root / 'inventory.json').read_text(encoding='utf-8'))
+    records = read_archive_records(root)
+    if not inventory.get('snapshot'):
+        raise ValueError('Dated archive requires a snapshot inventory')
+    for record in records:
+        if (record.get('snapshot') != inventory['snapshot'] or
+            record.get('retrieval', {}).get('index_sha256') != inventory.get('index_sha256')):
+            raise ValueError('Record snapshot provenance differs from its inventory')
+    return records
+
+
 def read_archive_feeds(directory, for_export=True):
     root = Path(directory).expanduser().resolve(strict=True)
     feeds = []
@@ -175,7 +195,7 @@ def build_sqlite(records, path, archive_records=(), archive_feeds=()):
         raise ValueError(f"Database already exists; choose a fresh export path: {path}")
     with closing(sqlite3.connect(path)) as db, db:
         db.executescript(Path(__file__).with_name("schema.sql").read_text(encoding="utf-8"))
-        db.execute("INSERT INTO metadata VALUES (?,?)", ("schema_version", str(SCHEMA_VERSION)))
+        db.execute("INSERT INTO metadata VALUES (?,?)", ("schema_version", str(SQLITE_SCHEMA_VERSION)))
         db.execute("INSERT INTO metadata VALUES (?,?)", ("entry_count", str(len(records))))
         db.execute("INSERT INTO metadata VALUES (?,?)", ("archive_entry_count", str(len(archive_records))))
         db.execute('INSERT INTO metadata VALUES (?,?)', ('archive_feed_count', str(len(archive_feeds))))
@@ -185,7 +205,7 @@ def build_sqlite(records, path, archive_records=(), archive_feeds=()):
             "CC-BY-SA-2.0", "https://creativecommons.org/licenses/by-sa/2.0/"))
         if archive_records or archive_feeds:
             db.execute('INSERT INTO sources VALUES (?,?,?,?,?,?,?)', (
-                'jgram-wayback', 'JGram via Internet Archive Wayback Machine', 'https://web.archive.org/',
+                'jgram-wayback', 'JGram preserved by Internet Archive and ArchiveTeam', 'https://web.archive.org/',
                 'JGram and its contributors', 'http://www.jgram.org/', 'CC-BY-SA-2.0',
                 'https://creativecommons.org/licenses/by-sa/2.0/'))
         for r in records:
@@ -223,7 +243,7 @@ def build_sqlite(records, path, archive_records=(), archive_feeds=()):
                 db.execute("INSERT INTO related_entries VALUES (?,?,?,?,?)", (
                     gid, position, value["target_id"], value["label"], value["source_url"]))
         for r in archive_records:
-            key = hashlib.sha256(r['label'].encode()).hexdigest()
+            key = archive_record_key(r)
             db.execute('INSERT INTO archive_entries VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)', (
                 key, r['id'], r['label'], r['title'], r['source_url'], r['archive_url'], r['archive_timestamp'],
                 r['retrieved_at'], r['category'], r['jlpt_level_original'], r['meaning'], r['credits_raw'],
@@ -350,7 +370,7 @@ def export_markdown(records, directory, archive_records=(), archive_feeds=()):
                       f'This build contains {len(archive_records)} historical source observations and may cover only part of the archive inventory.', '',
                       'Captures are selected separately per entry; dates below are archive timestamps, not contribution dates.', ''])
     for r in archive_records:
-        key = hashlib.sha256(r['label'].encode()).hexdigest()
+        key = archive_record_key(r)
         name = f"jgram/{r['id'] or 'unknown'}-{key[:12]}.md"
         lines = [f"# {escape_md(r['title'])} — historical JGram", '',
             f"[Archived source]({r['archive_url']})  ", f"Original: {r['source_url']}  ",
@@ -359,6 +379,11 @@ def export_markdown(records, directory, archive_records=(), archive_feeds=()):
             f"Credits: {escape_md(r['credits_raw']) or '(not displayed)'}  ",
             'License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)', '',
             '## Meaning', '', escape_md(r['meaning']), '', escape_md(r['meaning_example']), '']
+        if r.get('snapshot'):
+            lines[2:2] = [f"Dated backup: {escape_md(r['snapshot'])}. This observation is from the backup, not the final live version.", '',
+                f"Recovery: [original WARC]({r['retrieval']['url']}), bytes {r['retrieval']['offset']}–{r['retrieval']['offset'] + r['retrieval']['length'] - 1}.", '']
+        if any(s['encoding'] == 'cp932-with-undecodable-bytes' for s in r.get('source_decoding_segments', [])):
+            lines[2:2] = ['The original source contains invalid character bytes. Display uses U+FFFD; the exact original bytes and offsets are preserved in the JSON/SQLite record.', '']
         for kind, title in [('notes', 'Notes'), ('examples', 'Examples'), ('comments', 'Discussion'), ('related_entries', 'See also')]:
             if not r[kind]:
                 continue
@@ -366,7 +391,7 @@ def export_markdown(records, directory, archive_records=(), archive_feeds=()):
             for item in r[kind]:
                 item_name = str(item.get('source_id') or item['position'] + 1)
                 lines.extend([f"### {item_name} — {escape_md(item['credits_raw']) or '(not displayed)'}", '',
-                    item.get('html') or item.get('body_html') or item['annotation_html'], ''])
+                    next(item[field] for field in ('html', 'body_html', 'annotation_html') if field in item), ''])
         for section in r['sections']:
             lines.extend([f"## Source section: {escape_md(section['kind'])}", '', section['html'], ''])
         safe_target(root, name).write_text('\n'.join(lines), encoding='utf-8')

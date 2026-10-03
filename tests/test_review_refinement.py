@@ -44,11 +44,10 @@ class RefinementTests(unittest.TestCase):
         state = json.loads((root / f'states/{KEY}.json').read_text())
         self.assertEqual(state['status'], 'review_required')
         self.assertTrue(report['review_required'])
-        record = read_archive_records(root, for_export=False)[0]
+        record = json.loads((root / f'review-records/{KEY}.json').read_text())
         self.assertEqual(record['archive_timestamp'], older['timestamp'])
         self.assertEqual(len(record['notes']), 6)
-        with self.assertRaisesRegex(ValueError, 'review'):
-            read_archive_records(root)
+        self.assertEqual(read_archive_records(root), [])
 
     def test_legacy_parsed_state_cannot_export_warning_bearing_record(self):
         root = self.root()

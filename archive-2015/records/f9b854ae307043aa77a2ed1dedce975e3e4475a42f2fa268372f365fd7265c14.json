@@ -1,0 +1,82 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1685,
+  "label": "~naosu",
+  "title_raw": "~直す [~なおす] (~naosu)",
+  "title": "~直す",
+  "reading": "~なおす",
+  "romanized_label": "~naosu",
+  "category": "grammar",
+  "jlpt_level_original": "0",
+  "meaning": "to do something again, hoping to improve it",
+  "meaning_example": "This essay is terrible! Please rewrite it (書き直す)",
+  "credits_raw": "jmadsen",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=%7Enaosu",
+  "archive_url": "https://web.archive.org/web/20150224225758id_/http://jgram.org/pages/viewOne.php?tagE=%7Enaosu",
+  "archive_timestamp": "20150224225758",
+  "retrieved_at": "2026-10-03T16:03:41+00:00",
+  "archive_digest": "D5F6BPGMPLMJFOVQPK7H322UXE5CCNIX",
+  "response_sha256": "2b84d1c387248cbce392ae198b3a72a6777c0d2f120eb255932f321a90224382",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [],
+  "examples": [
+    {
+      "source_id": 8668,
+      "position": 0,
+      "japanese": "やりなおす。",
+      "body_text": "やりなおす。\r \n\n\t\t(I) will redo it.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJやりなおす。\">\n\t\t\t\tやりなおす。\r<strong></strong><strong></strong></a> <br/>\n\t\t(I) will redo it. \n\t\t<strong> </strong>",
+      "credits_raw": "mdchachi",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8669,
+      "position": 1,
+      "japanese": "聞き直したがまだわからない。",
+      "body_text": "聞き直したがまだわからない。 \n\n\t\t(I) listened to it again but I still don't understand it.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ聞き直したがまだわからない。\">\n\t\t\t\t聞き直したがまだわからない。<strong></strong><strong></strong></a> <br/>\n\t\t(I) listened to it again but I still don't understand it. \n\t\t<strong> </strong>",
+      "credits_raw": "mdchachi",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [],
+  "related_entries": [],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "~直す [~なおす] (~naosu)\n    Meaning: to do something again, hoping to improve it \n    Example: This essay is terrible! Please rewrite it (書き直す)\n    JLPT Level: 0\n    Category: grammar\n    Author: jmadsen",
+      "html": "<span>~直す [~なおす] (~naosu)</span><br/>    <span><b>Meaning</b>: to do something again, hoping to improve it </span><br/>    <b>Example</b>: <i>This essay is terrible! Please rewrite it (書き直す)</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>jmadsen</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224225758",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 6614645,
+    "length": 5076,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "4f139589be3a122d061d4b9556023745b96eb6c0d7ee6f6eacf264e2f95826ef"
+  }
+}

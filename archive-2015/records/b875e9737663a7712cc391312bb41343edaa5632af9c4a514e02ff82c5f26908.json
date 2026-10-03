@@ -1,0 +1,69 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1667,
+  "label": "Shidaini",
+  "title_raw": "次第に [しだいに] (Shidaini)",
+  "title": "次第に",
+  "reading": "しだいに",
+  "romanized_label": "Shidaini",
+  "category": null,
+  "jlpt_level_original": "0",
+  "meaning": "Gradually, little by little",
+  "meaning_example": "After the winter solstice, the days gradually become longer.",
+  "credits_raw": "Darrkangel",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=Shidaini",
+  "archive_url": "https://web.archive.org/web/20150224225839id_/http://jgram.org/pages/viewOne.php?tagE=Shidaini",
+  "archive_timestamp": "20150224225839",
+  "retrieved_at": "2026-10-03T16:03:41+00:00",
+  "archive_digest": "LY7BQ4MXXTOMASINBPY4CJN6DAXPWA32",
+  "response_sha256": "5e5b5117991ec7ba893848ad0a8fbaf41880ea94cca372369a2ffcfc7badbb95",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [],
+  "examples": [
+    {
+      "source_id": 8064,
+      "position": 0,
+      "japanese": "夜が次第に長くなる.",
+      "body_text": "夜が次第に長くなる.\r \n\n\t\tThe nights are gaining on the day.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ夜が次第に長くなる.\">\n\t\t\t\t夜が<strong>次第に</strong>長くなる.\r<strong></strong></a> <br/>\n\t\tThe nights are gaining on the day. \n\t\t<strong> </strong>",
+      "credits_raw": "doma",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [],
+  "related_entries": [],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "次第に [しだいに] (Shidaini)\n    Meaning: Gradually, little by little \n    Example: After the winter solstice, the days gradually become longer.\n    JLPT Level: 0\n    Author: Darrkangel",
+      "html": "<span>次第に [しだいに] (Shidaini)</span><br/>    <span><b>Meaning</b>: Gradually, little by little </span><br/>    <b>Example</b>: <i>After the winter solstice, the days gradually become longer.</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Author</b>: <i>Darrkangel</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224225839",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 7271968,
+    "length": 4957,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "4fe9f45769411cbf596743485bca3f068a21e009761f9b60f2bc4914a89fa052"
+  }
+}

@@ -1,9 +1,7 @@
 {
   "label": "(de)sura",
   "status": "parsed",
-  "checked_at": "2026-10-03T08:38:24+00:00",
-  "verification": "offline-source-audit",
-  "current_membership_sha256": "f0ede151dd9a879c35e32707eeb1c6abc834b74a65f2200e03f7a79d55cca927",
+  "checked_at": "2026-10-03T15:33:19+00:00",
   "latest_indexed_timestamp": "20200215022833",
   "eligible_ids": [
     55,
@@ -651,13 +649,16 @@
     1797
   ],
   "capture": {
-    "label": "(de)sura",
-    "original": "http://jgram.org:80/pages/viewOne.php?tagE=(de)sura",
-    "archive_url": "https://web.archive.org/web/20200215022833id_/http://jgram.org:80/pages/viewOne.php?tagE=(de)sura",
     "timestamp": "20200215022833",
-    "digest": "VDXPRKEIDS4WCCG76LEFNDM6EDQO7AOT"
+    "original": "http://jgram.org:80/pages/viewOne.php?tagE=(de)sura",
+    "mimetype": "text/html",
+    "digest": "VDXPRKEIDS4WCCG76LEFNDM6EDQO7AOT",
+    "label": "(de)sura",
+    "archive_url": "https://web.archive.org/web/20200215022833id_/http://jgram.org:80/pages/viewOne.php?tagE=(de)sura"
   },
+  "requested_timestamp": "20200215022833",
   "response_sha256": "0579aa35112aebbf56bf95cf8a1c776dde08a94ecef26a463fc3372255f325a3",
+  "retrieved_at": "2026-10-03T06:09:27+00:00",
   "record_sha256": "23699ac0c3484f798266748167b98b1bc1e2f0dca34e6529174eeeaf8eeaac61",
-  "retrieved_at": "2026-10-03T06:09:27+00:00"
+  "selection_attempts": []
 }

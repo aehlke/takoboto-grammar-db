@@ -5,6 +5,7 @@ Page Now calls, proxy rotation, authentication, or live-origin fallbacks.
 """
 
 import hashlib
+import base64
 import json
 import re
 import time
@@ -246,15 +247,45 @@ def discover_archive(fetcher):
     for label, rows in sorted(labels.items()):
         # Keep the latest timestamp of each body digest for fallback; unlike CDX
         # collapse=urlkey/digest this does not accidentally select an earliest capture.
-        unique = {}
+        unique, alternates = {}, []
         for row in sorted(rows, key=lambda r: (r['timestamp'], r['original']), reverse=True):
-            unique.setdefault(row['digest'] if row['digest'] != '-' else row['archive_url'], row)
-        entries.append({'label': label, 'captures': list(unique.values())})
+            key = row['digest'] if row['digest'] != '-' else row['archive_url']
+            if key in unique:
+                alternates.append(row)
+            else:
+                unique[key] = row
+        entries.append({'label': label, 'captures': list(unique.values()), 'alternate_captures': alternates})
     inventory = {'source': 'jgram-wayback', 'discovered_at': now(), 'cdx_complete': True,
                  'selection': 'latest available successful JGram grammar page per canonical tagE label',
                  'pages': pages, 'capture_count': len(captures), 'label_count': len(entries), 'entries': entries}
     write_json(fetcher.root, 'inventory.json', inventory)
     return inventory
+
+
+def replay_candidates(item):
+    """Try up to three observations of each of three distinct revisions."""
+    for primary in item['captures'][:3]:
+        yield primary
+        if re.fullmatch(r'[A-Z2-7]{32}', primary.get('digest') or ''):
+            matching = [row for row in item.get('alternate_captures', [])
+                        if row['digest'] == primary['digest']]
+            yield from sorted(matching, key=lambda r: (r['timestamp'], r['original']), reverse=True)[:2]
+
+
+def latest_body_equivalent(body, capture, item):
+    """Prove payload identity using both indexed membership and raw SHA-1.
+
+    CDX timestamps alone do not establish equivalence. Unknown digests and
+    unindexed redirect destinations cannot satisfy this check.
+    """
+    latest = item['captures'][0]
+    digest = latest.get('digest') or ''
+    if not re.fullmatch(r'[A-Z2-7]{32}', digest):
+        return False
+    indexed = item['captures'] + item.get('alternate_captures', [])
+    return (base64.b32encode(hashlib.sha1(body).digest()).decode() == digest and
+            any(row.get('digest') == digest and all(row.get(key) == capture.get(key)
+                for key in ('label', 'timestamp', 'original', 'archive_url')) for row in indexed))
 
 
 def crawl_archive(fetcher, inventory, eligible_ids=(), limit=None):
@@ -272,7 +303,7 @@ def crawl_archive(fetcher, inventory, eligible_ids=(), limit=None):
         # A pending hold prevents an interrupted refresh from exporting an older record.
         write_json(fetcher.root, f'states/{key}.json', state)
         try:
-            for candidate in item['captures']:
+            for candidate in replay_candidates(item):
                 try:
                     body, meta = fetcher.get(candidate['archive_url'])
                     # Wayback can redirect to a different capture. Preserve actual time.
@@ -285,18 +316,23 @@ def crawl_archive(fetcher, inventory, eligible_ids=(), limit=None):
                     if original_label(final_original) != label:
                         raise ParseError('Replay redirected to a different JGram label')
                     actual['original'] = final_original
+                    indexed = item['captures'] + item.get('alternate_captures', [])
+                    actual['digest'] = next((row.get('digest') for row in indexed
+                        if row['archive_url'] == actual['archive_url']), None)
                     digest = hashlib.sha256(body).hexdigest()
                     cache_response(fetcher.root, f'cache/responses/{digest}.bin', body)
                     state.update(capture=actual, requested_timestamp=candidate['timestamp'],
                                  response_sha256=digest, retrieved_at=meta['retrieved_at'])
+                    equivalent = latest_body_equivalent(body, actual, item)
                     record = parse_archive(body, actual, meta['retrieved_at'], eligible_ids)
-                    if attempts:
+                    if attempts and not equivalent:
                         record['warnings'].append('Used older capture after latest replay failed; inspect selection_attempts')
-                    if actual['timestamp'] != candidate['timestamp']:
+                    if actual['timestamp'] != candidate['timestamp'] and not equivalent:
                         record['warnings'].append('Replay redirected to a different capture timestamp')
                     record['selection_attempts'] = attempts
                     record['latest_indexed_timestamp'] = item['captures'][0]['timestamp']
-                    write_json(fetcher.root, f'records/{key}.json', record)
+                    folder = 'review-records' if record['warnings'] else 'records'
+                    write_json(fetcher.root, f'{folder}/{key}.json', record)
                     state.update(status='review_required' if record['warnings'] else 'parsed',
                                  record_sha256=record_digest(record))
                     if record['warnings']:
@@ -314,16 +350,17 @@ def crawl_archive(fetcher, inventory, eligible_ids=(), limit=None):
                     consecutive_failures = 0
                     break
                 except NotGrammar as exc:
-                    state.update(status='excluded', reason=str(exc))
-                    report['excluded'].append({'label': label, 'reason': str(exc), 'archive_url': candidate['archive_url']})
+                    held = ((attempts or actual['timestamp'] != item['captures'][0]['timestamp']) and not equivalent)
+                    status = 'review_required' if held else 'excluded'
+                    reason = 'Older non-grammar observation does not establish latest scope' if held else str(exc)
+                    state.update(status=status, reason=reason)
+                    report[status].append({'label': label, 'reason': reason, 'archive_url': actual['archive_url']})
                     consecutive_failures = 0
                     break
                 except (ParseError, HTTPError) as exc:
                     attempts.append({'archive_url': candidate['archive_url'], 'error': str(exc)})
-                    if len(attempts) >= 3:
-                        report['failed'].append({'label': label, 'attempts': attempts})
-                        consecutive_failures += 1
-                        break
+                    if isinstance(exc, HTTPError):
+                        exc.close()
             else:
                 report['failed'].append({'label': label, 'attempts': attempts})
                 consecutive_failures += 1
@@ -341,6 +378,7 @@ def crawl_archive(fetcher, inventory, eligible_ids=(), limit=None):
         finally:
             if state['status'] == 'pending':
                 state['status'] = 'failed'
+            state['selection_attempts'] = attempts
             state['checked_at'] = now()
             write_json(fetcher.root, f'states/{key}.json', state)
             write_json(fetcher.root, 'crawl-report.json', report)

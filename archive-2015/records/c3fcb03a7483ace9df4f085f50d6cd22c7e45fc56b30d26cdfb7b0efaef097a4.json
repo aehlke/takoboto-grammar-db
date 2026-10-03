@@ -1,0 +1,102 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 1643,
+  "label": "niyoreba",
+  "title_raw": "によれば [によれば] (niyoreba)",
+  "title": "によれば",
+  "reading": "によれば",
+  "romanized_label": "niyoreba",
+  "category": "grammar",
+  "jlpt_level_original": "2",
+  "meaning": "According to",
+  "meaning_example": "According to the weather forecast, it appears tomorrow will be sunny.",
+  "credits_raw": "hana",
+  "source_url": "http://jgram.org/pages/viewOne.php?tagE=niyoreba",
+  "archive_url": "https://web.archive.org/web/20150224225541id_/http://jgram.org/pages/viewOne.php?tagE=niyoreba",
+  "archive_timestamp": "20150224225541",
+  "retrieved_at": "2026-10-03T16:03:23+00:00",
+  "archive_digest": "H7V34K32ZJQZOYPU5Z2GVR2JZ24HSSOL",
+  "response_sha256": "bcd393e19c2aa771943b229b46c9526e7f23cdedda273feba515e1f4013e4755",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [
+    {
+      "position": 0,
+      "text": "Same as によると",
+      "html": "Same as によると",
+      "credits_raw": "nazonatte69",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "examples": [
+    {
+      "source_id": 6591,
+      "position": 0,
+      "japanese": "さっきの地震はテレビの速報によれば震度３だそうだ。",
+      "body_text": "さっきの地震はテレビの速報によれば震度３だそうだ。\r \n\n\t\tAccording to the news flash on TV, it seems the earthquake just now had a strength of 3.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJさっきの地震はテレビの速報によれば震度３だそうだ。\">\n\t\t\t\tさっきの地震はテレビの速報<strong>によれば</strong>震度３だそうだ。\r<strong></strong></a> <br/>\n\t\tAccording to the news flash on TV, it seems the earthquake just now had a strength of 3. \n\t\t<strong> </strong>",
+      "credits_raw": "hana",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 6593,
+      "position": 1,
+      "japanese": "天気よほうによれば、明日は晴れるらしい。",
+      "body_text": "天気よほうによれば、明日は晴れるらしい。\r \n\n\t\tAccording to the weather forecast, it appears tomorrow will be sunny.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ天気よほうによれば、明日は晴れるらしい。\">\n\t\t\t\t天気よほう<strong>によれば</strong>、明日は晴れるらしい。\r<strong></strong></a> <br/>\n\t\tAccording to the weather forecast, it appears tomorrow will be sunny. \n\t\t<strong> </strong>",
+      "credits_raw": "hana",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "credits_raw": "tigert",
+      "text": "is this 放言",
+      "html": "is this 放言",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "によれば [によれば] (niyoreba)\n    Meaning: According to \n    Example: According to the weather forecast, it appears tomorrow will be sunny.\n    JLPT Level: 2\n    Category: grammar\n    Author: hana",
+      "html": "<span>によれば [によれば] (niyoreba)</span><br/>    <span><b>Meaning</b>: According to </span><br/>    <b>Example</b>: <i>According to the weather forecast, it appears tomorrow will be sunny.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>hana</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224225541",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 3525388,
+    "length": 5176,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "3ff22e2f19d06a2e83d2e6b44b4acfbec13f663ea15d719b927e69a27e643205"
+  }
+}

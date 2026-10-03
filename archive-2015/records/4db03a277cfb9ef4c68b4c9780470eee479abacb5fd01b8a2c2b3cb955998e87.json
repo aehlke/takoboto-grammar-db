@@ -1,0 +1,310 @@
+{
+  "archive_schema_version": 1,
+  "source": "jgram-wayback",
+  "id": 626,
+  "label": "ni",
+  "title_raw": "〜に [〜に] (ni)",
+  "title": "〜に",
+  "reading": "〜に",
+  "romanized_label": "ni",
+  "category": "grammar",
+  "jlpt_level_original": "4",
+  "meaning": "(location marker, time marker, direction marker)",
+  "meaning_example": "There's a dog in that car.",
+  "credits_raw": "Amatuka",
+  "source_url": "http://www.jgram.org/pages/viewOne.php?tagE=ni&date=2015-2-24",
+  "archive_url": "https://web.archive.org/web/20150224230023id_/http://www.jgram.org/pages/viewOne.php?tagE=ni&date=2015-2-24",
+  "archive_timestamp": "20150224230023",
+  "retrieved_at": "2026-10-03T16:04:12+00:00",
+  "archive_digest": "L7XVM6YNQY7PT6VIHXSRJM6I2QOOLV7Z",
+  "response_sha256": "afe8c146d5469e8373c29420da24488ae538b4c05f4669973053ebaf0e900bf8",
+  "encoding": "shift-jis",
+  "license": {
+    "id": "CC-BY-SA-2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "license_links": [
+    "http://creativecommons.org/licenses/by-sa/2.0/",
+    "http://creativecommons.org/licenses/by-sa/2.0/"
+  ],
+  "notes": [
+    {
+      "position": 0,
+      "text": "Ni can mark time such as:\n\n\n\r\nAt 3:00 pm, I studied French.\n\r\n午後三時間にフランス語を勉強しました。\n\n\n\r\nAn object location marker:\n\n\n\r\nIn Tokyo, there is the Tokyo Tower.\n\r\n東京に東京タワーにあります。\n\n\n\r\nAnd direction:\n\n\n\r\nI'm going to the store tomorrow.\n\r\n明日店に行きます。",
+      "html": "Ni can mark time such as:<br/>\n<br/>\r\nAt 3:00 pm, I studied French.<br/>\r\n午後三時間にフランス語を勉強しました。<br/>\n<br/>\r\nAn object location marker:<br/>\n<br/>\r\nIn Tokyo, there is the Tokyo Tower.<br/>\r\n東京に東京タワーにあります。<br/>\n<br/>\r\nAnd direction:<br/>\n<br/>\r\nI'm going to the store tomorrow.<br/>\r\n明日店に行きます。",
+      "credits_raw": "Sakuratree",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "examples": [
+    {
+      "source_id": 668,
+      "position": 0,
+      "japanese": "その車に犬 が います 。[sono kuruma ni inu ga imasu ]",
+      "body_text": "その車に犬 が います 。[sono kuruma ni inu ga imasu ] \n\n\t\tThere is a dog \n\t\tin \n\t\tthat car.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJその車に犬 が います 。[sono kuruma \">\n\t\t\t\tその車<strong>に</strong>犬 が います 。[sono kuruma <strong>ni </strong>inu ga imasu ]</a> <br/>\n\t\tThere is a dog \n\t\t<strong>in </strong>\n\t\tthat car.",
+      "credits_raw": "Amatuka",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4885,
+      "position": 1,
+      "japanese": "１０時に約束があります。",
+      "body_text": "１０時に約束があります。 \n\n\t\tI have an appointment \n\t\tat \n\t\tten.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ１０時に約束があります。\">\n１０時<strong>に</strong>約束があります。<strong></strong></a> <br/>\n\t\tI have an appointment \n\t\t<strong>at </strong>\n\t\tten.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4886,
+      "position": 2,
+      "japanese": "きっかり９時に来なさい。",
+      "body_text": "きっかり９時に来なさい。 \n\n\t\tCome \n\t\tat \n\t\tnine o'clock sharp.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJきっかり９時に来なさい。\">\n\t\t\t\tきっかり９時<strong>に</strong>来なさい。<strong></strong></a> <br/>\n\t\tCome \n\t\t<strong>at </strong>\n\t\tnine o'clock sharp.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4887,
+      "position": 3,
+      "japanese": "１０人の学生が同時に立ち上がった。",
+      "body_text": "１０人の学生が同時に立ち上がった。 \n\n\t\tTen students stood up all \n\t\tat once.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ１０人の学生が同時に立ち上がった。\">\n\t\t\t\t１０人の学生が同時<strong>に</strong>立ち上がった。<strong></strong></a> <br/>\n\t\tTen students stood up all \n\t\t<strong>at once. </strong>",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4888,
+      "position": 4,
+      "japanese": "２時に空港に見送りに行きます。",
+      "body_text": "２時に空港に見送りに行きます。 \n\n\t\tI'm going to see her off \n\t\tat \n\t\tthe airport at 2:00.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ２時に空港\">\n２時<strong>に</strong>空港<strong>に</strong>見送りに行きます。</a> <br/>\n\t\tI'm going to see her off \n\t\t<strong>at </strong>\n\t\tthe airport at 2:00.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4889,
+      "position": 5,
+      "japanese": "彼は休暇でコロラドにいる。",
+      "body_text": "彼は休暇でコロラドにいる。 \n\n\t\tHe is on vacation \n\t\tin \n\t\tColorado.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼は休暇でコロラドにいる。\">\n\t\t\t\t彼は休暇でコロラド<strong>に</strong>いる。<strong></strong></a> <br/>\n\t\tHe is on vacation \n\t\t<strong>in </strong>\n\t\tColorado.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4890,
+      "position": 6,
+      "japanese": "だれか玄関にいる。",
+      "body_text": "だれか玄関にいる。 \n\n\t\tSomeone is \n\t\tat \n\t\tthe door.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJだれか玄関にいる。\">\n\t\t\t\tだれか玄関<strong>に</strong>いる。<strong></strong></a> <br/>\n\t\tSomeone is \n\t\t<strong>at </strong>\n\t\tthe door.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4891,
+      "position": 7,
+      "japanese": "その町はロンドンのすぐ北にある。",
+      "body_text": "その町はロンドンのすぐ北にある。 \n\n\t\tThe town lies just \n\t\tabove \n\t\tLondon.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJその町はロンドンのすぐ北にある。\">\n\t\t\t\tその町はロンドンのすぐ北<strong>に</strong>ある。<strong></strong></a> <br/>\n\t\tThe town lies just \n\t\t<strong>above </strong>\n\t\tLondon.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4892,
+      "position": 8,
+      "japanese": "その店は通りの左側にある。",
+      "body_text": "その店は通りの左側にある。 \n\n\t\tThe shop is \n\t\ton \n\t\tthe left side of the street.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJその店は通りの左側にある。\">\n\t\t\t\tその店は通りの左側<strong>に</strong>ある。<strong></strong></a> <br/>\n\t\tThe shop is \n\t\t<strong>on </strong>\n\t\tthe left side of the street.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4893,
+      "position": 9,
+      "japanese": "アルプス山脈はヨーロッパの中央にある。",
+      "body_text": "アルプス山脈はヨーロッパの中央にある。 \n\n\t\tThe Alps are \n\t\tin \n\t\tthe centre of Europe.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJアルプス山脈はヨーロッパの中央にある。\">\n\t\t\t\tアルプス山脈はヨーロッパの中央<strong>に</strong>ある。<strong></strong></a> <br/>\n\t\tThe Alps are \n\t\t<strong>in </strong>\n\t\tthe centre of Europe.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4894,
+      "position": 10,
+      "japanese": "サンフランシスコはアメリカの西海岸にある。",
+      "body_text": "サンフランシスコはアメリカの西海岸にある。 \n\n\t\tSan Francisco is \n\t\ton \n\t\tthe West Coast of the U.S.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJサンフランシスコはアメリカの西海岸にある。\">\n\t\t\t\tサンフランシスコはアメリカの西海岸<strong>に</strong>ある。<strong></strong></a> <br/>\n\t\tSan Francisco is \n\t\t<strong>on </strong>\n\t\tthe West Coast of the U.S.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4895,
+      "position": 11,
+      "japanese": "テレビのリモコンがソファーの下にある。",
+      "body_text": "テレビのリモコンがソファーの下にある。 \n\n\t\tA TV remote control is \n\t\tunder \n\t\tthe couch.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJテレビのリモコンがソファーの下にある。\">\n\t\t\t\tテレビのリモコンがソファーの下<strong>に</strong>ある。<strong></strong></a> <br/>\n\t\tA TV remote control is \n\t\t<strong>under </strong>\n\t\tthe couch.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4896,
+      "position": 12,
+      "japanese": "バス停は学校の近くにある。",
+      "body_text": "バス停は学校の近くにある。 \n\n\t\tThe bus stop is \n\t\tnear \n\t\tour school.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJバス停は学校の近くにある。\">\n\t\t\t\tバス停は学校の近く<strong>に</strong>ある。<strong></strong></a> <br/>\n\t\tThe bus stop is \n\t\t<strong>near </strong>\n\t\tour school.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4897,
+      "position": 13,
+      "japanese": "ローマはイタリアにある。",
+      "body_text": "ローマはイタリアにある。 \n\n\t\tRome is \n\t\tin \n\t\tItaly.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJローマはイタリアにある。\">\n\t\t\t\tローマはイタリア<strong>に</strong>ある。<strong></strong></a> <br/>\n\t\tRome is \n\t\t<strong>in </strong>\n\t\tItaly.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 4898,
+      "position": 14,
+      "japanese": "空は私たちの頭上にある。",
+      "body_text": "空は私たちの頭上にある。 \n\n\t\tThe sky is \n\t\tover \n\t\tat heads.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ空は私たちの頭上にある。\">\n\t\t\t\t空は私たちの頭上<strong>に</strong>ある。<strong></strong></a> <br/>\n\t\tThe sky is \n\t\t<strong>over </strong>\n\t\tat heads.",
+      "credits_raw": "Miki",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "source_id": 8631,
+      "position": 15,
+      "japanese": "午後６：００にビデオを作りました。",
+      "body_text": "午後６：００にビデオを作りました。 \n\n\t\tI made the video at 6:00 pm.",
+      "body_html": "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ午後６：００にビデオを作りました。\">\n\t\t\t\t午後６：００<strong>に</strong>ビデオを作りました。<strong></strong></a> <br/>\n\t\tI made the video at 6:00 pm. \n\t\t<strong> </strong>",
+      "credits_raw": "Sakuratree",
+      "verification_class": [
+        "bottom"
+      ],
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "comments": [
+    {
+      "position": 0,
+      "credits_raw": "Amatuka",
+      "text": "There are a few places where に can't be used.\n\r\n×友だちにのプレゼント [tomodachi ni no purezento] BAD\n\r\n○友だちへのプレゼント [tomodachi he no purezento] GOOD\n\n\n\r\nAnd some where only に can be used\n\r\n事務所にパソコンがある [jimusho ni pasokon ga aru]",
+      "html": "There are a few places where に can't be used.<br/>\r\n×友だちにのプレゼント [tomodachi ni no purezento] BAD<br/>\r\n○友だちへのプレゼント [tomodachi he no purezento] GOOD<br/>\n<br/>\r\nAnd some where only に can be used<br/>\r\n事務所にパソコンがある [jimusho ni pasokon ga aru]",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    },
+    {
+      "position": 1,
+      "credits_raw": "arachanox",
+      "text": "In the Notes section, the first sample talks about three hours, the time span, not three o'clock,\n\r\n三時間 is not 三時\n\r\nAnd the second means \n\r\nIt's in Tokyo *at the Tokyo Tower.\n\r\nI think.",
+      "html": "In the Notes section, the first sample talks about three hours, the time span, not three o'clock,<br/>\r\n三時間 is not 三時<br/>\r\nAnd the second means <br/>\r\nIt's in Tokyo *at the Tokyo Tower.<br/>\r\nI think.<br/>",
+      "source_id": null,
+      "original_created_at": null,
+      "original_updated_at": null
+    }
+  ],
+  "related_entries": [
+    {
+      "position": 0,
+      "target_label": "he",
+      "label": "he",
+      "annotation_text": "he [dc]",
+      "annotation_html": "<a href=\"http://www.jgram.org/pages/viewOne.php?tagE=he\">he</a> [<a href=\"http://www.jgram.org/pages/contributions.php?author=dc\">dc</a>]",
+      "credits_raw": "dc"
+    },
+    {
+      "position": 1,
+      "target_label": "ni-2",
+      "label": "ni-2",
+      "annotation_text": "ni-2    (Note に use for object/time location vs. indirect object marker.) [Amatuka]",
+      "annotation_html": "<a href=\"http://www.jgram.org/pages/viewOne.php?tagE=ni-2\">ni-2</a>    (Note に use for object/time location vs. indirect object marker.) [<a href=\"http://www.jgram.org/pages/contributions.php?author=Amatuka\">Amatuka</a>]",
+      "credits_raw": "Amatuka"
+    }
+  ],
+  "sections": [
+    {
+      "kind": "header",
+      "text": "〜に [〜に] (ni)\n    Meaning: (location marker, time marker, direction marker) \n    Example: There's a dog in that car.\n    JLPT Level: 4\n    Category: grammar\n    Author: Amatuka",
+      "html": "<span>〜に [〜に] (ni)</span><br/>    <span><b>Meaning</b>: (location marker, time marker, direction marker) </span><br/>    <b>Example</b>: <i>There's a dog in that car.</i><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/><br/>"
+    }
+  ],
+  "original_created_at": null,
+  "original_updated_at": null,
+  "warnings": [],
+  "snapshot": "archivebot-2015-02",
+  "latest_indexed_timestamp": "20150224230023",
+  "selection_attempts": [],
+  "retrieval": {
+    "method": "archive-item-warc-range",
+    "url": "https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz",
+    "offset": 9311319,
+    "length": 6715,
+    "index_sha256": "4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed",
+    "member_sha256": "7f3dfd8bb920d0de0d960f9832b81d0b518b396a6a1218933d4c37a627e28ea2"
+  }
+}

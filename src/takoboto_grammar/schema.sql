@@ -1,5 +1,5 @@
 PRAGMA foreign_keys = ON;
-PRAGMA user_version = 2;
+PRAGMA user_version = 3;
 
 CREATE TABLE metadata (key TEXT PRIMARY KEY, value TEXT NOT NULL);
 CREATE TABLE sources (
@@ -79,7 +79,7 @@ CREATE TABLE archive_examples (
     entry_key TEXT NOT NULL REFERENCES archive_entries(key), source_id INTEGER NOT NULL,
     position INTEGER NOT NULL, japanese TEXT, body_text TEXT NOT NULL,
     body_html TEXT NOT NULL, credits_raw TEXT, verification_class_json TEXT NOT NULL,
-    PRIMARY KEY(entry_key, source_id)
+    PRIMARY KEY(entry_key, position)
 );
 CREATE TABLE archive_comments (
     entry_key TEXT NOT NULL REFERENCES archive_entries(key), position INTEGER NOT NULL,

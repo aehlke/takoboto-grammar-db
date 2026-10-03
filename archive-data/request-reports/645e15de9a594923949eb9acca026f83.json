@@ -1,0 +1,43 @@
+{
+  "run_id": "645e15de9a594923949eb9acca026f83",
+  "finished_at": "2026-10-03T15:13:58+00:00",
+  "request_interval_seconds": 5,
+  "burst_size": 3,
+  "burst_pause_seconds": 30,
+  "concurrency": 1,
+  "attempt_count": 4,
+  "attempts": [
+    {
+      "url": "https://web.archive.org/robots.txt",
+      "started_at": "2026-10-03T15:13:18.290+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.206066
+    },
+    {
+      "url": "https://web.archive.org/web/20200215023339id_/http://jgram.org:80/pages/viewOne.php?tagE=juu/chuu",
+      "started_at": "2026-10-03T15:13:23.300+00:00",
+      "status": 200,
+      "bytes_read": 19623,
+      "error_type": null,
+      "duration_seconds": 0.64411
+    },
+    {
+      "url": "https://web.archive.org/web/20200215024045id_/http://jgram.org:80/pages/viewOne.php?tagE=oku",
+      "started_at": "2026-10-03T15:13:28.310+00:00",
+      "status": 200,
+      "bytes_read": 24021,
+      "error_type": null,
+      "duration_seconds": 0.231976
+    },
+    {
+      "url": "https://web.archive.org/web/20200215024315id_/http://jgram.org:80/pages/viewOne.php?tagE=teshouganai;+tetamaranai",
+      "started_at": "2026-10-03T15:13:58.544+00:00",
+      "status": 200,
+      "bytes_read": 20724,
+      "error_type": null,
+      "duration_seconds": 0.324401
+    }
+  ]
+}

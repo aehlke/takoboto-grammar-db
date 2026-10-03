@@ -1,174 +1,30 @@
 {
-  "started_at": "2026-10-03T06:39:40+00:00",
-  "selected_labels": 27,
+  "started_at": "2026-10-03T18:01:46+00:00",
+  "selected_labels": 1,
   "indexed_labels": 1414,
   "parsed": [
     {
-      "label": "(de)sura",
-      "id": 1507,
-      "archive_timestamp": "20200215022833",
-      "key": "bf6ccff9aba5a0bb38cc95a0058e125ff4a18d4e3e15fc1eb3b2bebac0b7d0e9"
-    },
-    {
-      "label": "-hajimeru",
-      "id": 1301,
-      "archive_timestamp": "20200215024635",
-      "key": "1d2b5f78f72cc004b49759befa197eb95e9cb6398379e6838cb3eae0c9b36350"
-    },
-    {
-      "label": "-nakattarou probable negative plain form",
-      "id": 1784,
-      "archive_timestamp": "20200215022838",
-      "key": "a6e8fc070da0c8fbf57809254227ebabb85c8e14c1ec87edb1079f1c838c80f8"
-    },
-    {
-      "label": "Group 1 Verb Exceptions",
-      "id": 1393,
-      "archive_timestamp": "20200215021125",
-      "key": "6b7ea57ce220b4f1db71f93774f7718efa40277b7327c718c32d4489bd0d259c"
-    },
-    {
-      "label": "Verb Groups",
-      "id": 615,
-      "archive_timestamp": "20200215030338",
-      "key": "02e902fe8ad0e36519e229281d436bea6528071228e517fb0a461a5f9c7a2c65"
-    },
-    {
-      "label": "Verb Groups I",
-      "id": 610,
-      "archive_timestamp": "20200216030005",
-      "key": "66ca803512da8a549623d2e103b3870a87b8f68a724180c07c915b15f5008772"
-    },
-    {
-      "label": "ageku",
-      "id": 978,
-      "archive_timestamp": "20200215021200",
-      "key": "0f33b9cf78d3f0ca0afb964ae203321a098c0b447d12dd199cfa8da7c8160eb3"
-    },
-    {
-      "label": "at-the-time-group",
-      "id": 1225,
-      "archive_timestamp": "20200215021230",
-      "key": "41e53bc2f1a45023beeae8886fb2dc4d9521eaa5af4a486e4c0668f0223ac6b9"
-    },
-    {
-      "label": "basis-of-action-group",
-      "id": 958,
-      "archive_timestamp": "20200215022958",
-      "key": "f25511cb47321de34af0ba4c9d2ef0334e5ae12ad0837bc650150982ab483258"
-    },
-    {
-      "label": "depend-correspond-group",
-      "id": 962,
-      "archive_timestamp": "20200215023053",
-      "key": "2fe59fb0bf549f4b488e06aa74f8153a46522ce62e304f722753c70a3e1b3d9d"
-    },
-    {
-      "label": "evaluation-group",
-      "id": 957,
-      "archive_timestamp": "20200215021415",
-      "key": "0212be5064df5550ac9fa5e5bc243440936ee20f55e283b4b64a22f3fe2eefbe"
-    },
-    {
-      "label": "ga-2",
-      "id": 725,
-      "archive_timestamp": "20200919182854",
-      "key": "7365f301fc1f33d8901d286cb147b34398b230ae1216258bbc3a1f6bcf3a8207"
-    },
-    {
-      "label": "kanete",
-      "id": 1355,
-      "archive_timestamp": "20200215025116",
-      "key": "5d7491fae3ef3cc444aedecf01a2822745c48316e613c55f3ec9e97031080df9"
-    },
-    {
-      "label": "kawaru-group",
-      "id": 928,
-      "archive_timestamp": "20200215021726",
-      "key": "dfedec346415483efdf69b8631c0a1da8f49f5fcd23b5e4367ee5e3f9c92195a"
-    },
-    {
-      "label": "kotoni-group",
-      "id": 912,
-      "archive_timestamp": "20200919182110",
-      "key": "f0bdfd43d8af58bf0340d8816549237f7cfe1ae21f00da0c8e1d04af45e3fbad"
-    },
-    {
-      "label": "looks/seems/heard-group",
-      "id": 924,
-      "archive_timestamp": "20200215025321",
-      "key": "db9dce57566e5d310ef5e43114ad21a24912e3aeb8cbcedf9f69d70d48147887"
-    },
-    {
-      "label": "naiyouni",
-      "id": 1725,
-      "archive_timestamp": "20200215031103",
-      "key": "7440e56f8b021ddb92a39107bb1b78ee1e9ae8636fc51338fd8908ab68ee266d"
-    },
-    {
-      "label": "ni",
-      "id": 626,
-      "archive_timestamp": "20201111223938",
-      "key": "4db03a277cfb9ef4c68b4c9780470eee479abacb5fd01b8a2c2b3cb955998e87"
-    },
-    {
-      "label": "nikaketeha",
-      "id": 414,
-      "archive_timestamp": "20051105103734",
-      "key": "d46c305cf8affc958e43592dd6c17fe84cbb38b454773bc3f2237f3f95644866"
-    },
-    {
-      "label": "simultaneous-actions-group",
-      "id": 926,
-      "archive_timestamp": "20200215024135",
-      "key": "612219217520fd215678965df280a16498d0181f1132060248f3006a69db6fdf"
-    },
-    {
-      "label": "since/because-group",
-      "id": 1153,
-      "archive_timestamp": "20200215022402",
-      "key": "ae76b4273776b222527c45eeacedb19093fb82dd8d2d1c47c8f365d445dfbefd"
-    },
-    {
-      "label": "sugiru",
-      "id": 1537,
-      "archive_timestamp": "20200215031616",
-      "key": "f1e7a5a33858326da75bcf7516b00d09f64aa0eebed60bb66de2100266fe3d88"
-    },
-    {
-      "label": "toki",
-      "id": 509,
-      "archive_timestamp": "20200215022522",
-      "key": "044984e115110d534d72d8aaef9f100a88b7446bdbe3371e804be27f6b9611a2"
-    },
-    {
-      "label": "unrelated-group",
-      "id": 964,
-      "archive_timestamp": "20200215031852",
-      "key": "51951807b251c84fe31bc769a5ee6c96e4e6d6b0473e74f4e4ce9ee2b8e59d8b"
-    },
-    {
-      "label": "viewpoint-group",
-      "id": 955,
-      "archive_timestamp": "20200215022637",
-      "key": "ff01ee9226af89011d59997433a1a433a1a86495ccd160482036448da242a77e"
+      "label": "da",
+      "id": 568,
+      "archive_timestamp": "20200215030503",
+      "key": "aa58b21b01d6b8a99c1a5856962dbac36c758a79dc0a77c2e013ce2c39ecdc8a"
     }
   ],
   "excluded": [],
   "review_required": [
     {
-      "label": "HonorificAndHumbleForms",
-      "reason": "Additional or conflicting license on historical page; retain response for review",
-      "archive_url": "https://web.archive.org/web/20051226011836id_/http://jgram.org:80/pages/viewOne.php?tagE=HonorificAndHumbleForms"
-    },
-    {
-      "label": "Introduction",
-      "reason": "Additional or conflicting license on historical page; retain response for review",
-      "archive_url": "https://web.archive.org/web/20051226012251id_/http://jgram.org:80/pages/viewOne.php?tagE=Introduction"
+      "label": "da",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215030503id_/http://jgram.org:80/pages/viewOne.php?tagE=da"
     }
   ],
   "failed": [],
-  "warnings": [],
+  "warnings": [
+    {
+      "label": "da",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    }
+  ],
   "complete": false,
-  "finished_at": "2026-10-03T06:39:40+00:00"
+  "finished_at": "2026-10-03T18:01:46+00:00"
 }

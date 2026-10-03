@@ -1,6 +1,7 @@
 """Pooled HTTPX GETs and one conservative request schedule per source host."""
 
 import math
+import re
 import time
 from io import BytesIO
 from urllib.error import HTTPError, URLError
@@ -73,12 +74,21 @@ class HttpxOpener:
                     if response.status_code >= 400:
                         raise HTTPError(str(response.url), response.status_code, response.reason_phrase,
                             response.headers, BytesIO())
+                    requested_range = request.get_header('Range')
+                    if requested_range:
+                        bounds = re.fullmatch(r'bytes=(\d+)-(\d+)', requested_range)
+                        returned = re.fullmatch(r'bytes (\d+)-(\d+)/(\d+)', response.headers.get('Content-Range', ''))
+                        if (response.status_code != 206 or not bounds or not returned or
+                            bounds.groups() != returned.groups()[:2] or int(returned[3]) <= int(returned[2])):
+                            raise ValueError('Server did not honor the exact byte range; stopped before reading the body')
                     body = bytearray()
                     for chunk in response.iter_bytes(chunk_size=65536):
                         body.extend(chunk)
                         event['bytes_read'] = len(body)
                         if len(body) > self.max_bytes:
                             raise ValueError(f'Response exceeds {self.max_bytes} bytes; stop rather than truncate')
+                    if requested_range and len(body) != int(bounds[2]) - int(bounds[1]) + 1:
+                        raise ValueError('Truncated byte-range response')
                     return Response(bytes(body), response)
             except httpx.TimeoutException as exc:
                 event['error_type'] = type(exc).__name__

@@ -1,13 +1,15 @@
 {
-  "checked_at": "2026-10-03T06:51:17+00:00",
+  "checked_at": "2026-10-03T17:54:02+00:00",
   "robots": {
     "url": "https://web.archive.org/robots.txt",
     "status": 404,
-    "retrieved_at": "2026-10-03T06:51:17+00:00",
+    "retrieved_at": "2026-10-03T17:54:02+00:00",
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "policy": "robots.txt unavailable with 404/410; no advertised restrictions"
   },
   "request_interval_seconds": 5,
+  "burst_size": 3,
+  "burst_pause_seconds": 30,
   "concurrency": 1,
   "cdx_documentation": "https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server",
   "requests": "GET only; no Save Page Now; no origin fallback; stop on 401/403/429, server Retry-After, exhausted server retries"

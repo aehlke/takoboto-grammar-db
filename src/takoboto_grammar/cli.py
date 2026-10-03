@@ -1,4 +1,5 @@
 import argparse
+import hashlib
 import json
 import sys
 import re
@@ -9,11 +10,12 @@ from urllib.parse import quote
 
 from .crawl import Fetcher, FetchAccessError, crawl, discover
 from .http import RequestPacer
-from .storage import build_sqlite, export_markdown, preflight_export, read_records, read_archive_records, read_archive_feeds, read_archive_state, record_digest, write_json
+from .storage import build_sqlite, export_markdown, preflight_export, read_records, read_archive_records, read_archive_feeds, read_archive_state, record_digest, write_json, cache_response, read_archive_snapshot
 from .audit import audit
 from .archive import ArchiveFetcher, ArchiveAccessError, original_label, crawl_archive, discover_archive
 from .archive_audit import audit_archive
 from .archive_feeds import crawl_feeds
+from .archive_dump import DumpFetcher, INDEX, ITEM, dump_inventory, crawl_dump
 from .markdown import update_markdown
 
 
@@ -44,8 +46,10 @@ def load_inventory(path, parser, historical=False):
                     raise ValueError('label must have captures')
                 if not isinstance(entry['captures'], list):
                     raise ValueError('captures must be a list')
+                if not isinstance(entry.get('alternate_captures', []), list):
+                    raise ValueError('alternate captures must be a list')
                 timestamps = []
-                for capture in entry['captures']:
+                for position, capture in enumerate(entry['captures'] + entry.get('alternate_captures', [])):
                     if capture['label'] != key:
                         raise ValueError('capture label does not match inventory entry')
                     if not isinstance(capture['original'], str) or not isinstance(capture['archive_url'], str):
@@ -56,7 +60,8 @@ def load_inventory(path, parser, historical=False):
                     expected = quote(f"https://web.archive.org/web/{stamp}id_/{capture['original']}", safe="/:?=&;%+@!()*,-._~'")
                     if original_label(capture['original']) != key or capture['archive_url'] != expected:
                         raise ValueError('capture URL does not match label and timestamp')
-                    timestamps.append(stamp)
+                    if position < len(entry['captures']):
+                        timestamps.append(stamp)
                 if timestamps != sorted(timestamps, reverse=True):
                     raise ValueError('captures must be ordered newest first')
             elif type(key) is not int or key <= 0 or entry['source_url'] not in {
@@ -66,7 +71,7 @@ def load_inventory(path, parser, historical=False):
                 raise ValueError('duplicate inventory entry')
             seen.add(key)
         if historical and (type(inventory['capture_count']) is not int or
-                           inventory['capture_count'] < sum(len(e['captures']) for e in entries)):
+                           inventory['capture_count'] < sum(len(e['captures']) + len(e.get('alternate_captures', [])) for e in entries)):
             raise ValueError('invalid capture count')
         return inventory
     except (OSError, ValueError, KeyError, TypeError) as exc:
@@ -112,6 +117,14 @@ def run(resources):
     historical_check = commands.add_parser('archive-audit', help='Offline source and coverage checks for archived JGram records')
     historical_check.add_argument('--input', default='archive-data')
     historical_check.add_argument('--takoboto', default='data', help='Captured current records for independent ID/label eligibility checks')
+    dump = commands.add_parser('archive-dump', help='Recover grammar members from the dated February 2015 ArchiveTeam backup')
+    dump.add_argument('--output', default='archive-2015')
+    dump.add_argument('--takoboto', default='data')
+    dump.add_argument('--index', help='Reuse a previously downloaded original compressed CDX index')
+    dump.add_argument('--offline', action='store_true')
+    dump.add_argument('--contact')
+    dump.add_argument('--label', action='append')
+    dump.add_argument('--limit', type=int)
     historical_check.add_argument('--record-verification', action='store_true',
                                   help='Offline migration: persist verified states for legacy records without changing their content')
     archive = commands.add_parser('archive', help='Supplement with latest available JGram Wayback captures')
@@ -155,9 +168,11 @@ def run(resources):
     build.add_argument("--sqlite", help="New SQLite file; existing files are never replaced")
     build.add_argument("--markdown", help="Directory for generated Markdown; prefer a fresh directory")
     build.add_argument('--archive', help='Optional directory of supplemental JGram records')
+    build.add_argument('--archive-snapshot', action='append', default=[], help='Additional audited dated backup directory (repeatable)')
     readers = commands.add_parser('update-markdown', help='Offline refresh of managed Markdown pages for Git diffs')
     readers.add_argument('--input', default='data')
     readers.add_argument('--archive', help='Optional directory of supplemental JGram records')
+    readers.add_argument('--archive-snapshot', action='append', default=[], help='Additional audited dated backup directory (repeatable)')
     readers.add_argument('--output', default='markdown', help='Managed reader directory (default: markdown)')
     args = parser.parse_args()
     if hasattr(args, 'delay'):
@@ -170,6 +185,29 @@ def run(resources):
                 raise ValueError('--offline cannot be combined with --refresh')
         except ValueError as exc:
             parser.error(str(exc))
+    if args.command == 'archive-dump':
+        if args.limit is not None and args.limit <= 0:
+            parser.error('--limit must be positive')
+        from .archive_audit import verified_current_records
+        current = verified_current_records(args.takoboto)
+        fetcher = resources.enter_context(DumpFetcher(args.output, args.contact, args.offline))
+        if args.index:
+            path = Path(args.index).expanduser().resolve(strict=True)
+            if path.stat().st_size > 80 * 1024 * 1024:
+                parser.error('Backup index exceeds 80 MiB')
+            body = path.read_bytes()
+            metadata = {'url': f'https://archive.org/download/{ITEM}/{INDEX}',
+                        'imported_local_index': True, 'sha256': hashlib.sha256(body).hexdigest()}
+        else:
+            body, metadata = fetcher.get(INDEX)
+        inventory = dump_inventory(body, metadata)
+        cache_response(fetcher.root, f'cache/dump-index/{inventory["index_sha256"]}.gz', body)
+        if args.label and set(args.label) - {i['label'] for i in inventory['entries']}:
+            parser.error('Requested label absent from backup index')
+        write_json(fetcher.root, 'inventory.json', inventory)
+        report = crawl_dump(fetcher, inventory, [r['id'] for r in current], args.label, args.limit)
+        print(json.dumps({k: v for k, v in report.items() if k not in {'parsed', 'excluded'}}, ensure_ascii=False, indent=2))
+        return 1 if report['failed'] or report['review_required'] else 0
     if args.command == 'archive-feeds':
         current = load_records(args.takoboto, parser)
         try:
@@ -228,6 +266,8 @@ def run(resources):
         try:
             records = read_records(args.input)
             archived = read_archive_records(args.archive) if args.archive else []
+            for snapshot in args.archive_snapshot:
+                archived.extend(read_archive_snapshot(snapshot))
             archived_feeds = read_archive_feeds(args.archive) if args.archive else []
             if not records:
                 raise ValueError('No current records found')
@@ -250,6 +290,8 @@ def run(resources):
         try:
             records = read_records(args.input)
             archived = read_archive_records(args.archive) if args.archive else []
+            for snapshot in args.archive_snapshot:
+                archived.extend(read_archive_snapshot(snapshot))
             archived_feeds = read_archive_feeds(args.archive) if args.archive else []
         except (OSError, ValueError, KeyError, TypeError) as exc:
             parser.error(f'Cannot export input records: {exc}')

@@ -1,9 +1,20 @@
 # Original JGram supplement
 
-The scraper supplements current Takoboto records with original JGram pages
-held by the Internet Archive Wayback Machine. Targeted searches of GitHub
-repositories and Archive.org item metadata did not locate a complete grammar
-dump. This was a limited search, not proof that no dump exists.
+The scraper preserves current Takoboto, latest available original JGram
+Wayback pages and a **dated original ArchiveTeam WARC backup**. The backup
+was discovered through an archived export's `x-archive-src` header, then verified
+against [Internet Archive item metadata](https://archive.org/metadata/archiveteam_archivebot_go_20150302130001).
+It is a website capture rather than an SQL dump. Export summaries alone omit
+notes and discussion. See [provenance](provenance.md) and the
+[recovery ledger](../recon/archive-recovery.json) for the investigation.
+
+The backup is stored separately in `archive-2015/`: 704 included grammar
+observations, 310 verified exclusions and 63 tutorial holds out of 1,077 selected
+labels. Snapshot selection is latest **within February 24–March 2, 2015**, and
+does not establish the final live version. Hash-checked bounded WARC ranges
+avoid downloading the unrelated website container. `archive-dump` obeys fresh
+robots checks on every archive origin, five-second spacing and 30-second rests
+after three requests. An exact 206 byte range is mandatory.
 
 ## Discovery and latest-version selection
 
@@ -19,17 +30,14 @@ indexed and none was newer than its corresponding ordinary URL. Mutation
 queries, including four archived deletion URLs, are excluded. Empty labels and
 malformed query names are not treated as entries.
 
-For each label, sort captures newest first and retain the newest capture per
-distinct body digest. Do not use CDX collapse options to select the latest:
-they can retain the earliest capture. A missing/error replay can fall back
-through up to three distinct bodies, with explicit attempts and an audit
-warning. Redirects retain the actual capture timestamp and are flagged if it
-differs; redirects to a different label fail validation.
-Records with fallback, timestamp or parser warnings are retained as evidence
-with `review_required` states and cannot be exported. Legacy warning-bearing
-records are also rejected even if an older state says `parsed`. Resolve the
-source/parser discrepancy and obtain a clean extraction before exporting;
-offline verification does not remove these holds.
+For each label, sort captures newest first and retain distinct revisions plus
+repeat observations of the same digest. Try up to three observations of each of
+up to three distinct revisions. An older replay can establish the latest content
+only when its indexed identity and raw SHA-1 agree with the newest CDX digest.
+An older different body retains a hold. Redirects preserve actual timestamps;
+a changed label fails validation and an unindexed redirect cannot establish
+equivalence. Parser, licensing and fallback discrepancies remain blocked until
+resolved against source evidence. Selection attempts are retained.
 
 This selects each entry's latest indexed successful replay, not a synchronized
 snapshot of the final live database. Latest indexed times range from April
@@ -43,8 +51,11 @@ Do not interpret 1,414 labels as 1,414 verified grammar entries.
 Original categories `grammar` and `lesson` are included: the latter contains
 conjugation tables and comparisons such as `simultaneous-actions-group` and
 `evaluation-group`. A verified current Takoboto numeric ID also establishes
-collection membership when an old category is absent. Other categories are
-excluded. Standalone notes, complete examples/translations, comments, contributor
+collection membership when an old category is absent. Nine additional unclassified grammar/usage entries were reviewed individually
+and included; two dictionary-only entries were excluded. The source-bound
+[scope manifest](../src/takoboto_grammar/grammar-membership.json) records IDs,
+labels, exact titles, reasons, source URLs and response hashes. Unknown
+unclassified entries remain held. Other categories are excluded. Standalone notes, complete examples/translations, comments, contributor
 labels, annotated See Also links, original readings/levels and retained header
 sections are part of each separate source observation.
 
@@ -113,11 +124,13 @@ This covers each latest feed, not its entire historical sequence of items.
 
 ## Verified output and remaining coverage
 
-The live pilot parsed **25 records**: 11 original IDs overlap current Takoboto,
-and **14 original IDs are absent there**. Thirteen are category `lesson`.
-The records contain **40 notes, 146 examples, 115 comments and 45 annotated
-relationships**. These counts are historical observations; many examples and
-comments also exist in current records and must not be summed as unique content.
+The newer supplement contains **63 records**, with **73 notes, 446 examples,
+248 comments and 68 references**; 23 original IDs are absent current Takoboto.
+The separate backup has **704 observations (701 distinct IDs)** with **843 notes,
+5,537 examples, 3,843 comments and 912 references**; 79 IDs are absent Takoboto.
+Historical observations overlap and must not be summed as unique contributions.
+All 63 newer IDs also occur in the backup, with their distinct capture dates
+and potentially different content retained.
 
 For [ageku](https://web.archive.org/web/20200215021200id_/http://jgram.org:80/pages/viewOne.php?tagE=ageku),
 the supplement recovers six original explanatory notes and three annotated
@@ -125,16 +138,23 @@ relations. Takoboto does not display those standalone notes and keeps only its
 sueni relationship. One recovered note, “Often used with さんざん,” is credited
 to MightyAtom. Original contribution dates were not exposed in the pilot.
 
-Both source audits pass for stored records. **The full replay crawl is pending**:
-1,389 indexed labels lack extracted records, including the two license-review
-pages. Additional probes of `-oku`, `juu` and `teshouganai` encountered missing
-license evidence or unavailable/non-entry replays; their cached responses
-remain available for investigation. Eligibility and historical completeness
-cannot be asserted for unparsed labels.
+Both source audits pass for published records, and the current-source audit
+passes. Every selected backup label has been processed; **63 tutorial pages**
+remain held for section/license review. Two also have undecodable source bytes.
+The **latest replay crawl remains partial: 1,347 indexed labels are unresolved**,
+including aliases/non-grammar candidates. A 2015 observation does not clear the
+latest-version status. The `-oku`, `juu` and `teshouganai` aliases were investigated
+against licensed successor IDs; see the recovery ledger for the precise evidence.
+No complete final historical database is claimed.
 
 ## Commands
 
 ```sh
+# Dated original backup; resume via cached members or original index.
+uv run --locked takoboto-grammar archive-dump --output archive-2015
+uv run --locked takoboto-grammar archive-dump --output archive-2015 --offline
+uv run --locked takoboto-grammar archive-audit --input archive-2015 --takoboto data
+
 # Full discovery and replay crawl; cached work resumes without refetching.
 # Allow roughly five hours at default pacing with batch rests, plus latency/retries.
 uv run --locked takoboto-grammar archive --output archive-data --takoboto data
@@ -153,7 +173,7 @@ uv run --locked takoboto-grammar archive-feeds --output archive-data --offline
 # Source audit and offline migration of older records without verification states.
 uv run --locked takoboto-grammar archive-audit --input archive-data \
   --takoboto data --record-verification
-uv run --locked takoboto-grammar build --input data --archive archive-data \
+uv run --locked takoboto-grammar build --input data --archive archive-data --archive-snapshot archive-2015 \
   --sqlite exports/new-build/grammar.sqlite --markdown exports/new-build/markdown
 ```
 
@@ -172,5 +192,10 @@ reproduces their classification and the replay URL, original URL and timestamp
 agree. See the [latest review](review-refinement.md).
 A selected or limited run never claims completeness for the full inventory.
 An audit passing for stored records does not mean historical discovery has
-been exhausted. Builds export all records currently stored in both directories;
+been exhausted. Builds export verified records in each supplied source directory;
 inspect reports and retained older observations before preparing a release.
+
+Warning-bearing new extractions are written to ignored `review-records/`,
+with source-bound states retained in Git. They cannot become release records.
+If a refresh of an existing clean record is held, its state blocks the older
+record until the discrepancy is resolved; it is never silently exported.

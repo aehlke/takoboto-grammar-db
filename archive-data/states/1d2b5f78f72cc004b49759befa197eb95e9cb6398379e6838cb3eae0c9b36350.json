@@ -1,9 +1,7 @@
 {
   "label": "-hajimeru",
   "status": "parsed",
-  "checked_at": "2026-10-03T08:38:24+00:00",
-  "verification": "offline-source-audit",
-  "current_membership_sha256": "f0ede151dd9a879c35e32707eeb1c6abc834b74a65f2200e03f7a79d55cca927",
+  "checked_at": "2026-10-03T15:33:29+00:00",
   "latest_indexed_timestamp": "20200215024635",
   "eligible_ids": [
     55,
@@ -651,13 +649,16 @@
     1797
   ],
   "capture": {
-    "label": "-hajimeru",
-    "original": "http://jgram.org:80/pages/viewOne.php?tagE=-hajimeru",
-    "archive_url": "https://web.archive.org/web/20200215024635id_/http://jgram.org:80/pages/viewOne.php?tagE=-hajimeru",
     "timestamp": "20200215024635",
-    "digest": "2YGFVQMCBYJ57S6EPYC5HRG5KWCAXWBO"
+    "original": "http://jgram.org:80/pages/viewOne.php?tagE=-hajimeru",
+    "mimetype": "text/html",
+    "digest": "2YGFVQMCBYJ57S6EPYC5HRG5KWCAXWBO",
+    "label": "-hajimeru",
+    "archive_url": "https://web.archive.org/web/20200215024635id_/http://jgram.org:80/pages/viewOne.php?tagE=-hajimeru"
   },
+  "requested_timestamp": "20200215024635",
   "response_sha256": "b3d20191c72f46676f0cced576ae1c64a888b8c47ceb3570ecfbf295b672d218",
+  "retrieved_at": "2026-10-03T06:09:34+00:00",
   "record_sha256": "ee1fe511024d12f5b83de2abe6b4736fd2494503f2046a3e013640403483963c",
-  "retrieved_at": "2026-10-03T06:09:34+00:00"
+  "selection_attempts": []
 }
