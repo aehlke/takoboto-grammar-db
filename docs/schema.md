@@ -125,9 +125,9 @@ SELECT entry_id, kind, text FROM search_documents WHERE text LIKE '%ように%';
 
 ## Community workflow
 
-Commit extracted text records, provenance manifests, attribution, and reviewed
-corrections. Publish SQLite as a generated release artifact. Markdown can be
-committed for browsing or built for documentation hosting. Exports should use
+Commit canonical JSON records, provenance manifests, attribution, and reviewed
+corrections. Publish SQLite as a generated release artifact. Generate Markdown
+locally for browsing or documentation hosting; keep it out of Git. Exports should use
 fresh directories so changed classifications cannot leave old copies behind.
 
 Human corrections should live in a separate overlay keyed by entry ID and,
