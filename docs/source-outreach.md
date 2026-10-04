@@ -11,9 +11,10 @@ No message has been sent on his behalf.
 
 > Hello Jeff,
 >
-> I’m preserving the JGram-derived grammar collection in a public community
-> repository: https://github.com/aehlke/takoboto-grammar-db. Takoboto’s owner
-> gave me permission to scrape its grammar section. I’ve also recovered original
+> I’m working to preserve the JGram-derived grammar collection, and I’ll be
+> sharing the consolidated collection publicly in a community repository:
+> https://github.com/aehlke/takoboto-grammar-db. Takoboto’s owner gave me
+> permission to scrape its grammar section. I’ve also recovered original
 > JGram pages from Wayback and the 2015 ArchiveTeam backup, retaining contributor
 > credits and source provenance under the original CC BY-SA 2.0 terms.
 >
