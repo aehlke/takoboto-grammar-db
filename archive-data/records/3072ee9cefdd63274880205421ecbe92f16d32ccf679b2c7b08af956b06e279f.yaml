@@ -1,0 +1,283 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1339
+label: haoroka
+title_raw: 〜は愚か・〜は疎か ([〜はおろか] )(haoroka)
+title: 〜は愚か・〜は疎か
+reading: 〜はおろか
+romanized_label: haoroka
+category: grammar
+jlpt_level_original: '1'
+meaning: let alone B; not to mention; of course A but also B;  は 言うまでもない;  はもちろん; 「AはおろかBも/さえ/まで」のように強調して表現されることが多い。
+meaning_example: He can't read hiragana let alone kanji.
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=haoroka
+archive_url: https://web.archive.org/web/20200215024946id_/http://jgram.org:80/pages/viewOne.php?tagE=haoroka
+archive_timestamp: '20200215024946'
+retrieved_at: '2026-10-04T00:26:20+00:00'
+archive_digest: UBHA2FHPSNBDKTOKZ4JJ2SUNC7OT5HYN
+response_sha256: 5468a90f9f76fe0712dbb4e4e39a02da0f4667791323db3c109404fd2e1e0b3d
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "〜はおろか：〜というだけでは不十分で．．．も、\n\r\n　　　　　　 〜はもちろん"
+    html: "〜はおろか：〜というだけでは不十分で．．．も、<br/>\r\n　　　　　　 〜はもちろん"
+    credits_raw: 誠
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: 'Ref # Kanzen Master Level 1 - p45 - no.44'
+    html: |-
+      <b>Ref <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=haoroka#">#</a></b></b> Kanzen Master Level 1 - p45 - no.44
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: 'Ref # A Dictionary of Advanced Japanese Grammar p694'
+    html: |-
+      <b>Ref <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=haoroka#">#</a></b></b> A Dictionary of Advanced Japanese Grammar p694
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: |-
+      A phrase that is used when s.t. is not only true with one thing or person, but also with another thing or person that is less expected or understandable
+    html: |-
+      A phrase that is used when s.t. is not only true with one thing or person, but also with another thing or person that is less expected or understandable
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 4249
+    position: 0
+    japanese: その赤ちゃんは走る事はおろか、歩くことさえできない。
+    body_text: "その赤ちゃんは走る事はおろか、歩くことさえできない。\r \n\n\t\tThe baby cannot even walk, much less run."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJその赤ちゃんは走る事はおろか、歩くことさえできない。\">\n\t\t\t\tその赤ちゃんは走る事<strong>はおろか</strong>、歩くことさえできない。\r<strong></strong></a> <br/>\n\t\tThe baby cannot even walk, much less run. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4250
+    position: 1
+    japanese: 私の連れは疲れすぎていて走るのはおろか、歩くこともできない、と言った。
+    body_text: "私の連れは疲れすぎていて走るのはおろか、歩くこともできない、と言った。\r \n\n\t\tMy companion said that she was too tired to walk, let alone run."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私の連れは疲れすぎていて走るのはおろか、歩くこともできない、と言った。\">\n\t\t\t\t私の連れは疲れすぎていて走るの<strong>はおろか</strong>、歩くこともできない、と言った。\r<strong></strong></a> <br/>\n\t\tMy companion said that she was too tired to walk, let alone run. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4251
+    position: 2
+    japanese: 私はバイオリンはおろかギターも弾けない。
+    body_text: "私はバイオリンはおろかギターも弾けない。\r \n\n\t\tI can't play the guitar, much less the violin."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私はバイオリンはおろかギターも弾けない。\">\n\t\t\t\t私はバイオリン<strong>はおろか</strong>ギターも弾けない。\r<strong></strong></a> <br/>\n\t\tI can't play the guitar, much less the violin. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4252
+    position: 3
+    japanese: 僕はイタリア語を書くのはおろか読めもしない。
+    body_text: "僕はイタリア語を書くのはおろか読めもしない。\r \n\n\t\tI can't even read Italian, let alone write it. [M]"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ僕はイタリア語を書くのはおろか読めもしない。\">\n\t\t\t\t僕はイタリア語を書くの<strong>はおろか</strong>読めもしない。\r<strong></strong></a> <br/>\n\t\tI can't even read Italian, let alone write it. [M] \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4253
+    position: 4
+    japanese: 話すことはおろか、ささやくなんてとんでもないことです。
+    body_text: "話すことはおろか、ささやくなんてとんでもないことです。  \n\n\t\tDon't whisper, \n\t\tlet alone \n\t\tspeak."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ話すことはおろか、ささやくなんてとんでもないことです。 \">\n\t\t\t\t話すこと<strong>はおろか</strong>、ささやくなんてとんでもないことです。 <strong></strong></a> <br/>\n\t\tDon't whisper, \n\t\t<strong>let alone </strong>\n\t\tspeak."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4254
+    position: 5
+    japanese: 彼女は漢字はおろか、ひらがなも正確に読めません
+    body_text: "彼女は漢字はおろか、ひらがなも正確に読めません \n\n\t\tOf course she can't read Kanji, she can't even read Hiragana accurately."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女は漢字はおろか、ひらがなも正確に読めません\">\n\t\t\t\t彼女は漢字<strong>はおろか</strong>、ひらがなも正確に読めません<strong></strong></a> <br/>\n\t\tOf course she can't read Kanji, she can't even read Hiragana accurately. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5311
+    position: 6
+    japanese: こんな成績では進学はおろか、卒業だって危ないよ。
+    body_text: "こんな成績では進学はおろか、卒業だって危ないよ。 \n\n\t\tWith such bad results, not only is there a possibility you won't be able to enter university, you might not even graduate!"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこんな成績では進学はおろか、卒業だって危ないよ。\">\n\t\t\t\tこんな成績では進学<strong>はおろか</strong>、卒業だって危ないよ。<strong></strong></a> <br/>\n\t\tWith such bad results, not only is there a possibility you won't be able to enter university, you might not even graduate! \n\t\t<strong> </strong>"
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7938
+    position: 7
+    japanese: 弟は内気で、人前でスピーチはおろか簡単な挨拶さえできない
+    body_text: "弟は内気で、人前でスピーチはおろか簡単な挨拶さえできない\r \n\n\t\tmy brothers an introvert, so far from being able to give a speech in front of people, he can't even do simple greetings."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ弟は内気で、人前でスピーチはおろか簡単な挨拶さえできない\">\n\t\t\t\t弟は内気で、人前でスピーチ<strong>はおろか</strong>簡単な挨拶さえできない\r<strong></strong></a> <br/>\n\t\tmy brothers an introvert, so far from being able to give a speech in front of people, he can't even do simple greetings. \n\t\t<strong> </strong>"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7939
+    position: 8
+    japanese: アメリカでは隣町まで100マイル、途中途中ガソリンスタンドはおろか、民家さえないという場所がたくさんある。
+    body_text: "アメリカでは隣町まで100マイル、途中途中ガソリンスタンドはおろか、民家さえないという場所がたくさんある。 \n\n\t\tIn America there are many places where the next town is 100 miles away and there are no houses, \n\t\tlet alone \n\t\ta gas station in between."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJアメリカでは隣町まで100マイル、途中途中ガソリンスタンドはおろか、民家さえないという場所がたくさんある。\">\n\t\t\t\tアメリカでは隣町まで100マイル、途中途中ガソリンスタンド<strong>はおろか</strong>、民家さえないという場所がたくさんある。<strong></strong></a> <br/>\n\t\tIn America there are many places where the next town is 100 miles away and there are no houses, \n\t\t<strong>let alone </strong>\n\t\ta gas station in between."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7940
+    position: 9
+    japanese: 最近は大学はおろか、中学生でもかなりの者が海外旅行を経験している。
+    body_text: "最近は大学はおろか、中学生でもかなりの者が海外旅行を経験している。\r \n\n\t\tNever mind university students, these days even junior and senior high school students have experienced traveling abroad."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ最近は大学はおろか、中学生でもかなりの者が海外旅行を経験している。\">\n\t\t\t\t最近は大学<strong>はおろか</strong>、中学生でもかなりの者が海外旅行を経験している。\r<strong></strong></a> <br/>\n\t\tNever mind university students, these days even junior and senior high school students have experienced traveling abroad. \n\t\t<strong> </strong>"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7941
+    position: 10
+    japanese: 戦争はおろか食糧難すら経験したことがない者が口先だけで戦争を議論しているのは笑止だ。
+    body_text: "戦争はおろか食糧難すら経験したことがない者が口先だけで戦争を議論しているのは笑止だ。\r \n\n\t\tIt is laughable that those people who have never even experienced a food shortage, much less a war should make such glib arguments about war."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ戦争はおろか食糧難すら経験したことがない者が口先だけで戦争を議論しているのは笑止だ。\">\n\t\t\t\t戦争<strong>はおろか</strong>食糧難すら経験したことがない者が口先だけで戦争を議論しているのは笑止だ。\r<strong></strong></a> <br/>\n\t\tIt is laughable that those people who have never even experienced a food shortage, much less a war should make such glib arguments about war. \n\t\t<strong> </strong>"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: infinite_trial
+    text: is it different from はもちろん？
+    html: is it different from はもちろん？
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: "i think its pretty similar but hamochiron is more common. haoroka seems more formal...\n\r\nI added some other \"see also\" forms"
+    html: "i think its pretty similar but <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=hamochiron\">hamochiron</a></b> is more common. <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=haoroka\">haoroka</a></b> seems more formal...<br/>\r\nI added some other \"see also\" forms"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: infinite_trial
+    text: |-
+      upon observation i see that はもちろん has positive and negative nuance, は言うまでもなく is positive and はおろか is negative. i hope i am right.
+    html: |-
+      upon observation i see that はもちろん has positive and negative nuance, は言うまでもなく is positive and はおろか is negative. i hope i am right.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: blabby
+    text: "I think you are right.  My book says はおろか is often used for negative things.\n\n\n\r\nI wonder if this is related to 愚か \"stupid\"?"
+    html: "I think you are right.  My book says はおろか is often used for negative things.<br/>\n<br/>\r\nI wonder if this is related to 愚か \"stupid\"?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Miki
+    text: おろか here is 疎か.
+    html: おろか here is 疎か.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: 誠
+    text: |-
+      〜はおろか　is more strong/ have a strong emphasis or feeling than 〜はもちろん　and 〜はもとより. In Chinese (何只是〜／那只是〜／別説〜、就連．．．）, it is translated as " it is of course not just that 〜, but also... " or "... , not to mention 〜"
+    html: |-
+      〜はおろか　is more strong/ have a strong emphasis or feeling than 〜はもちろん　and 〜はもとより. In Chinese (何只是〜／那只是〜／別説〜、就連．．．）, it is translated as " it is of course not just that 〜, but also... " or "... , not to mention 〜"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: Olivier
+    text: It is in fact a JLPT Level 1 entry.
+    html: It is in fact a JLPT Level 1 entry.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: seishun
+    text: I think it maybe like 'dokoroka'. And it returns a negative thing.
+    html: I think it maybe like 'dokoroka'. And it returns a negative thing.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: LR
+    text: Changing this from a JLPT Level 2 to Level 1 entry. 2010/12/3
+    html: Changing this from a JLPT Level 2 to Level 1 entry. 2010/12/3
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: hamochiron
+    label: hamochiron
+    annotation_text: hamochiron [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=hamochiron">hamochiron</a> [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: dokoroka
+    label: dokoroka
+    annotation_text: dokoroka [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=dokoroka">dokoroka</a> [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 2
+    target_label: haiumademonaku
+    label: haiumademonaku
+    annotation_text: haiumademonaku [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=haiumademonaku">haiumademonaku</a> [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 3
+    target_label: hamotoyori
+    label: hamotoyori
+    annotation_text: hamotoyori [誠]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=hamotoyori">hamotoyori</a> [<a href="http://jgram.org:80/pages/contributions.php?author=誠">誠</a>]
+    credits_raw: 誠
+sections:
+  - kind: header
+    text: |-
+      〜は愚か・〜は疎か ([〜はおろか] )(haoroka)
+          Meaning: let alone B; not to mention; of course A but also B;  は 言うまでもない;  はもちろん; 「AはおろかBも/さえ/まで」のように強調して表現されることが多い。
+          Example: He can't read hiragana let alone kanji.
+          JLPT Level: 1
+          Category: grammar
+          Author: dc
+    html: |-
+      <span>〜は愚か・〜は疎か ([〜はおろか] )(haoroka)</span><br/>    <span><b>Meaning</b>: let alone B; not to mention; of course A but also B;  は 言うまでもない;  はもちろん; 「AはおろかBも/さえ/まで」のように強調して表現されることが多い。</span><br/>    <b>Example</b>: <i>He can't read hiragana let alone kanji.</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215024946'

@@ -1,0 +1,84 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1628
+label: nishiro
+title_raw: にしろ、にせよ [にしろ、にせよ] (nishiro)
+title: にしろ、にせよ
+reading: にしろ、にせよ
+romanized_label: nishiro
+category: grammar
+jlpt_level_original: '2'
+meaning: It doesn’t matter which; It doesn’t matter whether.
+meaning_example: 日本にしろ、中国にしろ、アジアの国へ行くのは面白い。
+credits_raw: maikeru
+source_url: http://jgram.org/pages/viewOne.php?tagE=nishiro
+archive_url: https://web.archive.org/web/20111011000034id_/http://jgram.org/pages/viewOne.php?tagE=nishiro
+archive_timestamp: '20111011000034'
+retrieved_at: '2026-10-04T04:04:20+00:00'
+archive_digest: JNHXELAT7SZAOVP4O7BEVAYUKBWCQC2M
+response_sha256: b04a6de19216273ef45fff560d3ce5a42220fb1a52bb605404e08c69a0b50872
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      'De aru' always follows a noun or a na adjective. In the case of an I adjective, the form changes to 'kare'. Usually written. After verbs, use 'ni shiro'.
+    html: |-
+      'De aru' always follows a noun or a na adjective. In the case of an I adjective, the form changes to 'kare'. Usually written. After verbs, use 'ni shiro'.
+    credits_raw: maikeru
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 6531
+    position: 0
+    japanese: 日本にしろ、中国にしろ、アジアの国へ行くのは面白い。（にほんにしろ、ちゅうごくにしろアジアのくにへいくのはおもしろい。）
+    body_text: "日本にしろ、中国にしろ、アジアの国へ行くのは面白い。（にほんにしろ、ちゅうごくにしろアジアのくにへいくのはおもしろい。）\r \n\n\t\tIt doesn’t matter whether it’s Japan or China, going to Asian countries is interesting."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ日本にしろ、中国にしろ、アジアの国へ行くのは面白い。（にほんにしろ、ちゅうごくにしろアジアのくにへいくのはおもしろい。）\">\n\t\t\t\t日本にしろ、中国にしろ、アジアの国へ行くのは面白い。（にほんにしろ、ちゅうごくにしろアジアのくにへいくのはおもしろい。）\r<strong></strong><strong></strong></a> <br/>\n\t\tIt doesn’t matter whether it’s Japan or China, going to Asian countries is interesting. \n\t\t<strong> </strong>"
+    credits_raw: maikeru
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6756
+    position: 1
+    japanese: 引き受けるにしろ引き受けないにしろ、なるべく早く決めたほうがいい。
+    body_text: "引き受けるにしろ引き受けないにしろ、なるべく早く決めたほうがいい。 \n\nIt doesn't matter whether \nyou undertake or not , but you'd better decide as quickly as possible."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ引き受けるにしろ引き受けない\">\n引き受ける<strong>にしろ</strong>引き受けない<strong>にしろ</strong>、なるべく早く決めたほうがいい。</a> <br/>\n<strong>It doesn't matter whether </strong>\nyou undertake <strong>or not , but you'd better decide as quickly as possible.   \n\t\t</strong>"
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries:
+  - position: 0
+    target_label: nishiro; niseyo
+    label: nishiro; niseyo
+    annotation_text: |-
+      nishiro; niseyo    (Perhaps one entry if for "even if" and the other for "whether or not" but the examples are mixed...) [赤毛]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=nishiro; niseyo">nishiro; niseyo</a>    (Perhaps one entry if for "even if" and the other for "whether or not" but the examples are mixed...) [<a href="http://jgram.org/pages/contributions.php?author=赤毛">赤毛</a>]
+    credits_raw: 赤毛
+  - position: 1
+    target_label: deare
+    label: deare
+    annotation_text: deare [LR]
+    annotation_html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=deare">deare</a> [<a href="http://jgram.org/pages/contributions.php?author=LR">LR</a>]
+    credits_raw: LR
+sections:
+  - kind: header
+    text: "にしろ、にせよ [にしろ、にせよ] (nishiro)\n    Meaning: It doesn’t matter which; It doesn’t matter whether. \n    Example: 日本にしろ、中国にしろ、アジアの国へ行くのは面白い。\n    JLPT Level: 2\n    Category: grammar\n    Author: maikeru"
+    html: |-
+      <span>にしろ、にせよ [にしろ、にせよ] (nishiro)</span><br/>    <span><b>Meaning</b>: It doesn’t matter which; It doesn’t matter whether. </span><br/>    <b>Example</b>: <i>日本にしろ、中国にしろ、アジアの国へ行くのは面白い。</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>maikeru</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20111011000034'

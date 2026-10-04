@@ -1,0 +1,113 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1551
+label: naraizashirazu
+title_raw: ならいざ知らず [ならいざしらず] (naraizashirazu)
+title: ならいざ知らず
+reading: ならいざしらず
+romanized_label: naraizashirazu
+category: grammar
+jlpt_level_original: '1'
+meaning: I'm not sure if it is [possible/so] but...
+meaning_example: It's possible that an expert could do this but there I no way I can do it.
+credits_raw: blabby
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=naraizashirazu
+archive_url: https://web.archive.org/web/20200215023814id_/http://jgram.org:80/pages/viewOne.php?tagE=naraizashirazu
+archive_timestamp: '20200215023814'
+retrieved_at: '2026-10-04T01:11:17+00:00'
+archive_digest: XSNWMFPTCBKTZWWDAJIYPLE6RSSQ55FC
+response_sha256: b5c80f931da70fbafb4b14da2476eebc4b17bbcc00bc157f7dc3890cf7c98f52
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: 名詞句 + ならいざ知らず, B
+    html: 名詞句 + ならいざ知らず, B
+    credits_raw: blabby
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 5780
+    position: 0
+    japanese: 辞書があるならいざ知らず、何もなくてはこの文章はとても読めるものではない。
+    body_text: "辞書があるならいざ知らず、何もなくてはこの文章はとても読めるものではない。 \n\nMaybe it would be possible \n\t\tif I had a dictionary, but with nothing, it is by no means easy to read."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ辞書があるならいざ知らず、何もなくてはこの文章はとても読めるものではない。\">\n\t\t\t\t辞書がある<strong>ならいざ知らず</strong>、何もなくてはこの文章はとても読めるものではない。<strong></strong></a> <br/>\n<strong>Maybe it would be possible </strong>\n\t\tif I had a dictionary, but with nothing, it is by no means easy to read."
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5781
+    position: 1
+    japanese: 専門家ならいざ知らず、素人ではこの化学品を作ることができない。
+    body_text: "専門家ならいざ知らず、素人ではこの化学品を作ることができない。 \n\n\t\tMaybe it's possible for an expert, but a beginner can't make this chemical."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ専門家ならいざ知らず、素人ではこの化学品を作ることができない。\">\n\t\t\t\t専門家<strong>ならいざ知らず</strong>、素人ではこの化学品を作ることができない。<strong></strong></a> <br/>\n\t\tMaybe it's possible for an expert, but a beginner can't make this chemical. \n\t\t<strong> </strong>"
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6971
+    position: 2
+    japanese: 他の人ならいざしらず、私はそんなことができない。
+    body_text: "他の人ならいざしらず、私はそんなことができない。 \n\nMaybe it's possible \n\t\tfor someone, but I can't do that"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ他の人ならいざしらず、私はそんなことができない。\">\n他の人<strong>ならいざしらず</strong>、私はそんなことができない。<strong></strong></a> <br/>\n<strong>Maybe it's possible </strong>\n\t\tfor someone, but I can't do that"
+    credits_raw: amenya
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: blabby
+    text: You can also say ならともかく which has the same meaning.
+    html: You can also say ならともかく which has the same meaning.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: 誠
+    text: 'ex#5780 ものではない　means : " shouldn''t". So,I feel that it may be わけがない　(impossible, by no means) or ことができない'
+    html: |-
+      ex<b><a href="http://jgram.org:80/pages/viewOne.php?tagE=naraizashirazu#5780">#5780</a></b> ものではない　means : " shouldn't". So,I feel that it may be わけがない　(impossible, by no means) or ことができない
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: blabby
+    text: ">誠\n\r\nThanks for your great contributions to this site!\n\r\nYes you are correct that わけがない and ことができない are good translations for \"by no means\"/\"impossible\". \n\n\n\r\nHowever, this example uses \"読める\" which is like saying \"できるものではない\" rather than just \"ものではない\". Therefore I stand by my translation."
+    html: "&gt;誠<br/>\r\nThanks for your great contributions to this site!<br/>\r\nYes you are correct that わけがない and ことができない are good translations for \"by no means\"/\"impossible\". <br/>\n<br/>\r\nHowever, this example uses \"読める\" which is like saying \"できるものではない\" rather than just \"ものではない\". Therefore I stand by my translation."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: otenba
+    text: You can also put 「は」 or 「だったら」 before 「いざしらず」, not only 「なら」.
+    html: You can also put 「は」 or 「だったら」 before 「いざしらず」, not only 「なら」.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: naratomokaku
+    label: naratomokaku
+    annotation_text: naratomokaku [blabby]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=naratomokaku">naratomokaku</a> [<a href="http://jgram.org:80/pages/contributions.php?author=blabby">blabby</a>]
+    credits_raw: blabby
+sections:
+  - kind: header
+    text: "ならいざ知らず [ならいざしらず] (naraizashirazu)\n    Meaning: I'm not sure if it is [possible/so] but... \n    Example: It's possible that an expert could do this but there I no way I can do it.\n    JLPT Level: 1\n    Category: grammar\n    Author: blabby"
+    html: |-
+      <span>ならいざ知らず [ならいざしらず] (naraizashirazu)</span><br/>    <span><b>Meaning</b>: I'm not sure if it is [possible/so] but... </span><br/>    <b>Example</b>: <i>It's possible that an expert could do this but there I no way I can do it.</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>blabby</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215023814'

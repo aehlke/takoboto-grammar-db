@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1434
+label: Introduction
+title_raw: '- (Introduction)'
+title: '- (Introduction)'
+reading: null
+romanized_label: Introduction
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=Introduction
+archive_url: https://web.archive.org/web/20051226012251id_/http://jgram.org:80/pages/viewOne.php?tagE=Introduction
+archive_timestamp: '20051226012251'
+retrieved_at: '2026-10-03T06:22:01+00:00'
+archive_digest: JPAW5T5NZ7K2M467GZP6GDJL6XHZJMBW
+response_sha256: 45f2f749c17bb6fe15cc279002ee0e48a9b118d00aefe9044283fd3feb688fba
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (Introduction)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (Introduction)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: Introduction
+    id: 1434
+    title_raw: '- (Introduction)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=Introduction
+    response_sha256: 45f2f749c17bb6fe15cc279002ee0e48a9b118d00aefe9044283fd3feb688fba
+    section: Tutorial
+    section_html_sha256: 4f37c10f3376bad265556564e8e5eaa269431b0fb97571b328d03f5cc8283fd4
+    section_text_sha256: 3c49d6ace5055f3939a89410b0a71f8e2b8aa66b88c0a5b56bed9a4d07a00926
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8025
+    source_byte_length: 10777
+    section_bytes_sha256: 55d8a9f424ce7052a386a68ef64c5a926ac6b8df476e6390c0cae43aa36df122
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226012251'

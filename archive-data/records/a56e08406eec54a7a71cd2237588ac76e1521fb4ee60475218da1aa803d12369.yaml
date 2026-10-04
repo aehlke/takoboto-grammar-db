@@ -1,0 +1,90 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1738
+label: kotonashini
+title_raw: ことなしに ([ことなしに] )(kotonashini)
+title: ことなしに
+reading: ことなしに
+romanized_label: kotonashini
+category: null
+jlpt_level_original: '1'
+meaning: |-
+  In examples such as "Without A, I can't do B" where, without Action A, there is no possibility of B 〜（し）ないで、Aの動作をしないでは、Bの可能性はないという内容を表す
+meaning_example: If you don't obtain the permission of the teacher in charge, you cannot change your registered classes
+credits_raw: LR
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=kotonashini
+archive_url: https://web.archive.org/web/20200215025251id_/http://jgram.org:80/pages/viewOne.php?tagE=kotonashini
+archive_timestamp: '20200215025251'
+retrieved_at: '2026-10-04T00:50:49+00:00'
+archive_digest: S4CQTPIDVZRKN7EW7PZS5SJ4EL76WJUU
+response_sha256: d4b1b72f96a577cf9e564e0b49c81f058edf94ccd65c08b5f55b18444e56f6b7
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: 'Ref # Kanzen Master Level 1 - p16 - no.13'
+    html: |-
+      <b>Ref <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=kotonashini#">#</a></b></b> Kanzen Master Level 1 - p16 - no.13
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7858
+    position: 0
+    japanese: 良いお返事をいただくことなしに、帰るわけにはまいりません
+    body_text: "良いお返事をいただくことなしに、帰るわけにはまいりません \n\n\t\tI cannot return \n\t\twithout \n\t\ta good answer"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ良いお返事をいただくことなしに、帰るわけにはまいりません\">\n\t\t\t\t良いお返事をいただく<strong>ことなしに</strong>、帰るわけにはまいりません<strong></strong></a> <br/>\n\t\tI cannot return \n\t\t<strong>without </strong>\n\t\ta good answer"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7859
+    position: 1
+    japanese: 担当教師の許可を得ることなしに、履修科目の変更はできない。
+    body_text: "担当教師の許可を得ることなしに、履修科目の変更はできない。 \n\nWithout \n\t\tthe permission of the teacher in charge, you may not change your registered classes."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ担当教師の許可を得ることなしに、履修科目の変更はできない。\">\n\t\t\t\t担当教師の許可を得る<strong>ことなしに</strong>、履修科目の変更はできない。<strong></strong></a> <br/>\n<strong>Without </strong>\n\t\tthe permission of the teacher in charge, you may not change your registered classes."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7860
+    position: 2
+    japanese: 外相は「真の相互理解に基づく関係は、領土問題を解決して平和条約を締結することなしには構築し得ない」
+    body_text: "外相は「真の相互理解に基づく関係は、領土問題を解決して平和条約を締結することなしには構築し得ない」 \n\n\t\tThe foreign minister said \"a relationship built on genuine mutual understanding means that \n\t\twithout \n\t\tsolving the territorial dispute and completing the peace treaty, we cannot secure construction works\""
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ外相は「真の相互理解に基づく関係は、領土問題を解決して平和条約を締結することなしには構築し得ない」\">\n\t\t\t\t外相は「真の相互理解に基づく関係は、領土問題を解決して平和条約を締結する<strong>ことなしには</strong>構築し得ない」<strong></strong></a> <br/>\n\t\tThe foreign minister said \"a relationship built on genuine mutual understanding means that \n\t\t<strong>without </strong>\n\t\tsolving the territorial dispute and completing the peace treaty, we cannot secure construction works\""
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries:
+  - position: 0
+    target_label: nashini
+    label: nashini
+    annotation_text: "nashini    (kotonashini is {verb (dict. form) + kotonashini}\n\r\nnashini is {noun + nashini}\n\n\n\r\nkotonashini expresses things that aren't possible without the preceding clause\n\n\n\r\nnashini is mostly instructional - \"don't come in without knocking\", \"you can't enter university without the proper forms\") [LR]"
+    annotation_html: "<a href=\"http://jgram.org:80/pages/viewOne.php?tagE=nashini\">nashini</a>    (kotonashini is {verb (dict. form) + kotonashini}<br/>\r\nnashini is {noun + nashini}<br/>\n<br/>\r\nkotonashini expresses things that aren't possible without the preceding clause<br/>\n<br/>\r\nnashini is mostly instructional - \"don't come in without knocking\", \"you can't enter university without the proper forms\") [<a href=\"http://jgram.org:80/pages/contributions.php?author=LR\">LR</a>]"
+    credits_raw: LR
+sections:
+  - kind: header
+    text: |-
+      ことなしに ([ことなしに] )(kotonashini)
+          Meaning: In examples such as "Without A, I can't do B" where, without Action A, there is no possibility of B 〜（し）ないで、Aの動作をしないでは、Bの可能性はないという内容を表す
+          Example: If you don't obtain the permission of the teacher in charge, you cannot change your registered classes
+          JLPT Level: 1
+          Author: LR
+    html: |-
+      <span>ことなしに ([ことなしに] )(kotonashini)</span><br/>    <span><b>Meaning</b>: In examples such as "Without A, I can't do B" where, without Action A, there is no possibility of B 〜（し）ないで、Aの動作をしないでは、Bの可能性はないという内容を表す</span><br/>    <b>Example</b>: <i>If you don't obtain the permission of the teacher in charge, you cannot change your registered classes</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Author</b>: <i>LR</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215025251'

@@ -1,0 +1,86 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1571
+label: adjectives_ex
+title_raw: Adjective Practice Exercises (adjectives_ex)
+title: Adjective Practice Exercises (adjectives_ex)
+reading: null
+romanized_label: adjectives_ex
+category: lesson
+jlpt_level_original: '4'
+meaning: Adjective Practice Exercises
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=adjectives_ex
+archive_url: https://web.archive.org/web/20150224234833id_/http://www.jgram.org/pages/viewOne.php?tagE=adjectives_ex
+archive_timestamp: '20150224234833'
+retrieved_at: '2026-10-03T16:08:17+00:00'
+archive_digest: NAHONLNRTZMXZZO6QDUZ6JZJNY44Y64Q
+response_sha256: ae59a27f6068057eb62b250fa4114a0aedb43f309ca6ce92d2fd26af7a806f0f
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: riizhu
+    text: |-
+      Here some articles to learn more about Japanese Adjective, (Indonesian language articles)
+
+      Grammar bahasa Jepang tentang Kata Sifat (Adjective)
+
+      i-adjective vocabulary list
+
+      na-adjective vocabulary list
+    html: |-
+      Here some articles to learn more about Japanese Adjective, (Indonesian language articles)<br/>
+      <a href="http://www.jgram.org/pages/bahasajepangbersama.blogspot.com/2014/07/cara-menjadikan-kata-sifat-menjadi-kata.html">Grammar bahasa Jepang tentang Kata Sifat (Adjective)</a><br/>
+      <a href="http://bahasajepangbersama.blogspot.com/2014/02/daftar-kosakata-kata-sifat-i-bahasa.html">i-adjective vocabulary list</a><br/>
+      <a href="http://bahasajepangbersama.blogspot.com/2014/02/daftar-kosakata-kata-sifat-na-bahasa.html">na-adjective vocabulary list</a>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "Adjective Practice Exercises (adjectives_ex)\n    Meaning: Adjective Practice Exercises \n    JLPT Level: 4\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Adjective Practice Exercises (adjectives_ex)</span><br/>    <span><b>Meaning</b>: Adjective Practice Exercises </span><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: adjectives_ex
+    id: 1571
+    title_raw: Adjective Practice Exercises (adjectives_ex)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=adjectives_ex
+    response_sha256: ae59a27f6068057eb62b250fa4114a0aedb43f309ca6ce92d2fd26af7a806f0f
+    section: Tutorial
+    section_html_sha256: 6a709a2f3969c09f49c7051f777087e4fc53dc07afab291f6fdef086ec82c55c
+    section_text_sha256: 5cb6f3074cec8ee18236165c3ea35f6b76ba46533bc288e94757ed5e6398e33f
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8833
+    source_byte_length: 11884
+    section_bytes_sha256: 32b3ab0b4b822d40986708a2b15cde865b4120593db931cfca56279dcf5102e5
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224234833'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 60395402
+  length: 7607
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 699371409ad8e65ff38d4c01dc563b5b6b589f182209a978982135b5339aa994

@@ -1,0 +1,27 @@
+{
+  "run_id": "61840e32ccfd4601bcc9d484149702b5",
+  "finished_at": "2026-10-04T04:02:26+00:00",
+  "request_interval_seconds": 5,
+  "burst_size": 3,
+  "burst_pause_seconds": 30,
+  "concurrency": 1,
+  "attempt_count": 2,
+  "attempts": [
+    {
+      "url": "https://web.archive.org/robots.txt",
+      "started_at": "2026-10-04T04:02:21.102+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.261762
+    },
+    {
+      "url": "https://web.archive.org/web/20170918022157id_/http://jgram.org/pages/viewOne.php?tagE=nimotodsuite",
+      "started_at": "2026-10-04T04:02:26.108+00:00",
+      "status": 200,
+      "bytes_read": 7615,
+      "error_type": null,
+      "duration_seconds": 0.588082
+    }
+  ]
+}

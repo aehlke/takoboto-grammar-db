@@ -1,0 +1,67 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1431
+label: hiragana
+title_raw: ひらがな (hiragana)
+title: ひらがな (hiragana)
+reading: null
+romanized_label: hiragana
+category: lesson
+jlpt_level_original: '4'
+meaning: Hiragana is the basic Japanese phonetic alphabet.
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=hiragana
+archive_url: https://web.archive.org/web/20200215023219id_/http://jgram.org:80/pages/viewOne.php?tagE=hiragana
+archive_timestamp: '20200215023219'
+retrieved_at: '2026-10-04T03:18:48+00:00'
+archive_digest: XKV6HVPV7RHEC2G2HCBHBOKRPZWKWY4H
+response_sha256: b60368f003efc6ab9fb877036331cb57e857231992ce4be3322d4a6d80274dba
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Hiragana is one of the three syllabaries in Japanese. Hiragana is the basic Japanese phonetic alphabet. It represents every sound in the Japanese language. Therefore, you can theoretically write everything in hiragana. However, because Japanese is written with no spaces, this will create a nearly indecipherable text. It is very important for you to write the strokes in the correct order and direction and to pronounce it correctly. Use Duolingo to listen to pronunciation. You should also record yourself and compare it to the correct pronunciation.\n\n\n\r\n(1) As you can see, not all sounds match the way our consonant system works, for example, the way \"chi\" and \"tsu\" are pronounced.\n\n\n\r\n(2) The /r/ or /l/ sound in Japanese is quite different from any sound in English. It involves more of a roll and clip by hitting the roof of your mouth with your tongue.\n\n\n\r\n(3) Pay careful to the difference between /tsu/ and /su/."
+    html: "Hiragana is one of the three syllabaries in Japanese. Hiragana is the basic Japanese phonetic alphabet. It represents every sound in the Japanese language. Therefore, you can theoretically write everything in hiragana. However, because Japanese is written with no spaces, this will create a nearly indecipherable text. It is very important for you to write the strokes in the correct order and direction and to pronounce it correctly. Use Duolingo to listen to pronunciation. You should also record yourself and compare it to the correct pronunciation.<br/>\n<br/>\r\n(1) As you can see, not all sounds match the way our consonant system works, for example, the way \"chi\" and \"tsu\" are pronounced.<br/>\n<br/>\r\n(2) The /r/ or /l/ sound in Japanese is quite different from any sound in English. It involves more of a roll and clip by hitting the roof of your mouth with your tongue.<br/>\n<br/>\r\n(3) Pay careful to the difference between /tsu/ and /su/.<br/>"
+    credits_raw: DoReMiFaSoLogic369
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "ひらがな (hiragana)\n    Meaning: Hiragana is the basic Japanese phonetic alphabet. \n    JLPT Level: 4\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>ひらがな (hiragana)</span><br/>    <span><b>Meaning</b>: Hiragana is the basic Japanese phonetic alphabet. </span><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: hiragana
+    id: 1431
+    title_raw: ひらがな (hiragana)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=hiragana
+    response_sha256: b60368f003efc6ab9fb877036331cb57e857231992ce4be3322d4a6d80274dba
+    section: Tutorial
+    section_html_sha256: a95da3960dd74b35a0f8a39f8e1b7a0f0d9ee72cf1ab30093639c82baefbd905
+    section_text_sha256: c423b86b3db996b15082be42da10de4198691306389551f16c2e015e95e5e113
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 9176
+    source_byte_length: 13846
+    section_bytes_sha256: c0bfabc332395317566ca2ec03159293f3408f4c6dc261e2d024be50c6fc125c
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215023219'

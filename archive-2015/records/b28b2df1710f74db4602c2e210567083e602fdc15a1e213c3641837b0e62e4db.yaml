@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1579
+label: othergrammar
+title_raw: Some Other Grammar [思いきや、がてら、あげく] (othergrammar)
+title: Some Other Grammar
+reading: 思いきや、がてら、あげく
+romanized_label: othergrammar
+category: lesson
+jlpt_level_original: '1'
+meaning: Some Other Grammar （思いきや、がてら、あげく）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=othergrammar
+archive_url: https://web.archive.org/web/20150224235809id_/http://www.jgram.org/pages/viewOne.php?tagE=othergrammar
+archive_timestamp: '20150224235809'
+retrieved_at: '2026-10-03T16:08:26+00:00'
+archive_digest: 5JV7APV2QRZBOVZC6ZXJW7ZFWLHH54Y3
+response_sha256: f18618307c2f63ede37de85ecef22601e50af1b4d31baada1cb62d89236dc87b
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "Some Other Grammar [思いきや、がてら、あげく] (othergrammar)\n    Meaning: Some Other Grammar （思いきや、がてら、あげく） \n    JLPT Level: 1\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Some Other Grammar [思いきや、がてら、あげく] (othergrammar)</span><br/>    <span><b>Meaning</b>: Some Other Grammar （思いきや、がてら、あげく） </span><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: othergrammar
+    id: 1579
+    title_raw: Some Other Grammar [思いきや、がてら、あげく] (othergrammar)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=othergrammar
+    response_sha256: f18618307c2f63ede37de85ecef22601e50af1b4d31baada1cb62d89236dc87b
+    section: Tutorial
+    section_html_sha256: 5889e8925c6de4082b86850f269d427e5ec54ba8a5f211f7d35b121134f56262
+    section_text_sha256: c77a06dd90282cb25010e5d5f1397b02a2f3b5960de36014df412ef498f6cac2
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8878
+    source_byte_length: 7199
+    section_bytes_sha256: 52f77b4681a886810e1f3d456a4e66229517f7a54e575443b7d40b2649cd218a
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224235809'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 66777049
+  length: 7439
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 31648a70c58be1ca4483b7de356da70e71a3d3fc46d3c818620e44474c286fbe

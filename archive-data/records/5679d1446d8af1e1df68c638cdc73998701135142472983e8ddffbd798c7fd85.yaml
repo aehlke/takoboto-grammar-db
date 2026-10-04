@@ -1,0 +1,76 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1569
+label: copula_ex
+title_raw: State-of-Being Practice Exercises (copula_ex)
+title: State-of-Being Practice Exercises (copula_ex)
+reading: null
+romanized_label: copula_ex
+category: lesson
+jlpt_level_original: '4'
+meaning: State-of-Being Practice Exercises
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=copula_ex
+archive_url: https://web.archive.org/web/20200215021305id_/http://jgram.org:80/pages/viewOne.php?tagE=copula_ex
+archive_timestamp: '20200215021305'
+retrieved_at: '2026-10-04T03:05:24+00:00'
+archive_digest: 6CTZMCG6KE2QCJVJLLXTTW3BZW7P3YPR
+response_sha256: 395e9dffc926f97cb07adbd0548ff639500f0c9f5505fed2230b8b6de91f78fc
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 8767
+    position: 0
+    japanese: i
+    body_text: |-
+      i 
+
+      i
+    body_html: |-
+      <a href="http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJi">
+      <strong>i</strong><strong></strong></a> <br/>
+      <strong>i </strong>
+    credits_raw: AlexaSmith
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "State-of-Being Practice Exercises (copula_ex)\n    Meaning: State-of-Being Practice Exercises \n    JLPT Level: 4\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>State-of-Being Practice Exercises (copula_ex)</span><br/>    <span><b>Meaning</b>: State-of-Being Practice Exercises </span><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: copula_ex
+    id: 1569
+    title_raw: State-of-Being Practice Exercises (copula_ex)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=copula_ex
+    response_sha256: 395e9dffc926f97cb07adbd0548ff639500f0c9f5505fed2230b8b6de91f78fc
+    section: Tutorial
+    section_html_sha256: 0858ac9b8ddab93f0bdffa0d3aa124879c32d204875d1f3abb50eb9eee20686f
+    section_text_sha256: d10d5e6c613a342c76bda247052c24dcb79ae297f313e3d7986a248f39b09d32
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8069
+    source_byte_length: 11571
+    section_bytes_sha256: 76d68a4c894afc7a40fd21917d9587c9a7ee9a22501b787ae359cab16875cb13
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215021305'

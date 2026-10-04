@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1429
+label: formal
+title_raw: (formal)
+title: (formal)
+reading: null
+romanized_label: formal
+category: lesson
+jlpt_level_original: '0'
+meaning: Formal Expressions　（である、ではない）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=formal
+archive_url: https://web.archive.org/web/20200215021425id_/http://jgram.org:80/pages/viewOne.php?tagE=formal
+archive_timestamp: '20200215021425'
+retrieved_at: '2026-10-04T03:14:11+00:00'
+archive_digest: 6VDN5ZUODAN4AXQ2FHFDYRIRUNWGWHLB
+response_sha256: f638c3e5f5b6a9084da0350926911d5f54a61c218359099828d0438ce13483a5
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(formal)\n    Meaning: Formal Expressions　（である、ではない） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (formal)</span><br/>    <span><b>Meaning</b>: Formal Expressions　（である、ではない） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: formal
+    id: 1429
+    title_raw: (formal)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=formal
+    response_sha256: f638c3e5f5b6a9084da0350926911d5f54a61c218359099828d0438ce13483a5
+    section: Tutorial
+    section_html_sha256: b550ca7c163ddb2e837ac186fbdcede92ae4ca77561fe55e26fa73e45091c2a3
+    section_text_sha256: a432cba0af547fd616d83327f070ecfe3556da3ba77958ab1db3fcce228de624
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8050
+    source_byte_length: 6157
+    section_bytes_sha256: a40ab169a49591b321a9a43524644ca4f580b77c315594137203e8883b85eb76
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215021425'

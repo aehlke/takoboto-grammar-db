@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1568
+label: katakana_ex
+title_raw: カタカナ Practice Exercises (katakana_ex)
+title: カタカナ Practice Exercises (katakana_ex)
+reading: null
+romanized_label: katakana_ex
+category: lesson
+jlpt_level_original: '4'
+meaning: カタカナ Practice Exercises
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=katakana_ex
+archive_url: https://web.archive.org/web/20150224235022id_/http://www.jgram.org/pages/viewOne.php?tagE=katakana_ex
+archive_timestamp: '20150224235022'
+retrieved_at: '2026-10-03T16:08:17+00:00'
+archive_digest: PVFFEFYXOMFHICECZY7IOYEQZXRKL323
+response_sha256: cf818f720b845ff4a70f0cbbee68d63963f2a24c2d5827c144d4c35243001f72
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "カタカナ Practice Exercises (katakana_ex)\n    Meaning: カタカナ Practice Exercises \n    JLPT Level: 4\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>カタカナ Practice Exercises (katakana_ex)</span><br/>    <span><b>Meaning</b>: カタカナ Practice Exercises </span><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: katakana_ex
+    id: 1568
+    title_raw: カタカナ Practice Exercises (katakana_ex)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=katakana_ex
+    response_sha256: cf818f720b845ff4a70f0cbbee68d63963f2a24c2d5827c144d4c35243001f72
+    section: Tutorial
+    section_html_sha256: cf1bf4845e40dbca57a05f9e185f2adcfbb99a8db0d85440c2075e1e1014aa14
+    section_text_sha256: 5972d66cd8cb4a00311c2b77467402d44e3744c733d16058a563abdaeda9535a
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8821
+    source_byte_length: 17104
+    section_bytes_sha256: 883967fd196ddab3782d1b0da7e2af1414b2c38750d3ce74e5d246f449444fd8
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224235022'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 61562414
+  length: 8003
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 78802999cd9b9c12ad7e92a2164cf6d5b711b707eb0509de20ae812180f05b31

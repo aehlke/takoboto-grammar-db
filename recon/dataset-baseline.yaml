@@ -1,18 +1,18 @@
-canonical_yaml_files: 1415
+canonical_yaml_files: 2305
 page_observations:
   current: 643
-  newer: 63
-  backup: 704
+  newer: 891
+  backup: 766
   feeds: 5
-backup_entry_observations: 705
+backup_entry_observations: 767
 counts:
-  archive_comments: 4097
-  archive_entries: 768
-  archive_examples: 5983
+  archive_comments: 8244
+  archive_entries: 1661
+  archive_examples: 11645
   archive_feed_items: 4
   archive_feeds: 5
-  archive_notes: 917
-  archive_relationships: 980
+  archive_notes: 1792
+  archive_relationships: 1936
   comments: 4546
   entries: 643
   entry_forms: 211
@@ -24,12 +24,20 @@ counts:
   translations: 5324
 record_digests:
   current: 0ec290cb145b17c9c487247c173eda77b8ca72b604c72d6771f3cbfcc09b4cb3
-  newer: 2a3a2b1c3c7f21f06cfac3189ff51798b74135086b98d0036afcb552cf7e25a0
-  backup: 9420ab2a0108f41729ac9da706fb8fe19ea55cf56bb3fe8c9135725ffff05ae8
+  newer: e0fcd0f8bb08d2ddd10d60423c3f17f6bc42b58c5de74466a2e94cd7a9007616
+  backup: 5932567c07d2584cce9f402127b859b4051d04b401e62d9b3086e04da5ea2164
   feeds: 888649e4564a6520bd1df280d75a58442acea8a9fac8c673cb5c34c0b6069662
-provenance: docs/reevaluation.md
+provenance: docs/recovery-followup.md
+previous_release: recon/dataset-baseline-v0.5.0.yaml
 source_audits:
   - data/coverage-report.json
   - archive-data/coverage-report.json
   - archive-2015/coverage-report.json
-historical_coverage_complete: false
+latest_historical_coverage_complete: false
+backup_historical_coverage_complete: true
+partial_source_observations:
+  newer: 84
+  backup: 63
+latest_page_observations: 890
+latest_entry_observations: 893
+earlier_page_observations: 1

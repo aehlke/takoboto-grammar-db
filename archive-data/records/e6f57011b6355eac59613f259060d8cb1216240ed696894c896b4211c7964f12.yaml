@@ -1,0 +1,202 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 502
+label: karashite
+title_raw: からして [からして] (karashite)
+title: からして
+reading: からして
+romanized_label: karashite
+category: grammar
+jlpt_level_original: '2'
+meaning: (1)Even; (2)Given, (Judging) From/By
+meaning_example: (1) He can't even read hiragana.
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=karashite
+archive_url: https://web.archive.org/web/20200215021656id_/http://jgram.org:80/pages/viewOne.php?tagE=karashite
+archive_timestamp: '20200215021656'
+retrieved_at: '2026-10-04T00:41:24+00:00'
+archive_digest: OKRQ75RESC63HF4EK5LDQNBNRPJSWU25
+response_sha256: 3e411b2a468e0ab732dd0cef5bd010c3e1e941dd1ad5152d1479d7181debaa88
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "This grammar should be used to refer to extremely basic things. For example, \"He cannot even read hiragana.\" If you were to say, \"He would eat even rats,\" then you need a different bit of grammar (see さえ).\n\n\n\r\nAlso, this grammar can only be used with nouns!"
+    html: "This grammar should be used to refer to extremely basic things. For example, \"He cannot even read hiragana.\" If you were to say, \"He would eat even rats,\" then you need a different bit of grammar (see さえ).<br/>\n<br/>\r\nAlso, this grammar can only be used with nouns!"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "I wouldn't add a third meaning to this, but according to \"A dictionary of Japanese Particles\", p65, it is translated in a different manner. Like in \"Starting with...\".\n\n\n\r\nThe whole meaning would be: \"Cites one characteristic of something/someone in order to make an emphatic statement about the whole thing/person.\" \n\n\n\r\nSo what I concluded so far, is that it belongs to the first meaning but translated in another way. Here a couple of sentences:\n\n\n\r\nExample:\n\r\n(1.1) あの男の人は顔つきからしてちょっと変だ。 - Starting with his face, he is a little strange.\n\r\n(1.2) 彼女は持ち物からして贅沢だ。- Starting with her possessions, she is extravagant."
+    html: "I wouldn't add a third meaning to this, but according to \"A dictionary of Japanese Particles\", p65, it is translated in a different manner. Like in \"Starting with...\".<br/>\n<br/>\r\nThe whole meaning would be: \"Cites one characteristic of something/someone in order to make an emphatic statement about the whole thing/person.\" <br/>\n<br/>\r\nSo what I concluded so far, is that it belongs to the first meaning but translated in another way. Here a couple of sentences:<br/>\n<br/>\r\nExample:<br/>\r\n(1.1) あの男の人は顔つき<strong>からして</strong>ちょっと変だ。 - <strong>Starting with</strong> his face, he is a little strange.<br/>\r\n(1.2) 彼女は持ち物<strong>からして</strong>贅沢だ。- <strong>Starting with</strong> her possessions, she is extravagant."
+    credits_raw: leonardo.stylish
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 309
+    position: 0
+    japanese: ひらがなからして読めない。もちろん漢字も読めない。
+    body_text: "ひらがなからして読めない。もちろん漢字も読めない。 \n\n\t\tCannot \n\t\teven \n\t\tread hiragana, and also of course cannot read kanji"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJひらがなからして読めない。もちろん漢字も読めない。\">\nひらがな<strong>からして</strong>読めない。もちろん漢字も読めない。<strong></strong></a> <br/>\n\t\tCannot \n\t\t<strong>even </strong>\n\t\tread hiragana, and also of course cannot read kanji"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 521
+    position: 1
+    japanese: A国は食料からして、不足している。（暗示：だからガソリンなど、ほとんどないだろう）
+    body_text: "A国は食料からして、不足している。（暗示：だからガソリンなど、ほとんどないだろう） \n\n\t\tThat country doesn't have enough food \n\t\tfor a start \n\t\t(implies: so they definitely don't have enough gasoline etc.)"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJA国は食料からして、不足している。\">\n\t\t\t\tA国は食料<strong>からして、</strong>不足している。<strong></strong>（暗示：だからガソリンなど、ほとんどないだろう）</a> <br/>\n\t\tThat country doesn't have enough food \n\t\t<strong>for a start </strong>\n\t\t(implies: so they definitely don't have enough gasoline etc.)"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3222
+    position: 2
+    japanese: 彼の健康状態からしてスポーツは無理でしょう。
+    body_text: "彼の健康状態からしてスポーツは無理でしょう。 \n\nJudging from \n\t\this physical condition　doing sports would be unwise"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼の健康状態からしてスポーツは無理でしょう。\">\n彼の健康状態<strong>からして</strong>スポーツは無理でしょう。<strong></strong></a> <br/>\n<strong>Judging from </strong>\n\t\this physical condition　doing sports would be unwise"
+    credits_raw: halx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4613
+    position: 3
+    japanese: 態度からしてけしからん
+    body_text: "態度からしてけしからん \n\n\t\tEven his attitude is nasty."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ態度からしてけしからん\">\n態度<strong>からして</strong>けしからん<strong></strong></a> <br/>\n\t\tEven his attitude is nasty. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6492
+    position: 4
+    japanese: 値段からして、Xの機種はYとは比べものにならないと思っていた。
+    body_text: "値段からして、Xの機種はYとは比べものにならないと思っていた。 \n\n\t\tGiven its price, I didn't expect the X machine to be in the same league as the Y machine."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ値段からして、Xの機種はYとは比べものにならないと思っていた。\">\n\t\t\t\t値段<strong>からして</strong>、Xの機種はYとは比べものにならないと思っていた。<strong></strong></a> <br/>\n\t\tGiven its price, I didn't expect the X machine to be in the same league as the Y machine. \n\t\t<strong> </strong>"
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6493
+    position: 5
+    japanese: もうすぐ結婚するというのに、準備がぜんぜんできていません。住む所からして、まだ決まっていないんです。
+    body_text: "もうすぐ結婚するというのに、準備がぜんぜんできていません。住む所からして、まだ決まっていないんです。 \n\n\t\tEven though we're getting married soon, we haven't been able to prepare at all. We haven't even decided where to live yet."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJもうすぐ結婚するというのに、準備がぜんぜんできていません。住む所からして、まだ決まっていないんです。\">\n\t\t\t\tもうすぐ結婚するというのに、準備がぜんぜんできていません。住む所<strong>からして</strong>、まだ決まっていないんです。<strong></strong></a> <br/>\n\t\tEven though we're getting married soon, we haven't been able to prepare at all. We haven't even decided where to live yet. \n\t\t<strong> </strong>"
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7099
+    position: 6
+    japanese: あの人の挨拶からして我慢できない。
+    body_text: "あの人の挨拶からして我慢できない。\r \n\n\t\tI can't even stand his greeting."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあの人の挨拶からして我慢できない。\">\n\t\t\t\tあの人の挨拶<strong>からして</strong>我慢できない。\r<strong></strong></a> <br/>\n\t\tI can't even stand his greeting. \n\t\t<strong> </strong>"
+    credits_raw: usaton
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7100
+    position: 7
+    japanese: プロジェクトチームの名前からして独特だ。
+    body_text: "プロジェクトチームの名前からして独特だ。\r \n\n\t\tEven their project name is unique."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJプロジェクトチームの名前からして独特だ。\">\n\t\t\t\tプロジェクトチームの名前<strong>からして</strong>独特だ。\r<strong></strong></a> <br/>\n\t\tEven their project name is unique. \n\t\t<strong> </strong>"
+    credits_raw: usaton
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: this often gives one example, but implies more.
+    html: this often gives one example, but implies more.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: see also sae as in the they dont -even- have food.
+    html: |-
+      see also <a href="http://jgram.org:80/pages/viewOne.php?tagE=sae">sae</a> as in the they dont -even- have food.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: halx
+    text: "another meaning is 〜から判断して \"form one's opinion based on\"\n\r\nAnother thing to point out is that there are two versions of から discussed in the grammatics:\n\r\n1) から because\n\r\n2) から from\n\r\nactually quite obvious but might help in the test. Remember   the different grammatics of those two!"
+    html: "another meaning is 〜から判断して \"form one's opinion based on\"<br/>\r\nAnother thing to point out is that there are two versions of から discussed in the grammatics:<br/>\r\n1) から because<br/>\r\n2) から from<br/>\r\nactually quite obvious but might help in the test. Remember   the different grammatics of those two!"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: rubyhatchet
+    text: |-
+      It's probably better to use からすると for example #3222. That grammar has the meaning of "judging by." Using からして is grammatically weird: "Even his physical condition can't do sports."
+    html: |-
+      It's probably better to use からすると for example <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=karashite#3222">#3222</a></b>. That grammar has the meaning of "judging by." Using からして is grammatically weird: "Even his physical condition can't do sports."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: nitrate
+    text: |-
+      "for a start" is definately a weird way to translate this point. From the Kanzen master book, there are two translations explained: 1)"Even" and 2)"Judging from".
+    html: |-
+      "for a start" is definately a weird way to translate this point. From the Kanzen master book, there are two translations explained: 1)"Even" and 2)"Judging from".
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: kadoka66
+    text: "Isn't the definition closer to, 'In particular'.\n\r\nIt seems to me after all that this grammar is used to highlight one thing out of a group to describe something or use as an example. I think it could also be written as 'for a start' in some examples.\n\n\n\r\n\"田舎は空気からして違う。\" The countryside, in particular the air is different.\n\n\n\r\n\"彼は礼儀を知らない　挨拶からして、きちんとしていない。\"\n\r\nHe doesn't have any manners, for a start he never greets people properly.\n\n\n\r\n(all example taken from Kanzen Master level 2 Green Grammar book)\n\n\n\r\nRUBYHATCHET : That example using からして actually exists in the Kanzen Master book and my Japanese friend insists it is grammatically correct."
+    html: "Isn't the definition closer to, 'In particular'.<br/>\r\nIt seems to me after all that this grammar is used to highlight one thing out of a group to describe something or use as an example. I think it could also be written as 'for a start' in some examples.<br/>\n<br/>\r\n\"田舎は空気からして違う。\" The countryside, in particular the air is different.<br/>\n<br/>\r\n\"彼は礼儀を知らない　挨拶からして、きちんとしていない。\"<br/>\r\nHe doesn't have any manners, for a start he never greets people properly.<br/>\n<br/>\r\n(all example taken from Kanzen Master level 2 Green Grammar book)<br/>\n<br/>\r\nRUBYHATCHET : That example using からして actually exists in the Kanzen Master book and my Japanese friend insists it is grammatically correct."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: rubyhatchet
+    text: "KADOKE66: Thinking about it again, you're right. I'm still not sure if \"judging by/from\" is a good translation into English because of the \"judging\" part. Just using \"by\" or \"given\" works well, such as \"by the feel of it (その感じからして).\" However, からして in example #3222 should and does make grammatical and practical sense in Japanese. Something like, \"Given his physical condition, he can't handle sports.\"\n\n\n\r\nIn ＡからしてＢ, Ａ has to be an example of extremely basic or \"at the very least,\" while Ｂ gives the meaning of \"because of Ａ, anything above that is 〜.\"\n\n\n\r\nI tried to include a couple more examples like #3222 to illustrate the two meanings you pointed out."
+    html: "KADOKE66: Thinking about it again, you're right. I'm still not sure if \"judging by/from\" is a good translation into English because of the \"judging\" part. Just using \"by\" or \"given\" works well, such as \"by the feel of it (その感じからして).\" However, からして in example <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=karashite#3222\">#3222</a></b> should and does make grammatical and practical sense in Japanese. Something like, \"Given his physical condition, he can't handle sports.\"<br/>\n<br/>\r\nIn ＡからしてＢ, Ａ has to be an example of extremely basic or \"at the very least,\" while Ｂ gives the meaning of \"because of Ａ, anything above that is 〜.\"<br/>\n<br/>\r\nI tried to include a couple more examples like <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=karashite#3222\">#3222</a></b> to illustrate the two meanings you pointed out."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: wohajime
+    label: wohajime
+    annotation_text: wohajime [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=wohajime">wohajime</a> [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: sae
+    label: sae
+    annotation_text: sae [rubyhatchet]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=sae">sae</a> [<a href="http://jgram.org:80/pages/contributions.php?author=rubyhatchet">rubyhatchet</a>]
+    credits_raw: rubyhatchet
+sections:
+  - kind: header
+    text: "からして [からして] (karashite)\n    Meaning: (1)Even; (2)Given, (Judging) From/By \n    Example: (1) He can't even read hiragana.\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>からして [からして] (karashite)</span><br/>    <span><b>Meaning</b>: (1)Even; (2)Given, (Judging) From/By </span><br/>    <b>Example</b>: <i>(1) He can't even read hiragana.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215021656'

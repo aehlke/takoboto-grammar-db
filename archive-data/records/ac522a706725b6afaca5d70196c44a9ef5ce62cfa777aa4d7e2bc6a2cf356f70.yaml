@@ -1,0 +1,67 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1416
+label: CausativeAndPassiveVerbs
+title_raw: '- (CausativeAndPassiveVerbs)'
+title: '- (CausativeAndPassiveVerbs)'
+reading: null
+romanized_label: CausativeAndPassiveVerbs
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=CausativeAndPassiveVerbs
+archive_url: https://web.archive.org/web/20051226015051id_/http://jgram.org:80/pages/viewOne.php?tagE=CausativeAndPassiveVerbs
+archive_timestamp: '20051226015051'
+retrieved_at: '2026-10-04T02:33:42+00:00'
+archive_digest: SPO3WOE3PWCFEKKUGWCKJBDW44T4QQFZ
+response_sha256: d9a4c793476e88dc75d8fe6204f6f2a5c27370ea44374486870fbd60d813c609
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: kaszarob
+    text: Tha Causative form of "kuru" is KOSASERU not koraseru as it appears in the Causative Conjugation Rules Box
+    html: Tha Causative form of "kuru" is KOSASERU not koraseru as it appears in the Causative Conjugation Rules Box
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "- (CausativeAndPassiveVerbs)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (CausativeAndPassiveVerbs)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: CausativeAndPassiveVerbs
+    id: 1416
+    title_raw: '- (CausativeAndPassiveVerbs)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=CausativeAndPassiveVerbs
+    response_sha256: d9a4c793476e88dc75d8fe6204f6f2a5c27370ea44374486870fbd60d813c609
+    section: Tutorial
+    section_html_sha256: ed117ce44ef2dfaaaeeced508bc1e4d6d6fd0385991267e5fb1060acba3e6c97
+    section_text_sha256: b680b2db7c59e65a06a924531979743dbb105e8c8a0ca4b571bfea2a929fb542
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8069
+    source_byte_length: 14833
+    section_bytes_sha256: 57f0ec493df9b3c4f5cb070b29146aab9540e2ae246fdd9c39969094a0a20219
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226015051'

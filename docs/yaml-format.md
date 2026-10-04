@@ -75,3 +75,21 @@ conflicting copies require review and are never resolved by choosing one silentl
 After migration, review the Git diff and build fresh exports with the normal
 `build` command. Source audits still require the local ignored raw caches;
 offline exports need only the committed records and verification metadata.
+
+## Earlier recovered revisions
+
+`archive-data/earlier-records/<label-hash>-<timestamp>.yaml` stores distinct
+earlier indexed observations; these do not duplicate a latest source record.
+`observation_kind: earlier-indexed-revision`, `selected_indexed_timestamp`,
+`latest_indexed_timestamp`, `selection_reason` and `selection_provenance` make
+the distinction explicit. Independent JSON metadata in `earlier-states/` binds
+the full record hash to the exact indexed capture. A latest exclusion or failed
+state is preserved rather than overwritten. Ordinary builds include verified
+earlier records, with distinct SQLite keys and prominent reader notices.
+
+Historical verification states record `eligible_ids_sha256` and
+`eligible_ids_count` rather than duplicating the complete current ID list per
+label. The hash uses the canonical JSON digest of sorted distinct IDs; the
+current canonical records reproduce that list. `current_membership_sha256`,
+where present, additionally binds IDs to their exact current response hashes.
+These are provenance metadata, not duplicate grammar content.

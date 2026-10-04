@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1431
+label: hiragana
+title_raw: ひらがな (hiragana)
+title: ひらがな (hiragana)
+reading: null
+romanized_label: hiragana
+category: lesson
+jlpt_level_original: '4'
+meaning: Hiragana is the basic Japanese phonetic alphabet.
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=hiragana
+archive_url: https://web.archive.org/web/20150224231234id_/http://www.jgram.org/pages/viewOne.php?tagE=hiragana
+archive_timestamp: '20150224231234'
+retrieved_at: '2026-10-03T16:04:52+00:00'
+archive_digest: UE4D7PA3IZVUUYO2Y6GU4OOUU3ZTCHZD
+response_sha256: 96855c6a74d49414cc092f233227f7a87dd3315329aa5f855233801cd80d716a
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "ひらがな (hiragana)\n    Meaning: Hiragana is the basic Japanese phonetic alphabet. \n    JLPT Level: 4\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>ひらがな (hiragana)</span><br/>    <span><b>Meaning</b>: Hiragana is the basic Japanese phonetic alphabet. </span><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: hiragana
+    id: 1431
+    title_raw: ひらがな (hiragana)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=hiragana
+    response_sha256: 96855c6a74d49414cc092f233227f7a87dd3315329aa5f855233801cd80d716a
+    section: Tutorial
+    section_html_sha256: f758aa6182ce733491fbb617e6238a429352f1c95dcf0bb1bbb0d27502dc0f2f
+    section_text_sha256: 1b51b1a6fcfb8872a16abda90c0e6b96fdd593699dc9ac4a1fac477f545362ae
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8819
+    source_byte_length: 14808
+    section_bytes_sha256: 244dcbddbddcf70b0da696bf000fb91e3f299d3fa974578c182e6446c0803d73
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224231234'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 20055392
+  length: 9713
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: dadcda03523c5b35e1246bbd085aa2da69cb08b4296b87e4d979f82bb70fe84d

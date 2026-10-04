@@ -1,0 +1,255 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 890
+label: wohajime
+title_raw: をはじめ [をはじめ] (wohajime)
+title: をはじめ
+reading: をはじめ
+romanized_label: wohajime
+category: grammar
+jlpt_level_original: '2'
+meaning: not only, but also  starting with
+meaning_example: not only french, but also german, spanish etc...
+credits_raw: dc
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=wohajime
+archive_url: https://web.archive.org/web/20201111214750id_/http://www.jgram.org/pages/viewOne.php?tagE=wohajime
+archive_timestamp: '20201111214750'
+retrieved_at: '2026-10-04T02:13:21+00:00'
+archive_digest: PXBBPPETGGYCCDK6EKVXC4URC7IWODXU
+response_sha256: 352ad25e4684b1f425b67620be88dca321d06ea824a7ff4cf6977cd923f8bb8b
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "<b>を始め</b> is used to preface a list of items, and also to emphasize the first one.\n\n\n\r\nA をはじめ、B, C ...\n\n\n\r\nEnglish equivalents might be <b>not only, but also</b> \n\r\nNot only A, but also B and C\n\r\nEspecially A, but also B and C\n\n\n\r\nsimilar to karashite which is mostly used for negative things.\n\n\n\r\nかれの下品の言い方<b>からして</b>、すごく嫌な人です\n\r\nI really dislike him, <b>especially</b> because of his foul mouth."
+    html: "&lt;b&gt;を始め&lt;/b&gt; is used to preface a list of items, and also to emphasize the first one.<br/>\n<br/>\r\nA をはじめ、B, C ...<br/>\n<br/>\r\nEnglish equivalents might be &lt;b&gt;not only, but also&lt;/b&gt; <br/>\r\nNot only A, but also B and C<br/>\r\nEspecially A, but also B and C<br/>\n<br/>\r\nsimilar to <b><a href=\"http://www.jgram.org/pages/viewOne.php?tagE=karashite\">karashite</a></b> which is mostly used for negative things.<br/>\n<br/>\r\nかれの下品の言い方&lt;b&gt;からして&lt;/b&gt;、すごく嫌な人です<br/>\r\nI really dislike him, &lt;b&gt;especially&lt;/b&gt; because of his foul mouth."
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 1055
+    position: 0
+    japanese: 歌手は最新のヒット曲をはじめ２５の新曲を歌った。
+    body_text: "歌手は最新のヒット曲をはじめ２５の新曲を歌った。 \n\n\t\tThe singer \n\t\tstarted with \n\t\ta recent hit, and then sang 25 other new songs."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ歌手は最新のヒット曲をはじめ２５の新曲を歌った。\">\n歌手は最新のヒット曲<strong>をはじめ</strong>２５の新曲を歌った。<strong></strong></a> <br/>\n\t\tThe singer \n\t\t<strong>started with </strong>\n\t\ta recent hit, and then sang 25 other new songs."
+    credits_raw: Amatuka
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1145
+    position: 1
+    japanese: 本日、退社することになりました社長を初め皆様には本当にお世話になりました
+    body_text: "本日、退社することになりました社長を初め皆様には本当にお世話になりました \n\n\t\tToday I am leaving the company, and I would like to thank \n\t\tnot only \n\t\tthe President, but everybody."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ本日、退社することになりました社長を初め皆様には本当にお世話になりました\">\n\t\t\t\t本日、退社することになりました社長<strong>を初め</strong>皆様には本当にお世話になりました<strong></strong></a> <br/>\n\t\tToday I am leaving the company, and I would like to thank \n\t\t<strong>not only </strong>\n\t\tthe President, but everybody."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3261
+    position: 2
+    japanese: メルセデスベンツをはじめとして、輸入車を販売しています。
+    body_text: "メルセデスベンツをはじめとして、輸入車を販売しています。 \n\nStarting with \n\t\tMercedes, we sell (implied: other types of) imported cars."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJメルセデスベンツをはじめとして、輸入車を販売しています。\">\nメルセデスベンツを<strong>はじめとして、</strong>輸入車を販売しています。<strong></strong></a> <br/>\n<strong>Starting with </strong>\n\t\tMercedes, we sell (implied: other types of) imported cars."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4466
+    position: 3
+    japanese: 携帯電話をはじめ、あらゆる組み込み機器のUIをFlashにより実現する。
+    body_text: "携帯電話をはじめ、あらゆる組み込み機器のUIをFlashにより実現する。 \n\n\t\tnot only mobile phones, but all kinds of appliances, we intend to implement a flash interface on."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ携帯電話をはじめ、あらゆる組み込み機器のUIをFlashにより実現する。\">\n\t\t\t\t携帯電話<strong>をはじめ</strong>、あらゆる組み込み機器のUIをFlashにより実現する。<strong></strong></a> <br/>\n\t\tnot only mobile phones, but all kinds of appliances, we intend to implement a flash interface on. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6814
+    position: 4
+    japanese: 今日の祝賀会には首相をはじめ多くの政界人が出席した
+    body_text: "今日の祝賀会には首相をはじめ多くの政界人が出席した\r \n\n\t\tat today's celebration, not only the Prime Minister but also lots of politicians are here"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ今日の祝賀会には首相をはじめ多くの政界人が出席した\">\n\t\t\t\t今日の祝賀会には首相<strong>をはじめ</strong>多くの政界人が出席した\r<strong></strong></a> <br/>\n\t\tat today's celebration, not only the Prime Minister but also lots of politicians are here \n\t\t<strong> </strong>"
+    credits_raw: duck_duckone
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7169
+    position: 5
+    japanese: 山本さんが難しい試験に合格した。ご両親をはじめ、先生が喜んでいらっしゃる。
+    body_text: "山本さんが難しい試験に合格した。ご両親をはじめ、先生が喜んでいらっしゃる。  \n\n\t\tYamahon passed the difficult exam, which pleased \n\t\tboth \n\t\this parents and teachers."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ山本さんが難しい試験に合格した。ご両親をはじめ、先生が喜んでいらっしゃる。 \">\n\t\t\t\t山本さんが難しい試験に合格した。ご両親<strong>をはじめ、</strong>先生が喜んでいらっしゃる。 <strong></strong></a> <br/>\n\t\tYamahon passed the difficult exam, which pleased \n\t\t<strong>both </strong>\n\t\this parents and teachers."
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8525
+    position: 6
+    japanese: その詩を初めから終わりまで暗記する。
+    body_text: "その詩を初めから終わりまで暗記する。\r \n\n\t\tCommit the whole poem to memory."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJその詩を初めから終わりまで暗記する。\">\n\t\t\t\tその詩を初めから終わりまで暗記する。\r<strong></strong><strong></strong></a> <br/>\n\t\tCommit the whole poem to memory. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: used when giving a list of things, the first example being X
+    html: used when giving a list of things, the first example being X
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "を is used to mark a noun or noun phrase.\n\n\n\r\nN = noun."
+    html: "を is used to mark a noun or noun phrase.<br/>\n<br/>\r\nN = noun."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: dc
+    text: "This puts emphasis on the first item strongly\n\r\n\"First and foremost X, and also ... \""
+    html: "This puts emphasis on the first item strongly<br/>\r\n\"First and foremost X, and also ... \""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: "can this be used with a verb?\n\r\n　歌えるを始め、踊りました\n\r\n　first singing, but also dancing"
+    html: "can this be used with a verb?<br/>\r\n　歌えるを始め、踊りました<br/>\r\n　first singing, but also dancing"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Miki
+    text: "It is weird to be used with a verb. I cannot think of any good eamples using a verb using 始め.\n\r\n>>歌うことから始め、踊りもした。"
+    html: "It is weird to be used with a verb. I cannot think of any good eamples using a verb using 始め.<br/>\r\n&gt;&gt;歌うことから始め、踊りもした。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: dc
+    text: "> 歌うことから始め <\n\r\nso that is turning the verb into a noun.. \n\r\nafter singing , dancing..."
+    html: "&gt; 歌うことから始め &lt;<br/>\r\nso that is turning the verb into a noun.. <br/>\r\nafter singing , dancing..."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: bamboo4
+    text: |-
+      を始め does not necessairly mean "to start with" but the means of enumeration.　彼は英語を始め、フランス語とロシア語にも堪能だ only serves as the means of enumeration. "He is conversant not only in English but also in French and Russian."
+    html: |-
+      を始め does not necessairly mean "to start with" but the means of enumeration.　彼は英語を始め、フランス語とロシア語にも堪能だ only serves as the means of enumeration. "He is conversant not only in English but also in French and Russian." <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: dc
+    text: "but it might also mean especially, as in this example:\n\n\n\r\n田中先生をはじめ、この学校の皆さんのお世話になりました。\n\r\n（たなかせんせいをはじめ、このがっこうのみなさんのおせわになりました。）\n\r\nI Have been helped by everyone in  this school, but especially by Mr. Tanaka."
+    html: "but it might also mean especially, as in this example:<br/>\n<br/>\r\n田中先生をはじめ、この学校の皆さんのお世話になりました。<br/>\r\n（たなかせんせいをはじめ、このがっこうのみなさんのおせわになりました。）<br/>\r\nI Have been helped by everyone in  this school, but especially by Mr. Tanaka."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: dc
+    text: "but it might also mean especially, as in this example:\n\n\n\r\n田中先生をはじめ、この学校の皆さんのお世話になりました。\n\r\n（たなかせんせいをはじめ、このがっこうのみなさんのおせわになりました。）\n\r\nI Have been helped by everyone in this school, but especially by Mr. Tanaka.  \n\n\n\nfrom here"
+    html: "but it might also mean <b>especially</b>, as in this example:<br/>\n<br/>\r\n田中先生をはじめ、この学校の皆さんのお世話になりました。<br/>\r\n（たなかせんせいをはじめ、このがっこうのみなさんのおせわになりました。）<br/>\r\nI Have been helped by everyone in this school, but <b>especially</b> by Mr. Tanaka.  <br/>\n<br/>\n<a href=\"http://www.geocities.com/easykanji/jlptgrammar.html\">from here<br/>\n</a>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: bamboo4
+    text: |-
+      Yeah, but even then, はじめ still has the connotation of first enumeration, among the others, and does not suggest "started with" as used in the first example.
+    html: |-
+      Yeah, but even then, はじめ still has the connotation of first enumeration, among the others, and does not suggest "started with" as used in the first example.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: dc
+    text: note this is wohajime and not wohajimeTE - i often confuse.
+    html: note this is wohajime and not wohajimeTE - i often confuse.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: frenkly
+    text: "could somebody explain the difference btw をはじめ & をはじめとする if any\n\n\n\r\ni know that the formation is N+をはじめ & N1+をはじめとする+N2"
+    html: "could somebody explain the difference btw をはじめ &amp; をはじめとする if any<br/>\n<br/>\r\ni know that the formation is N+をはじめ &amp; N1+をはじめとする+N2"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: Monte Cristo
+    text: "In some cases it can also mean \"such as...\" or \"like...\"\n\n\n\r\n上野動物園にはパンダをはじめ、 子供達に人気がある動物がたくさんいます。\n\r\nThere are a lot of animals at Ueno Zoo that are popular with children, such as pandas."
+    html: "In some cases it can also mean \"such as...\" or \"like...\"<br/>\n<br/>\r\n上野動物園にはパンダをはじめ、 子供達に人気がある動物がたくさんいます。<br/>\r\nThere are a lot of animals at Ueno Zoo that are popular with children, such as pandas."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: ぴえーる
+    text: "+1 monte cristo\n\n\n\r\nanother meaning can be \"such as\"\n\n\n\r\n新宿には都庁をはじめ、多くの高層ビルが立ち並んでいる。\n\r\nThere are a lot of tall buildings standing up in shinjuku such as the Tokyo Government Office."
+    html: "+1 monte cristo<br/>\n<br/>\r\nanother meaning can be \"such as\"<br/>\n<br/>\r\n新宿には都庁をはじめ、多くの高層ビルが立ち並んでいる。<br/>\r\nThere are a lot of tall buildings standing up in shinjuku such as the Tokyo Government Office."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: karashite
+    label: karashite
+    annotation_text: karashite [dc]
+    annotation_html: |-
+      <a href="http://www.jgram.org/pages/viewOne.php?tagE=karashite">karashite</a> [<a href="http://www.jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: hamotoyori
+    label: hamotoyori
+    annotation_text: hamotoyori [dc]
+    annotation_html: |-
+      <a href="http://www.jgram.org/pages/viewOne.php?tagE=hamotoyori">hamotoyori</a> [<a href="http://www.jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 2
+    target_label: wohajimetosuru
+    label: wohajimetosuru
+    annotation_text: wohajimetosuru [dc]
+    annotation_html: |-
+      <a href="http://www.jgram.org/pages/viewOne.php?tagE=wohajimetosuru">wohajimetosuru</a> [<a href="http://www.jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 3
+    target_label: nikagitte
+    label: nikagitte
+    annotation_text: |-
+      nikagitte    (wohajime usually prefaces a list of specific items, whereas nikagitte is a special one out of a crowd) [dc]
+    annotation_html: |-
+      <a href="http://www.jgram.org/pages/viewOne.php?tagE=nikagitte">nikagitte</a>    (<b><a href="http://www.jgram.org/pages/viewOne.php?tagE=wohajime">wohajime</a></b> usually prefaces a list of specific items, whereas <b><a href="http://www.jgram.org/pages/viewOne.php?tagE=nikagitte">nikagitte</a></b> is a special one out of a crowd) [<a href="http://www.jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 4
+    target_label: nominarazu
+    label: nominarazu
+    annotation_text: nominarazu [yookoso]
+    annotation_html: |-
+      <a href="http://www.jgram.org/pages/viewOne.php?tagE=nominarazu">nominarazu</a> [<a href="http://www.jgram.org/pages/contributions.php?author=yookoso">yookoso</a>]
+    credits_raw: yookoso
+sections:
+  - kind: header
+    text: "をはじめ [をはじめ] (wohajime)\n    Meaning: not only, but also  starting with \n    Example: not only french, but also german, spanish etc...\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>をはじめ [をはじめ] (wohajime)</span><br/>    <span><b>Meaning</b>: not only, but also  starting with </span><br/>    <b>Example</b>: <i>not only french, but also german, spanish etc...</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20201111214750'

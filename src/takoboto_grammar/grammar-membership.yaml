@@ -1,5 +1,6 @@
 reviewed_at: '2026-10-03'
-scope: Original JGram grammar and grammatical usage; excludes dictionary-only vocabulary and explicit non-grammar categories
+scope: |-
+  Original JGram grammar/lesson categories and verified grammatical usage; excludes explicit non-grammar categories and separately reviewed dictionary-only or administrative entries
 entries:
   - id: 1615
     label: Gerrund form of Verb + nakade
@@ -112,3 +113,29 @@ entries:
       archive_timestamp: '20200215031008'
       response_sha256: 65f5cfde7383df0456549731e76c73b62643cfe273cc1e950bb4ccd156379615
     expected_title_raw: 満点 [まんてん] (manten)
+  - id: 1480
+    label: newSiteFB
+    decision: non-grammar
+    reviewed_category: grammar
+    basis: |-
+      Website administration and feature-feedback thread, with account/import/quiz support comments and no language examples. Its source grammar category is misleading; this is outside the grammar/grammatical-usage collection.
+    expected_title_raw: 新規サイトコメントを教えて！ (newSiteFB)
+    reviewed_captures:
+      - source_url: http://www.jgram.org:80/pages/viewOne.php?tagE=newSiteFB
+        archive_timestamp: '20200714034908'
+        response_sha256: b457fc44262ce4119bb47195b03de65c9ad62a2afc71ebd5d1934e282155e388
+      - source_url: http://jgram.org/pages/viewOne.php?tagE=newSiteFB
+        archive_timestamp: '20150224225140'
+        response_sha256: 7379c24853b5d6f68376b58d6da35c18a48712af74faf75522740cb3abf638b5
+    review_provenance: docs/recovery-followup.md
+  - id: 1724
+    label: �`tesimaimasita
+    decision: grammar
+    basis: |-
+      Original URL-byte alias of てしまいました (ID 1724); fourteen attributed examples of unintended outcomes and regret. Entry ID agrees with the independently reviewed teshimaimashita record; title and source inspected separately.
+    evidence:
+      source_url: http://jgram.org/pages/viewOne.php?tagE=%81%60tesimaimasita
+      archive_url: https://web.archive.org/web/20111011020237id_/http://jgram.org/pages/viewOne.php?tagE=%81%60tesimaimasita
+      archive_timestamp: '20111011020237'
+      response_sha256: 0dabe8db0b26cbe7a5acbea5606779b989792582b8456f86722a15d3d9ddb506
+    expected_title_raw: 〜てしまいました [〜てしまいました] (〜tesimaimasita)

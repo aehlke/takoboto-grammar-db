@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1573
+label: signs
+title_raw: Showing signs of something [〜がる、ばかり、〜めく] (signs)
+title: Showing signs of something
+reading: 〜がる、ばかり、〜めく
+romanized_label: signs
+category: lesson
+jlpt_level_original: '3'
+meaning: Showing signs of something （〜がる、ばかり、〜めく）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=signs
+archive_url: https://web.archive.org/web/20200215031531id_/http://jgram.org:80/pages/viewOne.php?tagE=signs
+archive_timestamp: '20200215031531'
+retrieved_at: '2026-10-04T04:20:24+00:00'
+archive_digest: KGFHO62WYLYAWWA3BQR4NWX7JDRJ5677
+response_sha256: a2c2ab79f79a067b6ce317b19924c75ff3f5cec684b8c7ca10e879a7233a0b52
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "Showing signs of something [〜がる、ばかり、〜めく] (signs)\n    Meaning: Showing signs of something （〜がる、ばかり、〜めく） \n    JLPT Level: 3\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Showing signs of something [〜がる、ばかり、〜めく] (signs)</span><br/>    <span><b>Meaning</b>: Showing signs of something （〜がる、ばかり、〜めく） </span><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: signs
+    id: 1573
+    title_raw: Showing signs of something [〜がる、ばかり、〜めく] (signs)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=signs
+    response_sha256: a2c2ab79f79a067b6ce317b19924c75ff3f5cec684b8c7ca10e879a7233a0b52
+    section: Tutorial
+    section_html_sha256: cf609c8eb5be41e2c9da04cee9e925b2b40a557a232f98277edbd8ed4cd6d822
+    section_text_sha256: d562fe86490e46bab97299afc80e3db4c83c276d6ec602f037d0dca06641ac03
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8165
+    source_byte_length: 9592
+    section_bytes_sha256: 2e1015ab642477b96f355aa23035833b4365f040d692e9e71fd3a3ab529e06a4
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215031531'

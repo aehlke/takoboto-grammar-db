@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1425
+label: copula
+title_raw: (copula)
+title: (copula)
+reading: null
+romanized_label: copula
+category: lesson
+jlpt_level_original: '0'
+meaning: Declaring something is so and so using 「だ」
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=copula
+archive_url: https://web.archive.org/web/20200215024746id_/http://jgram.org:80/pages/viewOne.php?tagE=copula
+archive_timestamp: '20200215024746'
+retrieved_at: '2026-10-04T03:05:19+00:00'
+archive_digest: RUUSLJSMUTODZDB6ZSXEVUJRBURXIRFX
+response_sha256: 13c16c1c10427426afede6be09b4ccc7af5715e8a37553675f124ed786d32cba
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(copula)\n    Meaning: Declaring something is so and so using 「だ」 \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (copula)</span><br/>    <span><b>Meaning</b>: Declaring something is so and so using 「だ」 </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: copula
+    id: 1425
+    title_raw: (copula)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=copula
+    response_sha256: 13c16c1c10427426afede6be09b4ccc7af5715e8a37553675f124ed786d32cba
+    section: Tutorial
+    section_html_sha256: 1be540012c219dc3f09bea421a2f4f2d42c0cc4daeb24bc7182761d4fc9dd9d7
+    section_text_sha256: d37c93621f53d702c26ef95d031987d574b9aeb57f1a26d2dea19e005fe9da9f
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8057
+    source_byte_length: 5919
+    section_bytes_sha256: ab255ee0ad28fc055d0bea0bb319be0a7d19c7ffb98590d3db81349e5eb2dc99
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215024746'

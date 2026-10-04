@@ -1,0 +1,67 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1455
+label: adgobi
+title_raw: (adgobi)
+title: (adgobi)
+reading: null
+romanized_label: adgobi
+category: lesson
+jlpt_level_original: '0'
+meaning: Using Adverbs and Gobi
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=adgobi
+archive_url: https://web.archive.org/web/20200215022918id_/http://jgram.org:80/pages/viewOne.php?tagE=adgobi
+archive_timestamp: '20200215022918'
+retrieved_at: '2026-10-04T02:55:54+00:00'
+archive_digest: U5UZFF3LVJ2MHWZJWVSI6BL7D77L222X
+response_sha256: 93b1794a1aaa77acb0ce32f724088646fa73eaf200bc8478c96650363ec8fc6c
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: Bree
+    text: "You may want to edit your first example sentence in this lesson.\n\n\n\r\nIn spoken Japanese, there is no way to tell the difference other than from context, but in written Japanese you can tell the following two sentences apart by the different Kanji used:\n\n\n\r\n彼は早く走った。　He ran early (in the morning, perhaps).\n\r\n彼は速く走った。 He ran fast/quickly. \n\n\n\r\nSomeone please correct me if I`m wrong."
+    html: "You may want to edit your first example sentence in this lesson.<br/>\n<br/>\r\nIn spoken Japanese, there is no way to tell the difference other than from context, but in written Japanese you can tell the following two sentences apart by the different Kanji used:<br/>\n<br/>\r\n彼は早く走った。　He ran early (in the morning, perhaps).<br/>\r\n彼は速く走った。 He ran fast/quickly. <br/>\n<br/>\r\nSomeone please correct me if I`m wrong."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(adgobi)\n    Meaning: Using Adverbs and Gobi \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (adgobi)</span><br/>    <span><b>Meaning</b>: Using Adverbs and Gobi </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: adgobi
+    id: 1455
+    title_raw: (adgobi)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=adgobi
+    response_sha256: 93b1794a1aaa77acb0ce32f724088646fa73eaf200bc8478c96650363ec8fc6c
+    section: Tutorial
+    section_html_sha256: 16456126eeecbf15e13bf64e797de0a664ff00af4dcea227c0820370d7fa477d
+    section_text_sha256: 1e8e12a0dbda4d26ca5435390927be294f0fbe52cafefb2e6052e07096b4dbf6
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8034
+    source_byte_length: 9252
+    section_bytes_sha256: 39dc62cd3213c6f8a7371a2c295528256a273c46c49d241c46af487d20390c2b
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215022918'

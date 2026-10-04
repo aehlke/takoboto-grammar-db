@@ -1,0 +1,79 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1680
+label: tekoso
+title_raw: 〜てこそ ([〜てこそ] )(tekoso)
+title: 〜てこそ
+reading: 〜てこそ
+romanized_label: tekoso
+category: null
+jlpt_level_original: '2'
+meaning: not until, only after, of all things 「〜てはじめて」と同じ意味だ。
+meaning_example: Only after playing a sport you'll understand the fun of it.
+credits_raw: ZekkDistor
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=tekoso
+archive_url: https://web.archive.org/web/20200215022447id_/http://jgram.org:80/pages/viewOne.php?tagE=tekoso
+archive_timestamp: '20200215022447'
+retrieved_at: '2026-10-04T01:50:57+00:00'
+archive_digest: C3UXOWNUHR47TLDOO2BTUDQ5C35CYMNA
+response_sha256: 59ac0ac71a7a04ab73533da8e6f6980c17ca41d9447bd966aae1c9b9bd690a30
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: '"A" must be established for "B" to occur.  Essentially a grammar point that establishes prerequisites.'
+    html: '"A" must be established for "B" to occur.  Essentially a grammar point that establishes prerequisites.'
+    credits_raw: benediction
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7076
+    position: 0
+    japanese: スポーツでもゲームでも自分でやってこそ、おもしろさが分かる。
+    body_text: "スポーツでもゲームでも自分でやってこそ、おもしろさが分かる。 \n\n\t\tYou'll understand the fun of a sport or a game only after playing it."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJスポーツでもゲームでも自分でやってこそ、おもしろさが分かる。\">\n\t\t\t\tスポーツでもゲームでも自分でやっ<strong>てこそ</strong>、おもしろさが分かる。<strong></strong></a> <br/>\n\t\tYou'll understand the fun of a sport or a game only after playing it. \n\t\t<strong> </strong>"
+    credits_raw: ZekkDistor
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8074
+    position: 1
+    japanese: 日本の文化は、日本へ行ってこそ分かるものだ。
+    body_text: "日本の文化は、日本へ行ってこそ分かるものだ。 \n\nOnly once you \n\t\tvisit Japan will you understand Japanese culture."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ日本の文化は、日本へ行ってこそ分かるものだ。\">\n\t\t\t\t日本の文化は、日本へ行っ<strong>てこそ</strong>分かるものだ。<strong></strong></a> <br/>\n<strong>Only once you </strong>\n\t\tvisit Japan will you understand Japanese culture."
+    credits_raw: waywren
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries:
+  - position: 0
+    target_label: tehajimete
+    label: tehajimete
+    annotation_text: tehajimete [ZekkDistor]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=tehajimete">tehajimete</a> [<a href="http://jgram.org:80/pages/contributions.php?author=ZekkDistor">ZekkDistor</a>]
+    credits_raw: ZekkDistor
+sections:
+  - kind: header
+    text: |-
+      〜てこそ ([〜てこそ] )(tekoso)
+          Meaning: not until, only after, of all things 「〜てはじめて」と同じ意味だ。
+          Example: Only after playing a sport you'll understand the fun of it.
+          JLPT Level: 2
+          Author: ZekkDistor
+    html: |-
+      <span>〜てこそ ([〜てこそ] )(tekoso)</span><br/>    <span><b>Meaning</b>: not until, only after, of all things 「〜てはじめて」と同じ意味だ。</span><br/>    <b>Example</b>: <i>Only after playing a sport you'll understand the fun of it.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Author</b>: <i>ZekkDistor</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215022447'

@@ -1,0 +1,75 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1436
+label: nochange
+title_raw: (nochange)
+title: (nochange)
+reading: null
+romanized_label: nochange
+category: lesson
+jlpt_level_original: '0'
+meaning: Leaving something the way it is　（まま、っぱなし）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=nochange
+archive_url: https://web.archive.org/web/20150224235810id_/http://www.jgram.org/pages/viewOne.php?tagE=nochange
+archive_timestamp: '20150224235810'
+retrieved_at: '2026-10-03T16:08:26+00:00'
+archive_digest: ZORQXPEOZUQX5JZHTXXYA7E3BPQ2MOTE
+response_sha256: 7d842f0a8031435f22987028384790a5d0f3d3eee3f65994f380f8a48a185699
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: myawr
+    text: "っぱなし also means keep doing something. \n\r\nEx: 彼は叫びっぱなし。\n\r\n　　He keeps shouting."
+    html: "っぱなし also means keep doing something. <br/>\r\nEx: 彼は叫びっぱなし。<br/>\r\n　　He keeps shouting."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(nochange)\n    Meaning: Leaving something the way it is　（まま、っぱなし） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (nochange)</span><br/>    <span><b>Meaning</b>: Leaving something the way it is　（まま、っぱなし） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: nochange
+    id: 1436
+    title_raw: (nochange)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=nochange
+    response_sha256: 7d842f0a8031435f22987028384790a5d0f3d3eee3f65994f380f8a48a185699
+    section: Tutorial
+    section_html_sha256: cb051c4ad3422878a13a60b22991821d0bac1c459b685cbd6cc4d61f74aae01e
+    section_text_sha256: 0512b46d1879e51fc2dab2c7351834612491878f0889c6879b820e017dfb1db3
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8799
+    source_byte_length: 7855
+    section_bytes_sha256: 6a7bac4a494bb42984ec2dc39ba92a71e2b31727b71d0b4d910c3ca78f3f45bc
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224235810'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 66794657
+  length: 7609
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 43ad95555490f11428d8cda9dfa0f265e9617abab29d55dd691bbc33d8129e21

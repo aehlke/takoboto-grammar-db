@@ -1,0 +1,61 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1623
+label: nazenara
+title_raw: なぜなら [なぜなら] (nazenara)
+title: なぜなら
+reading: なぜなら
+romanized_label: nazenara
+category: grammar
+jlpt_level_original: '0'
+meaning: 'because: a reason for or to do  (x).'
+meaning_example: （私は日本にいきまして、）なぜなら、三人の友達が日本にいたからです。I went to japan, because I had three friends living there.
+credits_raw: kieran
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=nazenara
+archive_url: https://web.archive.org/web/20200215025526id_/http://jgram.org:80/pages/viewOne.php?tagE=nazenara
+archive_timestamp: '20200215025526'
+retrieved_at: '2026-10-04T01:13:49+00:00'
+archive_digest: EIKDUCFQGE5NAIBDZ4H6MJ4XILIPCV3M
+response_sha256: 872e969e03560de6aa315488b2563b5368778cc8252e0e737270f9bd33f4c681
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: blabby
+    text: "The example for this grammar is strange Japanese.\n\n\n\r\n日本に行きました - I went to Japan\n\r\n三人の友達 - Three friends\n\n\n\r\nなぜなら is used to explain the reason why a certain action was talken. It is often used in speeches and lectures and almost always paired with 〜からだ。"
+    html: "The example for this grammar is strange Japanese.<br/>\n<br/>\r\n日本に行きました - I went to Japan<br/>\r\n三人の友達 - Three friends<br/>\n<br/>\r\nなぜなら is used to explain the reason why a certain action was talken. It is often used in speeches and lectures and almost always paired with 〜からだ。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: since/because-group
+    label: since/because-group
+    annotation_text: since/because-group    (because) [kieran]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=since/because-group">since/because-group</a>    (because) [<a href="http://jgram.org:80/pages/contributions.php?author=kieran">kieran</a>]
+    credits_raw: kieran
+  - position: 1
+    target_label: kotokara
+    label: kotokara
+    annotation_text: kotokara    (also because) [kieran]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=kotokara">kotokara</a>    (also because) [<a href="http://jgram.org:80/pages/contributions.php?author=kieran">kieran</a>]
+    credits_raw: kieran
+sections:
+  - kind: header
+    text: "なぜなら [なぜなら] (nazenara)\n    Meaning: because: a reason for or to do  (x).  \n    Example: （私は日本にいきまして、）なぜなら、三人の友達が日本にいたからです。I went to japan, because I had three friends living there.\n    JLPT Level: 0\n    Category: grammar\n    Author: kieran"
+    html: |-
+      <span>なぜなら [なぜなら] (nazenara)</span><br/>    <span><b>Meaning</b>: because: a reason for or to do  (x).  </span><br/>    <b>Example</b>: <i>（私は日本にいきまして、）なぜなら、三人の友達が日本にいたからです。I went to japan, because I had three friends living there.</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>kieran</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215025526'

@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1423
+label: ExpressingAmounts
+title_raw: '- (ExpressingAmounts)'
+title: '- (ExpressingAmounts)'
+reading: null
+romanized_label: ExpressingAmounts
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=ExpressingAmounts
+archive_url: https://web.archive.org/web/20051226025137id_/http://jgram.org:80/pages/viewOne.php?tagE=ExpressingAmounts
+archive_timestamp: '20051226025137'
+retrieved_at: '2026-10-04T02:35:45+00:00'
+archive_digest: 33VF3EAKAYNTNODM2QAEMSSZL4PCO6CC
+response_sha256: ecb2f0847e60d35eddd8dd0b2c4193075f05d91fcaea6c566249ef39f54de39f
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (ExpressingAmounts)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (ExpressingAmounts)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: ExpressingAmounts
+    id: 1423
+    title_raw: '- (ExpressingAmounts)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=ExpressingAmounts
+    response_sha256: ecb2f0847e60d35eddd8dd0b2c4193075f05d91fcaea6c566249ef39f54de39f
+    section: Tutorial
+    section_html_sha256: f8fe774351771ed675182e006aea2cf7c96789de9960461d4c162dd7a2ac12c8
+    section_text_sha256: 73a7d477ae1d89e34b1a84d3b5fc0b30965fd1f0d12bc9e25b2db1990b3b9e4c
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8073
+    source_byte_length: 15484
+    section_bytes_sha256: 75bf7a4b92e76901e32624922c97f63c658d0a8b0467b4df4a9bd7286d190a5e
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226025137'

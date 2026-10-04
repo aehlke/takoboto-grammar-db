@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1434
+label: start
+title_raw: (start)
+title: (start)
+reading: null
+romanized_label: start
+category: lesson
+jlpt_level_original: '0'
+meaning: An introduction to Tae Kim's guide to Japanese grammar
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=start
+archive_url: https://web.archive.org/web/20200215031601id_/http://jgram.org:80/pages/viewOne.php?tagE=start
+archive_timestamp: '20200215031601'
+retrieved_at: '2026-10-04T04:23:10+00:00'
+archive_digest: 63COC3I3SISYX7ZCMAPRPUDRNDEAW3WR
+response_sha256: bee4b45a765c9c18ef068390fd93196d18746e4fb07f44040fe344183f8fca2d
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(start)\n    Meaning: An introduction to Tae Kim's guide to Japanese grammar \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (start)</span><br/>    <span><b>Meaning</b>: An introduction to Tae Kim's guide to Japanese grammar </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: start
+    id: 1434
+    title_raw: (start)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=start
+    response_sha256: bee4b45a765c9c18ef068390fd93196d18746e4fb07f44040fe344183f8fca2d
+    section: Tutorial
+    section_html_sha256: 1aa0a562629b27bc8baa1eabff3e2c025a24d880fc4e35b267d5e661048f32ab
+    section_text_sha256: 4d146c2de5a144875ff853c7ca011803e4c5905fa093e45e612f430dcd3647ab
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8077
+    source_byte_length: 12853
+    section_bytes_sha256: c54607338022e3ebe965ce7bf363aa56629098246ab469ba8389d3e2ae51c338
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215031601'

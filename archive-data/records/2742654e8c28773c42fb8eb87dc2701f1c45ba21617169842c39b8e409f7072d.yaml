@@ -1,0 +1,72 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1764
+label: warini(wa)
+title_raw: 割りに(は) ([わりに(は)] )(warini(wa))
+title: 割りに(は)
+reading: わりに(は)
+romanized_label: warini(wa)
+category: grammar
+jlpt_level_original: '1'
+meaning: comparatively; very... 想像/卵z以上に; 他とくらべて思った以上であったり、かなりの程度であるさま。
+meaning_example: 年の割りに若く見える.= She looks young for her age./値段の割りに品がいい. = The quality is reasonably good for its price.
+credits_raw: Linka
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=warini(wa)
+archive_url: https://web.archive.org/web/20200815053440id_/http://www.jgram.org/pages/viewOne.php?tagE=warini(wa)
+archive_timestamp: '20200815053440'
+retrieved_at: '2026-10-04T02:10:42+00:00'
+archive_digest: V6ANIKMQKIBPVTCKJEMLQ36VVVWOQPEK
+response_sha256: 8bcb809bad1a86570e5c56ec806eeb42452a9f391c04d57d5bd7d184c85a57a7
+encoding: cp932
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "割りに\n\r\n【副詞】\n\r\ncomparatively, relatively\n\r\n関連のある状態で\n\n\n\r\n(in a relative manner)\n\n\n\r\n the situation is relatively calm now 状態は今比較的穏やかである"
+    html: "割りに<br/>\r\n【副詞】<br/>\r\ncomparatively, relatively<br/>\r\n関連のある状態で<br/>\n<br/>\r\n(in a relative manner)<br/>\n<br/>\r\n the situation is relatively calm now 状態は今比較的穏やかである <br/>"
+    credits_raw: Linka
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples: []
+comments:
+  - position: 0
+    credits_raw: mdchachi
+    text: "It wouldn't let me add example sentences.  Let's try a comment. \n\r\nCrime doesn't pay.\n\r\n犯罪は割に合わない。\n\n\n\r\n(She's) skilled for a first grader.\n\r\n一年生の割に上手ですね。"
+    html: "It wouldn't let me add example sentences.  Let's try a comment. <br/>\r\nCrime doesn't pay.<br/>\r\n犯罪は割に合わない。<br/>\n<br/>\r\n(She's) skilled for a first grader.<br/>\r\n一年生の割に上手ですね。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: bshock
+    text: |-
+      It was very kind of you to contribute. Can you help to explain the distinction between this use of "wari ni" and the one already listed under JLPT 2?
+    html: |-
+      It was very kind of you to contribute. Can you help to explain the distinction between this use of "wari ni" and the one already listed under JLPT 2?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "割りに(は) ([わりに(は)] )(warini(wa))\n    Meaning: comparatively; very... 想像/卵z以上に; 他とくらべて思った以上であったり、かなりの程度であるさま。 \n    Example: 年の割りに若く見える.= She looks young for her age./値段の割りに品がいい. = The quality is reasonably good for its price. \n    JLPT Level: 1\n    Category: grammar\n    Author: Linka"
+    html: |-
+      <span>割りに(は) ([わりに(は)] )(warini(wa))</span><br/>    <span><b>Meaning</b>: comparatively; very... 想像/卵z以上に; 他とくらべて思った以上であったり、かなりの程度であるさま。 </span><br/>    <b>Example</b>: <i>年の割りに若く見える.= She looks young for her age./値段の割りに品がいい. = The quality is reasonably good for its price. </i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Linka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_decoding_segments:
+  - byte_offset: 7325
+    byte_length: 67
+    encoding: percent-encoded-original-url-bytes
+    original_bytes_hex: 766965774f6e652e7068703f746167453d7768656e20697420636f6d65733f3f202095ea82cd97bf979d82c982a982af82e982c682be82ea82c982e0958982af82c882
+  - byte_offset: 7394
+    byte_length: 54
+    encoding: cp932-with-undecodable-bytes
+    original_bytes_hex: 7768656e20697420636f6d65733f3f202095ea82cd97bf979d82c982a982af82e982c682be82ea82c982e0958982af82c882203e3e20
+selection_attempts: []
+latest_indexed_timestamp: '20200815053440'

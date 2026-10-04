@@ -1,0 +1,300 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1268
+label: youni
+title_raw: ように [ように] (youni)
+title: ように
+reading: ように
+romanized_label: youni
+category: grammar
+jlpt_level_original: '0'
+meaning: in order to
+meaning_example: in order to be on time
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=youni
+archive_url: https://web.archive.org/web/20200215030207id_/http://jgram.org:80/pages/viewOne.php?tagE=youni
+archive_timestamp: '20200215030207'
+retrieved_at: '2026-10-04T02:19:35+00:00'
+archive_digest: 7QEWUOUV6X5LQJK6J3MKAOFYQELXHHCB
+response_sha256: ec6fff49f7273f502a93b357073cef3f70b6792167ea29d04e551eabedbc5737
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "there are a few ways to express the intention to do something, which seem very similar at first. but:\n\n\n\r\n-youni is used with the potential or negative form of a verb.\n\n\n\r\n　yoku kikoeru youni .. = to be able to hear better\n\r\n　wasurenai you ni = in order not to forget\n\r\n　dekiru yooni = so that I will be able to do\n\n\n\n\n\r\n-tameni is usually just the plain form\n\r\n　kau tameni = in order to buy\n\r\n　kiku tameni = in order to hear"
+    html: "there are a few ways to express the intention to do something, which seem very similar at first. but:<br/>\n<br/>\r\n-youni is used with the potential or negative form of a verb.<br/>\n<br/>\r\n　yoku kikoeru youni .. = to be able to hear better<br/>\r\n　wasurenai you ni = in order not to forget<br/>\r\n　dekiru yooni = so that I will be able to do<br/>\n<br/>\n<br/>\r\n-<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=tameni\">tameni</a></b> is usually just the plain form<br/>\r\n　kau tameni = in order to buy<br/>\r\n　kiku tameni = in order to hear<br/>"
+    credits_raw: anon
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: see basis-of-action-group for similar items and comparisons.
+    html: |-
+      see <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=basis-of-action-group">basis-of-action-group</a></b> for similar items and comparisons.
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "Also means \"like\" or \"as\"\n\n\n\r\nWatashi you ni hashiru. (Run like me, to run like me)"
+    html: "Also means \"like\" or \"as\"<br/>\n<br/>\r\nWatashi you ni hashiru. (Run like me, to run like me)"
+    credits_raw: Ayumi
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 615
+    position: 0
+    japanese: 忘れ物をしないようにご注意して下さい。
+    body_text: "忘れ物をしないようにご注意して下さい。 \n\nIn order not to \n\t\tleave things, please take care (often heard on trains)"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ忘れ物をしないようにご注意して下さい。\">\n\t\t\t\t忘れ物をしない<strong>ように</strong>ご注意して下さい。<strong></strong></a> <br/>\n<strong>In order not to </strong>\n\t\tleave things, please take care (often heard on trains)"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 872
+    position: 1
+    japanese: この度の流出したデータを入手された方はお手数ですが削除いただけますようお願い申し上げます。
+    body_text: "この度の流出したデータを入手された方はお手数ですが削除いただけますようお願い申し上げます。 \n\n\t\tPlease excuse us for the bother, but could those people who have acquired the data erroneously disseminated on this occasion please delete them."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの度の流出したデータを入手された方はお手数ですが削除いただけますようお願い申し上げます。\">\n\t\t\t\tこの度の流出したデータを入手された方はお手数ですが削除いただけます<strong>よう</strong>お願い申し上げます。<strong></strong></a> <br/>\n\t\tPlease excuse us for the bother, but could those people who have acquired the data erroneously disseminated on this occasion please delete them. \n\t\t<strong> </strong>"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 899
+    position: 2
+    japanese: あなたが元気になりますように
+    body_text: "あなたが元気になりますように \n\n\t\tI \n\t\tpray \n\t\tyou get better soon."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあなたが元気になりますように\">\n\t\t\t\tあなたが元気になります<strong>ように</strong><strong></strong></a> <br/>\n\t\tI \n\t\t<strong>pray </strong>\n\t\tyou get better soon."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1289
+    position: 3
+    japanese: パソコン管理が煩雑になってきましたので、管理しやすいように徐々に変更していきます。
+    body_text: "パソコン管理が煩雑になってきましたので、管理しやすいように徐々に変更していきます。 \n\n\t\tThe computer admin has become really tricky, so \n\t\tin order to \n\t\tmake it easier to do, I'll be changing things bit by bit"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJパソコン管理が煩雑になってきましたので、管理しやすいように徐々に変更していきます。\">\n\t\t\t\tパソコン管理が煩雑になってきましたので、管理しやすい<strong>ように</strong>徐々に変更していきます。<strong></strong></a> <br/>\n\t\tThe computer admin has become really tricky, so \n\t\t<strong>in order to </strong>\n\t\tmake it easier to do, I'll be changing things bit by bit"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1292
+    position: 4
+    japanese: 間に合うように急いで家を出ました。
+    body_text: "間に合うように急いで家を出ました。 \n\nIn order not to be late, \n\t\tI left the house in a hurry."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ間に合うように急いで家を出ました。\">\n間に合う<strong>ように</strong>急いで家を出ました。<strong></strong></a> <br/>\n<strong>In order not to be late, </strong>\n\t\tI left the house in a hurry."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1314
+    position: 5
+    japanese: 始めた時のようなことが無いように、開発工程管理をしっかりとお願いします
+    body_text: "始めた時のようなことが無いように、開発工程管理をしっかりとお願いします \n\nIn order not to do it \n\t\tlike we did at the beginning, be very vigilant about the stages of the development process, please"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ始めた時のようなことが無いように、開発工程管理をしっかりとお願いします\">\n\t\t\t\t始めた時のようなことが<strong>無いように、</strong>開発工程管理をしっかりとお願いします<strong></strong></a> <br/>\n<strong>In order not to do it </strong>\n\t\tlike we did at the beginning, be very vigilant about the stages of the development process, please"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3061
+    position: 6
+    japanese: そのようにしてもいいのですか。
+    body_text: "そのようにしてもいいのですか。 \n\n\t\tCan I do it \n\t\tlike \n\t\tthat?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJそのようにしてもいいのですか。\">\nその<strong>ように</strong>してもいいのですか。<strong></strong></a> <br/>\n\t\tCan I do it \n\t\t<strong>like </strong>\n\t\tthat?"
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3119
+    position: 7
+    japanese: 上例のように使えば、いいと思います。
+    body_text: "上例のように使えば、いいと思います。 \n\n \n\t\tI think it is alright if you use it like the example above"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ上例のように使えば、いいと思います。\">\n上例の<strong>ように</strong>使えば、いいと思います。<strong></strong></a> <br/>\n<strong> </strong>\n\t\tI think it is alright if you use it like the example above"
+    credits_raw: KotatsuSama
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7226
+    position: 8
+    japanese: 風邪がはやく治るように彼は注射を打ってもらった。
+    body_text: "風邪がはやく治るように彼は注射を打ってもらった。 \n\nIn order to \n\t\thave the cold heal up quickly, he received an injection."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ風邪がはやく治るように彼は注射を打ってもらった。\">\n\t\t\t\t風邪がはやく治る<strong>ように</strong>彼は注射を打ってもらった。<strong></strong></a> <br/>\n<strong>In order to </strong>\n\t\thave the cold heal up quickly, he received an injection."
+    credits_raw: Kenny
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: "As seen in 'ようお願い申し上げます' the に may be omitted in some usages.  \n\r\nBTW, that would appear to be a very polite sentence."
+    html: "As seen in 'ようお願い申し上げます' the に may be omitted in some usages.  <br/>\r\nBTW, that would appear to be a very polite sentence."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "Formed from 'verb + you ni'\n\n\n\r\nV = verb"
+    html: "Formed from 'verb + you ni'<br/>\n<br/>\r\nV = verb"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: When used at the end of a sentence it usually indicates a wish, prayer or hope etc.
+    html: When used at the end of a sentence it usually indicates a wish, prayer or hope etc.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: "I was told that  verbs are not as comfortable in this construct, but not sure why. eg\n\r\n計算するように、市場データを調べておきました\n\r\nIn order to do a calculation, I researched market data"
+    html: "I was told that  verbs are not as comfortable in this construct, but not sure why. eg<br/>\r\n計算するように、市場データを調べておきました<br/>\r\nIn order to do a calculation, I researched market data<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: dc
+    text: "計算するように\n\r\nis a different expression. It sounds like \n\r\n計算するかのように \n\r\n= like a calculation, metaphorically speaking\n\n\n\r\nso you should use \n\r\n計算するために \n\r\nin this case. It is different from 間に合うように\n\n\n\r\n← can someone clarify this explanation?"
+    html: "計算するように<br/>\r\nis a different expression. It sounds like <br/>\r\n計算するかのように <br/>\r\n= like a calculation, metaphorically speaking<br/>\n<br/>\r\nso you should use <br/>\r\n計算するために <br/>\r\nin this case. It is different from 間に合うように<br/>\n<br/>\r\n← can someone clarify this explanation?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Miki
+    text: "The Japanese of ex 3 is not matched to English. \n\r\nこの度の流出したデータを入手された方は→この度データを入力された方は"
+    html: "The Japanese of ex 3 is not matched to English. <br/>\r\nこの度の流出したデータを入手された方は→この度データを入力された方は"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: Miki
+    text: ex 1 J should be 間に合うように not 間に合うするように.
+    html: ex 1 J should be 間に合うように not 間に合うするように.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Miki
+    text: As for 計算するように、市場データを調べておきました。I think it is just not natural in the context. :( Others will be able to help.
+    html: |-
+      As for 計算するように、市場データを調べておきました。I think it is just not natural in the context. :( Others will be able to help.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: bamboo4
+    text: |-
+      Only 計算するように I can think of lis that of an instruction or order = 間違いなく計算するようにしてください (see to it that you perform the calculations without any error.)
+    html: |-
+      Only 計算するように I can think of lis that of an instruction or order = 間違いなく計算するようにしてください (see to it that you perform the calculations without any error.)<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: blabby
+    text: |-
+      ように is used for non-volitional verbs for example できる、わかる、見える、聞こえる、起きられる.  It is also used for the negative form of verbs 〜ないように.  Otherwise ために is used. However I don't think it is always this simple. Some verbs can be volitional and non-volitional.
+    html: |-
+      ように is used for non-volitional verbs for example できる、わかる、見える、聞こえる、起きられる.  It is also used for the negative form of verbs 〜ないように.  Otherwise ために is used. However I don't think it is always this simple. Some verbs can be volitional and non-volitional.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: blabby
+    text: |-
+      Here is a good explanation
+
+
+
+      http://www014.upp.so-net.ne.jp/nbunka/02nov.htm
+    html: |-
+      Here is a good explanation<br/>
+      <br/>
+      <a href="http://www014.upp.so-net.ne.jp/nbunka/02nov.htm">http://www014.upp.so-net.ne.jp/nbunka/02nov.htm</a>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: bamboo4
+    text: As far as I know, ように can be used for both volitional and non-volitional verbs.
+    html: As far as I know, ように can be used for both volitional and non-volitional verbs.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: KotatsuSama
+    text: "I don't know what a volitional form is...  but you-ni also means (like doing-)\n\r\n計算ように次の作動を考えた。\n\r\nLike calculating, he thought out his next move."
+    html: "I don't know what a volitional form is...  but you-ni also means (like doing-)<br/>\r\n計算ように次の作動を考えた。<br/>\r\nLike calculating, he thought out his next move."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: bamboo4
+    text: 計算ように次の作動を考えた should be あたかも計算するように次の動作を考えた
+    html: 計算ように次の作動を考えた should be あたかも計算するように次の動作を考えた
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: jasyn78
+    text: |-
+      kotatsusama, i asked my kyoto sensei about ex.3119.  he said it should be 上記 or 上記の例文。not 上例。失礼しました。関係ないけどただ言いたいだけですけど、このサイトは本当に使えるんです。皆さんありがとう。
+    html: |-
+      kotatsusama, i asked my kyoto sensei about ex.3119.  he said it should be 上記 or 上記の例文。not 上例。失礼しました。関係ないけどただ言いたいだけですけど、このサイトは本当に使えるんです。皆さんありがとう。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: youni-te
+    label: youni-te
+    annotation_text: youni-te    (Varous forms are based on ように (including 〜ようにいって)) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=youni-te">youni-te</a>    (Varous forms are based on ように (including 〜ようにいって)) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: youniiu
+    label: youniiu
+    annotation_text: youniiu    (Various forms are based on ように (including ように言う)) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=youniiu">youniiu</a>    (Various forms are based on ように (including ように言う)) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 2
+    target_label: youni-suru
+    label: youni-suru
+    annotation_text: youni-suru    (Various forms are based on ように (including ようにする)) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=youni-suru">youni-suru</a>    (Various forms are based on ように (including ようにする)) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 3
+    target_label: tame
+    label: tame
+    annotation_text: tame [sutashu]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=tame">tame</a> [<a href="http://jgram.org:80/pages/contributions.php?author=sutashu">sutashu</a>]
+    credits_raw: sutashu
+sections:
+  - kind: header
+    text: "ように [ように] (youni)\n    Meaning: in order to \n    Example: in order to be on time\n    JLPT Level: 0\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>ように [ように] (youni)</span><br/>    <span><b>Meaning</b>: in order to </span><br/>    <b>Example</b>: <i>in order to be on time</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215030207'

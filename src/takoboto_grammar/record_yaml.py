@@ -7,7 +7,7 @@ import json
 import yaml
 
 
-class RecordLoader(yaml.SafeLoader):
+class RecordLoader(getattr(yaml, "CSafeLoader", yaml.SafeLoader)):
     def construct_mapping(self, node, deep=False):
         self.flatten_mapping(node)
         result = {}

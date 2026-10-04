@@ -1,0 +1,106 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1638
+label: naibakarika
+title_raw: ないばかりか ([ないばかりか] )(naibakarika)
+title: ないばかりか
+reading: ないばかりか
+romanized_label: naibakarika
+category: grammar
+jlpt_level_original: '2'
+meaning: Not only not X, but also not Y.  Both can be good things, or both bad. ないだけでなく
+meaning_example: Not only is that route not difficult to navigate, (but) it is also not bumpy.
+credits_raw: makara
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=naibakarika
+archive_url: https://web.archive.org/web/20200215021951id_/http://jgram.org:80/pages/viewOne.php?tagE=naibakarika
+archive_timestamp: '20200215021951'
+retrieved_at: '2026-10-04T01:06:59+00:00'
+archive_digest: SIFRUJZWGIHLSOOSW7IC3ZCNNZ4RZTGO
+response_sha256: 1be41658fc799af0e28bdf4bae1750d1545b874381ee5b0eb57335dda0ac3dcf
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      Because this is "...nai bakari ka", the first clause must be translated in the negative, not the affirmative.  "Not only is it not attractive, it isn't even safe."  "Not only is it not expensive, (but) it doesn't take up much space, either!"  A close relative is "dake de naku," which tends to have the first clause in the affirmative.
+    html: |-
+      Because this is "...nai bakari ka", the first clause must be translated in the negative, not the affirmative.  "Not only is it not attractive, it isn't even safe."  "Not only is it not expensive, (but) it doesn't take up much space, either!"  A close relative is "dake de naku," which tends to have the first clause in the affirmative.
+    credits_raw: american57
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 6550
+    position: 0
+    japanese: 彼は会社へ来ても仕事をしないばかりか,女性社員としゃべってばかりいる。
+    body_text: "彼は会社へ来ても仕事をしないばかりか,女性社員としゃべってばかりいる。 \n\n\t\tAlthough he has come to the company, \n\t\tnot only does he not work, \n\t\tbut about all he's doing is chatting with the female employees"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は会社へ来ても仕事をしないばかりか,\">\n\t\t\t\t彼は会社へ来ても<strong>仕事をしないばかりか,</strong><strong></strong>女性社員としゃべってばかりいる。</a> <br/>\n\t\tAlthough he has come to the company, \n\t\t<strong>not only does he not work, </strong>\n\t\tbut about all he's doing is chatting with the female employees"
+    credits_raw: makara
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6810
+    position: 1
+    japanese: 彼女は歌をよく歌えないばかりかピアノも弾けないなあ。
+    body_text: "彼女は歌をよく歌えないばかりかピアノも弾けないなあ。 \n\n\t\tNot only is she \n\t\tnot able to sing songs well, \n\t\tbut she can't play the piano, either."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女は歌をよく歌えないばかりかピアノも弾けないなあ。\">\n\t\t\t\t彼女は<strong>歌をよく歌えないばかりか</strong>ピアノも弾けないなあ。<strong></strong></a> <br/>\n\t\tNot only is she \n\t\t<strong>not able to sing songs well, </strong>\n\t\tbut she can't play the piano, either."
+    credits_raw: anna.kendall
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8699
+    position: 2
+    japanese: このペーパータオルはお値段が高くないばかりか何度も使うことができ、重宝します。
+    body_text: "このペーパータオルはお値段が高くないばかりか何度も使うことができ、重宝します。 \n\nNot only is this paper towel not expensive, \n\t\tbut I can use it a number of times, and it is handy."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこのペーパータオルはお値段が高くないばかりか何度も使うことができ、重宝します。\">\n<strong>このペーパータオルはお値段が高くないばかりか</strong>何度も使うことができ、重宝します。<strong></strong></a> <br/>\n<strong>Not only is this paper towel not expensive, </strong>\n\t\tbut I can use it a number of times, and it is handy."
+    credits_raw: american57
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "Is this entry active? \"Meaning\" doesn't look correct. neg + neg\n\r\nex#6550 Japanese make sense. \n\r\nex#6810 Japanese does not make sense.　suggestion1: 彼女はうまく歌えないばかりかピアノもよく弾けません。"
+    html: "Is this entry active? \"Meaning\" doesn't look correct. neg + neg<br/>\r\nex<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=naibakarika#6550\">#6550</a></b> Japanese make sense. <br/>\r\nex<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=naibakarika#6810\">#6810</a></b> Japanese does not make sense.　suggestion1: 彼女はうまく歌えないばかりかピアノもよく弾けません。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: ppmohapatra
+    text: "Completely agree with MikiSan.\n\r\nLet me give another suggestion.\n\r\n彼女は歌をよく歌うにもまして、ピアノもっとよく弾けます。\n\r\nMikiSan please review my suggestion."
+    html: "Completely agree with MikiSan.<br/>\r\nLet me give another suggestion.<br/>\r\n彼女は歌をよく歌うにもまして、ピアノもっとよく弾けます。<br/>\r\nMikiSan please review my suggestion."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: bakarika
+    label: bakarika
+    annotation_text: bakarika    (Is it useful to have 2 entries?) [赤毛]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=bakarika">bakarika</a>    (Is it useful to have 2 entries?) [<a href="http://jgram.org:80/pages/contributions.php?author=赤毛">赤毛</a>]
+    credits_raw: 赤毛
+sections:
+  - kind: header
+    text: |-
+      ないばかりか ([ないばかりか] )(naibakarika)
+          Meaning: Not only not X, but also not Y.  Both can be good things, or both bad. ないだけでなく
+          Example: Not only is that route not difficult to navigate, (but) it is also not bumpy.
+          JLPT Level: 2
+          Category: grammar
+          Author: makara
+    html: |-
+      <span>ないばかりか ([ないばかりか] )(naibakarika)</span><br/>    <span><b>Meaning</b>: Not only not X, but also not Y.  Both can be good things, or both bad. ないだけでなく</span><br/>    <b>Example</b>: <i>Not only is that route not difficult to navigate, (but) it is also not bumpy.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>makara</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215021951'

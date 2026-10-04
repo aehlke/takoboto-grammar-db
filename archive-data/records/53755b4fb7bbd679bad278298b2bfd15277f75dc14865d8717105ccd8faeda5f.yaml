@@ -1,0 +1,132 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 733
+label: dearu
+title_raw: である [である] (dearu)
+title: である
+reading: である
+romanized_label: dearu
+category: grammar
+jlpt_level_original: '3'
+meaning: To be, is (formal equivalent of だ [da])
+meaning_example: null
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=dearu
+archive_url: https://web.archive.org/web/20200215021345id_/http://jgram.org:80/pages/viewOne.php?tagE=dearu
+archive_timestamp: '20200215021345'
+retrieved_at: '2026-10-04T00:16:54+00:00'
+archive_digest: WVMHU5GBE35C6RQCXBTIHPVFMLPK2CU2
+response_sha256: 831e7276c3e2afabb5b8b743f2733c29500c92da5d63e35099dd6307350eb9d7
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 3187
+    position: 0
+    japanese: 医者である田中さん
+    body_text: "医者である田中さん \n\nThe \n\t\tTanaka san who is a doctor."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ医者である田中さん\">\n医者<strong>である</strong>田中さん<strong></strong></a> <br/>\n<strong>The </strong>\n\t\tTanaka san who is a doctor."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3191
+    position: 1
+    japanese: そうであるとしても、この場合は別でしょう。
+    body_text: "そうであるとしても、この場合は別でしょう。 \n\n\t\tEven if \n\t\tthat is correct, \n\t\twould it not have to be different in this case?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJそうであるとしても、この場合は別でしょう。\">\nそう<strong>である</strong>としても、この場合は別でしょう。<strong></strong></a> <br/>\n\t\tEven if \n\t\t<strong>that is correct, </strong>\n\t\twould it not have to be different in this case?"
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4955
+    position: 2
+    japanese: いつも正直であるということは、容易なことではない。
+    body_text: "いつも正直であるということは、容易なことではない。 \n\nTo be \n\t\talways honest is not easy."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJいつも正直であるということは、容易なことではない。\">\n\t\t\t\tいつも正直<strong>である</strong>ということは、容易なことではない。<strong></strong></a> <br/>\n<strong>To be </strong>\n\t\talways honest is not easy."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7085
+    position: 3
+    japanese: '"We" are a cat (famous novel title).'
+    body_text: "\"We\" are a cat (famous novel title). \n\n\t\t我輩は猫である。"
+    body_html: "<a href='http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ\"We\" are a cat (famous novel title).'>\n\t\t\t\t\"We\" are a cat (famous novel title).<strong></strong><strong></strong></a> <br/>\n\t\t我輩は猫である。 \n\t\t<strong> </strong>"
+    credits_raw: lafcadio10
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Usually used in written, formal works.
+    html: Usually used in written, formal works.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "One way in which である (dearu) can be used where だ (da) cannot is to modify nouns.\n\r\ne.g. 医者である田中さん (senshu de aru tanakasan) The Tanakasan who is a doctor."
+    html: "One way in which である (dearu) can be used where だ (da) cannot is to modify nouns.<br/>\r\ne.g. 医者である田中さん (senshu de aru tanakasan) The Tanakasan who is a doctor."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Miki
+    text: "roma-ji is wrong for e.g. in user comments.\n\r\n医者である田中さん(isha de aru tanaka-san)"
+    html: "roma-ji is wrong for e.g. in user comments.<br/>\r\n医者である田中さん(isha de aru tanaka-san)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Eeker
+    text: |-
+      I don't see why である is being distinguished from だ even though ではない is included on the page for だ.  Furthermore, several forms have been missed, such as でない (traditional negative form of である) as well as であろう (traditional negative form of darou).
+    html: |-
+      I don't see why である is being distinguished from だ even though ではない is included on the page for だ.  Furthermore, several forms have been missed, such as でない (traditional negative form of である) as well as であろう (traditional negative form of darou).
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Miki
+    text: I agree with Eeker. It would be better remove English meaning of (formal equivalent of だ da).
+    html: |-
+      I agree with Eeker. It would be better remove English meaning of (formal equivalent of だ <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=da">da</a></b>).
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: blackburn
+    text: I think de aru is found in formal written texts. Thesis, abstracts, conference text, just to name a few examples.
+    html: I think de aru is found in formal written texts. Thesis, abstracts, conference text, just to name a few examples.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: da
+    label: da
+    annotation_text: da    (である is the formal, written equivalent of だ) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=da">da</a>    (である is the formal, written equivalent of だ) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: "である [である] (dearu)\n    Meaning: To be, is (formal equivalent of だ [da]) \n    JLPT Level: 3\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>である [である] (dearu)</span><br/>    <span><b>Meaning</b>: To be, is (formal equivalent of だ [da]) </span><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215021345'

@@ -1,0 +1,49 @@
+{
+  "label": "����",
+  "status": "failed",
+  "checked_at": "2026-10-04T05:44:31+00:00",
+  "latest_indexed_timestamp": "20200919183037",
+  "capture": {
+    "timestamp": "20190728023949",
+    "original": "http://www.jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+    "mimetype": "text/html",
+    "digest": "OCXARIFIVPLLXFDFX6TJKKDQTXHABBXB",
+    "label": "����",
+    "archive_url": "https://web.archive.org/web/20190728023949id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4"
+  },
+  "requested_timestamp": "20190728023949",
+  "response_sha256": "fe90518ddb1d75d7d9188752b651d836426ab1185d76a33993693f26af6a508c",
+  "retrieved_at": "2026-10-04T05:44:31+00:00",
+  "selection_attempts": [
+    {
+      "archive_url": "https://web.archive.org/web/20200919183037id_/http://www.jgram.org/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "error": "Replay is not a JGram entry (missing viewOnetitle)"
+    },
+    {
+      "archive_url": "https://web.archive.org/web/20200126074221id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "error": "Replay is not a JGram entry (missing viewOnetitle)"
+    },
+    {
+      "archive_url": "https://web.archive.org/web/20200215024630id_/http://jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "error": "Replay is not a JGram entry (missing viewOnetitle)"
+    },
+    {
+      "archive_url": "https://web.archive.org/web/20191216200931id_/http://jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "error": "Replay is not a JGram entry (missing viewOnetitle)"
+    },
+    {
+      "archive_url": "https://web.archive.org/web/20191109170130id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "error": "Replay is not a JGram entry (missing viewOnetitle)"
+    },
+    {
+      "archive_url": "https://web.archive.org/web/20190928062642id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "error": "Replay is not a JGram entry (missing viewOnetitle)"
+    },
+    {
+      "archive_url": "https://web.archive.org/web/20190728023949id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "error": "Replay is not a JGram entry (missing viewOnetitle)"
+    }
+  ],
+  "eligible_ids_sha256": "375d82d3b99a3f80c61e9d6ce5731db34d762994123a383f4eaceceebd96605b",
+  "eligible_ids_count": 643
+}

@@ -1,0 +1,283 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 756
+label: hoshii
+title_raw: が欲しい [がほしい] (hoshii)
+title: が欲しい
+reading: がほしい
+romanized_label: hoshii
+category: grammar
+jlpt_level_original: '3'
+meaning: N,  to want something (desirative)
+meaning_example: I want a car.
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=hoshii
+archive_url: https://web.archive.org/web/20200215030703id_/http://jgram.org:80/pages/viewOne.php?tagE=hoshii
+archive_timestamp: '20200215030703'
+retrieved_at: '2026-10-04T00:29:07+00:00'
+archive_digest: UXZBLMZZWSPEFXZ5RSBKF5SFCTOW7JVZ
+response_sha256: a474988d29b22b815d13c1485ac6939455f6b524ba0856f7a90aa2ca53f57653
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      But how do you express "don't want"?  I can say "don't need" with irimasen, and "don't intend to" with tsumori dewa arimasen, but it still seems like there is a better way?  Is there no direct opposite to hoshii?
+    html: |-
+      But how do you express "don't want"?  I can say "don't need" with irimasen, and "don't intend to" with tsumori dewa arimasen, but it still seems like there is a better way?  Is there no direct opposite to hoshii?
+    credits_raw: euphoriafish
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "the negative of hoshii is hoshikunai\n\r\n　行って欲しくない\n\r\n　I dont want you to go"
+    html: "the negative of hoshii is hoshikunai<br/>\r\n　行って欲しくない<br/>\r\n　I dont want you to go<br/>"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "You can also use hoshi to express your desire for someone else to do something.\n\n\n\r\n私はキムさんがケーキを食べてほしいですが\n\r\nI want kim to eat cake, but ....\n\n\n\r\nfor the most part you can exclude 私は because its implied by the grammar. the person you want to complete the action takes the が　particle and the verb takes the てform followed by the 欲しい statement 欲しいです\n\n\n\r\nthe final が　at the end of the sentence means \"but\" and is used to soften the tone of the request."
+    html: "You can also use hoshi to express your desire for someone else to do something.<br/>\n<br/>\r\n私はキムさんがケーキを食べてほしいですが<br/>\r\nI want kim to eat cake, but ....<br/>\n<br/>\r\nfor the most part you can exclude 私は because its implied by the grammar. the person you want to complete the action takes the が　particle and the verb takes the てform followed by the 欲しい statement 欲しいです<br/>\n<br/>\r\nthe final が　at the end of the sentence means \"but\" and is used to soften the tone of the request. <br/>"
+    credits_raw: tigert
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 893
+    position: 0
+    japanese: 靴がほしいのです。
+    body_text: "靴がほしいのです。 \n\n\t\tI'd \n\t\tlike \n\t\tsome shoes."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ靴がほしいのです。\">\n靴<strong>がほしい</strong>のです。<strong></strong></a> <br/>\n\t\tI'd \n\t\t<strong>like </strong>\n\t\tsome shoes."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4990
+    position: 1
+    japanese: 「わたしは、妻と子供が欲しいので、家が必要なんだよ。」
+    body_text: "「わたしは、妻と子供が欲しいので、家が必要なんだよ。」 \n\n\t\t\"I \n\t\twant \n\t\ta wife and children, and so I need a house.\""
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ「わたしは、妻と子供が欲しいので、家が必要なんだよ。」\">\n\t\t\t\t「わたしは、妻と子供が<strong>欲しい</strong>ので、家が必要なんだよ。」<strong></strong></a> <br/>\n\t\t\"I \n\t\t<strong>want </strong>\n\t\ta wife and children, and so I need a house.\""
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4991
+    position: 2
+    japanese: だれか話し相手がほしい。
+    body_text: "だれか話し相手がほしい。 \n\n\t\tI \n\t\twant \n\t\tsomeone to talk to."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJだれか話し相手がほしい。\">\n\t\t\t\tだれか話し相手が<strong>ほしい。</strong><strong></strong></a> <br/>\n\t\tI \n\t\t<strong>want </strong>\n\t\tsomeone to talk to."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4992
+    position: 3
+    japanese: もう一杯ビールがほしいな。
+    body_text: "もう一杯ビールがほしいな。 \n\n\t\tI \n\t\tfeel like \n\t\tanother beer."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJもう一杯ビールがほしいな。\">\n\t\t\t\tもう一杯ビールが<strong>ほしい</strong>な。<strong></strong></a> <br/>\n\t\tI \n\t\t<strong>feel like </strong>\n\t\tanother beer."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4993
+    position: 4
+    japanese: デザートにアイスクリームがほしい。
+    body_text: "デザートにアイスクリームがほしい。 \n\n\t\tI \n\t\twant \n\t\tice cream for dessert."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJデザートにアイスクリームがほしい。\">\n\t\t\t\tデザートにアイスクリームが<strong>ほしい。</strong><strong></strong></a> <br/>\n\t\tI \n\t\t<strong>want </strong>\n\t\tice cream for dessert."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4994
+    position: 5
+    japanese: 君は何がほしい。
+    body_text: "君は何がほしい。 \n\n\t\tWhat do you \n\t\twant \n\t\tnow?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ君は何がほしい。\">\n\t\t\t\t君は何が<strong>ほしい。</strong><strong></strong></a> <br/>\n\t\tWhat do you \n\t\t<strong>want </strong>\n\t\tnow?"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4995
+    position: 6
+    japanese: 領収書がほしいのですが。
+    body_text: "領収書がほしいのですが。 \n\n\t\tI \n\t\twould like \n\t\ta receipt, please."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ領収書がほしいのですが。\">\n領収書が<strong>ほしい</strong>のですが。<strong></strong></a> <br/>\n\t\tI \n\t\t<strong>would like </strong>\n\t\ta receipt, please."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6432
+    position: 7
+    japanese: 欲しい。
+    body_text: "欲しい。 \n\n\t\tI want (you/it). [romantic nuance]"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ欲しい。\">\n\t\t\t\t欲しい。<strong></strong><strong></strong></a> <br/>\n\t\tI want (you/it). [romantic nuance]　 \n\t\t<strong> </strong>"
+    credits_raw: adamstudio
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6661
+    position: 8
+    japanese: 僕の宿題をして欲しいですが。
+    body_text: "僕の宿題をして欲しいですが。 \n\nI want \n\t\tyou to do  my homework."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ僕の宿題をして欲しい\">\n\t\t\t\t僕の宿題をして<strong>欲しい</strong><strong></strong>ですが。</a> <br/>\n<strong>I want </strong>\n\t\tyou to do  my homework."
+    credits_raw: tigert
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6885
+    position: 9
+    japanese: なにがほしいか言ってください。
+    body_text: "なにがほしいか言ってください。 \n\n\t\tIf \n\t\tyou want \nsomething  please ask for it."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJなにがほしい\">\nなにが<strong>ほしい</strong><strong></strong>か言ってください。</a> <br/>\n\t\tIf \n\t\t<strong>you want </strong>\nsomething  please ask for it."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6886
+    position: 10
+    japanese: どんなかばんがほしいですか。
+    body_text: "どんなかばんがほしいですか。 \n\n\t\tWhat sort of portfolio do \n\t\tyou want?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJどんなかばんがほしい\">\n\t\t\t\tどんなかばんが<strong>ほしい</strong><strong></strong>ですか。</a> <br/>\n\t\tWhat sort of portfolio do \n\t\t<strong>you want</strong>?"
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6887
+    position: 11
+    japanese: わたしがほしいちずはどこにもありませんでした。
+    body_text: "わたしがほしいちずはどこにもありませんでした。 \n\nThe map I \n\t\twanted \n\t\t  was nowhere to be seen."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJわたしがほしい&lt;font color=blue&gt;ちず&lt;/font&gt;\">\n\t\t\t\tわたしが<strong>ほしい</strong>ちず<strong></strong>はどこにもありませんでした。</a> <br/>\nThe map I \n\t\t<strong>wanted </strong>\n\t\t  was nowhere to be seen."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6888
+    position: 12
+    japanese: わたしはもっと小さいテープレコダーがほしいです。
+    body_text: "わたしはもっと小さいテープレコダーがほしいです。 \n\nThe tape recorder\nI want \n\t\t  is a little smaller."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJわたしはもっと小さいテープレコダーがほしい\">\n\t\t\t\tわたしはもっと小さいテープレコダーが<strong>ほしい</strong><strong></strong>です。</a> <br/>\nThe tape recorder\n<strong>I want </strong>\n\t\t  is a little smaller."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6889
+    position: 13
+    japanese: あたらしいようふくがほしいです。
+    body_text: "あたらしいようふくがほしいです。 \n\nI want \n\t\tnew  Western-style clothes."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあたらしいようふくがほしい\">\n\t\t\t\tあたらしいようふくが<strong>ほしい</strong><strong></strong>です。</a> <br/>\n<strong>I want </strong>\n\t\tnew  Western-style clothes."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: "Formed by a noun or noun phrase + ga hoshii.\n\r\n(Note that, depending on context, ga may be replaced with the topic / contrast marker ha / wa)\n\n\n\r\nN = noun"
+    html: "Formed by a noun or noun phrase + ga hoshii.<br/>\r\n(Note that, depending on context, ga may be replaced with the topic / contrast marker ha / wa)<br/>\n<br/>\r\nN = noun"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: Darn. Typo on 'differs'.
+    html: Darn. Typo on 'differs'.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: mathrick
+    text: 'Note that it''s commonly spelt 〜欲しい, like in ex #4990'
+    html: |-
+      Note that it's commonly spelt 〜欲しい, like in ex <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=hoshii#4990">#4990</a></b>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: prachi
+    text: "hoishi is always used in the case of nouns... means when we want some noun.. that could be a book... car... camera.. anything.\n\r\nwhere as tai is also a want but it concern with some action or verb u want to do.. example: shigoto o shitai desu.\n\r\none more..\n\r\nexample in both the case.... make out the difference\n\r\nexample of hoishi..\n\r\nwatashi wa kuruma ga hoishi desu..\n\r\nexample of tai..\n\r\nwatashi wa kuruma o kaitai desu.\n\n\n\r\nI hope.... u all got this ...........\n\r\ndomo"
+    html: "hoishi is always used in the case of nouns... means when we want some noun.. that could be a book... car... camera.. anything.<br/>\r\nwhere as tai is also a want but it concern with some action or verb u want to do.. example: shigoto o shitai desu.<br/>\r\none more..<br/>\r\nexample in both the case.... make out the difference<br/>\r\nexample of hoishi..<br/>\r\nwatashi wa kuruma ga hoishi desu..<br/>\r\nexample of tai..<br/>\r\nwatashi wa kuruma o kaitai desu.<br/>\n<br/>\r\nI hope.... u all got this ...........<br/>\r\ndomo"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: sutashu
+    text: "I believe you can also use 欲しい with the て-form of the verbs:\n\n\n\r\nEX. 写真を撮って欲しいんですが。\n\r\n    I want to have a picture taken.\n\n\n\r\nThe difference between 撮って欲しい and 撮りたい is that in the latter, it is I who wishes to take the picture, while in the former, I want someone else to take a picture for me."
+    html: "I believe you can also use 欲しい with the て-form of the verbs:<br/>\n<br/>\r\nEX. 写真を撮って欲しいんですが。<br/>\r\n    I want to have a picture taken.<br/>\n<br/>\r\nThe difference between 撮って欲しい and 撮りたい is that in the latter, it is I who wishes to take the picture, while in the former, I want someone else to take a picture for me."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Saralynne
+    text: |-
+      I read somewhere that you can also add のが欲しい to the end of a verb (not as a conjugation) to make it say, for instance, "I want to have a picture taken."  It'd sort of be like "I want the thing of taking a picture."  (の making 'to take a picture' a noun clause?)
+    html: |-
+      I read somewhere that you can also add のが欲しい to the end of a verb (not as a conjugation) to make it say, for instance, "I want to have a picture taken."  It'd sort of be like "I want the thing of taking a picture."  (の making 'to take a picture' a noun clause?)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: tigert
+    text: "Good point Saralynne, \n\n\n\r\nIts important to remember that although some grammar constructions can only be used in combination with a noun, In Japanese turning a verb into a noun is rather simple. こと、の、or just slap a noun right after the dict-form of a verb and you can use it with any construction you want. \n\n\n\r\nHey prachi, \n\r\n   Hoshi isn`t always used with nouns its also used with verbs to express that you want others do do something for you. して欲しい"
+    html: "Good point Saralynne, <br/>\n<br/>\r\nIts important to remember that although some grammar constructions can only be used in combination with a noun, In Japanese turning a verb into a noun is rather simple. こと、の、or just slap a noun right after the dict-form of a verb and you can use it with any construction you want. <br/>\n<br/>\r\nHey prachi, <br/>\r\n   Hoshi isn`t always used with nouns its also used with verbs to express that you want others do do something for you. して欲しい <br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: 赤毛
+    text: I give some examples of JPLT4 to show that this entry is level 4 rather than level 3.
+    html: I give some examples of JPLT4 to show that this entry is level 4 rather than level 3.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: tai
+    label: tai
+    annotation_text: tai    (たい unlike ほしい can take either が or を (although nuance differes)) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=tai">tai</a>    (たい unlike ほしい can take either が or を (although nuance differes)) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: garu
+    label: garu
+    annotation_text: garu    (ほしい has to use the がる form (ほしがる) when speaking of other people's desires.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=garu">garu</a>    (ほしい has to use the がる form (ほしがる) when speaking of other people's desires.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 2
+    target_label: itadaku
+    label: itadaku
+    annotation_text: itadaku    (hoshii means want, itadaku is a keigo phrase) [your name]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=itadaku">itadaku</a>    (hoshii means want, itadaku is a keigo phrase) [<a href="http://jgram.org:80/pages/contributions.php?author=your name">your name</a>]
+    credits_raw: your name
+sections:
+  - kind: header
+    text: "が欲しい [がほしい] (hoshii)\n    Meaning: N,  to want something (desirative) \n    Example: I want a car.\n    JLPT Level: 3\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>が欲しい [がほしい] (hoshii)</span><br/>    <span><b>Meaning</b>: N,  to want something (desirative) </span><br/>    <b>Example</b>: <i>I want a car.</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215030703'

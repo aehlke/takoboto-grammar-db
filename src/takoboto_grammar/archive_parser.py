@@ -6,12 +6,13 @@ import copy
 import base64
 from pathlib import Path
 from html.parser import HTMLParser
-from urllib.parse import parse_qs, urlsplit, quote_from_bytes
+from urllib.parse import parse_qs, urlsplit, quote_from_bytes, unquote_to_bytes
 
 from bs4 import BeautifulSoup
 
 from .parser import LICENSE, ParseError, cc_license_links, is_data_license, fragment, text
 from .record_yaml import load_yaml
+from .section_reviews import review_sections, validate_omissions
 
 MEMBERSHIP_REVIEWS = load_yaml(Path(__file__).with_name('grammar-membership.yaml').read_text(encoding='utf-8'))['entries']
 
@@ -115,9 +116,26 @@ def labeled_value(soup, label, italic=False):
 
 def parse_archive(body, capture, retrieved_at, eligible_ids=()):
     soup, decoding_segments = source_soup(body)
+    omissions = review_sections(soup, body, capture)
+    retained_segments = []
+    for segment in decoding_segments:
+        start, end = segment['byte_offset'], segment['byte_offset'] + segment['byte_length']
+        overlaps = [review for review in omissions if start < review['source_byte_offset'] + review['source_byte_length'] and end > review['source_byte_offset']]
+        if overlaps:
+            if not any(start >= review['source_byte_offset'] and end <= review['source_byte_offset'] + review['source_byte_length'] for review in overlaps):
+                raise LicenseReviewRequired('Decoding repair crosses a reviewed section boundary')
+        else:
+            retained_segments.append(segment)
+    excluded_repairs = len(decoding_segments) - len(retained_segments)
+    decoding_segments = retained_segments
     titles = soup.select('.viewOnetitle')
     if len(titles) <= 1:
-        return parse_archive_entry(body, capture, retrieved_at, eligible_ids, soup, decoding_segments)
+        record = parse_archive_entry(body, capture, retrieved_at, eligible_ids, soup, decoding_segments)
+        if omissions:
+            record.update(source_sections_complete=False, omitted_sections=omissions,
+                          omitted_source_decoding_segment_count=excluded_repairs)
+            validate_omissions(record)
+        return record
     # JGram could return several distinct IDs for one tagE. Their contribution
     # tables repeat the same section names; a heading dictionary cannot identify
     # the entry that owns a note, comment or example.
@@ -153,6 +171,15 @@ def parse_archive_entry(body, capture, retrieved_at, eligible_ids, soup, decodin
         missing = re.search(r'No entry exists for\s+(.*?)\s+- click here to add one', text(soup))
         raw_missing = re.search(rb'''No entry exists for\s*(.*?)\s*-\s*(?:<a\s+href=['"]addGrammar\.php['"]>click here</a>|click here)\s+to add one''', body, re.S)
         raw_labels = [capture['label'].encode('utf-8')]
+        # CDX's decoded label can contain U+FFFD for original Shift-JIS URL
+        # bytes. Compare the exact percent-decoded parameter as well; never
+        # reconstruct lost bytes from the replacement character.
+        query = urlsplit(capture['original']).query
+        parameters = [part.split('=', 1) for part in query.split('&') if '=' in part]
+        tag_values = [value for key, value in parameters if key == 'tagE']
+        if (len(tag_values) == 1 and
+            parse_qs(query).get('tagE') == [capture['label']]):
+            raw_labels.append(unquote_to_bytes(tag_values[0].replace('+', ' ')))
         try:
             raw_labels.append(capture['label'].encode('cp932'))
         except UnicodeEncodeError:
@@ -176,6 +203,15 @@ def parse_archive_entry(body, capture, retrieved_at, eligible_ids, soup, decodin
                 break
     category = labeled_value(soup, 'Category', italic=True)
     scope_review = next((r for r in MEMBERSHIP_REVIEWS if r['id'] == identifier and r['label'] == capture['label']), None)
+    if scope_review and scope_review.get('reviewed_category') is not None:
+        if category != scope_review['reviewed_category'] or text(title_node) != scope_review['expected_title_raw']:
+            raise LicenseReviewRequired('Entry title/category differs from exact-capture scope review')
+        if not any(evidence['source_url'] == capture['original'] and
+                   evidence['response_sha256'] == hashlib.sha256(body).hexdigest()
+                   for evidence in scope_review['reviewed_captures']):
+            raise LicenseReviewRequired('Entry response differs from exact-capture scope review')
+        if scope_review['decision'] == 'non-grammar':
+            outside_collection(body, capture, 'Reviewed non-grammar entry: ' + scope_review['basis'])
     if scope_review and category is None and text(title_node) != scope_review['expected_title_raw']:
         raise LicenseReviewRequired('Entry title differs from historical membership review; recheck scope evidence')
     if category is None and identifier is not None and identifier not in set(eligible_ids):

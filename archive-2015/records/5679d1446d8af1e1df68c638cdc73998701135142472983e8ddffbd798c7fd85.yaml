@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1569
+label: copula_ex
+title_raw: State-of-Being Practice Exercises (copula_ex)
+title: State-of-Being Practice Exercises (copula_ex)
+reading: null
+romanized_label: copula_ex
+category: lesson
+jlpt_level_original: '4'
+meaning: State-of-Being Practice Exercises
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=copula_ex
+archive_url: https://web.archive.org/web/20150224235706id_/http://www.jgram.org/pages/viewOne.php?tagE=copula_ex
+archive_timestamp: '20150224235706'
+retrieved_at: '2026-10-03T16:08:26+00:00'
+archive_digest: 5HDJ3PUUP6LPFCMDN4W5KB25MHKADYXV
+response_sha256: 6481274da5126b382c2860f11035be328bb76a78a212de06404d29acbb3dcb42
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "State-of-Being Practice Exercises (copula_ex)\n    Meaning: State-of-Being Practice Exercises \n    JLPT Level: 4\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>State-of-Being Practice Exercises (copula_ex)</span><br/>    <span><b>Meaning</b>: State-of-Being Practice Exercises </span><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: copula_ex
+    id: 1569
+    title_raw: State-of-Being Practice Exercises (copula_ex)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=copula_ex
+    response_sha256: 6481274da5126b382c2860f11035be328bb76a78a212de06404d29acbb3dcb42
+    section: Tutorial
+    section_html_sha256: d1e2bbb7b2eb674dc127e88906294113ea010c0d162a0eee1bcd2c5223c87c52
+    section_text_sha256: b028268411ba9d919465369bdf5f2694178bb45fc07e70320994596183e38a30
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8821
+    source_byte_length: 12858
+    section_bytes_sha256: 20087698a947b3b274f3512c518c07d57d007b4b2de6b2900c84c03a2ada6838
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224235706'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 66189598
+  length: 7656
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: c3cbb3b53bcbbd76a5381d120ae06e1f3379c15e9b9fbad26221ce43ac406dda

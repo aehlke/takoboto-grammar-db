@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1438
+label: negverb2
+title_raw: (negverb2)
+title: (negverb2)
+reading: null
+romanized_label: negverb2
+category: lesson
+jlpt_level_original: '0'
+meaning: More negative verbs　（ないで、ず、〜ん、ぬ）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=negverb2
+archive_url: https://web.archive.org/web/20201119093003id_/http://www.jgram.org/pages/viewOne.php?tagE=negverb2
+archive_timestamp: '20201119093003'
+retrieved_at: '2026-10-04T03:42:34+00:00'
+archive_digest: M6ACWWRUM2Z7RQLH6NP2AQVUDKJ3VPNM
+response_sha256: dc6544970c3ae9d55c69e67b535ff19ba7d2d0f305148c9b42442f76b9d74151
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(negverb2)\n    Meaning: More negative verbs　（ないで、ず、〜ん、ぬ） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (negverb2)</span><br/>    <span><b>Meaning</b>: More negative verbs　（ないで、ず、〜ん、ぬ） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: negverb2
+    id: 1438
+    title_raw: (negverb2)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=negverb2
+    response_sha256: dc6544970c3ae9d55c69e67b535ff19ba7d2d0f305148c9b42442f76b9d74151
+    section: Tutorial
+    section_html_sha256: 25a8d78275526ff441bfc5c5838c1beb1234211c21f156e4a38d968f5b99bc71
+    section_text_sha256: 64e928744d3a82dd57b8b08c35639a649d6af7d5925c03c87653a36c0822771b
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8073
+    source_byte_length: 12607
+    section_bytes_sha256: 63787773b34a992c788d8676872be5f24eb892b1b092dbaab477033b5c008ecc
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20201119093003'

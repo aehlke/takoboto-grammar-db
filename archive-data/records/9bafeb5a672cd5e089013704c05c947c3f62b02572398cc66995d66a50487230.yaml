@@ -1,0 +1,96 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1517
+label: naka
+title_raw: なか [なか] (naka)
+title: なか
+reading: なか
+romanized_label: naka
+category: grammar
+jlpt_level_original: '3'
+meaning: inside, within
+meaning_example: My heart is within my body
+credits_raw: Xephyer
+source_url: http://www.jgram.org:80/pages/viewOne.php?tagE=naka
+archive_url: https://web.archive.org/web/20070815171401id_/http://www.jgram.org:80/pages/viewOne.php?tagE=naka
+archive_timestamp: '20070815171401'
+retrieved_at: '2026-10-04T03:40:31+00:00'
+archive_digest: DD6QIEKMBRPVYPB2KGODT6CVX53Z5TRV
+response_sha256: 8f27795b6360092cc38fcbb61da65a5e00155dd8c0fbf7a6d8cc628143d5354a
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 5901
+    position: 0
+    japanese: ''
+    body_text: 箱の中に、なにがあるの？
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ\">\n<strong></strong><strong></strong></a> <br/>\r\n\t\t箱の中に、なにがあるの？ \r\n\t\t<strong> </strong>"
+    credits_raw: karekora
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5902
+    position: 1
+    japanese: "スポーツ\r\nの中に、どちらが一番好き？"
+    body_text: "スポーツ\r\nの中に、どちらが一番好き？ \n\nout of \r\n\t\tall the sports, which do you like best?"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJスポーツの中に、どちらが一番好き？\">\r\n\t\t\t\tスポーツ\r\n<strong>の中に</strong>、どちらが一番好き？<strong></strong></a> <br/>\n<strong>out of </strong>\r\n\t\tall the sports, which do you like best?"
+    credits_raw: karekora
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "Is this a grammar entry?\n\n\n\r\nex#5902 J is strange.  I guess you ment スポーツでは、どれが／何が 一番好き（ですか）？　What sport do you like best?"
+    html: "Is this a grammar entry?<br/>\n<br/>\r\nex<b><a href=\"http://www.jgram.org:80/pages/viewOne.php?tagE=naka#5902\">#5902</a></b> J is strange.  I guess you ment スポーツでは、どれが／何が 一番好き（ですか）？　What sport do you like best?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Cleber
+    text: "I think the example ex#5902 is right. I read already a sentence like this:\n\r\nkudamono no nakani, dochiraga ichibansukidesuka."
+    html: "I think the example ex<b><a href=\"http://www.jgram.org:80/pages/viewOne.php?tagE=naka#5902\">#5902</a></b> is right. I read already a sentence like this:<br/>\r\nkudamono no nakani, dochiraga ichibansukidesuka."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: dbartlett95
+    text: |-
+      According to my Japanese friend they never use "の中に" when you are picking items out of a list (like picking your favorite).   They say, "スポーツの中で、どちらが一番好き？　I think that "の中に" translates more to "within" and "の中で”is "in or out of".  So the sentence 箱の中に、なにがあるの？ is correct because it can be translated as "What is there within the box?"
+    html: |-
+      According to my Japanese friend they never use "の中に" when you are picking items out of a list (like picking your favorite).   They say, "スポーツの中で、どちらが一番好き？　I think that "の中に" translates more to "within" and "の中で”is "in or out of".  So the sentence 箱の中に、なにがあるの？ is correct because it can be translated as "What is there within the box?"<br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: bsloh
+    text: |-
+      As what i get from the book it should be "スポーツの中で、どちらが一番好きですか" . As what Cleber's example, it should be "果物の中で、どちらが一番好きですか" in English "Among the fruits what(which one) is your favourite". Please correct me if i am wrong どうぞ宜しくお願いします.
+    html: |-
+      As what i get from the book it should be "スポーツの中で、どちらが一番好きですか" . As what Cleber's example, it should be "果物の中で、どちらが一番好きですか" in English "Among the fruits what(which one) is your favourite". Please correct me if i am wrong どうぞ宜しくお願いします.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "なか [なか] (naka)\n    Meaning: inside, within \n    Example: My heart is within my body\n    JLPT Level: 3\n    Category: grammar\n    Author: Xephyer"
+    html: |-
+      <span>なか [なか] (naka)</span><br/>    <span><b>Meaning</b>: inside, within </span><br/>    <b>Example</b>: <i>My heart is within my body</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Xephyer</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20070815171401'

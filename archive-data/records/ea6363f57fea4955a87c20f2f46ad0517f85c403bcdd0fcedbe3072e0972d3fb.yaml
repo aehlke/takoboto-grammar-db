@@ -1,0 +1,326 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 703
+label: tsutsu
+title_raw: つつ [つつ] (tsutsu)
+title: つつ
+reading: つつ
+romanized_label: tsutsu
+category: grammar
+jlpt_level_original: '2'
+meaning: Vm,  -ing
+meaning_example: even knowing I need exercise, I don't
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=tsutsu
+archive_url: https://web.archive.org/web/20200215022612id_/http://jgram.org:80/pages/viewOne.php?tagE=tsutsu
+archive_timestamp: '20200215022612'
+retrieved_at: '2026-10-04T02:05:22+00:00'
+archive_digest: MMANEPUF7N5JUAETCATGU6YGTIA7PPKX
+response_sha256: e7173d9b86c32dacdb5f6950ab65f29d5f12e7def7253d429de06250360e3927
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "masu-stem + tsutsu\n\r\n食べつつ"
+    html: "masu-stem + tsutsu<br/>\r\n食べつつ<br/>"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "〜つつ(1)\n\r\n「Ａつつ、Ｂ」: A and B are done simultaneously.\n\r\n＊This expression is more \"solid\" than ながら. See examples #6213, #6214, and #6215.\n\r\nFORMATION:\n\r\nＶ(minus ます) + つつ\n\n\n\r\n〜つつ(2)・つつも\n\r\n＊This expression is used alongside negative emotions. The forms used most often include: 「〜と思いつつ」 and 「〜と知りつつ」. See examples #6216, #6217, and #6218.\n\r\nFORMATION:\n\r\nＶ(minus ます) + つつ・つつも"
+    html: "〜つつ(1)<br/>\r\n「Ａつつ、Ｂ」: A and B are done simultaneously.<br/>\r\n＊This expression is more \"solid\" than ながら. See examples <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=tsutsu#6213\">#6213</a></b>, <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=tsutsu#6214\">#6214</a></b>, and <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=tsutsu#6215\">#6215</a></b>.<br/>\r\nFORMATION:<br/>\r\nＶ(minus ます) + つつ<br/>\n<br/>\r\n〜つつ(2)・つつも<br/>\r\n＊This expression is used alongside negative emotions. The forms used most often include: 「〜と思いつつ」 and 「〜と知りつつ」. See examples <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=tsutsu#6216\">#6216</a></b>, <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=tsutsu#6217\">#6217</a></b>, and <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=tsutsu#6218\">#6218</a></b>.<br/>\r\nFORMATION:<br/>\r\nＶ(minus ます) + つつ・つつも"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 820
+    position: 0
+    japanese: コマーシャルのマーケティングの仕事をやりつつ、音楽の仕事もやりました。
+    body_text: "コマーシャルのマーケティングの仕事をやりつつ、音楽の仕事もやりました。 \n\nWhile continuing with \n\t\tthe commercial marketing work I also worked in the music industry."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJコマーシャルのマーケティングの仕事をやりつつ、音楽の仕事もやりました。\">\n\t\t\t\tコマーシャルのマーケティングの仕事をやり<strong>つつ</strong>、音楽の仕事もやりました。<strong></strong></a> <br/>\n<strong>While continuing with </strong>\n\t\tthe commercial marketing work I also worked in the music industry."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 924
+    position: 1
+    japanese: 食べつつパソコンも使う
+    body_text: "食べつつパソコンも使う \n\nWhile \n\t\teating, I also use the PC"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ食べつつパソコンも使う\">\n食べ<strong>つつ</strong>パソコンも使う<strong></strong></a> <br/>\n<strong>While </strong>\n\t\teating, I also use the PC"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3266
+    position: 2
+    japanese: 道を歩きつつ本を読む。
+    body_text: "道を歩きつつ本を読む。 \n\n\t\tRead the book \n\t\twhile \n\t\twalking down the road."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ道を歩きつつ本を読む。\">\n道を歩き<strong>つつ</strong>本を読む。<strong></strong></a> <br/>\n\t\tRead the book \n\t\t<strong>while </strong>\n\t\twalking down the road."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3267
+    position: 3
+    japanese: 事態は、改善されつつある。
+    body_text: "事態は、改善されつつある。 \n\n\t\tThe situation is \n\t\tin the process of \n\t\timprovement."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ事態は、改善されつつある。\">\n事態は、改善され<strong>つつ</strong>ある。<strong></strong></a> <br/>\n\t\tThe situation is \n\t\t<strong>in the process of </strong>\n\t\timprovement."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6073
+    position: 4
+    japanese: ミルクパンをほおばりつつ、チョコパイにも手を伸ばす。
+    body_text: "ミルクパンをほおばりつつ、チョコパイにも手を伸ばす。 \n\n\t\tWhile stuffing my face with milk bread, I also reach for chocolate pie."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJミルクパンをほおばりつつ、チョコパイにも手を伸ばす。\">\n\t\t\t\tミルクパンをほおばり<strong>つつ</strong>、チョコパイにも手を伸ばす。<strong></strong></a> <br/>\n\t\tWhile stuffing my face with milk bread, I also reach for chocolate pie. \n\t\t<strong> </strong>"
+    credits_raw: maky
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6213
+    position: 5
+    japanese: 昨夜、久しぶりに会った友達と酒を飲みつつ語り合った。
+    body_text: "昨夜、久しぶりに会った友達と酒を飲みつつ語り合った。\r \n\n\t\tLast night, I met up with friend I hadn't seen in a while, and we talked together while drinking."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ昨夜、久しぶりに会った友達と酒を飲みつつ語り合った。\">\n\t\t\t\t昨夜、久しぶりに会った友達と酒を飲み<strong>つつ</strong>語り合った。\r<strong></strong></a> <br/>\n\t\tLast night, I met up with friend I hadn't seen in a while, and we talked together while drinking. \n\t\t<strong> </strong>"
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6214
+    position: 6
+    japanese: 目の前の美しい山を眺めつつ、自分に絵の才能のないことを残念に思った。
+    body_text: "目の前の美しい山を眺めつつ、自分に絵の才能のないことを残念に思った。 \n\nWhile \n\t\tgazing at the beautiful mountain before me, I thought it was a pity that I have no talent for painting."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ目の前の美しい山を眺めつつ、自分に絵の才能のないことを残念に思った。\">\n\t\t\t\t目の前の美しい山を眺め<strong>つつ</strong>、自分に絵の才能のないことを残念に思った。<strong></strong></a> <br/>\n<strong>While </strong>\n\t\tgazing at the beautiful mountain before me, I thought it was a pity that I have no talent for painting."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6215
+    position: 7
+    japanese: このレポートでは、調査の結果を分析しつつ、今後の問題点を明らかにしてみたいと思う。
+    body_text: "このレポートでは、調査の結果を分析しつつ、今後の問題点を明らかにしてみたいと思う。\r \n\n\t\tIn this report, I tried to analyze the results of the investigation while shedding some light on future issues."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこのレポートでは、調査の結果を分析しつつ、今後の問題点を明らかにしてみたいと思う。\">\n\t\t\t\tこのレポートでは、調査の結果を分析し<strong>つつ</strong>、今後の問題点を明らかにしてみたいと思う。\r<strong></strong></a> <br/>\n\t\tIn this report, I tried to analyze the results of the investigation while shedding some light on future issues. \n\t\t<strong> </strong>"
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6216
+    position: 8
+    japanese: 運動不足は体に悪いと知れつつ、時間がなくて運動ができない。
+    body_text: "運動不足は体に悪いと知れつつ、時間がなくて運動ができない。\r \n\n\t\tEven while knowing that a lack of physical activity is bad for my body, I don't have the time and can't exercise."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ運動不足は体に悪いと知れつつ、時間がなくて運動ができない。\">\n\t\t\t\t運動不足は体に悪いと知れ<strong>つつ</strong>、時間がなくて運動ができない。\r<strong></strong></a> <br/>\n\t\tEven while knowing that a lack of physical activity is bad for my body, I don't have the time and can't exercise. \n\t\t<strong> </strong>"
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6217
+    position: 9
+    japanese: もらった手紙に返事を書かなければと思いつつ、もう10日も経ってしまった。
+    body_text: "もらった手紙に返事を書かなければと思いつつ、もう10日も経ってしまった。 \n\nEven while \n\t\tthinking that I have to reply to the letter I received, ten days have already passed."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJもらった手紙に返事を書かなければと思いつつ、もう10日も経ってしまった。\">\n\t\t\t\tもらった手紙に返事を書かなければと思い<strong>つつ</strong>、もう10日も経ってしまった。<strong></strong></a> <br/>\n<strong>Even while </strong>\n\t\tthinking that I have to reply to the letter I received, ten days have already passed."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6218
+    position: 10
+    japanese: 試験の準備を早くはじめようと思いつつも、まだはじめていない。
+    body_text: "試験の準備を早くはじめようと思いつつも、まだはじめていない。 \n\n\t\tEven while thinking that I have to hurry up and start preparing for the exam, I haven't yet started."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ試験の準備を早くはじめようと思いつつも、まだはじめていない。\">\n\t\t\t\t試験の準備を早くはじめようと思い<strong>つつ</strong>も、まだはじめていない。<strong></strong></a> <br/>\n\t\tEven while thinking that I have to hurry up and start preparing for the exam, I haven't yet started. \n\t\t<strong> </strong>"
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6912
+    position: 11
+    japanese: 今夜漢字を勉強しようと思いつつ、テレビゲームをやってしまいました。
+    body_text: "今夜漢字を勉強しようと思いつつ、テレビゲームをやってしまいました。  \n\n\t\tThinking I'd study kanji tonight, I ended up playing video games."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ今夜漢字を勉強しようと思いつつ、テレビゲームをやってしまいました。 \">\n\t\t\t\t今夜漢字を勉強しようと思い<strong>つつ</strong>、テレビゲームをやってしまいました。 <strong></strong></a> <br/>\n\t\tThinking I'd study kanji tonight, I ended up playing video games. \n\t\t<strong> </strong>"
+    credits_raw: aoiaki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7163
+    position: 12
+    japanese: もう起き なければと思いつつも, なかなか起きられない.
+    body_text: "もう起き なければと思いつつも, なかなか起きられない. \n\nEven though \n\t\tI want to getup early, but still I`m in the bed."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJもう起き なければと思いつつも, なかなか起きられない.\">\n\t\t\t\tもう起き なければと思い<strong>つつ</strong>も, なかなか起きられない.<strong></strong></a> <br/>\n<strong>Even though </strong>\n\t\tI want to getup early, but still I`m in the bed."
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8313
+    position: 13
+    japanese: その病気は蔓延しつつあるそうだ。
+    body_text: "その病気は蔓延しつつあるそうだ。\r \n\n\t\tIt is said that the disease has been spreading."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJその病気は蔓延しつつあるそうだ。\">\n\t\t\t\tその病気は蔓延し<strong>つつ</strong>あるそうだ。\r<strong></strong></a> <br/>\n\t\tIt is said that the disease has been spreading. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8314
+    position: 14
+    japanese: 地球は温室効果の増大によりしだいに暖かくなりつつある。
+    body_text: "地球は温室効果の増大によりしだいに暖かくなりつつある。\r \n\n\t\tThe Earth is gradually becoming warmer because of an increase in the greenhouse effect."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ地球は温室効果の増大によりしだいに暖かくなりつつある。\">\n\t\t\t\t地球は温室効果の増大によりしだいに暖かくなり<strong>つつ</strong>ある。\r<strong></strong></a> <br/>\n\t\tThe Earth is gradually becoming warmer because of an increase in the greenhouse effect. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8315
+    position: 15
+    japanese: これ以上はやめておくべきだと思いつつ、彼はビールをもう一杯注文しました。
+    body_text: "これ以上はやめておくべきだと思いつつ、彼はビールをもう一杯注文しました。\r \n\n\t\tHe ordered another glass of beer, though he knew he shouldn`t."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこれ以上はやめておくべきだと思いつつ、彼はビールをもう一杯注文しました。\">\n\t\t\t\tこれ以上はやめておくべきだと思い<strong>つつ</strong>、彼はビールをもう一杯注文しました。\r<strong></strong></a> <br/>\n\t\tHe ordered another glass of beer, though he knew he shouldn`t. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8579
+    position: 16
+    japanese: 立ち止まりつつ涼みます。
+    body_text: "立ち止まりつつ涼みます。 \n\n\t\tto stop while cool off"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ立ち止まりつつ涼みます。\">\n\t\t\t\t立ち止まり<strong>つつ</strong>涼みます。<strong></strong></a> <br/>\n\t\tto stop while cool off \n\t\t<strong> </strong>"
+    credits_raw: belajar
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8580
+    position: 17
+    japanese: 先生に臨みたいと思いつつ、先生を避けました。
+    body_text: "先生に臨みたいと思いつつ、先生を避けました。 \n\nDespite \n\t\twanting to meet with the teacher, I avoided him."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ先生に臨みたいと思いつつ、先生を避けました。\">\n\t\t\t\t先生に臨みたいと思い<strong>つつ</strong>、先生を避けました。<strong></strong></a> <br/>\n<strong>Despite </strong>\n\t\twanting to meet with the teacher, I avoided him."
+    credits_raw: belajar
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: Pls see also 〜ながら
+    html: Pls see also 〜ながら
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "Formed from Verb -masu base + tsutsu\n\n\n\r\nVm = Verb -masu base"
+    html: "Formed from Verb -masu base + tsutsu<br/>\n<br/>\r\nVm = Verb -masu base"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Leslie
+    text: "Is 何々つつ　mostly a written expression? People look at me funny when I talk like a book, so I'd like to clear that up.\n\n\n\r\nAny chance of tagging the expressions on jGram as being either mainly written or spoken?"
+    html: "Is 何々つつ　mostly a written expression? People look at me funny when I talk like a book, so I'd like to clear that up.<br/>\n<br/>\r\nAny chance of tagging the expressions on jGram as being either mainly written or spoken?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: "tagging written/spoken should be there, you're right. Also, degree of formailty (t-shirt or tie icon?).\n\n\n\r\nIt could be added to the notes section as a text note, though it would be nice to have a popup menu i guess... means more work for people entering stuff though."
+    html: "<b>tagging</b> written/spoken should be there, you're right. Also, degree of formailty (t-shirt or tie icon?).<br/>\n<br/>\r\nIt could be added to the notes section as a text note, though it would be nice to have a popup menu i guess... means more work for people entering stuff though."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bamboo4
+    text: I agree that, in conversational context, you don't use つつ but use ながら.
+    html: |-
+      I agree that, in conversational context, you don't use つつ but use ながら.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: JLJZEN
+    text: |-
+      Here, here. I am studying a grammar book right now, but I always have to ask my teacher whether or not a certain piece of grammar is conversational or not. Some kind of Icon or note would be MOST HELPFUL!
+    html: |-
+      Here, here. I am studying a grammar book right now, but I always have to ask my teacher whether or not a certain piece of grammar is conversational or not. Some kind of Icon or note would be MOST HELPFUL!
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: rubyhatchet
+    text: "Example #3267 belongs in another category. Also, there are two ways of translating つつ on its own.\n\n\n\r\nつつ(1) is close to ながら, but つつ(2)・つつも is similar to 〜ているのに."
+    html: "Example <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=tsutsu#3267\">#3267</a></b> belongs in another category. Also, there are two ways of translating つつ on its own.<br/>\n<br/>\r\nつつ(1) is close to ながら, but つつ(2)・つつも is similar to 〜ているのに."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: nuka
+    text: "I think there is a spelling mistake in #6214.\n\r\nIt should be:\n\r\n目の前の美しい山を眺めつつ、自分に絵のの才狽ﾈいことを残念に思った。"
+    html: "I think there is a spelling mistake in <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=tsutsu#6214\">#6214</a></b>.<br/>\r\nIt should be:<br/>\r\n目の前の美しい山を眺めつつ、自分に絵のの才狽ﾈいことを残念に思った。 <br/>\n<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: Miki
+    text: '#6214　I edited as it looked garbled. 自分に絵のの才狽ﾈいことを残念に思った。→ 自分に絵の才能のないことを残念に思った。'
+    html: |-
+      <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=tsutsu#6214">#6214</a></b>　I edited as it looked garbled. 自分に絵のの才狽ﾈいことを残念に思った。→ 自分に絵の才能のないことを残念に思った。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: etihwttam
+    text: |-
+      I have to disagree with bamboo4. The native Japanese speakers around me use this expression quite a bit in conversation (though certainly they use ながら even more).
+    html: |-
+      I have to disagree with bamboo4. The native Japanese speakers around me use this expression quite a bit in conversation (though certainly they use ながら even more).
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: zerorin00
+    text: |-
+      I'm having difficulty understanding when I should use つつ in a sentence versus ながら. Can anyone shed some light on this for me?
+    html: |-
+      I'm having difficulty understanding when I should use つつ in a sentence versus ながら. Can anyone shed some light on this for me?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: nagara
+    label: nagara
+    annotation_text: nagara    (~ながら and ~つつ have similar usage.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=nagara">nagara</a>    (~ながら and ~つつ have similar usage.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: "つつ [つつ] (tsutsu)\n    Meaning: Vm,  -ing \n    Example: even knowing I need exercise, I don't\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>つつ [つつ] (tsutsu)</span><br/>    <span><b>Meaning</b>: Vm,  -ing </span><br/>    <b>Example</b>: <i>even knowing I need exercise, I don't</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215022612'

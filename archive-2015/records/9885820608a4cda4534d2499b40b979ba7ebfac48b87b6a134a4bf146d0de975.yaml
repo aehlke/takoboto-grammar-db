@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1456
+label: surunaru
+title_raw: (surunaru)
+title: (surunaru)
+reading: null
+romanized_label: surunaru
+category: lesson
+jlpt_level_original: '0'
+meaning: Using する and なる with the に particle　（〜[のよう]になる／する）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=surunaru
+archive_url: https://web.archive.org/web/20150224230937id_/http://www.jgram.org/pages/viewOne.php?tagE=surunaru
+archive_timestamp: '20150224230937'
+retrieved_at: '2026-10-03T16:04:17+00:00'
+archive_digest: XF3Z72LBOUKJD77EVQQHU7SKTW6F2QSX
+response_sha256: d1fdd9d055593b3920ec632df89f064fa3478c7bd41ac0a28e451f0c53b0dd2b
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(surunaru)\n    Meaning: Using する and なる with the に particle　（〜[のよう]になる／する） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (surunaru)</span><br/>    <span><b>Meaning</b>: Using する and なる with the に particle　（〜[のよう]になる／する） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: surunaru
+    id: 1456
+    title_raw: (surunaru)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=surunaru
+    response_sha256: d1fdd9d055593b3920ec632df89f064fa3478c7bd41ac0a28e451f0c53b0dd2b
+    section: Tutorial
+    section_html_sha256: 0419f55fbac1c1302b69b8d970ba633ece51241cd98b3942ffae1bc3a91c7188
+    section_text_sha256: 454747d78adffacd09267566d0756fd30f4a5625930ba95a48c2e18e0a592238
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8852
+    source_byte_length: 12386
+    section_bytes_sha256: 2351f213b450e21797627de0d0017e1e007af0c01803b81eeadb96f444e92882
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224230937'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 17422850
+  length: 8089
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: edd76d504b56fd5ad7063d83ade19ff7487eafec7fff4d59663c67745bbf48f0

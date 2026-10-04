@@ -20,7 +20,7 @@ from urllib.robotparser import RobotFileParser
 from .archive_parser import NotGrammar, LicenseReviewRequired, parse_archive
 from .crawl import now
 from .parser import ParseError
-from .storage import output_root, safe_target, write_json, write_record, cache_response, record_digest, annotate_archive_record
+from .storage import membership_metadata, output_root, safe_target, write_json, write_record, cache_response, record_digest, annotate_archive_record
 from .http import HttpxOpener, RequestPacer
 
 CDX = 'https://web.archive.org/cdx/search/cdx'
@@ -300,7 +300,7 @@ def crawl_archive(fetcher, inventory, eligible_ids=(), limit=None):
         key = hashlib.sha256(label.encode()).hexdigest()
         state = {'label': label, 'status': 'pending', 'checked_at': now(),
                  'latest_indexed_timestamp': item['captures'][0]['timestamp'],
-                 'eligible_ids': list(eligible_ids)}
+                 **membership_metadata(eligible_ids)}
         # A pending hold prevents an interrupted refresh from exporting an older record.
         write_json(fetcher.root, f'states/{key}.json', state)
         try:

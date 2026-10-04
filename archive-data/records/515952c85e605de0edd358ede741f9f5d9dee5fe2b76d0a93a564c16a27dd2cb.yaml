@@ -1,0 +1,99 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1760
+label: hodo-2
+title_raw: ほど-2 ([ほど-2] )(hodo-2)
+title: ほど-2
+reading: ほど-2
+romanized_label: hodo-2
+category: grammar
+jlpt_level_original: '3'
+meaning: to the extent of; to the extent that  ~; (not as) ~ as ~ ; about [REL. bakari; kurai]  私はレンズほど強くありません。
+meaning_example: (Lit, I'm not strong as Lenz's extent. (=I'm not as strong as Lenz))
+credits_raw: lenzras
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=hodo-2
+archive_url: https://web.archive.org/web/20200215023234id_/http://jgram.org:80/pages/viewOne.php?tagE=hodo-2
+archive_timestamp: '20200215023234'
+retrieved_at: '2026-10-04T00:28:26+00:00'
+archive_digest: BJHRFITWBJOFT7H7UWCLIJNB4XBLW3F6
+response_sha256: 97209aa92601d86414a60751733a2f6090adfe49ca935a8de258cd8ece5daf2f
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "1. When hodo is preceded by a noun, the predicate must be negative. The following sentence is ungrammatical.\n\n\n\r\n*私は太郎ほどつよい。\n\r\n(I am as strong as Taro.)\n\n\n\n\n\r\nIf a sentence or a demonstrative modifies hodo, however, the predicate of the main clause can be either affirmative or negative.\n\n\n\r\nその仕事はそれほど易しいんですか。\n\r\nIs that job that easy (lit. easy to that extent)?\n\n\n\n\n\r\nWhen hodo is used with a quantifier, it means 'about'. Example:\n\n\n\r\nビールを三本ほど飲みました。\n\r\n(I drank about three bottles of beer.)"
+    html: "1. When hodo is preceded by a noun, the predicate must be negative. The following sentence is ungrammatical.<br/>\n<br/>\r\n*私は太郎ほどつよい。<br/>\r\n(I am as strong as Taro.)<br/>\n<br/>\n<br/>\r\nIf a sentence or a demonstrative modifies hodo, however, the predicate of the main clause can be either affirmative or negative.<br/>\n<br/>\r\nその仕事はそれほど易しいんですか。<br/>\r\nIs that job that easy (lit. easy to that extent)?<br/>\n<br/>\n<br/>\r\nWhen hodo is used with a quantifier, it means 'about'. Example:<br/>\n<br/>\r\nビールを三本ほど飲みました。<br/>\r\n(I drank about three bottles of beer.)<br/>"
+    credits_raw: lenzras
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 8045
+    position: 0
+    japanese: 僕は君ほど速く歩けません。
+    body_text: "僕は君ほど速く歩けません。\r \n\n\t\tI can't walk as fast as you can."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ僕は君ほど速く歩けません。\">\n\t\t\t\t僕は君ほど速く歩けません。\r<strong></strong><strong></strong></a> <br/>\n\t\tI can't walk as fast as you can. \n\t\t<strong> </strong>"
+    credits_raw: lenzras
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8046
+    position: 1
+    japanese: ジェニファーほどよく勉強する学生はいない。
+    body_text: "ジェニファーほどよく勉強する学生はいない。\r \n\n\t\tThere is no student who studies as hard as Jennifer."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJジェニファーほどよく勉強する学生はいない。\">\n\t\t\t\tジェニファーほどよく勉強する学生はいない。\r<strong></strong><strong></strong></a> <br/>\n\t\tThere is no student who studies as hard as Jennifer. \n\t\t<strong> </strong>"
+    credits_raw: lenzras
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8047
+    position: 2
+    japanese: "私は西田さんがあれ\r\nほどピアノが弾けるは思わなかった。"
+    body_text: "私は西田さんがあれ\r\nほどピアノが弾けるは思わなかった。 \n\n\t\tI didn't think that Mr. Nishida could play the piano \n\t\tthat well \n\t\t. (lit. to that extent)"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私は西田さんがあれほどピアノが弾けるは思わなかった。\">\n\t\t\t\t私は西田さんがあれ\r\n<strong>ほど</strong>ピアノが弾けるは思わなかった。<strong></strong></a> <br/>\n\t\tI didn't think that Mr. Nishida could play the piano \n\t\t<strong>that well </strong>\n\t\t. (lit. to that extent)"
+    credits_raw: lenzras
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8048
+    position: 3
+    japanese: ルイスさんの日本語は太田先生も外国人だと気づかなかったほど上手です。
+    body_text: "ルイスさんの日本語は太田先生も外国人だと気づかなかったほど上手です。\r \n\n\t\tMr. Lewis's Japanese is so good that even Prof. Ota didn't notice he was a foreigner."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJルイスさんの日本語は太田先生も外国人だと気づかなかったほど上手です。\">\n\t\t\t\tルイスさんの日本語は太田先生も外国人だと気づかなかったほど上手です。\r<strong></strong><strong></strong></a> <br/>\n\t\tMr. Lewis's Japanese is so good that even Prof. Ota didn't notice he was a foreigner. \n\t\t<strong> </strong>"
+    credits_raw: lenzras
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries:
+  - position: 0
+    target_label: くらい
+    label: くらい
+    annotation_text: "くらい    (ばかり and くらい also means 'about' when they are used with a number and a counter. The difference among the three is that ばかり　and ひど　can be used with an exact number or amount of something, whereas くらい　cannot.\n\n\n\r\nその　りんごを二つばかり/ほど/*くらいください。) [lenzras]"
+    annotation_html: "<a href=\"http://jgram.org:80/pages/viewOne.php?tagE=くらい\">くらい</a>    (ばかり and くらい also means 'about' when they are used with a number and a counter. The difference among the three is that ばかり　and ひど　can be used with an exact number or amount of something, whereas くらい　cannot.<br/>\n<br/>\r\nその　りんごを二つばかり/ほど/*くらいください。) [<a href=\"http://jgram.org:80/pages/contributions.php?author=lenzras\">lenzras</a>]"
+    credits_raw: lenzras
+sections:
+  - kind: header
+    text: |-
+      ほど-2 ([ほど-2] )(hodo-2)
+          Meaning: to the extent of; to the extent that  ~; (not as) ~ as ~ ; about [REL. bakari; kurai]  私はレンズほど強くありません。
+          Example: (Lit, I'm not strong as Lenz's extent. (=I'm not as strong as Lenz))
+          JLPT Level: 3
+          Category: grammar
+          Author: lenzras
+    html: |-
+      <span>ほど-2 ([ほど-2] )(hodo-2)</span><br/>    <span><b>Meaning</b>: to the extent of; to the extent that  ~; (not as) ~ as ~ ; about [REL. bakari; kurai]  私はレンズほど強くありません。</span><br/>    <b>Example</b>: <i>(Lit, I'm not strong as Lenz's extent. (=I'm not as strong as Lenz))</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>lenzras</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215023234'

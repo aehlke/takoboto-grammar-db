@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1732
+label: koto ni naru
+title_raw: ことになる [ことになる] (koto ni naru)
+title: ことになる
+reading: ことになる
+romanized_label: koto ni naru
+category: null
+jlpt_level_original: '3'
+meaning: it has been decided/arranged that
+meaning_example: It has been decided that I will work in Tokyo
+credits_raw: Stefanie
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=koto+ni+naru
+archive_url: https://web.archive.org/web/20200215025226id_/http://jgram.org:80/pages/viewOne.php?tagE=koto+ni+naru
+archive_timestamp: '20200215025226'
+retrieved_at: '2026-10-04T00:49:23+00:00'
+archive_digest: BAHIRSZKXA4I6DWJ5SOTDICO5HQ2H2WX
+response_sha256: b1153c26bab60ea15a7b46e9f2d309eb16e0e4f1ce92978e8eed1c3f8a98eccc
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 7788
+    position: 0
+    japanese: 主人が仕事で東京にいくことになった。
+    body_text: "主人が仕事で東京にいくことになった。\r \n\n\t\tIt has been decided that my husband will go to Tokyo for professional reasons."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ主人が仕事で東京にいくことになった。\">\n\t\t\t\t主人が仕事で東京にいくことになった。\r<strong></strong><strong></strong></a> <br/>\n\t\tIt has been decided that my husband will go to Tokyo for professional reasons. \n\t\t<strong> </strong>"
+    credits_raw: Stefanie
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7789
+    position: 1
+    japanese: 留学することになりました。
+    body_text: "留学することになりました。\r \n\n\t\tIt has been arranged that I will study abroad."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ留学することになりました。\">\n\t\t\t\t留学することになりました。\r<strong></strong><strong></strong></a> <br/>\n\t\tIt has been arranged that I will study abroad. \n\t\t<strong> </strong>"
+    credits_raw: Stefanie
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Nihonjin
+    text: 'Same as kotoninaru, we should merge both articles. Which syntax do we use: seperated by space or in one word?'
+    html: |-
+      Same as <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=kotoninaru">kotoninaru</a></b>, we should merge both articles. Which syntax do we use: seperated by space or in one word?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "ことになる [ことになる] (koto ni naru)\n    Meaning: it has been decided/arranged that \n    Example: It has been decided that I will work in Tokyo\n    JLPT Level: 3\n    Author: Stefanie"
+    html: |-
+      <span>ことになる [ことになる] (koto ni naru)</span><br/>    <span><b>Meaning</b>: it has been decided/arranged that </span><br/>    <b>Example</b>: <i>It has been decided that I will work in Tokyo</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Author</b>: <i>Stefanie</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215025226'

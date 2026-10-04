@@ -1,0 +1,174 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 784
+label: tearu
+title_raw: て形+ある (て在る・て有る) [〜てある] (tearu)
+title: て形+ある (て在る・て有る)
+reading: 〜てある
+romanized_label: tearu
+category: grammar
+jlpt_level_original: '3'
+meaning: Vte something has been purposely put into a state
+meaning_example: The window has been closed.
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=tearu
+archive_url: https://web.archive.org/web/20200215031646id_/http://jgram.org:80/pages/viewOne.php?tagE=tearu
+archive_timestamp: '20200215031646'
+retrieved_at: '2026-10-04T01:48:56+00:00'
+archive_digest: AMKKU733MEAANUMU5VRIEDMEZINK5TXK
+response_sha256: 3d5f5996f10f447d6e98b9d15a2c0414e6377eb40e09a56c6d36ab708ce13bfe
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "てある only combines with transitive verbs, never intransitive. \n\r\nThe result of transitive + てある is an intransitive itself.\n\n\n\r\n窓が開いている -> The window is open. (no agent or reason implied)\n\n\n\r\n窓が開けてある -> The window is open (because someone opened it)."
+    html: "てある only combines with transitive verbs, never intransitive. <br/>\r\nThe result of transitive + てある is an intransitive itself.<br/>\n<br/>\r\n窓が開いている -&gt; The window is open. (no agent or reason implied)<br/>\n<br/>\r\n窓が開けてある -&gt; The window is open (because someone opened it)."
+    credits_raw: kurisutofu
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 3250
+    position: 0
+    japanese: 窓が開けてある。
+    body_text: "窓が開けてある。 \n\n\t\tThe window \n\t\thas been \n\t\tleft open."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ窓が開けてある。\">\n窓が開けて<strong>ある</strong>。<strong></strong></a> <br/>\n\t\tThe window \n\t\t<strong>has been </strong>\n\t\tleft open."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3251
+    position: 1
+    japanese: 窓が閉めてある。
+    body_text: "窓が閉めてある。 \n\n\t\tThe window \n\t\thas been \n\t\tclosed."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ窓が閉めてある。\">\n窓が閉めて<strong>ある</strong>。<strong></strong></a> <br/>\n\t\tThe window \n\t\t<strong>has been </strong>\n\t\tclosed."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3252
+    position: 2
+    japanese: 窓を（は）開けてある。
+    body_text: "窓を（は）開けてある。 \n\n\t\tI \n\t\tleft \n\t\tthe window open."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ窓を（は）開けてある。\">\n窓を（は）開けて<strong>ある</strong>。<strong></strong></a> <br/>\n\t\tI \n\t\t<strong>left </strong>\n\t\tthe window open."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3253
+    position: 3
+    japanese: 窓を（は）閉めてある。
+    body_text: "窓を（は）閉めてある。 \n\n\t\tI \n\t\tkept \n\t\tthe window closed."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ窓を（は）閉めてある。\">\n窓を（は）閉めて<strong>ある</strong>。<strong></strong></a> <br/>\n\t\tI \n\t\t<strong>kept </strong>\n\t\tthe window closed."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: "Compare \n\r\n窓が開いている。[mado ga hiraiteiru] \n\r\nThe window is open.\n\r\n窓が開けてある。[mado ga aketearu]\n\r\nThe window has been opened."
+    html: "Compare <br/>\r\n窓が開いている。[mado ga hiraiteiru] <br/>\r\nThe window is open.<br/>\r\n窓が開けてある。[mado ga aketearu]<br/>\r\nThe window has been opened."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: bi-ru
+    text: |-
+      Note that tearu only combines with transitive verbs, never intransitive. The result of transitive + tearu is an intransitive itself.
+    html: |-
+      Note that tearu only combines with transitive verbs, never intransitive. The result of transitive + tearu is an intransitive itself.<br/>
+      <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: k-dogg
+    text: and... my mind has been blown.
+    html: and... my mind has been blown.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Futaro
+    text: "I saw ex 3250 and looking the little window I read: \"mado ga aketearu\n\r\nand ex. 3251: mado ga shimete aru.\n\r\nThen, I saw Amatukaﾂｴs comments and I constat that I was wrong. How can I know which of the reading of the kanji in the little window is correct.\n\r\nThank you for your help."
+    html: "I saw ex 3250 and looking the little window I read: \"mado ga aketearu<br/>\r\nand ex. 3251: mado ga shimete aru.<br/>\r\nThen, I saw Amatukaﾂｴs comments and I constat that I was wrong. How can I know which of the reading of the kanji in the little window is correct.<br/>\r\nThank you for your help."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Tenorikuma
+    text: "Amatuka is wrong on pronunciation.\n\n\n\r\n窓が開いている -> まどがあいている\n\n\n\r\nAs Bi-ru notes, the ている form is resultative for intransitive verbs, but the てある form lets you take a transitive verb and do the same thing.\n\n\n\r\n窓が開いている  ->  The window is open. (no agent or reason implied)\n\n\n\r\n窓が開けてある  ->  The window is open (because someone opened it)."
+    html: "Amatuka is wrong on pronunciation.<br/>\n<br/>\r\n窓が開いている -&gt; まどがあいている<br/>\n<br/>\r\nAs Bi-ru notes, the ている form is resultative for intransitive verbs, but the てある form lets you take a transitive verb and do the same thing.<br/>\n<br/>\r\n窓が開いている  -&gt;  The window is open. (no agent or reason implied)<br/>\n<br/>\r\n窓が開けてある  -&gt;  The window is open (because someone opened it)."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: tigert
+    text: |-
+      Amatuka`s pronunciation isn`t wrong. 開く　can be pronounced あく　or ひらく　they both mean the same thing. but あく is used for things that swing open and ひらく is used for things that slide open. IE sliding doors, windows, etc...
+    html: |-
+      Amatuka`s pronunciation isn`t wrong. 開く　can be pronounced あく　or ひらく　they both mean the same thing. but あく is used for things that swing open and ひらく is used for things that slide open. IE sliding doors, windows, etc...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: mochabean
+    text: |-
+      Aha, I've always wondered about the difference between the two readings. So does that mean that the example here with the window will be read differently depending on whether it is the kind of window that swings or slides? :)
+    html: |-
+      Aha, I've always wondered about the difference between the two readings. So does that mean that the example here with the window will be read differently depending on whether it is the kind of window that swings or slides? :)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: kurisutofu
+    text: "bi-ru and Tenorikuma, I have taken the liberty to add a note with the comments you did.\n\r\nHope you don't mind."
+    html: "bi-ru and Tenorikuma, I have taken the liberty to add a note with the comments you did.<br/>\r\nHope you don't mind."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: bgaskin
+    text: |-
+      Can someone well qualified please give the correct hiragana / romaji for the two window examples? ... Since there seems to be some confusion.
+    html: |-
+      Can someone well qualified please give the correct hiragana / romaji for the two window examples? ... Since there seems to be some confusion.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: xelloss1012
+    text: "Hi bgaskin,\n\n\n\r\nIf I understood it correctly, it is supposed to be pronounced both ways ひらく / あくwith just some subtle differences in the context it implies (like the kind of window we're talking about, or the way it opens).\n\n\n\r\nBut what I find even funnier is that when pronounced as ひらく, it can be both a transitive and an intransitive verb, so I think it should work both with てある and ている grammars. So theoretically you could find:\n\n\n\r\n1. 窓が開いている。--> The window is open.\n\n\n\r\n2. 窓が開いてある。--> The window has been opened.\n\n\n\r\nIn the first case you can pronounce it both ways, as stated above. Whereas in the second one, you'd need to pronounce it as ひらいてある so it to be transitive and not あいてある since this way it would be intransitive and could not be applied this grammar...\n\n\n\r\nHowever I'm just a student and I'm trying to clarify my ideas, so I hope someone can confirm or correct me if I'm wrong :)"
+    html: "Hi bgaskin,<br/>\n<br/>\r\nIf I understood it correctly, it is supposed to be pronounced both ways ひらく / あくwith just some subtle differences in the context it implies (like the kind of window we're talking about, or the way it opens).<br/>\n<br/>\r\nBut what I find even funnier is that when pronounced as ひらく, it can be both a transitive and an intransitive verb, so I think it should work both with てある and ている grammars. So theoretically you could find:<br/>\n<br/>\r\n1. 窓が開いている。--&gt; The window is open.<br/>\n<br/>\r\n2. 窓が開いてある。--&gt; The window has been opened.<br/>\n<br/>\r\nIn the first case you can pronounce it both ways, as stated above. Whereas in the second one, you'd need to pronounce it as ひらいてある so it to be transitive and not あいてある since this way it would be intransitive and could not be applied this grammar...<br/>\n<br/>\r\nHowever I'm just a student and I'm trying to clarify my ideas, so I hope someone can confirm or correct me if I'm wrong :)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: teiru
+    label: teiru
+    annotation_text: |-
+      teiru    (While both てある and ている can be used to indicate an ongoing state, the former indicates /someone/ put it into that state.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=teiru">teiru</a>    (While both てある and ている can be used to indicate an ongoing state, the former indicates /someone/ put it into that state.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: "て形+ある (て在る・て有る) [〜てある] (tearu)\n    Meaning: Vte something has been purposely put into a state \n    Example: The window has been closed.\n    JLPT Level: 3\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>て形+ある (て在る・て有る) [〜てある] (tearu)</span><br/>    <span><b>Meaning</b>: Vte something has been purposely put into a state </span><br/>    <b>Example</b>: <i>The window has been closed.</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215031646'

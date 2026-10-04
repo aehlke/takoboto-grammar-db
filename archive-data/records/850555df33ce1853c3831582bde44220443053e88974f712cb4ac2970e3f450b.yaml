@@ -1,0 +1,74 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1426
+label: ExpressingTheMinimumExpectation
+title_raw: '- (ExpressingTheMinimumExpectation)'
+title: '- (ExpressingTheMinimumExpectation)'
+reading: null
+romanized_label: ExpressingTheMinimumExpectation
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=ExpressingTheMinimumExpectation
+archive_url: https://web.archive.org/web/20051226012501id_/http://jgram.org:80/pages/viewOne.php?tagE=ExpressingTheMinimumExpectation
+archive_timestamp: '20051226012501'
+retrieved_at: '2026-10-04T02:36:24+00:00'
+archive_digest: WIS476NHIJPP7HRXSD5HL5MWA5AEUBDK
+response_sha256: 1432ef8e40f14d6ee2f21bf3bf45b8bf5036fcfacabf86bcda815f5572b27a6b
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries:
+  - position: 0
+    target_label: sae
+    label: sae
+    annotation_text: sae
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=sae">sae</a>
+    credits_raw: null
+  - position: 1
+    target_label: oroka
+    label: oroka
+    annotation_text: oroka
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=oroka">oroka</a>
+    credits_raw: null
+sections:
+  - kind: header
+    text: "- (ExpressingTheMinimumExpectation)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (ExpressingTheMinimumExpectation)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: ExpressingTheMinimumExpectation
+    id: 1426
+    title_raw: '- (ExpressingTheMinimumExpectation)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=ExpressingTheMinimumExpectation
+    response_sha256: 1432ef8e40f14d6ee2f21bf3bf45b8bf5036fcfacabf86bcda815f5572b27a6b
+    section: Tutorial
+    section_html_sha256: 8dac5d925dad7c1a1d2dd57fd9c9fb3180f09138ab91d60bddca837a1e820e92
+    section_text_sha256: b4e6acaddb44585ca9991c672afc79b1f6453ee313b27d3fc83869fd1b3b1618
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8169
+    source_byte_length: 8281
+    section_bytes_sha256: 46c62760a4632ef56d610ead7a4e53b19090011433a54e2c2c9ee062ae4c37f6
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226012501'

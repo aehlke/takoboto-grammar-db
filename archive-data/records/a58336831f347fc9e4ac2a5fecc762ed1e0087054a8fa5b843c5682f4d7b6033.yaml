@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1419
+label: DescriptiveSub-clauses
+title_raw: '- (DescriptiveSub-clauses)'
+title: '- (DescriptiveSub-clauses)'
+reading: null
+romanized_label: DescriptiveSub-clauses
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=DescriptiveSub-clauses
+archive_url: https://web.archive.org/web/20051226024546id_/http://jgram.org:80/pages/viewOne.php?tagE=DescriptiveSub-clauses
+archive_timestamp: '20051226024546'
+retrieved_at: '2026-10-04T02:34:58+00:00'
+archive_digest: WKC7NJTX7OBXURNYPHF7OY4ZGLOK7OX6
+response_sha256: 8d5fc2e970ddfdc13cd690ee00d8cccbec0b98e81979efd2d6521c12c0bf4636
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (DescriptiveSub-clauses)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (DescriptiveSub-clauses)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: DescriptiveSub-clauses
+    id: 1419
+    title_raw: '- (DescriptiveSub-clauses)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=DescriptiveSub-clauses
+    response_sha256: 8d5fc2e970ddfdc13cd690ee00d8cccbec0b98e81979efd2d6521c12c0bf4636
+    section: Tutorial
+    section_html_sha256: 279d3a828268521dff29112503e2efc8dda99b73b772930dac324d321fb3e585
+    section_text_sha256: 64992a387528fe842e8be89c37969917c891beb2446db2088be23842cc8fb74f
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8115
+    source_byte_length: 8820
+    section_bytes_sha256: c1b6d350fe0862c3eedb1ecc6ddc533af8e133f359c5419f1fc0d1ae7e9a7c7e
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226024546'

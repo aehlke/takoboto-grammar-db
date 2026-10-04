@@ -1,0 +1,74 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1737
+label: madeni
+title_raw: までに [までに] (madeni)
+title: までに
+reading: までに
+romanized_label: madeni
+category: grammar
+jlpt_level_original: '3'
+meaning: by __[day, date, time, etc.]__
+meaning_example: Turn in the report by Friday.
+credits_raw: Chad
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=madeni
+archive_url: https://web.archive.org/web/20200215025331id_/http://jgram.org:80/pages/viewOne.php?tagE=madeni
+archive_timestamp: '20200215025331'
+retrieved_at: '2026-10-04T00:54:52+00:00'
+archive_digest: PNMJWPI5L3XEXSYZXYDBXLXNXIIAOZDK
+response_sha256: 6ccbc26863d1f1d15aa913b353c4759360cf101924eb304a593e40272ba833a7
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "までに is giving a time limit which must be kept. Finishing the required action before is also fine.\n\n\n\r\nIn opposition まで denotes an action etc. which continues until the given time and does not finish before."
+    html: "までに is giving a time limit which must be kept. Finishing the required action before is also fine.<br/>\n<br/>\r\nIn opposition まで denotes an action etc. which continues until the given time and does not finish before."
+    credits_raw: Chad
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: Cannot be used with continuous action/state, such as "aru/iru".  See made de for subtle difference.
+    html: Cannot be used with continuous action/state, such as "aru/iru".  See made de for subtle difference.
+    credits_raw: american57
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 8119
+    position: 0
+    japanese: 明日までにそれを済ませてしまうべきです。
+    body_text: "明日までにそれを済ませてしまうべきです。 \n\n\t\tYou ought to have done it by tomorrow."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ明日までにそれを済ませてしまうべきです。\">\n\t\t\t\t明日<strong>までに</strong>それを済ませてしまうべきです。<strong></strong></a> <br/>\n\t\tYou ought to have done it by tomorrow. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8670
+    position: 1
+    japanese: お昼までに戻らないといけない。
+    body_text: "お昼までに戻らないといけない。\r \n\n\t\t(I) need to be back by noon."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJお昼までに戻らないといけない。\">\n\t\t\t\tお昼<strong>までに</strong>戻らないといけない。\r<strong></strong></a> <br/>\n\t\t(I) need to be back by noon. \n\t\t<strong> </strong>"
+    credits_raw: mdchachi
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "までに [までに] (madeni)\n    Meaning: by __[day, date, time, etc.]__ \n    Example: Turn in the report by Friday.\n    JLPT Level: 3\n    Category: grammar\n    Author: Chad"
+    html: |-
+      <span>までに [までに] (madeni)</span><br/>    <span><b>Meaning</b>: by __[day, date, time, etc.]__ </span><br/>    <b>Example</b>: <i>Turn in the report by Friday.</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Chad</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215025331'

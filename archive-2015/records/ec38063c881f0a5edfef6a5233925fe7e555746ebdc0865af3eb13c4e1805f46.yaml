@@ -1,0 +1,82 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1426
+label: even
+title_raw: (even)
+title: (even)
+reading: null
+romanized_label: even
+category: lesson
+jlpt_level_original: '0'
+meaning: Expressing the minimum expectation
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=even
+archive_url: https://web.archive.org/web/20150224235812id_/http://www.jgram.org/pages/viewOne.php?tagE=even
+archive_timestamp: '20150224235812'
+retrieved_at: '2026-10-03T16:08:26+00:00'
+archive_digest: KQ3ECP7KFLXD2VSPQW4EV6RKAUNOMZ4Z
+response_sha256: 420d676c1eace434fb08d7f15f8aba6f3c85d7a6305568e7d09784b21417d2bd
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries:
+  - position: 0
+    target_label: sae
+    label: sae
+    annotation_text: sae [dc]
+    annotation_html: |-
+      <a href="http://www.jgram.org/pages/viewOne.php?tagE=sae">sae</a> [<a href="http://www.jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: oroka
+    label: oroka
+    annotation_text: oroka [dc]
+    annotation_html: |-
+      <a href="http://www.jgram.org/pages/viewOne.php?tagE=oroka">oroka</a> [<a href="http://www.jgram.org/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "(even)\n    Meaning: Expressing the minimum expectation \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (even)</span><br/>    <span><b>Meaning</b>: Expressing the minimum expectation </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: even
+    id: 1426
+    title_raw: (even)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=even
+    response_sha256: 420d676c1eace434fb08d7f15f8aba6f3c85d7a6305568e7d09784b21417d2bd
+    section: Tutorial
+    section_html_sha256: ed5e386c70bcd77a92760674fce7ec9f4d8bd49a081b9831d12312c80a9760b8
+    section_text_sha256: 0cd9977b068e9a98d564669ceda62f0a0bc94b89cd235824681f196e085aa1b2
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8800
+    source_byte_length: 6655
+    section_bytes_sha256: d95eb35d209e3bcbb47419cb37c6f4048bfc5c196ac518d43bff154714446a6f
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224235812'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 66844982
+  length: 7400
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 5656a58436e4e41974ac80c1421045bcbc2cc2aabb48808e8fd575c8fd206ff4

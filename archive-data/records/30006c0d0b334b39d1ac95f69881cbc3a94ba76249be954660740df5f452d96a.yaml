@@ -1,0 +1,251 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 899
+label: warini
+title_raw: わりに [わりに] (warini)
+title: わりに
+reading: わりに
+romanized_label: warini
+category: lesson
+jlpt_level_original: '2'
+meaning: considering ..., for ...
+meaning_example: she looks good for her age
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=warini
+archive_url: https://web.archive.org/web/20200215031907id_/http://jgram.org:80/pages/viewOne.php?tagE=warini
+archive_timestamp: '20200215031907'
+retrieved_at: '2026-10-04T04:38:45+00:00'
+archive_digest: 4UJERU7VFEIN3DC5OAVBTPSQEAPKTZ4Z
+response_sha256: adae226f2599cf614f51696accc9c3b749c5a07f07f945d9ce74747fdb3f6ca5
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "わりに\n\r\nrather \n\r\nfairly\n\r\nrelatively\n\r\ncomparatively"
+    html: "わりに<br/>\r\nrather <br/>\r\nfairly<br/>\r\nrelatively<br/>\r\ncomparatively<br/>"
+    credits_raw: demcjojo
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "「ＡのわりにＢ」\n\r\n＊This grammar expresses a judgement in which the situation expressed by Ｂ does not meet the expectations of Ａ or seem like what Ａ implies.\n\n\n\r\nFORMATION:\n\r\nＶ(plain form) + わりに\n\r\nＮ + の + わりに\n\r\nいＡ + わりに\n\r\nなＡ + な + わりに"
+    html: "「ＡのわりにＢ」<br/>\r\n＊This grammar expresses a judgement in which the situation expressed by Ｂ does not meet the expectations of Ａ or seem like what Ａ implies.<br/>\n<br/>\r\nFORMATION:<br/>\r\nＶ(plain form) + わりに<br/>\r\nＮ + の + わりに<br/>\r\nいＡ + わりに<br/>\r\nなＡ + な + わりに"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 402
+    position: 0
+    japanese: 彼は年のわりに老けて見える。
+    body_text: "彼は年のわりに老けて見える。 \n\n\t\tHe looks old \n\t\tfor his \n\t\tage."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は年のわりに老けて見える。\">\n\t\t\t\t彼は年の<strong>わりに</strong>老けて見える。<strong></strong></a> <br/>\n\t\tHe looks old \n\t\t<strong>for his </strong>\n\t\tage."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1131
+    position: 1
+    japanese: 高いわりに美味しくない
+    body_text: "高いわりに美味しくない \n\nFor the price \n\t\tit's not very tasty"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ高いわりに美味しくない\">\n高い<strong>わりに</strong>美味しくない<strong></strong></a> <br/>\n<strong>For the price </strong>\n\t\tit's not very tasty"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1614
+    position: 2
+    japanese: 二年間居たわりには日本語が・悪くはない・うまくはない
+    body_text: "二年間居たわりには日本語が・悪くはない・うまくはない \n\nFor \n\t\tthe two years he stayed here, his japanese is not bad / good"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ二年間居たわりには日本語が・悪くはない・うまくはない\">\n二年間居た<strong>わりには</strong>日本語が・悪くはない・うまくはない<strong></strong></a> <br/>\n<strong>For </strong>\n\t\tthe two years he stayed here, his japanese is not bad / good"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3229
+    position: 3
+    japanese: 日本に長く住んでいるわりに日本のことを知らない
+    body_text: "日本に長く住んでいるわりに日本のことを知らない \n\nFor \n\t\tsomeone who has lived in Japan for such a long time, he sure doesn't know much about Japan"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ日本に長く住んでいるわりに日本のことを知らない\">\n\t\t\t\t日本に長く住んでいる<strong>わりに</strong>日本のことを知らない<strong></strong></a> <br/>\n<strong>For </strong>\n\t\tsomeone who has lived in Japan for such a long time, he sure doesn't know much about Japan"
+    credits_raw: kankun
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4733
+    position: 4
+    japanese: あなたは年のわりに若く見える。
+    body_text: "あなたは年のわりに若く見える。 \n\n\t\tYou look young \n\t\tfor \n\t\tyour age."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあなたは年のわりに若く見える。\">\n\t\t\t\tあなたは年の<strong>わりに</strong>若く見える。<strong></strong></a> <br/>\n\t\tYou look young \n\t\t<strong>for </strong>\n\t\tyour age."
+    credits_raw: miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4734
+    position: 5
+    japanese: 年のわりにはトムはよくやった。
+    body_text: "年のわりにはトムはよくやった。 \n\n\t\tTom did well \n\t\tconsidering \n\t\this age."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ年のわりにはトムはよくやった。\">\n年の<strong>わりに</strong>はトムはよくやった。<strong></strong></a> <br/>\n\t\tTom did well \n\t\t<strong>considering </strong>\n\t\this age."
+    credits_raw: miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4735
+    position: 6
+    japanese: この布は値段の割に品質が良い。
+    body_text: "この布は値段の割に品質が良い。 \n\n\t\tThis cloth is good in quality \n\t\tfor \n\t\tits price."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの布は値段の割に品質が良い。\">\n\t\t\t\tこの布は値段の<strong>割に</strong>品質が良い。<strong></strong></a> <br/>\n\t\tThis cloth is good in quality \n\t\t<strong>for </strong>\n\t\tits price."
+    credits_raw: miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4736
+    position: 7
+    japanese: ダイエットは非常な努力を要するが、その割に成果は少ない。
+    body_text: "ダイエットは非常な努力を要するが、その割に成果は少ない。 \n\n\t\tDieting takes up so much human endeavour with so little to show \n\t\tfor \n\t\tit."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJダイエットは非常な努力を要するが、その割に成果は少ない。\">\n\t\t\t\tダイエットは非常な努力を要するが、その<strong>割に</strong>成果は少ない。<strong></strong></a> <br/>\n\t\tDieting takes up so much human endeavour with so little to show \n\t\t<strong>for </strong>\n\t\tit."
+    credits_raw: miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4737
+    position: 8
+    japanese: 彼は経験がない割には良くやっている。
+    body_text: "彼は経験がない割には良くやっている。 \n\n\t\tHe is doing very well \n\t\tconsidering \n\t\the lacks experience."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は経験がない割には良くやっている。\">\n\t\t\t\t彼は経験がない<strong>割に</strong>は良くやっている。<strong></strong></a> <br/>\n\t\tHe is doing very well \n\t\t<strong>considering </strong>\n\t\the lacks experience."
+    credits_raw: miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6582
+    position: 9
+    japanese: お金がないと言っているわりに、よく買い物をするね。
+    body_text: "お金がないと言っているわりに、よく買い物をするね。 \n\n\t\tEven though you say you have no money, you go shopping a lot, don't you?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJお金がないと言っているわりに、よく買い物をするね。\">\n\t\t\t\tお金がないと言っている<strong>わりに</strong>、よく買い物をするね。<strong></strong></a> <br/>\n\t\tEven though you say you have no money, you go shopping a lot, don't you? \n\t\t<strong> </strong>"
+    credits_raw: hana
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7144
+    position: 10
+    japanese: 父は、普通ならとっくに引退している年齢だが、年をとっているわりには元気だ。
+    body_text: "父は、普通ならとっくに引退している年齢だが、年をとっているわりには元気だ。 \n\n\t\tMy Father has retired his job already. \n\t\tHowever, \n\t\tHe seems still young."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ父は、普通ならとっくに引退している年齢だが、年をとっているわりには元気だ。\">\n\t\t\t\t父は、普通ならとっくに引退している年齢だが、年をとっている<strong>わりに</strong>は元気だ。<strong></strong></a> <br/>\n\t\tMy Father has retired his job already. \n\t\t<strong>However, </strong>\n\t\tHe seems still young."
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7178
+    position: 11
+    japanese: なるほど彼は若いが、年の割りには賢い。
+    body_text: "なるほど彼は若いが、年の割りには賢い。 \n\n\t\tIt is true that he is young, \n\t\tbut \n\t\the is smart for his age."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJなるほど彼は若いが、年の割りには賢い。\">\n\t\t\t\tなるほど彼は若いが、年の<strong>割りには</strong>賢い。<strong></strong></a> <br/>\n\t\tIt is true that he is young, \n\t\t<strong>but </strong>\n\t\the is smart for his age."
+    credits_raw: josue64
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8522
+    position: 12
+    japanese: その子は年の割りに小柄だ。
+    body_text: "その子は年の割りに小柄だ。\r \n\n\t\tThe boy is small for his age."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJその子は年の割りに小柄だ。\">\n\t\t\t\tその子は年の割りに小柄だ。\r<strong></strong><strong></strong></a> <br/>\n\t\tThe boy is small for his age. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8523
+    position: 13
+    japanese: 彼はブラジルにいた割りにはポルトガル語が下手だ。
+    body_text: "彼はブラジルにいた割りにはポルトガル語が下手だ。 \n\nDespite the fact \n\t\the has been to Brazil, he isn't good at Portuguese."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼はブラジルにいた割りにはポルトガル語が下手だ。\">\n\t\t\t\t彼はブラジルにいた<strong>割りに</strong>はポルトガル語が下手だ。<strong></strong></a> <br/>\n<strong>Despite the fact </strong>\n\t\the has been to Brazil, he isn't good at Portuguese."
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Kanji version 割に
+    html: Kanji version 割に
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: "in Ex 3>\n\r\n　　悪くはない\n\r\n　　上手くない\n\r\nwhy does the negative case take a は？"
+    html: "in Ex 3&gt;<br/>\r\n　　悪く<b>は</b>ない<br/>\r\n　　上手くない<br/>\r\nwhy does the negative case take a は？"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Miki
+    text: "You can say 悪くない。\n\r\nは here is used to emphasis \"bad\".\n\r\nSo you can say 上手く_は_ない。, too."
+    html: "You can say 悪くない。<br/>\r\nは here is used to emphasis \"bad\".<br/>\r\nSo you can say 上手く_は_ない。, too."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: bamboo4
+    text: Using 上手く probalby would confuse students. Why not use うまく like all Japanese would use?
+    html: Using 上手く probalby would confuse students. Why not use うまく like all Japanese would use?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bamboo4
+    text: Corrected 上手く to うまく.
+    html: |-
+      Corrected 上手く to うまく.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Ludi
+    text: "Same as (な)のに // にしては //  ...だが、...\n\r\n「A(の)わりにB」＝「Bの状態は、Aらしくない・Aに合わない」という評価を表す。"
+    html: "Same as (な)のに // にしては //  ...だが、...<br/>\r\n「A(の)わりにB」＝「Bの状態は、Aらしくない・Aに合わない」という評価を表す。<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: toshiteha
+    label: toshiteha
+    annotation_text: toshiteha [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=toshiteha">toshiteha</a> [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: nishiteha
+    label: nishiteha
+    annotation_text: nishiteha [rubyhatchet]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=nishiteha">nishiteha</a> [<a href="http://jgram.org:80/pages/contributions.php?author=rubyhatchet">rubyhatchet</a>]
+    credits_raw: rubyhatchet
+sections:
+  - kind: header
+    text: "わりに [わりに] (warini)\n    Meaning: considering ..., for ... \n    Example: she looks good for her age\n    JLPT Level: 2\n    Category: lesson\n    Author: dc"
+    html: |-
+      <span>わりに [わりに] (warini)</span><br/>    <span><b>Meaning</b>: considering ..., for ... </span><br/>    <b>Example</b>: <i>she looks good for her age</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215031907'

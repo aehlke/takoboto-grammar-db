@@ -1,0 +1,193 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1517
+label: naka, ue, shita, etc.
+title_raw: 〜中に、〜上に、〜下に、など ([〜なかに、〜うえに、〜したに、など] )(naka, ue, shita, etc.)
+title: 〜中に、〜上に、〜下に、など
+reading: 〜なかに、〜うえに、〜したに、など
+romanized_label: naka, ue, shita, etc.
+category: grammar
+jlpt_level_original: '3'
+meaning: Talking about relative location of an object ある物について立地を説明するために
+meaning_example: My hat is in your car
+credits_raw: Xephyer
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=naka,+ue,+shita,+etc.
+archive_url: https://web.archive.org/web/20200215021957id_/http://jgram.org:80/pages/viewOne.php?tagE=naka,+ue,+shita,+etc.
+archive_timestamp: '20200215021957'
+retrieved_at: '2026-10-04T01:08:20+00:00'
+archive_digest: 6Y355LIMVCGGJCNKRFN6FURV3RXOWHMP
+response_sha256: d7498487db514960e3fe7cac7a13e298e053f3311d816f487734836f7777fa41
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Location is specified with the combination of a location noun and/or relative place word (上、下、中、外、後ろ、前、横、そば）and the location marker に､and one of the two existance verbs ある or いる\n\n\n\r\nある　is used when talking about inanimate objects or states of being. while いる　is used for animate objects.\n\n\n\r\nMy dog is in your car\n\r\nわたしの犬はあなたの車にいます｡\n\r\nMy hat is in your car\n\r\nわたしのぼうしはあなたの車にあります｡\n\n\n\r\nIf you want to specify a relative location IE in something, next to something, on something. you combine the　location noun with the relative location word using the posessive particle　の\n\n\n\r\nOn the desk\n\r\nつくえの上\n\r\nIn the bag\n\r\nかばんの中\n\r\nby the tv\n\r\nテレビの横\n\r\nbehind the car\n\r\n車の後ろ\n\r\ninfront of the computer\n\r\nパャRンの前\n\n\n\r\nbecareful to include the location particle に at the end of the relative location statement.\n\r\nで can also be used for location, but not in combination with the いる　and ある verbs."
+    html: "Location is specified with the combination of a location noun and/or relative place word (上、下、中、外、後ろ、前、横、そば）and the location marker に､and one of the two existance verbs ある or いる<br/>\n<br/>\r\nある　is used when talking about inanimate objects or states of being. while いる　is used for animate objects.<br/>\n<br/>\r\nMy dog is in your car<br/>\r\nわたしの犬はあなたの車にいます｡<br/>\r\nMy hat is in your car<br/>\r\nわたしのぼうしはあなたの車にあります｡<br/>\n<br/>\r\nIf you want to specify a relative location IE in something, next to something, on something. you combine the　location noun with the relative location word using the posessive particle　の<br/>\n<br/>\r\nOn the desk<br/>\r\nつくえの上<br/>\r\nIn the bag<br/>\r\nかばんの中<br/>\r\nby the tv<br/>\r\nテレビの横<br/>\r\nbehind the car<br/>\r\n車の後ろ<br/>\r\ninfront of the computer<br/>\r\nパャRンの前<br/>\n<br/>\r\nbecareful to include the location particle に at the end of the relative location statement.<br/>\r\nで can also be used for location, but not in combination with the いる　and ある verbs.<br/>\n<br/>"
+    credits_raw: tigert
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 5901
+    position: 0
+    japanese: ''
+    body_text: 箱の中に、なにがあるの？
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ\">\n<strong></strong><strong></strong></a> <br/>\n\t\t箱の中に、なにがあるの？ \n\t\t<strong> </strong>"
+    credits_raw: karekora
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5902
+    position: 1
+    japanese: "スポーツ\r\nの中に、どちらが一番好き？"
+    body_text: "スポーツ\r\nの中に、どちらが一番好き？ \n\nout of \n\t\tall the sports, which do you like best?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJスポーツの中に、どちらが一番好き？\">\n\t\t\t\tスポーツ\r\n<strong>の中に</strong>、どちらが一番好き？<strong></strong></a> <br/>\n<strong>out of </strong>\n\t\tall the sports, which do you like best?"
+    credits_raw: karekora
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6634
+    position: 2
+    japanese: その建物に銀行がありますか｡
+    body_text: "その建物に銀行がありますか｡\r \n\n\t\tIs there a bank in that building?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJその建物に銀行がありますか｡\">\n\t\t\t\tその建物に銀行がありますか｡\r<strong></strong><strong></strong></a> <br/>\n\t\tIs there a bank in that building? \n\t\t<strong> </strong>"
+    credits_raw: tigert
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6635
+    position: 3
+    japanese: ドアの近いにあるかばんは誰のですか｡
+    body_text: "ドアの近いにあるかばんは誰のですか｡\r \n\n\t\twhos bag is that by the door."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJドアの近いにあるかばんは誰のですか｡\">\n\t\t\t\tドアの近いにあるかばんは誰のですか｡\r<strong></strong><strong></strong></a> <br/>\n\t\twhos bag is that by the door. \n\t\t<strong> </strong>"
+    credits_raw: tigert
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6636
+    position: 4
+    japanese: 車が家の左に止まっておいたよ｡
+    body_text: "車が家の左に止まっておいたよ｡\r \n\n\t\tI parked the car on the left side of the house."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ車が家の左に止まっておいたよ｡\">\n\t\t\t\t車が家の左に止まっておいたよ｡\r<strong></strong><strong></strong></a> <br/>\n\t\tI parked the car on the left side of the house. \n\t\t<strong> </strong>"
+    credits_raw: tigert
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6637
+    position: 5
+    japanese: チキンは冷凍庫の中です｡
+    body_text: "チキンは冷凍庫の中です｡\r \n\n\t\tThe chicken is in the freezer."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJチキンは冷凍庫の中です｡\">\n\t\t\t\tチキンは冷凍庫の中です｡\r<strong></strong><strong></strong></a> <br/>\n\t\tThe chicken is in the freezer. \n\t\t<strong> </strong>"
+    credits_raw: tigert
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6638
+    position: 6
+    japanese: 郵便局はまっすぐに行って､右側にあります｡
+    body_text: "郵便局はまっすぐに行って､右側にあります｡\r \n\n\t\tThe post office is straight down and on the right."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ郵便局はまっすぐに行って､右側にあります｡\">\n\t\t\t\t郵便局はまっすぐに行って､右側にあります｡\r<strong></strong><strong></strong></a> <br/>\n\t\tThe post office is straight down and on the right. \n\t\t<strong> </strong>"
+    credits_raw: tigert
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6639
+    position: 7
+    japanese: 授業は２階にあります｡
+    body_text: "授業は２階にあります｡ \n\n\t\tthe class is on the second floor."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ授業は２階にあります｡\">\n\t\t\t\t授業は２階にあります｡<strong></strong><strong></strong></a> <br/>\n\t\tthe class is on the second floor. \n\t\t<strong> </strong>"
+    credits_raw: tigert
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "Is this a grammar entry?\n\n\n\r\nex#5902 J is strange.  I guess you ment スポーツでは、どれが／何が 一番好き（ですか）？　What sport do you like best?"
+    html: "Is this a grammar entry?<br/>\n<br/>\r\nex<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=naka,+ue,+shita,+etc.#5902\">#5902</a></b> J is strange.  I guess you ment スポーツでは、どれが／何が 一番好き（ですか）？　What sport do you like best?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Cleber
+    text: "I think the example ex#5902 is right. I read already a sentence like this:\n\r\nkudamono no nakani, dochiraga ichibansukidesuka."
+    html: "I think the example ex<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=naka,+ue,+shita,+etc.#5902\">#5902</a></b> is right. I read already a sentence like this:<br/>\r\nkudamono no nakani, dochiraga ichibansukidesuka."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: dbartlett95
+    text: |-
+      According to my Japanese friend they never use "の中に" when you are picking items out of a list (like picking your favorite).   They say, "スポーツの中で、どちらが一番好き？　I think that "の中に" translates more to "within" and "の中で”is "in or out of".  So the sentence 箱の中に、なにがあるの？ is correct because it can be translated as "What is there within the box?"
+    html: |-
+      According to my Japanese friend they never use "の中に" when you are picking items out of a list (like picking your favorite).   They say, "スポーツの中で、どちらが一番好き？　I think that "の中に" translates more to "within" and "の中で”is "in or out of".  So the sentence 箱の中に、なにがあるの？ is correct because it can be translated as "What is there within the box?"<br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: bsloh
+    text: |-
+      As what i get from the book it should be "スポーツの中で、どちらが一番好きですか" . As what Cleber's example, it should be "果物の中で、どちらが一番好きですか" in English "Among the fruits what(which one) is your favourite". Please correct me if i am wrong どうぞ宜しくお願いします.
+    html: |-
+      As what i get from the book it should be "スポーツの中で、どちらが一番好きですか" . As what Cleber's example, it should be "果物の中で、どちらが一番好きですか" in English "Among the fruits what(which one) is your favourite". Please correct me if i am wrong どうぞ宜しくお願いします.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bsloh
+    text: "の中に is to indicate object location, for example スパートの中に本屋があります。(Bookshop is in the supermarket.)\n\n\n\r\nの中で is exlpain as \"among the category\", for example 果物の中で、どちらが一番すきですか。(Among the fruits,what is your favourite?)"
+    html: "の中に is to indicate object location, for example スパートの中に本屋があります。(Bookshop is in the supermarket.)<br/>\n<br/>\r\nの中で is exlpain as \"among the category\", for example 果物の中で、どちらが一番すきですか。(Among the fruits,what is your favourite?)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: bamboo4
+    text: 'ex #5902  の中に should be changed to 中で(なかで）. Also "out of" should be "among".'
+    html: |-
+      ex <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=naka,+ue,+shita,+etc.#5902">#5902</a></b>  の中に should be changed to 中で(なかで）. Also "out of" should be "among".
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: tigert
+    text: |-
+      I hope you don`t mind but I added some grammar to your grammar note. As for に and で they are used in much the same way, but they are not interchangable. に　is used for static states of being, while で is used for dynamic states or action. if your verb is いる､ある　use に　if its anything else で would be a good bet.
+    html: |-
+      I hope you don`t mind but I added some grammar to your grammar note. As for に and で they are used in much the same way, but they are not interchangable. に　is used for static states of being, while で is used for dynamic states or action. if your verb is いる､ある　use に　if its anything else で would be a good bet.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      〜中に、〜上に、〜下に、など ([〜なかに、〜うえに、〜したに、など] )(naka, ue, shita, etc.)
+          Meaning: Talking about relative location of an object ある物について立地を説明するために
+          Example: My hat is in your car
+          JLPT Level: 3
+          Category: grammar
+          Author: Xephyer
+    html: |-
+      <span>〜中に、〜上に、〜下に、など ([〜なかに、〜うえに、〜したに、など] )(naka, ue, shita, etc.)</span><br/>    <span><b>Meaning</b>: Talking about relative location of an object ある物について立地を説明するために</span><br/>    <b>Example</b>: <i>My hat is in your car</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Xephyer</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215021957'

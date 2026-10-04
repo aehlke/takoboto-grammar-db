@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1433
+label: reasoning
+title_raw: (reasoning)
+title: (reasoning)
+reading: null
+romanized_label: reasoning
+category: lesson
+jlpt_level_original: '0'
+meaning: Hypothesizing and Concluding （わけ、〜とする）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=reasoning
+archive_url: https://web.archive.org/web/20200215022302id_/http://jgram.org:80/pages/viewOne.php?tagE=reasoning
+archive_timestamp: '20200215022302'
+retrieved_at: '2026-10-04T04:16:26+00:00'
+archive_digest: 5L6H5Z3BPGSE62TLHZ5WDBHCPIUXFPGZ
+response_sha256: 004f8868995de79edca814cdd4ec4eafee61ff55fcd32886fa4d56be40e1325e
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(reasoning)\n    Meaning: Hypothesizing and Concluding （わけ、〜とする） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (reasoning)</span><br/>    <span><b>Meaning</b>: Hypothesizing and Concluding （わけ、〜とする） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: reasoning
+    id: 1433
+    title_raw: (reasoning)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=reasoning
+    response_sha256: 004f8868995de79edca814cdd4ec4eafee61ff55fcd32886fa4d56be40e1325e
+    section: Tutorial
+    section_html_sha256: 7c9dbd28f8f89b960d1559f89d0321308620dcae942915ff2e3cfacedd3b02f3
+    section_text_sha256: f684df3408f3a8cfc1f9e3e30d1dc85182aeebdc25b55202be0852eb989389cf
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8084
+    source_byte_length: 12084
+    section_bytes_sha256: 1503bb1e21f0240897e584c1021a80a673da96d20b64f7085322af499d713e16
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215022302'

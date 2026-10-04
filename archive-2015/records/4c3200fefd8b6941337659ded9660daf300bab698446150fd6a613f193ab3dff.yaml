@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1575
+label: tendency
+title_raw: Tendencies [〜がち、〜つつ、きらいがある] (tendency)
+title: Tendencies
+reading: 〜がち、〜つつ、きらいがある
+romanized_label: tendency
+category: lesson
+jlpt_level_original: '3'
+meaning: Tendencies （〜がち、〜つつ、きらいがある）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=tendency
+archive_url: https://web.archive.org/web/20150224230935id_/http://www.jgram.org/pages/viewOne.php?tagE=tendency
+archive_timestamp: '20150224230935'
+retrieved_at: '2026-10-03T16:04:17+00:00'
+archive_digest: 7D2SNXMODYL3PKVK4MCFM6LJOKJH6UKR
+response_sha256: 519ef3aa7e6247fa8cbf450c54ecd61f077f392e9dd685fd1c75062778d26eea
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "Tendencies [〜がち、〜つつ、きらいがある] (tendency)\n    Meaning: Tendencies （〜がち、〜つつ、きらいがある） \n    JLPT Level: 3\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Tendencies [〜がち、〜つつ、きらいがある] (tendency)</span><br/>    <span><b>Meaning</b>: Tendencies （〜がち、〜つつ、きらいがある） </span><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: tendency
+    id: 1575
+    title_raw: Tendencies [〜がち、〜つつ、きらいがある] (tendency)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=tendency
+    response_sha256: 519ef3aa7e6247fa8cbf450c54ecd61f077f392e9dd685fd1c75062778d26eea
+    section: Tutorial
+    section_html_sha256: c0eec4ea0a31b40346668f5943742dd6613313faab36bf04d5d796e0c9b688b8
+    section_text_sha256: c358423147409376d2db70fc9b64fedb12c7d292a7698d3c557ac1751ac465d3
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8858
+    source_byte_length: 8698
+    section_bytes_sha256: 237afea422ae53841c93d948a52652aec74e9a9a070f724a9008956281580b5d
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224230935'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 17389404
+  length: 8063
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 82a3fd2f429271b6468ae431dc5a4c39017f553495b15a3ac4381fd8286e06b5

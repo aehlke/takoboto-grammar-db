@@ -1,0 +1,1914 @@
+{
+  "started_at": "2026-10-04T04:03:30+00:00",
+  "selected_labels": 377,
+  "indexed_labels": 1414,
+  "parsed": [
+    {
+      "label": "nishiro",
+      "id": 1628,
+      "archive_timestamp": "20111011000034",
+      "key": "f826e2af415dba0179bd1d5876aab1d597caaa2ae9ee5aa140ca3da1e36d4cab"
+    },
+    {
+      "label": "nishiro; niseyo",
+      "id": 1235,
+      "archive_timestamp": "20111028074535",
+      "key": "83333948bf1563339cd4bb11d2b679260dc6b2db63a1224eb0b9f7db308c2ef8"
+    },
+    {
+      "label": "nitaenai",
+      "id": 1330,
+      "archive_timestamp": "20100903170819",
+      "key": "eea067a8a440f116f54a7a1711acf88ba90c3c78af210a045273ef36601f9406"
+    },
+    {
+      "label": "nochange",
+      "id": 1436,
+      "archive_timestamp": "20200215022222",
+      "key": "43c98e1fc067cc7980e39d87d34f587aecac061919f3f0352e2b45a815c506f1"
+    },
+    {
+      "label": "nukinishiteha",
+      "id": 1591,
+      "archive_timestamp": "20070707083801",
+      "key": "2bc9d3c5251887c9c5aa378c8e6017959a3dff920f99621c9ded66e132e784d5"
+    },
+    {
+      "label": "numbers",
+      "id": 1441,
+      "archive_timestamp": "20200215031409",
+      "key": "f3c7807d475073ba009bf4801b2d934e9f0126cb96dd19a27dbffcae23a7f5a3"
+    },
+    {
+      "label": "othergrammar",
+      "id": 1579,
+      "archive_timestamp": "20200215022242",
+      "key": "b28b2df1710f74db4602c2e210567083e602fdc15a1e213c3641837b0e62e4db"
+    },
+    {
+      "label": "particles",
+      "id": 1435,
+      "archive_timestamp": "20200215031430",
+      "key": "364f583eec28f26a61e8d762d50d41b8ba5da040b3fe55f6f4c0972ddd7106e2"
+    },
+    {
+      "label": "particles2",
+      "id": 1443,
+      "archive_timestamp": "20200215031435",
+      "key": "1aaadbfa4b371151375d60b5c3058e97d4fe2a3376df712d495e70f6a90bfa95"
+    },
+    {
+      "label": "particles3",
+      "id": 1440,
+      "archive_timestamp": "20200215022247",
+      "key": "568013f491f1ed5c5860f1c66b0b0d6feccb0d84d21a2b4d7b29b479d3ee52e9"
+    },
+    {
+      "label": "particles_ex",
+      "id": 1570,
+      "archive_timestamp": "20200215022252",
+      "key": "e896685da6de0c9411e4bbe78493d0e42b2281ccd7a6059734953f0a93f747f4"
+    },
+    {
+      "label": "passive",
+      "id": 936,
+      "archive_timestamp": "20200215024050",
+      "key": "a7f1d7bc2124decc0ebf54768f7eba0d097f04e0961ded92c4b13caf6211228d"
+    },
+    {
+      "label": "pastverb",
+      "id": 1444,
+      "archive_timestamp": "20200215024055",
+      "key": "6c13614efe6d99c3157a33f06f567bf11b767b728822dc881512c5cda82e822e"
+    },
+    {
+      "label": "polite",
+      "id": 1446,
+      "archive_timestamp": "20200216030040",
+      "key": "cad2a80df44e3abf27b7cc4c2a5f932891a32baaf2d49bc133b4013c42480a6a"
+    },
+    {
+      "label": "potential",
+      "id": 1447,
+      "archive_timestamp": "20200215024100",
+      "key": "81b6b2c874b787640efa1419ec2584c3612675594e6de28e904a59416997905a"
+    },
+    {
+      "label": "question",
+      "id": 1448,
+      "archive_timestamp": "20200215025647",
+      "key": "1f5087db919ced5c123c7f507d3fcce818cb0cf6e77c2f95a8a35e951e03fdb9"
+    },
+    {
+      "label": "quotation",
+      "id": 1445,
+      "archive_timestamp": "20200215031451",
+      "key": "fcd9bd43bf8c849a3d27ff152e095c9f2f464c26c8d1ed5bffb9d2b00cf8aa95"
+    },
+    {
+      "label": "reasoning",
+      "id": 1433,
+      "archive_timestamp": "20200215022302",
+      "key": "0c4d01e81bb3d1fd0dc4a0b4224518953794068715317ff39e0bbfc29e4ab06a"
+    },
+    {
+      "label": "saeba",
+      "id": 376,
+      "archive_timestamp": "20080210104354",
+      "key": "d1cf8277d6725f1f14761b66bc3e5b1d913fff1ace961a5dd411a82b4d57cbc7"
+    },
+    {
+      "label": "sama wo miro, iikimi da yo, hora!",
+      "id": 1612,
+      "archive_timestamp": "20171128145139",
+      "key": "a177749ff71dd58ebf91f9535efd80138f038c29fd76aee3eea8b295778a775e"
+    },
+    {
+      "label": "seiippai",
+      "id": 796,
+      "archive_timestamp": "20200215022327",
+      "key": "100cfc187e0bd8c8a3f9edb2143028a23a6bcaed5f8c82e6137ff5c9f9a603a8"
+    },
+    {
+      "label": "should",
+      "id": 1572,
+      "archive_timestamp": "20200215022352",
+      "key": "f86b1f62a8554232b940f4fd9c8d6601aae4767456df3d6cdff55a51f17b5075"
+    },
+    {
+      "label": "should do/better to/ought to/have to",
+      "id": 1397,
+      "archive_timestamp": "20200215031525",
+      "key": "0b8bebd7137e04dbb278328d1b640bd32371516932a711be67631492c29e1ebc"
+    },
+    {
+      "label": "signs",
+      "id": 1573,
+      "archive_timestamp": "20200215031531",
+      "key": "e259202cf023eab7796e37ae870c07f3034381e23084c6ee8907675b62c22fdd"
+    },
+    {
+      "label": "similar",
+      "id": 1458,
+      "archive_timestamp": "20200215022357",
+      "key": "00a9e08ce4c65c4c2471400864efd473d89a4e4f3a16bcce4346f2ed61e659ff"
+    },
+    {
+      "label": "sobireru",
+      "id": 1545,
+      "archive_timestamp": "20200215025737",
+      "key": "b514aad4424875fc476cee4b202d4b8dc945187c2ef9d0462f349458b2a9fff0"
+    },
+    {
+      "label": "somaru",
+      "id": 1522,
+      "archive_timestamp": "20200215025747",
+      "key": "5e5edcfb9ac8539dff6e00b6a242dc086273cc2afb0b4c08f836baa2925cb125"
+    },
+    {
+      "label": "soudan",
+      "id": 1030,
+      "archive_timestamp": "20200215025757",
+      "key": "fac870b832bca3cc0628655ccb83860d8723ef584f71a72b20f6cecc6b3cb98f"
+    },
+    {
+      "label": "specialexp",
+      "id": 1450,
+      "archive_timestamp": "20200215024155",
+      "key": "d0042a634a0af2b204b3f6efa5445ff388945432f9bef530e5cbd9ad7ff4467a"
+    },
+    {
+      "label": "start",
+      "id": 1434,
+      "archive_timestamp": "20200215031601",
+      "key": "cced28c6dc3f99c2396a5eaad732bf6b28142335892b1cd0e6af6cdb53f5ccfa"
+    },
+    {
+      "label": "subclause",
+      "id": 1419,
+      "archive_timestamp": "20200215031606",
+      "key": "8a4f6b28da16e50161c89e4fb6b6f4c74794a0a53aec33dd9ae5de74fb5164bc"
+    },
+    {
+      "label": "suru",
+      "id": 735,
+      "archive_timestamp": "20200215031621",
+      "key": "b8e3e6d3b3076aa0f41029133a2c407fe1564cd68d87e5703eda7bc39ded7761"
+    },
+    {
+      "label": "suru hitsuyou ga",
+      "id": 1424,
+      "archive_timestamp": "20200215025812",
+      "key": "760a301c86622de49f75c7154e9da11dfb6e47bf9e01662170d42fc854b2866d"
+    },
+    {
+      "label": "surunaru",
+      "id": 1456,
+      "archive_timestamp": "20200215031626",
+      "key": "9885820608a4cda4534d2499b40b979ba7ebfac48b87b6a134a4bf146d0de975"
+    },
+    {
+      "label": "tendency",
+      "id": 1575,
+      "archive_timestamp": "20200215022452",
+      "key": "4c3200fefd8b6941337659ded9660daf300bab698446150fd6a613f193ab3dff"
+    },
+    {
+      "label": "teyagaru",
+      "id": 1689,
+      "archive_timestamp": "20200215031716",
+      "key": "13829479afc4f805049c5eb6c02ac0aa17879f2c0415b98f5620b5c4f7863ffc"
+    },
+    {
+      "label": "timeaction2",
+      "id": 1427,
+      "archive_timestamp": "20200215025857",
+      "key": "cfe745bbb782192589e6c815a5c4bbe216b7ed329ce00cf055033a23cbecfa98"
+    },
+    {
+      "label": "todouyou",
+      "id": 1675,
+      "archive_timestamp": "20090429015457",
+      "key": "e7f87da900a01c8f357381027fbd683fcd51e7f6170aa89558ceed70490c44ad"
+    },
+    {
+      "label": "tokigatsuita",
+      "id": 382,
+      "archive_timestamp": "20080214080933",
+      "key": "fb5c420d68e0edaeea1ddd81da502f1d92ef7aae647a71497fb5c28866a91a9e"
+    },
+    {
+      "label": "tokorode",
+      "id": 868,
+      "archive_timestamp": "20090429013552",
+      "key": "1b7ad65295aa45be229f2f15986c30830231c3565d60dd3432578fc551b7664b"
+    },
+    {
+      "label": "tomonaku",
+      "id": 1496,
+      "archive_timestamp": "20100729171758",
+      "key": "fedda54211e9986c624fdfdf6226f0f2c14267910ff6ddf6e355525c841ea6f1"
+    },
+    {
+      "label": "toshitatokorode,  toshitatte, nishitatokorode, nis",
+      "id": 1693,
+      "archive_timestamp": "20100830004644",
+      "key": "ecc095edb00a94e06d38e0653500f779bcf0aa5607ce4a33191ef9fc781acfba"
+    },
+    {
+      "label": "transtype",
+      "id": 1453,
+      "archive_timestamp": "20200215024425",
+      "key": "7eae8ca63f1b4983523bd0c38f6e29690fe03fc727f939ea6f86a9277731aeb5"
+    },
+    {
+      "label": "try",
+      "id": 1454,
+      "archive_timestamp": "20200215030007",
+      "key": "1e262cd7d110812f5726055a6e672b92cde43648b76adff51a12441fbdf7e667"
+    },
+    {
+      "label": "tsudsukeru",
+      "id": 800,
+      "archive_timestamp": "20080505033113",
+      "key": "5ae55d76727fe71b862eede210336880b08fa71d7ccb970f2b3c82cae4313165"
+    },
+    {
+      "label": "unintended",
+      "id": 1452,
+      "archive_timestamp": "20200215030032",
+      "key": "c78cd93dc37c5d9269f0f1297c49940dc88627ae099868a4e9a0b46bc76190f5"
+    },
+    {
+      "label": "ushiro ni hyougen",
+      "id": 1285,
+      "archive_timestamp": "20060527171842",
+      "key": "bfc9e3af739230cdad3b9a24a525ed583f24cc76a9f92f09a0d57523eb4d7ea7"
+    },
+    {
+      "label": "ushironihyougen",
+      "id": 1285,
+      "archive_timestamp": "20060213000845",
+      "key": "847b90e4ba4ce7379f3e60665b2bfe718f3aebdbc616e86348634e281dd8e884"
+    },
+    {
+      "label": "verbs",
+      "id": 1459,
+      "archive_timestamp": "20200215031857",
+      "key": "768e0fa81cb639e8ff44dd29522061f0bb154512eeedc42495588659cb1bf790"
+    },
+    {
+      "label": "wakeniha ikanai, wakenimo ikanai",
+      "id": 1555,
+      "archive_timestamp": "20080214081231",
+      "key": "b3de7360e8cbd2124dce19172a7f56896c0f4ebed425ef6f0011cea13ce57c02"
+    },
+    {
+      "label": "want to go",
+      "id": 1531,
+      "archive_timestamp": "20060212235856",
+      "key": "3eacf97ff782c501cdf69f4963b4eb16e4dc1e098fabdb17848977622cc500df"
+    },
+    {
+      "label": "warini",
+      "id": 899,
+      "archive_timestamp": "20200215031907",
+      "key": "30006c0d0b334b39d1ac95f69881cbc3a94ba76249be954660740df5f452d96a"
+    },
+    {
+      "label": "when it comes??",
+      "id": 1654,
+      "archive_timestamp": "20181205020408",
+      "key": "c5520675ec3ebeecbd6868f940b83eaf1711283cc8ff54eb53e560545e29650f"
+    },
+    {
+      "label": "womotte",
+      "id": 1492,
+      "archive_timestamp": "20100729171958",
+      "key": "cf1c56694e4f03ebbbf3b91c22d5b8d609880c20d8c2c0290283c5c8888c7e38"
+    },
+    {
+      "label": "wooite",
+      "id": 1491,
+      "archive_timestamp": "20090122050238",
+      "key": "352d1d8b06225728d36957b2a2cc819d599e284a47a665c83121c80ee7ceb9d9"
+    },
+    {
+      "label": "wrapup4",
+      "id": 1460,
+      "archive_timestamp": "20200215022733",
+      "key": "a6350732e75f963bdeaa45004fded4df5efe2b4593a6f3cff3bb0658231bf2b1"
+    },
+    {
+      "label": "writingsys",
+      "id": 1461,
+      "archive_timestamp": "20200215024545",
+      "key": "5c7ce8264422fab9fa2744ab3a3fdef399e8a9ccf19713a93448eff24c0619a3"
+    },
+    {
+      "label": "ya ina ya",
+      "id": 1518,
+      "archive_timestamp": "20200809144121",
+      "key": "272cffb031b082111eb75e0c4530b1fed02fd8798cc155fb8fcf1ae2d7b63171"
+    },
+    {
+      "label": "yara yara",
+      "id": 1594,
+      "archive_timestamp": "20080214081406",
+      "key": "804ac8bda9a047568833882f313b4195fcfc37bc2ef0721c4965ffeed649a8e9"
+    },
+    {
+      "label": "yasukara",
+      "id": 1634,
+      "archive_timestamp": "20080618175838",
+      "key": "a995487cc0ab5c3df9b061aa3821c8debda5a4b536f69d4d1ff0bea2002833f0"
+    },
+    {
+      "label": "yasuraka",
+      "id": 1634,
+      "archive_timestamp": "20200215024555",
+      "key": "064d0f4b446e35107fcd171d3e0741d9be83c3c1782e3b9ccea200da105b30d7"
+    },
+    {
+      "label": "yatto",
+      "id": 1586,
+      "archive_timestamp": "20200215031932",
+      "key": "7cb6f31417668e01a6eacba92e9886fa3f5855d1e163b9ea68f5f3272fc385e3"
+    },
+    {
+      "label": "youdehanaika",
+      "id": 791,
+      "archive_timestamp": "20200215030152",
+      "key": "8e9f2211db2b65e7ea92da5576f1d612dece691c1b72d8c7d43ba45ece5be0b2"
+    },
+    {
+      "label": "zemeni",
+      "id": 1510,
+      "archive_timestamp": "20140327020536",
+      "key": "ed1cb3333e4e63222096a3b4d6d65b1145f1eb303107b01456bb55745c5353c6"
+    },
+    {
+      "label": "~KosoSuRe [~nai/arimasen]",
+      "id": 1793,
+      "archive_timestamp": "20181004182225",
+      "key": "d8a74d2384a8b0bc8522bbad2555caa261d38c5f5af137a530ce71f1f0cbc6d9"
+    },
+    {
+      "label": "~sobireru",
+      "id": 1545,
+      "archive_timestamp": "20060206165528",
+      "key": "303c9d17243137a148eeabf49ce4dd6001141a13761550a5fb793c7103e321ff"
+    },
+    {
+      "label": "~womonotomosezuni",
+      "id": 1110,
+      "archive_timestamp": "20100903170654",
+      "key": "922ddf9cb45879c292d8ee8402c0b66e2ab3bb04372ec1661494ce1b343b7b19"
+    },
+    {
+      "label": "~youtosuru",
+      "id": 1565,
+      "archive_timestamp": "20111028143648",
+      "key": "50860a6962bf2428dc9ffb722737486a89b196d972d2acef7523f51c2cfb18b8"
+    },
+    {
+      "label": "-wo nuki ni shite�E�` wa nuki ni shite",
+      "id": 1591,
+      "archive_timestamp": "20111104190658",
+      "key": "61869efbad981a87e62db40dfc836c90aa9c643cb6cdd40ccbc189c3eccff9c9"
+    },
+    {
+      "label": "Basic�@Japanese Grammar",
+      "id": 606,
+      "archive_timestamp": "20111011020341",
+      "key": "cef992f8ba0e2817d3caee14cf2db07003a7617da99e3a4778ae6762d1c92001"
+    },
+    {
+      "label": "Basic�@Japanese Grammer",
+      "id": 606,
+      "archive_timestamp": "20110523045338",
+      "key": "7a18d2109a4201073e986887375e5645efb2ac05ddb085cbb131b383ae33f72e"
+    },
+    {
+      "label": "Try to�@�`",
+      "id": 1565,
+      "archive_timestamp": "20100728073432",
+      "key": "8157e793ed5eed7f31a97fb00eb666946501ae02bee6a212768612868c438692"
+    },
+    {
+      "label": "amarino�`ni",
+      "id": 1630,
+      "archive_timestamp": "20111011015945",
+      "key": "1df84c25c9ef4d0082b57de0b4c1a86b15eefc58afe265f44fcfdb2763ebf961"
+    },
+    {
+      "label": "amari�@(2)",
+      "id": 1627,
+      "archive_timestamp": "20080214073356",
+      "key": "e31b26eede4e88143dd67575e076f193cfa7ff311ae29604c714dd8f804d7d1e"
+    },
+    {
+      "label": "mashite�`hazuganai",
+      "id": 1558,
+      "archive_timestamp": "20111011010239",
+      "key": "6dfd75704f31b349e88e878566f6c6026cad539ceb1f4e39b046b5e26bd03d66"
+    },
+    {
+      "label": "totemo �`nai",
+      "id": 1648,
+      "archive_timestamp": "20111010232155",
+      "key": "145de89359dd6cb81478804ec78642eade3850781856c02321ccac104e30bc7d"
+    }
+  ],
+  "excluded": [
+    {
+      "label": "nimotoduite",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918022124id_/http://jgram.org/pages/viewOne.php?tagE=nimotoduite"
+    },
+    {
+      "label": "nimotoduite; nimotoduki",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718202559id_/http://jgram.org/pages/viewOne.php?tagE=nimotoduite;%20nimotoduki"
+    },
+    {
+      "label": "nisakidatte",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20070814215034id_/http://www.jgram.org:80/pages/viewOne.php?tagE=nisakidatte"
+    },
+    {
+      "label": "nisakidatte;",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225014004id_/http://jgram.org/pages/viewOne.php?tagE=nisakidatte;"
+    },
+    {
+      "label": "nishiro;",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20070817042855id_/http://jgram.org/pages/viewOne.php?tagE=nishiro;"
+    },
+    {
+      "label": "nishitagatte",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190824012046id_/http://jgram.org/pages/viewOne.php?tagE=nishitagatte"
+    },
+    {
+      "label": "nishitagatte;",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225013412id_/http://jgram.org/pages/viewOne.php?tagE=nishitagatte;"
+    },
+    {
+      "label": "nishitewa",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190310012502id_/http://www.jgram.org/pages/viewOne.php?tagE=nishitewa"
+    },
+    {
+      "label": "nisoinai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718233908id_/http://jgram.org/pages/viewOne.php?tagE=nisoinai"
+    },
+    {
+      "label": "nitaienai1",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190716130344id_/http://www.jgram.org/pages/viewOne.php?tagE=nitaienai1"
+    },
+    {
+      "label": "nitaienai2",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170917220809id_/http://jgram.org/pages/viewOne.php?tagE=nitaienai2"
+    },
+    {
+      "label": "niwa",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170905050937id_/http://jgram.org/pages/viewOne.php?tagE=niwa"
+    },
+    {
+      "label": "niyoruto/yoreba",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918001412id_/http://jgram.org/pages/viewOne.php?tagE=niyoruto/yoreba"
+    },
+    {
+      "label": "no%20da",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190309160515id_/http://www.jgram.org/pages/viewOne.php?tagE=no%2520da"
+    },
+    {
+      "label": "nokuseni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718215903id_/http://jgram.org/pages/viewOne.php?tagE=nokuseni"
+    },
+    {
+      "label": "nomikatadeha",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918014631id_/http://jgram.org/pages/viewOne.php?tagE=nomikatadeha"
+    },
+    {
+      "label": "noni3",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190309160420id_/http://www.jgram.org/pages/viewOne.php?tagE=noni3"
+    },
+    {
+      "label": "nosueni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718234112id_/http://jgram.org/pages/viewOne.php?tagE=nosueni"
+    },
+    {
+      "label": "notation",
+      "reason": "Outside collection: category 'admin', ID 1310",
+      "archive_url": "https://web.archive.org/web/20200215031349id_/http://jgram.org:80/pages/viewOne.php?tagE=notation"
+    },
+    {
+      "label": "noun",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190825015337id_/http://jgram.org/pages/viewOne.php?tagE=noun"
+    },
+    {
+      "label": "okeru",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170917132414id_/http://jgram.org/pages/viewOne.php?tagE=okeru"
+    },
+    {
+      "label": "okikkakeni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190825015153id_/http://jgram.org/pages/viewOne.php?tagE=okikkakeni"
+    },
+    {
+      "label": "oldSiteFB",
+      "reason": "Outside collection: category 'admin', ID 1392",
+      "archive_url": "https://web.archive.org/web/20200215031414id_/http://jgram.org:80/pages/viewOne.php?tagE=oldSiteFB"
+    },
+    {
+      "label": "omou",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918024148id_/http://jgram.org/pages/viewOne.php?tagE=omou"
+    },
+    {
+      "label": "onegai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190717134047id_/http://jgram.org/pages/viewOne.php?tagE=onegai"
+    },
+    {
+      "label": "openings",
+      "reason": "Outside collection: category 'biz', ID 1004",
+      "archive_url": "https://web.archive.org/web/20200919181907id_/http://www.jgram.org/pages/viewOne.php?tagE=openings"
+    },
+    {
+      "label": "order",
+      "reason": "Outside collection: category 'biz', ID 1060",
+      "archive_url": "https://web.archive.org/web/20200215025642id_/http://jgram.org:80/pages/viewOne.php?tagE=order"
+    },
+    {
+      "label": "oro",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20061202045352id_/http://www.jgram.org:80/pages/viewOne.php?tagE=oro"
+    },
+    {
+      "label": "orode",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20061201034210id_/http://www.jgram.org:80/pages/viewOne.php?tagE=orode"
+    },
+    {
+      "label": "oroka",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718221617id_/http://jgram.org/pages/viewOne.php?tagE=oroka"
+    },
+    {
+      "label": "other pages",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190716052913id_/http://jgram.org/pages/viewOne.php?tagE=other%20pages"
+    },
+    {
+      "label": "otsuujite",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20051105215401id_/http://jgram.org:80/pages/viewOne.php?tagE=otsuujite"
+    },
+    {
+      "label": "otya wo nigosu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20180402131915id_/http://www.jgram.org:80/pages/viewOne.php?tagE=otya+wo+nigosu"
+    },
+    {
+      "label": "ou-tosuru",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918125556id_/http://jgram.org/pages/viewOne.php?tagE=ou-tosuru"
+    },
+    {
+      "label": "particles.html",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20060301160704id_/http://www.jgram.org:80/pages/viewOne.php?tagE=particles.html"
+    },
+    {
+      "label": "person",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918114804id_/http://jgram.org/pages/viewOne.php?tagE=person"
+    },
+    {
+      "label": "plain",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190819151255id_/http://jgram.org/pages/viewOne.php?tagE=plain"
+    },
+    {
+      "label": "questions",
+      "reason": "Outside collection: category 'social', ID 1106",
+      "archive_url": "https://web.archive.org/web/20200215024105id_/http://jgram.org:80/pages/viewOne.php?tagE=questions"
+    },
+    {
+      "label": "quite",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918142537id_/http://jgram.org/pages/viewOne.php?tagE=quite"
+    },
+    {
+      "label": "requests",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150224235111id_/http://www.jgram.org/pages/viewOne.php?tagE=requests"
+    },
+    {
+      "label": "results",
+      "reason": "Outside collection: category 'biz', ID 1054",
+      "archive_url": "https://web.archive.org/web/20200215022307id_/http://jgram.org:80/pages/viewOne.php?tagE=results"
+    },
+    {
+      "label": "rutokoro",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918080316id_/http://jgram.org/pages/viewOne.php?tagE=rutokoro"
+    },
+    {
+      "label": "saichuu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20111011020926id_/http://jgram.org/pages/viewOne.php?tagE=saichuu"
+    },
+    {
+      "label": "sangeetha",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225013231id_/http://jgram.org/pages/viewOne.php?tagE=sangeetha"
+    },
+    {
+      "label": "sashiageru",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190823143704id_/http://jgram.org/pages/viewOne.php?tagE=sashiageru"
+    },
+    {
+      "label": "seida",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190722110610id_/http://jgram.org/pages/viewOne.php?tagE=seida"
+    },
+    {
+      "label": "seneba",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012900id_/http://jgram.org/pages/viewOne.php?tagE=seneba"
+    },
+    {
+      "label": "shinaide",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170917122616id_/http://jgram.org/pages/viewOne.php?tagE=shinaide"
+    },
+    {
+      "label": "shiyouganai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20070814184230id_/http://www.jgram.org:80/pages/viewOne.php?tagE=shiyouganai"
+    },
+    {
+      "label": "shunkan",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190821211702id_/http://jgram.org/pages/viewOne.php?tagE=shunkan"
+    },
+    {
+      "label": "soc-closings",
+      "reason": "Outside collection: category 'social', ID 1040",
+      "archive_url": "https://web.archive.org/web/20200215031536id_/http://jgram.org:80/pages/viewOne.php?tagE=soc-closings"
+    },
+    {
+      "label": "soc-invite",
+      "reason": "Outside collection: category 'social', ID 1043",
+      "archive_url": "https://web.archive.org/web/20200215025742id_/http://jgram.org:80/pages/viewOne.php?tagE=soc-invite"
+    },
+    {
+      "label": "something",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190818041801id_/http://jgram.org/pages/viewOne.php?tagE=something"
+    },
+    {
+      "label": "sono mama no kotoba",
+      "reason": "Outside collection: category 'social', ID 1658",
+      "archive_url": "https://web.archive.org/web/20200215024145id_/http://jgram.org:80/pages/viewOne.php?tagE=sono+mama+no+kotoba"
+    },
+    {
+      "label": "sorehasateoki",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170917225147id_/http://jgram.org/pages/viewOne.php?tagE=sorehasateoki"
+    },
+    {
+      "label": "sorewasateoki",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718201136id_/http://jgram.org/pages/viewOne.php?tagE=sorewasateoki"
+    },
+    {
+      "label": "specification",
+      "reason": "Outside collection: category 'biz', ID 1056",
+      "archive_url": "https://web.archive.org/web/20200215025802id_/http://jgram.org:80/pages/viewOne.php?tagE=specification"
+    },
+    {
+      "label": "stem   dasu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20200215024200id_/http://jgram.org:80/pages/viewOne.php?tagE=stem+++dasu"
+    },
+    {
+      "label": "sukunakutomo",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718223356id_/http://jgram.org/pages/viewOne.php?tagE=sukunakutomo"
+    },
+    {
+      "label": "sura",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190720014902id_/http://www.jgram.org/pages/viewOne.php?tagE=sura"
+    },
+    {
+      "label": "tabi",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190818042354id_/http://jgram.org/pages/viewOne.php?tagE=tabi"
+    },
+    {
+      "label": "tabi,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225022601id_/http://jgram.org/pages/viewOne.php?tagE=tabi,"
+    },
+    {
+      "label": "taekimindex",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20060219022616id_/http://jgram.org:80/pages/viewOne.php?tagE=taekimindex"
+    },
+    {
+      "label": "taira",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170904152158id_/http://jgram.org/pages/viewOne.php?tagE=taira"
+    },
+    {
+      "label": "tameni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718202405id_/http://jgram.org/pages/viewOne.php?tagE=tameni"
+    },
+    {
+      "label": "tari",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20201111214630id_/http://www.jgram.org/pages/viewOne.php?tagE=tari"
+    },
+    {
+      "label": "taru",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190717134146id_/http://jgram.org/pages/viewOne.php?tagE=taru"
+    },
+    {
+      "label": "tatoe",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190718121023id_/http://jgram.org/pages/viewOne.php?tagE=tatoe"
+    },
+    {
+      "label": "technical",
+      "reason": "Outside collection: category 'biz', ID 1024",
+      "archive_url": "https://web.archive.org/web/20200215025837id_/http://jgram.org:80/pages/viewOne.php?tagE=technical"
+    },
+    {
+      "label": "tehairarenai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225014928id_/http://jgram.org/pages/viewOne.php?tagE=tehairarenai"
+    },
+    {
+      "label": "tekara",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190716052830id_/http://jgram.org/pages/viewOne.php?tagE=tekara"
+    },
+    {
+      "label": "tekaradenaito",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20070814215232id_/http://www.jgram.org:80/pages/viewOne.php?tagE=tekaradenaito"
+    },
+    {
+      "label": "tekaradenaito;",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225013348id_/http://jgram.org/pages/viewOne.php?tagE=tekaradenaito;"
+    },
+    {
+      "label": "tekartoiumono",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20180602235151id_/http://www.jgram.org:80/pages/viewOne.php?tagE=tekartoiumono"
+    },
+    {
+      "label": "teshouganai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20051105111147id_/http://jgram.org:80/pages/viewOne.php?tagE=teshouganai"
+    },
+    {
+      "label": "teshouganai;",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150302045348id_/http://jgram.org/pages/viewOne.php?tagE=teshouganai;"
+    },
+    {
+      "label": "test entry",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190718121210id_/http://jgram.org/pages/viewOne.php?tagE=test%20entry"
+    },
+    {
+      "label": "tgatsuita",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20061130033559id_/http://www.jgram.org:80/pages/viewOne.php?tagE=tgatsuita"
+    },
+    {
+      "label": "thanks",
+      "reason": "Outside collection: category 'biz', ID 1058",
+      "archive_url": "https://web.archive.org/web/20200215024320id_/http://jgram.org:80/pages/viewOne.php?tagE=thanks"
+    },
+    {
+      "label": "thao",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20171220101027id_/http://www.jgram.org:80/pages/viewOne.php?tagE=thao"
+    },
+    {
+      "label": "tieuacui",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918063755id_/http://jgram.org/pages/viewOne.php?tagE=tieuacui"
+    },
+    {
+      "label": "time",
+      "reason": "Outside collection: category 'biz', ID 1021",
+      "archive_url": "https://web.archive.org/web/20200215024325id_/http://jgram.org:80/pages/viewOne.php?tagE=time"
+    },
+    {
+      "label": "to iwazu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170917200700id_/http://jgram.org/pages/viewOne.php?tagE=to%20iwazu"
+    },
+    {
+      "label": "toiufuuni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718205201id_/http://jgram.org/pages/viewOne.php?tagE=toiufuuni"
+    },
+    {
+      "label": "toiumonodehanai;",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012529id_/http://jgram.org/pages/viewOne.php?tagE=toiumonodehanai;"
+    },
+    {
+      "label": "tokorode dokkoi",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170904082521id_/http://jgram.org/pages/viewOne.php?tagE=tokorode%20dokkoi"
+    },
+    {
+      "label": "tokoroni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20070814184059id_/http://www.jgram.org:80/pages/viewOne.php?tagE=tokoroni"
+    },
+    {
+      "label": "tokoroni,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20201111211027id_/http://www.jgram.org/pages/viewOne.php?tagE=tokoroni%2C"
+    },
+    {
+      "label": "tomoarou",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190821061902id_/http://jgram.org/pages/viewOne.php?tagE=tomoarou"
+    },
+    {
+      "label": "tomonareba",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190721040400id_/http://jgram.org/pages/viewOne.php?tagE=tomonareba"
+    },
+    {
+      "label": "toshitara",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20070816231817id_/http://www.jgram.org:80/pages/viewOne.php?tagE=toshitara"
+    },
+    {
+      "label": "toshitara,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011205id_/http://jgram.org/pages/viewOne.php?tagE=toshitara,"
+    },
+    {
+      "label": "toshitatokorode",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225014330id_/http://jgram.org/pages/viewOne.php?tagE=toshitatokorode"
+    },
+    {
+      "label": "totanni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225002424id_/http://jgram.org/pages/viewOne.php?tagE=totanni"
+    },
+    {
+      "label": "touka",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918112947id_/http://jgram.org/pages/viewOne.php?tagE=touka"
+    },
+    {
+      "label": "towaie",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190825015033id_/http://jgram.org/pages/viewOne.php?tagE=towaie"
+    },
+    {
+      "label": "tsurete,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011818id_/http://jgram.org/pages/viewOne.php?tagE=tsurete,"
+    },
+    {
+      "label": "ttan",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20061202045340id_/http://www.jgram.org:80/pages/viewOne.php?tagE=ttan"
+    },
+    {
+      "label": "uchini 3",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20111011021250id_/http://jgram.org/pages/viewOne.php?tagE=uchini+3"
+    },
+    {
+      "label": "verb",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170904085333id_/http://jgram.org/pages/viewOne.php?tagE=verb"
+    },
+    {
+      "label": "verb stem   dasu/dashita",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20200215024505id_/http://jgram.org:80/pages/viewOne.php?tagE=verb+stem+++dasu/dashita"
+    },
+    {
+      "label": "verb stem   tai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20200215030042id_/http://jgram.org:80/pages/viewOne.php?tagE=verb+stem+++tai"
+    },
+    {
+      "label": "verb-te",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170918004900id_/http://jgram.org/pages/viewOne.php?tagE=verb-te"
+    },
+    {
+      "label": "vte",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170904095309id_/http://jgram.org/pages/viewOne.php?tagE=vte"
+    },
+    {
+      "label": "wakeganai,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011550id_/http://jgram.org/pages/viewOne.php?tagE=wakeganai,"
+    },
+    {
+      "label": "wakeniha",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225013037id_/http://jgram.org/pages/viewOne.php?tagE=wakeniha"
+    },
+    {
+      "label": "wasabi",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20201101003850id_/http://www.jgram.org/pages/viewOne.php?tagE=wasabi"
+    },
+    {
+      "label": "when it comes",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190915012545id_/http://www.jgram.org:80/pages/viewOne.php?tagE=when+it+comes"
+    },
+    {
+      "label": "wo/wa",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225015337id_/http://jgram.org/pages/viewOne.php?tagE=wo/wa"
+    },
+    {
+      "label": "wohajimetosuru",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718202854id_/http://jgram.org/pages/viewOne.php?tagE=wohajimetosuru"
+    },
+    {
+      "label": "ya",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225023034id_/http://jgram.org/pages/viewOne.php?tagE=ya"
+    },
+    {
+      "label": "yappari",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20200805191158id_/http://www.jgram.org/pages/viewOne.php?tagE=yappari"
+    },
+    {
+      "label": "yappari,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011554id_/http://jgram.org/pages/viewOne.php?tagE=yappari,"
+    },
+    {
+      "label": "yaru",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190721094234id_/http://jgram.org/pages/viewOne.php?tagE=yaru"
+    },
+    {
+      "label": "youda",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170718215414id_/http://jgram.org/pages/viewOne.php?tagE=youda"
+    },
+    {
+      "label": "your",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170905045950id_/http://jgram.org/pages/viewOne.php?tagE=your"
+    },
+    {
+      "label": "youtosuru,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225041140id_/http://jgram.org/pages/viewOne.php?tagE=youtosuru,"
+    },
+    {
+      "label": "youyaku",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170904202949id_/http://jgram.org/pages/viewOne.php?tagE=youyaku"
+    },
+    {
+      "label": "zu,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011804id_/http://jgram.org/pages/viewOne.php?tagE=zu,"
+    },
+    {
+      "label": "~dasu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20111011001734id_/http://jgram.org/pages/viewOne.php?tagE=%7Edasu"
+    },
+    {
+      "label": "~ndesu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170907172401id_/http://jgram.org/pages/viewOne.php?tagE=~ndesu"
+    },
+    {
+      "label": "(yo)utoçŞśď˝žmai,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225020859id_/http://jgram.org/pages/viewOne.php?tagE=(yo)uto%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEmai,"
+    },
+    {
+      "label": "(yo)utoçŞśď˝žmai, (yo)ugaçŞśď˝žmai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011540id_/http://jgram.org/pages/viewOne.php?tagE=(yo)uto%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEmai,%20(yo)uga%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEmai"
+    },
+    {
+      "label": "(yo)uto‾mai, (yo)uga‾mai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225005401id_/http://jgram.org/pages/viewOne.php?tagE=(yo)uto%E2%80%BEmai,%20(yo)uga%E2%80%BEmai"
+    },
+    {
+      "label": "(yo)uto窶ｾmai,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225014500id_/http://jgram.org/pages/viewOne.php?tagE=(yo)uto%E7%AA%B6%EF%BD%BEmai,"
+    },
+    {
+      "label": "(yo)uto窶ｾmai, (yo)uga窶ｾmai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225005937id_/http://jgram.org/pages/viewOne.php?tagE=(yo)uto%E7%AA%B6%EF%BD%BEmai,%20(yo)uga%E7%AA%B6%EF%BD%BEmai"
+    },
+    {
+      "label": "(yo)utoﾃｧﾅ槐崙祥敘ｾmai,",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225030431id_/http://jgram.org/pages/viewOne.php?tagE=(yo)uto%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEmai,"
+    },
+    {
+      "label": "(yo)utoﾃｧﾅ槐崙祥敘ｾmai, (yo)ugaﾃｧﾅ槐崙祥敘ｾmai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011948id_/http://jgram.org/pages/viewOne.php?tagE=(yo)uto%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEmai,%20(yo)uga%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEmai"
+    },
+    {
+      "label": "-wo nuki ni shite・〜 wa nuki ni shite",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20111028140041id_/http://jgram.org/pages/viewOne.php?tagE=-wo%20nuki%20ni%20shite%E3%83%BB%E3%80%9C%20wa%20nuki%20ni%20shite"
+    },
+    {
+      "label": "Basic@Japanese Grammer",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620215439id_/http://jgram.org/pages/viewOne.php?tagE=Basic%C2%81@Japanese%20Grammer"
+    },
+    {
+      "label": "How to write a@Japanese  letter",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620081400id_/http://jgram.org/pages/viewOne.php?tagE=How%20to%20write%20a%C2%81@Japanese%20%20letter"
+    },
+    {
+      "label": "How to write a　Japanese  letter",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20190825015142id_/http://jgram.org/pages/viewOne.php?tagE=How%20to%20write%20a%E3%80%80Japanese%20%20letter"
+    },
+    {
+      "label": "QçŞśď˝ždemo",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011720id_/http://jgram.org/pages/viewOne.php?tagE=Q%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEdemo"
+    },
+    {
+      "label": "Q‾demo",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225000056id_/http://jgram.org/pages/viewOne.php?tagE=Q%E2%80%BEdemo"
+    },
+    {
+      "label": "Q窶ｾdemo",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225010922id_/http://jgram.org/pages/viewOne.php?tagE=Q%E7%AA%B6%EF%BD%BEdemo"
+    },
+    {
+      "label": "Qﾃｧﾅ槐崙祥敘ｾdemo",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012153id_/http://jgram.org/pages/viewOne.php?tagE=Q%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEdemo"
+    },
+    {
+      "label": "Suru hitsuyō ga",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20111103074228id_/http://jgram.org/pages/viewOne.php?tagE=Suru%20hitsuy%C5%8D%20ga"
+    },
+    {
+      "label": "Try to@`",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620183405id_/http://jgram.org/pages/viewOne.php?tagE=Try%20to%C2%81@%C2%81%60"
+    },
+    {
+      "label": "amarino çŞśď˝ž ni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011644id_/http://jgram.org/pages/viewOne.php?tagE=amarino%20%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BE%20ni"
+    },
+    {
+      "label": "amarino ‾ ni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225005548id_/http://jgram.org/pages/viewOne.php?tagE=amarino%20%E2%80%BE%20ni"
+    },
+    {
+      "label": "amarino 窶ｾ ni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225010222id_/http://jgram.org/pages/viewOne.php?tagE=amarino%20%E7%AA%B6%EF%BD%BE%20ni"
+    },
+    {
+      "label": "amarino ﾃｧﾅ槐崙祥敘ｾ ni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012138id_/http://jgram.org/pages/viewOne.php?tagE=amarino%20%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BE%20ni"
+    },
+    {
+      "label": "amarino`ni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620070307id_/http://jgram.org/pages/viewOne.php?tagE=amarino%C2%81%60ni"
+    },
+    {
+      "label": "amarino〜ni",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20111101003736id_/http://jgram.org/pages/viewOne.php?tagE=amarino%E3%80%9Cni"
+    },
+    {
+      "label": "baçŞśď˝žhodo",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011536id_/http://jgram.org/pages/viewOne.php?tagE=ba%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEhodo"
+    },
+    {
+      "label": "ba‾hodo",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150224230051id_/http://jgram.org/pages/viewOne.php?tagE=ba%E2%80%BEhodo"
+    },
+    {
+      "label": "ba窶ｾhodo",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225005902id_/http://jgram.org/pages/viewOne.php?tagE=ba%E7%AA%B6%EF%BD%BEhodo"
+    },
+    {
+      "label": "baﾃｧﾅ槐崙祥敘ｾhodo",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011946id_/http://jgram.org/pages/viewOne.php?tagE=ba%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEhodo"
+    },
+    {
+      "label": "deareçŞśď˝ždeare",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011707id_/http://jgram.org/pages/viewOne.php?tagE=deare%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEdeare"
+    },
+    {
+      "label": "deare‾deare",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150224234559id_/http://jgram.org/pages/viewOne.php?tagE=deare%E2%80%BEdeare"
+    },
+    {
+      "label": "deare窶ｾdeare",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225010715id_/http://jgram.org/pages/viewOne.php?tagE=deare%E7%AA%B6%EF%BD%BEdeare"
+    },
+    {
+      "label": "deareﾃｧﾅ槐崙祥敘ｾdeare",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012148id_/http://jgram.org/pages/viewOne.php?tagE=deare%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEdeare"
+    },
+    {
+      "label": "greetiｎgs",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20111028085209id_/http://jgram.org/pages/viewOne.php?tagE=greeti%EF%BD%8Egs"
+    },
+    {
+      "label": "greeti��gs",
+      "reason": "Outside collection: category 'social', ID 1039",
+      "archive_url": "https://web.archive.org/web/20111011010310id_/http://jgram.org/pages/viewOne.php?tagE=greeti%82%8Egs"
+    },
+    {
+      "label": "mashite çŞśď˝ž hazuganai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011538id_/http://jgram.org/pages/viewOne.php?tagE=mashite%20%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BE%20hazuganai"
+    },
+    {
+      "label": "mashite ‾ hazuganai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225004925id_/http://jgram.org/pages/viewOne.php?tagE=mashite%20%E2%80%BE%20hazuganai"
+    },
+    {
+      "label": "mashite 窶ｾ hazuganai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225005905id_/http://jgram.org/pages/viewOne.php?tagE=mashite%20%E7%AA%B6%EF%BD%BE%20hazuganai"
+    },
+    {
+      "label": "mashite ﾃｧﾅ槐崙祥敘ｾ hazuganai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011947id_/http://jgram.org/pages/viewOne.php?tagE=mashite%20%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BE%20hazuganai"
+    },
+    {
+      "label": "mashite〜hazuganai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20111028152031id_/http://jgram.org/pages/viewOne.php?tagE=mashite%E3%80%9Chazuganai"
+    },
+    {
+      "label": "nariçŞśď˝žnari",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011711id_/http://jgram.org/pages/viewOne.php?tagE=nari%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEnari"
+    },
+    {
+      "label": "nari‾nari",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150224235025id_/http://jgram.org/pages/viewOne.php?tagE=nari%E2%80%BEnari"
+    },
+    {
+      "label": "nari窶ｾnari",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225010742id_/http://jgram.org/pages/viewOne.php?tagE=nari%E7%AA%B6%EF%BD%BEnari"
+    },
+    {
+      "label": "nariﾃｧﾅ槐崙祥敘ｾnari",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012149id_/http://jgram.org/pages/viewOne.php?tagE=nari%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEnari"
+    },
+    {
+      "label": "tadaçŞśď˝žnominarazu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011554id_/http://jgram.org/pages/viewOne.php?tagE=tada%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEnominarazu"
+    },
+    {
+      "label": "tada‾nominarazu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150224235914id_/http://jgram.org/pages/viewOne.php?tagE=tada%E2%80%BEnominarazu"
+    },
+    {
+      "label": "tada窶ｾnominarazu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225010048id_/http://jgram.org/pages/viewOne.php?tagE=tada%E7%AA%B6%EF%BD%BEnominarazu"
+    },
+    {
+      "label": "tadaﾃｧﾅ槐崙祥敘ｾnominarazu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012002id_/http://jgram.org/pages/viewOne.php?tagE=tada%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEnominarazu"
+    },
+    {
+      "label": "to Æ",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620081722id_/http://jgram.org/pages/viewOne.php?tagE=to%20%C2%82%C3%86"
+    },
+    {
+      "label": "to ç¸şď˝¨",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011718id_/http://jgram.org/pages/viewOne.php?tagE=to%20%C3%A7%C2%B8%C5%9F%C4%8F%CB%9D%C2%A8"
+    },
+    {
+      "label": "to と",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170904234048id_/http://jgram.org/pages/viewOne.php?tagE=to%20%E3%81%A8"
+    },
+    {
+      "label": "to 縺ｨ",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225010904id_/http://jgram.org/pages/viewOne.php?tagE=to%20%E7%B8%BA%EF%BD%A8"
+    },
+    {
+      "label": "to ﾃｧﾂｸﾅ淨祥敖ｨ",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012151id_/http://jgram.org/pages/viewOne.php?tagE=to%20%EF%BE%83%EF%BD%A7%EF%BE%82%EF%BD%B8%EF%BE%85%E6%B7%A8%E7%A5%A5%E6%95%96%EF%BD%A8"
+    },
+    {
+      "label": "toiiçŞśď˝žtoii",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011659id_/http://jgram.org/pages/viewOne.php?tagE=toii%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEtoii"
+    },
+    {
+      "label": "toii‾toii",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150224233202id_/http://jgram.org/pages/viewOne.php?tagE=toii%E2%80%BEtoii"
+    },
+    {
+      "label": "toii窶ｾtoii",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225010512id_/http://jgram.org/pages/viewOne.php?tagE=toii%E7%AA%B6%EF%BD%BEtoii"
+    },
+    {
+      "label": "toiiﾃｧﾅ槐崙祥敘ｾtoii",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012139id_/http://jgram.org/pages/viewOne.php?tagE=toii%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEtoii"
+    },
+    {
+      "label": "totemo `nai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620071012id_/http://jgram.org/pages/viewOne.php?tagE=totemo%20%C2%81%60nai"
+    },
+    {
+      "label": "totemo çŞśď˝ž nai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011712id_/http://jgram.org/pages/viewOne.php?tagE=totemo%20%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BE%20nai"
+    },
+    {
+      "label": "totemo ‾ nai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225005415id_/http://jgram.org/pages/viewOne.php?tagE=totemo%20%E2%80%BE%20nai"
+    },
+    {
+      "label": "totemo 〜nai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20111028185135id_/http://jgram.org/pages/viewOne.php?tagE=totemo%20%E3%80%9Cnai"
+    },
+    {
+      "label": "totemo 窶ｾ nai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225010826id_/http://jgram.org/pages/viewOne.php?tagE=totemo%20%E7%AA%B6%EF%BD%BE%20nai"
+    },
+    {
+      "label": "totemo ﾃｧﾅ槐崙祥敘ｾ nai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012150id_/http://jgram.org/pages/viewOne.php?tagE=totemo%20%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BE%20nai"
+    },
+    {
+      "label": "tsuçŞśď˝žtsu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011219id_/http://jgram.org/pages/viewOne.php?tagE=tsu%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEtsu"
+    },
+    {
+      "label": "tsu‾tsu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150224232335id_/http://jgram.org/pages/viewOne.php?tagE=tsu%E2%80%BEtsu"
+    },
+    {
+      "label": "tsu窶ｾtsu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225001934id_/http://jgram.org/pages/viewOne.php?tagE=tsu%E7%AA%B6%EF%BD%BEtsu"
+    },
+    {
+      "label": "tsuﾃｧﾅ槐崙祥敘ｾtsu",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011852id_/http://jgram.org/pages/viewOne.php?tagE=tsu%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEtsu"
+    },
+    {
+      "label": "yasui (Õ¢)",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620100505id_/http://jgram.org/pages/viewOne.php?tagE=yasui%20(%C2%88%C3%95%C2%82%C2%A2)"
+    },
+    {
+      "label": "yasui (易い)",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20170904205419id_/http://jgram.org/pages/viewOne.php?tagE=yasui%20(%E6%98%93%E3%81%84)"
+    },
+    {
+      "label": "yasui (譏薙＞)",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225010853id_/http://jgram.org/pages/viewOne.php?tagE=yasui%20(%E8%AD%8F%E8%96%99%EF%BC%9E)"
+    },
+    {
+      "label": "yokumoçŞśď˝žmonoda",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225011701id_/http://jgram.org/pages/viewOne.php?tagE=yokumo%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEmonoda"
+    },
+    {
+      "label": "yokumo‾monoda",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150224233928id_/http://jgram.org/pages/viewOne.php?tagE=yokumo%E2%80%BEmonoda"
+    },
+    {
+      "label": "yokumo窶ｾmonoda",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225010631id_/http://jgram.org/pages/viewOne.php?tagE=yokumo%E7%AA%B6%EF%BD%BEmonoda"
+    },
+    {
+      "label": "yokumoﾃｧﾅ槐崙祥敘ｾmonoda",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20150225012142id_/http://jgram.org/pages/viewOne.php?tagE=yokumo%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEmonoda"
+    },
+    {
+      "label": "`ga Vstem{yasui",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20070727144843id_/http://jgram.org/pages/viewOne.php?tagE=%C2%81%60ga%20Vstem%C2%81%7Byasui"
+    },
+    {
+      "label": "`gasaigo",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20070727144754id_/http://jgram.org/pages/viewOne.php?tagE=%C2%81%60gasaigo"
+    },
+    {
+      "label": "`katawara",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620154944id_/http://jgram.org/pages/viewOne.php?tagE=%C2%81%60katawara"
+    },
+    {
+      "label": "`mademonai",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620063139id_/http://jgram.org/pages/viewOne.php?tagE=%C2%81%60mademonai"
+    },
+    {
+      "label": "`naa",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620044654id_/http://jgram.org/pages/viewOne.php?tagE=%C2%81%60naa"
+    },
+    {
+      "label": "`rutokoro",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620063208id_/http://jgram.org/pages/viewOne.php?tagE=%C2%81%60rutokoro"
+    },
+    {
+      "label": "`tesimaimasita",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620044616id_/http://jgram.org/pages/viewOne.php?tagE=%C2%81%60tesimaimasita"
+    },
+    {
+      "label": "`wo oite",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620111932id_/http://jgram.org/pages/viewOne.php?tagE=%C2%81%60wo%20oite"
+    },
+    {
+      "label": "©çÉÍ",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620154541id_/http://jgram.org/pages/viewOne.php?tagE=%C2%82%C2%A9%C2%82%C3%A7%C2%82%C3%89%C2%82%C3%8D"
+    },
+    {
+      "label": "Æ«",
+      "reason": "Archived JGram explicitly reports no entry for this label",
+      "archive_url": "https://web.archive.org/web/20100620133403id_/http://jgram.org/pages/viewOne.php?tagE=%C2%82%C3%86%C2%82%C2%AB"
+    }
+  ],
+  "review_required": [
+    {
+      "label": "nochange",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215022222id_/http://jgram.org:80/pages/viewOne.php?tagE=nochange"
+    },
+    {
+      "label": "numbers",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215031409id_/http://jgram.org:80/pages/viewOne.php?tagE=numbers"
+    },
+    {
+      "label": "othergrammar",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215022242id_/http://jgram.org:80/pages/viewOne.php?tagE=othergrammar"
+    },
+    {
+      "label": "particles",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215031430id_/http://jgram.org:80/pages/viewOne.php?tagE=particles"
+    },
+    {
+      "label": "particles2",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215031435id_/http://jgram.org:80/pages/viewOne.php?tagE=particles2"
+    },
+    {
+      "label": "particles3",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215022247id_/http://jgram.org:80/pages/viewOne.php?tagE=particles3"
+    },
+    {
+      "label": "particles_ex",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215022252id_/http://jgram.org:80/pages/viewOne.php?tagE=particles_ex"
+    },
+    {
+      "label": "pastverb",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215024055id_/http://jgram.org:80/pages/viewOne.php?tagE=pastverb"
+    },
+    {
+      "label": "polite",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200216030040id_/http://jgram.org:80/pages/viewOne.php?tagE=polite"
+    },
+    {
+      "label": "potential",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215024100id_/http://jgram.org:80/pages/viewOne.php?tagE=potential"
+    },
+    {
+      "label": "question",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215025647id_/http://jgram.org:80/pages/viewOne.php?tagE=question"
+    },
+    {
+      "label": "quotation",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215031451id_/http://jgram.org:80/pages/viewOne.php?tagE=quotation"
+    },
+    {
+      "label": "reasoning",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215022302id_/http://jgram.org:80/pages/viewOne.php?tagE=reasoning"
+    },
+    {
+      "label": "should",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215022352id_/http://jgram.org:80/pages/viewOne.php?tagE=should"
+    },
+    {
+      "label": "signs",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215031531id_/http://jgram.org:80/pages/viewOne.php?tagE=signs"
+    },
+    {
+      "label": "similar",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215022357id_/http://jgram.org:80/pages/viewOne.php?tagE=similar"
+    },
+    {
+      "label": "specialexp",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215024155id_/http://jgram.org:80/pages/viewOne.php?tagE=specialexp"
+    },
+    {
+      "label": "start",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215031601id_/http://jgram.org:80/pages/viewOne.php?tagE=start"
+    },
+    {
+      "label": "subclause",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215031606id_/http://jgram.org:80/pages/viewOne.php?tagE=subclause"
+    },
+    {
+      "label": "surunaru",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215031626id_/http://jgram.org:80/pages/viewOne.php?tagE=surunaru"
+    },
+    {
+      "label": "tendency",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215022452id_/http://jgram.org:80/pages/viewOne.php?tagE=tendency"
+    },
+    {
+      "label": "timeaction2",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215025857id_/http://jgram.org:80/pages/viewOne.php?tagE=timeaction2"
+    },
+    {
+      "label": "transtype",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215024425id_/http://jgram.org:80/pages/viewOne.php?tagE=transtype"
+    },
+    {
+      "label": "try",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215030007id_/http://jgram.org:80/pages/viewOne.php?tagE=try"
+    },
+    {
+      "label": "unintended",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215030032id_/http://jgram.org:80/pages/viewOne.php?tagE=unintended"
+    },
+    {
+      "label": "verbs",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215031857id_/http://jgram.org:80/pages/viewOne.php?tagE=verbs"
+    },
+    {
+      "label": "wrapup4",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215022733id_/http://jgram.org:80/pages/viewOne.php?tagE=wrapup4"
+    },
+    {
+      "label": "writingsys",
+      "reason": "Historical extraction has warnings; inspect retained record",
+      "archive_url": "https://web.archive.org/web/20200215024545id_/http://jgram.org:80/pages/viewOne.php?tagE=writingsys"
+    }
+  ],
+  "failed": [
+    {
+      "label": "over",
+      "attempts": [
+        {
+          "archive_url": "https://web.archive.org/web/20170917151620id_/http://jgram.org/pages/viewOne.php?tagE=over",
+          "error": "HTTP Error 404: NOT FOUND"
+        }
+      ]
+    },
+    {
+      "label": "How to write a�@Japanese  letter",
+      "attempts": [
+        {
+          "archive_url": "https://web.archive.org/web/20200919190248id_/http://www.jgram.org/pages/viewOne.php?tagE=How+to+write+a%81%40Japanese++letter",
+          "error": "Replay is not a JGram entry (missing viewOnetitle)"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20200126075232id_/http://www.jgram.org:80/pages/viewOne.php?tagE=How+to+write+a%81@Japanese++letter",
+          "error": "Replay is not a JGram entry (missing viewOnetitle)"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20200215030307id_/http://jgram.org:80/pages/viewOne.php?tagE=How+to+write+a%81@Japanese++letter",
+          "error": "Replay is not a JGram entry (missing viewOnetitle)"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20191216200956id_/http://jgram.org:80/pages/viewOne.php?tagE=How+to+write+a%81@Japanese++letter",
+          "error": "Replay is not a JGram entry (missing viewOnetitle)"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20191109181941id_/http://www.jgram.org:80/pages/viewOne.php?tagE=How+to+write+a%81@Japanese++letter",
+          "error": "Replay is not a JGram entry (missing viewOnetitle)"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20190928062647id_/http://www.jgram.org:80/pages/viewOne.php?tagE=How+to+write+a%81@Japanese++letter",
+          "error": "Replay is not a JGram entry (missing viewOnetitle)"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20190728023954id_/http://www.jgram.org:80/pages/viewOne.php?tagE=How+to+write+a%81@Japanese++letter",
+          "error": "Replay is not a JGram entry (missing viewOnetitle)"
+        }
+      ]
+    },
+    {
+      "label": "Try toÂ@Â`",
+      "attempts": [
+        {
+          "archive_url": "https://web.archive.org/web/20061030055724id_/http://www.jgram.org:80/pages/viewOne.php?tagE=Try+to%C3%82%C2%81@%C3%82%C2%81%60",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20060916141333id_/http://www.jgram.org:80/pages/viewOne.php?tagE=Try+to%C3%82%C2%81@%C3%82%C2%81%60",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20060516193109id_/http://www.jgram.org:80/pages/viewOne.php?tagE=Try+to%C3%82%C2%81@%C3%82%C2%81%60",
+          "error": "HTTP Error 404: NOT FOUND"
+        }
+      ]
+    },
+    {
+      "label": "amari-2 �@  verb in NG",
+      "attempts": [
+        {
+          "archive_url": "https://web.archive.org/web/20080214073401id_/http://www.jgram.org:80/pages/viewOne.php?tagE=amari-2+%81@++verb+in+NG",
+          "error": "Replay is not a JGram entry (missing viewOnetitle)"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20071118122603id_/http://www.jgram.org:80/pages/viewOne.php?tagE=amari-2+%81@++verb+in+NG",
+          "error": "Replay is not a JGram entry (missing viewOnetitle)"
+        }
+      ]
+    },
+    {
+      "label": "greetiÂÂgs",
+      "attempts": [
+        {
+          "archive_url": "https://web.archive.org/web/20070606110458id_/http://www.jgram.org:80/pages/viewOne.php?tagE=greeti%C3%82%C2%82%C3%82%C2%8Egs",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20070603103915id_/http://www.jgram.org:80/pages/viewOne.php?tagE=greeti%C3%82%C2%82%C3%82%C2%8Egs",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20070601221703id_/http://www.jgram.org:80/pages/viewOne.php?tagE=greeti%C3%82%C2%82%C3%82%C2%8Egs",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20061101214501id_/http://www.jgram.org:80/pages/viewOne.php?tagE=greeti%C3%82%C2%82%C3%82%C2%8Egs",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20060908125019id_/http://www.jgram.org:80/pages/viewOne.php?tagE=greeti%C3%82%C2%82%C3%82%C2%8Egs",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20060205004140id_/http://jgram.org:80/pages/viewOne.php?tagE=greeti%C3%82%C2%82%C3%82%C2%8Egs",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20060201055022id_/http://jgram.org:80/pages/viewOne.php?tagE=greeti%C3%82%C2%82%C3%82%C2%8Egs",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20051225142702id_/http://jgram.org:80/pages/viewOne.php?tagE=greeti%C3%82%C2%82%C3%82%C2%8Egs",
+          "error": "HTTP Error 404: NOT FOUND"
+        }
+      ]
+    },
+    {
+      "label": "mashiteÂ`hazuganai",
+      "attempts": [
+        {
+          "archive_url": "https://web.archive.org/web/20070412224435id_/http://www.jgram.org:80/pages/viewOne.php?tagE=mashite%C3%82%C2%81%60hazuganai",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20061209183329id_/http://www.jgram.org:80/pages/viewOne.php?tagE=mashite%C3%82%C2%81%60hazuganai",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20060213001133id_/http://jgram.org:80/pages/viewOne.php?tagE=mashite%C3%82%C2%81%60hazuganai",
+          "error": "HTTP Error 404: NOT FOUND"
+        }
+      ]
+    },
+    {
+      "label": "É©©íç¸",
+      "attempts": [
+        {
+          "archive_url": "https://web.archive.org/web/20100620113835id_/http://jgram.org/pages/viewOne.php?tagE=%C2%82%C3%89%C2%82%C2%A9%C2%82%C2%A9%C2%82%C3%AD%C2%82%C3%A7%C2%82%C2%B8",
+          "error": "HTTP Error 404: NOT FOUND"
+        }
+      ]
+    },
+    {
+      "label": "ÂmÂÂÂÂ",
+      "attempts": [
+        {
+          "archive_url": "https://web.archive.org/web/20061210222736id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%C3%82%C2%82m%C3%82%C2%82%C3%82%C2%81%C3%82%C2%82%C3%82%C2%81",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20061026111745id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%C3%82%C2%82m%C3%82%C2%82%C3%82%C2%81%C3%82%C2%82%C3%82%C2%81",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20060920115521id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%C3%82%C2%82m%C3%82%C2%82%C3%82%C2%81%C3%82%C2%82%C3%82%C2%81",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20060911212838id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%C3%82%C2%82m%C3%82%C2%82%C3%82%C2%81%C3%82%C2%82%C3%82%C2%81",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20060204232052id_/http://jgram.org:80/pages/viewOne.php?tagE=%C3%82%C2%82m%C3%82%C2%82%C3%82%C2%81%C3%82%C2%82%C3%82%C2%81",
+          "error": "HTTP Error 404: NOT FOUND"
+        },
+        {
+          "archive_url": "https://web.archive.org/web/20060201034218id_/http://jgram.org:80/pages/viewOne.php?tagE=%C3%82%C2%82m%C3%82%C2%82%C3%82%C2%81%C3%82%C2%82%C3%82%C2%81",
+          "error": "HTTP Error 404: NOT FOUND"
+        }
+      ]
+    },
+    {
+      "label": "ÂÄÂÅ¤",
+      "attempts": [
+        {
+          "archive_url": "https://web.archive.org/web/20051105064725id_/http://jgram.org:80/pages/viewOne.php?tagE=%C3%82%C2%82%C3%84%C2%86%C3%82%C2%82%C3%85%C2%A4",
+          "error": "HTTP Error 404: NOT FOUND"
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "label": "nochange",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "numbers",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "othergrammar",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "particles",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "particles2",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "particles3",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "particles_ex",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "pastverb",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "polite",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "potential",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "question",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "quotation",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "reasoning",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "should",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "signs",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "similar",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "specialexp",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "start",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "subclause",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "surunaru",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "tendency",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "timeaction2",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "transtype",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "try",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "unintended",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "verbs",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "wrapup4",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    },
+    {
+      "label": "writingsys",
+      "warning": "Unfamiliar historical section retained: Tutorial"
+    }
+  ],
+  "complete": false,
+  "stopped_reason": "Three consecutive replay failures; inspect before resuming",
+  "finished_at": "2026-10-04T05:13:03+00:00"
+}

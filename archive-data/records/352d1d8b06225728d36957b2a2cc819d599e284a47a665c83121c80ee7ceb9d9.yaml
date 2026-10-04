@@ -1,0 +1,97 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1491
+label: wooite
+title_raw: 〜をおいて [〜をおいて] (wooite)
+title: 〜をおいて
+reading: 〜をおいて
+romanized_label: wooite
+category: grammar
+jlpt_level_original: '1'
+meaning: apart from/leaving aside
+meaning_example: apart from you
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=wooite
+archive_url: https://web.archive.org/web/20090122050238id_/http://jgram.org:80/pages/viewOne.php?tagE=wooite
+archive_timestamp: '20090122050238'
+retrieved_at: '2026-10-04T04:40:36+00:00'
+archive_digest: CNRM62AIHQKYE4JPMFCZX3GUYX5MRI2B
+response_sha256: 5768a140acf935e32116ee574aa44fee7a7736730209e60a662e5f1737f5ef13
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 5119
+    position: 0
+    japanese: あなたをおいて、この会社の社長の適任者はいない
+    body_text: "あなたをおいて、この会社の社長の適任者はいない\r \n\r\n\t\tApart from you, there is noone suitable for this company's President."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJあなたをおいて、この会社の社長の適任者はいない\">\r\n\t\t\t\tあなた<strong>をおいて</strong>、この会社の社長の適任者はいない\r<strong></strong></a> <br/>\r\n\t\tApart from you, there is noone suitable for this company's President. \r\n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6893
+    position: 1
+    japanese: 日本のミサから:「主よ、あなたは神の子キリスト、永遠の命の糧。あなたをおいて誰のところに行きましょう。」
+    body_text: "日本のミサから:「主よ、あなたは神の子キリスト、永遠の命の糧。あなたをおいて誰のところに行きましょう。」 \n\r\n\t\tFrom the Japanese Mass: \"Lord, you are Christ, the Son of God, Bread of eternal life. Without you, to whom should we go?\""
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ日本のミサから:「主よ、あなたは神の子キリスト、永遠の命の糧。あなたをおいて誰のところに行きましょう。」\">\r\n\t\t\t\t日本のミサから:「主よ、あなたは神の子キリスト、永遠の命の糧。あなた<strong>をおいて</strong>誰のところに行きましょう。」<strong></strong></a> <br/>\r\n\t\tFrom the Japanese Mass: \"Lord, you are Christ, the Son of God, Bread of eternal life. Without you, to whom should we go?\" \r\n\t\t<strong> </strong>"
+    credits_raw: cac73
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: を措いて wo oite followed by 〜ない or negative
+    html: を措いて wo oite followed by 〜ない or negative
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: yookoso
+    text: How is this different from 以外 【いがい】?
+    html: How is this different from 以外 【いがい】?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: ozonitabetai
+    text: "昨日の事を措いて、今日はどうやて帰るの？\n\n\n\r\nI'm wondering if this is grammatically correct?"
+    html: "昨日の事を措いて、今日はどうやて帰るの？<br/>\n<br/>\r\nI'm wondering if this is grammatically correct?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Lorenz
+    text: |-
+      ozonitabetai, I don't know if I can say that your sentence is grammatically incorrect, but I can say that I have a real tough time figuring out what it is supposed to be saying^^:  "Except for what happened yesterday, how are (you, we...) going home today?" is how it reads to me.  So, I'd have to say that for my two yen, it's probably not an ideal application of the grammar point.
+    html: |-
+      ozonitabetai, I don't know if I can say that your sentence is grammatically incorrect, but I can say that I have a real tough time figuring out what it is supposed to be saying^^:  "Except for what happened yesterday, how are (you, we...) going home today?" is how it reads to me.  So, I'd have to say that for my two yen, it's probably not an ideal application of the grammar point.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: nioite
+    label: nioite
+    annotation_text: nioite
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=nioite">nioite</a>
+    credits_raw: null
+sections:
+  - kind: header
+    text: "〜をおいて [〜をおいて] (wooite)\n    Meaning: apart from/leaving aside \n    Example: apart from you\n    JLPT Level: 1\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>〜をおいて [〜をおいて] (wooite)</span><br/>    <span><b>Meaning</b>: apart from/leaving aside </span><br/>    <b>Example</b>: <i>apart from you</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20090122050238'

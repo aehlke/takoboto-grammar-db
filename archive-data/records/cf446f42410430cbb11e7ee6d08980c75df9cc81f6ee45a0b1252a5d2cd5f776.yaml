@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1425
+label: ExpressingStateOfBeing
+title_raw: '- (ExpressingStateOfBeing)'
+title: '- (ExpressingStateOfBeing)'
+reading: null
+romanized_label: ExpressingStateOfBeing
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=ExpressingStateOfBeing
+archive_url: https://web.archive.org/web/20051226032047id_/http://jgram.org:80/pages/viewOne.php?tagE=ExpressingStateOfBeing
+archive_timestamp: '20051226032047'
+retrieved_at: '2026-10-04T02:36:20+00:00'
+archive_digest: GVTSJSTMM5U4YZNVNNM24IYWUTSKZCWM
+response_sha256: c6eb4d1649d29027f200ed5394b5e0f6bfc4c9db3249e30917ccac27be80f6c9
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (ExpressingStateOfBeing)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (ExpressingStateOfBeing)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: ExpressingStateOfBeing
+    id: 1425
+    title_raw: '- (ExpressingStateOfBeing)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=ExpressingStateOfBeing
+    response_sha256: c6eb4d1649d29027f200ed5394b5e0f6bfc4c9db3249e30917ccac27be80f6c9
+    section: Tutorial
+    section_html_sha256: f0ec72538c02ab2cdf3168e4a9c537cc2ac1e874d408c30b80d95630506546ac
+    section_text_sha256: 8e545317b917fc160068840d1115905a0352a3c554f5635cd3d2d2391f95506d
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8135
+    source_byte_length: 7286
+    section_bytes_sha256: 613f8c8b79581b7853c42c908c8380a1dca5b0021a9aba7b49c68ebbd312cc30
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226032047'

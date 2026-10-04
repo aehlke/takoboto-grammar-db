@@ -1,0 +1,75 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1453
+label: transtype
+title_raw: (transtype)
+title: (transtype)
+reading: null
+romanized_label: transtype
+category: lesson
+jlpt_level_original: '0'
+meaning: Transitive and Intransitive Verbs
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=transtype
+archive_url: https://web.archive.org/web/20200215024425id_/http://jgram.org:80/pages/viewOne.php?tagE=transtype
+archive_timestamp: '20200215024425'
+retrieved_at: '2026-10-04T04:34:38+00:00'
+archive_digest: 55EJCZHL5P7FRSE7HXWQ5FZMOFKZ4UQ4
+response_sha256: 6b63206ceb90ac713662c610e02a4c7b65749df290684e827cafe0b8387a975d
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: rain_endless
+    text: |-
+      Here is a very extensive list of transative/ intransative verb pairs:
+
+
+
+      http://www.sljfaq.org/w/Transitive_and_intransitive_verbs
+    html: |-
+      Here is a very extensive list of transative/ intransative verb pairs:<br/>
+      <br/>
+      <a href="http://www.sljfaq.org/w/Transitive_and_intransitive_verbs">http://www.sljfaq.org/w/Transitive_and_intransitive_verbs</a>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(transtype)\n    Meaning: Transitive and Intransitive Verbs \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (transtype)</span><br/>    <span><b>Meaning</b>: Transitive and Intransitive Verbs </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: transtype
+    id: 1453
+    title_raw: (transtype)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=transtype
+    response_sha256: 6b63206ceb90ac713662c610e02a4c7b65749df290684e827cafe0b8387a975d
+    section: Tutorial
+    section_html_sha256: f58b50d287d252a8edbf7a5b12479a92322c898c888d32eb3218ad74a1697f3a
+    section_text_sha256: 7c3b71a193f891c63d70c6ca05e23c1326e2f3ee44d6f970dbea6f343d1c83d8
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8038
+    source_byte_length: 6949
+    section_bytes_sha256: 9cb9916328fc48f0a97c17d6589810010fd3da16471ca5153996af35d01772a5
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215024425'

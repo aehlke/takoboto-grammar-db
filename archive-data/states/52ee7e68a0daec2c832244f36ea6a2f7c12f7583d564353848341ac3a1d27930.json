@@ -1,0 +1,22 @@
+{
+  "label": "newSiteFB",
+  "status": "excluded",
+  "checked_at": "2026-10-04T03:43:09+00:00",
+  "latest_indexed_timestamp": "20200714034908",
+  "capture": {
+    "timestamp": "20200714034908",
+    "original": "http://www.jgram.org:80/pages/viewOne.php?tagE=newSiteFB",
+    "mimetype": "text/html",
+    "digest": "O7QI2HZRBQTDDWXRQROG7AHXGAMFJ5NW",
+    "label": "newSiteFB",
+    "archive_url": "https://web.archive.org/web/20200714034908id_/http://www.jgram.org:80/pages/viewOne.php?tagE=newSiteFB"
+  },
+  "requested_timestamp": "20200714034908",
+  "response_sha256": "b457fc44262ce4119bb47195b03de65c9ad62a2afc71ebd5d1934e282155e388",
+  "retrieved_at": "2026-10-04T03:43:09+00:00",
+  "selection_attempts": [],
+  "reason": "Reviewed non-grammar entry: Website administration and feature-feedback thread, with account/import/quiz support comments and no language examples. Its source grammar category is misleading; this is outside the grammar/grammatical-usage collection.",
+  "resolution": "Exact-capture semantic scope review; source category does not establish grammatical content.",
+  "eligible_ids_sha256": "375d82d3b99a3f80c61e9d6ce5731db34d762994123a383f4eaceceebd96605b",
+  "eligible_ids_count": 643
+}

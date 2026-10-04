@@ -1,0 +1,165 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 373
+label: nitsuki-2
+title_raw: 〜につき [〜につき] (nitsuki-2)
+title: 〜につき
+reading: 〜につき
+romanized_label: nitsuki-2
+category: grammar
+jlpt_level_original: '2'
+meaning: due to
+meaning_example: due to construction, the train is late.
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=nitsuki-2
+archive_url: https://web.archive.org/web/20200215022146id_/http://jgram.org:80/pages/viewOne.php?tagE=nitsuki-2
+archive_timestamp: '20200215022146'
+retrieved_at: '2026-10-04T01:28:08+00:00'
+archive_digest: SPFG7F5SY552U4WY6UGRUTV437SYWBZ4
+response_sha256: a70a0d18b0aaa8e7797765ca300aa2c0ab7bf821e941dc052282b565c6762296
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: '[名]＋につき'
+    html: '[名]＋につき'
+    credits_raw: khongbietboi
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "＊This grammar is used in formal sentences, such as those appearing on bulletins, notices, etc.\n\n\n\r\nFORMATION:\n\r\nＮ + につき"
+    html: "＊This grammar is used in formal sentences, such as those appearing on bulletins, notices, etc.<br/>\n<br/>\r\nFORMATION:<br/>\r\nＮ + につき"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 349
+    position: 0
+    japanese: 工事につき電車は不通です。
+    body_text: "工事につき電車は不通です。 \n\ndue to \n\t\tconstruction, trains are cancelled (Lit: not running)"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ工事につき電車は不通です。\">\n工事<strong>につき</strong>電車は不通です。<strong></strong></a> <br/>\n<strong>due to </strong>\n\t\tconstruction, trains are cancelled (Lit: not running)"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4941
+    position: 1
+    japanese: 教授の海外出張につき休講。
+    body_text: "教授の海外出張につき休講。 \n\n\t\tClass cancelled \n\t\tdue to \n\t\tthe professor's business trip abroad."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ教授の海外出張につき休講。\">\n\t\t\t\t教授の海外出張<strong>につき</strong>休講。<strong></strong></a> <br/>\n\t\tClass cancelled \n\t\t<strong>due to </strong>\n\t\tthe professor's business trip abroad."
+    credits_raw: PaulO
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5996
+    position: 2
+    japanese: 雨天につき、試合は延期いたします。
+    body_text: "雨天につき、試合は延期いたします。 \n\nDue to \n\t\tthe rainy weather we postpone the match."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ雨天につき、試合は延期いたします。\">\n\t\t\t\t雨天<strong>につき</strong>、試合は延期いたします。<strong></strong></a> <br/>\n<strong>Due to </strong>\n\t\tthe rainy weather we postpone the match."
+    credits_raw: khongbietboi
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6409
+    position: 3
+    japanese: この道は工事中につき、通行止めになっています。
+    body_text: "この道は工事中につき、通行止めになっています。 \n\nDue to \n\t\tconstruction, this street is closed to traffic."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの道は工事中につき、通行止めになっています。\">\n\t\t\t\tこの道は工事中<strong>につき</strong>、通行止めになっています。<strong></strong></a> <br/>\n<strong>Due to </strong>\n\t\tconstruction, this street is closed to traffic."
+    credits_raw: rubyhatchet
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6410
+    position: 4
+    japanese: 冷房中につき、ドアをお閉めてください。
+    body_text: "冷房中につき、ドアをお閉めてください。 \n\nDue to \n\t\tthe air conditioning, please close the door."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ冷房中につき、ドアをお閉めてください。\">\n\t\t\t\t冷房中<strong>につき</strong>、ドアをお閉めてください。<strong></strong></a> <br/>\n<strong>Due to </strong>\n\t\tthe air conditioning, please close the door."
+    credits_raw: rubyhatchet
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6411
+    position: 5
+    japanese: こちらは特売品につき、お一人様一点限りとなっています。
+    body_text: "こちらは特売品につき、お一人様一点限りとなっています。 \n\n\t\tSince these are bargain items, they are limited to one per person."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこちらは特売品につき、お一人様一点限りとなっています。\">\n\t\t\t\tこちらは特売品<strong>につき</strong>、お一人様一点限りとなっています。<strong></strong></a> <br/>\n\t\tSince these are bargain items, they are limited to one per person. \n\t\t<strong> </strong>"
+    credits_raw: rubyhatchet
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6589
+    position: 6
+    japanese: この機械はただ今調整中につき、ご使用になれません。
+    body_text: "この機械はただ今調整中につき、ご使用になれません。\r \n\n\t\tThis machine is currently unavailable due to maintenance."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの機械はただ今調整中につき、ご使用になれません。\">\n\t\t\t\tこの機械はただ今調整中<strong>につき</strong>、ご使用になれません。\r<strong></strong></a> <br/>\n\t\tThis machine is currently unavailable due to maintenance. \n\t\t<strong> </strong>"
+    credits_raw: hana
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6590
+    position: 7
+    japanese: 本日は祭日につき、休業させていただきます。
+    body_text: "本日は祭日につき、休業させていただきます。 \n\n\t\tWe are closed today \n\t\tdue to \n\t\tthe holiday"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ本日は祭日につき、休業させていただきます。\">\n\t\t\t\t本日は祭日<strong>につき</strong>、休業させていただきます。<strong></strong></a> <br/>\n\t\tWe are closed today \n\t\t<strong>due to </strong>\n\t\tthe holiday"
+    credits_raw: hana
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8070
+    position: 8
+    japanese: 雨天につき試合は延期いたします。
+    body_text: "雨天につき試合は延期いたします。\r \n\n\t\tDue to rainy weather we postpone the match."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ雨天につき試合は延期いたします。\">\n\t\t\t\t雨天<strong>につき</strong>試合は延期いたします。\r<strong></strong></a> <br/>\n\t\tDue to rainy weather we postpone the match. \n\t\t<strong> </strong>"
+    credits_raw: missshapoooo
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: formal version of because - eg "due to"
+    html: formal version of because - eg "due to"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: nanode
+    label: nanode
+    annotation_text: nanode [rubyhatchet]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=nanode">nanode</a> [<a href="http://jgram.org:80/pages/contributions.php?author=rubyhatchet">rubyhatchet</a>]
+    credits_raw: rubyhatchet
+  - position: 1
+    target_label: nitsuki
+    label: nitsuki
+    annotation_text: nitsuki    ((1) a, per each; (2) due to;) [claudiofreitas3]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=nitsuki">nitsuki</a>    ((1) a, per each; (2) due to;) [<a href="http://jgram.org:80/pages/contributions.php?author=claudiofreitas3">claudiofreitas3</a>]
+    credits_raw: claudiofreitas3
+sections:
+  - kind: header
+    text: "〜につき [〜につき] (nitsuki-2)\n    Meaning: due to \n    Example: due to construction, the train is late.\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>〜につき [〜につき] (nitsuki-2)</span><br/>    <span><b>Meaning</b>: due to </span><br/>    <b>Example</b>: <i>due to construction, the train is late.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215022146'

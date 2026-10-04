@@ -1,0 +1,31 @@
+{
+  "label": "amari-2 �@  verb in NG",
+  "status": "excluded",
+  "checked_at": "2026-10-04T04:53:23+00:00",
+  "latest_indexed_timestamp": "20080214073401",
+  "capture": {
+    "timestamp": "20080214073401",
+    "original": "http://www.jgram.org:80/pages/viewOne.php?tagE=amari-2+%81@++verb+in+NG",
+    "mimetype": "text/html",
+    "digest": "UEHRJDVZMDBX7JKDC2P3JFCZZUL3E5DB",
+    "label": "amari-2 �@  verb in NG",
+    "archive_url": "https://web.archive.org/web/20080214073401id_/http://www.jgram.org:80/pages/viewOne.php?tagE=amari-2+%81@++verb+in+NG"
+  },
+  "requested_timestamp": "20080214073401",
+  "response_sha256": "113258c838c34526ba3f5452e1038d147950c0d0cba1dcc20fbe0bef9bd5129b",
+  "retrieved_at": "2026-10-04T04:52:52+00:00",
+  "selection_attempts": [
+    {
+      "archive_url": "https://web.archive.org/web/20080214073401id_/http://www.jgram.org:80/pages/viewOne.php?tagE=amari-2+%81@++verb+in+NG",
+      "error": "Replay is not a JGram entry (missing viewOnetitle)"
+    },
+    {
+      "archive_url": "https://web.archive.org/web/20071118122603id_/http://www.jgram.org:80/pages/viewOne.php?tagE=amari-2+%81@++verb+in+NG",
+      "error": "Replay is not a JGram entry (missing viewOnetitle)"
+    }
+  ],
+  "reason": "Archived JGram explicitly reports no entry for this label",
+  "resolution": "Offline reparse of exact latest response; original URL parameter bytes match source no-entry message.",
+  "eligible_ids_sha256": "375d82d3b99a3f80c61e9d6ce5731db34d762994123a383f4eaceceebd96605b",
+  "eligible_ids_count": 643
+}

@@ -131,6 +131,21 @@ class CliTests(unittest.TestCase):
                 main()
         self.assertFalse((root / 'md').exists())
 
+    def test_invalid_evidence_bundle_is_concise_and_does_not_write(self):
+        root = self.root()
+        bundle = root / 'invalid.tar.gz'
+        bundle.write_bytes(b'not a gzip archive')
+        destination = root / 'restore'
+        with patch('sys.argv', ['takoboto-grammar', 'evidence-restore',
+                                '--bundle', str(bundle), '--output', str(destination)]), \
+             redirect_stderr(io.StringIO()) as error:
+            with self.assertRaises(SystemExit) as stopped:
+                main()
+            self.assertEqual(stopped.exception.code, 2)
+            self.assertIn('Cannot preserve evidence', error.getvalue())
+            self.assertNotIn('Traceback', error.getvalue())
+        self.assertFalse(destination.exists())
+
     def test_initial_access_stop_is_concise_and_closes_fetcher(self):
         root = self.root()
         with patch('sys.argv', ['takoboto-grammar', 'crawl', '--inventory', str(self.manifest(root))]), \

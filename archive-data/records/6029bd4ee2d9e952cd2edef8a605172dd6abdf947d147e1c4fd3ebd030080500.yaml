@@ -1,0 +1,91 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1619
+label: naide
+title_raw: ないで [ないで] (naide)
+title: ないで
+reading: ないで
+romanized_label: naide
+category: grammar
+jlpt_level_original: '4'
+meaning: without
+meaning_example: '"I went to school without eating breakfast."'
+credits_raw: sw
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=naide
+archive_url: https://web.archive.org/web/20200215031053id_/http://jgram.org:80/pages/viewOne.php?tagE=naide
+archive_timestamp: '20200215031053'
+retrieved_at: '2026-10-04T01:07:04+00:00'
+archive_digest: 2V7XZTUCOOD7SCIHN6DRGPWA6NSWZVJW
+response_sha256: bc6295e2ce2995f76db63075b43923e31d124eb7053dc4ba21338d3511fd855d
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Formation:\n\n\n\r\nnegV + で"
+    html: "Formation:<br/>\n<br/>\r\nnegV + で"
+    credits_raw: sw
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 6426
+    position: 0
+    japanese: 朝ご飯を食べないで学校へ行った。
+    body_text: "朝ご飯を食べないで学校へ行った。 \n\n\t\tI went to school \n\t\twithout \n\t\teating breakfast."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ朝ご飯を食べないで学校へ行った。\">\n\t\t\t\t朝ご飯を食べ<strong>ないで</strong>学校へ行った。<strong></strong></a> <br/>\n\t\tI went to school \n\t\t<strong>without </strong>\n\t\teating breakfast."
+    credits_raw: sw
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6427
+    position: 1
+    japanese: 払わないで去る
+    body_text: "払わないで去る \n\n\t\tleave \n\t\twithout \n\t\tpaying"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ払わないで去る\">\n\t\t\t\t払わ<strong>ないで</strong>去る<strong></strong></a> <br/>\n\t\tleave \n\t\t<strong>without </strong>\n\t\tpaying"
+    credits_raw: sw
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8666
+    position: 2
+    japanese: 宿題をしないで、学校へ行った。
+    body_text: "宿題をしないで、学校へ行った。 \n\n\t\tI went to school \n\t\twithout \n\t\t  doing my homework."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ宿題をしないで、学校へ行った。\">\n\t\t\t\t宿題をし<strong>ないで</strong>、学校へ行った。<strong></strong></a> <br/>\n\t\tI went to school \n\t\t<strong>without </strong>\n\t\t  doing my homework."
+    credits_raw: 反戦
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: "this is also a connective negative:\n\n\n\r\n行かないでください - dont go, please\n\r\n払わないで欲しい - i dont want you to pay"
+    html: "this is also a connective negative:<br/>\n<br/>\r\n行かないでください - dont go, please<br/>\r\n払わないで欲しい - i dont want you to pay"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: zuni
+    label: zuni
+    annotation_text: zuni [sw]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=zuni">zuni</a> [<a href="http://jgram.org:80/pages/contributions.php?author=sw">sw</a>]
+    credits_raw: sw
+sections:
+  - kind: header
+    text: "ないで [ないで] (naide)\n    Meaning: without \n    Example: \"I went to school without eating breakfast.\"\n    JLPT Level: 4\n    Category: grammar\n    Author: sw"
+    html: |-
+      <span>ないで [ないで] (naide)</span><br/>    <span><b>Meaning</b>: without </span><br/>    <b>Example</b>: <i>"I went to school without eating breakfast."</i><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>sw</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215031053'

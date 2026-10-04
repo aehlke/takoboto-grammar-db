@@ -1,0 +1,106 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1462
+label: Katakana
+title_raw: カタカナ (katakana)
+title: カタカナ (katakana)
+reading: null
+romanized_label: Katakana
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: null
+credits_raw: taekim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=Katakana
+archive_url: https://web.archive.org/web/20060212234349id_/http://jgram.org:80/pages/viewOne.php?tagE=Katakana
+archive_timestamp: '20060212234349'
+retrieved_at: '2026-10-04T02:41:48+00:00'
+archive_digest: 6KP4UPGCCAI7IG3L32IKFZHIGRKDEDEL
+response_sha256: b041aa817316895dcd8e03626c9f306b311dbe650641b8e44e904a4097840d54
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: cheating カニング (cunning) is カンニング in Japanese.
+    html: cheating カニング (cunning) is カンニング in Japanese.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "カタカナ (katakana)\n    Meaning: - \n    JLPT Level: 0\n    Category: lesson\n    Author: taekim"
+    html: |-
+      <span>カタカナ (katakana)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>taekim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: Katakana
+    id: 1462
+    title_raw: カタカナ (katakana)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=Katakana
+    response_sha256: b041aa817316895dcd8e03626c9f306b311dbe650641b8e44e904a4097840d54
+    section: Tutorial
+    section_html_sha256: a83555ec145daf78b582719ceb1bc743faa0ee27ae43c299af13c0bf07484574
+    section_text_sha256: 7f395cbcc9e071a7715efea0c00038bc4af86d4cab77e53a7888cac6ce553bd1
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Tutorial attribution is established by exact long passages matching the separately copyrighted Tae Kim tutorial in another reviewed capture. No copyright notice is displayed in this particular cell. Retain JGram contributions outside the independently bounded tutorial cell.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 7965
+    source_byte_length: 9813
+    section_bytes_sha256: 7a8a81f1cdb8736a7ccad0a51f481d8f56477d7d4325043e100a3cf21727b575
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+    credit_evidence:
+      method: exact-passages-in-reviewed-copyrighted-tutorial
+      reference_source_url: http://www.jgram.org/pages/viewOne.php?tagE=katakana
+      reference_response_sha256: 6e5afb8783f6e5fb7afc8748d761a3d87b08cc90fa6bc5870c6b7c64f1b54fd0
+      reference_section_html_sha256: 02ea2c827f4ad438e4431e133ad62b3a6c73467b547cda074b72fe780837f159
+      text_normalization: parser.text with consecutive whitespace replaced by one space
+      matching_passages:
+        - source_text_offset: 269
+          reference_text_offset: 273
+          text_length: 282
+          text_sha256: 2a43ad64f15d5103ad8031548271b5f434f4307d08fb28272751b8bb1222ca64
+        - source_text_offset: 567
+          reference_text_offset: 573
+          text_length: 441
+          text_sha256: 15a078f8bd2fcbdcad91e0c2f4bc401c0ad10ff83c69e76146c3990a7adb5053
+        - source_text_offset: 1008
+          reference_text_offset: 1015
+          text_length: 324
+          text_sha256: 313313dae139fea8c6c7db03df7a7846da08045145725b9715b635c5586ec64b
+        - source_text_offset: 1351
+          reference_text_offset: 1353
+          text_length: 293
+          text_sha256: 79d31e6c45476c3545b12a7e1c1189c7d515bfe6c462d4d2d09f0770f24cf524
+        - source_text_offset: 1644
+          reference_text_offset: 1866
+          text_length: 1043
+          text_sha256: 84314c81b4977aebd8b9c6133bd39128f6911a1bef2eebde5311587c04d49774
+        - source_text_offset: 2687
+          reference_text_offset: 2974
+          text_length: 362
+          text_sha256: ea597baaec5568d64f367f49e03ae9eb59bc685af40eb6b11d64b3f7e52ae038
+        - source_text_offset: 3533
+          reference_text_offset: 3821
+          text_length: 724
+          text_sha256: 3d97714edafcfd155c504cdf8c4ce6e8ff69b6a5fc3e69ccd62531ee96211011
+        - source_text_offset: 4657
+          reference_text_offset: 5098
+          text_length: 1341
+          text_sha256: bef59b28ad7c49f3224d607c7498e112dd800d6d9a4dfaa3cff138f7d9429c75
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20060212234349'

@@ -1,5 +1,5 @@
 {
-  "reviewed_at": "2026-10-03",
+  "reviewed_at": "2026-10-04",
   "data_license": "CC-BY-SA-2.0",
   "provenance_document": "docs/provenance.md",
   "membership_review_manifest": "src/takoboto_grammar/grammar-membership.yaml",
@@ -136,8 +136,8 @@
     "original_index_rows": 1069710,
     "scoped_captures": 1312,
     "selected_labels": 1077,
-    "included_observations": 704,
-    "distinct_original_ids": 702,
+    "included_observations": 766,
+    "distinct_original_ids": 764,
     "original_ids_absent_current": [
       116,
       596,
@@ -160,6 +160,7 @@
       930,
       935,
       936,
+      951,
       955,
       957,
       958,
@@ -178,11 +179,57 @@
       1384,
       1393,
       1397,
+      1410,
+      1411,
+      1412,
+      1414,
+      1415,
+      1417,
+      1418,
+      1419,
+      1420,
+      1422,
+      1423,
       1424,
+      1425,
+      1426,
+      1427,
+      1428,
+      1429,
       1430,
+      1431,
+      1432,
+      1433,
+      1434,
+      1435,
+      1436,
+      1438,
+      1439,
+      1440,
+      1441,
+      1442,
+      1443,
+      1444,
+      1445,
+      1446,
+      1447,
+      1448,
+      1449,
+      1450,
+      1451,
+      1452,
+      1453,
+      1454,
+      1455,
+      1456,
+      1457,
+      1458,
+      1459,
+      1460,
+      1461,
+      1462,
       1470,
       1476,
-      1480,
       1503,
       1505,
       1510,
@@ -194,6 +241,20 @@
       1535,
       1536,
       1545,
+      1567,
+      1568,
+      1569,
+      1570,
+      1571,
+      1572,
+      1573,
+      1574,
+      1575,
+      1576,
+      1577,
+      1578,
+      1579,
+      1580,
       1581,
       1582,
       1586,
@@ -220,13 +281,16 @@
       1782,
       1786
     ],
-    "verified_exclusions": 310,
-    "review_required": 63,
+    "verified_exclusions": 311,
+    "review_required": 0,
     "failed": 0,
     "range_requests": 71,
     "range_payload_bytes": 42172280,
     "source_audit": "archive-2015/coverage-report.json",
-    "held_cases": [
+    "included_entry_observations": 705,
+    "entry_observations": 767,
+    "partial_source_observations": 63,
+    "resolved_previous_holds": [
       {
         "label": "similar",
         "original_id": 1458,
@@ -241,8 +305,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "reasoning",
@@ -258,8 +323,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "compare",
@@ -275,8 +341,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "enduring",
@@ -292,8 +359,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "particles2",
@@ -309,8 +377,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "index",
@@ -326,8 +395,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "try",
@@ -343,8 +413,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "question",
@@ -360,8 +431,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "katakana_ex",
@@ -377,8 +449,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "covered",
@@ -394,8 +467,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "particles",
@@ -411,8 +485,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "nochange",
@@ -428,8 +503,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "tendency",
@@ -445,8 +521,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "copula_ex",
@@ -462,8 +539,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "particles3",
@@ -479,8 +557,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "writingsys",
@@ -496,8 +575,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "genericnoun",
@@ -513,8 +593,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "conditional",
@@ -530,8 +611,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "pastverb",
@@ -547,8 +629,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "adjectives_ex",
@@ -564,8 +647,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "verbs",
@@ -581,8 +665,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "transtype",
@@ -598,8 +683,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "kanji",
@@ -615,8 +701,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "potential",
@@ -632,8 +719,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "adjectives",
@@ -649,8 +737,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "desire",
@@ -666,8 +755,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "subclause",
@@ -683,8 +773,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "surunaru",
@@ -700,8 +791,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "negverb",
@@ -717,8 +809,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "essential",
@@ -734,8 +827,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "wrapup4",
@@ -751,8 +845,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "da",
@@ -768,8 +863,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "basicgram",
@@ -785,8 +881,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "feasibility",
@@ -802,8 +899,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "adgobi",
@@ -819,8 +917,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "othergrammar",
@@ -836,8 +935,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "copula",
@@ -853,8 +953,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "formal",
@@ -870,8 +971,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "honorhum",
@@ -887,8 +989,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "casual",
@@ -904,8 +1007,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "unintended",
@@ -921,8 +1025,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "polite",
@@ -938,8 +1043,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "negverb2",
@@ -955,8 +1061,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "start",
@@ -972,8 +1079,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "amount",
@@ -989,8 +1097,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "timeaction2",
@@ -1006,8 +1115,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "specialexp",
@@ -1023,8 +1133,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "certainty",
@@ -1040,8 +1151,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "advanced",
@@ -1057,8 +1169,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "easyhard",
@@ -1074,8 +1187,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "address",
@@ -1091,8 +1205,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "signs",
@@ -1108,8 +1223,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "adv_volitional",
@@ -1125,8 +1241,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "particles_ex",
@@ -1142,8 +1259,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "even",
@@ -1159,8 +1277,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "compound",
@@ -1176,8 +1295,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "hiragana_ex",
@@ -1193,8 +1313,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "katakana",
@@ -1210,8 +1331,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "numbers",
@@ -1227,8 +1349,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "hiragana",
@@ -1244,8 +1367,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "should",
@@ -1261,8 +1385,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "close_actions",
@@ -1278,8 +1403,9 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       },
       {
         "label": "quotation",
@@ -1295,49 +1421,183 @@
         "review_reasons": [
           "Unfamiliar historical section retained: Tutorial"
         ],
-        "status": "held; content not published",
-        "license_check_required": true
+        "status": "Recovered JGram material with exact reviewed Tutorial omission; separately copyrighted cell not published.",
+        "license_check_required": false,
+        "resolution": "src/takoboto_grammar/section-reviews.yaml"
       }
-    ],
-    "included_entry_observations": 705
+    ]
   },
   "newer_wayback": {
     "indexed_labels": 1414,
     "usable_captures": 43686,
     "repeat_observations_retained": 5154,
-    "included_observations": 63,
+    "included_observations": 890,
     "original_ids_absent_current": [
+      116,
+      596,
+      606,
       610,
       615,
+      630,
+      634,
+      650,
+      713,
+      735,
+      791,
+      796,
+      844,
+      899,
       912,
       924,
       926,
       928,
+      930,
+      935,
+      936,
+      951,
       955,
       957,
       958,
       962,
       964,
+      1000,
+      1030,
+      1035,
+      1143,
       1153,
+      1194,
+      1195,
       1225,
+      1237,
+      1285,
+      1294,
+      1379,
       1393,
+      1397,
+      1410,
+      1411,
+      1412,
+      1414,
+      1415,
+      1416,
+      1417,
+      1418,
+      1419,
+      1420,
+      1422,
+      1423,
+      1424,
+      1425,
+      1426,
+      1427,
+      1428,
+      1429,
+      1430,
+      1431,
+      1432,
+      1433,
+      1434,
+      1435,
+      1436,
+      1438,
+      1439,
+      1440,
+      1441,
+      1442,
+      1443,
+      1444,
+      1445,
+      1446,
+      1447,
+      1448,
+      1449,
+      1450,
+      1451,
+      1452,
+      1453,
+      1454,
+      1455,
+      1456,
+      1457,
+      1458,
+      1459,
+      1460,
+      1461,
+      1462,
+      1470,
+      1476,
       1503,
+      1505,
+      1510,
+      1518,
+      1522,
+      1531,
+      1532,
+      1533,
+      1534,
+      1535,
+      1539,
+      1545,
+      1567,
+      1568,
+      1569,
+      1570,
+      1571,
+      1572,
+      1573,
+      1574,
+      1575,
+      1576,
+      1577,
+      1578,
+      1579,
+      1580,
+      1581,
+      1582,
+      1586,
+      1612,
       1615,
+      1616,
+      1634,
+      1649,
+      1654,
+      1655,
+      1672,
+      1689,
+      1690,
+      1694,
+      1695,
+      1698,
+      1700,
       1705,
       1708,
       1714,
       1718,
       1724,
       1726,
-      1733
+      1733,
+      1765,
+      1767,
+      1782,
+      1786,
+      1793,
+      1794
     ],
-    "verified_exclusions": 4,
-    "unresolved_latest_labels": 1347,
+    "verified_exclusions": 512,
+    "unresolved_latest_labels": 12,
     "unresolved_label_list": "archive-data/coverage-report.json#pending_labels",
     "source_audit": "archive-data/coverage-report.json",
     "feeds": 5,
     "feed_items": 4,
-    "selection": "Latest indexed successful content, with raw-digest proof for equivalent older observations."
+    "selection": "Latest indexed successful content, with raw-digest proof for equivalent older observations.",
+    "entry_observations": 893,
+    "distinct_original_ids": 789,
+    "attempted_labels": 1414,
+    "failed_labels": 11,
+    "review_required": 1,
+    "partial_source_observations": 84,
+    "earlier_observations": 1,
+    "earlier_evidence": "recon/earlier-revisions.yaml"
   },
   "alias_investigation": [
     {
@@ -1361,7 +1621,7 @@
   ],
   "scope_decisions": {
     "reviewed_at": "2026-10-03",
-    "scope": "Original JGram grammar and grammatical usage; excludes dictionary-only vocabulary and explicit non-grammar categories",
+    "scope": "Original grammar/lesson collection and verified grammatical usage, with reviewed dictionary/administration exclusions.",
     "entries": [
       {
         "id": 1615,
@@ -1506,54 +1766,69 @@
         },
         "expected_title_raw": "満点 [まんてん] (manten)"
       }
-    ]
+    ],
+    "followup": "src/takoboto_grammar/grammar-membership.yaml"
   },
   "verification": {
-    "tests_passed": 144,
+    "tests_passed": 166,
     "source_audits": {
       "archive-2015": {
-        "captured_entries": 704,
+        "captured_entries": 766,
         "counts": {
-          "notes": 843,
-          "comments": 3843,
-          "examples": 5537,
-          "relationships": 912,
-          "entries": 704
+          "notes": 846,
+          "comments": 3886,
+          "examples": 5554,
+          "relationships": 924,
+          "entries": 767
         },
         "parsed_records_verified": true,
         "export_ready": true,
-        "historical_coverage_complete": false
+        "historical_coverage_complete": true,
+        "earlier_revisions": {
+          "captured_pages": 0,
+          "entry_observations": 0,
+          "errors": [],
+          "source_verified": true
+        }
       },
       "archive-data": {
-        "captured_entries": 63,
+        "captured_entries": 890,
         "counts": {
-          "notes": 73,
-          "comments": 248,
-          "examples": 446,
-          "relationships": 68,
-          "entries": 63
+          "notes": 944,
+          "comments": 4356,
+          "examples": 6085,
+          "relationships": 1007,
+          "entries": 893
         },
         "parsed_records_verified": true,
         "export_ready": true,
-        "historical_coverage_complete": false
+        "historical_coverage_complete": false,
+        "earlier_revisions": {
+          "captured_pages": 1,
+          "entry_observations": 1,
+          "errors": [],
+          "source_verified": true
+        }
       }
     },
     "source_payloads_verified": {
       "current": 643,
-      "backup_pages": 704,
-      "backup_entries": 705,
-      "newer": 63,
-      "rss": 5
+      "backup_pages": 766,
+      "backup_entries": 767,
+      "newer": 890,
+      "rss": 5,
+      "earlier": 1
     },
     "latest_historical_coverage_complete": false,
     "raw_and_held_content_excluded_from_git": true,
     "index_matches_published_sha1": true,
-    "export_qa": "recon/reevaluation.yaml"
+    "export_qa": "recon/recovery-followup.yaml"
   },
   "remaining_limits": [
-    "63 backup tutorial pages require section and license review; inspected newer Tae Kim material carries CC BY-NC-SA 2.0.",
-    "1347 latest indexed labels unresolved; some overlap dated observations, are aliases or non-grammar candidates. A dated backup cannot establish final revisions.",
-    "Original contribution timestamps unavailable unless displayed; source defects retain exact byte evidence, without guessed corrections."
+    "84 latest and 63 backup observations explicitly omit separately copyrighted Tutorial cells; exact omission evidence retained.",
+    "12 latest labels unresolved: 11 failed replays and one missing-license hold (-oku). All 1414 labels attempted.",
+    "Current IDs 1795 and 1797 lack recovered historical observations; current records are preserved.",
+    "Original contribution timestamps unavailable unless displayed; no guessed dates."
   ],
   "cross_source_gap_check": {
     "current_ids_without_released_backup_observation": [
@@ -1683,8 +1958,6 @@
       1796
     ],
     "remaining_current_ids_without_released_historical_observation": [
-      568,
-      663,
       1795,
       1797
     ],
@@ -1701,23 +1974,6 @@
       "matches": 0,
       "successful_numeric_ID_detail_URLs_in_entire_index": 0
     },
-    "held_newer_cases": [
-      {
-        "label": "da",
-        "original_id": 568,
-        "reason": "Historical extraction has warnings; inspect retained record",
-        "capture": {
-          "timestamp": "20200215030503",
-          "original": "http://jgram.org:80/pages/viewOne.php?tagE=da",
-          "mimetype": "text/html",
-          "digest": "2M5KI6XJNCNN6J3RLHERL2JPRXGVQQZG",
-          "label": "da",
-          "archive_url": "https://web.archive.org/web/20200215030503id_/http://jgram.org:80/pages/viewOne.php?tagE=da"
-        },
-        "response_sha256": "ff8ca39deb8c03d45520baec28c1ee0f5bbcf07e07948cbcef104108423af5af",
-        "content_published": false
-      }
-    ],
     "no_entry_label_evidence": [
       {
         "label": "そう",
@@ -1746,7 +2002,41 @@
         "response_sha256": "0b5d23c59fa7a06c206e7101089ec3a56e0775a8e0227f41089c66e884e8ed41"
       }
     ],
-    "limit": "No-entry responses prove these latest label responses, not absence of earlier or differently named content."
+    "limit": "No-entry responses prove these latest label responses, not absence of earlier or differently named content.",
+    "resolved_followup_cases": [
+      {
+        "id": 568,
+        "resolution": "Reviewed Tutorial omission in latest and backup records"
+      },
+      {
+        "id": 663,
+        "resolution": "Separate earlier indexed sou-2 revision, 20140327015231",
+        "evidence": "recon/earlier-revisions.yaml"
+      }
+    ],
+    "previous_held_newer_cases": [
+      {
+        "label": "da",
+        "original_id": 568,
+        "reason": "Historical extraction has warnings; inspect retained record",
+        "capture": {
+          "timestamp": "20200215030503",
+          "original": "http://jgram.org:80/pages/viewOne.php?tagE=da",
+          "mimetype": "text/html",
+          "digest": "2M5KI6XJNCNN6J3RLHERL2JPRXGVQQZG",
+          "label": "da",
+          "archive_url": "https://web.archive.org/web/20200215030503id_/http://jgram.org:80/pages/viewOne.php?tagE=da"
+        },
+        "response_sha256": "ff8ca39deb8c03d45520baec28c1ee0f5bbcf07e07948cbcef104108423af5af",
+        "content_published": false
+      }
+    ],
+    "held_newer_cases": [
+      {
+        "label": "-oku",
+        "reason": "No inline required license notice; linked copyright notice has no successful indexed capture in bounded 2005 lookup."
+      }
+    ]
   },
   "storage_migration": {
     "canonical_record_format": "yaml",
@@ -1770,5 +2060,6 @@
       "additional_comments": 6
     },
     "source_requests": 0
-  }
+  },
+  "followup": "recon/recovery-followup.yaml"
 }

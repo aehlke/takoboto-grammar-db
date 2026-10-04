@@ -1,0 +1,87 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1629
+label: kotonisuru
+title_raw: ことにする ([ことにする] )(kotonisuru)
+title: ことにする
+reading: ことにする
+romanized_label: kotonisuru
+category: grammar
+jlpt_level_original: '3'
+meaning: Decide to do something 今年日本へ行くことにしました。
+meaning_example: I have decided to go to Japan this year.
+credits_raw: Aes
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=kotonisuru
+archive_url: https://web.archive.org/web/20200215030928id_/http://jgram.org:80/pages/viewOne.php?tagE=kotonisuru
+archive_timestamp: '20200215030928'
+retrieved_at: '2026-10-04T00:52:00+00:00'
+archive_digest: GAWYYEOMGP3J7OPPHJIFVBDA7KJCZL3G
+response_sha256: f5cd4df6422d591d9d92a11276567240bf568c40171f3ef872b43aa4804d78e4
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "formation: 辞書形　＋　ことにする\n\n\n\r\n例）\n\r\nアパートは狭いから、引越しすることにしました。\n\r\nI decided to move because the apartment is too small. \n\n\n\r\n漢字に興味があるので、日本学を勉強することにしました。\n\r\nI decided to study japanese studies because I am interested in Kanji."
+    html: "formation: 辞書形　＋　ことにする<br/>\n<br/>\r\n例）<br/>\r\nアパートは狭いから、引越しすることにしました。<br/>\r\nI decided to move because the apartment is too small. <br/>\n<br/>\r\n漢字に興味があるので、日本学を勉強することにしました。<br/>\r\nI decided to study japanese studies because I am interested in Kanji."
+    credits_raw: maki
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Format: Verb(plain, nonpastform) + ことにしている\n\r\nMeaning: A habit or routine activity\n\r\nExample:\n\n\n\r\n毎朝、うんどうをしている。\n\r\nI exercise every morning (routine)"
+    html: "Format: Verb(plain, nonpastform) + ことにしている<br/>\r\nMeaning: A habit or routine activity<br/>\r\nExample:<br/>\n<br/>\r\n毎朝、うんどうをしている。<br/>\r\nI exercise every morning (routine)"
+    credits_raw: Roxsan
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7095
+    position: 0
+    japanese: 最近ちょっと太ったから毎日ハンバーガーを食べないことにしました。
+    body_text: "最近ちょっと太ったから毎日ハンバーガーを食べないことにしました。 \n\n\t\tI gained a little weight recently so I've decided not to eat hamburgers every day."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ最近ちょっと太ったから毎日ハンバーガーを食べないことにしました。\">\n\t\t\t\t最近ちょっと太ったから毎日ハンバーガーを食べないことにしました。<strong></strong><strong></strong></a> <br/>\n\t\tI gained a little weight recently so I've decided not to eat hamburgers every day. \n\t\t<strong> </strong>"
+    credits_raw: bakabakashii
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7714
+    position: 1
+    japanese: 合格するようにもっと勉強をすることにしました。
+    body_text: "合格するようにもっと勉強をすることにしました。 \n\n\t\tIn order to pass the exam I decided to study harder"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ合格するようにもっと勉強をすることにしました。\">\n\t\t\t\t合格するようにもっと勉強をすることにしました。<strong></strong><strong></strong></a> <br/>\n\t\tIn order to pass the exam I decided to study harder \n\t\t<strong> </strong>"
+    credits_raw: Dom
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries:
+  - position: 0
+    target_label: kotoninaru
+    label: kotoninaru
+    annotation_text: kotoninaru    (It has been decided that... ) [chieko]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=kotoninaru">kotoninaru</a>    (It has been decided that... ) [<a href="http://jgram.org:80/pages/contributions.php?author=chieko">chieko</a>]
+    credits_raw: chieko
+sections:
+  - kind: header
+    text: |-
+      ことにする ([ことにする] )(kotonisuru)
+          Meaning: Decide to do something 今年日本へ行くことにしました。
+          Example: I have decided to go to Japan this year.
+          JLPT Level: 3
+          Category: grammar
+          Author: Aes
+    html: |-
+      <span>ことにする ([ことにする] )(kotonisuru)</span><br/>    <span><b>Meaning</b>: Decide to do something 今年日本へ行くことにしました。</span><br/>    <b>Example</b>: <i>I have decided to go to Japan this year.</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Aes</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215030928'

@@ -1,0 +1,65 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1427
+label: timeaction2
+title_raw: (timeaction2)
+title: (timeaction2)
+reading: null
+romanized_label: timeaction2
+category: lesson
+jlpt_level_original: '0'
+meaning: Expressing time-specific actions （ばかり、とたんに、ながら、まくる）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=timeaction2
+archive_url: https://web.archive.org/web/20200215025857id_/http://jgram.org:80/pages/viewOne.php?tagE=timeaction2
+archive_timestamp: '20200215025857'
+retrieved_at: '2026-10-04T04:29:59+00:00'
+archive_digest: 423HEXNE2JXP6KX7ACOGBIB3LDEC2EWY
+response_sha256: c6533b49522bffc63905b9c39704702e73da0a688cffab025a7a7b82a147cf8a
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      (timeaction2)
+          Meaning: Expressing time-specific actions （ばかり、とたんに、ながら、まくる）
+          JLPT Level: 0
+          Category: lesson
+          Author: TaeKim
+    html: |-
+      <span> (timeaction2)</span><br/>    <span><b>Meaning</b>: Expressing time-specific actions （ばかり、とたんに、ながら、まくる）</span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: timeaction2
+    id: 1427
+    title_raw: (timeaction2)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=timeaction2
+    response_sha256: c6533b49522bffc63905b9c39704702e73da0a688cffab025a7a7b82a147cf8a
+    section: Tutorial
+    section_html_sha256: 2d7cbc2917f3dd09a20573127ca28a2364309933d2084cb5c56314638144f910
+    section_text_sha256: f22be2c4127d745c62b9113f5f42776f9d582631a5316153c86f47847e6a6c5c
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8073
+    source_byte_length: 18461
+    section_bytes_sha256: ed733c3596a400a80069f131596242965aa4dac8dadc6cb48d1e50b44cd381dd
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215025857'

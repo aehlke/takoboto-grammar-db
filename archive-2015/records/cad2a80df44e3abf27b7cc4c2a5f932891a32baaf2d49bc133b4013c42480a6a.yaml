@@ -1,0 +1,74 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1446
+label: polite
+title_raw: 礼儀正しい  ([ れいぎただしい] )(polite)
+title: 礼儀正しい
+reading: れいぎただしい
+romanized_label: polite
+category: lesson
+jlpt_level_original: '3'
+meaning: Polite Form and Verb Stems　（〜です、〜ます） Reigi tadashii
+meaning_example: he is polite to a lady
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=polite
+archive_url: https://web.archive.org/web/20150224233355id_/http://www.jgram.org/pages/viewOne.php?tagE=polite
+archive_timestamp: '20150224233355'
+retrieved_at: '2026-10-03T16:06:59+00:00'
+archive_digest: SP7Y7ZZOVUGAADQDW4FLVSTKOHFYIKA2
+response_sha256: e68584a87b18fed781a4570b8b58ed95a5302e77bf06901eaa81a4b42c794f33
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      礼儀正しい  ([ れいぎただしい] )(polite)
+          Meaning: Polite Form and Verb Stems　（〜です、〜ます） Reigi tadashii
+          Example: he is polite to a lady
+          JLPT Level: 3
+          Category: lesson
+          Author: TaeKim
+    html: |-
+      <span>礼儀正しい  ([ れいぎただしい] )(polite)</span><br/>    <span><b>Meaning</b>: Polite Form and Verb Stems　（〜です、〜ます） Reigi tadashii</span><br/>    <b>Example</b>: <i>he is polite to a lady</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: polite
+    id: 1446
+    title_raw: 礼儀正しい  ([ れいぎただしい] )(polite)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=polite
+    response_sha256: e68584a87b18fed781a4570b8b58ed95a5302e77bf06901eaa81a4b42c794f33
+    section: Tutorial
+    section_html_sha256: 8bc73067c1407aef19fe3233f59522f80a55e4edf81372f6775272e4aab03074
+    section_text_sha256: 2f18c3fe88e716e261208bb0ee960b2e54cf312c22a55109d0ddbfe829fab1bc
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8913
+    source_byte_length: 24487
+    section_bytes_sha256: 3d7c742a238581d6b3411eb9ea3709c98837229bf8e7646bbc92ea828f20c8d1
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224233355'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 51422290
+  length: 11415
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 8c4c7135a0362382ae44cf4d05dc496b293abf345e22935d07a25c7d58f32e36

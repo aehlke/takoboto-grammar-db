@@ -1,0 +1,157 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 674
+label: jou
+title_raw: 上 [じょう] (jou)
+title: 上
+reading: じょう
+romanized_label: jou
+category: grammar
+jlpt_level_original: '2'
+meaning: point of view
+meaning_example: this film isn't good from the educational POV
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=jou
+archive_url: https://web.archive.org/web/20200215023334id_/http://jgram.org:80/pages/viewOne.php?tagE=jou
+archive_timestamp: '20200215023334'
+retrieved_at: '2026-10-04T00:33:55+00:00'
+archive_digest: OS6KWQCOONLBYMK4Z7AKX4WUZY7Q5TYR
+response_sha256: a47af835920fdcf246361a90a2a120f162b1a3f50b6fc2add2d21b498f5b4f1a
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 1070
+    position: 0
+    japanese: この映画は教育上良くない。
+    body_text: "この映画は教育上良くない。 \n\nfrom an \n\t\teducational point of view this film is not good"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの映画は教育上良くない。\">\n\t\t\t\tこの映画は教育<strong>上</strong>良くない。<strong></strong></a> <br/>\n<strong>from an </strong>\n\t\teducational point of view this film is not good"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1071
+    position: 1
+    japanese: 健康上の理由で、引退することにした。
+    body_text: "健康上の理由で、引退することにした。 \n\nFor \n\t\thealth reasons, I have decided to retire"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ健康上の理由で、引退することにした。\">\n\t\t\t\t健康<strong>上</strong>の理由で、引退することにした。<strong></strong></a> <br/>\n<strong>For </strong>\n\t\thealth reasons, I have decided to retire"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1072
+    position: 2
+    japanese: 計算上はこれで正しい。
+    body_text: "計算上はこれで正しい。 \n\n \n\t\tIn terms of calculation, this is correct"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ計算上はこれで正しい。\">\n\t\t\t\t計算<strong>上</strong>はこれで正しい。<strong></strong></a> <br/>\n<strong> </strong>\n\t\tIn terms of calculation, this is correct"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4597
+    position: 3
+    japanese: ２国間の貿易上のアンバランスを改善しなければならない。
+    body_text: "２国間の貿易上のアンバランスを改善しなければならない。 \n\n\t\tThe trade imbalance between two nations should be improved."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ２国間の貿易上のアンバランスを改善しなければならない。\">\n\t\t\t\t２国間の貿易<strong>上</strong>のアンバランスを改善しなければならない。<strong></strong></a> <br/>\n\t\tThe trade imbalance between two nations should be improved. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4598
+    position: 4
+    japanese: あくまで理論上では、その計画は可能である。
+    body_text: "あくまで理論上では、その計画は可能である。 \n\n\t\tOnly in theory, the project is possible."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあくまで理論上では、その計画は可能である。\">\n\t\t\t\tあくまで理論<strong>上</strong>では、その計画は可能である。<strong></strong></a> <br/>\n\t\tOnly in theory, the project is possible. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4600
+    position: 5
+    japanese: 結果の不正確さは言うまでもなく、方法論上の問題が数多く存在している。
+    body_text: "結果の不正確さは言うまでもなく、方法論上の問題が数多く存在している。 \n\n\t\tThere are a number of methodological problems here, not to mention the inaccuracy of some of the results."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ結果の不正確さは言うまでもなく、方法論上の問題が数多く存在している。\">\n\t\t\t\t結果の不正確さは言うまでもなく、方法論<strong>上</strong>の問題が数多く存在している。<strong></strong></a> <br/>\n\t\tThere are a number of methodological problems here, not to mention the inaccuracy of some of the results. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4601
+    position: 6
+    japanese: この場合は、翻訳は事実上不可能だ。
+    body_text: "この場合は、翻訳は事実上不可能だ。 \n\n\t\tIn this case, translation is virtually impossible."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの場合は、翻訳は事実上不可能だ。\">\n\t\t\t\tこの場合は、翻訳は事実<strong>上</strong>不可能だ。<strong></strong></a> <br/>\n\t\tIn this case, translation is virtually impossible. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6156
+    position: 7
+    japanese: 私たちは、一緒に暮らしているけれども、法律上は夫婦ではないんです。
+    body_text: "私たちは、一緒に暮らしているけれども、法律上は夫婦ではないんです。 \n\n\t\tEven though we're living together, \n\t\tfrom a legal standpoint, \n\t\twe're not married."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私たちは、一緒に暮らしているけれども、法律上は夫婦ではないんです。\">\n\t\t\t\t私たちは、一緒に暮らしているけれども、法律<strong>上</strong>は夫婦ではないんです。<strong></strong></a> <br/>\n\t\tEven though we're living together, \n\t\t<strong>from a legal standpoint, </strong>\n\t\twe're not married."
+    credits_raw: rubyhatchet
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7233
+    position: 8
+    japanese: 法律上
+    body_text: "法律上 \n\nIn \n\t\tthe eyes of the law"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ法律上\">\n法律<strong>上</strong><strong></strong></a> <br/>\n<strong>In </strong>\n\t\tthe eyes of the law"
+    credits_raw: IMABI
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7234
+    position: 9
+    japanese: 実際上は
+    body_text: "実際上は  \n\nIn \n\t\tpractice"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ実際上は \">\n実際<strong>上</strong>は <strong></strong></a> <br/>\n<strong>In </strong>\n\t\tpractice"
+    credits_raw: IMABI
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8191
+    position: 10
+    japanese: この計画は理論上は問題ない。
+    body_text: "この計画は理論上は問題ない。 \n\n\t\tThis plan is excellent in theory."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの計画は理論上は問題ない。\">\n\t\t\t\tこの計画は理論<strong>上</strong>は問題ない。<strong></strong></a> <br/>\n\t\tThis plan is excellent in theory. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: "Formed from noun + jou\n\r\nN = noun"
+    html: "Formed from noun + jou<br/>\r\nN = noun"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "上 [じょう] (jou)\n    Meaning: point of view \n    Example: this film isn't good from the educational POV\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>上 [じょう] (jou)</span><br/>    <span><b>Meaning</b>: point of view </span><br/>    <b>Example</b>: <i>this film isn't good from the educational POV</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215023334'

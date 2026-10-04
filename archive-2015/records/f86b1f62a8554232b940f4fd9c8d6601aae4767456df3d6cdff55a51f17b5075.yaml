@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1572
+label: should
+title_raw: Things that should be a certain way [（はず、べき、べく、べからず）] (should)
+title: Things that should be a certain way
+reading: （はず、べき、べく、べからず）
+romanized_label: should
+category: lesson
+jlpt_level_original: '3'
+meaning: Things that should be a certain way （はず、べき、べく、べからず）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=should
+archive_url: https://web.archive.org/web/20150224234739id_/http://www.jgram.org/pages/viewOne.php?tagE=should
+archive_timestamp: '20150224234739'
+retrieved_at: '2026-10-03T16:08:17+00:00'
+archive_digest: PEMEGWNVKCTF577PWJ724HSDX4VY3JOT
+response_sha256: 6ff8fef4f06b3bc3cbfae615c0bf04e9092f97a6772656967860f639c8f15324
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "Things that should be a certain way [（はず、べき、べく、べからず）] (should)\n    Meaning: Things that should be a certain way （はず、べき、べく、べからず） \n    JLPT Level: 3\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Things that should be a certain way [（はず、べき、べく、べからず）] (should)</span><br/>    <span><b>Meaning</b>: Things that should be a certain way （はず、べき、べく、べからず） </span><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: should
+    id: 1572
+    title_raw: Things that should be a certain way [（はず、べき、べく、べからず）] (should)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=should
+    response_sha256: 6ff8fef4f06b3bc3cbfae615c0bf04e9092f97a6772656967860f639c8f15324
+    section: Tutorial
+    section_html_sha256: d12ff5e0faaefa499bb0fb18c15efd50d9565404b24df02b247aa7b29e9faff8
+    section_text_sha256: 6c557281133f0c4aff6da2a14cc14564679080d579b856dc995715620d1d5945
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8938
+    source_byte_length: 11295
+    section_bytes_sha256: 5200cbbb794c210f51de721cc0faa3b0064892550fba9d112f4c4d673d9bfe37
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224234739'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 59703873
+  length: 9123
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 15243b94b7bbad89c124ed41aa2d177a512f178bc6a52ddefbb4193c24712683

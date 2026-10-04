@@ -1,0 +1,351 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 307
+label: hodo
+title_raw: 〜程 [〜ほど] (hodo)
+title: 〜程
+reading: 〜ほど
+romanized_label: hodo
+category: grammar
+jlpt_level_original: '2'
+meaning: the more... the more...  as  along with, to the extent
+meaning_example: the colder it is, the more delicious sake can be made
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=hodo
+archive_url: https://web.archive.org/web/20200215025001id_/http://jgram.org:80/pages/viewOne.php?tagE=hodo
+archive_timestamp: '20200215025001'
+retrieved_at: '2026-10-04T00:28:21+00:00'
+archive_digest: 6WFQAR3TYUN3DXU7MS2SFGVDWYRF2XXH
+response_sha256: 1e5757b79fd24d3a01ec1f86e11bbeb0e9b64683de898a814f4865d81d502a5d
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: Ｔｈｉｓ　ｇｒａｍｍａｒ　ｐａｔｔｅｒｎ　ｓｈｏｕｌｄ　ｈａｖｅ　〜ば　Ｂｅｆｏｒｅ　ほど。
+    html: Ｔｈｉｓ　ｇｒａｍｍａｒ　ｐａｔｔｅｒｎ　ｓｈｏｕｌｄ　ｈａｖｅ　〜ば　Ｂｅｆｏｒｅ　ほど。
+    credits_raw: yuurei007
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 263
+    position: 0
+    japanese: 寒ければ寒い（Ｗｅａｔｈｅｒ）冷たければ冷たい（Ｓａｋｅ）ほどお酒がおいしくなると言われている
+    body_text: "寒ければ寒い（Ｗｅａｔｈｅｒ）冷たければ冷たい（Ｓａｋｅ）ほどお酒がおいしくなると言われている \n\n\t\tthe colder it is \n\t\tthe more \n\t\tdelicious sake can become, it is said"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ寒ければ寒い（Ｗｅａｔｈｅｒ）冷たければ冷たい（Ｓａｋｅ）ほどお酒がおいしくなると言われている\">\n寒ければ寒い（Ｗｅａｔｈｅｒ）冷たければ冷たい（Ｓａｋｅ）<strong>ほど</strong>お酒がおいしくなると言われている<strong></strong></a> <br/>\n\t\tthe colder it is \n\t\t<strong>the more </strong>\n\t\tdelicious sake can become, it is said"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 666
+    position: 1
+    japanese: 彼は口も利けないほど腹を立てていた。
+    body_text: "彼は口も利けないほど腹を立てていた。 \n\n\t\tHe could not speak, he was \n\t\tso \n\t\tangry."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は口も利けないほど腹を立てていた。\">\n\t\t\t\t彼は口も利けない<strong>ほど</strong>腹を立てていた。<strong></strong></a> <br/>\n\t\tHe could not speak, he was \n\t\t<strong>so </strong>\n\t\tangry."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1211
+    position: 2
+    japanese: ドアが閉まらないほど込んでいます。
+    body_text: "ドアが閉まらないほど込んでいます。 \n\n\t\tIt is \n\t\tso \n\t\tcrowded, the door cannot be closed"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJドアが閉まらないほど込んでいます。\">\n\t\t\t\tドアが閉まらない<strong>ほど</strong>込んでいます。<strong></strong></a> <br/>\n\t\tIt is \n\t\t<strong>so </strong>\n\t\tcrowded, the door cannot be closed"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4546
+    position: 3
+    japanese: 一日では食べきれないほどのリンゴがある。
+    body_text: "一日では食べきれないほどのリンゴがある。 \n\n\t\tWe have more apples than we could eat in a day."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ一日では食べきれないほどのリンゴがある。\">\n\t\t\t\t一日では食べきれない<strong>ほど</strong>のリンゴがある。<strong></strong></a> <br/>\n\t\tWe have more apples than we could eat in a day. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4547
+    position: 4
+    japanese: この英語の小説は、君が一週間で読めるほどやさしくない。
+    body_text: "この英語の小説は、君が一週間で読めるほどやさしくない。 \n\n\t\tThis English novel is not easy enough for you to read in a week."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの英語の小説は、君が一週間で読めるほどやさしくない。\">\n\t\t\t\tこの英語の小説は、君が一週間で読める<strong>ほど</strong>やさしくない。<strong></strong></a> <br/>\n\t\tThis English novel is not easy enough for you to read in a week. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4548
+    position: 5
+    japanese: この家具のほうが比較にならないほど上等である。
+    body_text: "この家具のほうが比較にならないほど上等である。 \n\n\t\tThis furniture is superior beyond comparison."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの家具のほうが比較にならないほど上等である。\">\n\t\t\t\tこの家具のほうが比較にならない<strong>ほど</strong>上等である。<strong></strong></a> <br/>\n\t\tThis furniture is superior beyond comparison. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4549
+    position: 6
+    japanese: この果物は摘み取られるほど成長していない。
+    body_text: "この果物は摘み取られるほど成長していない。 \n\n\t\tThis fruit has not ripened enough to be picked."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの果物は摘み取られるほど成長していない。\">\n\t\t\t\tこの果物は摘み取られる<strong>ほど</strong>成長していない。<strong></strong></a> <br/>\n\t\tThis fruit has not ripened enough to be picked. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4550
+    position: 7
+    japanese: この仕事は死ぬほどしんどい。
+    body_text: "この仕事は死ぬほどしんどい。 \n\n\t\tThis job is killing me."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの仕事は死ぬほどしんどい。\">\n\t\t\t\tこの仕事は死ぬ<strong>ほど</strong>しんどい。<strong></strong></a> <br/>\n\t\tThis job is killing me. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4551
+    position: 8
+    japanese: 愛するものを失う（こと）ほどつらいことはない。
+    body_text: "愛するものを失う（こと）ほどつらいことはない。 \n\n\t\tNothing is \n\t\tas \n\t\tterrible as losing someone you love."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ愛するものを失う（こと）ほどつらいことはない。\">\n\t\t\t\t愛するものを失う（こと）<strong>ほど</strong>つらいことはない。<strong></strong></a> <br/>\n\t\tNothing is \n\t\t<strong>as </strong>\n\t\tterrible as losing someone you love."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4552
+    position: 9
+    japanese: この店は僕が望んでいるほど遅くまで開いていない。
+    body_text: "この店は僕が望んでいるほど遅くまで開いていない。 \n\n\t\tThis store doesn't stay open as late as I'd like. [M]"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの店は僕が望んでいるほど遅くまで開いていない。\">\n\t\t\t\tこの店は僕が望んでいる<strong>ほど</strong>遅くまで開いていない。<strong></strong></a> <br/>\n\t\tThis store doesn't stay open as late as I'd like. [M] \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4553
+    position: 10
+    japanese: この薬は鼻水に不思議なほどよく効く。
+    body_text: "この薬は鼻水に不思議なほどよく効く。 \n\n\t\tThis medicine will do wonders for a runny nose."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの薬は鼻水に不思議なほどよく効く。\">\n\t\t\t\tこの薬は鼻水に不思議な<strong>ほど</strong>よく効く。<strong></strong></a> <br/>\n\t\tThis medicine will do wonders for a runny nose. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4554
+    position: 11
+    japanese: これまで訪れた中で、エベレストほど美しい山を見たことがない。
+    body_text: "これまで訪れた中で、エベレストほど美しい山を見たことがない。 \n\n\t\tIn all my travels I've never seen a more beautiful mountain than Everest."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこれまで訪れた中で、エベレストほど美しい山を見たことがない。\">\n\t\t\t\tこれまで訪れた中で、エベレスト<strong>ほど</strong>美しい山を見たことがない。<strong></strong></a> <br/>\n\t\tIn all my travels I've never seen a more beautiful mountain than Everest. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4555
+    position: 12
+    japanese: そう言う訳で、私は彼を死ぬほど憎んでいる。
+    body_text: "そう言う訳で、私は彼を死ぬほど憎んでいる。 \n\n\t\tThat's why I have such an extreme hatred for him."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJそう言う訳で、私は彼を死ぬほど憎んでいる。\">\n\t\t\t\tそう言う訳で、私は彼を死ぬ<strong>ほど</strong>憎んでいる。<strong></strong></a> <br/>\n\t\tThat's why I have such an extreme hatred for him. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4556
+    position: 13
+    japanese: そのコーヒーは私が飲めないほど熱かった。
+    body_text: "そのコーヒーは私が飲めないほど熱かった。 \n\n\t\tThe coffee was too hot for me to drink."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJそのコーヒーは私が飲めないほど熱かった。\">\n\t\t\t\tそのコーヒーは私が飲めない<strong>ほど</strong>熱かった。<strong></strong></a> <br/>\n\t\tThe coffee was too hot for me to drink. \n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4576
+    position: 14
+    japanese: あの店はこちらの都合に合わせるほど遅くまでやっていない。
+    body_text: "あの店はこちらの都合に合わせるほど遅くまでやっていない。 \n\n\t\tThat shop does not stay open \n\t\tas late as \n\t\twould suit my convenience."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあの店はこちらの都合に合わせるほど遅くまでやっていない。\">\nあの店はこちらの都合に合わせる<strong>ほど</strong>遅くまでやっていない。<strong></strong></a> <br/>\n\t\tThat shop does not stay open \n\t\t<strong>as late as </strong>\n\t\twould suit my convenience."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7809
+    position: 15
+    japanese: 私はあなたほど忙しいく有りません。
+    body_text: "私はあなたほど忙しいく有りません。　 \n\n\t\tI'm not \n\t\tas \n\t\tbusy as you are."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私はあなたほど忙しいく有りません。　\">\n\t\t\t\t私はあなた<strong>ほど</strong>忙しいく有りません。　<strong></strong></a> <br/>\n\t\tI'm not \n\t\t<strong>as </strong>\n\t\tbusy as you are."
+    credits_raw: Rinji_HalfElf
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8606
+    position: 16
+    japanese: 相撲では、太っているほど有利だ。
+    body_text: "相撲では、太っているほど有利だ。 \n\n\t\tAt Sumo, the fatter you are, the better."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ相撲では、太っているほど有利だ。\">\n\t\t\t\t相撲では、太っているほど有利だ。<strong></strong><strong></strong></a> <br/>\n\t\tAt Sumo, the fatter you are, the better. \n\t\t<strong> </strong>"
+    credits_raw: DrJones
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: "In the second example, 閉まらないほど would be \"cannot be closed\" instead of opened.\n\r\nIn the third example, \"can be made\" assumes possibility of human intervention, whereas 出来る denies that. So, the English should be \"can become\" instead of \"can be made.\""
+    html: "In the second example, 閉まらないほど would be \"cannot be closed\" instead of opened.<br/>\r\nIn the third example, \"can be made\" assumes possibility of human intervention, whereas 出来る denies that. So, the English should be \"can become\" instead of \"can be made.\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: gtunak85
+    text: "ex. 666 and 1211 seem different from 263.\n\r\nThe first two have the effect coming before ほど.. can not speakほどangry. can not openほどcrowded.\n\r\nExample 263 seems backwards, but is similar to the explanation for 〜ば〜ほど.\n\r\nCould someone explain the first two examples, please?"
+    html: "ex. 666 and 1211 seem different from 263.<br/>\r\nThe first two have the effect coming before ほど.. can not speakほどangry. can not openほどcrowded.<br/>\r\nExample 263 seems backwards, but is similar to the explanation for 〜ば〜ほど.<br/>\r\nCould someone explain the first two examples, please?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: gtunak85
+    text: "To add to that, the first two examples, ほど has the effect of \"such that.\"\n\r\nSuch that he could not speak, he was angry.\n\r\nSuch that the door could not be closed, it was crowded.\n\r\nDoes that soudn right?"
+    html: "To add to that, the first two examples, ほど has the effect of \"such that.\"<br/>\r\nSuch that he could not speak, he was angry.<br/>\r\nSuch that the door could not be closed, it was crowded.<br/>\r\nDoes that soudn right?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: bamboo4
+    text: "I think it is smoother if the English versions of the first two examples read:\n\r\nHe was so angry that he could hardly speak.\n\r\nIt was so crowded that the door cluld not be closed."
+    html: "I think it is smoother if the English versions of the first two examples read:<br/>\r\nHe was so angry that he could hardly speak.<br/>\r\nIt was so crowded that the door cluld not be closed.<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: jpeppel
+    text: |-
+      お酒 would be 冷たい (tsumetai) not 寒い (samui), wouldn't it?  I get this one confused a lot--based on situation, so I thought I'd ask to clarify.
+    html: |-
+      お酒 would be 冷たい (tsumetai) not 寒い (samui), wouldn't it?  I get this one confused a lot--based on situation, so I thought I'd ask to clarify.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: anon
+    text: |-
+      Yes, but this is not talking about the sake itself - but the environment in which it is made... from the icy north comes delicious sake... ってこと？
+    html: |-
+      Yes, but this is not talking about the sake itself - but the environment in which it is made... from the icy north comes delicious sake... ってこと？
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: anon
+    text: 'or possibly depending on context: in cold weather hot sake tastes more delicious?'
+    html: 'or possibly depending on context: in cold weather hot sake tastes more delicious?'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: bamboo4
+    text: 出来る cannot have the connotation of "taste more delicious."
+    html: 出来る cannot have the connotation of "taste more delicious."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: jj
+    text: |-
+      but isn't this talking about "making" お酒 as opposed to tasting, as mentioned above (...from the icy north comes delicious sake)?
+    html: |-
+      but isn't this talking about "making" お酒 as opposed to tasting, as mentioned above (...from the icy north comes delicious sake)?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: 誠
+    text: "i think the entry meaning should be \" so〜(such)that...\" for \" 〜ほど \"\n\r\n\"the more... , the more ...\"　should be the entry for \"〜ば〜ほど \" , therefore any examples with the meaning \" the more... the more...\" should be moved to the corresponding entry, to avoid confusion. お願い致します"
+    html: "i think the entry meaning should be \" so〜(such)that...\" for \" 〜ほど \"<br/>\r\n\"the more... , the more ...\"　should be the entry for \"〜ば〜ほど \" , therefore any examples with the meaning \" the more... the more...\" should be moved to the corresponding entry, to avoid confusion. お願い致します"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: Lucia06
+    text: "会場にあふれるほど、ギターを持った若者が集まっていた\n\n\n\r\n戦争ほど悲惨なものはない\n\n\n\r\nHave these ほど　the same meaning? ?_?"
+    html: "会場にあふれるほど、ギターを持った若者が集まっていた<br/>\n<br/>\r\n戦争ほど悲惨なものはない<br/>\n<br/>\r\nHave these ほど　the same meaning? ?_?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: Sumofan
+    text: I think "extent" is the best single-word equivalent for ほど. It fits with most of the example sentences above.
+    html: I think "extent" is the best single-word equivalent for ほど. It fits with most of the example sentences above.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: pingpongpaddle
+    text: 'I agree with Sumofan. I found this sentence in a song: 飽きるほど　でんわした. I called until I got tired of calling.'
+    html: 'I agree with Sumofan. I found this sentence in a song: 飽きるほど　でんわした. I called until I got tired of calling.'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: yookoso
+    text: "I also learned that \"extent\" or \"as much as\" is a good representation for ほど. \n\n\n\r\nAlso, I once read a Japan Times piece about the set phrase それほどではありません。Apparently, it is good to use whenever you want to respond humbly to a compliment (e.g. about how good your lousy Japanese is)."
+    html: "I also learned that \"extent\" or \"as much as\" is a good representation for ほど. <br/>\n<br/>\r\nAlso, I once read a Japan Times piece about the set phrase それほどではありません。Apparently, it is good to use whenever you want to respond humbly to a compliment (e.g. about how good your lousy Japanese is)."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: tigert
+    text: |-
+      Yookosoさん、ありがとうございます。I have been wanting to know the polite way to say, "I know my japanese sucks, but thanks for the complement."　今まで僕は「まぁ、そんな。。。」を使いましたがそれは本当に女性の話し方ですね。一人のコーワーカは僕に「マットさん、大釜ですか？」と聞きました。ほかの人々は「やっぱりマットさんの日本語の先生が女の人ですね」ということもあります。
+    html: |-
+      Yookosoさん、ありがとうございます。I have been wanting to know the polite way to say, "I know my japanese sucks, but thanks for the complement."　今まで僕は「まぁ、そんな。。。」を使いましたがそれは本当に女性の話し方ですね。一人のコーワーカは僕に「マットさん、大釜ですか？」と聞きました。ほかの人々は「やっぱりマットさんの日本語の先生が女の人ですね」ということもあります。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    credits_raw: DrJones
+    text: This is JLPT2
+    html: This is JLPT2
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: ba~hodo
+    label: ba~hodo
+    annotation_text: ba~hodo    (The ほど in ~ば - ほど is also used on its own.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=ba~hodo">ba~hodo</a>    (The ほど in ~ば - ほど is also used on its own.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: kurai, gurai
+    label: kurai, gurai
+    annotation_text: kurai, gurai [rubyhatchet]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=kurai, gurai">kurai, gurai</a> [<a href="http://jgram.org:80/pages/contributions.php?author=rubyhatchet">rubyhatchet</a>]
+    credits_raw: rubyhatchet
+sections:
+  - kind: header
+    text: "〜程 [〜ほど] (hodo)\n    Meaning: the more... the more...  as  along with, to the extent \n    Example: the colder it is, the more delicious sake can be made\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>〜程 [〜ほど] (hodo)</span><br/>    <span><b>Meaning</b>: the more... the more...  as  along with, to the extent </span><br/>    <b>Example</b>: <i>the colder it is, the more delicious sake can be made</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215025001'

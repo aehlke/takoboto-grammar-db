@@ -1,0 +1,100 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 376
+label: saeba
+title_raw: 〜さえ〜ば [〜さえ〜ば] (saeba)
+title: 〜さえ〜ば
+reading: 〜さえ〜ば
+romanized_label: saeba
+category: grammar
+jlpt_level_original: '2'
+meaning: If ~ just  If ~ only
+meaning_example: if you just have a map, you
+credits_raw: dc
+source_url: http://www.jgram.org:80/pages/viewOne.php?tagE=saeba
+archive_url: https://web.archive.org/web/20080210104354id_/http://www.jgram.org:80/pages/viewOne.php?tagE=saeba
+archive_timestamp: '20080210104354'
+retrieved_at: '2026-10-04T04:17:12+00:00'
+archive_digest: F5XDKDV7CHGLSZL57Y7WO6L3KWIE5MVC
+response_sha256: 9b61b3b68bc69fa1086946081efd0fd5cb002ce816386053c424f2b16da0ea3d
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "さえ is often used in a pattern like:\n\n\n\r\nnoun-sae　verb-ba = result\n\r\nnoun-only verb-if = result\n\n\n\r\nひま<b>さえ</b>　あれ<b>ば</b>　幸せです\n\r\nfree time <b>only</b> <b>if</b> I had = I would be happy\n\r\nif only i had some free time, i would be happy\n\n\n\r\n薬<b>さえ</b>　飲め<b>ば</b>、直ります\n\r\nmedicine <b>only</b> <b>if</b> you drink = get better\n\r\nif you just take your medicine, you will get better"
+    html: "さえ is often used in a pattern like:<br/>\n<br/>\r\nnoun-sae　verb-ba = result<br/>\r\nnoun-only verb-if = result<br/>\n<br/>\r\nひま&lt;b&gt;さえ&lt;/b&gt;　あれ&lt;b&gt;ば&lt;/b&gt;　幸せです<br/>\r\nfree time &lt;b&gt;only&lt;/b&gt; &lt;b&gt;if&lt;/b&gt; I had = I would be happy<br/>\r\nif only i had some free time, i would be happy<br/>\n<br/>\r\n薬&lt;b&gt;さえ&lt;/b&gt;　飲め&lt;b&gt;ば&lt;/b&gt;、直ります<br/>\r\nmedicine &lt;b&gt;only&lt;/b&gt; &lt;b&gt;if&lt;/b&gt; you drink = get better<br/>\r\nif you just take your medicine, you will get better"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 361
+    position: 0
+    japanese: 地図さえあれば、何の迷いもなく目的地に到着します。.
+    body_text: "地図さえあれば、何の迷いもなく目的地に到着します。.  \n\nIf only \r\n\t\twe had a map we'd get to our destination without going astray."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ地図さえあれ\">\n地図<strong>さえ</strong>あれ<strong>ば、</strong>何の迷いもなく目的地に到着します。. </a> <br/>\n<strong>If only </strong>\r\n\t\twe had a map we'd get to our destination without going astray."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5238
+    position: 1
+    japanese: お金さえあれば、この車を買います。
+    body_text: "お金さえあれば、この車を買います。 \n\nIf only I had the money, \r\n\t\tI would have bought this car."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJお金さえあれ\">\nお金<strong>さえ</strong>あれ<strong>ば</strong>、この車を買います。</a> <br/>\n<strong>If only I had the money, </strong>\r\n\t\tI would have bought this car."
+    credits_raw: eastmael
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6130
+    position: 2
+    japanese: "資料を調べ\r\nさえすれば、すぐ分かることです。"
+    body_text: "資料を調べ\r\nさえすれば、すぐ分かることです。 \n\nIf you would only \r\n\t\tcheck the documents, you'd understand immediately."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ資料を調べさえすれば、すぐ分かることです。\">\r\n\t\t\t\t資料を調べ\r\n<strong>さえすれば</strong>、すぐ分かることです。<strong></strong></a> <br/>\n<strong>If you would only </strong>\r\n\t\tcheck the documents, you'd understand immediately."
+    credits_raw: rubyhatchet
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: |-
+      In the example, 何の迷いもなく到着します does not make sense. It should be 迷わないで到着できたのに(we would have gotten to our destination without going astray). 迷いもなく is okay, but normally it is used to describe abstruct mental confusion rather than physical or concrete one.
+    html: |-
+      In the example, 何の迷いもなく到着します does not make sense. It should be 迷わないで到着できたのに(we would have gotten to our destination without going astray). 迷いもなく is okay, but normally it is used to describe abstruct mental confusion rather than physical or concrete one.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: ngocduong
+    text: sentence pattern "sae..ba"= coditional sentence type III???
+    html: sentence pattern "sae..ba"= coditional sentence type III???
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: sae
+    label: sae
+    annotation_text: sae    (The さえ in さえ〜ば can also be used on its own.)
+    annotation_html: |-
+      <a href="http://www.jgram.org:80/pages/viewOne.php?tagE=sae">sae</a>    (The さえ in さえ〜ば can also be used on its own.)
+    credits_raw: null
+sections:
+  - kind: header
+    text: "〜さえ〜ば [〜さえ〜ば] (saeba)\n    Meaning: If ~ just  If ~ only \n    Example: if you just have a map, you\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>〜さえ〜ば [〜さえ〜ば] (saeba)</span><br/>    <span><b>Meaning</b>: If ~ just  If ~ only </span><br/>    <b>Example</b>: <i>if you just have a map, you</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20080210104354'

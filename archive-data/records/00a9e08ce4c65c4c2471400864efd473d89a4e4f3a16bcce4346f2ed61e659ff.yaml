@@ -1,0 +1,73 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1458
+label: similar
+title_raw: 類似 ([るいじ] )(similar)
+title: 類似
+reading: るいじ
+romanized_label: similar
+category: lesson
+jlpt_level_original: '3'
+meaning: Various ways to express similarity and hearsay　（よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい） ruiji
+meaning_example: Similar
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=similar
+archive_url: https://web.archive.org/web/20200215022357id_/http://jgram.org:80/pages/viewOne.php?tagE=similar
+archive_timestamp: '20200215022357'
+retrieved_at: '2026-10-04T04:20:29+00:00'
+archive_digest: RH6QSQUVLSAYV27NQCXHQH7W5U63LKTF
+response_sha256: 8f3557aee44a6f64637744b07238765ffb96cba5150afb2639fac4d24f145be6
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: 読んだ
+    html: 読んだ
+    credits_raw: sakuramoo
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      類似 ([るいじ] )(similar)
+          Meaning: Various ways to express similarity and hearsay　（よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい） ruiji
+          Example: Similar
+          JLPT Level: 3
+          Category: lesson
+          Author: TaeKim
+    html: |-
+      <span>類似 ([るいじ] )(similar)</span><br/>    <span><b>Meaning</b>: Various ways to express similarity and hearsay　（よう、〜みたい、〜そう、〜そうだ、〜らしい、〜っぽい） ruiji</span><br/>    <b>Example</b>: <i>Similar</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: similar
+    id: 1458
+    title_raw: 類似 ([るいじ] )(similar)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=similar
+    response_sha256: 8f3557aee44a6f64637744b07238765ffb96cba5150afb2639fac4d24f145be6
+    section: Tutorial
+    section_html_sha256: e6e0f83f1236718008b335cd201ac2be2f675b980cd6d9f993e4cf64a71c415d
+    section_text_sha256: 9f0d3166f7b3f6a7793dc2f3c42ba0b6c8d879f01fac833b11fb77f5841afc0c
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8323
+    source_byte_length: 20969
+    section_bytes_sha256: ad6b03efecd8bc68d03447a24251f0a0f21a1da72db35ee2007cf244c8495a24
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215022357'

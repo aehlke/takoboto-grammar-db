@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1452
+label: unintended
+title_raw: (unintended)
+title: (unintended)
+reading: null
+romanized_label: unintended
+category: lesson
+jlpt_level_original: '0'
+meaning: Things that happen unintentionally　（〜てしまう、〜ちゃう／〜じゃう）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=unintended
+archive_url: https://web.archive.org/web/20150224235112id_/http://www.jgram.org/pages/viewOne.php?tagE=unintended
+archive_timestamp: '20150224235112'
+retrieved_at: '2026-10-03T16:08:17+00:00'
+archive_digest: QZJ7JP5CNSTJDAY3W3MGVUQYY7LVAUYI
+response_sha256: a3442ac7b612d4fd27896a47de13dd24cbe294be7460da029086def2681aca5a
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(unintended)\n    Meaning: Things that happen unintentionally　（〜てしまう、〜ちゃう／〜じゃう） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (unintended)</span><br/>    <span><b>Meaning</b>: Things that happen unintentionally　（〜てしまう、〜ちゃう／〜じゃう） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: unintended
+    id: 1452
+    title_raw: (unintended)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=unintended
+    response_sha256: a3442ac7b612d4fd27896a47de13dd24cbe294be7460da029086def2681aca5a
+    section: Tutorial
+    section_html_sha256: 87754e3838107642b5cde5f711c29368f527e3943d81f66705638a4deb7096f1
+    section_text_sha256: b63cd60d8410843f4b52e048b42ccdd6214a3eb209ff023ddcd681d42d0c58ab
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8844
+    source_byte_length: 9292
+    section_bytes_sha256: 9acf11d580f6d93f47a6752f715782c1ea6b1b391767fc48e53f64c450ffdef7
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224235112'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 62201979
+  length: 7200
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: ce6277ba2730d343e131e13efcca1baf23f6f29805dfd56b040ce2857a9f894f

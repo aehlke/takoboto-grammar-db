@@ -1,0 +1,398 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1000
+label: ikan
+title_raw: いかん (如何) ([いかん] )(ikan)
+title: いかん (如何)
+reading: いかん
+romanized_label: ikan
+category: grammar
+jlpt_level_original: '1'
+meaning: based on 「いか(如何)に」の略。どのようであろうか。
+meaning_example: based on the exam results
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=ikan
+archive_url: https://web.archive.org/web/20200215023244id_/http://jgram.org:80/pages/viewOne.php?tagE=ikan
+archive_timestamp: '20200215023244'
+retrieved_at: '2026-10-04T03:22:15+00:00'
+archive_digest: UMEN5TSH5SAMMTXGRUCQR7PTP7VBCZ3L
+response_sha256: 49d324f8cf42b86db66373eb8423bfd8d828421f3575fc7f298c6cccc62abecc
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "〜いかん　is the same as によって\n\n\n\r\nNoun(の)＋いかん"
+    html: "〜いかん　is the same as によって<br/>\n<br/>\r\nNoun(の)＋いかん"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Look at this subtle difference:\n\n\n\r\n１　結果いかんで、次のレベルを決める\n\r\n　　based on the result, the next level will be decided\n\n\n\r\n２　結果いかんで<b>は</b>、次のレベルに行ける\n\r\n　　based on the result, you will go to the next level\n\n\n\r\nin (1) a clear result comes out, so the で particle is used.\n\r\nin (2) a process will start, so では is used to link the two parts.\n\n\n\r\nもっとはっきり説明を聞きたい。"
+    html: "Look at this subtle difference:<br/>\n<br/>\r\n１　結果いかんで、次のレベルを決める<br/>\r\n　　based on the result, the next level will be decided<br/>\n<br/>\r\n２　結果いかんで&lt;b&gt;は&lt;/b&gt;、次のレベルに行ける<br/>\r\n　　based on the result, you will go to the next level<br/>\n<br/>\r\nin (1) a clear result comes out, so the で particle is used.<br/>\r\nin (2) a process will start, so では is used to link the two parts.<br/>\n<br/>\r\nもっとはっきり説明を聞きたい。<br/>\n<br/>"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "Negative case \"without regard to\"\n\n\n\r\n　いかんによらず\n\r\n　いかんにかかわらず\n\r\n　いかんを問わず"
+    html: "Negative case \"without regard to\"<br/>\n<br/>\r\n　いかんによらず<br/>\r\n　いかんにかかわらず<br/>\r\n　いかんを問わず"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: "As far as I know, いかんで means that one thing depends on another. i.e. We'll decide what to do depending on the results. \n\n\n\r\nいかんでは　means that something has already happened, so the speaker is using those results to predict/suggest something else . i.e. Looking at these results we should do this."
+    html: "As far as I know, いかんで means that one thing depends on another. i.e. We'll decide what to do depending on the results. <br/>\n<br/>\r\nいかんでは　means that something has already happened, so the speaker is using those results to predict/suggest something else . i.e. Looking at these results we should do this."
+    credits_raw: bob
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    text: "〜いかんだ　: Based on how/whether 〜\n\n\n\r\n名詞　＋　いかんだ"
+    html: "〜いかんだ　: Based on how/whether 〜<br/>\n<br/>\r\n名詞　＋　いかんだ"
+    credits_raw: 誠
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    text: "成績いかんで、大学に入学できるよ。\n\r\nDepending on the results, it is possible to enter university.\n\n\n\r\n成績いかんでは、大学に入れないこともあるよ\n\r\nDepending on the results, it is possible(there are times where one) not being able to enter university."
+    html: "成績いかんで、大学に入学できるよ。<br/>\r\nDepending on the results, it is possible to enter university.<br/>\n<br/>\r\n成績いかんでは、大学に入れないこともあるよ<br/>\r\nDepending on the results, it is possible(there are times where one) not being able to enter university.<br/>"
+    credits_raw: 誠
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    text: 'Ref # Kanzen Master Level 1 - p40 - no.34'
+    html: |-
+      <b>Ref <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=ikan#">#</a></b></b> Kanzen Master Level 1 - p40 - no.34
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    text: 'Ref # A Dictionary of Advanced Japanese Grammar p128'
+    html: |-
+      <b>Ref <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=ikan#">#</a></b></b> A Dictionary of Advanced Japanese Grammar p128
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    text: "いかん is a classic form of the adverb  どのように  \"in what way\"\n\r\nIt's written / formal Japanese"
+    html: "いかん is a classic form of the adverb  どのように  \"in what way\"<br/>\r\nIt's written / formal Japanese"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    text: |-
+      いかん is an abbreviation of いかに, which is 如何 + the particle に. 如何 is a classical word meaning どのよう・どういうふう. I think this should make remembering this word and its meaning easier.
+    html: |-
+      いかん is an abbreviation of いかに, which is 如何 + the particle に. 如何 is a classical word meaning どのよう・どういうふう. I think this should make remembering this word and its meaning easier.
+    credits_raw: blutorange
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 1304
+    position: 0
+    japanese: 試験の結果いかんでは、卒業できないこともある
+    body_text: "試験の結果いかんでは、卒業できないこともある \n\nDepending on the \n\t\texam results its possible also to fail graduation"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ試験の結果いかんでは、卒業できないこともある\">\n\t\t\t\t試験の結果<strong>いかん</strong>では、卒業できないこともある<strong></strong></a> <br/>\n<strong>Depending on the </strong>\n\t\texam results its possible also to fail graduation"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1305
+    position: 1
+    japanese: 実力テストの結果いかんでレベルを決める
+    body_text: "実力テストの結果いかんでレベルを決める \n\nOn the basis of \n\t\tyour test results, your level will be decided"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ実力テストの結果いかんでレベルを決める\">\n\t\t\t\t実力テストの結果<strong>いかんで</strong>レベルを決める<strong></strong></a> <br/>\n<strong>On the basis of </strong>\n\t\tyour test results, your level will be decided"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1307
+    position: 2
+    japanese: 天気いかんにかかわらず来ます
+    body_text: "天気いかんにかかわらず来ます \n\nRegardless \n\t\tof the weather, I will come"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ天気いかんにかかわらず来ます\">\n天気<strong>いかんにかかわらず</strong>来ます<strong></strong></a> <br/>\n<strong>Regardless </strong>\n\t\tof the weather, I will come"
+    credits_raw: dc
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1326
+    position: 3
+    japanese: 占いの結果いかんでは、アメリカに帰ることになります。
+    body_text: "占いの結果いかんでは、アメリカに帰ることになります。 \n\ndepending on the \n\t\tfortune teller consultation, it will be decided if i will return to America"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ占いの結果いかんでは、アメリカに帰ることになります。\">\n\t\t\t\t占いの結果<strong>いかん</strong>では、アメリカに帰ることになります。<strong></strong></a> <br/>\n<strong>depending on the </strong>\n\t\tfortune teller consultation, it will be decided if i will return to America"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1574
+    position: 4
+    japanese: 天気いかんでは行きます
+    body_text: "天気いかんでは行きます \n\nDepending on \n\t\tthe weather, i will come"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ天気いかんでは行きます\">\n天気<strong>いかんでは</strong>行きます<strong></strong></a> <br/>\n<strong>Depending on </strong>\n\t\tthe weather, i will come"
+    credits_raw: dc
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3102
+    position: 5
+    japanese: それは如何ともしがたい。
+    body_text: "それは如何ともしがたい。 \n\n\t\tThat cannot be helped \n\t\tone way or another."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJそれは如何ともしがたい。\">\nそれは<strong>如何</strong>ともしがたい。<strong></strong></a> <br/>\n\t\tThat cannot be helped \n\t\t<strong>one way or another. </strong>"
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3103
+    position: 6
+    japanese: その問題はあなたの態度如何によって決まることだ。
+    body_text: "その問題はあなたの態度如何によって決まることだ。 \n\n\t\tThat issue would be decided \n\t\tdepending on \n\t\twhat your attitude will be on it."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJその問題はあなたの態度如何によって決まることだ。\">\nその問題はあなたの態度<strong>如何</strong>によって決まることだ。<strong></strong></a> <br/>\n\t\tThat issue would be decided \n\t\t<strong>depending on </strong>\n\t\twhat your attitude will be on it."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3104
+    position: 7
+    japanese: スパイダーマンの運命や如何
+    body_text: "スパイダーマンの運命や如何 \n\nWhat will be \n\t\tthe fate of Spiderman!"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJスパイダーマンの運命や如何\">\nスパイダーマンの運命や<strong>如何</strong><strong></strong></a> <br/>\n<strong>What will be </strong>\n\t\tthe fate of Spiderman!"
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3352
+    position: 8
+    japanese: その試合には国籍のいかんを問わず誰でも参加出来る。
+    body_text: "その試合には国籍のいかんを問わず誰でも参加出来る。\r \n\n\t\tAnyone can participate in the game, no matter what nationality they are."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJその試合には国籍のいかんを問わず誰でも参加出来る。\">\n\t\t\t\tその試合には国籍の<strong>いかん</strong>を問わず誰でも参加出来る。\r<strong></strong></a> <br/>\n\t\tAnyone can participate in the game, no matter what nationality they are. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3354
+    position: 9
+    japanese: 幸福は環境いかんによるものでなくて、むしろ自分の人生に対する見方いかんによる。
+    body_text: "幸福は環境いかんによるものでなくて、むしろ自分の人生に対する見方いかんによる。\r \n\n\t\tHappiness depends, not so much on circumstances, as on one's way of looking at one's life."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ幸福は環境いかんによるものでなくて、むしろ自分の人生に対する見方いかんによる。\">\n\t\t\t\t幸福は環境<strong>いかん</strong>によるものでなくて、むしろ自分の人生に対する見方いかんによる。\r<strong></strong></a> <br/>\n\t\tHappiness depends, not so much on circumstances, as on one's way of looking at one's life. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3356
+    position: 10
+    japanese: 仕方がない、それはいかんともしがたい。
+    body_text: "仕方がない、それはいかんともしがたい。\r \n\n\t\tIt can't be helped."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ仕方がない、それはいかんともしがたい。\">\n\t\t\t\t仕方がない、それは<strong>いかん</strong>ともしがたい。\r<strong></strong></a> <br/>\n\t\tIt can't be helped. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3357
+    position: 11
+    japanese: 成功するかどうかは、君自身の努力いかんによる。
+    body_text: "成功するかどうかは、君自身の努力いかんによる。\r \n\n\t\tWhether you will succeed or not depends upon your own exertions."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ成功するかどうかは、君自身の努力いかんによる。\">\n\t\t\t\t成功するかどうかは、君自身の努力<strong>いかん</strong>による。\r<strong></strong></a> <br/>\n\t\tWhether you will succeed or not depends upon your own exertions. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3358
+    position: 12
+    japanese: 成功は努力いかんによる。
+    body_text: "成功は努力いかんによる。\r \n\n\t\tSuccess depends on your efforts."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ成功は努力いかんによる。\">\n\t\t\t\t成功は努力<strong>いかん</strong>による。\r<strong></strong></a> <br/>\n\t\tSuccess depends on your efforts. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3359
+    position: 13
+    japanese: 天候のいかんにかかわらず駅へ迎えに参ります。
+    body_text: "天候のいかんにかかわらず駅へ迎えに参ります。\r \n\n\t\tRain or shine, I will come to meet you at the station."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ天候のいかんにかかわらず駅へ迎えに参ります。\">\n\t\t\t\t天候の<strong>いかん</strong>にかかわらず駅へ迎えに参ります。\r<strong></strong></a> <br/>\n\t\tRain or shine, I will come to meet you at the station. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3360
+    position: 14
+    japanese: 肌の色のいかんを問わず、彼は万人の言論の自由を擁護した。
+    body_text: "肌の色のいかんを問わず、彼は万人の言論の自由を擁護した。\r \n\n\t\tHe stood for freedom of speech for everyone regardless of color."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ肌の色のいかんを問わず、彼は万人の言論の自由を擁護した。\">\n\t\t\t\t肌の色の<strong>いかん</strong>を問わず、彼は万人の言論の自由を擁護した。\r<strong></strong></a> <br/>\n\t\tHe stood for freedom of speech for everyone regardless of color. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3361
+    position: 15
+    japanese: 彼の命は判決いかんにかかっている。
+    body_text: "彼の命は判決いかんにかかっている。\r \n\n\t\tHis life hangs on the judge's decision."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼の命は判決いかんにかかっている。\">\n\t\t\t\t彼の命は判決<strong>いかん</strong>にかかっている。\r<strong></strong></a> <br/>\n\t\tHis life hangs on the judge's decision. \n\t\t<strong> </strong>"
+    credits_raw: dbx
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: My comments re によって is equally applicable to Examples 1 and 2.
+    html: My comments re によって is equally applicable to Examples 1 and 2.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: bamboo4
+    text: 占いの相談 is a strange Japanese. Normally, 占いの結果.
+    html: |-
+      占いの相談 is a strange Japanese. Normally, 占いの結果.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: dc
+    text: 直った
+    html: 直った
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: bamboo4
+    text: RE 天気 いかんでは, whether you say 来ます or 行きます, that is an uncommon expression. One would say 次第では instead of いかんでは.
+    html: |-
+      RE 天気 いかんでは, whether you say 来ます or 行きます, that is an uncommon expression. One would say 次第では instead of いかんでは.<br/>
+      <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Stickler
+    text: |-
+      ＃1307 There is no such word as irregardless. Don't let the Japanese double-beg fool you, the correct Eigo is Regardless, regardless of the situation...
+    html: |-
+      ＃1307 There is no such word as irregardless. Don't let the Japanese double-beg fool you, the correct Eigo is Regardless, regardless of the situation...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Stickler
+    text: PS, make that double-neg. I can't type
+    html: PS, make that double-neg. I can't type
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: dc
+    text: "welcome Stickler!\n\r\nchanges made, example upped to \"checked\"... feel free to edit the examples yourself too..."
+    html: "welcome Stickler!<br/>\r\nchanges made, example upped to \"checked\"... feel free to edit the examples yourself too..."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Miki
+    text: "In notes dc62, I think.... \n\r\n結果いかんでは is by emphasizing with では, implies more another side than just 結果いかんで that you will not have a chance to go to the next level depending on the result. You next action is decided after the result of something is clear and see the situation you are in.\n\r\n結果いかんで implies neutral. What to do is automatically followed by the result."
+    html: "In notes dc<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=ikan#62\">62</a></b>, I think.... <br/>\r\n結果いかんでは is by emphasizing with では, implies more another side than just 結果いかんで that you will not have a chance to go to the next level depending on the result. You next action is decided after the result of something is clear and see the situation you are in.<br/>\r\n結果いかんで implies neutral. What to do is automatically followed by the result."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: bamboo4
+    text: The difference between 結果如何で and 結果いかんでは disappears when you say 結果如何で駄目になることがある and 結果如何では駄目になることがある.
+    html: |-
+      The difference between 結果如何で and 結果いかんでは disappears when you say 結果如何で駄目になることがある and 結果如何では駄目になることがある.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: Miki
+    text: "ex#3353 this いかん is derivative of いかぬ, means 〜（しては）ならない\n\r\nex#3355 いかん　comes from the combination of 厳し「い」and か「かん」ばつ　旱魃 drought."
+    html: "ex<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=ikan#3353\">#3353</a></b> this いかん is derivative of いかぬ, means 〜（しては）ならない<br/>\r\nex<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=ikan#3355\">#3355</a></b> いかん　comes from the combination of 厳し「い」and か「かん」ばつ　旱魃 drought."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: dc
+    text: well spotted. i deleted those two examples...
+    html: well spotted. i deleted those two examples...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: LR
+    text: "I think it would be better to separate the entries for いかん ／ いかんによる　(dependent on)\n\r\nand いかんによらず ／ いかんにかかわらず ／ いかんに問わず (regardless of)"
+    html: "I think it would be better to separate the entries for <strong>いかん</strong> ／ <strong>いかんによる</strong>　(dependent on)<br/>\r\nand <strong>いかんによらず</strong> ／ <strong>いかんにかかわらず</strong> ／ <strong>いかんに問わず</strong> (regardless of)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: shidai
+    label: shidai
+    annotation_text: shidai [bamboo4]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=shidai">shidai</a> [<a href="http://jgram.org:80/pages/contributions.php?author=bamboo4">bamboo4</a>]
+    credits_raw: bamboo4
+  - position: 1
+    target_label: niyotte-2
+    label: niyotte-2
+    annotation_text: niyotte-2 [bi-ru]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=niyotte-2">niyotte-2</a> [<a href="http://jgram.org:80/pages/contributions.php?author=bi-ru">bi-ru</a>]
+    credits_raw: bi-ru
+  - position: 2
+    target_label: ikanniyorazu
+    label: ikanniyorazu
+    annotation_text: ikanniyorazu [Paul]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=ikanniyorazu">ikanniyorazu</a> [<a href="http://jgram.org:80/pages/contributions.php?author=Paul">Paul</a>]
+    credits_raw: Paul
+  - position: 3
+    target_label: niizon, niison
+    label: niizon, niison
+    annotation_text: niizon, niison [blabby]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=niizon, niison">niizon, niison</a> [<a href="http://jgram.org:80/pages/contributions.php?author=blabby">blabby</a>]
+    credits_raw: blabby
+sections:
+  - kind: header
+    text: |-
+      いかん (如何) ([いかん] )(ikan)
+          Meaning: based on 「いか(如何)に」の略。どのようであろうか。
+          Example: based on the exam results
+          JLPT Level: 1
+          Category: grammar
+          Author: dc
+    html: |-
+      <span>いかん (如何) ([いかん] )(ikan)</span><br/>    <span><b>Meaning</b>: based on 「いか(如何)に」の略。どのようであろうか。</span><br/>    <b>Example</b>: <i>based on the exam results</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215023244'

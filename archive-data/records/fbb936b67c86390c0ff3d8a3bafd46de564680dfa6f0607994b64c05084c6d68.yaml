@@ -1,0 +1,73 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1488
+label: Sorega
+title_raw: それが ([それが] )(Sorega)
+title: それが
+reading: それが
+romanized_label: Sorega
+category: grammar
+jlpt_level_original: '2'
+meaning: Despite that それなのに
+meaning_example: |-
+  We had heavy rains this morning due to the typhoon. Despite that, it suddenly started getting sunny this afternoon and now it's perfectly lovely outside.
+credits_raw: Pan
+source_url: http://www.jgram.org:80/pages/viewOne.php?tagE=Sorega
+archive_url: https://web.archive.org/web/20080214073244id_/http://www.jgram.org:80/pages/viewOne.php?tagE=Sorega
+archive_timestamp: '20080214073244'
+retrieved_at: '2026-10-04T02:48:32+00:00'
+archive_digest: O7OCMGQA5UH54DSUI4XXTKMNZXTHHR7C
+response_sha256: f6975fc0e83ea479d61072f5af55e23c404296b204cbece79afe177fb8a17aff
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: それが is very similar in meaning and usage to それなのに and にもかからわず。
+    html: それが is very similar in meaning and usage to それなのに and にもかからわず。
+    credits_raw: pan
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: |-
+      sore ga can also be used to indicate to your conversation partner that the answer to his/her question has a different/unexpected result.
+    html: |-
+      sore ga can also be used to indicate to your conversation partner that the answer to his/her question has a different/unexpected result.
+    credits_raw: devking64
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 5041
+    position: 0
+    japanese: 朝は台風の影響で大雨でした。それが、昼前から急に晴れてきて、今はすっかり快晴だ。
+    body_text: "朝は台風の影響で大雨でした。それが、昼前から急に晴れてきて、今はすっかり快晴だ。 \n\r\n\t\tWe had heavy rains this morning due to the typhoon. \r\n\t\tDespite that, \r\n\t\tit suddenly started getting sunny this afternoon and now it's perfectly lovely outside."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ朝は台風の影響で大雨でした。それが、昼前から急に晴れてきて、今はすっかり快晴だ。\">\n朝は台風の影響で大雨でした。<strong>それが、</strong>昼前から急に晴れてきて、今はすっかり快晴だ。<strong></strong></a> <br/>\r\n\t\tWe had heavy rains this morning due to the typhoon. \r\n\t\t<strong>Despite that, </strong>\r\n\t\tit suddenly started getting sunny this afternoon and now it's perfectly lovely outside."
+    credits_raw: pan
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      それが ([それが] )(Sorega)
+          Meaning: Despite that それなのに
+          Example: We had heavy rains this morning due to the typhoon. Despite that, it suddenly started getting sunny this afternoon and now it's perfectly lovely outside.
+          JLPT Level: 2
+          Category: grammar
+          Author: Pan
+    html: |-
+      <span>それが ([それが] )(Sorega)</span><br/>    <span><b>Meaning</b>: Despite that それなのに</span><br/>    <b>Example</b>: <i>We had heavy rains this morning due to the typhoon. Despite that, it suddenly started getting sunny this afternoon and now it's perfectly lovely outside.</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Pan</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20080214073244'

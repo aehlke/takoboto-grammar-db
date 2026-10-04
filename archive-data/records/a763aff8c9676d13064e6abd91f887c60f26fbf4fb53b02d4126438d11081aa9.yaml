@@ -1,0 +1,140 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 767
+label: wo-3
+title_raw: 〜を [〜を] (wo-3)
+title: 〜を
+reading: 〜を
+romanized_label: wo-3
+category: grammar
+jlpt_level_original: '3'
+meaning: (marks point of departure) 出発点
+meaning_example: I left the room.
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=wo-3
+archive_url: https://web.archive.org/web/20200215024525id_/http://jgram.org:80/pages/viewOne.php?tagE=wo-3
+archive_timestamp: '20200215024525'
+retrieved_at: '2026-10-04T02:12:39+00:00'
+archive_digest: TVEU2PU7JYJHAUYVVEDS4NU7D56YUQZE
+response_sha256: 1b482d518f6c7f96ff66a435b2f32b2876ec6ab5e0178888c48870ed43839ae3
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 890
+    position: 0
+    japanese: 部屋を出た。
+    body_text: "部屋を出た。 \n\n\t\tI left the room."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ部屋を出た。\">\n\t\t\t\t部屋<strong>を</strong>出た。<strong></strong></a> <br/>\n\t\tI left the room. \n\t\t<strong> </strong>"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4950
+    position: 1
+    japanese: 大阪を出発する。
+    body_text: "大阪を出発する。 \n\n\t\tHe leaves \n\t\t* \n\t\tOsaka."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ大阪を出発する。\">\n大阪<strong>を</strong>出発する。<strong></strong></a> <br/>\n\t\tHe leaves \n\t\t<strong>* </strong>\n\t\tOsaka."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4951
+    position: 2
+    japanese: 去年日本を離れた。
+    body_text: "去年日本を離れた。 \n\n\t\tI left \n\t\t* \n\t\tJapan last year."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ去年日本を離れた。\">\n\t\t\t\t去年日本<strong>を</strong>離れた。<strong></strong></a> <br/>\n\t\tI left \n\t\t<strong>* </strong>\n\t\tJapan last year."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4953
+    position: 3
+    japanese: １９００年に彼はイギリスを去った。
+    body_text: "１９００年に彼はイギリスを去った。 \n\n\t\tIn 1900 he left \n\t\t* \n\t\tEngland."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ１９００年に彼はイギリスを去った。\">\n\t\t\t\t１９００年に彼はイギリス<strong>を</strong>去った。<strong></strong></a> <br/>\n\t\tIn 1900 he left \n\t\t<strong>* </strong>\n\t\tEngland."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: "1. objective / target (目的) \n\r\n2. area passed through (通過点) \n\r\n3. departure point (出発点)"
+    html: "1. objective / target (目的) <br/>\r\n2. area passed through (通過点) <br/>\r\n3. departure point (出発点)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: |-
+      Note that in general this can be replaced with から kara but there are some places where one can be used but not the other and vice versa.
+    html: |-
+      Note that in <b>general</b> this can be replaced with から <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=kara">kara</a></b> but there are some places where one can be used but not the other and vice versa.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: "を is used to mark a noun or noun phrase.\n\n\n\r\nN = noun."
+    html: "を is used to mark a noun or noun phrase.<br/>\n<br/>\r\nN = noun."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: hikey
+    text: Can someone give some examples of where one can be used and not the other, to clarify this point, please?
+    html: Can someone give some examples of where one can be used and not the other, to clarify this point, please?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bamboo4
+    text: |-
+      から has the connotation that one has left to go to some other place, e.g, 大阪からヨーロッパに向かった(he left Osaka to go to Europe). 大阪を出発した could simply suggest that one left Osaka but it leaves unsaid any other information as to his destination or his purpose.On the other hand, you can also supplement that and say 大阪を出発してヨーロッパに向かった. The difference is that, in most cases,から requires destination, whereas を does not.
+    html: |-
+      から has the connotation that one has left to go to some other place, e.g, 大阪からヨーロッパに向かった(he left Osaka to go to Europe). 大阪を出発した could simply suggest that one left Osaka but it leaves unsaid any other information as to his destination or his purpose.On the other hand, you can also supplement that and say 大阪を出発してヨーロッパに向かった. The difference is that, in most cases,から requires destination, whereas を does not.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: razovsuki
+    text: "Have a question:\n\r\nNormally, the presence of a を necessarily leads to the presence of a verb somewhere behind it, right? Which is to assume that if I have for instance 3 を there should be at least 3 verbs in the sentence...\n\r\n(I'm not talking about a specific を here, the question goes for all 3 of them)\n\r\nAre there cases where it's possible to have more を than actual verbs??"
+    html: "Have a question:<br/>\r\nNormally, the presence of a を necessarily leads to the presence of a verb somewhere behind it, right? Which is to assume that if I have for instance 3 を there should be at least 3 verbs in the sentence...<br/>\r\n(I'm not talking about a specific を here, the question goes for all 3 of them)<br/>\r\nAre there cases where it's possible to have more を than actual verbs??"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: wo
+    label: wo
+    annotation_text: wo    (Don't confuse target を wo with departure point を wo) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=wo">wo</a>    (Don't confuse target を <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=wo">wo</a></b> with departure point を <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=wo">wo</a></b>) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: wo-2
+    label: wo-2
+    annotation_text: wo-2    (Don't confuse target を wo with departure point を wo) [Miki]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=wo-2">wo-2</a>    (Don't confuse target を <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=wo">wo</a></b> with departure point を <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=wo">wo</a></b>) [<a href="http://jgram.org:80/pages/contributions.php?author=Miki">Miki</a>]
+    credits_raw: Miki
+sections:
+  - kind: header
+    text: "〜を [〜を] (wo-3)\n    Meaning: (marks point of departure) 出発点 \n    Example: I left the room.\n    JLPT Level: 3\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>〜を [〜を] (wo-3)</span><br/>    <span><b>Meaning</b>: (marks point of departure) 出発点 </span><br/>    <b>Example</b>: <i>I left the room.</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215024525'

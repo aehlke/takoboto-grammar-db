@@ -1,27 +1,32 @@
-source_audit: archive-2015/coverage-report.json
-correction_provenance: docs/reevaluation.md
-previous_release: recon/sqlite-baseline-v0.4.0.yaml
+historical_coverage_complete: false
+source_audits:
+  - data/coverage-report.json
+  - archive-data/coverage-report.json
+  - archive-2015/coverage-report.json
+correction_provenance: docs/recovery-followup.md
+previous_release: recon/sqlite-baseline-v0.5.0.yaml
 algorithm: SHA-256 of canonical JSON of columns and sorted rows; JSON columns decoded before hashing
 excluded_relation_rows:
   - metadata
-corrected_relations:
+changed_relations:
   - archive_comments
   - archive_entries
   - archive_examples
   - archive_notes
+  - archive_relationships
   - archive_search_documents
 signature:
   schema_sha256: ff0cf17d2c5082012e5690c173b8af8d75025e04d04b67d2d65114a521e9e017
   relations:
     archive_comments:
-      row_count: 4097
-      sha256: 26d360e47a170d0e39b16eb751b8fb133598445dcbbbf12f5382482beb4d801d
+      row_count: 8244
+      sha256: 630ec4140dfecde77840a42233467a67feb48896f3c3e16f24f1dc379f65cfd3
     archive_entries:
-      row_count: 768
-      sha256: 8d0578bd226180668e21756282a30149099be5907a5f0918af27b6ad9ef9b85b
+      row_count: 1661
+      sha256: 0fbfdd8eda28cb52af703c0467762d7b1acb1c3118dd0c37bce100c233a04871
     archive_examples:
-      row_count: 5983
-      sha256: 6c8766162b81cfb2b26dcdc177841e650da9e38c5416d4bf6e203682e396625a
+      row_count: 11645
+      sha256: 1d5c8d23c03667b18fdf068554ad4396932840c8bbda1f266ba4089c32f18589
     archive_feed_items:
       row_count: 4
       sha256: 191441b7037c45e790023a5f678d8d0c8d38c12697cfd3a06f5ce16da1169bd1
@@ -29,11 +34,11 @@ signature:
       row_count: 5
       sha256: 8404cff39f714bac0902f42ebbf9f26d3c2f50887bd8cfd169917975e49191e1
     archive_notes:
-      row_count: 917
-      sha256: 596a0e203a74a59520d84ff6de5bec7cf216bde202f1a2ff498cff68f921966d
+      row_count: 1792
+      sha256: 5c001255217a11396bd400d3a95e4917a08578a5a51d5de1b191203a2aebe005
     archive_relationships:
-      row_count: 980
-      sha256: 585333cb97a14ee6f55d0762de7574fa3249292a1d03a40afdf4ff058675fed3
+      row_count: 1936
+      sha256: 06009b84643c959c24bd7e1cf3cae104290ee23158e0435001cd9d761e76117f
     comments:
       row_count: 4546
       sha256: 33c8980433f5d3a4723df13d975ed1391305cbf0f2d765ce079c33e34ab82fe7
@@ -65,8 +70,8 @@ signature:
       row_count: 5324
       sha256: e7c337f7fdc3ea5b07152c4a112c48ab50ff6d3e0691739c79b8be3f70a680cb
     archive_search_documents:
-      row_count: 12745
-      sha256: 42b1deac373617f3d45baff177e8e1d5f03da4745d7285096da48663013bda1d
+      row_count: 25278
+      sha256: 84312c49f37094e3092a3b9d391d2767ac10ac6197b36ac351150fac79df242a
     search_documents:
       row_count: 16672
       sha256: 167e434586e7c4c0a8bcd0bdd1591ea4deb2cf635fa95abb640379d912eb47c5

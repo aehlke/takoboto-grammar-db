@@ -1,0 +1,354 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 977
+label: bahodo
+title_raw: 〜ばほど [〜 ばほど] (bahodo)
+title: 〜ばほど
+reading: 〜 ばほど
+romanized_label: bahodo
+category: grammar
+jlpt_level_original: '2'
+meaning: V+  the more , the more
+meaning_example: the more you read, the less you know
+credits_raw: dc
+source_url: http://www.jgram.org:80/pages/viewOne.php?tagE=bahodo
+archive_url: https://web.archive.org/web/20080502050538id_/http://www.jgram.org:80/pages/viewOne.php?tagE=bahodo
+archive_timestamp: '20080502050538'
+retrieved_at: '2026-10-04T02:59:16+00:00'
+archive_digest: 63BY4AO6WK4KTU734B2JYGGNY324SPWQ
+response_sha256: 1e89ac44f393f00a8baa3df497035ed03e8d021467c53ed4829a92d1d83694a9
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "FORMATION:\n\r\nＶ(ば form) + Ｖ(dict. form) + ほど\n\r\nいＡ + ければ＊ + いＡ + ほど\n\r\n＊EX: ちかい + ければ = ちかければ\n\r\nなＡ + なら(ば) + なＡ + ほど"
+    html: "FORMATION:<br/>\r\nＶ(ば form) + Ｖ(dict. form) + ほど<br/>\r\nいＡ + ければ＊ + いＡ + ほど<br/>\r\n＊EX: ちかい + ければ = ちかければ<br/>\r\nなＡ + なら(ば) + なＡ + ほど"
+    credits_raw: rubyhatchet
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 58
+    position: 0
+    japanese: 日本語は勉強すれば勉強するほど面白くなります
+    body_text: "日本語は勉強すれば勉強するほど面白くなります \n\nThe harder \r\n\t\tyou study japanese, the more interesting it will become."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ日本語は勉強すれば勉強する\">\n日本語は勉強すれ<strong>ば</strong>勉強する<strong>ほど</strong>面白くなります</a> <br/>\n<strong>The harder </strong>\r\n\t\tyou study japanese, the more interesting it will become."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 232
+    position: 1
+    japanese: そこに居れば居るほどその土地が好きになる。
+    body_text: "そこに居れば居るほどその土地が好きになる。 \n\nthe longer \r\n\t\tI stayed there the more I came to like it"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJそこに居れば居るほどその土地が好きになる。\">\nそこに<strong>居れば居るほど</strong>その土地が好きになる。<strong></strong></a> <br/>\n<strong>the longer </strong>\r\n\t\tI stayed there the more I came to like it"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 661
+    position: 2
+    japanese: やればやるほど悪くなる
+    body_text: "やればやるほど悪くなる \n\nThe more \r\n\t\tyou do it, the worse it gets."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJやればやる\">\nやれ<strong>ば</strong>やる<strong>ほど</strong>悪くなる</a> <br/>\n<strong>The more </strong>\r\n\t\tyou do it, the worse it gets."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1227
+    position: 3
+    japanese: 早ければ早いほどありがたいです
+    body_text: "早ければ早いほどありがたいです \n\r\n\t\tI would be grateful if you can do it \r\n\t\tsooner rather than later"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ早ければ早いほどありがたいです\">\n<strong>早ければ早いほど</strong>ありがたいです<strong></strong></a> <br/>\r\n\t\tI would be grateful if you can do it \r\n\t\t<strong>sooner rather than later </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4385
+    position: 4
+    japanese: 「急げば急ぐほど遅くなる」は逆説である。
+    body_text: "「急げば急ぐほど遅くなる」は逆説である。 \n\r\n\t\tMore haste, less speed is a paradox."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ「急げば急ぐ\">\r\n\t\t\t\t「急げ<strong>ば</strong>急ぐ<strong>ほど</strong>遅くなる」は逆説である。</a> <br/>\r\n\t\tMore haste, less speed is a paradox. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4386
+    position: 5
+    japanese: Ｖの角度が広ければ広いほど、スピードが緩やかになる。
+    body_text: "Ｖの角度が広ければ広いほど、スピードが緩やかになる。 \n\r\n\t\tThe wider the V, the slower the speed."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJＶの角度が広ければ広い\">\r\n\t\t\t\tＶの角度が広けれ<strong>ば</strong>広い<strong>ほど、</strong>スピードが緩やかになる。</a> <br/>\r\n\t\tThe wider the V, the slower the speed. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4387
+    position: 6
+    japanese: たくさん本を読めば読むほど、たくさんの事を知るだろう。
+    body_text: "たくさん本を読めば読むほど、たくさんの事を知るだろう。 \n\r\n\t\tThe more books you read, the more you'll know."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJたくさん本を読めば読む\">\r\n\t\t\t\tたくさん本を読め<strong>ば</strong>読む<strong>ほど、</strong>たくさんの事を知るだろう。</a> <br/>\r\n\t\tThe more books you read, the more you'll know. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4388
+    position: 7
+    japanese: そのことを考えれば考えるほど、私はますます嫌になる。
+    body_text: "そのことを考えれば考えるほど、私はますます嫌になる。 \n\r\n\t\tThe more I think of it, the less I like it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJそのことを考えれば考える\">\r\n\t\t\t\tそのことを考えれ<strong>ば</strong>考える<strong>ほど、</strong>私はますます嫌になる。</a> <br/>\r\n\t\tThe more I think of it, the less I like it. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4389
+    position: 8
+    japanese: その質問が難しくなればなるほど答えることができなくなりそうだ。
+    body_text: "その質問が難しくなればなるほど答えることができなくなりそうだ。 \n\r\n\t\tThe more difficult the question are, the less likely I am to be able to answer it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJその質問が難しくなればなる\">\r\n\t\t\t\tその質問が難しくなれ<strong>ば</strong>なる<strong>ほど</strong>答えることができなくなりそうだ。</a> <br/>\r\n\t\tThe more difficult the question are, the less likely I am to be able to answer it. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4390
+    position: 9
+    japanese: その本は、読めば読むほど分からなくなる。
+    body_text: "その本は、読めば読むほど分からなくなる。 \n\r\n\t\tThe more you read the book, the less you understand it."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJその本は、読めば読む\">\r\n\t\t\t\tその本は、読め<strong>ば</strong>読む<strong>ほど</strong>分からなくなる。</a> <br/>\r\n\t\tThe more you read the book, the less you understand it. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4391
+    position: 10
+    japanese: その問題について考えれば考えるほど、一層難しくなるように思えた。
+    body_text: "その問題について考えれば考えるほど、一層難しくなるように思えた。 \n\r\n\t\tThe more I thought about the problem, the more difficult did it seem to become."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJその問題について考えれば考える\">\r\n\t\t\t\tその問題について考えれ<strong>ば</strong>考える<strong>ほど、</strong>一層難しくなるように思えた。</a> <br/>\r\n\t\tThe more I thought about the problem, the more difficult did it seem to become. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4392
+    position: 11
+    japanese: たくさん持てば持つほど、それだけいっそう多く欲しくなる。
+    body_text: "たくさん持てば持つほど、それだけいっそう多く欲しくなる。 \n\r\n\t\tThe more you have, the more you want."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJたくさん持てば持つ\">\r\n\t\t\t\tたくさん持て<strong>ば</strong>持つ<strong>ほど、</strong>それだけいっそう多く欲しくなる。</a> <br/>\r\n\t\tThe more you have, the more you want. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4393
+    position: 12
+    japanese: われわれが他人を疑えば疑うほど、他人もわれわれを疑うであろう。
+    body_text: "われわれが他人を疑えば疑うほど、他人もわれわれを疑うであろう。 \n\r\n\t\tOthers will suspect us the more, the more we suspect them."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJわれわれが他人を疑えば疑う\">\r\n\t\t\t\tわれわれが他人を疑え<strong>ば</strong>疑う<strong>ほど、</strong>他人もわれわれを疑うであろう。</a> <br/>\r\n\t\tOthers will suspect us the more, the more we suspect them. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4394
+    position: 13
+    japanese: ポップコーンは食べれば食べるほどもっと食べたくなる。
+    body_text: "ポップコーンは食べれば食べるほどもっと食べたくなる。 \n\r\n\t\tThe more popcorn you eat, the more you want."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJポップコーンは食べれば食べる\">\r\n\t\t\t\tポップコーンは食べれ<strong>ば</strong>食べる<strong>ほど</strong>もっと食べたくなる。</a> <br/>\r\n\t\tThe more popcorn you eat, the more you want. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4395
+    position: 14
+    japanese: 飲めば飲むほど注意力が鈍る。
+    body_text: "飲めば飲むほど注意力が鈍る。 \n\r\n\t\tThe more you drink, the less careful you will be."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ飲めば飲む\">\r\n\t\t\t\t飲め<strong>ば</strong>飲む<strong>ほど</strong>注意力が鈍る。</a> <br/>\r\n\t\tThe more you drink, the less careful you will be. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4396
+    position: 15
+    japanese: 暇な時間が多ければ多いほど、それだけ彼は楽しい。
+    body_text: "暇な時間が多ければ多いほど、それだけ彼は楽しい。 \n\r\n\t\tThe more leisure he has, the happier he is."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ暇な時間が多ければ多い\">\r\n\t\t\t\t暇な時間が多けれ<strong>ば</strong>多い<strong>ほど、</strong>それだけ彼は楽しい。</a> <br/>\r\n\t\tThe more leisure he has, the happier he is. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4397
+    position: 16
+    japanese: 各人が個性的であればあるほど、それだけ他人の英知に寄与する。
+    body_text: "各人が個性的であればあるほど、それだけ他人の英知に寄与する。 \n\r\n\t\tThe more unique each person is, the more he contributes to the wisdom of others."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ各人が個性的であればある\">\r\n\t\t\t\t各人が個性的であれ<strong>ば</strong>ある<strong>ほど、</strong>それだけ他人の英知に寄与する。</a> <br/>\r\n\t\tThe more unique each person is, the more he contributes to the wisdom of others. \r\n\t\t<strong> </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6662
+    position: 17
+    japanese: "ハンサムならばハンサムほど恋人を探しやすいです。\r\nならばほど"
+    body_text: "ハンサムならばハンサムほど恋人を探しやすいです。\r\nならばほど \n\r\n\t\tThe more hansome the esier you find lover \r\n\t\tThe more \r\n\t\t the esier"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJハンサムならばハンサムほど恋人を探しやすいです。ならば\">\r\n\t\t\t\tハンサムならばハンサムほど恋人を探しやすいです。\r\n<strong>ならば</strong><strong>ほど</strong></a> <br/>\r\n\t\tThe more hansome the esier you find lover \r\n\t\t<strong>The more </strong>\r\n\t\t the esier"
+    credits_raw: koluky
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6675
+    position: 18
+    japanese: 多ければ多いほどよい。
+    body_text: "多ければ多いほどよい。 \n\nThe more \r\n\t\t  the better."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ多ければ多い\">\n多けれ<strong>ば</strong>多い<strong>ほど</strong>よい。</a> <br/>\n<strong>The more </strong>\r\n\t\t  the better."
+    credits_raw: taunt
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6732
+    position: 19
+    japanese: 考えれば考えるほど解決方法、わからなくなることがある。
+    body_text: "考えれば考えるほど解決方法、わからなくなることがある。 \n\nSometimes \r\n\t\tthe more \nyou think about it  , the less you can find the solution way."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ  考えれば&lt;font color=blue&gt;考える\">\n考えれ<strong>ば</strong>考える<strong>ほど</strong>解決方法、わからなくなることがある。</a> <br/>\nSometimes \r\n\t\t<strong>the more </strong>\nyou think about it  , the less you can find the solution way."
+    credits_raw: 赤毛
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: See also standard '-ba' conditional verb form.
+    html: See also standard '-ba' conditional verb form.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: "can this be used with an adjective?\n\r\n出きるだけ早ければ、早いほどいいと思います。\n\r\n= the sooner we do it the better, i think"
+    html: "can this be used with an adjective?<br/>\r\n出きるだけ早ければ、早いほどいいと思います。<br/>\r\n= the sooner we do it the better, i think"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: たか
+    text: "yes ok! but this is more polite...\n\r\n出来るだけ早ければ早いほうがありがたいです。\n\r\n= I would be grateful if we can do it sooner rather than later"
+    html: "yes ok! but this is more polite...<br/>\r\n出来るだけ早ければ早いほうがありがたいです。<br/>\r\n= I would be grateful if we can do it sooner rather than later"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: bamboo4
+    text: In 早ければ早いほう、「出来るだけ」is redundant and not needed because that is indirectly implied.
+    html: In 早ければ早いほう、「出来るだけ」is redundant and not needed because that is indirectly implied.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: dc
+    text: thanks, noted, and now an example.
+    html: thanks, noted, and now an example.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: bamboo4
+    text: If you say, 早ければ早いほう, you need が, but if you say 早ければ早いほど, you don't need が.
+    html: |-
+      If you say, 早ければ早いほう, you need が, but if you say 早ければ早いほど, you don't need が.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: dc
+    text: "so in this case you don't use any article? は・が・を\n\n\n\r\n→　早ければ早いほど  ありがたいです"
+    html: "so in this case you don't use any article? は・が・を<br/>\n<br/>\r\n→　早ければ早いほど  ありがたいです"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: bamboo4
+    text: That is correct, dc.
+    html: That is correct, dc.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: 誠
+    text: ex#58 You also can use 勉強すればするほど
+    html: |-
+      ex<b><a href="http://www.jgram.org:80/pages/viewOne.php?tagE=bahodo#58">#58</a></b> You also can use 勉強すればするほど
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: 誠
+    text: 出来るだけ　adding to 早ければ早いほど makes the sentence more beautiful and smooth. もっときれいね
+    html: 出来るだけ　adding to 早ければ早いほど makes the sentence more beautiful and smooth. もっときれいね
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: tw
+    text: "There is no example for na-adjectives.  Would this be correct?\n\n\n\r\n私の部屋が奇麗ならば奇麗ほど、嬉しくなる。\n\r\nThe cleaner my room is, the happier I am."
+    html: "There is no example for na-adjectives.  Would this be correct?<br/>\n<br/>\r\n私の部屋が奇麗ならば奇麗ほど、嬉しくなる。<br/>\r\nThe cleaner my room is, the happier I am."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: KWhazit
+    text: It would be 奇麗なら(ば)奇麗_な_ほど. Those pesky noun-like adjectives and their なs...
+    html: It would be 奇麗なら(ば)奇麗_な_ほど. Those pesky noun-like adjectives and their なs...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: ミサ坊
+    text: "Would this also be correct?\n\r\n乾菓子を食べれば食べるほど太っちゃうよ。"
+    html: "Would this also be correct?<br/>\r\n乾菓子を食べれば食べるほど太っちゃうよ。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: myawr
+    text: Here you are
+    html: Here you are
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: hodo
+    label: hodo
+    annotation_text: hodo    (The ほど in ~ば - ほど is also used on its own.)
+    annotation_html: |-
+      <a href="http://www.jgram.org:80/pages/viewOne.php?tagE=hodo">hodo</a>    (The ほど in ~ば - ほど is also used on its own.)
+    credits_raw: null
+sections:
+  - kind: header
+    text: "〜ばほど [〜 ばほど] (bahodo)\n    Meaning: V+  the more , the more \n    Example: the more you read, the less you know\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>〜ばほど [〜 ばほど] (bahodo)</span><br/>    <span><b>Meaning</b>: V+  the more , the more </span><br/>    <b>Example</b>: <i>the more you read, the less you know</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20080502050538'

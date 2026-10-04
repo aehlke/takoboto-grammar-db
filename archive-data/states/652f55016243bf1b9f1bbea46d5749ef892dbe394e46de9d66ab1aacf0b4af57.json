@@ -1,0 +1,21 @@
+{
+  "label": "catalog",
+  "status": "excluded",
+  "checked_at": "2026-10-04T03:02:03+00:00",
+  "latest_indexed_timestamp": "20200216030015",
+  "capture": {
+    "timestamp": "20200216030015",
+    "original": "http://jgram.org:80/pages/viewOne.php?tagE=catalog",
+    "mimetype": "text/html",
+    "digest": "MNFSV3AWJ3EQSIGYX2GEDUWP4GQZRUQX",
+    "label": "catalog",
+    "archive_url": "https://web.archive.org/web/20200216030015id_/http://jgram.org:80/pages/viewOne.php?tagE=catalog"
+  },
+  "requested_timestamp": "20200216030015",
+  "response_sha256": "fa3fe9a0908de57627d7bb66481a84e6f732d469a158e82181895913e0c9ec07",
+  "retrieved_at": "2026-10-04T03:02:03+00:00",
+  "reason": "Outside collection: category 'admin', ID 1061",
+  "selection_attempts": [],
+  "eligible_ids_sha256": "375d82d3b99a3f80c61e9d6ce5731db34d762994123a383f4eaceceebd96605b",
+  "eligible_ids_count": 643
+}

@@ -1,0 +1,44 @@
+checked_at: '2026-10-04'
+purpose: |-
+  Find surviving original JGram detail records and database exports; research evidence is not redistributed grammar content.
+leads:
+  - url: https://takoboto.jp/jgram/pages/viewOne.php?tagE=sou-2
+    result: 302 redirect to /bunpo/, followed by current grammar index; no original detail mirror at the tested URL.
+    response_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    final_response_sha256: 186b75f2bc2af1906384c241b2e8c6255cbc8fe5d79fbfcc09e5c6651f6fb023
+    method: Fresh robots check and sequential scoped GET with >=5s spacing; retained local evidence.
+  - url: https://www.yookoso.com/jgram-japanese-grammar-database/
+    result: |-
+      An April 6, 2021 status note says the operator has the most recent copy of the JGram database for daily emails. The inspected article exposes no database download.
+    operator: Jeff Blum / Yookoso
+    status: Promising external database lead; availability and completeness have not been verified.
+    next_step: |-
+      Ask the operator for the retained original database and its date, source, license and included tables; requires an explicitly authorized message or operator response.
+    method: Read visible public article in background browser; no contact sent.
+    remaining_current_ids_without_historical_observation:
+      - 1795
+      - 1797
+  - url: https://github.com/DidacticalEnigma/DidacticalEnigma.Core/blob/d257e88166f3dc79459c94a9e9b8d142fed7c48e/JDict/JGram.cs
+    repository: DidacticalEnigma/DidacticalEnigma.Core
+    commit: d257e88166f3dc79459c94a9e9b8d142fed7c48e
+    result: |-
+      Parser for summary TSV and external local dictionaries/jgram path; no complete original notes, comments or attribution dump located.
+  - repository: J-O-S-H-L/grammar_dict
+    commit: 010fb773945993217f3f2426f996d9c251341254
+    result: Bunpro dictionary and scraper; unrelated grammar collection, excluded.
+  - repositories:
+      - banthar/jgram
+      - jvdhr/jgram
+      - f2d/unrelated_scripts
+    result: First two are unrelated Java/social projects; the third has archived filename tooling, not a located original database.
+  - url: https://www.scribd.com/document/461693351/JGram-The-Japanese-Grammar-database-pdf
+    result: |-
+      Candidate original JGram PDF found in public search results. No original numeric ID, complete detail content or matching source/license proof verified. Not ingested.
+    status: Unverified candidate; public-preview research only; no paywall or account restrictions bypassed.
+  - url: http://jgram.org/pages/copyright.php
+    linked_from: http://www.jgram.org:80/pages/viewOne.php?tagE=-oku
+    result: |-
+      Exact CDX lookup through 2005 returned no successful captures. The linked notice could not establish the license for the 2005 -oku response; the held page remains excluded from public data.
+    cdx_query: https://web.archive.org/cdx/search/cdx?url=jgram.org%2Fpages%2Fcopyright.php&matchType=exact&output=json&filter=statuscode%3A200&fl=timestamp%2Coriginal%2Cmimetype%2Cdigest&to=2005&limit=1000
+    cdx_response_sha256: 37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570
+    method: One exact metadata GET after fresh robots check with ordinary ArchiveFetcher pacing/backoff; no notice body fetched.

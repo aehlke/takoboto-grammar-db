@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1414
+label: advanced
+title_raw: (advanced)
+title: (advanced)
+reading: null
+romanized_label: advanced
+category: lesson
+jlpt_level_original: '3'
+meaning: Advanced Topics
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org/pages/viewOne.php?tagE=advanced
+archive_url: https://web.archive.org/web/20150302045125id_/http://jgram.org/pages/viewOne.php?tagE=advanced
+archive_timestamp: '20150302045125'
+retrieved_at: '2026-10-03T16:19:12+00:00'
+archive_digest: QGVHEQ4TOOMGHKXK2KERJYMHHPER6CWS
+response_sha256: 179cf80f8296e68a5d849e368b708e753756eb61eef5fcaa849f9e44cf2fe55b
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(advanced)\n    Meaning: Advanced Topics \n    JLPT Level: 3\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (advanced)</span><br/>    <span><b>Meaning</b>: Advanced Topics </span><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: advanced
+    id: 1414
+    title_raw: (advanced)
+    source_url: http://jgram.org/pages/viewOne.php?tagE=advanced
+    response_sha256: 179cf80f8296e68a5d849e368b708e753756eb61eef5fcaa849f9e44cf2fe55b
+    section: Tutorial
+    section_html_sha256: 957b82075f0534512c3452778c54c79cb4bb8a1eef0e538907500182206ef113
+    section_text_sha256: 4b26b1a03f07931bb565acc025aebc99009a1f7e0507e80e2aaff9f4539a4365
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8783
+    source_byte_length: 4006
+    section_bytes_sha256: 9f5f050be8878258e6cdbacd02f0d150b4bf4af6079305a89711eddb350b23ef
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150302045125'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 5040622039
+  length: 6217
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 7eb56f924c961a4e28b73dc5ae5eff41783a83821b5aa7e5b5ef5cb923de857e

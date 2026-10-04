@@ -8,13 +8,15 @@ It is a website capture rather than an SQL dump. Export summaries alone omit
 notes and discussion. See [provenance](provenance.md) and the
 [recovery ledger](../recon/archive-recovery.json) for the investigation.
 
-The backup is stored separately in `archive-2015/`: 704 included grammar
-observations, 310 verified exclusions and 63 tutorial holds out of 1,077 selected
-labels. Snapshot selection is latest **within February 24–March 2, 2015**, and
-does not establish the final live version. Hash-checked bounded WARC ranges
-avoid downloading the unrelated website container. `archive-dump` obeys fresh
-robots checks on every archive origin, five-second spacing and 30-second rests
-after three requests. An exact 206 byte range is mandatory.
+The backup is stored separately in `archive-2015/`: 766 included pages / 767
+entry observations, 311 verified exclusions and no active holds out of 1,077
+selected labels. Its 63 formerly held tutorial pages are explicitly partial:
+separately copyrighted cells are omitted with exact source proof. Snapshot
+selection is latest **within February 24–March 2, 2015**, and does not establish
+the final live version. Hash-checked bounded WARC ranges avoid downloading the
+unrelated website container. `archive-dump` obeys fresh robots checks on every
+archive origin, five-second spacing and 30-second rests after three requests.
+An exact 206 byte range is mandatory.
 
 ## Discovery and latest-version selection
 
@@ -64,7 +66,9 @@ Commons notice. Missing/changed/mixed notices produce `review_required`, retain
 cached evidence, and export no new record. Older versions are not substituted
 to avoid such a notice. Two inspected Tae Kim pages, `Introduction` and
 `HonorificAndHumbleForms`, contain separate **CC BY-NC-SA 2.0** notices and
-remain outside the CC BY-SA export. This check is evidence handling; a footer
+now have reviewed partial observations: the separately copyrighted cells remain
+outside the CC BY-SA export. See [section review](section-review.md). This check
+is evidence handling; a footer
 notice alone does not establish the origin of every linked external work.
 
 No dictionary, user profile, edit endpoint, external lesson site, or linked
@@ -124,14 +128,22 @@ This covers each latest feed, not its entire historical sequence of items.
 
 ## Verified output and remaining coverage
 
-The newer supplement contains **63 records**, with **73 notes, 446 examples,
-248 comments and 68 references**; 23 original IDs are absent current Takoboto.
-The separate backup has **704 page captures containing 705 entry observations
-(702 distinct IDs)** with **844 notes, 5,537 examples, 3,849 comments and 912
-references**; 80 IDs are absent Takoboto.
-Historical observations overlap and must not be summed as unique contributions.
-All 63 newer IDs also occur in the backup, with their distinct capture dates
-and potentially different content retained.
+The latest set contains **890 pages / 893 entry observations** (789 distinct
+original IDs), with **944 notes, 6,085 examples, 4,356 comments and 1,007
+references**; 149 IDs are absent current Takoboto. All 1,414 labels were attempted:
+512 exclusions, 11 failed replays and one license hold (`-oku`) accompany the
+890 pages. The separate backup contains **766 pages / 767 entry observations**
+(764 distinct IDs), with **846 notes, 5,554 examples, 3,886 comments and 924
+references**; 141 IDs are absent Takoboto. Historical observations overlap and
+must not be summed as unique contributions.
+
+A separate earlier revision of `sou-2`, captured March 27, 2014, recovers original
+ID 663 with two notes, six examples, two comments and five relationships. Later
+revisions report no entry. `earlier-records/` and `earlier-states/` preserve the
+selection without replacing the latest state. Earlier records bind to the full
+inventory's latest timestamp and the exact selected capture/digest, and have
+independent raw-source audits. Their SQLite keys and reader notices distinguish
+them from latest observations. Ordinary offline builds include this record.
 
 For [ageku](https://web.archive.org/web/20200215021200id_/http://jgram.org:80/pages/viewOne.php?tagE=ageku),
 the supplement recovers six original explanatory notes and three annotated
@@ -139,18 +151,13 @@ relations. Takoboto does not display those standalone notes and keeps only its
 sueni relationship. One recovered note, “Often used with さんざん,” is credited
 to MightyAtom. Original contribution dates were not exposed in the pilot.
 
-Both source audits pass for published records, and the current-source audit
-passes. Every selected backup label has been processed; **63 tutorial pages**
-remain held for section/license review. Two older undecodable-byte review files
-were superseded by verified encoding repairs; they are not additional active holds.
-The **latest replay crawl remains partial: 1,347 indexed labels are unresolved**,
-including aliases/non-grammar candidates. A 2015 observation does not clear the
-latest-version status. The `-oku`, `juu` and `teshouganai` aliases were investigated
-against licensed successor IDs; see the recovery ledger for the precise evidence.
-No complete final historical database is claimed. Of the 1,347 unresolved latest
-labels, 1,346 have no saved per-label crawl state and one (`da`) is held for
-review. See [remaining work](remaining-work.md) for the current breakdown and
-recovery priorities.
+All source audits pass for exported records, including the separately selected
+earlier revision. All dated-backup labels are resolved for the included scope.
+Twelve latest labels remain unresolved, and only current IDs 1795 (`~ageru`) and
+1797 (`temade`) lack historical observations. Both current records are preserved.
+See [remaining work](remaining-work.md), [source leads](../recon/source-leads.yaml)
+and [the recovery follow-up](recovery-followup.md). No complete final historical
+database or exhaustive revision history is claimed.
 
 ## Commands
 

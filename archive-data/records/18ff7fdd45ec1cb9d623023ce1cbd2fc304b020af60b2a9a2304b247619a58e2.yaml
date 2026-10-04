@@ -1,0 +1,339 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1199
+label: shika
+title_raw: しか [しか] (shika)
+title: しか
+reading: しか
+romanized_label: shika
+category: grammar
+jlpt_level_original: '2'
+meaning: but,  only、just
+meaning_example: thats all I can do
+credits_raw: zero
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=shika
+archive_url: https://web.archive.org/web/20200215024125id_/http://jgram.org:80/pages/viewOne.php?tagE=shika
+archive_timestamp: '20200215024125'
+retrieved_at: '2026-10-04T01:40:16+00:00'
+archive_digest: DOSJVJTCHR4ILD6LBWDWWDILH3QGAUTN
+response_sha256: e3ac4fec6fc9a8a2fe8478740d06a78a40e301ad01150dc5937ee808f57e8598
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "but / only used with neg. predicates & highlights expressed word\n\r\ncompared to だけ, which is used with positive nuance... check out comparison below"
+    html: "but / only used with neg. predicates &amp; highlights expressed word<br/>\r\ncompared to だけ, which is used with positive nuance... check out comparison below"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "Maybe its similar to the difference between \"just\" and \"only\".\n\n\n\r\n３人だけでも十分\n\r\nJust 3 people is fine\n\n\n\r\n３人しかないので、大変だった\n\r\nOnly 3 people, so it was tough..\n\n\n\r\nIf you exchange, the nuance is different\n\r\n３人[しかない]でも十分\n\r\nEven if with only 3 people, its enough\n\n\n\r\nthe nuance is that 3 people is not really enough, but if we try we can do it...\n\n\n\r\nPart of the clue is that after shika you use a negative:\n\r\nshikanai\n\r\nand dake you use a positive"
+    html: "Maybe its similar to the difference between \"just\" and \"only\".<br/>\n<br/>\r\n３人だけでも十分<br/>\r\nJust 3 people is fine<br/>\n<br/>\r\n３人しかないので、大変だった<br/>\r\nOnly 3 people, so it was tough..<br/>\n<br/>\r\nIf you exchange, the nuance is different<br/>\r\n３人[しかない]でも十分<br/>\r\nEven if with only 3 people, its enough<br/>\n<br/>\r\nthe nuance is that 3 people is not really enough, but if we try we can do it...<br/>\n<br/>\r\nPart of the clue is that after shika you use a negative:<br/>\r\nshika<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=nai\">nai</a></b><br/>\r\nand dake you use a positive"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 508
+    position: 0
+    japanese: ローマ字しか書けません。
+    body_text: "ローマ字しか書けません。 \n\n\t\tI can not write \n\t\tanything but \n\t\tromaji [Roman letters].  (western person)"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJローマ字しか書けません。\">\n\t\t\t\tローマ字<strong>しか</strong>書けません。<strong></strong></a> <br/>\n\t\tI can not write \n\t\t<strong>anything but </strong>\n\t\tromaji [Roman letters].  (western person)"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 956
+    position: 1
+    japanese: '[Related expression]田中さんだけ来ました。'
+    body_text: "[Related expression]田中さんだけ来ました。 \n\nOnly \n\t\tMr. Tanaka came."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ[Related expression]田中さんだけ来ました。\">\n\t\t\t\t[Related expression]田中さん<strong>だけ</strong>来ました。<strong></strong></a> <br/>\n<strong>Only </strong>\n\t\tMr. Tanaka came."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1048
+    position: 2
+    japanese: 田中さんしか来ませんでした。
+    body_text: "田中さんしか来ませんでした。 \n\n\t\tNoone came \n\t\texcept \n\t\tMr Tanaka."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ田中さんしか来ませんでした。\">\n田中さん<strong>しか</strong>来ませんでした。<strong></strong></a> <br/>\n\t\tNoone came \n\t\t<strong>except </strong>\n\t\tMr Tanaka."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1057
+    position: 3
+    japanese: 百円しかない。
+    body_text: "百円しかない。 \n\n\t\tI \n\t\tonly have \n\t\t100 yen"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ百円しかない。\">\n百円<strong>しかない</strong>。<strong></strong></a> <br/>\n\t\tI \n\t\t<strong>only have </strong>\n\t\t100 yen"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1058
+    position: 4
+    japanese: 赤いものしかない。
+    body_text: "赤いものしかない。 \n\nNothing but \n\t\tred things."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ赤いものしかない。\">\n赤いもの<strong>しかない</strong>。<strong></strong></a> <br/>\n<strong>Nothing but </strong>\n\t\tred things."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1059
+    position: 5
+    japanese: そこは車でしか行けない。
+    body_text: "そこは車でしか行けない。 \n\n\t\tyou can \n\t\tonly \n\t\tgo there by car"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJそこは車でしか行けない。\">\n\t\t\t\tそこは車で<strong>しか</strong>行けない。<strong></strong></a> <br/>\n\t\tyou can \n\t\t<strong>only </strong>\n\t\tgo there by car"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7813
+    position: 6
+    japanese: 英語しか知りません。
+    body_text: "英語しか知りません。 \n\n\t\tI \n\t\tonly \n\t\tknow English."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ英語しか知りません。\">\n\t\t\t\t英語<strong>しか</strong>知りません。<strong></strong></a> <br/>\n\t\tI \n\t\t<strong>only </strong>\n\t\tknow English."
+    credits_raw: Rinji_HalfElf
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8426
+    position: 7
+    japanese: 彼らしか私に礼を言わなかった。
+    body_text: "彼らしか私に礼を言わなかった。 \n\n\t\tThey were the \n\t\tonly \n\t\tpeople to thank me."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼らしか私に礼を言わなかった。\">\n\t\t\t\t彼ら<strong>しか</strong>私に礼を言わなかった。<strong></strong></a> <br/>\n\t\tThey were the \n\t\t<strong>only </strong>\n\t\tpeople to thank me."
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8427
+    position: 8
+    japanese: ほんの数人の友達しかいない。
+    body_text: "ほんの数人の友達しかいない。 \n\n\t\tI have \n\t\tonly \n\t\ta few friends."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJほんの数人の友達しかいない。\">\n\t\t\t\tほんの数人の友達<strong>しか</strong>いない。<strong></strong></a> <br/>\n\t\tI have \n\t\t<strong>only </strong>\n\t\ta few friends."
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8428
+    position: 9
+    japanese: 火曜のフットボール試合の観客はわずかしかいなかった。
+    body_text: "火曜のフットボール試合の観客はわずかしかいなかった。\r \n\n\t\tThere were few spectators at the football match on Tuesday."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ火曜のフットボール試合の観客はわずかしかいなかった。\">\n\t\t\t\t火曜のフットボール試合の観客はわずか<strong>しか</strong>いなかった。\r<strong></strong></a> <br/>\n\t\tThere were few spectators at the football match on Tuesday. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8430
+    position: 10
+    japanese: 彼女は金を浪費することしか能ない。
+    body_text: "彼女は金を浪費することしか能ない。  \n\n\t\tShe never does anything \n\t\tbut \n\t\twaste her money."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女は金を浪費することしか能ない。 \">\n\t\t\t\t彼女は金を浪費すること<strong>しか</strong>能ない。 <strong></strong></a> <br/>\n\t\tShe never does anything \n\t\t<strong>but </strong>\n\t\twaste her money."
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8431
+    position: 11
+    japanese: 彼はせいぜい平均点しか取れないだろう。
+    body_text: "彼はせいぜい平均点しか取れないだろう。\r \n\n\t\tHe will get an average mark at best."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼はせいぜい平均点しか取れないだろう。\">\n\t\t\t\t彼はせいぜい平均点<strong>しか</strong>取れないだろう。\r<strong></strong></a> <br/>\n\t\tHe will get an average mark at best. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8432
+    position: 12
+    japanese: 彼女はせいぜい５千円しか払わないだろう。
+    body_text: "彼女はせいぜい５千円しか払わないだろう。\r \n\n\t\tShe will pay 5,000 yen at most."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女はせいぜい５千円しか払わないだろう。\">\n\t\t\t\t彼女はせいぜい５千円<strong>しか</strong>払わないだろう。\r<strong></strong></a> <br/>\n\t\tShe will pay 5,000 yen at most. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8433
+    position: 13
+    japanese: 君に賛成だとしか言えない。
+    body_text: "君に賛成だとしか言えない。\r \n\n\t\tI can`t say but that I agree with you."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ君に賛成だとしか言えない。\">\n\t\t\t\t君に賛成だと<strong>しか</strong>言えない。\r<strong></strong></a> <br/>\n\t\tI can`t say but that I agree with you. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8434
+    position: 14
+    japanese: 彼女は金もうけのことしか考えない。
+    body_text: "彼女は金もうけのことしか考えない。\r \n\n\t\tShe thinks of nothing but making money."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女は金もうけのことしか考えない。\">\n\t\t\t\t彼女は金もうけのこと<strong>しか</strong>考えない。\r<strong></strong></a> <br/>\n\t\tShe thinks of nothing but making money. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: |-
+      しか in comparison to だけ has a bit of an implication that the amount that /is/ present is small in comparison with what might be expected.
+    html: |-
+      しか in comparison to だけ has a bit of an implication that the amount that /is/ present is small in comparison with what might be expected.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: |-
+      In the しか 'Mr. Tanaka' example the implication is that more might have been expected to come.  There is not such an implication in the だけ version.
+    html: |-
+      In the しか 'Mr. Tanaka' example the implication is that more might have been expected to come.  There is not such an implication in the だけ version.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: (Or such is my understanding ;-)
+    html: (Or such is my understanding ;-)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: often used as 「しかない」- nothing but
+    html: often used as 「しかない」- nothing but
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bamboo4
+    text: Or you can use だけしか to emphasize that there were no-shows.
+    html: |-
+      Or you can use だけしか to emphasize that there were no-shows.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: LittleFish
+    text: |-
+      I always got confused when textbooks said that しか...ない means "only," but ない is negative.  This kind of threw me off.  I've never seen it defined as "nothing but" before.  Thank you :)
+    html: |-
+      I always got confused when textbooks said that しか...ない means "only," but ない is negative.  This kind of threw me off.  I've never seen it defined as "nothing but" before.  Thank you :)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: SpurryMOses
+    text: |-
+      Yes, thanks Littlefish. The negative is definitely confusing without further explanation to me as well. So, I now read the 'Mr. Tanaka' example more literally as "Nobody, except Mr. Tanaka, came". Otherwise the negative isn't logical. So I think of it as meaning 'except' and wait for the negative to be 'nothing' or 'noone'.
+    html: |-
+      Yes, thanks Littlefish. The negative is definitely confusing without further explanation to me as well. So, I now read the 'Mr. Tanaka' example more literally as "Nobody, except Mr. Tanaka, came". Otherwise the negative isn't logical. So I think of it as meaning 'except' and wait for the negative to be 'nothing' or 'noone'.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: bamboo4
+    text: 'Spurry is right, so corrected example #1048.'
+    html: |-
+      Spurry is right, so corrected example <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=shika#1048">#1048</a></b>.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: Chousuke
+    text: 'I think さえ resembles the English "save" quite a lot.    So #1048 could also be  "Save Mr. Tanaka, no-one  came"'
+    html: |-
+      I think さえ resembles the English "save" quite a lot.    So <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=shika#1048">#1048</a></b> could also be  "Save Mr. Tanaka, no-one  came"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: Chousuke
+    text: Uh, I wonder what I was thinking. Of course I meant しか, not さえ.
+    html: Uh, I wonder what I was thinking. Of course I meant しか, not さえ.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: bamboo4
+    text: 'If you wanna use "save" in #1048,it would have to be "save for."'
+    html: |-
+      If you wanna use "save" in <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=shika#1048">#1048</a></b>,it would have to be "save for."<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: blabby
+    text: "I know for this grammar that you often omit the particle.\n\r\nラーメンをしか食べていない sounds strange to me.\n\r\nラーメンしか食べていない sounds more natural.\n\r\nToday, I wanted to say \"Recently, I am only meeting XX\". In this case you would say XXさん と/に しか会っていない. right?\n\r\nI also hear 何々の前にしか会ってない。\n\r\nCan anyone clarify the rules of particle omission?"
+    html: "I know for this grammar that you often omit the particle.<br/>\r\nラーメンをしか食べていない sounds strange to me.<br/>\r\nラーメンしか食べていない sounds more natural.<br/>\r\nToday, I wanted to say \"Recently, I am only meeting XX\". In this case you would say XXさん と/に しか会っていない. right?<br/>\r\nI also hear 何々の前にしか会ってない。<br/>\r\nCan anyone clarify the rules of particle omission?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: bamboo4
+    text: |-
+      In the notes,３人しかないので should be ３人しかいないので　When you count persons, you use いる/いない and when you refer to inanimate things, you use ある/ない, as the general rule.Elementary, my dear Watson.
+    html: |-
+      In the notes,３人しかないので should be ３人しかいないので　When you count persons, you use いる/いない and when you refer to inanimate things, you use ある/ない, as the general rule.Elementary, my dear Watson.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: jmadsen
+    text: |-
+      I learned this one as "no more than", which always helped me think of it as a negative-sounding idea, and so I never had trouble remembering to use a negative verb with it. Many of the examples use shika + nai, but you should realize that it is the negative form of ANY verb (subject to other grammar rules, of course.)
+    html: |-
+      I learned this one as "no more than", which always helped me think of it as a negative-sounding idea, and so I never had trouble remembering to use a negative verb with it. Many of the examples use shika + nai, but you should realize that it is the negative form of ANY verb (subject to other grammar rules, of course.)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: pingpongpaddle
+    text: What's the difference between だけ　and　ただ? Is it just that ただ　comes before a noun, and　だけ after?
+    html: What's the difference between だけ　and　ただ? Is it just that ただ　comes before a noun, and　だけ after?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: shikanai
+    label: shikanai
+    annotation_text: shikanai    (Note しか and しかない entry.  The しかない entry is for verb しかない.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=shikanai">shikanai</a>    (Note しか and しかない entry.  The しかない entry is for <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=verb">verb</a></b> しかない.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: dake
+    label: dake
+    annotation_text: dake    (shika emphasizes the negative, whereas dake just means only/just, in a neutral fashion) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=dake">dake</a>    (<b><a href="http://jgram.org:80/pages/viewOne.php?tagE=shika">shika</a></b> emphasizes the negative, whereas <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=dake">dake</a></b> just means only/just, in a neutral fashion) [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "しか [しか] (shika)\n    Meaning: but,  only、just \n    Example: thats all I can do\n    JLPT Level: 2\n    Category: grammar\n    Author: zero"
+    html: |-
+      <span>しか [しか] (shika)</span><br/>    <span><b>Meaning</b>: but,  only、just </span><br/>    <b>Example</b>: <i>thats all I can do</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>zero</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215024125'

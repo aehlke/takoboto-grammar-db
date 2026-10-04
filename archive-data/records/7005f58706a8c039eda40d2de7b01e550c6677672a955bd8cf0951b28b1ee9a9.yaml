@@ -1,0 +1,149 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 930
+label: Noun nikawatte
+title_raw: 名詞が名詞に代わって ([めいしがめいしにかわって] )(Noun nikawatte)
+title: 名詞が名詞に代わって
+reading: めいしがめいしにかわって
+romanized_label: Noun nikawatte
+category: grammar
+jlpt_level_original: '2'
+meaning: please use Nouｎに instead of Nounが これがそれに代わって
+meaning_example: instead of this, use that
+credits_raw: dc
+source_url: http://www.jgram.org:80/pages/viewOne.php?tagE=Noun+nikawatte
+archive_url: https://web.archive.org/web/20080210101051id_/http://www.jgram.org:80/pages/viewOne.php?tagE=Noun+nikawatte
+archive_timestamp: '20080210101051'
+retrieved_at: '2026-10-04T02:44:25+00:00'
+archive_digest: TGEQD2ME7QFJIUERHMR2YA7QT6MDKWJB
+response_sha256: 1b393c3ae26e4fc78c7bf2de8c9a1aaded419f42d78d77949a20e4741921c2f0
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: meishi + ni kawatte
+    html: meishi + ni kawatte
+    credits_raw: Viola
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "the base of this grammar point is the polite request form [V-てform　ください] \n\n\n\r\nthe dictionary form of かわって is かわる which means to substatute or to change from one thing to another. \n\n\n\r\nexample:\n\n\n\r\n今日は　大嫌いケーキが私の一番好きなのにかわりました。\n\n\n\r\nToday, My favorit cake was substatued with one I hate.\n\n\n\r\nThe basic form of this is \n\r\nNoun+ga Noun+ni kawaru\n\n\n\r\nNoun+に was replaced by Noun+が\n\n\n\r\nIn order to change this to a request we simply change kawaru to a request form\n\n\n\r\nExample:\n\r\n代わって　下さい　Please　substatute it"
+    html: "the base of this grammar point is the polite request form [V-てform　ください] <br/>\n<br/>\r\nthe dictionary form of かわって is かわる which means to substatute or to change from one thing to another. <br/>\n<br/>\r\nexample:<br/>\n<br/>\r\n今日は　大嫌いケーキが私の一番好きなのにかわりました。<br/>\n<br/>\r\nToday, My favorit cake was substatued with one I hate.<br/>\n<br/>\r\nThe basic form of this is <br/>\r\nNoun+ga Noun+ni kawaru<br/>\n<br/>\r\nNoun+に was replaced by Noun+が<br/>\n<br/>\r\nIn order to change this to a request we simply change kawaru to a request form<br/>\n<br/>\r\nExample:<br/>\r\n代わって　下さい　Please　substatute it<br/>"
+    credits_raw: tigert
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 55
+    position: 0
+    japanese: ここでは、人間にかわってロボットが作業をしている。
+    body_text: "ここでは、人間にかわってロボットが作業をしている。 \n\r\n\t\tHere, \r\n\t\tinstead of \r\n\t\thumans, robots are doing the work."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJここでは、人間にかわってロボットが作業をしている。\">\nここでは、人間<strong>にかわって</strong>ロボットが作業をしている。<strong></strong></a> <br/>\r\n\t\tHere, \r\n\t\t<strong>instead of </strong>\r\n\t\thumans, robots are doing the work."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 102
+    position: 1
+    japanese: 社長にかわって私が会議に参加しています。
+    body_text: "社長にかわって私が会議に参加しています。  \n\nIn place of \r\n\t\t  the president, I am attending the meeting."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ社長にかわって\">\n社長<strong>にかわって</strong><strong></strong>私が会議に参加しています。 </a> <br/>\n<strong>In place of </strong>\r\n\t\t  the president, I am attending the meeting."
+    credits_raw: dc
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3476
+    position: 2
+    japanese: ジムは、ベティーにかわって手紙を書いた。
+    body_text: "ジムは、ベティーにかわって手紙を書いた。 \n\r\n\t\tJim wrote the letter \r\n\t\tfor \r\n\t\t  Betty."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJジムは、ベティーにかわって手紙を書いた。\">\r\n\t\t\t\tジムは、ベティー<strong>にかわって</strong>手紙を書いた。<strong></strong></a> <br/>\r\n\t\tJim wrote the letter \r\n\t\t<strong>for </strong>\r\n\t\t  Betty."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3477
+    position: 3
+    japanese: 私があなたにかわって全て行いますから、あなたはただここで待っているだけでいいのです。
+    body_text: "私があなたにかわって全て行いますから、あなたはただここで待っているだけでいいのです。 \n\r\n\t\tI'll do everything \r\n\t\tfor \r\n\t\t  you, so you have only to wait here."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ私があなたにかわって全て行いますから、\">\r\n\t\t\t\t私があなた<strong>にかわって</strong>全て行いますから、<strong></strong>あなたはただここで待っているだけでいいのです。</a> <br/>\r\n\t\tI'll do everything \r\n\t\t<strong>for </strong>\r\n\t\t  you, so you have only to wait here."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6523
+    position: 4
+    japanese: 戦後になってガラスにかわってプラスチックが出てきた。
+    body_text: "戦後になってガラスにかわってプラスチックが出てきた。 \n\r\n\t\tAfter the war plastics became available \r\n\t\treplacing \r\n\t\t  glass."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ戦後になってガラスにかわって\">\r\n\t\t\t\t戦後になってガラス<strong>にかわって</strong><strong></strong>プラスチックが出てきた。</a> <br/>\r\n\t\tAfter the war plastics became available \r\n\t\t<strong>replacing </strong>\r\n\t\t  glass."
+    credits_raw: andreiutza13
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: anon
+    text: |-
+      based on the examples, it seems that the description "instead of" isn't complete, maybe you should ad "for" or would it be more accurate to say "for the benefit of person"?
+    html: |-
+      based on the examples, it seems that the description "instead of" isn't complete, maybe you should ad "for" or would it be more accurate to say "for the benefit of <b><a href="http://www.jgram.org:80/pages/viewOne.php?tagE=person">person</a></b>"?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: anon
+    text: "Actually i consulted a native speaker, and apparently kawarini is mainly used for an \"on behalf of\" type phrase, whereas nikawatte is mostly for \"instead of\". \n\r\nHowever, the examples we have here only seem to give the \"on behalf of\" sense..."
+    html: "Actually i consulted a native speaker, and apparently <b><a href=\"http://www.jgram.org:80/pages/viewOne.php?tagE=kawarini\">kawarini</a></b> is mainly used for an \"on behalf of\" type phrase, whereas <b><a href=\"http://www.jgram.org:80/pages/viewOne.php?tagE=nikawatte\">nikawatte</a></b> is mostly for \"instead of\". <br/>\r\nHowever, the examples we have here only seem to give the \"on behalf of\" sense..."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: scorduan
+    text: "It sounds like \"in the place of\" captures the nuances best, as translated in sentence 2. It's substitutionary. \n\n\n\r\nHere, in the place of humans, robots are doing the work.\n\n\n\r\nJim  wrote the letter, in Betty's place.\n\n\n\r\nI'll do everything in your place, so you only have to wait here."
+    html: "It sounds like \"in the place of\" captures the nuances best, as translated in sentence 2. It's substitutionary. <br/>\n<br/>\r\nHere, in the place of humans, robots are doing the work.<br/>\n<br/>\r\nJim  wrote the letter, in Betty's place.<br/>\n<br/>\r\nI'll do everything in your place, so you only have to wait here."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Fritz
+    text: |-
+      In the examples above, the に noun is the one that gets replaced. But the "Meaning" and "Notes" sections (at the time when I am writing) say that the に noun does the replacing (that the が noun gets replaced). From what I have seen elsewhere, the examples are correct, and the explanations have it backwards.
+    html: |-
+      In the examples above, the に noun is the one that gets replaced. But the "Meaning" and "Notes" sections (at the time when I am writing) say that the に noun does the replacing (that the が noun gets replaced). From what I have seen elsewhere, the examples are correct, and the explanations have it backwards.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: kawaru-group
+    label: kawaru-group
+    annotation_text: kawaru-group
+    annotation_html: |-
+      <a href="http://www.jgram.org:80/pages/viewOne.php?tagE=kawaru-group">kawaru-group</a>
+    credits_raw: null
+sections:
+  - kind: header
+    text: |-
+      名詞が名詞に代わって ([めいしがめいしにかわって] )(Noun nikawatte)
+          Meaning: please use Nouｎに instead of Nounが これがそれに代わって
+          Example: instead of this, use that
+          JLPT Level: 2
+          Category: grammar
+          Author: dc
+    html: |-
+      <span>名詞が名詞に代わって ([めいしがめいしにかわって] )(Noun nikawatte)</span><br/>    <span><b>Meaning</b>: please use Nouｎに instead of Nounが これがそれに代わって</span><br/>    <b>Example</b>: <i>instead of this, use that</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20080210101051'

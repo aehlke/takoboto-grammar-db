@@ -23,7 +23,7 @@ from .archive import ArchiveAccessError, ArchiveFetcher, original_label
 from .archive_parser import parse_archive, NotGrammar, LicenseReviewRequired
 from .crawl import now
 from .http import HttpxOpener, RequestPacer
-from .storage import output_root, safe_target, write_json, write_record, cache_response, record_digest, read_archive_state, move_to_trash, annotate_archive_record
+from .storage import membership_metadata, output_root, safe_target, write_json, write_record, cache_response, record_digest, read_archive_state, move_to_trash, annotate_archive_record
 
 ITEM = 'archiveteam_archivebot_go_20150302130001'
 WARC = 'jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz'
@@ -312,7 +312,7 @@ def crawl_dump(fetcher, inventory, eligible_ids=(), labels=None, limit=None):
                 label = capture['label']
                 key = hashlib.sha256(label.encode()).hexdigest()
                 state = {'label': label, 'status': 'pending', 'checked_at': now(),
-                    'latest_indexed_timestamp': capture['timestamp'], 'capture': capture, 'eligible_ids': list(eligible_ids)}
+                    'latest_indexed_timestamp': capture['timestamp'], 'capture': capture, **membership_metadata(eligible_ids)}
                 write_json(fetcher.root, f'states/{key}.json', state)
                 try:
                     if label in cached:

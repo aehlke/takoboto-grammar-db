@@ -1,0 +1,66 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 951
+label: kanji
+title_raw: 漢字 ([かんじ] )(kanji)
+title: 漢字
+reading: かんじ
+romanized_label: kanji
+category: lesson
+jlpt_level_original: '4'
+meaning: Writing system based on ancient chinese pictographs 中国で作られ、日本などでも使われている文字。
+meaning_example: There are to be 2190 Kanji in the new general use character list in 2010.
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=kanji
+archive_url: https://web.archive.org/web/20200215021640id_/http://jgram.org:80/pages/viewOne.php?tagE=kanji
+archive_timestamp: '20200215021640'
+retrieved_at: '2026-10-04T03:28:23+00:00'
+archive_digest: 7JI3GQMSMCJISLZ5VNH2XJKUJ5Q5UJ37
+response_sha256: 1c23f2a330c4a4f6f33b000c32ad9411343aa7937b84723db91faf12a1b6307a
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      漢字 ([かんじ] )(kanji)
+          Meaning: Writing system based on ancient chinese pictographs 中国で作られ、日本などでも使われている文字。
+          Example: There are to be 2190 Kanji in the new general use character list in 2010.
+          JLPT Level: 4
+          Category: lesson
+          Author: TaeKim
+    html: |-
+      <span>漢字 ([かんじ] )(kanji)</span><br/>    <span><b>Meaning</b>: Writing system based on ancient chinese pictographs 中国で作られ、日本などでも使われている文字。</span><br/>    <b>Example</b>: <i>There are to be 2190 Kanji in the new general use character list in 2010.</i><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: kanji
+    id: 951
+    title_raw: 漢字 ([かんじ] )(kanji)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=kanji
+    response_sha256: 1c23f2a330c4a4f6f33b000c32ad9411343aa7937b84723db91faf12a1b6307a
+    section: Tutorial
+    section_html_sha256: 4ecfcea6ede69701977d3f2792372b42c6e0b882b9477a1cec4c47f59100331f
+    section_text_sha256: 3bc4d876e4710df5e1e8a3672ecab1e7a17eb612a449ff4ff2eb290d99b1bd2d
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8263
+    source_byte_length: 9923
+    section_bytes_sha256: f47e08c11dfb0dc8f687e18f8638aabcfd49e224f31df47fb23799b05812c3e7
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215021640'

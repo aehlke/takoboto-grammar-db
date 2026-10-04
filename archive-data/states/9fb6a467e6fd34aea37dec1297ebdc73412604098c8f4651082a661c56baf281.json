@@ -1,0 +1,21 @@
+{
+  "label": "test entry",
+  "status": "excluded",
+  "checked_at": "2026-10-04T04:28:33+00:00",
+  "latest_indexed_timestamp": "20190718121210",
+  "capture": {
+    "timestamp": "20190718121210",
+    "original": "http://jgram.org/pages/viewOne.php?tagE=test%20entry",
+    "mimetype": "text/html",
+    "digest": "V56Z43CU2SOAR7O2JJ357FZ6TJDOF7OT",
+    "label": "test entry",
+    "archive_url": "https://web.archive.org/web/20190718121210id_/http://jgram.org/pages/viewOne.php?tagE=test%20entry"
+  },
+  "requested_timestamp": "20190718121210",
+  "response_sha256": "3f4246fc2cf01c10ff96d656d21bf50104202162618c820020a8ad8db79d64cf",
+  "retrieved_at": "2026-10-04T04:28:33+00:00",
+  "reason": "Archived JGram explicitly reports no entry for this label",
+  "selection_attempts": [],
+  "eligible_ids_sha256": "375d82d3b99a3f80c61e9d6ce5731db34d762994123a383f4eaceceebd96605b",
+  "eligible_ids_count": 643
+}

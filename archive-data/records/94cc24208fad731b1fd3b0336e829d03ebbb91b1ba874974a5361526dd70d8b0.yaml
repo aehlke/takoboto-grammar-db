@@ -1,0 +1,89 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1593
+label: noni-3
+title_raw: のに [のに] (noni-3)
+title: のに
+reading: のに
+romanized_label: noni-3
+category: null
+jlpt_level_original: '0'
+meaning: wish
+meaning_example: I wish today's weather was as nice as yesterday's
+credits_raw: ziaz
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=noni-3
+archive_url: https://web.archive.org/web/20200215031344id_/http://jgram.org:80/pages/viewOne.php?tagE=noni-3
+archive_timestamp: '20200215031344'
+retrieved_at: '2026-10-04T01:33:21+00:00'
+archive_digest: S6IYZPAXSCSGOCI2Y4JOVQDJ2ZEAGSL4
+response_sha256: c752023058fd9acc9f974b7f5e17af202b43d855b826bd5dc52aceebc564db68
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: I believe this use of noni is interchangeable with のだけれでも
+    html: I believe this use of noni is interchangeable with のだけれでも
+    credits_raw: ziaz
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 6072
+    position: 0
+    japanese: 今日の天気が昨日のような天気だったら良かった。のに
+    body_text: "今日の天気が昨日のような天気だったら良かった。のに \n\n\t\tI wish today's weather had been as nice as yesterday's. \n\t\tのに"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ今日の天気が昨日のような天気だったら良かった。のに\">\n\t\t\t\t今日の天気が昨日のような天気だったら良かった。<strong>のに</strong><strong></strong></a> <br/>\n\t\tI wish today's weather had been as nice as yesterday's. \n\t\t<strong>のに </strong>"
+    credits_raw: ziaz
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8383
+    position: 1
+    japanese: 雨さえやめばいいのになあ。
+    body_text: "雨さえやめばいいのになあ。 \n\n\t\tIf only it would stop raining!"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ雨さえやめばいいのになあ。\">\n\t\t\t\t雨さえやめばいい<strong>のに</strong>なあ。<strong></strong></a> <br/>\n\t\tIf only it would stop raining! \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: ziaz, re text, if you say that, it is だけれども instead of だけれでも.
+    html: ziaz, re text, if you say that, it is だけれども instead of だけれでも.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: james2c19v
+    text: |-
+      I feel like this should be listed as ればいいのに or at least いいのに. I would say that のに within the construction, by itself, is actually functioning within its "in spite of" sense.
+    html: |-
+      I feel like this should be listed as ればいいのに or at least いいのに. I would say that のに within the construction, by itself, is actually functioning within its "in spite of" sense.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: noni
+    label: noni
+    annotation_text: "noni    (noni also has a third meaning which is wish.\n\r\n今日の天気が昨日のような天気だったら良かったのに\n\r\nI wish today's weather was as good as yesterday's\n\r\n) [ziaz]"
+    annotation_html: "<a href=\"http://jgram.org:80/pages/viewOne.php?tagE=noni\">noni</a>    (noni also has a third meaning which is wish.<br/>\r\n今日の天気が昨日のような天気だったら良かったのに<br/>\r\nI wish today's weather was as good as yesterday's<br/>\r\n) [<a href=\"http://jgram.org:80/pages/contributions.php?author=ziaz\">ziaz</a>]"
+    credits_raw: ziaz
+sections:
+  - kind: header
+    text: "のに [のに] (noni-3)\n    Meaning: wish \n    Example: I wish today's weather was as nice as yesterday's\n    JLPT Level: 0\n    Author: ziaz"
+    html: |-
+      <span>のに [のに] (noni-3)</span><br/>    <span><b>Meaning</b>: wish </span><br/>    <b>Example</b>: <i>I wish today's weather was as nice as yesterday's</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Author</b>: <i>ziaz</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215031344'

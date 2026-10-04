@@ -1,0 +1,81 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1411
+label: index
+title_raw: (index)
+title: (index)
+reading: null
+romanized_label: index
+category: grammar
+jlpt_level_original: '0'
+meaning: Tae Kim's Guide to Japanese Grammar Index Page
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=index
+archive_url: https://web.archive.org/web/20200215021600id_/http://jgram.org:80/pages/viewOne.php?tagE=index
+archive_timestamp: '20200215021600'
+retrieved_at: '2026-10-04T03:23:36+00:00'
+archive_digest: DSOWTZHDJHJ7WRGSKAVXGOD4T5R5KT2P
+response_sha256: 96b4ed6fd80c84defea6a746ec497621780e5711d8cb422441ed5c61e52b7825
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: Jya
+    text: |-
+      Thank you very much for this extensive and extremely useful package of lessons. Your hard work and time sacrificed on this are greatly appreciated. I will put your valuable tutorials to good use :D
+    html: |-
+      Thank you very much for this extensive and extremely useful package of lessons. Your hard work and time sacrificed on this are greatly appreciated. I will put your valuable tutorials to good use :D
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: address
+    label: address
+    annotation_text: address [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=address">address</a> [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: |-
+      (index)
+          Meaning: Tae Kim's Guide to Japanese Grammar Index Page
+          JLPT Level: 0
+          Category: grammar
+          Author: TaeKim
+    html: |-
+      <span> (index)</span><br/>    <span><b>Meaning</b>: Tae Kim's Guide to Japanese Grammar Index Page</span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: index
+    id: 1411
+    title_raw: (index)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=index
+    response_sha256: 96b4ed6fd80c84defea6a746ec497621780e5711d8cb422441ed5c61e52b7825
+    section: Tutorial
+    section_html_sha256: 9d81002815e0a591d49ccb6c925a90fefaf0e31e5f67f81b36490d82b644321a
+    section_text_sha256: 1b273e69cfd72ad2509c5e2e5d2df30f1fd366df89f480815563692e11c5b8b4
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8063
+    source_byte_length: 1606
+    section_bytes_sha256: 47e9d8add499576172508ca22db463864c49296dcc14d3c16a1880e030303b1e
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215021600'

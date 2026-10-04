@@ -1,0 +1,282 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 100
+label: nihanshite
+title_raw: に反して [にはんして] (nihanshite)
+title: に反して
+reading: にはんして
+romanized_label: nihanshite
+category: grammar
+jlpt_level_original: '3'
+meaning: against, contrary to
+meaning_example: contrary to expectations
+credits_raw: dc2
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=nihanshite
+archive_url: https://web.archive.org/web/20200215031149id_/http://jgram.org:80/pages/viewOne.php?tagE=nihanshite
+archive_timestamp: '20200215031149'
+retrieved_at: '2026-10-04T01:15:56+00:00'
+archive_digest: UAWABCVYISNUPA7KPW4L54ULM4QMQ23K
+response_sha256: 014a66126a8340a54880668d9db754d56f6550259a72899b1a020b38bb98ca98
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: 〜と反対に。〜と逆に
+    html: 〜と反対に。〜と逆に
+    credits_raw: sureshnihon
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 124
+    position: 0
+    japanese: 両親の期待に反して女の子が生まれた。
+    body_text: "両親の期待に反して女の子が生まれた。 \n\nContrary to \n\t\tthe parents expectations, a girl was born."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ両親の期待に反して女の子が生まれた。\">\n\t\t\t\t両親の期待<strong>に反して</strong>女の子が生まれた。<strong></strong></a> <br/>\n<strong>Contrary to </strong>\n\t\tthe parents expectations, a girl was born."
+    credits_raw: dc2
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 2943
+    position: 1
+    japanese: 国民の期待に反して政府は年金制度改正法案の強行採決に踏み切った。
+    body_text: "国民の期待に反して政府は年金制度改正法案の強行採決に踏み切った。 \n\nContrary to \n\t\tthe peoples expectations, the government bulldozed the pension system revision bill through the Diet."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ国民の期待に反して政府は年金制度改正法案の強行採決に踏み切った。\">\n国民の期待に<strong>反して</strong>政府は年金制度改正法案の強行採決に踏み切った。<strong></strong></a> <br/>\n<strong>Contrary to </strong>\n\t\tthe peoples expectations, the government bulldozed the pension system revision bill through the Diet."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5702
+    position: 2
+    japanese: 研究社員になる希望に反して大学を止めらなければなりませんでした。
+    body_text: "研究社員になる希望に反して大学を止めらなければなりませんでした。  \n\n\t\tI had to drop out of university \n\t\tagainst \n\t\tmy aspirations of becoming a scientist."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ研究社員になる希望に反して大学を止めらなければなりませんでした。 \">\n\t\t\t\t研究社員になる希望<strong>に反して</strong>大学を止めらなければなりませんでした。 <strong></strong></a> <br/>\n\t\tI had to drop out of university \n\t\t<strong>against </strong>\n\t\tmy aspirations of becoming a scientist."
+    credits_raw: Archana
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5823
+    position: 3
+    japanese: 神の意向に反して人間は自然を破壊している。
+    body_text: "神の意向に反して人間は自然を破壊している。 \n\nContrary to \n\t\tGod's will, humans are destroying nature."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ神の意向に反して人間は自然を破壊している。\">\n\t\t\t\t神の意向<strong>に反して</strong>人間は自然を破壊している。<strong></strong></a> <br/>\n<strong>Contrary to </strong>\n\t\tGod's will, humans are destroying nature."
+    credits_raw: Meghana
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5824
+    position: 4
+    japanese: （僕の期待に反して）実のところ物価は毎週上昇している。
+    body_text: "（僕の期待に反して）実のところ物価は毎週上昇している。  \n\n\t\t( \n\t\tAgainst \n\t\tmy expectations) prices are going up every week.（M)"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ（僕の期待に反して）実のところ物価は毎週上昇している。 \">\n\t\t\t\t（僕の期待<strong>に反して</strong>）実のところ物価は毎週上昇している。 <strong></strong></a> <br/>\n\t\t( \n\t\t<strong>Against </strong>\n\t\tmy expectations) prices are going up every week.（M)"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5825
+    position: 5
+    japanese: この結果は、当初の期待に反して、変数の数が処理速度に影響を与えないということを意味しているのである。
+    body_text: "この結果は、当初の期待に反して、変数の数が処理速度に影響を与えないということを意味しているのである。  \n\n\t\tThis result means, \n\t\tcontrary to \n\t\tprior expectations, that the number of variants does not affect the processing speed."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの結果は、当初の期待に反して、変数の数が処理速度に影響を与えないということを意味しているのである。 \">\n\t\t\t\tこの結果は、当初の期待<strong>に反して</strong>、変数の数が処理速度に影響を与えないということを意味しているのである。 <strong></strong></a> <br/>\n\t\tThis result means, \n\t\t<strong>contrary to </strong>\n\t\tprior expectations, that the number of variants does not affect the processing speed."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5826
+    position: 6
+    japanese: その結果は私の期待に反していた。
+    body_text: "その結果は私の期待に反していた。\r \n\n\t\tThe result was contrary to my expectation."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJその結果は私の期待に反していた。\">\n\t\t\t\tその結果は私の期待<strong>に反して</strong>いた。\r<strong></strong></a> <br/>\n\t\tThe result was contrary to my expectation. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5827
+    position: 7
+    japanese: 意思に反して何かを無理にさせる事はできない。
+    body_text: "意思に反して何かを無理にさせる事はできない。\r \n\n\t\tNo one can force you to do anything against your will."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ意思に反して何かを無理にさせる事はできない。\">\n\t\t\t\t意思<strong>に反して</strong>何かを無理にさせる事はできない。\r<strong></strong></a> <br/>\n\t\tNo one can force you to do anything against your will. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5828
+    position: 8
+    japanese: 私は意に反してこれをせざるをえなかった。
+    body_text: "私は意に反してこれをせざるをえなかった。\r \n\n\t\tI was compelled to do this against my will."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私は意に反してこれをせざるをえなかった。\">\n\t\t\t\t私は意<strong>に反して</strong>これをせざるをえなかった。\r<strong></strong></a> <br/>\n\t\tI was compelled to do this against my will. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5829
+    position: 9
+    japanese: 私は意に反して彼と結婚した。
+    body_text: "私は意に反して彼と結婚した。\r \n\n\t\tI married him against my will."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私は意に反して彼と結婚した。\">\n\t\t\t\t私は意<strong>に反して</strong>彼と結婚した。\r<strong></strong></a> <br/>\n\t\tI married him against my will. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5830
+    position: 10
+    japanese: 彼は、自分の意志に反して契約書に署名させられた。
+    body_text: "彼は、自分の意志に反して契約書に署名させられた。\r \n\n\t\tHe was made to sign the contact against his will."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は、自分の意志に反して契約書に署名させられた。\">\n\t\t\t\t彼は、自分の意志<strong>に反して</strong>契約書に署名させられた。\r<strong></strong></a> <br/>\n\t\tHe was made to sign the contact against his will. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5831
+    position: 11
+    japanese: 彼は意に反して解雇された。
+    body_text: "彼は意に反して解雇された。\r \n\n\t\tHe was fired against his will."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は意に反して解雇された。\">\n\t\t\t\t彼は意<strong>に反して</strong>解雇された。\r<strong></strong></a> <br/>\n\t\tHe was fired against his will. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5832
+    position: 12
+    japanese: 彼は私たちの期待に反して落選した。
+    body_text: "彼は私たちの期待に反して落選した。  \n\n\t\tHe failed to get elected \n\t\tcontrary \n\t\tto our expectation."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は私たちの期待に反して落選した。 \">\n\t\t\t\t彼は私たちの期待<strong>に反して</strong>落選した。 <strong></strong></a> <br/>\n\t\tHe failed to get elected \n\t\t<strong>contrary </strong>\n\t\tto our expectation."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5833
+    position: 13
+    japanese: 彼は彼自身の望みに反してそれをするように説得された。
+    body_text: "彼は彼自身の望みに反してそれをするように説得された。\r \n\n\t\tHe was persuaded into doing it against his own wishes."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は彼自身の望みに反してそれをするように説得された。\">\n\t\t\t\t彼は彼自身の望み<strong>に反して</strong>それをするように説得された。\r<strong></strong></a> <br/>\n\t\tHe was persuaded into doing it against his own wishes. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5834
+    position: 14
+    japanese: 彼は陽気そうに見えるが、本当はそれに反して悲しんでいるのだ。
+    body_text: "彼は陽気そうに見えるが、本当はそれに反して悲しんでいるのだ。\r \n\n\t\tHe seems gay but, on the contrary, he is sad."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は陽気そうに見えるが、本当はそれに反して悲しんでいるのだ。\">\n\t\t\t\t彼は陽気そうに見えるが、本当はそれ<strong>に反して</strong>悲しんでいるのだ。\r<strong></strong></a> <br/>\n\t\tHe seems gay but, on the contrary, he is sad. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5835
+    position: 15
+    japanese: 彼らの上司は彼らの意志に反して彼らを働かせた。
+    body_text: "彼らの上司は彼らの意志に反して彼らを働かせた。\r \n\n\t\tTheir boss made them work against their will."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼らの上司は彼らの意志に反して彼らを働かせた。\">\n\t\t\t\t彼らの上司は彼らの意志<strong>に反して</strong>彼らを働かせた。\r<strong></strong></a> <br/>\n\t\tTheir boss made them work against their will. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5836
+    position: 16
+    japanese: 彼らは彼の意志に反して彼にその契約書に署名させた。
+    body_text: "彼らは彼の意志に反して彼にその契約書に署名させた。\r \n\n\t\tHe was made to sign the contract against his will."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼らは彼の意志に反して彼にその契約書に署名させた。\">\n\t\t\t\t彼らは彼の意志<strong>に反して</strong>彼にその契約書に署名させた。\r<strong></strong></a> <br/>\n\t\tHe was made to sign the contract against his will. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5837
+    position: 17
+    japanese: 彼女は、彼らがしていることは会社のセクハラ政策に反している、と言った。
+    body_text: "彼女は、彼らがしていることは会社のセクハラ政策に反している、と言った。\r \n\n\t\tShe said that what they were doing was contrary to the company's sexual harassment policy."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女は、彼らがしていることは会社のセクハラ政策に反している、と言った。\">\n\t\t\t\t彼女は、彼らがしていることは会社のセクハラ政策<strong>に反して</strong>いる、と言った。\r<strong></strong></a> <br/>\n\t\tShe said that what they were doing was contrary to the company's sexual harassment policy. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5838
+    position: 18
+    japanese: 彼女は自分の意思に反して計画を断念した。
+    body_text: "彼女は自分の意思に反して計画を断念した。  \n\n\t\tShe give up her plans against her will."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女は自分の意思に反して計画を断念した。 \">\n\t\t\t\t彼女は自分の意思<strong>に反して</strong>計画を断念した。 <strong></strong></a> <br/>\n\t\tShe give up her plans against her will. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7198
+    position: 19
+    japanese: 神の意向に反して，人間は自然をはかいしている。
+    body_text: "神の意向に反して，人間は自然をはかいしている。 \n\n\t\tContrary to the intention of God, human nature is through the medium."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ神の意向に反して，人間は自然をはかいしている。\">\n\t\t\t\t神の意向<strong>に反して</strong>，人間は自然をはかいしている。<strong></strong></a> <br/>\n\t\tContrary to the intention of God, human nature is through the medium. \n\t\t<strong> </strong>"
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7199
+    position: 20
+    japanese: 期待に反して、実験結果が出てしまった。
+    body_text: "期待に反して、実験結果が出てしまった。 \n\n\t\tThe outcome of an experiment \n\t\tin contradiction \n\t\tto the expectation has gone out."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ期待に反して、実験結果が出てしまった。\">\n\t\t\t\t期待に<strong>反して</strong>、実験結果が出てしまった。<strong></strong></a> <br/>\n\t\tThe outcome of an experiment \n\t\t<strong>in contradiction </strong>\n\t\tto the expectation has gone out."
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8321
+    position: 21
+    japanese: 彼女は母親の意向に反してその若者と結婚した。
+    body_text: "彼女は母親の意向に反してその若者と結婚した。\r \n\n\t\tShe married the young man against her mother`s wishes."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女は母親の意向に反してその若者と結婚した。\">\n\t\t\t\t彼女は母親の意向<strong>に反して</strong>その若者と結婚した。\r<strong></strong></a> <br/>\n\t\tShe married the young man against her mother`s wishes. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: '#5824, #5825, #5832 is this only my problem? 卵z、文字化けして見えます。I guess 卵z is 期待'
+    html: |-
+      <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=nihanshite#5824">#5824</a></b>, <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=nihanshite#5825">#5825</a></b>, <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=nihanshite#5832">#5832</a></b> is this only my problem? 卵z、文字化けして見えます。I guess 卵z is 期待
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: karekano
+    text: Yes, according to the translations,　卵z is 期待。Therefore, I have changed every　文字化け.
+    html: Yes, according to the translations,　卵z is 期待。Therefore, I have changed every　文字化け.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "に反して [にはんして] (nihanshite)\n    Meaning: against, contrary to \n    Example: contrary to expectations\n    JLPT Level: 3\n    Category: grammar\n    Author: dc2"
+    html: |-
+      <span>に反して [にはんして] (nihanshite)</span><br/>    <span><b>Meaning</b>: against, contrary to </span><br/>    <b>Example</b>: <i>contrary to expectations</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc2</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215031149'

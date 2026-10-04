@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1567
+label: hiragana_ex
+title_raw: ひらがな Practice Exercises (hiragana_ex)
+title: ひらがな Practice Exercises (hiragana_ex)
+reading: null
+romanized_label: hiragana_ex
+category: lesson
+jlpt_level_original: '4'
+meaning: ひらがな Practice Exercises-
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=hiragana_ex
+archive_url: https://web.archive.org/web/20200215021515id_/http://jgram.org:80/pages/viewOne.php?tagE=hiragana_ex
+archive_timestamp: '20200215021515'
+retrieved_at: '2026-10-04T03:18:53+00:00'
+archive_digest: X77LLCLBIBCGMAZ2UF4SNQCJGJWZVMC4
+response_sha256: c49c1650342979a5ad1a7ad7ea6a09b2ee8d68e577639149c1fdf054dc60fb3d
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "ひらがな Practice Exercises (hiragana_ex)\n    Meaning: ひらがな Practice Exercises- \n    JLPT Level: 4\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>ひらがな Practice Exercises (hiragana_ex)</span><br/>    <span><b>Meaning</b>: ひらがな Practice Exercises- </span><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: hiragana_ex
+    id: 1567
+    title_raw: ひらがな Practice Exercises (hiragana_ex)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=hiragana_ex
+    response_sha256: c49c1650342979a5ad1a7ad7ea6a09b2ee8d68e577639149c1fdf054dc60fb3d
+    section: Tutorial
+    section_html_sha256: becfe979669959c388072b77bf6283a0d394790679a1fd1024f82ff4aa0ec6c3
+    section_text_sha256: ff47b4d9941997de4d5178e5917853f16d8d3f5ef64f593f30fd3c831136bb37
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8078
+    source_byte_length: 8842
+    section_bytes_sha256: 98cdd475b2dbf7afb9c93653a4bc70707a471d3e2dc97796666711e070d58b4f
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215021515'

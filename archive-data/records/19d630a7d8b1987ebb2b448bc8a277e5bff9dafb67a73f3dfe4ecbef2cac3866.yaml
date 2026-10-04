@@ -1,0 +1,124 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1728
+label: verb stem + dasu/dashita
+title_raw: ~出す [〜だす] (verb stem + dasu/dashita)
+title: ~出す
+reading: 〜だす
+romanized_label: verb stem + dasu/dashita
+category: null
+jlpt_level_original: '3'
+meaning: begin/start...
+meaning_example: Rain started to fall.
+credits_raw: Maru1
+source_url: http://jgram.org/pages/viewOne.php?tagE=verb+stem+%2B+dasu%2Fdashita
+archive_url: https://web.archive.org/web/20170617115813id_/http://jgram.org/pages/viewOne.php?tagE=verb+stem+%2B+dasu%2Fdashita
+archive_timestamp: '20170617115813'
+retrieved_at: '2026-10-04T02:08:45+00:00'
+archive_digest: WUNJY5SRR3K22PKGQYYMPERHFS2V4BMQ
+response_sha256: 1763fd92ba72f50db315b8cc6cf96c457f41069b146a5648817fbc880439ebb4
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: Vマス＋だす
+    html: Vマス＋だす
+    credits_raw: Maru1
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: |-
+      This suffix, meaning to start doing something, must be distinguished from a host of compound verbs ending in "dasu," such as 乗り出す(launch), 染出す (dye), 積み出す, (send off), など。I believe it is new Level ３．
+    html: |-
+      This suffix, meaning to start doing something, must be distinguished from a host of compound verbs ending in "dasu," such as 乗り出す(launch), 染出す (dye), 積み出す, (send off), など。I believe it is new Level ３．
+    credits_raw: american57
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7763
+    position: 0
+    japanese: 地震が収まると、みんな家を飛び出した
+    body_text: "地震が収まると、みんな家を飛び出した \n\n\t\tWhen the earthquake subsided, everybody \n\t\tstarted running out \n\t\tof the houses."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ地震が収まると、みんな家を飛び出した\">\n\t\t\t\t地震が収まると、みんな家を<strong>飛び出した</strong><strong></strong></a> <br/>\n\t\tWhen the earthquake subsided, everybody \n\t\t<strong>started running out </strong>\n\t\tof the houses."
+    credits_raw: Maru1
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7765
+    position: 1
+    japanese: 泥棒が警察を見て、突然走り出しました。
+    body_text: "泥棒が警察を見て、突然走り出しました。 \n\n\t\tWhen the burglar saw the police he imediately started running."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ泥棒が警察を見て、突然走り出しました。\">\n\t\t\t\t泥棒が警察を見て、突然走り出しました。<strong></strong><strong></strong></a> <br/>\n\t\tWhen the burglar saw the police he imediately started running. \n\t\t<strong> </strong>"
+    credits_raw: Maru1
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8212
+    position: 2
+    japanese: 彼女は笑い出した。
+    body_text: "彼女は笑い出した。 \n\n\t\tShe started in laughing."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女は笑い出した。\">\n\t\t\t\t彼女は笑い出した。<strong></strong><strong></strong></a> <br/>\n\t\tShe started in laughing. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8213
+    position: 3
+    japanese: 気圧計は昨夜下がり出したが朝には止まった。
+    body_text: "気圧計は昨夜下がり出したが朝には止まった。 \n\n\t\tThe barometer started to fall last night but stopped in the morning."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ気圧計は昨夜下がり出したが朝には止まった。\">\n\t\t\t\t気圧計は昨夜下がり出したが朝には止まった。<strong></strong><strong></strong></a> <br/>\n\t\tThe barometer started to fall last night but stopped in the morning. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8214
+    position: 4
+    japanese: 朝から雨が降り出した。
+    body_text: "朝から雨が降り出した。 \n\n\t\tIt began to rain this morning."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ朝から雨が降り出した。\">\n\t\t\t\t朝から雨が降り出した。<strong></strong><strong></strong></a> <br/>\n\t\tIt began to rain this morning. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8215
+    position: 5
+    japanese: 先週から疲れを感じ出した。
+    body_text: "先週から疲れを感じ出した。 \n\n\t\tI began to feel tired since last week."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ先週から疲れを感じ出した。\">\n\t\t\t\t先週から疲れを感じ出した。<strong></strong><strong></strong></a> <br/>\n\t\tI began to feel tired since last week. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: audvix@yahoo.com
+    text: '#8212 Correct: She started laughing.'
+    html: |-
+      <b><a href="http://jgram.org/pages/viewOne.php?tagE=verb+stem+%2B+dasu%2Fdashita#8212">#8212</a></b> Correct: She started laughing.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "~出す [〜だす] (verb stem + dasu/dashita)\n    Meaning: begin/start... \n    Example: Rain started to fall.\n    JLPT Level: 3\n    Author: Maru1"
+    html: |-
+      <span>~出す [〜だす] (verb stem + dasu/dashita)</span><br/>    <span><b>Meaning</b>: begin/start... </span><br/>    <b>Example</b>: <i>Rain started to fall.</i><br/>    <b>JLPT Level</b>: 3<br/>    <b>Author</b>: <i>Maru1</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20170617115813'

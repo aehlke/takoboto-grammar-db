@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1432
+label: HonorificAndHumbleForms
+title_raw: '- (HonorificAndHumbleForms)'
+title: '- (HonorificAndHumbleForms)'
+reading: null
+romanized_label: HonorificAndHumbleForms
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=HonorificAndHumbleForms
+archive_url: https://web.archive.org/web/20051226011836id_/http://jgram.org:80/pages/viewOne.php?tagE=HonorificAndHumbleForms
+archive_timestamp: '20051226011836'
+retrieved_at: '2026-10-03T06:21:56+00:00'
+archive_digest: 5RVZYMA3PH75UG3HBMD7WOAXIOZQSH74
+response_sha256: 37ff12f4ffc0f79620c419d10b14c1626363d35fbf0e7d3ec64e3e67d423b0aa
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (HonorificAndHumbleForms)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (HonorificAndHumbleForms)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: HonorificAndHumbleForms
+    id: 1432
+    title_raw: '- (HonorificAndHumbleForms)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=HonorificAndHumbleForms
+    response_sha256: 37ff12f4ffc0f79620c419d10b14c1626363d35fbf0e7d3ec64e3e67d423b0aa
+    section: Tutorial
+    section_html_sha256: 8678e2b3b8175364f3b212c20892718fd968703fdeb0e4caff5ff06a50ee4bfa
+    section_text_sha256: dce379d3cd21ddfbf00c0e1a4ca13759ffdb0cd1f1986ad11c2fa00c444ed547
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8059
+    source_byte_length: 13008
+    section_bytes_sha256: 0cd4feb939fe726757cbc25a504c2da0dfe6f525da0693a09c6633d48b9b0187
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226011836'

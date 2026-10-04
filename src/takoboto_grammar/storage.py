@@ -10,6 +10,7 @@ from pathlib import Path
 
 from . import SCHEMA_VERSION, SQLITE_SCHEMA_VERSION
 from .record_yaml import dump_yaml, load_yaml
+from .section_reviews import validate_omissions
 
 
 def output_root(path):
@@ -169,6 +170,7 @@ def require_exportable(record):
         raise ValueError('Record needs review before export: ' + str(record.get('id', record.get('feed_path'))))
     if record.get('license') != {'id': 'CC-BY-SA-2.0', 'url': 'https://creativecommons.org/licenses/by-sa/2.0/'}:
         raise ValueError('Record license is missing or differs from the export license')
+    validate_omissions(record)
     for additional in record.get('additional_entries', []):
         require_exportable(additional)
         for field in ('label', 'source_url', 'archive_url', 'archive_timestamp', 'archive_digest', 'response_sha256',
@@ -233,7 +235,7 @@ def read_records(root, for_export=False):
     return records
 
 
-def read_archive_records(directory, for_export=True):
+def read_archive_records(directory, for_export=True, include_earlier=True):
     root = Path(directory).expanduser().resolve(strict=True)
     records = []
     inventory_path = root / 'inventory.json'
@@ -264,6 +266,9 @@ def read_archive_records(directory, for_export=True):
                 state.get('latest_indexed_timestamp') != indexed[record['label']]):
                 raise ValueError(f"Historical record has not been checked against the current inventory: {record['label']}")
         records.append(record)
+    if include_earlier:
+        from .earlier_revisions import read_earlier_records
+        records.extend(read_earlier_records(root, for_export))
     return records
 
 
@@ -289,6 +294,11 @@ def read_feed_state(root, path):
     return read_observation_state(root, path, 'feed-states', 'feed_path')
 
 
+def membership_metadata(eligible_ids):
+    ids = sorted(set(eligible_ids))
+    return {'eligible_ids_sha256': record_digest(ids), 'eligible_ids_count': len(ids)}
+
+
 def record_digest(record):
     body = json.dumps(record, ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode('utf-8')
     return hashlib.sha256(body).hexdigest()
@@ -298,6 +308,8 @@ def archive_record_key(record):
     identity = record['label']
     if record.get('snapshot'):
         identity = record['snapshot'] + ':' + identity
+    if record.get('observation_kind') == 'earlier-indexed-revision':
+        identity += ':revision:' + record['archive_timestamp']
     if record.get('page_entry_position', 0):
         identity += f":entry:{record['page_entry_position']}:{record['id']}"
     return hashlib.sha256(identity.encode()).hexdigest()
@@ -562,11 +574,15 @@ def export_markdown(records, directory, archive_records=(), archive_feeds=()):
             f"Credits: {escape_md(r['credits_raw']) or '(not displayed)'}  ",
             'License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)', '',
             '## Meaning', '', escape_md(r['meaning']), '', escape_md(r['meaning_example']), '']
+        if r.get('observation_kind') == 'earlier-indexed-revision':
+            lines[2:2] = ['Earlier indexed revision: this retained source predates the latest label observation. ' + escape_md(r['selection_reason']), '']
         if r.get('snapshot'):
             lines[2:2] = [f"Dated backup: {escape_md(r['snapshot'])}. This observation is from the backup, not the final live version.", '',
                 f"Recovery: [original WARC]({r['retrieval']['url']}), bytes {r['retrieval']['offset']}–{r['retrieval']['offset'] + r['retrieval']['length'] - 1}.", '']
         if any(s['encoding'] == 'cp932-with-undecodable-bytes' for s in r.get('source_decoding_segments', [])):
             lines[2:2] = ['The original source contains invalid character bytes. Display uses U+FFFD; the exact original bytes and offsets are preserved in the YAML/SQLite record.', '']
+        if r.get('omitted_sections'):
+            lines[2:2] = ['This is a partial source observation. Separately copyrighted Tutorial material is omitted; JGram contributions are retained. The YAML/SQLite record includes exact source and section hashes and the omission decision.', '']
         if r.get('page_entry_position') is not None:
             lines[2:2] = [f"Source page entry position: {r['page_entry_position']}. This capture contains multiple original grammar IDs.", '']
         for kind, title in [('notes', 'Notes'), ('examples', 'Examples'), ('comments', 'Discussion'), ('related_entries', 'See also')]:

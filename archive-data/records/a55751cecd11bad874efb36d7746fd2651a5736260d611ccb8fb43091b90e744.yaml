@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1422
+label: essential
+title_raw: (essential)
+title: (essential)
+reading: null
+romanized_label: essential
+category: lesson
+jlpt_level_original: '0'
+meaning: Grammar you must know
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=essential
+archive_url: https://web.archive.org/web/20200215030613id_/http://jgram.org:80/pages/viewOne.php?tagE=essential
+archive_timestamp: '20200215030613'
+retrieved_at: '2026-10-04T03:11:34+00:00'
+archive_digest: KFNJRH3UX4PA5WKGRSOOUXEKLWD4SF57
+response_sha256: 64e4f8362e8cfd7d0b09a281c09417c2bba1eba1789d64ba7bade8390d0d014a
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(essential)\n    Meaning: Grammar you must know \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (essential)</span><br/>    <span><b>Meaning</b>: Grammar you must know </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: essential
+    id: 1422
+    title_raw: (essential)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=essential
+    response_sha256: 64e4f8362e8cfd7d0b09a281c09417c2bba1eba1789d64ba7bade8390d0d014a
+    section: Tutorial
+    section_html_sha256: 581228c9ef36868e2064ad04a30b241e9783ca2ca07bbdb150f3d8b385e8840b
+    section_text_sha256: e52666376e5188d9d50dcadf6842acd1b8110072ab75f14c3ead01e46825392a
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8046
+    source_byte_length: 2965
+    section_bytes_sha256: 0c88610a2edbc6875d70756edf14b68739c676357742a7fa2eb5a5d7a2570d5b
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215030613'

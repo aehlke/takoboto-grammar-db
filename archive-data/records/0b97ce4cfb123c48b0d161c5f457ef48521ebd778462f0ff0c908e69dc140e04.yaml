@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1422
+label: EssentialGrammar
+title_raw: '- (EssentialGrammar)'
+title: '- (EssentialGrammar)'
+reading: null
+romanized_label: EssentialGrammar
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=EssentialGrammar
+archive_url: https://web.archive.org/web/20051226022336id_/http://jgram.org:80/pages/viewOne.php?tagE=EssentialGrammar
+archive_timestamp: '20051226022336'
+retrieved_at: '2026-10-04T02:35:39+00:00'
+archive_digest: M576FZ7NILI7RNPVSFXPZQMO4DGNA75Z
+response_sha256: 051b073b43f86a07f25e99aeec1f9dc965bc64b1c1e32164fe68d2b34f36ada3
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (EssentialGrammar)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (EssentialGrammar)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: EssentialGrammar
+    id: 1422
+    title_raw: '- (EssentialGrammar)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=EssentialGrammar
+    response_sha256: 051b073b43f86a07f25e99aeec1f9dc965bc64b1c1e32164fe68d2b34f36ada3
+    section: Tutorial
+    section_html_sha256: 4f0385ee122659ca7ab8e22a81878a1cad001eb0f2f286c37a92a2b70e35b658
+    section_text_sha256: ae64cdeb2c99c660ce33b4cb9a19027765735cad783e99a0794b711d4dd926ed
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8043
+    source_byte_length: 7804
+    section_bytes_sha256: d732054cac5928f2d5dc9f7908306a417a54ef6664fa3035e79501709cf7d78e
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226022336'

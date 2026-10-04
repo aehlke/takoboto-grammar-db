@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1451
+label: genericnoun
+title_raw: (genericnoun)
+title: (genericnoun)
+reading: null
+romanized_label: genericnoun
+category: lesson
+jlpt_level_original: '0'
+meaning: Special expressions with generic nouns （こと、ところ、もの）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=genericnoun
+archive_url: https://web.archive.org/web/20150224234802id_/http://www.jgram.org/pages/viewOne.php?tagE=genericnoun
+archive_timestamp: '20150224234802'
+retrieved_at: '2026-10-03T16:08:17+00:00'
+archive_digest: NAJINX7PCRTSWJUPKEVX2VHNONZJ5XYC
+response_sha256: 4ff4e21c9e852f3add7a022baaee68338c70112217ba0e2b562d828ef6d3e456
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(genericnoun)\n    Meaning: Special expressions with generic nouns （こと、ところ、もの） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (genericnoun)</span><br/>    <span><b>Meaning</b>: Special expressions with generic nouns （こと、ところ、もの） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: genericnoun
+    id: 1451
+    title_raw: (genericnoun)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=genericnoun
+    response_sha256: 4ff4e21c9e852f3add7a022baaee68338c70112217ba0e2b562d828ef6d3e456
+    section: Tutorial
+    section_html_sha256: aa0b2d95bc1dce6e117cd1fe94c01567196beaae580a5cf587757b19e10936cc
+    section_text_sha256: f66f2d968254539c7453bfe59083c44fe7cc147df33d17bfcf5af3078138f6ff
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8860
+    source_byte_length: 8490
+    section_bytes_sha256: 12099245d8e30bcc9f3ba542b6f89b047caa87f745f46115e6240fcb461b2a08
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224234802'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 59985092
+  length: 6986
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 044e9de26b5fbef85fa1ec610d346c7d3ee59850ea1dd234634ce472f5b2bba8

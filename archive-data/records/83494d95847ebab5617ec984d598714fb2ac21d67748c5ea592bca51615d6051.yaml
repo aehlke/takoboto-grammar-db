@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1412
+label: adjectives
+title_raw: 形容詞 [けいようし] (adjectives)
+title: 形容詞
+reading: けいようし
+romanized_label: adjectives
+category: lesson
+jlpt_level_original: '0'
+meaning: Adjectives
+meaning_example: 静かな人。- Quiet person; 高いビル。- Tall building
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=adjectives
+archive_url: https://web.archive.org/web/20200215022923id_/http://jgram.org:80/pages/viewOne.php?tagE=adjectives
+archive_timestamp: '20200215022923'
+retrieved_at: '2026-10-04T02:55:59+00:00'
+archive_digest: 2Z6F5GCLPAD562SQS2JW5PJMOVCI3UMC
+response_sha256: c3f43ab744ab58de95c6d9c9e5eb0a0b62a2d582496eff5d244ced5857379c07
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "形容詞 [けいようし] (adjectives)\n    Meaning: Adjectives \n    Example: 静かな人。- Quiet person; 高いビル。- Tall building\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>形容詞 [けいようし] (adjectives)</span><br/>    <span><b>Meaning</b>: Adjectives </span><br/>    <b>Example</b>: <i>静かな人。- Quiet person; 高いビル。- Tall building</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: adjectives
+    id: 1412
+    title_raw: 形容詞 [けいようし] (adjectives)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=adjectives
+    response_sha256: c3f43ab744ab58de95c6d9c9e5eb0a0b62a2d582496eff5d244ced5857379c07
+    section: Tutorial
+    section_html_sha256: a8956e90a0d190ef2d87bf5221f5a11e97bb2859599ae074d120b979170a9ec6
+    section_text_sha256: 691f031b9e201423766b655b941b0bef2cfe7524edab4d8ccf8026cc3a95bec4
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8154
+    source_byte_length: 16144
+    section_bytes_sha256: 304be5bbbe476455cb68b17c1941a4f97ffbe07a3c8a86ea11ab1723cc87685a
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215022923'

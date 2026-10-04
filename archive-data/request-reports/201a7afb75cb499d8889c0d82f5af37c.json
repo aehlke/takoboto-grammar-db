@@ -1,0 +1,43 @@
+{
+  "run_id": "201a7afb75cb499d8889c0d82f5af37c",
+  "finished_at": "2026-10-04T00:00:00+00:00",
+  "request_interval_seconds": 5,
+  "burst_size": 3,
+  "burst_pause_seconds": 30,
+  "concurrency": 1,
+  "attempt_count": 4,
+  "attempts": [
+    {
+      "url": "https://web.archive.org/robots.txt",
+      "started_at": "2026-10-03T23:59:19.258+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.20096
+    },
+    {
+      "url": "https://web.archive.org/web/20200215021205id_/http://jgram.org:80/pages/viewOne.php?tagE=amari",
+      "started_at": "2026-10-03T23:59:24.259+00:00",
+      "status": 200,
+      "bytes_read": 26145,
+      "error_type": null,
+      "duration_seconds": 0.941884
+    },
+    {
+      "url": "https://web.archive.org/web/20200215024705id_/http://jgram.org:80/pages/viewOne.php?tagE=arieru",
+      "started_at": "2026-10-03T23:59:29.269+00:00",
+      "status": 200,
+      "bytes_read": 20105,
+      "error_type": null,
+      "duration_seconds": 0.449037
+    },
+    {
+      "url": "https://web.archive.org/web/20200215030433id_/http://jgram.org:80/pages/viewOne.php?tagE=bakari",
+      "started_at": "2026-10-03T23:59:59.724+00:00",
+      "status": 200,
+      "bytes_read": 13221,
+      "error_type": null,
+      "duration_seconds": 0.333411
+    }
+  ]
+}

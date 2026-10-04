@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1423
+label: amount
+title_raw: (amount)
+title: (amount)
+reading: null
+romanized_label: amount
+category: lesson
+jlpt_level_original: '0'
+meaning: Expressing various degrees of amounts
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=amount
+archive_url: https://web.archive.org/web/20200215022938id_/http://jgram.org:80/pages/viewOne.php?tagE=amount
+archive_timestamp: '20200215022938'
+retrieved_at: '2026-10-04T02:57:20+00:00'
+archive_digest: YIZ2GXGK66U546GAVQUKTGM35VLMPMCJ
+response_sha256: 5be4a11df04f47dad2626145d6df8a748027d4f5d50a0aca0c5c14591cb47f90
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(amount)\n    Meaning: Expressing various degrees of amounts \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (amount)</span><br/>    <span><b>Meaning</b>: Expressing various degrees of amounts </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: amount
+    id: 1423
+    title_raw: (amount)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=amount
+    response_sha256: 5be4a11df04f47dad2626145d6df8a748027d4f5d50a0aca0c5c14591cb47f90
+    section: Tutorial
+    section_html_sha256: 372b13e7edaffc1256eaf1c69639bd28c699f85e985606caa7df781a6293762d
+    section_text_sha256: 3ff917a8b88543721261ad98c1d826de16c817931f8e2aa40b2507622cdc9a9a
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8045
+    source_byte_length: 27941
+    section_bytes_sha256: 56e850967810a59e498c186b82e2193db9eebc922300e99fad024d7878042df4
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215022938'

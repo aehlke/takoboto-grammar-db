@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1424
+label: ExpressingMustOrHaveTo
+title_raw: '- (ExpressingMustOrHaveTo)'
+title: '- (ExpressingMustOrHaveTo)'
+reading: null
+romanized_label: ExpressingMustOrHaveTo
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=ExpressingMustOrHaveTo
+archive_url: https://web.archive.org/web/20051226013226id_/http://jgram.org:80/pages/viewOne.php?tagE=ExpressingMustOrHaveTo
+archive_timestamp: '20051226013226'
+retrieved_at: '2026-10-04T02:35:49+00:00'
+archive_digest: 6DF5LPS3ACP7NEAADF5E5QWMGBQYW3UJ
+response_sha256: da83e764d831b34b8708130f7fc062f1945e7cdf7c84e3582f358f0248660cef
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (ExpressingMustOrHaveTo)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (ExpressingMustOrHaveTo)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: ExpressingMustOrHaveTo
+    id: 1424
+    title_raw: '- (ExpressingMustOrHaveTo)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=ExpressingMustOrHaveTo
+    response_sha256: da83e764d831b34b8708130f7fc062f1945e7cdf7c84e3582f358f0248660cef
+    section: Tutorial
+    section_html_sha256: 8c859195873c26b0af469c970d87d66e81a3547e95d70269617d5f56d1c52220
+    section_text_sha256: d41a1db89110512a1ba8be5256de23f93df364127a6e5468fb1df284487e55b6
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8107
+    source_byte_length: 17995
+    section_bytes_sha256: b36952a09c9df76cb5f992b285c924a7f3b5727a9d48ecaccf751c15e3a7630f
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226013226'

@@ -6,6 +6,7 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 from urllib.error import HTTPError
 
 from takoboto_grammar.archive import crawl_archive, latest_body_equivalent, replay_candidates
@@ -67,6 +68,16 @@ class RecoveryTests(unittest.TestCase):
     def test_unindexed_redirect_is_not_equivalence_evidence(self):
         final = self.alternate['archive_url'].replace('20190101000000', '20180101000000')
         self.assertFalse(self.replay(final_url=final)['complete'])
+
+    def test_membership_provenance_uses_stable_hash_without_repeating_id_list(self):
+        from takoboto_grammar.storage import membership_metadata
+        self.assertEqual(membership_metadata([978, 725, 978]), membership_metadata([725, 978]))
+        self.assertEqual(membership_metadata([978, 725])['eligible_ids_count'], 2)
+        self.replay()
+        state = json.loads(next((self.root / 'states').glob('*.json')).read_text())
+        self.assertNotIn('eligible_ids', state)
+        self.assertEqual(state['eligible_ids_count'], 0)
+        self.assertEqual(state['eligible_ids_sha256'], membership_metadata([])['eligible_ids_sha256'])
 
     def test_unknown_digest_or_unindexed_capture_never_proves_identity(self):
         self.item['captures'][0]['digest'] = '-'
@@ -130,6 +141,36 @@ class RecoveryTests(unittest.TestCase):
         wrong_capture = dict(self.latest, digest=base64.b32encode(hashlib.sha1(wrong).digest()).decode())
         with self.assertRaisesRegex(ValueError, 'missing viewOnetitle'):
             parse_archive(wrong, wrong_capture, 'now')
+
+    def test_absent_entry_matches_original_url_bytes_without_guessing_encoding(self):
+        missing = (b'<meta charset="shift_jis"><title>JGram</title>'
+            b'<a href="https://creativecommons.org/licenses/by-sa/2.0/">License</a>'
+            b"No entry exists for amari-2 \x81@  verb in NG - <a href='addGrammar.php'>click here</a> to add one")
+        original = 'http://jgram.org/pages/viewOne.php?tagE=amari-2+%81@++verb+in+NG'
+        capture = dict(self.latest, label='amari-2 \ufffd@  verb in NG', original=original,
+            digest=base64.b32encode(hashlib.sha1(missing).digest()).decode())
+        with self.assertRaises(NotGrammar):
+            parse_archive(missing, capture, 'now')
+        with self.assertRaisesRegex(ValueError, 'missing viewOnetitle'):
+            parse_archive(missing.replace(b'\x81@', b'\x81A'), capture, 'now')
+
+    def test_misclassified_category_exclusion_requires_exact_reviewed_source(self):
+        from takoboto_grammar import archive_parser
+        from takoboto_grammar.parser import text
+        soup, _ = source_soup(self.body)
+        review = {'id': 978, 'label': 'ageku', 'decision': 'non-grammar',
+                  'reviewed_category': 'grammar', 'basis': 'Fixture for reviewed administrative page',
+                  'expected_title_raw': text(soup.select_one('.viewOnetitle')),
+                  'reviewed_captures': [{'source_url': self.latest['original'],
+                                        'response_sha256': hashlib.sha256(self.body).hexdigest()}]}
+        with patch.object(archive_parser, 'MEMBERSHIP_REVIEWS', [review]):
+            with self.assertRaisesRegex(NotGrammar, 'Reviewed non-grammar'):
+                parse_archive(self.body, self.latest, 'now', [978])
+            with self.assertRaisesRegex(ValueError, 'response differs'):
+                parse_archive(self.body + b'changed', self.latest, 'now', [978])
+            review['expected_title_raw'] = 'Changed title'
+            with self.assertRaisesRegex(ValueError, 'title/category differs'):
+                parse_archive(self.body, self.latest, 'now', [978])
 
     def test_unclassified_entry_is_held_and_reviewed_id_requires_matching_title(self):
         body = self.body.replace(b'Category</b>: <i>grammar</i>', b'')

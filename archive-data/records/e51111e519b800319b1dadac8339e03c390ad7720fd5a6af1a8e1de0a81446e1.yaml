@@ -1,0 +1,271 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 835
+label: bakarini
+title_raw: ばかりに [ばかりに] (bakarini)
+title: ばかりに
+reading: ばかりに
+romanized_label: bakarini
+category: grammar
+jlpt_level_original: '1'
+meaning: because (of a negative thing); simply because; simply on account of
+meaning_example: he was fired just for talking back
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=bakarini
+archive_url: https://web.archive.org/web/20200215030443id_/http://jgram.org:80/pages/viewOne.php?tagE=bakarini
+archive_timestamp: '20200215030443'
+retrieved_at: '2026-10-04T00:10:55+00:00'
+archive_digest: 5AJNMKAEUWMTSXWPUWQBLJBTPPYUCZQN
+response_sha256: 012085511e8d6f45ede223fe38b2f49d39f9b621bdb0342a5856d286e03119da
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: because of ... always indicates a negative outcome.
+    html: because of ... always indicates a negative outcome.
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: A conjunction indicating that a single factor causes a negative situation
+    html: A conjunction indicating that a single factor causes a negative situation
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "BE CAREFUL not to confuse ばかりに with とばかりに.\n\nばかりに is for indicating a single factor that causes a negative situation and is formed \n\n{VERB-past-tense / いadj. / なadj.stem / NOUN} +ばかりに\n\nとばかりに indicates that s.o does s.t in such a way that s.o. is convinced that something is the case - \"思い立ったが吉日とばかりにエアロビクスを始めました。\n\r\nI began aerobics believing that the day you think of something is an auspicious day to start it.\" and is formed\n\n{direct quotation / indirect quotation / noun} + とばかりに\n\r\nSee tobakarini"
+    html: "<b>BE CAREFUL</b> not to confuse ばかりに with とばかりに.<br/>\n<strong>ばかりに</strong> is for indicating a single factor that causes a negative situation and is formed <br/>\n{VERB-past-tense / いadj. / なadj.stem / NOUN} +ばかりに<br/>\n<strong>とばかりに</strong> indicates that s.o does s.t in such a way that s.o. is convinced that something is the case - \"思い立ったが吉日とばかりにエアロビクスを始めました。<br/>\r\nI began aerobics believing that the day you think of something is an auspicious day to start it.\" and is formed<br/>\n{direct quotation / indirect quotation / noun} + とばかりに<br/>\r\nSee <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=tobakarini\">tobakarini</a></b>"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: 'Ref # A Dictionary of Advanced Japanese Grammar p25'
+    html: |-
+      <b>Ref <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=bakarini#">#</a></b></b> A Dictionary of Advanced Japanese Grammar p25
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 215
+    position: 0
+    japanese: あの日たまたま休んでいたばかりに、大事な連絡を開きそびれた。
+    body_text: "あの日たまたま休んでいたばかりに、大事な連絡を開きそびれた。 \n\n\t\tI missed a really important announcement \n\t\tjust because \n\t\tI happened to be absent that day."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあの日たまたま休んでいたばかりに、大事な連絡を開きそびれた。\">\n\t\t\t\tあの日たまたま休んでいた<strong>ばかりに</strong>、大事な連絡を開きそびれた。<strong></strong></a> <br/>\n\t\tI missed a really important announcement \n\t\t<strong>just because </strong>\n\t\tI happened to be absent that day."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1018
+    position: 1
+    japanese: 新車を買ったばかりにお金がありません。
+    body_text: "新車を買ったばかりにお金がありません。\n \n\n\t\tI am broke \n\t\t \n\t\tbecause I bought a new car"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ新車を買ったばかりにお金がありません。\">\n\t\t\t\t新車を買った<strong>ばかりに</strong>お金がありません。\n<strong></strong></a> <br/>\n\t\tI am broke \n\t\t<strong> </strong>\n\t\tbecause I bought a new car"
+    credits_raw: d4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3085
+    position: 2
+    japanese: 渡し船があることを知らなかったばかりに歩いて湖を半周してしまった。
+    body_text: "渡し船があることを知らなかったばかりに歩いて湖を半周してしまった。  \n\nJust because \n\t\tI did not know there was a ferry service, I ended up walking halfway around the lake."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ渡し船があることを知らなかったばかりに歩いて湖を半周してしまった。 \">\n\t\t\t\t渡し船があることを知らなかった<strong>ばかりに</strong>歩いて湖を半周してしまった。 <strong></strong></a> <br/>\n<strong>Just because </strong>\n\t\tI did not know there was a ferry service, I ended up walking halfway around the lake."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5927
+    position: 3
+    japanese: ドイツ語の試験に落ちたばかりに、来月に卒業できない。
+    body_text: "ドイツ語の試験に落ちたばかりに、来月に卒業できない。 \n\n\t\tJust because I failed my German language exam, I cannot graduate next month."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJドイツ語の試験に落ちたばかりに、来月に卒業できない。\">\n\t\t\t\tドイツ語の試験に落ちた<strong>ばかりに</strong>、来月に卒業できない。<strong></strong></a> <br/>\n\t\tJust because I failed my German language exam, I cannot graduate next month. \n\t\t<strong> </strong>"
+    credits_raw: mahoujin
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7053
+    position: 4
+    japanese: "うそをついた\r\nばかりに彼に嫌われた。"
+    body_text: "うそをついた\r\nばかりに彼に嫌われた。 \n\n\t\tHe hates me \n\t\tsimply because \n\t\tI told a lie."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJうそをついたばかりに彼に嫌われた。\">\n\t\t\t\tうそをついた\r\n<strong>ばかりに</strong>彼に嫌われた。<strong></strong></a> <br/>\n\t\tHe hates me \n\t\t<strong>simply because </strong>\n\t\tI told a lie."
+    credits_raw: youri
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7148
+    position: 5
+    japanese: パーティー場所を聞いたばかりに,手伝いを頼まれてしまった。
+    body_text: "パーティー場所を聞いたばかりに,手伝いを頼まれてしまった。 \n\nJust because \n\t\tI asked where the party was, I got asked to help out (which I don't want to do)"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJパーティー場所を聞いたばかりに,手伝いを頼まれてしまった。\">\n\t\t\t\tパーティー場所を聞いた<strong>ばかりに</strong>,手伝いを頼まれてしまった。<strong></strong></a> <br/>\n<strong>Just because </strong>\n\t\tI asked where the party was, I got asked to help out (which I don't want to do)"
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8111
+    position: 6
+    japanese: 寝過ごしたばかりに学校に遅刻した。
+    body_text: "寝過ごしたばかりに学校に遅刻した。\r \n\n\t\tI was late for school just because I had overslept."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ寝過ごしたばかりに学校に遅刻した。\">\n\t\t\t\t寝過ごした<strong>ばかりに</strong>学校に遅刻した。\r<strong></strong></a> <br/>\n\t\tI was late for school just because I had overslept. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: 'First example : Lit. something like ... "Just (as) the best opportunity (occurred) - (he) jumped for it."'
+    html: 'First example : Lit. something like ... "Just (as) the best opportunity (occurred) - (he) jumped for it."'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: "According to EdJacob's page, there is not the meaning of \n\r\n \"just because of a small thing\" it is simply \n\r\n \"just - negative\" :\n\n\n\r\nBecause. Always indicates a negative outcome. \n\r\nI failed the  test because I didn’t study.\n\r\nI don’t have any money because I bought a new car.\n\nsee bakarini here"
+    html: "According to EdJacob's page, there is not the meaning of <br/>\r\n \"just because of a small thing\" it is simply <br/>\r\n \"just - negative\" :<br/>\n<br/>\r\nBecause. Always indicates a negative outcome. <br/>\r\nI failed the  test because I didn’t study.<br/>\r\nI don’t have any money because I bought a new car.<br/>\n<a href=\"http://www.geocities.com/easykanji/jlptgrammar.html\">see bakarini here</a>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Snake
+    text: |-
+      but wouldn't it make sense if it was 'just because I bought a new car, I'm broke' meaning it's all the car's fault or whatever.. it's just that the first example could easily be seen as 'just as the chance occured', where abouts on EdJacob's page does it say it doesn't mean this? I know it doesn't support it, but I didn't see it refute it either..
+    html: |-
+      but wouldn't it make sense if it was 'just because I bought a new car, I'm broke' meaning it's all the car's fault or whatever.. it's just that the first example could easily be seen as 'just as the chance occured', where abouts on EdJacob's page does it say it doesn't mean this? I know it doesn't support it, but I didn't see it refute it either..
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: bamboo4
+    text: |-
+      The first ばかりに and the second one do not mean the same thing. ばかりに in the first example means "simply because" or "simply for the reason" suggesting some ad hoc intervention by a fortuitous circumstances, whereas ばかりに in the seond example results from a logical cause and effect and there is no element of luck there.
+    html: |-
+      The first ばかりに and the second one do not mean the same thing. ばかりに in the first example means "simply because" or "simply for the reason" suggesting some ad hoc intervention by a fortuitous circumstances, whereas ばかりに in the seond example results from a logical cause and effect and there is no element of luck there.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Miki
+    text: ex#1018 and 3085 Pls see karanode
+    html: |-
+      ex<b><a href="http://jgram.org:80/pages/viewOne.php?tagE=bakarini#1018">#1018</a></b> and 3085 Pls see <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=kara">kara</a></b><b><a href="http://jgram.org:80/pages/viewOne.php?tagE=node">node</a></b>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Snake
+    text: naruhodo
+    html: naruhodo
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: Eruanne
+    text: I think ばかり is level 3 grammar. Since i saw it on a page on the lvl 3 grammar in past tests.
+    html: I think ばかり is level 3 grammar. Since i saw it on a page on the lvl 3 grammar in past tests.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: dc
+    text: bakari is different from bakarini. It seems we didn't have bakari so I just added it.
+    html: |-
+      <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=bakari">bakari</a></b> is different from <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=bakarini">bakarini</a></b>. It seems we didn't have bakari so I just added it.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: TC
+    text: Doesnt this have the same meaning as ばこそ?
+    html: Doesnt this have the same meaning as ばこそ?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: 誠
+    text: "TC さん、\n\r\n〜ばかりに　and 〜ばこそ　is different. \n\r\n〜ばかりに　can be said as \"just because of 〜、.....(followed by negative consequences)\"\n\r\nWhereas,\n\r\n〜ばこそ can be said as \" exactly because of　〜、that is why........\"\n\r\nYou can refer to more examples in the entry of ばこそ。"
+    html: "TC さん、<br/>\r\n〜ばかりに　and 〜ばこそ　is different. <br/>\r\n〜ばかりに　can be said as \"just because of 〜、.....(followed by negative consequences)\"<br/>\r\nWhereas,<br/>\r\n〜ばこそ can be said as \" exactly because of　〜、that is why........\"<br/>\r\nYou can refer to more examples in the entry of ばこそ。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: leslie
+    text: "Is ばかりに the same as ばかりで?\n\n\n\r\n例：物価は上がるばかりで生活は少しも楽にならない。"
+    html: "Is ばかりに the same as ばかりで?<br/>\n<br/>\r\n例：物価は上がるばかりで生活は少しも楽にならない。<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: bamboo4
+    text: "Generally, ばかり has the connotation of limiting something and not going beyond. ばかりに therefore means \"because so limited,\" and ばかりで means \"not going beyond that limit.\" \n\r\nAccordingly, 物価は上がるばかりで would mean \"since the commodity prices only go up...\""
+    html: "Generally, ばかり has the connotation of limiting something and not going beyond. ばかりに therefore means \"because so limited,\" and ばかりで means \"not going beyond that limit.\" <br/>\r\nAccordingly, 物価は上がるばかりで would mean \"since the commodity prices only go up...\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: LR
+    text: Amatuka's first example is wrong for this entry so I'm going to replace it with a correct example. 2010/12/4
+    html: Amatuka's first example is wrong for this entry so I'm going to replace it with a correct example. 2010/12/4
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: bakarika
+    label: bakarika
+    annotation_text: bakarika    (a little different) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=bakarika">bakarika</a>    (a little different) [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: toiwanbakarini
+    label: toiwanbakarini
+    annotation_text: toiwanbakarini    (Note two rather different ばかりに entries (bakarini-2 is generally と言わんばかりに)) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=toiwanbakarini">toiwanbakarini</a>    (Note two rather different ばかりに entries (bakarini-2 is generally と言わんばかりに)) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 2
+    target_label: bakari-2
+    label: bakari-2
+    annotation_text: bakari-2 [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=bakari-2">bakari-2</a> [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 3
+    target_label: seide
+    label: seide
+    annotation_text: seide [hadv]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=seide">seide</a> [<a href="http://jgram.org:80/pages/contributions.php?author=hadv">hadv</a>]
+    credits_raw: hadv
+  - position: 4
+    target_label: okagede
+    label: okagede
+    annotation_text: okagede [hadv]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=okagede">okagede</a> [<a href="http://jgram.org:80/pages/contributions.php?author=hadv">hadv</a>]
+    credits_raw: hadv
+sections:
+  - kind: header
+    text: "ばかりに [ばかりに] (bakarini)\n    Meaning: because (of a negative thing); simply because; simply on account of \n    Example: he was fired just for talking back\n    JLPT Level: 1\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>ばかりに [ばかりに] (bakarini)</span><br/>    <span><b>Meaning</b>: because (of a negative thing); simply because; simply on account of </span><br/>    <b>Example</b>: <i>he was fired just for talking back</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215030443'

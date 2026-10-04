@@ -1,0 +1,175 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 260
+label: shidaide
+title_raw: 〜次第で [〜しだいで] (shidaide)
+title: 〜次第で
+reading: 〜しだいで
+romanized_label: shidaide
+category: grammar
+jlpt_level_original: '2'
+meaning: depending on
+meaning_example: depending on the weather, we'll go
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=shidaide
+archive_url: https://web.archive.org/web/20200215025727id_/http://jgram.org:80/pages/viewOne.php?tagE=shidaide
+archive_timestamp: '20200215025727'
+retrieved_at: '2026-10-04T01:40:11+00:00'
+archive_digest: 6M752HSXUIPZ7BWMVAOOZ5O255XIWF46
+response_sha256: f30a4401caf581c4493377c1a612446c9de0f309263b745677aab860fbfc23a7
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      ex# 1624 The words, or predicate, "to go" should perhaps be in parenthesis as the decision could be of any nature (e.g. the decision to:  plant seed,  play outdoors etc. )
+    html: |-
+      ex<b><a href="http://jgram.org:80/pages/viewOne.php?tagE=shidaide#">#</a></b> 1624 The words, or predicate, "to go" should perhaps be in parenthesis as the decision could be of any nature (e.g. the decision to:  plant seed,  play outdoors etc. )
+    credits_raw: shittakaburi
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 365
+    position: 0
+    japanese: 行動次第で物語は意外な方向に進むかもしれません。
+    body_text: "行動次第で物語は意外な方向に進むかもしれません。 \n\nDepending on \n\t\tyour actions the tale may well proceed in an unexpected direction."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ行動次第で物語は意外な方向に進むかもしれません。\">\n行動<strong>次第で</strong>物語は意外な方向に進むかもしれません。<strong></strong></a> <br/>\n<strong>Depending on </strong>\n\t\tyour actions the tale may well proceed in an unexpected direction."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 1624
+    position: 1
+    japanese: 天気次第でゆくかどうか決めます。
+    body_text: "天気次第でゆくかどうか決めます。 \n\nDepending on \n\t\tthe weather, I will decide whether to go or not."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ天気次第でゆくかどうか決めます。\">\n天気<strong>次第</strong>でゆくかどうか決めます。<strong></strong></a> <br/>\n<strong>Depending on </strong>\n\t\tthe weather, I will decide whether to go or not."
+    credits_raw: bamboo4
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3105
+    position: 2
+    japanese: わたしがご一緒するかどうかはすべてあなた次第ですよ。
+    body_text: "わたしがご一緒するかどうかはすべてあなた次第ですよ。 \n\n\t\tWhether I would accompany you would be completely \n\t\tup to you."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJわたしがご一緒するかどうかはすべてあなた次第ですよ。\">\nわたしがご一緒するかどうかはすべてあなた<strong>次第</strong>ですよ。<strong></strong></a> <br/>\n\t\tWhether I would accompany you would be completely \n\t\t<strong>up to you. </strong>"
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3114
+    position: 3
+    japanese: お暇なわけじゃないけど､ お礼次第では､手伝ってあげないものでもないね｡
+    body_text: "お暇なわけじゃないけど､ お礼次第では､手伝ってあげないものでもないね｡ \n\n\t\tIt is not that I am free (right now), but \n\t\tdepending \n\t\ton the gift, it's not that I would not help (you)."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJお暇なわけじゃないけど､ お礼次第では､手伝ってあげないものでもないね｡\">\nお暇なわけじゃないけど､ お礼<strong>次第</strong>では､手伝ってあげないものでもないね｡<strong></strong></a> <br/>\n\t\tIt is not that I am free (right now), but \n\t\t<strong>depending </strong>\n\t\ton the gift, it's not that I would not help (you)."
+    credits_raw: nhk9
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8425
+    position: 4
+    japanese: 食事はワイン次第である。
+    body_text: "食事はワイン次第である。 \n\n\t\tWine can make the meal."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ食事はワイン次第である。\">\n\t\t\t\t食事はワイン<strong>次第で</strong>ある。<strong></strong></a> <br/>\n\t\tWine can make the meal. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8561
+    position: 5
+    japanese: 裸足で歩いているので、足が傷になっている次第だ。
+    body_text: "裸足で歩いているので、足が傷になっている次第だ。 \n\n\t\tcertainly a wounded leg, because walking barefoot."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ裸足で歩いているので、足が傷になっている次第だ。\">\n\t\t\t\t裸足で歩いているので、足が傷になっている次第だ。<strong></strong><strong></strong></a> <br/>\n\t\tcertainly a wounded leg, because walking barefoot. \n\t\t<strong> </strong>"
+    credits_raw: belajar
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8562
+    position: 6
+    japanese: 落し物次第で、警官に報告することだ。
+    body_text: "落し物次第で、警官に報告することだ。 \n\n\t\twhen there lost stuff, should be reported to the police."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ落し物次第で、警官に報告することだ。\">\n\t\t\t\t落し物<strong>次第で</strong>、警官に報告することだ。<strong></strong></a> <br/>\n\t\twhen there lost stuff, should be reported to the police. \n\t\t<strong> </strong>"
+    credits_raw: belajar
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "ex#3114 hmm Japanese is strange... I would say, \n\r\nお暇なわけじゃないけど、お礼次第では、手伝ってあげないわけでもないけど。\n\r\n暇ってわけじゃないけど、お礼次第では、手伝ってあげてもいいけどね。\n\r\nうわぁ、たかびー（高飛車）な発言!peremptory manner"
+    html: "ex<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=shidaide#3114\">#3114</a></b> hmm Japanese is strange... I would say, <br/>\r\nお暇なわけじゃないけど、お礼次第では、手伝ってあげないわけでもないけど。<br/>\r\n暇ってわけじゃないけど、お礼次第では、手伝ってあげてもいいけどね。<br/>\r\nうわぁ、たかびー（高飛車）な発言!peremptory manner <br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: bamboo4
+    text: I don't think its 高飛車. I edited it, but post your comment if you don't like it.
+    html: I don't think its 高飛車. I edited it, but post your comment if you don't like it.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Miki
+    text: "Is it anything to do with my preference? If the Japanese sounds correct, I don't mind. I think that generally males use the expression you put.\n\r\nI'd rather feel むかつく or 頭にくる if I were told in that way by someone not close. I am very sensitive as you don't know. I don't mean you are not sensitive. :P"
+    html: "Is it anything to do with my preference? If the Japanese sounds correct, I don't mind. I think that generally males use the expression you put.<br/>\r\nI'd rather feel むかつく or 頭にくる if I were told in that way by someone not close. I am very sensitive as you don't know. I don't mean you are not sensitive. :P"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: bamboo4
+    text: I would feel the same way, if I was told お礼 次第 では､手伝ってあげないものでもないね｡ I misunderstood your 高飛車 comment. My bad.
+    html: I would feel the same way, if I was told お礼 次第 では､手伝ってあげないものでもないね｡ I misunderstood your 高飛車 comment. My bad.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: halx
+    text: Also in the form 次第だ, but a meaning similar to わけだ.
+    html: Also in the form 次第だ, but a meaning similar to わけだ.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: halx
+    text: Also in the form 次第だ, but a meaning similar to わけだ.
+    html: Also in the form 次第だ, but a meaning similar to わけだ.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: halx
+    text: Also in the form 次第だ, but a meaning similar to わけだ.
+    html: Also in the form 次第だ, but a meaning similar to わけだ.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: shidai
+    label: shidai
+    annotation_text: shidai [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=shidai">shidai</a> [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "〜次第で [〜しだいで] (shidaide)\n    Meaning: depending on \n    Example: depending on the weather, we'll go\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>〜次第で [〜しだいで] (shidaide)</span><br/>    <span><b>Meaning</b>: depending on </span><br/>    <b>Example</b>: <i>depending on the weather, we'll go</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215025727'

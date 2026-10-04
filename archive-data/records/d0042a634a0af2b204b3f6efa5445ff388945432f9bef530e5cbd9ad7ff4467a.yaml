@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1450
+label: specialexp
+title_raw: (specialexp)
+title: (specialexp)
+reading: null
+romanized_label: specialexp
+category: lesson
+jlpt_level_original: '0'
+meaning: Special Expressions
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=specialexp
+archive_url: https://web.archive.org/web/20200215024155id_/http://jgram.org:80/pages/viewOne.php?tagE=specialexp
+archive_timestamp: '20200215024155'
+retrieved_at: '2026-10-04T04:22:35+00:00'
+archive_digest: KWZDPCF5CWFUNHPZR2RMDHTKPACDE2EN
+response_sha256: f43065a86ac566c730906a418a05a4d7d38e14b9fb89715f9f259fdc49e5058e
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(specialexp)\n    Meaning: Special Expressions \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (specialexp)</span><br/>    <span><b>Meaning</b>: Special Expressions </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: specialexp
+    id: 1450
+    title_raw: (specialexp)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=specialexp
+    response_sha256: f43065a86ac566c730906a418a05a4d7d38e14b9fb89715f9f259fdc49e5058e
+    section: Tutorial
+    section_html_sha256: 101a51f0f3f7a6ae0e1071057821c66b96182c51dd431ef6892dacc629b35df4
+    section_text_sha256: c90aef997d9ea8985d44cb46e998946343390402ce204bb70741e87a74f0cfce
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8053
+    source_byte_length: 1442
+    section_bytes_sha256: 723de8c841c220b5aefacd577547aa9d557141c51021234ee08c93b10bd485f7
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215024155'

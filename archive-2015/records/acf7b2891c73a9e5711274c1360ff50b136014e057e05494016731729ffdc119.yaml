@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1574
+label: feasibility
+title_raw: Expressions of non-feasibility [〜ざるを得ない、やむを得ない、〜かねる] (feasibility)
+title: Expressions of non-feasibility
+reading: 〜ざるを得ない、やむを得ない、〜かねる
+romanized_label: feasibility
+category: lesson
+jlpt_level_original: '2'
+meaning: Formal expressions of non-feasibility　（〜ざるを得ない、やむを得ない、〜かねる）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=feasibility
+archive_url: https://web.archive.org/web/20150224234401id_/http://www.jgram.org/pages/viewOne.php?tagE=feasibility
+archive_timestamp: '20150224234401'
+retrieved_at: '2026-10-03T16:07:40+00:00'
+archive_digest: PHJOKI3FYZRN446LZD665NVC5E4GHULA
+response_sha256: 73e19d0bccbc0a84fa7aa60081720245d2705eda9ff4c5b0cba52bd839098950
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "Expressions of non-feasibility [〜ざるを得ない、やむを得ない、〜かねる] (feasibility)\n    Meaning: Formal expressions of non-feasibility　（〜ざるを得ない、やむを得ない、〜かねる） \n    JLPT Level: 2\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Expressions of non-feasibility [〜ざるを得ない、やむを得ない、〜かねる] (feasibility)</span><br/>    <span><b>Meaning</b>: Formal expressions of non-feasibility　（〜ざるを得ない、やむを得ない、〜かねる） </span><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: feasibility
+    id: 1574
+    title_raw: Expressions of non-feasibility [〜ざるを得ない、やむを得ない、〜かねる] (feasibility)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=feasibility
+    response_sha256: 73e19d0bccbc0a84fa7aa60081720245d2705eda9ff4c5b0cba52bd839098950
+    section: Tutorial
+    section_html_sha256: 271d2284225e11a7f2ffd7444364300e699ff1a17d1f8987b6dc24e4082cb750
+    section_text_sha256: 300c91ab8ae23957fde9cbe6c3516937c74d2c21c49586ab719092fd3601b1b4
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8929
+    source_byte_length: 9046
+    section_bytes_sha256: 0f4a68697e31d5d6dd99737b3dc442870ccd30a63dc1c75f52c3e19e87e6050a
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224234401'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 57243126
+  length: 8187
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 1946aa388830c0b20481052d8cd4b830fea05e43d41938af9b08dcfc6b06ebb0

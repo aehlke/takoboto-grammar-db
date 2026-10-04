@@ -1,0 +1,74 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 951
+label: kanji
+title_raw: 漢字 ([かんじ] )(kanji)
+title: 漢字
+reading: かんじ
+romanized_label: kanji
+category: lesson
+jlpt_level_original: '4'
+meaning: Writing system based on ancient chinese pictographs 中国で作られ、日本などでも使われている文字。
+meaning_example: There are to be 2190 Kanji in the new general use character list in 2010.
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=kanji
+archive_url: https://web.archive.org/web/20150224231300id_/http://www.jgram.org/pages/viewOne.php?tagE=kanji
+archive_timestamp: '20150224231300'
+retrieved_at: '2026-10-03T16:04:52+00:00'
+archive_digest: D4TVO34ZXRHOGVCNLA5M6Y54A253MWDJ
+response_sha256: 9e0ea638ab6e6eeaec5db9fe470597ed2183c13ff41eee30540c5fdd64ed184d
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      漢字 ([かんじ] )(kanji)
+          Meaning: Writing system based on ancient chinese pictographs 中国で作られ、日本などでも使われている文字。
+          Example: There are to be 2190 Kanji in the new general use character list in 2010.
+          JLPT Level: 4
+          Category: lesson
+          Author: TaeKim
+    html: |-
+      <span>漢字 ([かんじ] )(kanji)</span><br/>    <span><b>Meaning</b>: Writing system based on ancient chinese pictographs 中国で作られ、日本などでも使われている文字。</span><br/>    <b>Example</b>: <i>There are to be 2190 Kanji in the new general use character list in 2010.</i><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: kanji
+    id: 951
+    title_raw: 漢字 ([かんじ] )(kanji)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=kanji
+    response_sha256: 9e0ea638ab6e6eeaec5db9fe470597ed2183c13ff41eee30540c5fdd64ed184d
+    section: Tutorial
+    section_html_sha256: d97c4f565cf66381b473bd76e3e606ee23352d911127bd0f23e4fcba0ecd0f53
+    section_text_sha256: 37976268b1ffe0785f274de8b6f18db379d31db0e0505a47c6d93cd69cf4218d
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 9005
+    source_byte_length: 10404
+    section_bytes_sha256: d7123a71b663c1ea514818f74b569c136f0ce30675abfd33bcd4d310b0ab7e29
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224231300'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 20298255
+  length: 9232
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 8146b3c3320ca71d162d351f2c9a3a70671b3aab52967427907ffa1c10369532

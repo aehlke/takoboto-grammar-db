@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1576
+label: adv_volitional
+title_raw: Advanced Volitional [まい、であろう、かろう] (adv_volitional)
+title: Advanced Volitional
+reading: まい、であろう、かろう
+romanized_label: adv_volitional
+category: lesson
+jlpt_level_original: '4'
+meaning: Advanced Volitional　（まい、であろう、かろう）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=adv_volitional
+archive_url: https://web.archive.org/web/20200215030353id_/http://jgram.org:80/pages/viewOne.php?tagE=adv_volitional
+archive_timestamp: '20200215030353'
+retrieved_at: '2026-10-04T02:56:34+00:00'
+archive_digest: IZBVZ2JZ5WJFLRARY3DEPQALRVDUZVDC
+response_sha256: eb88e94d166c46ed29b0088ef833fe858e990aba49b409ea38c9f0fe38ba744a
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "Advanced Volitional [まい、であろう、かろう] (adv_volitional)\n    Meaning: Advanced Volitional　（まい、であろう、かろう） \n    JLPT Level: 4\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Advanced Volitional [まい、であろう、かろう] (adv_volitional)</span><br/>    <span><b>Meaning</b>: Advanced Volitional　（まい、であろう、かろう） </span><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: adv_volitional
+    id: 1576
+    title_raw: Advanced Volitional [まい、であろう、かろう] (adv_volitional)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=adv_volitional
+    response_sha256: eb88e94d166c46ed29b0088ef833fe858e990aba49b409ea38c9f0fe38ba744a
+    section: Tutorial
+    section_html_sha256: 59d1ecb4bb11e6f4a031b962107e17eaaaa3420c8cbaf1fb99e1f6ce9ba64e6b
+    section_text_sha256: daefe77aea65505941f9ee9916852bdb55f8ed87c6f3b1bde56ada293074450f
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8119
+    source_byte_length: 8650
+    section_bytes_sha256: b23f6cb5042ccb6f7adc7859e2cf8c11c2b65cdf5ff9abdd6e3fe95bf4ef35d5
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215030353'

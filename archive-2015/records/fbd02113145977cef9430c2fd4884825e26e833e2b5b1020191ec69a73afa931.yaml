@@ -1,0 +1,109 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1578
+label: close_actions
+title_raw: Advanced proximity of actions [が早いか、や否や、そばから] (close_actions)
+title: Advanced proximity of actions
+reading: が早いか、や否や、そばから
+romanized_label: close_actions
+category: lesson
+jlpt_level_original: '1'
+meaning: Advanced proximity of actions （が早いか、や否や、そばから）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=close_actions
+archive_url: https://web.archive.org/web/20150224233134id_/http://www.jgram.org/pages/viewOne.php?tagE=close_actions
+archive_timestamp: '20150224233134'
+retrieved_at: '2026-10-03T16:06:55+00:00'
+archive_digest: CGEBSNVN7M7QB6HH3XLVWCA4CLPPL4MG
+response_sha256: c9cbefec95ea5f042b0b22bd140f2a5734c19daac62d95f1c8b75b788a28e43f
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: Heather
+    text: |-
+      There is a mistake in the green box that describes how to form the ya/ina-ya construction.  It shows the construction being attached to the stem of the verb, not the dictionary form of the verb.
+    html: |-
+      There is a mistake in the green box that describes how to form the ya/ina-ya construction.  It shows the construction being attached to the stem of the verb, not the dictionary form of the verb.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: winterkoninkje
+    text: Another, less important, typo is that the third sentence for が早いか is the same as the second.
+    html: Another, less important, typo is that the third sentence for が早いか is the same as the second.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: benkyouchuu
+    text: |-
+      winterkoninkje, actually they're not the same. Those two examples try to demonstrate you can attach が早いか to both the dictionary form and the past tense.
+    html: |-
+      winterkoninkje, actually they're not the same. Those two examples try to demonstrate you can attach が早いか to both the dictionary form and the past tense.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: mochabean
+    text: |-
+      Is this level 2? My books list all three grammar points as level 1, and the two entries for や否や and が早いか on this site are listed as level 1, too.
+    html: |-
+      Is this level 2? My books list all three grammar points as level 1, and the two entries for や否や and が早いか on this site are listed as level 1, too.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: DrJones
+    text: The very article states that this is JLPT 1, so I fixed the level
+    html: The very article states that this is JLPT 1, so I fixed the level
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "Advanced proximity of actions [が早いか、や否や、そばから] (close_actions)\n    Meaning: Advanced proximity of actions （が早いか、や否や、そばから） \n    JLPT Level: 1\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Advanced proximity of actions [が早いか、や否や、そばから] (close_actions)</span><br/>    <span><b>Meaning</b>: Advanced proximity of actions （が早いか、や否や、そばから） </span><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: close_actions
+    id: 1578
+    title_raw: Advanced proximity of actions [が早いか、や否や、そばから] (close_actions)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=close_actions
+    response_sha256: c9cbefec95ea5f042b0b22bd140f2a5734c19daac62d95f1c8b75b788a28e43f
+    section: Tutorial
+    section_html_sha256: e9a9f8e12c70481e0302371c72ffd1b9318896b8956f1478b0c685ab63cc5d97
+    section_text_sha256: 358f1efd7fc4a95ff45a1bff9b2deb1b807fc9294bdde7c819d1c9f5f940c5af
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8893
+    source_byte_length: 8735
+    section_bytes_sha256: b26ec863e96628351552bb01aa8a9afdc8b32a01dc6ada55fb47860e39563c3b
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224233134'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 50121119
+  length: 8052
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 95bf7202f9d00c1563581877b7695bd7152400878c253c959dfc560ac7586bb2

@@ -1,0 +1,246 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 470
+label: arieru
+title_raw: ありうる, ありえる (有り得る) ([ありうる, ありえる] )(arieru)
+title: ありうる, ありえる (有り得る)
+reading: ありうる, ありえる
+romanized_label: arieru
+category: grammar
+jlpt_level_original: '2'
+meaning: To be possible, to be conceivable ある可能性がある。あるはずである。
+meaning_example: Do you think it is likely they will arrive this evening?
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=arieru
+archive_url: https://web.archive.org/web/20200215024705id_/http://jgram.org:80/pages/viewOne.php?tagE=arieru
+archive_timestamp: '20200215024705'
+retrieved_at: '2026-10-03T23:59:29+00:00'
+archive_digest: AM2DW6C33DKDNEYHPA72IDLDOPKY2U2Z
+response_sha256: b49ecd9a9a1e8f7790a050e389c5af3ddd25faf7c78829b398f7db8f6a51113e
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 728
+    position: 0
+    japanese: 日本においても充分ありえる話だと思います。
+    body_text: "日本においても充分ありえる話だと思います。 \n\n\t\tEven in Japan I think that \n\t\tcould \n\t\ttalk well enough."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ日本においても充分ありえる話だと思います。\">\n\t\t\t\t日本においても充分<strong>ありえる</strong>話だと思います。<strong></strong></a> <br/>\n\t\tEven in Japan I think that \n\t\t<strong>could </strong>\n\t\ttalk well enough."
+    credits_raw: Amatuka
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 729
+    position: 1
+    japanese: 安全という状態はどこにもありえない。
+    body_text: "安全という状態はどこにもありえない。 \n\n\t\tThat state called safety - no matter where you look \n\t\tcan't be found."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ安全という状態はどこにもありえない。\">\n\t\t\t\t安全という状態はどこにも<strong>ありえない</strong>。<strong></strong></a> <br/>\n\t\tThat state called safety - no matter where you look \n\t\t<strong>can't be found. </strong>"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3394
+    position: 2
+    japanese: 冗談を言うほど賢いコンピューターがありえるだろうか。
+    body_text: "冗談を言うほど賢いコンピューターがありえるだろうか。\r \n\n\t\tCan there be a computer intelligent enough to tell a joke?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ冗談を言うほど賢いコンピューターがありえるだろうか。\">\n\t\t\t\t冗談を言うほど賢いコンピューターが<strong>ありえる</strong>だろうか。\r<strong></strong></a> <br/>\n\t\tCan there be a computer intelligent enough to tell a joke? \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3395
+    position: 3
+    japanese: 彼女の成功はありえることだ。
+    body_text: "彼女の成功はありえることだ。\r \n\n\t\tIt is within the bounds of possibility that she will succeeded."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女の成功はありえることだ。\">\n\t\t\t\t彼女の成功は<strong>ありえる</strong>ことだ。\r<strong></strong></a> <br/>\n\t\tIt is within the bounds of possibility that she will succeeded. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Often used in negative for "That't not possible!"
+    html: Often used in negative for "That't not possible!"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: |-
+      often used as slang by young people - ありえない！　or even worse ありえねえ〜！　I cant believe it! (maybe, "you're shitting me right?" might be more accurate mood translation)
+    html: |-
+      often used as slang by young people - ありえない！　or even worse ありえねえ〜！　I cant believe it! (maybe, "you're shitting me right?" might be more accurate mood translation)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Miki
+    text: The seconde one roughly means 安全という状態は、どこにも　ない.
+    html: The seconde one roughly means 安全という状態は、どこにも　ない.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Miki
+    text: "In a J-dictionary, a believable tale = 信じられる話. With that's Japanese, I could not accept the 1st one. \n\r\nNow the current translation sounds nice.:)"
+    html: "In a J-dictionary, a believable tale = 信じられる話. With that's Japanese, I could not accept the 1st one. <br/>\r\nNow the current translation sounds nice.:)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Miki
+    text: trustworthy tale だと、「信頼できる話」かな。混乱。
+    html: trustworthy tale だと、「信頼できる話」かな。混乱。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Miki
+    text: "I'm satisfied with the new one.\n\r\nEven in Japan I think that could well happen."
+    html: "I'm satisfied with the new one.<br/>\r\nEven in Japan I think that could well happen."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: Amatuka
+    text: "OK, I've trimmed down the comments.  \n\r\nIn summary (and it may just be me) I just think 'possible tale' sounds a little odd for the context of the example sentence.  I wouldn't try to overanalyse it."
+    html: "OK, I've trimmed down the comments.  <br/>\r\nIn summary (and it may just be me) I just think 'possible tale' sounds a little odd for the context of the example sentence.  I wouldn't try to overanalyse it."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Rahulk
+    text: I think "Possible" & "Not Possible" would be more accurace.
+    html: I think "Possible" &amp; "Not Possible" would be more accurace.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: bamboo4
+    text: See my comment re ありうる.
+    html: See my comment re ありうる.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: YakkSoho
+    text: |-
+      There is no example showing how to use this word with a verb. As in the sentence, "Is it possible to eat too much chocolate?" Also, is this word somewhat rhetorical (as in my previous example)?
+    html: |-
+      There is no example showing how to use this word with a verb. As in the sentence, "Is it possible to eat too much chocolate?" Also, is this word somewhat rhetorical (as in my previous example)?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: 誠
+    text: It cannot be used with a verb together.Its usage is the same as 可能（あり得る）and 不可能(あり得ない）.
+    html: It cannot be used with a verb together.Its usage is the same as 可能（あり得る）and 不可能(あり得ない）.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: Nick
+    text: "有り得る（ありうる）\n\r\n有り得ない（ありえない）\n\n\n\n#728\n\r\n日本においても、充分ありうる話だと思います。\n\n\n\n#729\n\r\nSounds fine.\n\n\n\n#3394 and #3395\n\r\nありうる, not ありえる.\n\r\n-----------------------------------------\n\r\nA message to Japanese people:\n\r\nPlease study Japanese very hard."
+    html: "有り得る（ありうる）<br/>\r\n有り得ない（ありえない）<br/>\n<br/>\n<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=arieru#728\">#728</a></b><br/>\r\n日本においても、充分ありうる話だと思います。<br/>\n<br/>\n<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=arieru#729\">#729</a></b><br/>\r\nSounds fine.<br/>\n<br/>\n<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=arieru#3394\">#3394</a></b> and <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=arieru#3395\">#3395</a></b><br/>\r\nありうる, not ありえる.<br/>\r\n-----------------------------------------<br/>\r\nA message to Japanese people:<br/>\r\nPlease study Japanese very hard."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: Nick
+    text: "#728\n\r\nI would say \"（そういうことは）日本でも、十分にありうることだ。\""
+    html: "<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=arieru#728\">#728</a></b><br/>\r\nI would say \"（そういうことは）日本でも、十分にありうることだ。\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: Miki
+    text: Nick, a language is changing. An expression which is thought to be wrong becomes a standard.
+    html: Nick, a language is changing. An expression which is thought to be wrong becomes a standard.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: Nick
+    text: ありうる is standard Japanese, but ありえる is not.
+    html: ありうる is standard Japanese, but ありえる is not.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    credits_raw: gooogle
+    text: |-
+      have you checked how many japanese people use ありえる on the web? it would be much easier for non-japanese to learn correct japanese.
+    html: |-
+      have you checked how many japanese people use ありえる on the web? it would be much easier for non-japanese to learn correct japanese.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    credits_raw: mankind
+    text: "Nick, \"correct\" or \"incorrect\" depend only on the majority of speakers of a language. You might want to read something by Wittgenstein on that (it's kinda common sense though). Otherwise we'd now be speaking whatever Germanic accent is at the origin of English. \n\r\nOh, and if you don't agree, perhaps you should lecture Murakami on his \"wrong\" use of arieru and tell him to \"please study Japanese very hard\""
+    html: "Nick, \"correct\" or \"incorrect\" depend only on the majority of speakers of a language. You might want to read something by Wittgenstein on that (it's kinda common sense though). Otherwise we'd now be speaking whatever Germanic accent is at the origin of English. <br/>\r\nOh, and if you don't agree, perhaps you should lecture Murakami on his \"wrong\" use of arieru and tell him to \"please study Japanese very hard\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    credits_raw: blackburn
+    text: "There are no incorrect forms on any language grammar as it (language) arises spontaneously. A language is not a set of rules to be followed. Look for Steven Pinker's \"The language instinct\" and you'll clarify your minds.\n\r\nThese are just possible variations to an expression which by no means are incorrect. And the so called correct ones are not more appropriate than the not so common ones."
+    html: "There are no incorrect forms on any language grammar as it (language) arises spontaneously. A language is not a set of rules to be followed. Look for Steven Pinker's \"The language instinct\" and you'll clarify your minds.<br/>\r\nThese are just possible variations to an expression which by no means are incorrect. And the so called correct ones are not more appropriate than the not so common ones."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    credits_raw: koshuwu
+    text: Lol Mankind, I agree with you, Nick has had too much to study lately....
+    html: Lol Mankind, I agree with you, Nick has had too much to study lately....
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: uru
+    label: uru
+    annotation_text: uru [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=uru">uru</a> [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: ariuru
+    label: ariuru
+    annotation_text: ariuru [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=ariuru">ariuru</a> [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 2
+    target_label: aru
+    label: aru
+    annotation_text: aru [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=aru">aru</a> [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: |-
+      ありうる, ありえる (有り得る) ([ありうる, ありえる] )(arieru)
+          Meaning: To be possible, to be conceivable ある可能性がある。あるはずである。
+          Example: Do you think it is likely they will arrive this evening?
+          JLPT Level: 2
+          Category: grammar
+          Author: Amatuka
+    html: |-
+      <span>ありうる, ありえる (有り得る) ([ありうる, ありえる] )(arieru)</span><br/>    <span><b>Meaning</b>: To be possible, to be conceivable ある可能性がある。あるはずである。</span><br/>    <b>Example</b>: <i>Do you think it is likely they will arrive this evening?</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215024705'

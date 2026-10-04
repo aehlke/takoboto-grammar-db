@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 951
+label: Kanji
+title_raw: かんじ (Kanji)
+title: かんじ (Kanji)
+reading: null
+romanized_label: Kanji
+category: grammar
+jlpt_level_original: '4'
+meaning: basic  (I need Everything)
+meaning_example: null
+credits_raw: n5adr
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=Kanji
+archive_url: https://web.archive.org/web/20051225152117id_/http://jgram.org:80/pages/viewOne.php?tagE=Kanji
+archive_timestamp: '20051225152117'
+retrieved_at: '2026-10-04T02:41:08+00:00'
+archive_digest: ETYE6O2CV72KNRFQKREY4ENVDYMJB7OF
+response_sha256: 22a038e4a1397889dac6d24a0af39e62b734ed0c974809206c40a6433d07decd
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "かんじ (Kanji)\n    Meaning: basic  (I need Everything) \n    JLPT Level: 4\n    Category: grammar\n    Author: n5adr"
+    html: |-
+      <span>かんじ (Kanji)</span><br/>    <span><b>Meaning</b>: basic  (I need Everything) </span><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>n5adr</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: Kanji
+    id: 951
+    title_raw: かんじ (Kanji)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=Kanji
+    response_sha256: 22a038e4a1397889dac6d24a0af39e62b734ed0c974809206c40a6433d07decd
+    section: Tutorial
+    section_html_sha256: c23de76c814ec2078ff789599a5f5f23fda99f07db75f2b4ea61937e49c29d7f
+    section_text_sha256: 16386a90a90c22299f9e86ebf8599a35819dd3304669f05bf3d3fe2e60e3f270
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 7971
+    source_byte_length: 11752
+    section_bytes_sha256: f57e8ae2679c0e6e4324eb387118e8450f57f7351e62fa92ac95e3b1ac76cf21
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051225152117'

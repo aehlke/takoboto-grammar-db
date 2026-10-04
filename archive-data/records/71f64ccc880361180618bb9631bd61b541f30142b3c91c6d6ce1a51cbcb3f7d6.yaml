@@ -1,0 +1,90 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1546
+label: nari2
+title_raw: なり [なり] (nari2)
+title: なり
+reading: なり
+romanized_label: nari2
+category: grammar
+jlpt_level_original: '1'
+meaning: expresses continuing state
+meaning_example: he kept staring at her
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=nari2
+archive_url: https://web.archive.org/web/20200215022016id_/http://jgram.org:80/pages/viewOne.php?tagE=nari2
+archive_timestamp: '20200215022016'
+retrieved_at: '2026-10-04T01:11:58+00:00'
+archive_digest: 4XFI3KQPC6DSZAX3LTHBUCOYIOW63EP3
+response_sha256: 8ea04b32ce97e298ac2a8af9c806b3fe168c8bfc5568d04fdbdb1cc270103bb7
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: Verb(た形)+なり implies one movement is continuing. 〜したまま。
+    html: |-
+      Verb(た形)+なり implies one movement is continuing. 〜したまま。<br/>
+      <br/>
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 5743
+    position: 0
+    japanese: 会社を出たなり、いつまでも帰らない。
+    body_text: "会社を出たなり、いつまでも帰らない。 \n\n\t\tHe left the office and \n\t\thasn't \n\t\tcome back."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ会社を出たなり、いつまでも帰らない。\">\n\t\t\t\t会社を出た<strong>なり</strong>、いつまでも帰らない。<strong></strong></a> <br/>\n\t\tHe left the office and \n\t\t<strong>hasn't </strong>\n\t\tcome back."
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5744
+    position: 1
+    japanese: 彼女を見つめたなり、しばらくの間微動だにしなかった。
+    body_text: "彼女を見つめたなり、しばらくの間微動だにしなかった。\r \n\n\t\tHe stared at her and didn't move an inch for a while."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女を見つめたなり、しばらくの間微動だにしなかった。\">\n\t\t\t\t彼女を見つめた<strong>なり</strong>、しばらくの間微動だにしなかった。\r<strong></strong></a> <br/>\n\t\tHe stared at her and didn't move an inch for a while. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: "is this identical to -kiri\n\r\n行ったきり\n\r\n行ったなり\n\r\nhe went ... (and hasnt been seen since)"
+    html: "is this identical to -kiri<br/>\r\n行ったきり<br/>\r\n行ったなり<br/>\r\nhe went ... (and hasnt been seen since)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: nari
+    label: nari
+    annotation_text: nari    (there are a few nari forms which have very different meanings.) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=nari">nari</a>    (there are a few nari forms which have very different meanings.) [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: kiri2
+    label: kiri2
+    annotation_text: kiri2    (similar) [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=kiri2">kiri2</a>    (similar) [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+sections:
+  - kind: header
+    text: "なり [なり] (nari2)\n    Meaning: expresses continuing state \n    Example: he kept staring at her\n    JLPT Level: 1\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>なり [なり] (nari2)</span><br/>    <span><b>Meaning</b>: expresses continuing state </span><br/>    <b>Example</b>: <i>he kept staring at her</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215022016'

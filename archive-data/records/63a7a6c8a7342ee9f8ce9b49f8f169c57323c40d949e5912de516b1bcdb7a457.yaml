@@ -1,0 +1,123 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1431
+label: Hiragana
+title_raw: ひらがな (hiragana)
+title: ひらがな (hiragana)
+reading: null
+romanized_label: Hiragana
+category: lesson
+jlpt_level_original: '0'
+meaning: Hiragana is the basic Japanese phonetic alphabet.
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=Hiragana
+archive_url: https://web.archive.org/web/20060206232200id_/http://jgram.org:80/pages/viewOne.php?tagE=Hiragana
+archive_timestamp: '20060206232200'
+retrieved_at: '2026-10-04T02:38:30+00:00'
+archive_digest: QG27Y7BHD5NBA2FPFW3KFQTD45XSJQRJ
+response_sha256: c3229ec6a82ea4c8cd2a10720704672151c0e0510c2ca4d34a73ebd99dd309da
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "ひらがな (hiragana)\n    Meaning: Hiragana is the basic Japanese phonetic alphabet. \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>ひらがな (hiragana)</span><br/>    <span><b>Meaning</b>: Hiragana is the basic Japanese phonetic alphabet. </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: Hiragana
+    id: 1431
+    title_raw: ひらがな (hiragana)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=Hiragana
+    response_sha256: c3229ec6a82ea4c8cd2a10720704672151c0e0510c2ca4d34a73ebd99dd309da
+    section: Tutorial
+    section_html_sha256: 2ca0d24971ccad31fa370757145631649121bd00324ff11e1dfb520a476d1f72
+    section_text_sha256: 8b6e071a39b016869a4f11f5b1d43e62c42e24406b2a5a269da4ccb1303a63b9
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Tutorial attribution is established by exact long passages matching the separately copyrighted Tae Kim tutorial in another reviewed capture. No copyright notice is displayed in this particular cell. Retain JGram contributions outside the independently bounded tutorial cell.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8019
+    source_byte_length: 12761
+    section_bytes_sha256: 8fb72fb599b88dd7f62aed578fc47febbdf57e4fb092c0a57543d2d85db994c0
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+    credit_evidence:
+      method: exact-passages-in-reviewed-copyrighted-tutorial
+      reference_source_url: http://www.jgram.org/pages/viewOne.php?tagE=hiragana
+      reference_response_sha256: 96855c6a74d49414cc092f233227f7a87dd3315329aa5f855233801cd80d716a
+      reference_section_html_sha256: f758aa6182ce733491fbb617e6238a429352f1c95dcf0bb1bbb0d27502dc0f2f
+      text_normalization: parser.text with consecutive whitespace replaced by one space
+      matching_passages:
+        - source_text_offset: 228
+          reference_text_offset: 233
+          text_length: 203
+          text_sha256: d4f30844b83ecf31428e3954240882425424e8499e421f409ad7bd8cc40c99a5
+        - source_text_offset: 431
+          reference_text_offset: 445
+          text_length: 208
+          text_sha256: 7adde6183673279151b49d242f810a99664a1e91325b71e126907eb4b24f0f5a
+        - source_text_offset: 640
+          reference_text_offset: 654
+          text_length: 1546
+          text_sha256: 2cc78ffe5530022dcccaef577b0459926b459b324bf1f637b21014f1f422349c
+        - source_text_offset: 2189
+          reference_text_offset: 2202
+          text_length: 249
+          text_sha256: 89529e69d075fb0bdbbb5c6764ff4d3361ea2f440179d4a35670cb66dbd93cfc
+        - source_text_offset: 2438
+          reference_text_offset: 2918
+          text_length: 782
+          text_sha256: 2cf5d605a0619ed25e1d5e9dc72e1fcf754a69c4a807fa467a7dbc7bf9c3102d
+        - source_text_offset: 3221
+          reference_text_offset: 3703
+          text_length: 627
+          text_sha256: 59ce4874c26b2af7b6375b2cfcaada6a51615baa1ce9419233ccd4084e2a6b0d
+        - source_text_offset: 4005
+          reference_text_offset: 4546
+          text_length: 490
+          text_sha256: 00fcaaeffcebc0ce2bc3ea7ae977959fd8bde704e9e091473bf17a51a53b699a
+        - source_text_offset: 4504
+          reference_text_offset: 5051
+          text_length: 593
+          text_sha256: e5c0a423193fb45e9e28ad30d75a529183c8f3cedbc66fd2c96d2d311fd94477
+        - source_text_offset: 5270
+          reference_text_offset: 5692
+          text_length: 330
+          text_sha256: 82df54b04fe5adba15edec763aace6247b38d8aa33d8862859d98643c54d1023
+        - source_text_offset: 5849
+          reference_text_offset: 6282
+          text_length: 466
+          text_sha256: 9122aa2a0a5df6b7a70d66eb068f7f62ff2ed92ad1275043fd5a666e8c50b71e
+        - source_text_offset: 6379
+          reference_text_offset: 6842
+          text_length: 525
+          text_sha256: 1c2f2cd27715b77bc28e7e89d39109a2fd183aa443098514b35419210bdf6835
+        - source_text_offset: 7211
+          reference_text_offset: 7667
+          text_length: 227
+          text_sha256: 80a42dd36f9636bff51e515150ec4a0e97ad53bc29ae051e24ca41b4653d4f42
+        - source_text_offset: 7439
+          reference_text_offset: 7896
+          text_length: 212
+          text_sha256: a5cfc79f3175c2859d2f16c8278198b0cbd09f5a29d47b2f3df90bc3d6496282
+        - source_text_offset: 7683
+          reference_text_offset: 8347
+          text_length: 307
+          text_sha256: dcc9ab7dc856449667ba8b5e4adb1084e7963806e1d125ac53226dd83357077b
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20060206232200'

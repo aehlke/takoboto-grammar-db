@@ -1,0 +1,141 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 724
+label: keredemo
+title_raw: けれども [けれども] (keredemo)
+title: けれども
+reading: けれども
+romanized_label: keredemo
+category: grammar
+jlpt_level_original: '4'
+meaning: but, however
+meaning_example: It rained, but everybody enjoyed themselves.
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=keredemo
+archive_url: https://web.archive.org/web/20060205004059id_/http://jgram.org:80/pages/viewOne.php?tagE=keredemo
+archive_timestamp: '20060205004059'
+retrieved_at: '2026-10-04T03:32:16+00:00'
+archive_digest: 475U4SRXCOPDCIIVTKU4BFMMOIB3JBSD
+response_sha256: ab0c42a1b893aba25517ec1e580721da315132a4d4a059849f512d29c43ce9d5
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 862
+    position: 0
+    japanese: 雨が降っていたけれども、みんなは楽しい時を過ごした。 [ame ga futteita keredomominna ha tanoshii toki wo sugoshita.]
+    body_text: "雨が降っていたけれども、みんなは楽しい時を過ごした。 [ame ga futteita keredomominna ha tanoshii toki wo sugoshita.] \n\nAlthough \r\n\t\tit rained, everyone had a good time."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ雨が降っていたけれども、みんなは楽しい時を過ごした。 [ame ga futteita \">\r\n\t\t\t\t雨が降っていた<strong>けれども</strong>、みんなは楽しい時を過ごした。 [ame ga futteita <strong>keredomo</strong>minna ha tanoshii toki wo sugoshita.]</a> <br/>\n<strong>Although </strong>\r\n\t\tit rained, everyone had a good time."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 863
+    position: 1
+    japanese: お引き受けしたいんですけれど・・・ [ohikiuke shitain desu keredo]
+    body_text: "お引き受けしたいんですけれど・・・ [ohikiuke shitain desu keredo] \n\r\n\t\tI'd like to say yes, \r\n\t\tbut \r\n\t\t..."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJお引き受けしたいんですけれど・・・ [ohikiuke shitain desu \">\r\n\t\t\t\tお引き受けしたいんです<strong>けれど</strong>・・・ [ohikiuke shitain desu <strong>keredo</strong>]</a> <br/>\r\n\t\tI'd like to say yes, \r\n\t\t<strong>but </strong>\r\n\t\t..."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 864
+    position: 2
+    japanese: 彼は１６歳だけれど、両親から独立しています。[kare ha 16sai dakeredo, ryoushin kara dokuritsu shiteimasu.]
+    body_text: "彼は１６歳だけれど、両親から独立しています。[kare ha 16sai dakeredo, ryoushin kara dokuritsu shiteimasu.] \n\nThough \r\n\t\tonly 16, he is independent of his parents."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ彼は１６歳だけれど、両親から独立しています。\">\r\n\t\t\t\t彼は１６歳だ<strong>けれど</strong>、両親から独立しています。<strong>[kare ha 16sai dakeredo, </strong>ryoushin kara dokuritsu shiteimasu.]</a> <br/>\n<strong>Though </strong>\r\n\t\tonly 16, he is independent of his parents."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: "Used to join two sentences.\n\r\nけれども (most formal) →けれど→けど (least formal)\n\r\nけど used in speech, not when writing.\n\r\nUsing けれども etc to start a sentence is frowned upon.  But, like using 'but' to start a sentence in English, is sometimes done anyway."
+    html: "Used to join two sentences.<br/>\r\nけれども (most formal) →けれど→けど (least formal)<br/>\r\nけど used in speech, not when writing.<br/>\r\nUsing けれども etc to start a sentence is frowned upon.  But, like using 'but' to start a sentence in English, is sometimes done anyway."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "Verb, i-adjective or the copula should be before けれども.\n\n\n\r\ne.g. 彼は１６歳だけれど、両親から独立しています。"
+    html: "Verb, i-adjective or the copula should be before けれども.<br/>\n<br/>\r\ne.g. 彼は１６歳<b>だ</b>けれど、両親から独立しています。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: "In polite/formal use \n\r\nsentence-A -masu けれども sentence-B -masu can be used, but \n\r\nsentence-A plain けれど(も) sentence-B -masu\n\r\nis also possible."
+    html: "In polite/formal use <br/>\r\nsentence-A <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=-masu\">-masu</a></b> けれども sentence-B <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=-masu\">-masu</a></b> can be used, but <br/>\r\nsentence-A <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=plain\">plain</a></b> けれど(も) sentence-B <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=-masu\">-masu</a></b><br/>\r\nis also possible."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Amatuka
+    text: Compare & contrast with が (ga) and でも (demo)
+    html: Compare &amp; contrast with が (ga) and でも (demo)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: raph
+    text: 'Just a typo. In ex #864, in the romanized text appears ''daderedo'' and should be ''dakeredo'', isn''t it?'
+    html: |-
+      Just a typo. In ex <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=keredemo#864">#864</a></b>, in the romanized text appears 'daderedo' and should be 'dakeredo', isn't it?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: dc
+    text: raph - fixed. you can edit the examples ya know!
+    html: raph - fixed. you can edit the examples ya know!
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: demo
+    label: demo
+    annotation_text: demo    (でも and けれども both used for 'but'.)
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=demo">demo</a>    (でも and けれども both used for 'but'.)
+    credits_raw: null
+  - position: 1
+    target_label: ga-2
+    label: ga-2
+    annotation_text: ga-2    (けれども and が both used for 'but'.)
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=ga-2">ga-2</a>    (けれども and が both used for 'but'.)
+    credits_raw: null
+  - position: 2
+    target_label: shikashi
+    label: shikashi
+    annotation_text: shikashi    (しかし has a similar meaning to けれども but is used at the start of sentences.  )
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=shikashi">shikashi</a>    (しかし has a similar meaning to けれども but is used at the start of sentences.  )
+    credits_raw: null
+  - position: 3
+    target_label: monono
+    label: monono
+    annotation_text: monono
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=monono">monono</a>
+    credits_raw: null
+sections:
+  - kind: header
+    text: "けれども [けれども] (keredemo)\n    Meaning: but, however \n    Example: It rained, but everybody enjoyed themselves.\n    JLPT Level: 4\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>けれども [けれども] (keredemo)</span><br/>    <span><b>Meaning</b>: but, however </span><br/>    <b>Example</b>: <i>It rained, but everybody enjoyed themselves.</i><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20060205004059'

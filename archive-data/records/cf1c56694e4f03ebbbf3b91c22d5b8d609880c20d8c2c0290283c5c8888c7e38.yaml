@@ -1,0 +1,81 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1492
+label: womotte
+title_raw: をもって [をもって] (womotte)
+title: をもって
+reading: をもって
+romanized_label: womotte
+category: grammar
+jlpt_level_original: '1'
+meaning: based on
+meaning_example: based on the verdict
+credits_raw: dc
+source_url: http://www.jgram.org:80/pages/viewOne.php?tagE=womotte
+archive_url: https://web.archive.org/web/20100729171958id_/http://www.jgram.org:80/pages/viewOne.php?tagE=womotte
+archive_timestamp: '20100729171958'
+retrieved_at: '2026-10-04T04:40:06+00:00'
+archive_digest: HIXVZHOD3L654IY2HKLOC3QJBEQEPANA
+response_sha256: 596cf9117a711e0bcae7f108493feead238b3ef52566851b0f9be7e3ff1d386a
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: '[名]＋をもって'
+    html: '[名]＋をもって'
+    credits_raw: deltafour
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: This is a formal expression.
+    html: This is a formal expression.
+    credits_raw: deltafour
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 7038
+    position: 0
+    japanese: 本日の営業は午後7時をもって終了いたします。
+    body_text: "本日の営業は午後7時をもって終了いたします。 \n\n\t\tThe store will close today \n\t\tat \n\t\tseven o'clock."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ本日の営業は午後7時をもって終了いたします。\">\n\t\t\t\t本日の営業は午後7時<strong>をもって</strong>終了いたします。<strong></strong></a> <br/>\n\t\tThe store will close today \n\t\t<strong>at </strong>\n\t\tseven o'clock."
+    credits_raw: deltafour
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7275
+    position: 1
+    japanese: 彼の迫ﾍをもってすれば、この問題は簡単に解決してもらいます。
+    body_text: "彼の迫ﾍをもってすれば、この問題は簡単に解決してもらいます。 \n\n\t\tBasing on his ability, he should easily solve this problem for us"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ彼の迫ﾍをもってすれば、この問題は簡単に解決してもらいます。\">\n\t\t\t\t彼の迫ﾍ<strong>をもって</strong>すれば、この問題は簡単に解決してもらいます。<strong></strong></a> <br/>\n\t\tBasing on his ability, he should easily solve this problem for us \n\t\t<strong> </strong>"
+    credits_raw: Dom
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: rad
+    text: 本日の営業は午後7時をもって終了いたします。
+    html: 本日の営業は午後7時をもって終了いたします。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "をもって [をもって] (womotte)\n    Meaning: based on \n    Example: based on the verdict\n    JLPT Level: 1\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>をもって [をもって] (womotte)</span><br/>    <span><b>Meaning</b>: based on </span><br/>    <b>Example</b>: <i>based on the verdict</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20100729171958'

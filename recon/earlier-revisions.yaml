@@ -1,0 +1,67 @@
+method: |-
+  Sequential earlier distinct revisions from the complete latest-label CDX inventory; fresh robots check, 5s spacing, 3-request bursts and 30s rests. Stop at the newest earlier clean original ID 663.
+latest_state_preserved: true
+source_probes:
+  - requested_capture:
+      timestamp: '20190720015020'
+      original: http://www.jgram.org/pages/viewOne.php?tagE=sou-2
+      mimetype: text/html
+      digest: LYW4PYBZBJS7Y4XO2KSOEDHOAMWZNRR4
+      label: sou-2
+      archive_url: https://web.archive.org/web/20190720015020id_/http://www.jgram.org/pages/viewOne.php?tagE=sou-2
+    actual_capture:
+      timestamp: '20190720015020'
+      original: http://www.jgram.org/pages/viewOne.php?tagE=sou-2
+      mimetype: text/html
+      digest: LYW4PYBZBJS7Y4XO2KSOEDHOAMWZNRR4
+      label: sou-2
+      archive_url: https://web.archive.org/web/20190720015020id_/http://www.jgram.org/pages/viewOne.php?tagE=sou-2
+    response_sha256: c6b4045741ebc9541ca73e90b2f747d2f472e4cf0e337bb49c483e94c820dc3d
+    retrieved_at: '2026-10-04T05:47:02+00:00'
+    status: not-grammar
+    reason: Archived JGram explicitly reports no entry for this label
+  - requested_capture:
+      timestamp: '20170905033905'
+      original: http://jgram.org/pages/viewOne.php?tagE=sou-2
+      mimetype: text/html
+      digest: KIQ3EJMQEVVJHQBY756ONTLLAGMJCWXA
+      label: sou-2
+      archive_url: https://web.archive.org/web/20170905033905id_/http://jgram.org/pages/viewOne.php?tagE=sou-2
+    actual_capture:
+      timestamp: '20170905033905'
+      original: http://jgram.org/pages/viewOne.php?tagE=sou-2
+      mimetype: text/html
+      digest: KIQ3EJMQEVVJHQBY756ONTLLAGMJCWXA
+      label: sou-2
+      archive_url: https://web.archive.org/web/20170905033905id_/http://jgram.org/pages/viewOne.php?tagE=sou-2
+    response_sha256: db7871fe583dc3974ff6a498595e345af5efb410b83d144aba7d36e0b41af5a9
+    retrieved_at: '2026-10-04T05:47:09+00:00'
+    status: not-grammar
+    reason: Archived JGram explicitly reports no entry for this label
+  - requested_capture:
+      timestamp: '20140327015231'
+      original: http://jgram.org/pages/viewOne.php?tagE=sou-2
+      mimetype: text/html
+      digest: YDEA4SVWHM52DN2BO3AZUJFXUVFPYJYM
+      label: sou-2
+      archive_url: https://web.archive.org/web/20140327015231id_/http://jgram.org/pages/viewOne.php?tagE=sou-2
+    actual_capture:
+      timestamp: '20140327015231'
+      original: http://jgram.org/pages/viewOne.php?tagE=sou-2
+      mimetype: text/html
+      digest: YDEA4SVWHM52DN2BO3AZUJFXUVFPYJYM
+      label: sou-2
+      archive_url: https://web.archive.org/web/20140327015231id_/http://jgram.org/pages/viewOne.php?tagE=sou-2
+    response_sha256: b054e5fae4a21c10525a244a7de0fd5a2599b9635062e11b43db99571ef5ff21
+    retrieved_at: '2026-10-04T05:47:39+00:00'
+    status: parsed
+    id: 663
+    warnings: []
+recovered_original_id: 663
+counts:
+  notes: 2
+  examples: 6
+  comments: 2
+  relationships: 5
+selection_limit: Newest clean earlier indexed observation for this label, not a complete revision history or final live content.
+provenance: docs/provenance.md

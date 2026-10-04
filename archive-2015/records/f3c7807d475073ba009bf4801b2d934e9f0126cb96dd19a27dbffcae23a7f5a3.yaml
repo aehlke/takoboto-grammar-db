@@ -1,0 +1,75 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1441
+label: numbers
+title_raw: (numbers)
+title: (numbers)
+reading: null
+romanized_label: numbers
+category: lesson
+jlpt_level_original: '0'
+meaning: Numbers and Counting
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=numbers
+archive_url: https://web.archive.org/web/20150224235812id_/http://www.jgram.org/pages/viewOne.php?tagE=numbers
+archive_timestamp: '20150224235812'
+retrieved_at: '2026-10-03T16:08:26+00:00'
+archive_digest: RA7QAD7IJDQEX2KGX2KV4E3IZHPDW22I
+response_sha256: 6af339a8558970eeed49f31e0d130c556c27dbb970cba7efc5a57c58a3f2293b
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: zeldaskitten
+    text: Don't forget about さんびゃく　for　三百
+    html: Don't forget about さんびゃく　for　三百
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(numbers)\n    Meaning: Numbers and Counting \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (numbers)</span><br/>    <span><b>Meaning</b>: Numbers and Counting </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: numbers
+    id: 1441
+    title_raw: (numbers)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=numbers
+    response_sha256: 6af339a8558970eeed49f31e0d130c556c27dbb970cba7efc5a57c58a3f2293b
+    section: Tutorial
+    section_html_sha256: 0ca14e12a543802ee60d21cadf3bc309ab8d402474073cd187a7936df6cef6d4
+    section_text_sha256: 625994fce6ec5f93d7f6f8bd27b47d7bbadf3cbd21db968fa3ccbf0864043e7d
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8765
+    source_byte_length: 35852
+    section_bytes_sha256: d495951d04217c2f92b17789fd22dcd19f2cc6b3152a173bc67deeaf25e293ba
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224235812'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 66830400
+  length: 13808
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: c76ed068c20badecbc630cb5aa82fbcaffb10379a1ca40bfbd0036a95ae641d2

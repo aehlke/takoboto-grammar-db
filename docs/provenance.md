@@ -136,45 +136,53 @@ each reason, original ID/label, exact reviewed title, source URL, timestamp
 and raw response hash. Automated reuse requires matching ID, label and title
 and still applies the source license check.
 
-Tutorial pages, especially material credited or copyrighted to Tae Kim, remain
-held for section and license review. A collection footer does not authorize
-relabeling separately licensed content. Inspected newer Tae Kim pages carry
-CC BY-NC-SA 2.0 notices. The scraper does not choose an older page to evade them.
-Held extraction bodies are local evidence and are excluded from Git, Markdown
-and the release database. The repository retains their source identities and
-review states.
+Exact capture-specific section review now excludes separately copyrighted
+Tae Kim Tutorial cells while preserving independently bounded JGram material.
+There are 84 partial latest-indexed pages and 63 partial backup pages. The
+[section manifest](../src/takoboto_grammar/section-reviews.yaml) records response,
+cell and raw-byte hashes, entry identity, credit evidence and omission reasons.
+Unknown or changed cells remain held. Original complete responses remain private
+and are not relabeled as CC BY-SA 2.0. See [section review](section-review.md).
 
-The backup extraction has visited every one of its 1,077 selected labels:
-704 included pages containing 705 entry observations (702 distinct IDs),
-310 verified exclusions and 63
-held tutorial pages, with zero failed retrievals. The included observations
-contain 844 notes, 5,537 examples, 3,849 comments and 912 references. They add
-80 IDs absent current Takoboto. Source audits pass for all included records.
-The newer supplement contains 63 verified observations; 1,347 latest indexed
-labels remain unresolved.
-That is different from claiming every label is eligible, every historical
-revision survives, or every 2020 detail page has been extracted. The complete
-Takoboto collection is captured; the latest Wayback detail supplement remains
-partial. Coverage reports and the recovery ledger state the remaining work
-explicitly. No gap-free final historical database is claimed.
+The dated backup has 766 included pages / 767 entry observations (764 distinct
+IDs), 311 verified exclusions and no active holds or failed retrievals. Its
+846 notes, 5,554 examples, 3,886 comments and 924 references are source-audited;
+141 IDs are absent from current Takoboto. The exact `newSiteFB` administration
+thread is excluded from both source sets after semantic review, correcting its
+misleading grammar category. The previous public release remains immutable.
 
-A final cross-source check found 21 current IDs without released backup
-observations. Targeted newer probes recovered 17. The remaining four current
-records are fully preserved in Takoboto, with these historical limitations:
+All 1,414 latest-indexed labels have saved attempt states: 890 parsed pages / 893
+entry observations (789 distinct IDs), 512 verified exclusions, 11 failed replays
+and one missing-license hold (`-oku`). The included latest pages contain 944
+notes, 6,085 examples, 4,356 comments and 1,007 references. Of their original IDs,
+149 are absent current Takoboto. Labels and overlapping captures are not unique
+grammar-entry or contribution counts. See [the recovery follow-up](recovery-followup.md).
 
-- ID 568 (`da`): a newer original page exists, but its Tutorial section is held
-  for source/license review, as is the backup observation.
-- ID 663 (`そう`): latest indexed responses for `そう` and the candidate alias
-  `sou-2` explicitly report no entry. This establishes those label responses,
-  not the absence of every earlier revision or differently named entry.
-- IDs 1795 (`~ageru`) and 1797 (`temade`): no exact-label matches in the full
-  Wayback inventory. A scan of all original backup URL variants also found no
-  matching label or safe numeric-ID detail URL. They remain historically unresolved.
+**Original ID 663 (そう) is recovered from the March 27, 2014 `sou-2` revision.**
+The 2017 and 2019 revisions inspected after the latest response also report no
+entry. The earlier record has two notes, six examples, two comments and five
+relationships. Its selected SHA-1 matches the indexed payload and its original
+source bytes reproduce the extraction. It is stored in `earlier-records/`, with
+an independent `earlier-states/` verification record. The full latest inventory,
+latest timestamp and latest exclusion state remain unchanged. The database key
+and reader notice distinguish an earlier revision from a latest observation.
+See [earlier-revision evidence](../recon/earlier-revisions.yaml).
 
-The newer `da` extraction is retained only in ignored `review-records/`;
-its committed state and recovery ledger retain its source URL and hash.
-Seventeen useful records were recovered by this check, without changing current
-records or substituting older content as the latest version.
+Current IDs 1795 (`~ageru`) and 1797 (`temade`) still lack historical observations.
+Their current Takoboto records are preserved. Full label/index checks, source
+example-ID comparisons and investigated mirrors/dumps did not establish matches.
+The old Takoboto mirror redirects to the current index. Yookoso's 2021 statement
+about a retained database is a concrete surviving-copy lead; its public article
+provides no download. An [unsent request](source-outreach.md) is available.
+No contact has been sent. See [source leads](../recon/source-leads.yaml).
+
+The held 2005 `-oku` page links `/pages/copyright.php`, but the bounded exact
+CDX query through 2005 returned no successful notice capture. It remains held;
+all eleven original example IDs also occur in licensed successor `oku` records,
+which does not prove every historical wording/comment unchanged. Failed replays
+remain distinct from explicit no-entry responses. An encoding correction matches
+such responses against exact original URL parameter bytes, without reconstructing
+characters lost in a decoded label. Unknown contribution dates remain null.
 
 ## Reproduction and access policy
 
@@ -215,3 +223,6 @@ parsed values, independent of the on-disk YAML formatting. SQLite still embeds
 complete JSON records. Both representations are checked against pre-migration
 values; changing file format does not create a new source observation.
 See [YAML format](yaml-format.md) and [migration QA](../recon/yaml-migration.yaml).
+
+Section-level tutorial decisions are documented in [section review](section-review.md).
+Private original-source backup and restoration are documented in [evidence preservation](evidence.md).

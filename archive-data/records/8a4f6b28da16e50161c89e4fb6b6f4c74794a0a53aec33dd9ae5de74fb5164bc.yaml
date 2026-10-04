@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1419
+label: subclause
+title_raw: (subclause)
+title: (subclause)
+reading: null
+romanized_label: subclause
+category: lesson
+jlpt_level_original: '0'
+meaning: Subordinate Clauses
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=subclause
+archive_url: https://web.archive.org/web/20200215031606id_/http://jgram.org:80/pages/viewOne.php?tagE=subclause
+archive_timestamp: '20200215031606'
+retrieved_at: '2026-10-04T04:23:46+00:00'
+archive_digest: VWY3ZF3ABCHYHGDLIPW4TWJWANUE6FM6
+response_sha256: eeb9d0424a47465b82469d5172788c14768219c70cf063b193fdc9196c332ba7
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(subclause)\n    Meaning: Subordinate Clauses \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (subclause)</span><br/>    <span><b>Meaning</b>: Subordinate Clauses </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: subclause
+    id: 1419
+    title_raw: (subclause)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=subclause
+    response_sha256: eeb9d0424a47465b82469d5172788c14768219c70cf063b193fdc9196c332ba7
+    section: Tutorial
+    section_html_sha256: b132f309c8469b68fafc929a11ccb20c4c5e1eb554a5bc9abc8dbb43d481e94c
+    section_text_sha256: 80e082db31a7ef27eac7d70ebaa626d6799cb305eada9d23bcfb60d5c524e4d2
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8038
+    source_byte_length: 10062
+    section_bytes_sha256: 32f4b3fd84081b08ceb23f5188c9e9f55078678c51e48993399e5777ff8a6e7e
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215031606'

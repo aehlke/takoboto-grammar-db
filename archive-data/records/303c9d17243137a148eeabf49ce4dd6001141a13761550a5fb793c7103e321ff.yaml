@@ -1,0 +1,74 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1545
+label: ~sobireru
+title_raw: 〜そびれる [〜そびれる] (~sobireru)
+title: 〜そびれる
+reading: 〜そびれる
+romanized_label: ~sobireru
+category: grammar
+jlpt_level_original: '1'
+meaning: Fail to ~
+meaning_example: I failed to return the money on time.
+credits_raw: blabby
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=~sobireru
+archive_url: https://web.archive.org/web/20060206165528id_/http://jgram.org:80/pages/viewOne.php?tagE=~sobireru
+archive_timestamp: '20060206165528'
+retrieved_at: '2026-10-04T04:45:24+00:00'
+archive_digest: QN44FMANC5FNOZAU4WTNWQBRTFZ246WE
+response_sha256: bc9e054fd093fff1b6dbdf0661af12aa5e257b8a8341efea74b0bb509a022d3d
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: Verb(〜ますform) + そびれる。
+    html: Verb(〜ますform) + そびれる。
+    credits_raw: blabby
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 5741
+    position: 0
+    japanese: 借りたお金を返しそびれた。
+    body_text: "借りたお金を返しそびれた。 \n\r\n\t\tI \r\n\t\tfailed to \r\n\t\treturn the money I borrowed."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ借りたお金を返しそびれた。\">\n借りたお金を返し<strong>そびれた</strong>。<strong></strong></a> <br/>\r\n\t\tI \r\n\t\t<strong>failed to </strong>\r\n\t\treturn the money I borrowed."
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5742
+    position: 1
+    japanese: 飲みすぎて終電に乗りそびれた。
+    body_text: "飲みすぎて終電に乗りそびれた。 \n\r\n\t\tI drank too much and \r\n\t\tfailed to \r\n\t\tcatch the last train."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ飲みすぎて終電に乗りそびれた。\">\n飲みすぎて終電に乗り<strong>そびれた</strong>。<strong></strong></a> <br/>\r\n\t\tI drank too much and \r\n\t\t<strong>failed to </strong>\r\n\t\tcatch the last train."
+    credits_raw: blabby
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: blabby
+    text: "This grammar is the same as 〜損なう。\n\r\n返し損なう - Fail to return (it).\n\r\nやり損なう - Mess up."
+    html: "This grammar is the same as 〜損なう。<br/>\r\n返し損なう - Fail to return (it).<br/>\r\nやり損なう - Mess up."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "〜そびれる [〜そびれる] (~sobireru)\n    Meaning: Fail to ~ \n    Example: I failed to return the money on time.\n    JLPT Level: 1\n    Category: grammar\n    Author: blabby"
+    html: |-
+      <span>〜そびれる [〜そびれる] (~sobireru)</span><br/>    <span><b>Meaning</b>: Fail to ~ </span><br/>    <b>Example</b>: <i>I failed to return the money on time.</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>blabby</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20060206165528'

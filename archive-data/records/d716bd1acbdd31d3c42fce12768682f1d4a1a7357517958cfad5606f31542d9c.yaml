@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1433
+label: HypothesizingAndConcluding
+title_raw: '- (HypothesizingAndConcluding)'
+title: '- (HypothesizingAndConcluding)'
+reading: null
+romanized_label: HypothesizingAndConcluding
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=HypothesizingAndConcluding
+archive_url: https://web.archive.org/web/20051226014337id_/http://jgram.org:80/pages/viewOne.php?tagE=HypothesizingAndConcluding
+archive_timestamp: '20051226014337'
+retrieved_at: '2026-10-04T02:39:06+00:00'
+archive_digest: RQCSGPRLI5PAN74YPF6XAGMYQJHDRT42
+response_sha256: ef4590abb0d76d3d56c34f11ffbca5140d741323cc836cc7971d72dc23972ad1
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (HypothesizingAndConcluding)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (HypothesizingAndConcluding)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: HypothesizingAndConcluding
+    id: 1433
+    title_raw: '- (HypothesizingAndConcluding)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=HypothesizingAndConcluding
+    response_sha256: ef4590abb0d76d3d56c34f11ffbca5140d741323cc836cc7971d72dc23972ad1
+    section: Tutorial
+    section_html_sha256: 241f1b8603606f157070476c5e7117796a837fe8cf8b8f9c65338327a1be021a
+    section_text_sha256: 9e9ea284846d172be5f4eaf051abd5493c9b7947c89b57defe394e12b09f3fbd
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8077
+    source_byte_length: 9412
+    section_bytes_sha256: d535b3dc5d3a95bb63552ea16ca60851a42e00aaed097ef15b6a9846755d4254
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226014337'

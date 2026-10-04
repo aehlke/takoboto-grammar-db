@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1412
+label: Adjectives
+title_raw: '- (Adjectives)'
+title: '- (Adjectives)'
+reading: null
+romanized_label: Adjectives
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=Adjectives
+archive_url: https://web.archive.org/web/20051226015908id_/http://jgram.org:80/pages/viewOne.php?tagE=Adjectives
+archive_timestamp: '20051226015908'
+retrieved_at: '2026-10-04T02:31:45+00:00'
+archive_digest: NFQ22CFYK5WLHROY4KEKG7JPSMTYDXJK
+response_sha256: 4fba3320b24fd267692ea07d8249b1b36509607e2dc8314d8b269d4eae2587b7
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (Adjectives)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (Adjectives)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: Adjectives
+    id: 1412
+    title_raw: '- (Adjectives)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=Adjectives
+    response_sha256: 4fba3320b24fd267692ea07d8249b1b36509607e2dc8314d8b269d4eae2587b7
+    section: Tutorial
+    section_html_sha256: a639b4706f486aaf2042744193ccb276ef94f7c7913e22a659913187e9407314
+    section_text_sha256: 9dc3fea1598bec8e52e5d0e45c2f07dd9c77dc5219d788e930b60223f257ccb2
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8041
+    source_byte_length: 13989
+    section_bytes_sha256: ae6f54608da1f0cb2dc7637310f3c20fd847040538e11f54ca33870f30587ef0
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226015908'

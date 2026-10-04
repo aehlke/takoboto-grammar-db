@@ -1,0 +1,87 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1462
+label: katakana
+title_raw: カタカナ (katakana)
+title: カタカナ (katakana)
+reading: null
+romanized_label: katakana
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: null
+credits_raw: taekim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=katakana
+archive_url: https://web.archive.org/web/20200215021716id_/http://jgram.org:80/pages/viewOne.php?tagE=katakana
+archive_timestamp: '20200215021716'
+retrieved_at: '2026-10-04T03:30:15+00:00'
+archive_digest: ZCDQP73APBXFABPZK4VLT6JHLIJBJM3C
+response_sha256: f4f31708720bdf67d39892bdddfc542d46f91b192a50982cf064dc9414701641
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 6509
+    position: 0
+    japanese: So, do you want to go to McDonalds？
+    body_text: "So, do you want to go to McDonalds？\r \n\n\t\tさあ、マックドナルドにいきませんか？"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJSo, do you want to go to McDonalds？\">\n\t\t\t\tSo, do you want to go to McDonalds？\r<strong></strong><strong></strong></a> <br/>\n\t\tさあ、マックドナルドにいきませんか？ \n\t\t<strong> </strong>"
+    credits_raw: feriokun
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6510
+    position: 1
+    japanese: My name is Cesar.
+    body_text: "My name is Cesar. \n\n\t\t私の名前はセサルです。"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJMy name is Cesar.\">\n\t\t\t\tMy name is Cesar.<strong></strong><strong></strong></a> <br/>\n\t\t私の名前はセサルです。 \n\t\t<strong> </strong>"
+    credits_raw: feriokun
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: cheating カニング (cunning) is カンニング in Japanese.
+    html: cheating カニング (cunning) is カンニング in Japanese.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "カタカナ (katakana)\n    Meaning: - \n    JLPT Level: 0\n    Category: lesson\n    Author: taekim"
+    html: |-
+      <span>カタカナ (katakana)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>taekim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: katakana
+    id: 1462
+    title_raw: カタカナ (katakana)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=katakana
+    response_sha256: f4f31708720bdf67d39892bdddfc542d46f91b192a50982cf064dc9414701641
+    section: Tutorial
+    section_html_sha256: c59f673838f00355a56cc1acfeb3b0ec1ecbd2a1dd6e5b1b067e33e9300b7b49
+    section_text_sha256: 5c3404a9a86348ac3c9dfdc503dc2de019e7131d2568ffc0c9be3a65506f675f
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8031
+    source_byte_length: 10389
+    section_bytes_sha256: ce68f74d7b1e6b179425493d86677c1ac68be1b1425019e9a0c0838f55f71f6f
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215021716'

@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1459
+label: verbs
+title_raw: (verbs)
+title: (verbs)
+reading: null
+romanized_label: verbs
+category: lesson
+jlpt_level_original: '0'
+meaning: Verb Basics
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=verbs
+archive_url: https://web.archive.org/web/20200215031857id_/http://jgram.org:80/pages/viewOne.php?tagE=verbs
+archive_timestamp: '20200215031857'
+retrieved_at: '2026-10-04T04:37:24+00:00'
+archive_digest: PBA4QU2CUFT7LWJHGVLFQYYZ7WYUIYDF
+response_sha256: d7eb7637a7e7c6dbcd3d5765e84e0f789c69692c8cdf76dfce8341f32e2a29c4
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(verbs)\n    Meaning: Verb Basics \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (verbs)</span><br/>    <span><b>Meaning</b>: Verb Basics </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: verbs
+    id: 1459
+    title_raw: (verbs)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=verbs
+    response_sha256: d7eb7637a7e7c6dbcd3d5765e84e0f789c69692c8cdf76dfce8341f32e2a29c4
+    section: Tutorial
+    section_html_sha256: d7c7d3a00acefe10577e8dd8bfcba02b0e9405cf549e2e55f83782ed9b047e2b
+    section_text_sha256: 8f291c6f73a54fbdfc3bd818a40461c379655904ac24d3a2373ade615cf7f02c
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8046
+    source_byte_length: 8200
+    section_bytes_sha256: 52f1454a2dba2bb2f37b338a6a1724a0badebe20a0479dc480620b4e5182d6c4
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215031857'

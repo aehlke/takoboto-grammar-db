@@ -1,0 +1,95 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1462
+label: katakana
+title_raw: カタカナ (katakana)
+title: カタカナ (katakana)
+reading: null
+romanized_label: katakana
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: null
+credits_raw: taekim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=katakana
+archive_url: https://web.archive.org/web/20150224231109id_/http://www.jgram.org/pages/viewOne.php?tagE=katakana
+archive_timestamp: '20150224231109'
+retrieved_at: '2026-10-03T16:04:21+00:00'
+archive_digest: 65MPO6TU77SFP5UXM4TBPZHY425TD5PH
+response_sha256: 6e5afb8783f6e5fb7afc8748d761a3d87b08cc90fa6bc5870c6b7c64f1b54fd0
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 6509
+    position: 0
+    japanese: So, do you want to go to McDonalds？
+    body_text: "So, do you want to go to McDonalds？\r \n\n\t\tさあ、マックドナルドにいきませんか？"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJSo, do you want to go to McDonalds？\">\n\t\t\t\tSo, do you want to go to McDonalds？\r<strong></strong><strong></strong></a> <br/>\n\t\tさあ、マックドナルドにいきませんか？ \n\t\t<strong> </strong>"
+    credits_raw: feriokun
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6510
+    position: 1
+    japanese: My name is Cesar.
+    body_text: "My name is Cesar. \n\n\t\t私の名前はセサルです。"
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJMy name is Cesar.\">\n\t\t\t\tMy name is Cesar.<strong></strong><strong></strong></a> <br/>\n\t\t私の名前はセサルです。 \n\t\t<strong> </strong>"
+    credits_raw: feriokun
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: cheating カニング (cunning) is カンニング in Japanese.
+    html: cheating カニング (cunning) is カンニング in Japanese.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "カタカナ (katakana)\n    Meaning: - \n    JLPT Level: 0\n    Category: lesson\n    Author: taekim"
+    html: |-
+      <span>カタカナ (katakana)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>taekim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: katakana
+    id: 1462
+    title_raw: カタカナ (katakana)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=katakana
+    response_sha256: 6e5afb8783f6e5fb7afc8748d761a3d87b08cc90fa6bc5870c6b7c64f1b54fd0
+    section: Tutorial
+    section_html_sha256: 02ea2c827f4ad438e4431e133ad62b3a6c73467b547cda074b72fe780837f159
+    section_text_sha256: e7b15e85da12550dd7bef33c1b7fc9595bebbb2d00b04e5ee6c08ff19b6b84ea
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8773
+    source_byte_length: 11054
+    section_bytes_sha256: e75571db6673eaa650ab993abd44e0d753afbd73fe25e18714ee684855f31109
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224231109'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 18685137
+  length: 9076
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 6beb7b1792de5369bf59b1095a1b3469c6196f91d25235766b9f883bc9c664c5

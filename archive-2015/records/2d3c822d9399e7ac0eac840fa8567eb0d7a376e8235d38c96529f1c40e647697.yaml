@@ -1,0 +1,82 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1577
+label: covered
+title_raw: Covered by something [だらけ、まみれ、ずくめ] (covered)
+title: Covered by something
+reading: だらけ、まみれ、ずくめ
+romanized_label: covered
+category: lesson
+jlpt_level_original: '2'
+meaning: Covered by something （だらけ、まみれ、ずくめ）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=covered
+archive_url: https://web.archive.org/web/20150224230936id_/http://www.jgram.org/pages/viewOne.php?tagE=covered
+archive_timestamp: '20150224230936'
+retrieved_at: '2026-10-03T16:04:17+00:00'
+archive_digest: N77UBFLIP4BO52QOZSFEYLV2EHTHLKKQ
+response_sha256: 030d7cfe8696dd84cbf02914b66d78da9e5510cec62a21d875b062c10a3dddfb
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "Some examles are not correct.\n\r\n（３）　この埃だれけのテレビをちゃんと拭いてくれない？ →　この埃だらけ or 埃まみれ…。\n\n\n\r\nnews is ニュース. Not ニューズ"
+    html: "Some examles are not correct.<br/>\r\n（３）　この埃だれけのテレビをちゃんと拭いてくれない？ →　この埃だらけ or 埃まみれ…。<br/>\n<br/>\r\nnews is ニュース. Not ニューズ"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: lolol
+    text: ''
+    html: ''
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "Covered by something [だらけ、まみれ、ずくめ] (covered)\n    Meaning: Covered by something （だらけ、まみれ、ずくめ） \n    JLPT Level: 2\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Covered by something [だらけ、まみれ、ずくめ] (covered)</span><br/>    <span><b>Meaning</b>: Covered by something （だらけ、まみれ、ずくめ） </span><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: covered
+    id: 1577
+    title_raw: Covered by something [だらけ、まみれ、ずくめ] (covered)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=covered
+    response_sha256: 030d7cfe8696dd84cbf02914b66d78da9e5510cec62a21d875b062c10a3dddfb
+    section: Tutorial
+    section_html_sha256: 047d35a1cc35bddfa52834820e67e22b4a3da8fd49f37b1648d96ea4c9a6a809
+    section_text_sha256: 97569dc907a130713f424aa6b6318b6ce5b5a4ca8155409ee08c178b3e67e310
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8837
+    source_byte_length: 6276
+    section_bytes_sha256: 27072326c21dd70a50d86586d0f83cc188df603323217602d3d23f7af8c35cb1
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224230936'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 17408076
+  length: 7432
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: dda4426307267849283aa7697145b706a730288d3731c7bc5405cd8afef99eb4

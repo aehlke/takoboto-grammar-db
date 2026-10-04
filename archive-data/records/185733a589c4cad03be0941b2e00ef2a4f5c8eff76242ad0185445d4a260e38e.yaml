@@ -1,0 +1,150 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 659
+label: ni-2
+title_raw: 〜に [〜に] (ni-2)
+title: 〜に
+reading: 〜に
+romanized_label: ni-2
+category: grammar
+jlpt_level_original: '4'
+meaning: to, from (indirect object marker)
+meaning_example: I was given this by my mother.
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=ni-2
+archive_url: https://web.archive.org/web/20200215023839id_/http://jgram.org:80/pages/viewOne.php?tagE=ni-2
+archive_timestamp: '20200215023839'
+retrieved_at: '2026-10-04T01:15:11+00:00'
+archive_digest: HDUVY2VFGTSPJEZW5AFMVWGPX32FBSIW
+response_sha256: 788b61ef55b03ae7544e1c03ce8f90635f05a8f88a604faa46447f5c47f80256
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 697
+    position: 0
+    japanese: これは母に貰いました。 [kore ha haha ni moraimashita. ]
+    body_text: "これは母に貰いました。 [kore ha haha ni moraimashita. ] \n\n\t\tI got this \n\t\tfrom \n\t\tmy mother."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこれは母に貰いました。 [kore ha haha \">\n\t\t\t\tこれは母<strong>に</strong>貰いました。 [kore ha haha <strong>ni </strong>moraimashita. ]</a> <br/>\n\t\tI got this \n\t\t<strong>from </strong>\n\t\tmy mother."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4899
+    position: 1
+    japanese: そこに着いたら私に教えてください。
+    body_text: "そこに着いたら私に教えてください。 \n\n\t\tPlease let me \n\t\tknow \n\t\twhen we get there."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJそこに着いたら私に教えてください。\">\n\t\t\t\tそこに着いたら私<strong>に</strong>教えてください。<strong></strong></a> <br/>\n\t\tPlease let me \n\t\t<strong>know </strong>\n\t\twhen we get there."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4900
+    position: 2
+    japanese: 私はともだちに電話をします。
+    body_text: "私はともだちに電話をします。 \n\n\t\tI will \n\t\tcall \n\t\ta friend."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私はともだちに電話をします。\">\n\t\t\t\t私はともだち<strong>に</strong>電話をします。<strong></strong></a> <br/>\n\t\tI will \n\t\t<strong>call </strong>\n\t\ta friend."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4901
+    position: 3
+    japanese: 私はあなたにりんごをあげる。
+    body_text: "私はあなたにりんごをあげる。 \n\n\t\tI will give an apple \n\t\tto \n\t\tyou."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私はあなたにりんごをあげる。\">\n\t\t\t\t私はあなた<strong>に</strong>りんごをあげる。<strong></strong></a> <br/>\n\t\tI will give an apple \n\t\t<strong>to </strong>\n\t\tyou."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4902
+    position: 4
+    japanese: 彼は先生にしかられた。
+    body_text: "彼は先生にしかられた。 \n\n\t\tHe got scolded \n\t\tby \n\t\tthe teacher."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は先生にしかられた。\">\n\t\t\t\t彼は先生<strong>に</strong>しかられた。<strong></strong></a> <br/>\n\t\tHe got scolded \n\t\t<strong>by </strong>\n\t\tthe teacher."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Remind me to check up on 貰う etc. with all that in-group / out-group etc stuff.
+    html: Remind me to check up on 貰う etc. with all that in-group / out-group etc stuff.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Miki
+    text: "に marks the indirect object of the verb\n\r\nreceiver of the action"
+    html: "に marks the indirect object of the verb<br/>\r\nreceiver of the action<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Miki
+    text: |-
+      Some E translations don't have right words just for に and I put verb instead. Please change English if you have better translation.
+    html: |-
+      Some E translations don't have right words just for に and I put verb instead. Please change English if you have better translation.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: ck1984
+    text: "there is a mistake in the grammar in #4899\n\r\nshould be something like \"please let me know when you get there.\""
+    html: "there is a mistake in the grammar in <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=ni-2#4899\">#4899</a></b><br/>\r\nshould be something like \"please let me know when you get there.\""
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: skysongz
+    text: "\"に marks the indirect object of the verb\n\r\nreceiver of the action\"\n\n\n\r\nthis causes some confusion with ex #4902 since 'he' is the one receiving the scolding?"
+    html: "\"に marks the indirect object of the verb<br/>\r\nreceiver of the action\"<br/>\n<br/>\r\nthis causes some confusion with ex <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=ni-2#4902\">#4902</a></b> since 'he' is the one receiving the scolding?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Saralynne
+    text: |-
+      I was a bit confused about this as well, though thinking of it as marking an indirect object helps so much-- all of the books and things have explained it in a way that connects it to its first meaning...
+    html: |-
+      I was a bit confused about this as well, though thinking of it as marking an indirect object helps so much-- all of the books and things have explained it in a way that connects it to its first meaning...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: yari
+    text: "Isn't the verb in #4902 in passive form? If that's the case, then に denotes the agent (I think that's the correct English term) of the action. In other words, the one acting/subject.\n\n\n\r\nThat's why the English translation is in passive form also. I think."
+    html: "Isn't the verb in <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=ni-2#4902\">#4902</a></b> in passive form? If that's the case, then に denotes the agent (I think that's the correct English term) of the action. In other words, the one acting/subject.<br/>\n<br/>\r\nThat's why the English translation is in passive form also. I think."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: ni
+    label: ni
+    annotation_text: ni    (Note に use for object/time location vs. indirect object marker.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=ni">ni</a>    (Note に use for object/time location vs. indirect object marker.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: "〜に [〜に] (ni-2)\n    Meaning: to, from (indirect object marker) \n    Example: I was given this by my mother.\n    JLPT Level: 4\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>〜に [〜に] (ni-2)</span><br/>    <span><b>Meaning</b>: to, from (indirect object marker) </span><br/>    <b>Example</b>: <i>I was given this by my mother.</i><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215023839'

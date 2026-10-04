@@ -1,0 +1,70 @@
+status: recovery-verified
+previous_release: v0.5.0
+provenance: docs/recovery-followup.md
+preservation_comparison:
+  newer:
+    previous_pages: 63
+    retained_unchanged: 63
+    intentional_scope_exclusions: []
+  backup:
+    previous_pages: 704
+    retained_unchanged: 703
+    intentional_scope_exclusions:
+      - newSiteFB
+scope_review_manifest: src/takoboto_grammar/grammar-membership.yaml
+section_review_manifest: src/takoboto_grammar/section-reviews.yaml
+source_leads: recon/source-leads.yaml
+yaml_read_measurement:
+  records: 643
+  before_seconds: 9.343
+  after_seconds: 1.748
+  python: 3.14.6
+  method: |-
+    read_records(data, for_export=True); same captured records and validation; use safe C loader when available, with Python fallback
+  limitation: Local timings; not a portable performance guarantee.
+evidence_roundtrip:
+  private_bundle_sha256: 226693f00e93168d946ce1d381823c6ab5608d62bec78ea9a93be3b8ca5de798
+  files: 13465
+  uncompressed_bytes: 197136605
+  all_hashes_restored: true
+  restored_current_audit: true
+  restored_latest_and_earlier_audit: true
+  restored_backup_audit: true
+  source_requests: 0
+  distribution: Private evidence only; never a public release artifact.
+timestamps: Unknown contribution dates remain null; capture, retrieval and RSS publication times remain distinct.
+release: v0.6.0
+latest_label_states:
+  indexed: 1414
+  attempted: 1414
+  parsed_pages: 890
+  entry_observations: 893
+  excluded: 512
+  failed: 11
+  review_required: 1
+  unattempted: 0
+earlier_revision:
+  original_id: 663
+  capture_timestamp: '20140327015231'
+  evidence: recon/earlier-revisions.yaml
+  latest_state_preserved: true
+remaining_current_ids_without_historical_observation:
+  - 1795
+  - 1797
+tests_passed: 166
+source_audits:
+  current: data/coverage-report.json
+  latest: archive-data/coverage-report.json
+  backup: archive-2015/coverage-report.json
+normalized_relations_verified: 19
+unaffected_relations_unchanged: 13
+partial_source_observations:
+  latest: 84
+  backup: 63
+membership_metadata:
+  format: eligible_ids_sha256 + eligible_ids_count
+  meaning: SHA256 of canonical JSON for sorted distinct IDs; eliminates repeated ID lists without changing record verification.
+  canonical_grammar_records_unchanged: true
+  compacted_states: 2491
+  repeated_id_values_removed: 1601713
+  total_current_state_bytes: 2537862

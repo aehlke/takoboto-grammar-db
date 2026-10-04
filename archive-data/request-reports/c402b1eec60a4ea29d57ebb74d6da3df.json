@@ -1,0 +1,43 @@
+{
+  "run_id": "c402b1eec60a4ea29d57ebb74d6da3df",
+  "finished_at": "2026-10-04T05:47:40+00:00",
+  "request_interval_seconds": 5,
+  "burst_size": 3,
+  "burst_pause_seconds": 30,
+  "concurrency": 1,
+  "attempt_count": 4,
+  "attempts": [
+    {
+      "url": "https://web.archive.org/robots.txt",
+      "started_at": "2026-10-04T05:46:56.539+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.25656
+    },
+    {
+      "url": "https://web.archive.org/web/20190720015020id_/http://www.jgram.org/pages/viewOne.php?tagE=sou-2",
+      "started_at": "2026-10-04T05:47:01.544+00:00",
+      "status": 200,
+      "bytes_read": 7623,
+      "error_type": null,
+      "duration_seconds": 0.544235
+    },
+    {
+      "url": "https://web.archive.org/web/20170905033905id_/http://jgram.org/pages/viewOne.php?tagE=sou-2",
+      "started_at": "2026-10-04T05:47:06.549+00:00",
+      "status": 200,
+      "bytes_read": 7601,
+      "error_type": null,
+      "duration_seconds": 2.825371
+    },
+    {
+      "url": "https://web.archive.org/web/20140327015231id_/http://jgram.org/pages/viewOne.php?tagE=sou-2",
+      "started_at": "2026-10-04T05:47:39.380+00:00",
+      "status": 200,
+      "bytes_read": 18064,
+      "error_type": null,
+      "duration_seconds": 0.5304
+    }
+  ]
+}

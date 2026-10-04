@@ -1,0 +1,83 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1454
+label: try
+title_raw: (try)
+title: (try)
+reading: null
+romanized_label: try
+category: lesson
+jlpt_level_original: '0'
+meaning: Trying something out or attempting to do something　（〜てみる、volitional+とする）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=try
+archive_url: https://web.archive.org/web/20200215030007id_/http://jgram.org:80/pages/viewOne.php?tagE=try
+archive_timestamp: '20200215030007'
+retrieved_at: '2026-10-04T04:34:42+00:00'
+archive_digest: RF4CXMCKZPDDJBJQGH63W5AIJD55L4OX
+response_sha256: 620eba2fe6081d3fbf23ca55384805e548dd85f33a5dee307ad67a3cc0c6e1de
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: KWhazit
+    text: |-
+      Just out of curiosity... what's Yoda's quote in the Japanese translation of Star Wars? I would guess something like: やる、それともやらない。やろうとする事はない。
+    html: |-
+      Just out of curiosity... what's Yoda's quote in the Japanese translation of Star Wars? I would guess something like: やる、それともやらない。やろうとする事はない。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: rubyhatchet
+    text: "Found this example in a JLPT-2 prep book:\n\r\n「壊れてしまったものは、いまさら嘆いてみたところで、どうしようもない。」\n\r\nHaving trouble understanding the function of the 「みた」 in this example..."
+    html: "Found this example in a JLPT-2 prep book:<br/>\r\n「壊れてしまったものは、いまさら嘆いてみたところで、どうしようもない。」<br/>\r\nHaving trouble understanding the function of the 「みた」 in this example..."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: tigert
+    text: "hey rubyhatchet,\n\n\n\r\nthe 「みた」is the past tense plain for of みる as in してみる　to try. \n\n\n\r\nAs for the thing I broke, even though I tried to lament (my mistake) at this point it cannot be helped"
+    html: "hey rubyhatchet,<br/>\n<br/>\r\nthe 「みた」is the past tense plain for of みる as in してみる　to try. <br/>\n<br/>\r\nAs for the thing I broke, even though I tried to lament (my mistake) at this point it cannot be helped"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(try)\n    Meaning: Trying something out or attempting to do something　（〜てみる、volitional+とする） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (try)</span><br/>    <span><b>Meaning</b>: Trying something out or attempting to do something　（〜てみる、volitional+とする） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: try
+    id: 1454
+    title_raw: (try)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=try
+    response_sha256: 620eba2fe6081d3fbf23ca55384805e548dd85f33a5dee307ad67a3cc0c6e1de
+    section: Tutorial
+    section_html_sha256: 7fa58a3da97f69d5f6c2466ae9dece4857fa66447c73257b604fb69a2374b13c
+    section_text_sha256: be4184c70bcaf508cdb1b6efdec2b8932dd9a05d50b8c5581215819416f7d415
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8078
+    source_byte_length: 8342
+    section_bytes_sha256: d64da838e0e3e8e5d131aa1ce2fd8d7980ab86efc99ab991e0d8de0452dcb280
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215030007'

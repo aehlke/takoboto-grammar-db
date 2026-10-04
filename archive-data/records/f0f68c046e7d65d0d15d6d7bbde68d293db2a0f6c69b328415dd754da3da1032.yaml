@@ -1,0 +1,65 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1769
+label: koto ni suru
+title_raw: ことにする [ことになる] (koto ni suru)
+title: ことにする
+reading: ことになる
+romanized_label: koto ni suru
+category: grammar
+jlpt_level_original: '0'
+meaning: (I/you/he/she/we/they) has/have decided that...
+meaning_example: I have decided that I'll do the test.
+credits_raw: ドラコ1416
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=koto+ni+suru
+archive_url: https://web.archive.org/web/20200215030913id_/http://jgram.org:80/pages/viewOne.php?tagE=koto+ni+suru
+archive_timestamp: '20200215030913'
+retrieved_at: '2026-10-04T00:49:28+00:00'
+archive_digest: J636OV2I7VNZT3IKBS7WNRALKQES5JCA
+response_sha256: be0948a96ca3b6eb6e1ab7487473ac4407b16d07cb44136aca24b9eee23dab90
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 8544
+    position: 0
+    japanese: たばこを止めることにしました。
+    body_text: "たばこを止めることにしました。 \n\n\t\tI have decided to quit smoking."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJたばこを止めることにしました。\">\n\t\t\t\tたばこを止めることにしました。<strong></strong><strong></strong></a> <br/>\n\t\tI have decided to quit smoking. \n\t\t<strong> </strong>"
+    credits_raw: ドラコ1416
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: monol0g
+    text: http://jgram.org/pages/viewOne.php?tagE=kotonisuru  aren't they the same?
+    html: |-
+      <a href="http://jgram.org/pages/viewOne.php?tagE=kotonisuru">http://jgram.org/pages/viewOne.php?tagE=kotonisuru</a>  aren't they the same?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: karekano
+    text: Yes, they are the same, but I can't change it... maybe some 'moderator' could take a look...
+    html: Yes, they are the same, but I can't change it... maybe some 'moderator' could take a look...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "ことにする [ことになる] (koto ni suru)\n    Meaning: (I/you/he/she/we/they) has/have decided that... \n    Example: I have decided that I'll do the test.\n    JLPT Level: 0\n    Category: grammar\n    Author: ドラコ1416"
+    html: |-
+      <span>ことにする [ことになる] (koto ni suru)</span><br/>    <span><b>Meaning</b>: (I/you/he/she/we/they) has/have decided that... </span><br/>    <b>Example</b>: <i>I have decided that I'll do the test.</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>ドラコ1416</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215030913'

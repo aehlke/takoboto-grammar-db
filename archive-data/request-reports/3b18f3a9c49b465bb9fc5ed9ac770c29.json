@@ -1,0 +1,787 @@
+{
+  "run_id": "3b18f3a9c49b465bb9fc5ed9ac770c29",
+  "finished_at": "2026-10-04T05:45:06+00:00",
+  "request_interval_seconds": 5,
+  "burst_size": 3,
+  "burst_pause_seconds": 30,
+  "concurrency": 1,
+  "attempt_count": 97,
+  "attempts": [
+    {
+      "url": "https://web.archive.org/robots.txt",
+      "started_at": "2026-10-04T05:23:32.741+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.288591
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011701id_/http://jgram.org/pages/viewOne.php?tagE=%C3%A7%C2%B8%C5%9F%C4%8F%CB%9D%C5%BE%C3%A7%C2%B8%C5%9F%C4%8F%CB%9D%C5%BE",
+      "started_at": "2026-10-04T05:23:37.742+00:00",
+      "status": 200,
+      "bytes_read": 7739,
+      "error_type": null,
+      "duration_seconds": 0.750607
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011700id_/http://jgram.org/pages/viewOne.php?tagE=%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BE%20no%20you%20na",
+      "started_at": "2026-10-04T05:23:42.747+00:00",
+      "status": 200,
+      "bytes_read": 7735,
+      "error_type": null,
+      "duration_seconds": 1.052739
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011710id_/http://jgram.org/pages/viewOne.php?tagE=%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEhoudai",
+      "started_at": "2026-10-04T05:24:13.811+00:00",
+      "status": 200,
+      "bytes_read": 7727,
+      "error_type": null,
+      "duration_seconds": 0.352718
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011705id_/http://jgram.org/pages/viewOne.php?tagE=%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEnaki",
+      "started_at": "2026-10-04T05:24:18.809+00:00",
+      "status": 200,
+      "bytes_read": 7723,
+      "error_type": null,
+      "duration_seconds": 0.30916
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011702id_/http://jgram.org/pages/viewOne.php?tagE=%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEnaosu",
+      "started_at": "2026-10-04T05:24:23.814+00:00",
+      "status": 200,
+      "bytes_read": 7725,
+      "error_type": null,
+      "duration_seconds": 0.308413
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011538id_/http://jgram.org/pages/viewOne.php?tagE=%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEndesu",
+      "started_at": "2026-10-04T05:24:54.128+00:00",
+      "status": 200,
+      "bytes_read": 7725,
+      "error_type": null,
+      "duration_seconds": 0.345256
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011711id_/http://jgram.org/pages/viewOne.php?tagE=%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEnimotoduite",
+      "started_at": "2026-10-04T05:24:59.130+00:00",
+      "status": 200,
+      "bytes_read": 7737,
+      "error_type": null,
+      "duration_seconds": 0.274745
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011708id_/http://jgram.org/pages/viewOne.php?tagE=%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEtemoiidesuka",
+      "started_at": "2026-10-04T05:25:04.134+00:00",
+      "status": 200,
+      "bytes_read": 7739,
+      "error_type": null,
+      "duration_seconds": 0.513439
+    },
+    {
+      "url": "https://web.archive.org/web/20150225012422id_/http://jgram.org/pages/viewOne.php?tagE=%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEtokoro",
+      "started_at": "2026-10-04T05:25:34.650+00:00",
+      "status": 200,
+      "bytes_read": 7727,
+      "error_type": null,
+      "duration_seconds": 0.248923
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011536id_/http://jgram.org/pages/viewOne.php?tagE=%C3%A7%C5%9E%C5%9B%C4%8F%CB%9D%C5%BEtokoro%20(da)",
+      "started_at": "2026-10-04T05:25:39.655+00:00",
+      "status": 200,
+      "bytes_read": 7737,
+      "error_type": null,
+      "duration_seconds": 0.255065
+    },
+    {
+      "url": "https://web.archive.org/web/20150225004511id_/http://jgram.org/pages/viewOne.php?tagE=%E2%80%BE%20no%20you%20na",
+      "started_at": "2026-10-04T05:25:44.660+00:00",
+      "status": 200,
+      "bytes_read": 7717,
+      "error_type": null,
+      "duration_seconds": 0.206832
+    },
+    {
+      "url": "https://web.archive.org/web/20150224234838id_/http://jgram.org/pages/viewOne.php?tagE=%E2%80%BEhoudai",
+      "started_at": "2026-10-04T05:26:14.872+00:00",
+      "status": 200,
+      "bytes_read": 7709,
+      "error_type": null,
+      "duration_seconds": 0.289046
+    },
+    {
+      "url": "https://web.archive.org/web/20150224234252id_/http://jgram.org/pages/viewOne.php?tagE=%E2%80%BEnaki",
+      "started_at": "2026-10-04T05:26:19.877+00:00",
+      "status": 200,
+      "bytes_read": 7705,
+      "error_type": null,
+      "duration_seconds": 0.267192
+    },
+    {
+      "url": "https://web.archive.org/web/20150224234251id_/http://jgram.org/pages/viewOne.php?tagE=%E2%80%BEnaosu",
+      "started_at": "2026-10-04T05:26:24.882+00:00",
+      "status": 200,
+      "bytes_read": 7707,
+      "error_type": null,
+      "duration_seconds": 0.262815
+    },
+    {
+      "url": "https://web.archive.org/web/20150224230119id_/http://jgram.org/pages/viewOne.php?tagE=%E2%80%BEndesu",
+      "started_at": "2026-10-04T05:26:55.150+00:00",
+      "status": 200,
+      "bytes_read": 7707,
+      "error_type": null,
+      "duration_seconds": 0.308621
+    },
+    {
+      "url": "https://web.archive.org/web/20150224235154id_/http://jgram.org/pages/viewOne.php?tagE=%E2%80%BEnimotoduite",
+      "started_at": "2026-10-04T05:27:00.156+00:00",
+      "status": 200,
+      "bytes_read": 7719,
+      "error_type": null,
+      "duration_seconds": 0.257719
+    },
+    {
+      "url": "https://web.archive.org/web/20150224234716id_/http://jgram.org/pages/viewOne.php?tagE=%E2%80%BEtemoiidesuka",
+      "started_at": "2026-10-04T05:27:05.158+00:00",
+      "status": 200,
+      "bytes_read": 7721,
+      "error_type": null,
+      "duration_seconds": 0.298429
+    },
+    {
+      "url": "https://web.archive.org/web/20150225004414id_/http://jgram.org/pages/viewOne.php?tagE=%E2%80%BEtokoro%20(da)",
+      "started_at": "2026-10-04T05:27:35.459+00:00",
+      "status": 200,
+      "bytes_read": 7719,
+      "error_type": null,
+      "duration_seconds": 0.2115
+    },
+    {
+      "url": "https://web.archive.org/web/20111101050341id_/http://jgram.org/pages/viewOne.php?tagE=%E3%80%9Ckatawara",
+      "started_at": "2026-10-04T05:27:40.462+00:00",
+      "status": 200,
+      "bytes_read": 7526,
+      "error_type": null,
+      "duration_seconds": 0.416927
+    },
+    {
+      "url": "https://web.archive.org/web/20111028072720id_/http://jgram.org/pages/viewOne.php?tagE=%E3%80%9Cmademonai",
+      "started_at": "2026-10-04T05:27:45.467+00:00",
+      "status": 200,
+      "bytes_read": 7528,
+      "error_type": null,
+      "duration_seconds": 0.321308
+    },
+    {
+      "url": "https://web.archive.org/web/20111028152114id_/http://jgram.org/pages/viewOne.php?tagE=%E3%80%9Cnaa",
+      "started_at": "2026-10-04T05:28:15.794+00:00",
+      "status": 200,
+      "bytes_read": 7516,
+      "error_type": null,
+      "duration_seconds": 0.495885
+    },
+    {
+      "url": "https://web.archive.org/web/20111028075602id_/http://jgram.org/pages/viewOne.php?tagE=%E3%80%9Crutokoro",
+      "started_at": "2026-10-04T05:28:20.795+00:00",
+      "status": 200,
+      "bytes_read": 7526,
+      "error_type": null,
+      "duration_seconds": 0.323488
+    },
+    {
+      "url": "https://web.archive.org/web/20111101064129id_/http://jgram.org/pages/viewOne.php?tagE=%E3%80%9Ctesimaimasita",
+      "started_at": "2026-10-04T05:28:25.797+00:00",
+      "status": 200,
+      "bytes_read": 7536,
+      "error_type": null,
+      "duration_seconds": 0.422812
+    },
+    {
+      "url": "https://web.archive.org/web/20111028074956id_/http://jgram.org/pages/viewOne.php?tagE=%E3%80%9Cwo%20oite",
+      "started_at": "2026-10-04T05:28:56.223+00:00",
+      "status": 200,
+      "bytes_read": 7524,
+      "error_type": null,
+      "duration_seconds": 0.345958
+    },
+    {
+      "url": "https://web.archive.org/web/20150224230051id_/http://jgram.org/pages/viewOne.php?tagE=%E3%80%9C%E3%81%A0%E3%81%84",
+      "started_at": "2026-10-04T05:29:01.227+00:00",
+      "status": 200,
+      "bytes_read": 7709,
+      "error_type": null,
+      "duration_seconds": 0.398794
+    },
+    {
+      "url": "https://web.archive.org/web/20150224230114id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%82%E3%81%86",
+      "started_at": "2026-10-04T05:29:06.232+00:00",
+      "status": 200,
+      "bytes_read": 7703,
+      "error_type": null,
+      "duration_seconds": 0.304904
+    },
+    {
+      "url": "https://web.archive.org/web/20150224230103id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%82%E3%81%92%E3%82%8B",
+      "started_at": "2026-10-04T05:29:36.543+00:00",
+      "status": 200,
+      "bytes_read": 7709,
+      "error_type": null,
+      "duration_seconds": 0.150163
+    },
+    {
+      "url": "https://web.archive.org/web/20150225001143id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%82%E3%81%A3%E3%81%A8%E3%81%84%E3%81%86%E3%81%BE",
+      "started_at": "2026-10-04T05:29:41.549+00:00",
+      "status": 200,
+      "bytes_read": 7727,
+      "error_type": null,
+      "duration_seconds": 0.332747
+    },
+    {
+      "url": "https://web.archive.org/web/20150225001145id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%82%E3%81%BE%E3%82%8A",
+      "started_at": "2026-10-04T05:29:46.554+00:00",
+      "status": 200,
+      "bytes_read": 7709,
+      "error_type": null,
+      "duration_seconds": 0.285403
+    },
+    {
+      "url": "https://web.archive.org/web/20150224230117id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%82%E3%81%BE%E3%82%8A%E3%81%AA%E3%81%84",
+      "started_at": "2026-10-04T05:30:16.843+00:00",
+      "status": 200,
+      "bytes_read": 7721,
+      "error_type": null,
+      "duration_seconds": 0.303055
+    },
+    {
+      "url": "https://web.archive.org/web/20170917170521id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%8B%E3%82%89%E3%81%AB%E3%81%AF",
+      "started_at": "2026-10-04T05:30:21.845+00:00",
+      "status": 200,
+      "bytes_read": 7615,
+      "error_type": null,
+      "duration_seconds": 0.411337
+    },
+    {
+      "url": "https://web.archive.org/web/20170718020331id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%8F%E3%82%89%E3%81%84",
+      "started_at": "2026-10-04T05:30:26.850+00:00",
+      "status": 200,
+      "bytes_read": 7609,
+      "error_type": null,
+      "duration_seconds": 0.431342
+    },
+    {
+      "url": "https://web.archive.org/web/20150225001222id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AE%E3%81%93%E3%81%A8%E3%81%B0",
+      "started_at": "2026-10-04T05:30:57.285+00:00",
+      "status": 200,
+      "bytes_read": 7739,
+      "error_type": null,
+      "duration_seconds": 0.305968
+    },
+    {
+      "url": "https://web.archive.org/web/20190819213806id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%9F%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%20%E3%80%90%E2%96%BD%E5%A0%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%91",
+      "started_at": "2026-10-04T05:31:02.290+00:00",
+      "status": 200,
+      "bytes_read": 7675,
+      "error_type": null,
+      "duration_seconds": 0.935966
+    },
+    {
+      "url": "https://web.archive.org/web/20150224230105id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%A0%E3%82%8D%E3%81%86",
+      "started_at": "2026-10-04T05:31:07.290+00:00",
+      "status": 200,
+      "bytes_read": 7709,
+      "error_type": null,
+      "duration_seconds": 0.272973
+    },
+    {
+      "url": "https://web.archive.org/web/20170718210126id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%A8%E3%81%8D",
+      "started_at": "2026-10-04T05:31:37.565+00:00",
+      "status": 200,
+      "bytes_read": 7603,
+      "error_type": null,
+      "duration_seconds": 0.531937
+    },
+    {
+      "url": "https://web.archive.org/web/20170907165220id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%AA%E3%82%93%E3%81%A8%E3%81%AA%E3%81%8F",
+      "started_at": "2026-10-04T05:31:42.568+00:00",
+      "status": 200,
+      "bytes_read": 7621,
+      "error_type": null,
+      "duration_seconds": 0.480872
+    },
+    {
+      "url": "https://web.archive.org/web/20190720061104id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%AB%E3%81%8B%E3%81%8B%E3%82%8F%E3%82%89%E3%81%9A",
+      "started_at": "2026-10-04T05:31:47.573+00:00",
+      "status": 200,
+      "bytes_read": 7637,
+      "error_type": null,
+      "duration_seconds": 0.41353
+    },
+    {
+      "url": "https://web.archive.org/web/20150224230110id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%AF%E3%81%9A",
+      "started_at": "2026-10-04T05:32:17.990+00:00",
+      "status": 200,
+      "bytes_read": 7703,
+      "error_type": null,
+      "duration_seconds": 0.54367
+    },
+    {
+      "url": "https://web.archive.org/web/20170918144539id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%AF%E3%81%A8%E3%82%82%E3%81%8B%E3%81%8F",
+      "started_at": "2026-10-04T05:32:22.994+00:00",
+      "status": 200,
+      "bytes_read": 7621,
+      "error_type": null,
+      "duration_seconds": 0.496459
+    },
+    {
+      "url": "https://web.archive.org/web/20150224230059id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%B0%E3%81%8B%E3%82%8A",
+      "started_at": "2026-10-04T05:32:27.999+00:00",
+      "status": 200,
+      "bytes_read": 7709,
+      "error_type": null,
+      "duration_seconds": 0.300692
+    },
+    {
+      "url": "https://web.archive.org/web/20150224230050id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%B9%E3%81%8D",
+      "started_at": "2026-10-04T05:32:58.305+00:00",
+      "status": 200,
+      "bytes_read": 7703,
+      "error_type": null,
+      "duration_seconds": 0.210111
+    },
+    {
+      "url": "https://web.archive.org/web/20150224234225id_/http://jgram.org/pages/viewOne.php?tagE=%E3%81%BE%E3%81%BE",
+      "started_at": "2026-10-04T05:33:03.306+00:00",
+      "status": 200,
+      "bytes_read": 7703,
+      "error_type": null,
+      "duration_seconds": 0.315137
+    },
+    {
+      "url": "https://web.archive.org/web/20150224230056id_/http://jgram.org/pages/viewOne.php?tagE=%E3%82%88%E3%81%A6%E3%81%84",
+      "started_at": "2026-10-04T05:33:08.311+00:00",
+      "status": 200,
+      "bytes_read": 7709,
+      "error_type": null,
+      "duration_seconds": 0.256201
+    },
+    {
+      "url": "https://web.archive.org/web/20170918031945id_/http://jgram.org/pages/viewOne.php?tagE=%E9%80%9A%E3%81%97%E3%81%A6",
+      "started_at": "2026-10-04T05:33:38.571+00:00",
+      "status": 200,
+      "bytes_read": 7609,
+      "error_type": null,
+      "duration_seconds": 0.704312
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011537id_/http://jgram.org/pages/viewOne.php?tagE=%E9%82%B5%EF%BD%BA%E8%AD%8F%EF%BD%B4%E7%AB%95%EF%BD%A7",
+      "started_at": "2026-10-04T05:33:43.576+00:00",
+      "status": 200,
+      "bytes_read": 7727,
+      "error_type": null,
+      "duration_seconds": 0.223885
+    },
+    {
+      "url": "https://web.archive.org/web/20060302002639id_/http://jgram.org:80/pages/viewOne.php?tagE=%C3%82%C2%82%C3%84%C2%8C%C3%82%C2%82%C3%85%C2%84%C3%82%C2%82%C3%84%C2%86%C3%82%C2%82%C3%84%C2%8C%C3%82%C2%82%C3%82%C2%AD",
+      "started_at": "2026-10-04T05:33:48.579+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.178144
+    },
+    {
+      "url": "https://web.archive.org/web/20060827210535id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%C3%82%C2%82%C3%85%C2%A0%C3%82%C2%82%C3%83%C2%A7%C3%82%C2%82%C3%83%C2%89%C3%82%C2%82%C3%83%C2%8D",
+      "started_at": "2026-10-04T05:34:18.762+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.404535
+    },
+    {
+      "url": "https://web.archive.org/web/20050429030244id_/http://jgram.org:80/pages/viewOne.php?tagE=%C3%82%C2%82%C3%85%C2%A0%C3%82%C2%82%C3%83%C2%A7%C3%82%C2%82%C3%83%C2%89%C3%82%C2%82%C3%83%C2%8D",
+      "started_at": "2026-10-04T05:34:23.766+00:00",
+      "status": 404,
+      "bytes_read": 0,
+      "error_type": "HTTPError",
+      "duration_seconds": 0.291933
+    },
+    {
+      "url": "https://web.archive.org/web/20150225010630id_/http://jgram.org/pages/viewOne.php?tagE=%E7%AA%B6%EF%BD%BE%20no%20you%20na",
+      "started_at": "2026-10-04T05:34:28.771+00:00",
+      "status": 200,
+      "bytes_read": 7723,
+      "error_type": null,
+      "duration_seconds": 1.341184
+    },
+    {
+      "url": "https://web.archive.org/web/20150225010733id_/http://jgram.org/pages/viewOne.php?tagE=%E7%AA%B6%EF%BD%BEhoudai",
+      "started_at": "2026-10-04T05:35:00.118+00:00",
+      "status": 200,
+      "bytes_read": 7715,
+      "error_type": null,
+      "duration_seconds": 0.277395
+    },
+    {
+      "url": "https://web.archive.org/web/20150225010652id_/http://jgram.org/pages/viewOne.php?tagE=%E7%AA%B6%EF%BD%BEnaki",
+      "started_at": "2026-10-04T05:35:05.123+00:00",
+      "status": 200,
+      "bytes_read": 7711,
+      "error_type": null,
+      "duration_seconds": 0.273984
+    },
+    {
+      "url": "https://web.archive.org/web/20150225010651id_/http://jgram.org/pages/viewOne.php?tagE=%E7%AA%B6%EF%BD%BEnaosu",
+      "started_at": "2026-10-04T05:35:10.128+00:00",
+      "status": 200,
+      "bytes_read": 7713,
+      "error_type": null,
+      "duration_seconds": 0.217211
+    },
+    {
+      "url": "https://web.archive.org/web/20150225005906id_/http://jgram.org/pages/viewOne.php?tagE=%E7%AA%B6%EF%BD%BEndesu",
+      "started_at": "2026-10-04T05:35:40.351+00:00",
+      "status": 200,
+      "bytes_read": 7713,
+      "error_type": null,
+      "duration_seconds": 0.556502
+    },
+    {
+      "url": "https://web.archive.org/web/20150225010800id_/http://jgram.org/pages/viewOne.php?tagE=%E7%AA%B6%EF%BD%BEnimotoduite",
+      "started_at": "2026-10-04T05:35:45.352+00:00",
+      "status": 200,
+      "bytes_read": 7725,
+      "error_type": null,
+      "duration_seconds": 0.289801
+    },
+    {
+      "url": "https://web.archive.org/web/20150225010722id_/http://jgram.org/pages/viewOne.php?tagE=%E7%AA%B6%EF%BD%BEtemoiidesuka",
+      "started_at": "2026-10-04T05:35:50.353+00:00",
+      "status": 200,
+      "bytes_read": 7727,
+      "error_type": null,
+      "duration_seconds": 0.211211
+    },
+    {
+      "url": "https://web.archive.org/web/20150225012017id_/http://jgram.org/pages/viewOne.php?tagE=%E7%AA%B6%EF%BD%BEtokoro",
+      "started_at": "2026-10-04T05:36:20.571+00:00",
+      "status": 200,
+      "bytes_read": 7715,
+      "error_type": null,
+      "duration_seconds": 0.217292
+    },
+    {
+      "url": "https://web.archive.org/web/20150225005903id_/http://jgram.org/pages/viewOne.php?tagE=%E7%AA%B6%EF%BD%BEtokoro%20(da)",
+      "started_at": "2026-10-04T05:36:25.573+00:00",
+      "status": 200,
+      "bytes_read": 7725,
+      "error_type": null,
+      "duration_seconds": 0.233172
+    },
+    {
+      "url": "https://web.archive.org/web/20150225005905id_/http://jgram.org/pages/viewOne.php?tagE=%E7%B8%BA%E3%82%85%E2%89%A7",
+      "started_at": "2026-10-04T05:36:30.578+00:00",
+      "status": 200,
+      "bytes_read": 7709,
+      "error_type": null,
+      "duration_seconds": 0.304454
+    },
+    {
+      "url": "https://web.archive.org/web/20150225010245id_/http://jgram.org/pages/viewOne.php?tagE=%E7%B8%BA%E4%B9%9D%EF%BD%89%E7%B8%BA%EF%BD%AB%E7%B8%BA%EF%BD%AF",
+      "started_at": "2026-10-04T05:37:00.887+00:00",
+      "status": 200,
+      "bytes_read": 7733,
+      "error_type": null,
+      "duration_seconds": 0.259552
+    },
+    {
+      "url": "https://web.archive.org/web/20150225005904id_/http://jgram.org/pages/viewOne.php?tagE=%E7%B8%BA%E6%98%B4%E2%89%A7",
+      "started_at": "2026-10-04T05:37:05.891+00:00",
+      "status": 200,
+      "bytes_read": 7709,
+      "error_type": null,
+      "duration_seconds": 0.167249
+    },
+    {
+      "url": "https://web.archive.org/web/20150225005903id_/http://jgram.org/pages/viewOne.php?tagE=%E7%B8%BA%EF%BD%B0%E7%B8%BA%E4%B9%9D%EF%BD%8A",
+      "started_at": "2026-10-04T05:37:10.895+00:00",
+      "status": 200,
+      "bytes_read": 7721,
+      "error_type": null,
+      "duration_seconds": 0.290256
+    },
+    {
+      "url": "https://web.archive.org/web/20150225010649id_/http://jgram.org/pages/viewOne.php?tagE=%E7%B8%BA%EF%BD%BE%E7%B8%BA%EF%BD%BE",
+      "started_at": "2026-10-04T05:37:41.191+00:00",
+      "status": 200,
+      "bytes_read": 7715,
+      "error_type": null,
+      "duration_seconds": 0.416152
+    },
+    {
+      "url": "https://web.archive.org/web/20150225010448id_/http://jgram.org/pages/viewOne.php?tagE=%E9%A8%BE%E5%A3%B9%EF%BC%A0%E7%B8%BA%EF%BD%A6",
+      "started_at": "2026-10-04T05:37:46.194+00:00",
+      "status": 200,
+      "bytes_read": 7721,
+      "error_type": null,
+      "duration_seconds": 0.207486
+    },
+    {
+      "url": "https://web.archive.org/web/20150225012142id_/http://jgram.org/pages/viewOne.php?tagE=%EF%BE%83%EF%BD%A7%EF%BE%82%EF%BD%B8%EF%BE%85%E6%B7%A8%E7%A5%A5%E6%95%98%EF%BD%BE%EF%BE%83%EF%BD%A7%EF%BE%82%EF%BD%B8%EF%BE%85%E6%B7%A8%E7%A5%A5%E6%95%98%EF%BD%BE",
+      "started_at": "2026-10-04T05:37:51.197+00:00",
+      "status": 200,
+      "bytes_read": 7799,
+      "error_type": null,
+      "duration_seconds": 0.29089
+    },
+    {
+      "url": "https://web.archive.org/web/20150225012141id_/http://jgram.org/pages/viewOne.php?tagE=%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BE%20no%20you%20na",
+      "started_at": "2026-10-04T05:38:21.493+00:00",
+      "status": 200,
+      "bytes_read": 7759,
+      "error_type": null,
+      "duration_seconds": 0.189079
+    },
+    {
+      "url": "https://web.archive.org/web/20150225012149id_/http://jgram.org/pages/viewOne.php?tagE=%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEhoudai",
+      "started_at": "2026-10-04T05:38:26.498+00:00",
+      "status": 200,
+      "bytes_read": 7751,
+      "error_type": null,
+      "duration_seconds": 0.439747
+    },
+    {
+      "url": "https://web.archive.org/web/20150225012146id_/http://jgram.org/pages/viewOne.php?tagE=%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEnaki",
+      "started_at": "2026-10-04T05:38:31.503+00:00",
+      "status": 200,
+      "bytes_read": 7747,
+      "error_type": null,
+      "duration_seconds": 0.18065
+    },
+    {
+      "url": "https://web.archive.org/web/20150225012143id_/http://jgram.org/pages/viewOne.php?tagE=%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEnaosu",
+      "started_at": "2026-10-04T05:39:01.685+00:00",
+      "status": 200,
+      "bytes_read": 7749,
+      "error_type": null,
+      "duration_seconds": 0.383021
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011948id_/http://jgram.org/pages/viewOne.php?tagE=%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEndesu",
+      "started_at": "2026-10-04T05:39:06.690+00:00",
+      "status": 200,
+      "bytes_read": 7749,
+      "error_type": null,
+      "duration_seconds": 0.439723
+    },
+    {
+      "url": "https://web.archive.org/web/20150225012150id_/http://jgram.org/pages/viewOne.php?tagE=%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEnimotoduite",
+      "started_at": "2026-10-04T05:39:11.694+00:00",
+      "status": 200,
+      "bytes_read": 7761,
+      "error_type": null,
+      "duration_seconds": 0.305223
+    },
+    {
+      "url": "https://web.archive.org/web/20150225012148id_/http://jgram.org/pages/viewOne.php?tagE=%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEtemoiidesuka",
+      "started_at": "2026-10-04T05:39:42.004+00:00",
+      "status": 200,
+      "bytes_read": 7763,
+      "error_type": null,
+      "duration_seconds": 0.401385
+    },
+    {
+      "url": "https://web.archive.org/web/20150225012951id_/http://jgram.org/pages/viewOne.php?tagE=%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEtokoro",
+      "started_at": "2026-10-04T05:39:47.008+00:00",
+      "status": 200,
+      "bytes_read": 7751,
+      "error_type": null,
+      "duration_seconds": 0.242509
+    },
+    {
+      "url": "https://web.archive.org/web/20150225011947id_/http://jgram.org/pages/viewOne.php?tagE=%EF%BE%83%EF%BD%A7%EF%BE%85%E6%A7%90%E5%B4%99%E7%A5%A5%E6%95%98%EF%BD%BEtokoro%20(da)",
+      "started_at": "2026-10-04T05:39:52.011+00:00",
+      "status": 200,
+      "bytes_read": 7761,
+      "error_type": null,
+      "duration_seconds": 0.221519
+    },
+    {
+      "url": "https://web.archive.org/web/20080214073057id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%81%60ga+Vstem%81%7Byasui",
+      "started_at": "2026-10-04T05:40:22.233+00:00",
+      "status": 200,
+      "bytes_read": 13934,
+      "error_type": null,
+      "duration_seconds": 0.415418
+    },
+    {
+      "url": "https://web.archive.org/web/20100728074045id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%81%60gasaigo",
+      "started_at": "2026-10-04T05:40:27.238+00:00",
+      "status": 200,
+      "bytes_read": 15346,
+      "error_type": null,
+      "duration_seconds": 0.257898
+    },
+    {
+      "url": "https://web.archive.org/web/20111011004653id_/http://jgram.org/pages/viewOne.php?tagE=%81%60katawara",
+      "started_at": "2026-10-04T05:40:32.243+00:00",
+      "status": 200,
+      "bytes_read": 13864,
+      "error_type": null,
+      "duration_seconds": 0.272385
+    },
+    {
+      "url": "https://web.archive.org/web/20111011010405id_/http://jgram.org/pages/viewOne.php?tagE=%81%60mademonai",
+      "started_at": "2026-10-04T05:41:02.521+00:00",
+      "status": 200,
+      "bytes_read": 21493,
+      "error_type": null,
+      "duration_seconds": 0.274916
+    },
+    {
+      "url": "https://web.archive.org/web/20111010232312id_/http://jgram.org/pages/viewOne.php?tagE=%81%60naa",
+      "started_at": "2026-10-04T05:41:07.524+00:00",
+      "status": 200,
+      "bytes_read": 14994,
+      "error_type": null,
+      "duration_seconds": 0.336713
+    },
+    {
+      "url": "https://web.archive.org/web/20111010232120id_/http://jgram.org/pages/viewOne.php?tagE=%81%60rutokoro",
+      "started_at": "2026-10-04T05:41:12.529+00:00",
+      "status": 200,
+      "bytes_read": 18112,
+      "error_type": null,
+      "duration_seconds": 0.269564
+    },
+    {
+      "url": "https://web.archive.org/web/20080512131325id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%81%60tai",
+      "started_at": "2026-10-04T05:41:42.801+00:00",
+      "status": 200,
+      "bytes_read": 6918,
+      "error_type": null,
+      "duration_seconds": 0.325957
+    },
+    {
+      "url": "https://web.archive.org/web/20111011020237id_/http://jgram.org/pages/viewOne.php?tagE=%81%60tesimaimasita",
+      "started_at": "2026-10-04T05:41:47.805+00:00",
+      "status": 200,
+      "bytes_read": 21201,
+      "error_type": null,
+      "duration_seconds": 0.238124
+    },
+    {
+      "url": "https://web.archive.org/web/20111011000211id_/http://jgram.org/pages/viewOne.php?tagE=%81%60wo+nuki+ni+shite%81E%81%60+wa+nuki+ni+shite",
+      "started_at": "2026-10-04T05:41:52.808+00:00",
+      "status": 200,
+      "bytes_read": 7582,
+      "error_type": null,
+      "duration_seconds": 0.268501
+    },
+    {
+      "url": "https://web.archive.org/web/20090430075636id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%81%60wo+nukinishite%81E%81%60+hanukinishite",
+      "started_at": "2026-10-04T05:42:23.078+00:00",
+      "status": 200,
+      "bytes_read": 13585,
+      "error_type": null,
+      "duration_seconds": 0.372208
+    },
+    {
+      "url": "https://web.archive.org/web/20111011002140id_/http://jgram.org/pages/viewOne.php?tagE=%81%60wo+oite",
+      "started_at": "2026-10-04T05:42:28.083+00:00",
+      "status": 200,
+      "bytes_read": 16439,
+      "error_type": null,
+      "duration_seconds": 0.232146
+    },
+    {
+      "url": "https://web.archive.org/web/20080214073116id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%82m%82%81%82%81",
+      "started_at": "2026-10-04T05:42:33.088+00:00",
+      "status": 200,
+      "bytes_read": 13955,
+      "error_type": null,
+      "duration_seconds": 0.26553
+    },
+    {
+      "url": "https://web.archive.org/web/20111011020220id_/http://jgram.org/pages/viewOne.php?tagE=%82%BD%82%DC%82%E7%82%C8%82%A2+%81y%81%A4%8A%AC%82%E7%82%C8%82%A2%81z",
+      "started_at": "2026-10-04T05:43:03.359+00:00",
+      "status": 200,
+      "bytes_read": 14291,
+      "error_type": null,
+      "duration_seconds": 0.620771
+    },
+    {
+      "url": "https://web.archive.org/web/20200919183037id_/http://www.jgram.org/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "started_at": "2026-10-04T05:43:08.364+00:00",
+      "status": 200,
+      "bytes_read": 7310,
+      "error_type": null,
+      "duration_seconds": 0.600692
+    },
+    {
+      "url": "https://web.archive.org/web/20200126074221id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "started_at": "2026-10-04T05:43:13.369+00:00",
+      "status": 200,
+      "bytes_read": 7310,
+      "error_type": null,
+      "duration_seconds": 2.046021
+    },
+    {
+      "url": "https://web.archive.org/web/20200215024630id_/http://jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "started_at": "2026-10-04T05:43:45.421+00:00",
+      "status": 200,
+      "bytes_read": 7298,
+      "error_type": null,
+      "duration_seconds": 0.566022
+    },
+    {
+      "url": "https://web.archive.org/web/20191216200931id_/http://jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "started_at": "2026-10-04T05:43:50.425+00:00",
+      "status": 200,
+      "bytes_read": 7298,
+      "error_type": null,
+      "duration_seconds": 0.270196
+    },
+    {
+      "url": "https://web.archive.org/web/20191109170130id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "started_at": "2026-10-04T05:43:55.428+00:00",
+      "status": 200,
+      "bytes_read": 7325,
+      "error_type": null,
+      "duration_seconds": 0.485231
+    },
+    {
+      "url": "https://web.archive.org/web/20190928062642id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "started_at": "2026-10-04T05:44:25.918+00:00",
+      "status": 200,
+      "bytes_read": 7325,
+      "error_type": null,
+      "duration_seconds": 0.638114
+    },
+    {
+      "url": "https://web.archive.org/web/20190728023949id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%82%BB%82%A4",
+      "started_at": "2026-10-04T05:44:30.922+00:00",
+      "status": 200,
+      "bytes_read": 7325,
+      "error_type": null,
+      "duration_seconds": 0.253905
+    },
+    {
+      "url": "https://web.archive.org/web/20050816143638id_/http://jgram.org:80/pages/viewOne.php?tagE=%82%a9%82%e7%82%c9%82%cd",
+      "started_at": "2026-10-04T05:44:35.928+00:00",
+      "status": 200,
+      "bytes_read": 6416,
+      "error_type": null,
+      "duration_seconds": 0.340376
+    },
+    {
+      "url": "https://web.archive.org/web/20070708045151id_/http://www.jgram.org:80/pages/viewOne.php?tagE=%8E%A9%95%AA%82%B3%82%A6%97%C7%82%AF%82%EA%82%CE%81A%91%BC%82%CD%82%C7%82%A4%82%C8%82%C1%82%C4%82%E0%82%A2%82%A2",
+      "started_at": "2026-10-04T05:45:06.273+00:00",
+      "status": 200,
+      "bytes_read": 12307,
+      "error_type": null,
+      "duration_seconds": 0.248771
+    }
+  ]
+}

@@ -14,8 +14,9 @@ from .parser import text, parse_entry
 from .crawl import now
 from .archive_parser import NotGrammar, parse_archive, source_soup
 from .archive import original_label, allowed_archive_url, latest_body_equivalent
-from .storage import read_records, read_archive_records, read_archive_feeds, read_archive_state, read_feed_state, record_digest, write_json, expand_archive_records, annotate_archive_record
+from .storage import membership_metadata, read_records, read_archive_records, read_archive_feeds, read_archive_state, read_feed_state, record_digest, write_json, expand_archive_records, annotate_archive_record
 from .archive_feeds import parse_feed
+from .section_reviews import review_sections, verify_credit_references
 
 
 def cached_body(root, digest, extension='.bin'):
@@ -145,7 +146,7 @@ def audit_archive(directory, takoboto=None, record_verification=False):
     if inventory.get('snapshot'):
         from .archive_dump import verify_dump_inventory
         verify_dump_inventory(root, inventory)
-    records = read_archive_records(root, for_export=False)
+    records = read_archive_records(root, for_export=False, include_earlier=False)
     indexed = {item['label'] for item in inventory['entries']}
     latest = {item['label']: item['captures'][0]['timestamp'] for item in inventory['entries'] if item.get('captures')}
     latest_urls = {item['label']: item['captures'][0]['archive_url'] for item in inventory['entries'] if item.get('captures')}
@@ -197,6 +198,8 @@ def audit_archive(directory, takoboto=None, record_verification=False):
             if mismatches:
                 report['errors'].append({'label': label, 'error': 'Stored extraction differs from source', 'fields': mismatches})
                 continue
+            verify_credit_references(record.get('omitted_sections', []),
+                                     lambda digest: cached_body(root.parent / 'archive-2015', digest))
             if not any(item['label'] == label for item in report['blocked_records']) and not record['warnings']:
                 verified_labels.setdefault(label, record['id'])
             if not state or state.get('record_sha256') != record_digest(record):
@@ -209,13 +212,14 @@ def audit_archive(directory, takoboto=None, record_verification=False):
                     preserved_capture = state['capture']
                 entry_states.append((label, dict(state or {}) | {'label': label, 'status': 'parsed', 'checked_at': now(),
                     'verification': 'offline-source-audit', 'current_membership_sha256': membership_digest,
-                    'latest_indexed_timestamp': latest.get(label), 'eligible_ids': sorted(eligible_ids),
+                    'latest_indexed_timestamp': latest.get(label), **membership_metadata(eligible_ids),
                     'capture': preserved_capture, 'response_sha256': record['response_sha256'],
                     'record_sha256': record_digest(record), 'retrieved_at': record['retrieved_at']}))
         except (OSError, ValueError, KeyError, TypeError) as exc:
             report['errors'].append({'label': label, 'error': str(exc)})
             continue
         soup, _ = source_soup(body)
+        review_sections(soup, body, capture)
         titles = soup.select('.viewOnetitle')
         scopes = [title.find_parent('table') for title in titles] if len(titles) > 1 else [soup]
         components = expand_archive_records([record])
@@ -229,6 +233,8 @@ def audit_archive(directory, takoboto=None, record_verification=False):
             audit_entry_content(scope, component, report, counts, categories)
     counts['entries'] = len(expand_archive_records(records))
     report['counts'], report['categories'] = dict(counts), dict(categories)
+    report['partial_source_records'] = [r['label'] for r in records if r.get('omitted_sections')]
+    report['omitted_section_count'] = sum(len(r.get('omitted_sections', [])) for r in records)
     report['parsed_records_verified'] = bool(records) and not any(report[k] for k in
         ('errors', 'warnings', 'content_assets', 'date_metadata', 'blocked_records'))
     # Unparsed labels can be aliases, non-grammar or unavailable pages. They
@@ -319,6 +325,7 @@ def audit_archive(directory, takoboto=None, record_verification=False):
     if record_verification and source_verified:
         # Validate the whole batch before writing any state; never lift existing holds.
         for label, state in entry_states:
+            state.pop('eligible_ids', None)
             key = hashlib.sha256(label.encode()).hexdigest()
             write_json(root, f'states/{key}.json', state)
             report['verification_states_written']['entries'] += 1
@@ -328,6 +335,9 @@ def audit_archive(directory, takoboto=None, record_verification=False):
             report['verification_states_written']['feeds'] += 1
         report['unverified_records'] = []
         report['rss']['unverified_feeds'] = []
-    report['export_ready'] = source_verified and not (report['unverified_records'] or report['rss']['unverified_feeds'])
+    from .earlier_revisions import audit_earlier_records
+    report['earlier_revisions'] = audit_earlier_records(root, eligible_ids)
+    report['export_ready'] = (source_verified and report['earlier_revisions']['source_verified'] and
+                              not (report['unverified_records'] or report['rss']['unverified_feeds']))
     write_json(root, 'coverage-report.json', report)
     return report

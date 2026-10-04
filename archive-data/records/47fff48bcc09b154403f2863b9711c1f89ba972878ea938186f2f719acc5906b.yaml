@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1435
+label: IntroductionToParticles
+title_raw: '- (IntroductionToParticles)'
+title: '- (IntroductionToParticles)'
+reading: null
+romanized_label: IntroductionToParticles
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=IntroductionToParticles
+archive_url: https://web.archive.org/web/20051226033304id_/http://jgram.org:80/pages/viewOne.php?tagE=IntroductionToParticles
+archive_timestamp: '20051226033304'
+retrieved_at: '2026-10-04T02:40:26+00:00'
+archive_digest: 4ONBLIE5R7RUWFZ76HAULCQCCRQKVSIW
+response_sha256: ca53f7a2fb602d72f560be08b3ee97cb50920f08b11ad805640af6166def093c
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (IntroductionToParticles)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (IntroductionToParticles)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: IntroductionToParticles
+    id: 1435
+    title_raw: '- (IntroductionToParticles)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=IntroductionToParticles
+    response_sha256: ca53f7a2fb602d72f560be08b3ee97cb50920f08b11ad805640af6166def093c
+    section: Tutorial
+    section_html_sha256: dd366e778ddf8b2943f694e2e968c1650bbc2f3cf99718bcd4b6178ca93a3d96
+    section_text_sha256: 831169b2a4e3f5aaa1b81257769bef1c006781a1451460ed141c99dbb78fe6cb
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8079
+    source_byte_length: 13148
+    section_bytes_sha256: 22907e26bdcdb90401154f5d7dacf59c13f45b760cb86ceb5627d4bb01fd5de2
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226033304'

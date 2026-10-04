@@ -36,10 +36,12 @@ def verify(root, baseline_path=Path('recon/dataset-baseline.yaml'),
     sqlite_baseline = load_yaml((root / sqlite_baseline_path).read_text(encoding='utf-8'))
     paths = []
     for area, folders in [('data', ('records',)),
-                         ('archive-data', ('records', 'feeds')),
+                         ('archive-data', ('records', 'feeds', 'earlier-records')),
                          ('archive-2015', ('records',))]:
         for folder in folders:
             directory = root / area / folder
+            if folder == 'earlier-records' and not directory.exists():
+                continue
             require(directory.resolve(strict=True) == directory,
                     f'Unexpected source directory: {directory}')
             selected = record_paths(root / area, folder)

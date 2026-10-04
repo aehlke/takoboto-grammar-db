@@ -1,0 +1,227 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 490
+label: sengatame
+title_raw: せんがため ([せんがため] )(sengatame)
+title: せんがため
+reading: せんがため
+romanized_label: sengatame
+category: grammar
+jlpt_level_original: '1'
+meaning: In order to do ぜひ実現させたい積極的な目的をもってあることをする
+meaning_example: In order to pass the test, he studied day and night.
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=sengatame
+archive_url: https://web.archive.org/web/20200215031515id_/http://jgram.org:80/pages/viewOne.php?tagE=sengatame
+archive_timestamp: '20200215031515'
+retrieved_at: '2026-10-04T01:39:31+00:00'
+archive_digest: 47F5ZLKWGL346IXG5D45C7XPUZEGZQQM
+response_sha256: 0b2148e69ce3353261f79e9eaf8cbccf52127ce352347851984e38a3ff90ce98
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "Formal.\n\r\nWritten more than spoken."
+    html: "Formal.<br/>\r\nWritten more than spoken."
+    credits_raw: claytonian
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: にせんがため is equivalent to にするため
+    html: にせんがため is equivalent to にするため
+    credits_raw: claytonian
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "uses the nai form of verbs without nai.\n\r\nIn the case of suru, it is, as in the name of the entry, せんがため."
+    html: "uses the nai form of verbs without nai.<br/>\r\nIn the case of suru, it is, as in the name of the entry, せんがため."
+    credits_raw: claytonian
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: "Actually, this has nothing to do with ない etymologically. This construction consists of a verb in 未然形, to which the classical verb む (uncertainty, future) is added, and shortened to ん. が means almost the same as の modern Japanese. ため is obviously 為.\n\r\nAs for 未然形+む, another shortening was mu -> u. Together with other sound shifts, this actually constitutes the etymology of the well known 食べよう・飲もう form. It goes 「taberu > tabe+mu > tabeu > tabeyou」 and 「nomu > noma+mu > nomau > nomou」."
+    html: "Actually, this has nothing to do with ない etymologically. This construction consists of a verb in 未然形, to which the classical verb む (uncertainty, future) is added, and shortened to ん. が means almost the same as の modern Japanese. ため is obviously 為.<br/>\r\nAs for 未然形+む, another shortening was mu -&gt; u. Together with other sound shifts, this actually constitutes the etymology of the well known 食べよう・飲もう form. It goes 「taberu &gt; tabe+mu &gt; tabeu &gt; tabeyou」 and 「nomu &gt; noma+mu &gt; nomau &gt; nomou」."
+    credits_raw: blutorange
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 1342
+    position: 0
+    japanese: キリスト教義の正当性をより強固にせんがための伏線ととれないこともありません。
+    body_text: "キリスト教義の正当性をより強固にせんがための伏線ととれないこともありません。 \n\n\t\tThis must be a covert effort \n\t\tin order to \n\t\tfurther strengthen the veracity of the Christian dogma"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJキリスト教義の正当性をより強固にせんがための伏線ととれないこともありません。\">\n\t\t\t\tキリスト教義の正当性をより強固に<strong>せんがため</strong>の伏線ととれないこともありません。<strong></strong></a> <br/>\n\t\tThis must be a covert effort \n\t\t<strong>in order to </strong>\n\t\tfurther strengthen the veracity of the Christian dogma"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5734
+    position: 1
+    japanese: あの頃わたしは大学に進学せんがために毎日必死でがんばった。
+    body_text: "あの頃わたしは大学に進学せんがために毎日必死でがんばった。\r \n\n\t\tAt that time, in order to go on to university I frantically did my best everyday."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあの頃わたしは大学に進学せんがために毎日必死でがんばった。\">\n\t\t\t\tあの頃わたしは大学に進学<strong>せんがため</strong>に毎日必死でがんばった。\r<strong></strong></a> <br/>\n\t\tAt that time, in order to go on to university I frantically did my best everyday. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6542
+    position: 2
+    japanese: 研究を完成せんがため、彼は昼夜寝ずにがんばった。
+    body_text: "研究を完成せんがため、彼は昼夜寝ずにがんばった。 \n\n\t\tIn order to finish the project, he worked day and night without sleeping. \n\t\tsengatame"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ研究を完成せんがため、彼は昼夜寝ずにがんばった。\">\n\t\t\t\t研究を完成<strong>せんがため</strong>、彼は昼夜寝ずにがんばった。<strong></strong></a> <br/>\n\t\tIn order to finish the project, he worked day and night without sleeping. \n\t\t<strong>sengatame </strong>"
+    credits_raw: claytonian
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6543
+    position: 3
+    japanese: 一日も早く自分の店を持たんがために、必死で働いている。
+    body_text: "一日も早く自分の店を持たんがために、必死で働いている。 \n\nTo \n\t\tkeep one's store going even one more day, one is frantically working."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ一日も早く自分の店を持たんがために、必死で働いている。\">\n\t\t\t\t一日も早く自分の店を持た<strong>んがため</strong>に、必死で働いている。<strong></strong></a> <br/>\n<strong>To </strong>\n\t\tkeep one's store going even one more day, one is frantically working."
+    credits_raw: claytonian
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Appeared in 2002 JLPT level 1
+    html: Appeared in 2002 JLPT level 1
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: Old style usage, not in much use in modern Japanese.
+    html: Old style usage, not in much use in modern Japanese.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: That's a horrible, horrible translation ^^vv
+    html: That's a horrible, horrible translation ^^vv
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: any ideas on detailed difference with youni?
+    html: |-
+      any ideas on detailed difference with <a href="http://jgram.org:80/pages/viewOne.php?tagE=youni">youni</a>?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Amatuka
+    text: "Hmm, I think the two big differences are\n\r\n1. You'll probably never have to use せんがため\n\r\nand\n\r\n2. ように isn't tested in JLPT level 1.\n\r\n;-)"
+    html: "Hmm, I think the two big differences are<br/>\r\n1. You'll probably never have to use せんがため<br/>\r\nand<br/>\r\n2. ように isn't tested in JLPT level 1.<br/>\r\n;-)"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Amatuka
+    text: So, no I don't have any idea of detailed differences to youni youni
+    html: |-
+      So, no I don't have any idea of detailed differences to youni <a href="http://jgram.org:80/pages/viewOne.php?tagE=youni">youni</a>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: bamboo4
+    text: |-
+      The English translation is not only inaccurate but terrible: "This must be a covert effort to further strengthen the veracity of the Christian dogma" would be more like it.
+    html: |-
+      The English translation is not only inaccurate but terrible: "This must be a covert effort to further strengthen the veracity of the Christian dogma" would be more like it.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: dc
+    text: translation updated!
+    html: translation updated!
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: beth
+    text: "あの頃わたしは大学に進学せんがために毎日必死でがんばった。\n\r\nAt that time, in order to go on to university I frantically did my best everyday."
+    html: "あの頃わたしは大学に進学せんがために毎日必死でがんばった。<br/>\r\nAt that time, in order to go on to university I frantically did my best everyday."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: dc
+    text: 'thanks for the ex Beth. added #5734'
+    html: |-
+      thanks for the ex Beth. added <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=sengatame#5734">#5734</a></b>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: kyoho16
+    text: 'Not a comment on the Japanese, but the English: it''s not "everyday" but "every day." CAC'
+    html: 'Not a comment on the Japanese, but the English: it''s not "everyday" but "every day." CAC'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: tmkain
+    text: "Can this be used with other verbs, such as 入る？ My grammar book uses this example:\n\r\n何かを勉強したいというより、ただ一流大学に入らんがために勉強している人が多い。\n\r\nIf this is the same pattern, can someone update this entry?"
+    html: "Can this be used with other verbs, such as 入る？ My grammar book uses this example:<br/>\r\n何かを勉強したいというより、ただ一流大学に入らんがために勉強している人が多い。<br/>\r\nIf this is the same pattern, can someone update this entry?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: ggencare
+    text: |-
+      Is this the -nai form?  It seems to me that it's really based on a classical form, with the mizenkei of the verb, followed by volitional particle "mu" (with a not-uncommon sound change to "n").   That's probably a lot for a beginner with no classical experience to deal with, though.
+    html: |-
+      Is this the -nai form?  It seems to me that it's really based on a classical form, with the mizenkei of the verb, followed by volitional particle "mu" (with a not-uncommon sound change to "n").   That's probably a lot for a beginner with no classical experience to deal with, though.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: Saezuri
+    text: 'I found this explanation: http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1412020229'
+    html: |-
+      I found this explanation: <a href="http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1412020229">http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1412020229</a>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: masakitenchi
+    text: "I found it in my grammar book\n\r\nＶない+んがため「に」／んがためのＮ\n\r\nIIIグループ「する」は「せんがため」"
+    html: "I found it in my grammar book<br/>\r\nＶない+んがため「に」／んがためのＮ<br/>\r\nIIIグループ「する」は「せんがため」<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      せんがため ([せんがため] )(sengatame)
+          Meaning: In order to do ぜひ実現させたい積極的な目的をもってあることをする
+          Example: In order to pass the test, he studied day and night.
+          JLPT Level: 1
+          Category: grammar
+          Author: Amatuka
+    html: |-
+      <span>せんがため ([せんがため] )(sengatame)</span><br/>    <span><b>Meaning</b>: In order to do ぜひ実現させたい積極的な目的をもってあることをする</span><br/>    <b>Example</b>: <i>In order to pass the test, he studied day and night.</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215031515'

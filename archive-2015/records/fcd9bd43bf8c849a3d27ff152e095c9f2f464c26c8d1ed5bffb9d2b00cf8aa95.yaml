@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1445
+label: quotation
+title_raw: (quotation)
+title: (quotation)
+reading: null
+romanized_label: quotation
+category: lesson
+jlpt_level_original: '0'
+meaning: Performing an action on a subordinate clause （と、って）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=quotation
+archive_url: https://web.archive.org/web/20150224234957id_/http://www.jgram.org/pages/viewOne.php?tagE=quotation
+archive_timestamp: '20150224234957'
+retrieved_at: '2026-10-03T16:08:17+00:00'
+archive_digest: VPIXP2ZFJD7D2Q43EK3MAS5PAUE64QOE
+response_sha256: f0b2dfc30eea83c3457dd567e9b5301cab0f21afff7c3ea579e879ea0dce8106
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(quotation)\n    Meaning: Performing an action on a subordinate clause （と、って） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (quotation)</span><br/>    <span><b>Meaning</b>: Performing an action on a subordinate clause （と、って） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: quotation
+    id: 1445
+    title_raw: (quotation)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=quotation
+    response_sha256: f0b2dfc30eea83c3457dd567e9b5301cab0f21afff7c3ea579e879ea0dce8106
+    section: Tutorial
+    section_html_sha256: b6c08e19368a63d1f438ef5bd1db07d2c11d0dad43a97aeb94e3eb142164d3f3
+    section_text_sha256: 63b4c34c80b94de77008c992eaf00ede214cc1c9f16a1f9ef83ce90ed79aadb8
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8816
+    source_byte_length: 11331
+    section_bytes_sha256: 1b982c499d3c45937d9d7c79f9e073126f6643ab5699d56c1e7bba534af37fff
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224234957'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 61318810
+  length: 8317
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 06f5507810ac13b4eb8d769b8220190f3848ccead5ae368b47e3a20b5bdc70fa

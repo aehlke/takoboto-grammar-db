@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1447
+label: potential
+title_raw: (potential)
+title: (potential)
+reading: null
+romanized_label: potential
+category: lesson
+jlpt_level_original: '0'
+meaning: Potential Form
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=potential
+archive_url: https://web.archive.org/web/20150224233358id_/http://www.jgram.org/pages/viewOne.php?tagE=potential
+archive_timestamp: '20150224233358'
+retrieved_at: '2026-10-03T16:06:59+00:00'
+archive_digest: STXLAGEBO2E4CTUKJPG4RGMPGZI453QI
+response_sha256: 92ff11395bd6110250a4aaf6a9ca4b3d14c9b1767def2202e9415b655c7b6c94
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(potential)\n    Meaning: Potential Form \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (potential)</span><br/>    <span><b>Meaning</b>: Potential Form </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: potential
+    id: 1447
+    title_raw: (potential)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=potential
+    response_sha256: 92ff11395bd6110250a4aaf6a9ca4b3d14c9b1767def2202e9415b655c7b6c94
+    section: Tutorial
+    section_html_sha256: 39a14fddce58ce001ef880963a0a10a24191a0bb9b8a43e1abdcbb575c33a85d
+    section_text_sha256: 6beddace170a07b017b53bdffea4b1468fca3f14396cc999435e077070bc9900
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8771
+    source_byte_length: 16430
+    section_bytes_sha256: 6a73ed216bea35da4170e7eb557efc91405e80bfb3f6d343a6e43f48ebb35626
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224233358'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 51459483
+  length: 8653
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 370d8c5dadbe218fac448022801e2fe6ef7857a57cf8266b6f2a2c8195504aec

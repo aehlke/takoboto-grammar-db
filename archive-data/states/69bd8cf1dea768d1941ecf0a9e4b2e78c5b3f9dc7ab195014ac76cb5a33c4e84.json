@@ -1,0 +1,21 @@
+{
+  "label": "my-job",
+  "status": "excluded",
+  "checked_at": "2026-10-04T03:39:41+00:00",
+  "latest_indexed_timestamp": "20200215021931",
+  "capture": {
+    "timestamp": "20200215021931",
+    "original": "http://jgram.org:80/pages/viewOne.php?tagE=my-job",
+    "mimetype": "text/html",
+    "digest": "YAKDQ4V4IL4GJETVTERIH2JKR3K6UC4P",
+    "label": "my-job",
+    "archive_url": "https://web.archive.org/web/20200215021931id_/http://jgram.org:80/pages/viewOne.php?tagE=my-job"
+  },
+  "requested_timestamp": "20200215021931",
+  "response_sha256": "0135b3731c22e988bc00e566f0cf072c60745bce477e5eb7108ea5312fe75685",
+  "retrieved_at": "2026-10-04T03:39:41+00:00",
+  "reason": "Outside collection: category 'social', ID 1064",
+  "selection_attempts": [],
+  "eligible_ids_sha256": "375d82d3b99a3f80c61e9d6ce5731db34d762994123a383f4eaceceebd96605b",
+  "eligible_ids_count": 643
+}

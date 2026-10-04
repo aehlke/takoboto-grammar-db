@@ -1,0 +1,85 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1440
+label: particles3
+title_raw: (particles3)
+title: (particles3)
+reading: null
+romanized_label: particles3
+category: lesson
+jlpt_level_original: '0'
+meaning: Noun-related Particles （と、や、とか、の）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=particles3
+archive_url: https://web.archive.org/web/20150224234445id_/http://www.jgram.org/pages/viewOne.php?tagE=particles3
+archive_timestamp: '20150224234445'
+retrieved_at: '2026-10-03T16:07:40+00:00'
+archive_digest: 6SI6U7VOGE5R7JFFPLN3V7NKW4Y7OUE3
+response_sha256: 86352c07dac8fedf13ea47d9ced5ad63a43e429077c73049d3602dbcd3e95dd1
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 6003
+    position: 0
+    japanese: 彼は上海で住んでいたので、戦争は彼とは全く関係のないところで行われていた．
+    body_text: "彼は上海で住んでいたので、戦争は彼とは全く関係のないところで行われていた． \n\n\t\tBecause he was living in Shang-hai, the war was being fought (lit. performed) in places that did not have a connection \n\t\twith \n\t\thim at all."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?9MHJ彼は上海で住んでいたので、戦争は彼とは全く関係のないところで行われていた．\">\n\t\t\t\t彼は上海で住んでいたので、戦争は彼<strong>と</strong>は全く関係のないところで行われていた．<strong></strong></a> <br/>\n\t\tBecause he was living in Shang-hai, the war was being fought (lit. performed) in places that did not have a connection \n\t\t<strong>with </strong>\n\t\thim at all."
+    credits_raw: nexalacer
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: nexalacer
+    text: How does [と] work with [へ] in a phrase such as [現在の管理社会へと至っています]?
+    html: How does [と] work with [へ] in a phrase such as [現在の管理社会へと至っています]?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(particles3)\n    Meaning: Noun-related Particles （と、や、とか、の） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (particles3)</span><br/>    <span><b>Meaning</b>: Noun-related Particles （と、や、とか、の） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: particles3
+    id: 1440
+    title_raw: (particles3)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=particles3
+    response_sha256: 86352c07dac8fedf13ea47d9ced5ad63a43e429077c73049d3602dbcd3e95dd1
+    section: Tutorial
+    section_html_sha256: 5c3fd90bcd60b5adb3d20ee230c8b09be2c7bd2d264b08b92214e61d00800407
+    section_text_sha256: 53f868aab6645b3390e80bd3e0405e15f9e9b6e014ef20ff1d246b240832133f
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8819
+    source_byte_length: 22284
+    section_bytes_sha256: 4cd32ff703b935e0fe680788db74f9019b73b3783df1fc23ee788d287d6f77d3
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224234445'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 57862402
+  length: 11285
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: e377f8f8808f23da7f0d5b0d9b397ca8ecea6109218754d5e7f8f2b0f9dbdb15

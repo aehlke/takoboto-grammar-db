@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1448
+label: question
+title_raw: (question)
+title: (question)
+reading: null
+romanized_label: question
+category: lesson
+jlpt_level_original: '0'
+meaning: The Question Marker　（か）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=question
+archive_url: https://web.archive.org/web/20200215025647id_/http://jgram.org:80/pages/viewOne.php?tagE=question
+archive_timestamp: '20200215025647'
+retrieved_at: '2026-10-04T04:15:41+00:00'
+archive_digest: KOQ3A6Q7KSCKDHKZPNCJTWRPHT5ZUEN2
+response_sha256: 1f45d7a4d89bb67de000e7666b11987a1f3436542b0b79d84fb8729fc7658ff0
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: riizhu
+    text: See also How to Ask Question In Japanese, (make question in formal and casual)
+    html: |-
+      See also <a href="http://japaneselearningonline.blogspot.com/2015/05/how-to-ask-question-in-japanese.html">How to Ask Question In Japanese</a>, (make question in formal and casual)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(question)\n    Meaning: The Question Marker　（か） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (question)</span><br/>    <span><b>Meaning</b>: The Question Marker　（か） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: question
+    id: 1448
+    title_raw: (question)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=question
+    response_sha256: 1f45d7a4d89bb67de000e7666b11987a1f3436542b0b79d84fb8729fc7658ff0
+    section: Tutorial
+    section_html_sha256: 67a1423502a5879329bc2d6a81d5991107af2e8970d7af92410b3e241fb4fb08
+    section_text_sha256: 3e8b5f4feccd4ef9a1c22d30d3240e3ec4eea9c6cd55f7d18593b7f4ef5b7879
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8049
+    source_byte_length: 14680
+    section_bytes_sha256: fb05d195ab2daf26f1cf93b439f296318962e6351a9e07d8d9653099d927e604
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215025647'

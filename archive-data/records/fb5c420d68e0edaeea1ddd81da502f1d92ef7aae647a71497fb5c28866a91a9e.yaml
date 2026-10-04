@@ -1,0 +1,95 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 382
+label: tokigatsuita
+title_raw: と気が付いた [ときがついた] (tokigatsuita)
+title: と気が付いた
+reading: ときがついた
+romanized_label: tokigatsuita
+category: grammar
+jlpt_level_original: '2'
+meaning: I realized
+meaning_example: natto is tasty, I realized
+credits_raw: dc
+source_url: http://www.jgram.org:80/pages/viewOne.php?tagE=tokigatsuita
+archive_url: https://web.archive.org/web/20080214080933id_/http://www.jgram.org:80/pages/viewOne.php?tagE=tokigatsuita
+archive_timestamp: '20080214080933'
+retrieved_at: '2026-10-04T04:31:15+00:00'
+archive_digest: VKVUSTXS7YXKWHRSNO7YVBM6I4HNLFPV
+response_sha256: d5d2f66b1043bfb7d9c0c03a370b96669f68fe857b53722c90fe46811243add6
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "See also kigasuru.\n\n\n\r\nkigasuru - feels like\n\n\n\r\nkigatsuku - i noticed\n\r\nkidsuku - i realized"
+    html: "See also <b><a href=\"http://www.jgram.org:80/pages/viewOne.php?tagE=kigasuru\">kigasuru</a></b>.<br/>\n<br/>\r\nkigasuru - feels like<br/>\n<br/>\r\nkigatsuku - i noticed<br/>\r\nkidsuku - i realized"
+    credits_raw: dc
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 379
+    position: 0
+    japanese: 納豆は美味しいと気が付いた
+    body_text: "納豆は美味しいと気が付いた \n\r\n\t\tnatto is tasty \r\n\t\tI realized."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ納豆は美味しいと気が付いた\">\r\n\t\t\t\t納豆は美味しい<strong>と気が付いた</strong><strong></strong></a> <br/>\r\n\t\tnatto is tasty \r\n\t\t<strong>I realized. </strong>"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3120
+    position: 1
+    japanese: 気がついたら病院のベッドに横たわっていた。
+    body_text: "気がついたら病院のベッドに横たわっていた。 \n\nWhen I came to, \r\n\t\tI was lying down on a hospital bed."
+    body_html: "<a href=\"http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?9MHJ気がついたら病院のベッドに横たわっていた。\">\n<strong>気がついたら</strong>病院のベッドに横たわっていた。<strong></strong></a> <br/>\n<strong>When I came to, </strong>\r\n\t\tI was lying down on a hospital bed."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: That was the wrong つく (fixed)
+    html: That was the wrong つく (fixed)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: KotatsuSama
+    text: うそよ！納豆は美味しくないよ！
+    html: うそよ！納豆は美味しくないよ！
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: hennagaijin
+    text: "I'm told that you must say:\n\r\n眠たいのに気が付いた\n\r\nCan anyone comment on that?"
+    html: "I'm told that you must say:<br/>\r\n眠たいのに気が付いた<br/>\r\nCan anyone comment on that?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: kigasuru
+    label: kigasuru
+    annotation_text: kigasuru    (these are the same...)
+    annotation_html: |-
+      <a href="http://www.jgram.org:80/pages/viewOne.php?tagE=kigasuru">kigasuru</a>    (these are the same...)
+    credits_raw: null
+sections:
+  - kind: header
+    text: "と気が付いた [ときがついた] (tokigatsuita)\n    Meaning: I realized \n    Example: natto is tasty, I realized\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>と気が付いた [ときがついた] (tokigatsuita)</span><br/>    <span><b>Meaning</b>: I realized </span><br/>    <b>Example</b>: <i>natto is tasty, I realized</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20080214080933'

@@ -1,0 +1,67 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1460
+label: wrapup4
+title_raw: (wrapup4)
+title: (wrapup4)
+reading: null
+romanized_label: wrapup4
+category: lesson
+jlpt_level_original: '0'
+meaning: Wrapping up section 4 and more gobi
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=wrapup4
+archive_url: https://web.archive.org/web/20200215022733id_/http://jgram.org:80/pages/viewOne.php?tagE=wrapup4
+archive_timestamp: '20200215022733'
+retrieved_at: '2026-10-04T04:40:41+00:00'
+archive_digest: A6ZLU4TQANN7RYZ6DGM4BZQ4NRSPV57S
+response_sha256: d1d2eefc6891b917bc941897d6ce491cb99b0c0eb96cdfb1c345ed7aa66b1e3a
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "Example 1\n\r\nアリス： 加賀先生、ちょっと質問を聞いてもいいですか？ \n\r\n加賀先生：　うん、いいですよ。← I feel odd if a teacher say「うん、いいですよ。」. 「はい、いいですよ。」 would be appropriate."
+    html: "Example 1<br/>\r\nアリス： 加賀先生、ちょっと質問を聞いてもいいですか？ <br/>\r\n加賀先生：　うん、いいですよ。← I feel odd if a teacher say「うん、いいですよ。」. 「はい、いいですよ。」 would be appropriate."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(wrapup4)\n    Meaning: Wrapping up section 4 and more gobi \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (wrapup4)</span><br/>    <span><b>Meaning</b>: Wrapping up section 4 and more gobi </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: wrapup4
+    id: 1460
+    title_raw: (wrapup4)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=wrapup4
+    response_sha256: d1d2eefc6891b917bc941897d6ce491cb99b0c0eb96cdfb1c345ed7aa66b1e3a
+    section: Tutorial
+    section_html_sha256: 6e0ecc285bc35e46c4d50208e337493ec2151969899de7b287267269fc2a973f
+    section_text_sha256: 2cc5bfd8f661e97dc13d7d12d76a2d869cfbad3424170871a968765e596e20f9
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8052
+    source_byte_length: 19000
+    section_bytes_sha256: c0a977cbf043ea94a4b5703a6416451eac3568cf672675e01d48f6729698d37f
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215022733'

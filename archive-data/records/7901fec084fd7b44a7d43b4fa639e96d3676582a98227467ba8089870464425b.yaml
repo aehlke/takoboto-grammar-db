@@ -1,0 +1,225 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1255
+label: nikakawaru
+title_raw: に関わる ([にかかわる] )(nikakawaru)
+title: に関わる
+reading: にかかわる
+romanized_label: nikakawaru
+category: grammar
+jlpt_level_original: '1'
+meaning: Brings about an effect on; relates to; a matter of 〜に影響を呼ばす。〜ノブ分には大切なことや重大な内容がくることが多い。単に「〜に関係する」の意味で用いることも多い
+meaning_example: that will affect our reputation
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=nikakawaru
+archive_url: https://web.archive.org/web/20200215023904id_/http://jgram.org:80/pages/viewOne.php?tagE=nikakawaru
+archive_timestamp: '20200215023904'
+retrieved_at: '2026-10-04T01:18:01+00:00'
+archive_digest: UUVELSAU4UZNGT63GQOLB6VZALAPY3JQ
+response_sha256: c99a288bf848829974e1a76f32b6698a6bb8e2b5ff21ba2cf22f3fdcdb0ebe1d
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: 名詞/noun+にかかわる+名詞
+    html: 名詞/noun+にかかわる+名詞
+    credits_raw: rochin
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: 'Ref # Kanzen Master Level 1 - p41 - no.37'
+    html: |-
+      <b>Ref <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=nikakawaru#">#</a></b></b> Kanzen Master Level 1 - p41 - no.37
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    text: "Brings about an effect on\n\r\nthe {〜} in {〜にかかわる} is often something that is important or serious.\n\r\nHowever, there are also uses where it simply means related to"
+    html: "Brings about an effect on<br/>\r\nthe {〜} in {〜にかかわる} is often something that is important or serious.<br/>\r\nHowever, there are also uses where it simply means related to"
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    text: "命に関わる\n\r\nIs a set phrase \"To be a matter of life or death\""
+    html: "命に関わる<br/>\r\nIs a set phrase \"To be a matter of life or death\""
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    text: |-
+      Such important / serious things that might be affected are frequently 命 life, 威信 prestige / dignity, 名誉 honour 〜生活〜 things to do with lifestyle 〜環境 environments.
+    html: |-
+      Such important / serious things that might be affected are frequently 命 life, 威信 prestige / dignity, 名誉 honour 〜生活〜 things to do with lifestyle 〜環境 environments.
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 3327
+    position: 0
+    japanese: ああいう行動は君の名誉にかかわる。
+    body_text: "ああいう行動は君の名誉にかかわる。 \r \n\n\t\tThat kind of behaviour affects your honour."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJああいう行動は君の名誉にかかわる。 \">\n\t\t\t\tああいう行動は君の名誉<strong>にかかわる</strong>。 \r<strong></strong></a> <br/>\n\t\tThat kind of behaviour affects your honour. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3328
+    position: 1
+    japanese: こういう行いは君の威信にかかわる。
+    body_text: "こういう行いは君の威信にかかわる。  \n\n\t\tSuch conduct \n\t\tis beneath \n\t\tyour dignity. (lit. will affect your dignity)."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこういう行いは君の威信にかかわる。 \">\n\t\t\t\tこういう行いは君の威信<strong>にかかわる</strong>。 <strong></strong></a> <br/>\n\t\tSuch conduct \n\t\t<strong>is beneath </strong>\n\t\tyour dignity. (lit. will affect your dignity)."
+    credits_raw: dc
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3329
+    position: 2
+    japanese: これは我が校の名誉にかかわる問題だ。
+    body_text: "これは我が校の名誉にかかわる問題だ。  \n\n\t\tThis \n\t\taffects \n\t\tthe honor of our school."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこれは我が校の名誉にかかわる問題だ。 \">\n\t\t\t\tこれは我が校の名誉<strong>にかかわる</strong>問題だ。 <strong></strong></a> <br/>\n\t\tThis \n\t\t<strong>affects </strong>\n\t\tthe honor of our school."
+    credits_raw: dc
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3330
+    position: 3
+    japanese: それは生死にかかわる問題だ。
+    body_text: "それは生死にかかわる問題だ。 \r \n\n\t\tIt is a matter of life and death."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJそれは生死にかかわる問題だ。 \">\n\t\t\t\tそれは生死<strong>にかかわる</strong>問題だ。 \r<strong></strong></a> <br/>\n\t\tIt is a matter of life and death. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3332
+    position: 4
+    japanese: よく注意して運転しないと、命にかかわるよ。
+    body_text: "よく注意して運転しないと、命にかかわるよ。  \n\n\t\tIf you drive with anything less than extreme caution, \n\t\tyou're risking \n\t\tyour life."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJよく注意して運転しないと、命にかかわるよ。 \">\n\t\t\t\tよく注意して運転しないと、命<strong>にかかわる</strong>よ。 <strong></strong></a> <br/>\n\t\tIf you drive with anything less than extreme caution, \n\t\t<strong>you're risking </strong>\n\t\tyour life."
+    credits_raw: dc
+    verification_class:
+      - green-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3333
+    position: 5
+    japanese: 酸素が不足することは大部分の動物にとって命にかかわることである。
+    body_text: "酸素が不足することは大部分の動物にとって命にかかわることである。 \r \n\n\t\tLack of oxygen is fatal to most animals."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ酸素が不足することは大部分の動物にとって命にかかわることである。 \">\n\t\t\t\t酸素が不足することは大部分の動物にとって命<strong>にかかわる</strong>ことである。 \r<strong></strong></a> <br/>\n\t\tLack of oxygen is fatal to most animals. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3334
+    position: 6
+    japanese: 私たちは狂気のテロ活動にかかわる者に寛容でいるつもりはない。
+    body_text: "私たちは狂気のテロ活動にかかわる者に寛容でいるつもりはない。 \r \n\n\t\tWe will not tolerate anyone who engages in insane terrorism."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私たちは狂気のテロ活動にかかわる者に寛容でいるつもりはない。 \">\n\t\t\t\t私たちは狂気のテロ活動<strong>にかかわる</strong>者に寛容でいるつもりはない。 \r<strong></strong></a> <br/>\n\t\tWe will not tolerate anyone who engages in insane terrorism. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3335
+    position: 7
+    japanese: 製品仕様にかかわる一切の工業所有権はＡＢＣ社に帰属するものとする。
+    body_text: "製品仕様にかかわる一切の工業所有権はＡＢＣ社に帰属するものとする。 \r \n\n\t\tAny industrial property rights relating to the Product Specification shall belong to ABC Inc."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ製品仕様にかかわる一切の工業所有権はＡＢＣ社に帰属するものとする。 \">\n\t\t\t\t製品仕様<strong>にかかわる</strong>一切の工業所有権はＡＢＣ社に帰属するものとする。 \r<strong></strong></a> <br/>\n\t\tAny industrial property rights relating to the Product Specification shall belong to ABC Inc. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3336
+    position: 8
+    japanese: 戦争は我々すべてにかかわることだ。
+    body_text: "戦争は我々すべてにかかわることだ。 \r \n\n\t\tWar concerns us all."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ戦争は我々すべてにかかわることだ。 \">\n\t\t\t\t戦争は我々すべて<strong>にかかわる</strong>ことだ。 \r<strong></strong></a> <br/>\n\t\tWar concerns us all. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3337
+    position: 9
+    japanese: 名誉にかかわる問題なので、彼は怒った。
+    body_text: "名誉にかかわる問題なので、彼は怒った。 \r \n\n\t\tHe got angry because his honor was at stake."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ名誉にかかわる問題なので、彼は怒った。 \">\n\t\t\t\t名誉<strong>にかかわる</strong>問題なので、彼は怒った。 \r<strong></strong></a> <br/>\n\t\tHe got angry because his honor was at stake. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3338
+    position: 10
+    japanese: 命にかかわるような病気ではありません。
+    body_text: "命にかかわるような病気ではありません。  \n\n\t\tThe illness is not a matter of life or death."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ命にかかわるような病気ではありません。 \">\n\t\t\t\t命<strong>にかかわる</strong>ような病気ではありません。 <strong></strong></a> <br/>\n\t\tThe illness is not a matter of life or death. \n\t\t<strong> </strong>"
+    credits_raw: dc
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7923
+    position: 11
+    japanese: 負ければ大国の威信にかかわるとあって、無意味な戦いが続けれた。
+    body_text: "負ければ大国の威信にかかわるとあって、無意味な戦いが続けれた。 \n\n\t\tIf the major power lost it would \n\t\taffect \n\t\tthe country's prestige, so for that reason alone, this meaningless war continued."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ負ければ大国の威信にかかわるとあって、無意味な戦いが続けれた。\">\n\t\t\t\t負ければ大国の威信<strong>にかかわる</strong>とあって、無意味な戦いが続けれた。<strong></strong></a> <br/>\n\t\tIf the major power lost it would \n\t\t<strong>affect </strong>\n\t\tthe country's prestige, so for that reason alone, this meaningless war continued."
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: dc
+    text: is this a formal version 関係?
+    html: is this a formal version 関係?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: blabby
+    text: The opposite to this is にかかわらず which is ２級 grammar.
+    html: The opposite to this is にかかわらず which is ２級 grammar.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Nanashi
+    text: The kanji is 関わる
+    html: The kanji is 関わる
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      に関わる ([にかかわる] )(nikakawaru)
+          Meaning: Brings about an effect on; relates to; a matter of 〜に影響を呼ばす。〜ノブ分には大切なことや重大な内容がくることが多い。単に「〜に関係する」の意味で用いることも多い
+          Example: that will affect our reputation
+          JLPT Level: 1
+          Category: grammar
+          Author: dc
+    html: |-
+      <span>に関わる ([にかかわる] )(nikakawaru)</span><br/>    <span><b>Meaning</b>: Brings about an effect on; relates to; a matter of 〜に影響を呼ばす。〜ノブ分には大切なことや重大な内容がくることが多い。単に「〜に関係する」の意味で用いることも多い</span><br/>    <b>Example</b>: <i>that will affect our reputation</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215023904'

@@ -1,0 +1,75 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1432
+label: honorhum
+title_raw: (honorhum)
+title: (honorhum)
+reading: null
+romanized_label: honorhum
+category: lesson
+jlpt_level_original: '0'
+meaning: Honorific and Humble Forms
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=honorhum
+archive_url: https://web.archive.org/web/20150224234800id_/http://www.jgram.org/pages/viewOne.php?tagE=honorhum
+archive_timestamp: '20150224234800'
+retrieved_at: '2026-10-03T16:08:17+00:00'
+archive_digest: ZGDCLSJHVZBL6LS54ZDTUNUXTRKWP652
+response_sha256: 541514984b14cd45be2cba32a03fe92717b6f831c519526a6e6dc588b3efbf97
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: I am the one thinks this is not correct. (4)千円からお預かりいたします。
+    html: I am the one thinks this is not correct. (4)千円からお預かりいたします。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(honorhum)\n    Meaning: Honorific and Humble Forms \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (honorhum)</span><br/>    <span><b>Meaning</b>: Honorific and Humble Forms </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: honorhum
+    id: 1432
+    title_raw: (honorhum)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=honorhum
+    response_sha256: 541514984b14cd45be2cba32a03fe92717b6f831c519526a6e6dc588b3efbf97
+    section: Tutorial
+    section_html_sha256: 5e2d4ccd78bd30b3ec29f8f7493b8822da20c33de10bb079502096dc0add4f5b
+    section_text_sha256: af487cdd2724c0eed13651eaa4ef8f271ae800a7ed35ab6ced0fea25cc4f3146
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8780
+    source_byte_length: 28915
+    section_bytes_sha256: 42a2f61e5454df5fb6a16b3723abfbad271b0f5d63bdbb1df09605747cc2aff5
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224234800'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 59960261
+  length: 11568
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: e595d2703f7af56a932cc4267a086ce2fd89a359220dee395953027f4812d9b4

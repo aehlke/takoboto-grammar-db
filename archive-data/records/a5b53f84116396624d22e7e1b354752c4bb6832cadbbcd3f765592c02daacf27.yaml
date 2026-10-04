@@ -1,0 +1,145 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 694
+label: doushite
+title_raw: どうして [どうして] (doushite)
+title: どうして
+reading: どうして
+romanized_label: doushite
+category: grammar
+jlpt_level_original: '4'
+meaning: why?, what for?
+meaning_example: Why didn't you come?
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=doushite
+archive_url: https://web.archive.org/web/20200215023108id_/http://jgram.org:80/pages/viewOne.php?tagE=doushite
+archive_timestamp: '20200215023108'
+retrieved_at: '2026-10-04T00:19:40+00:00'
+archive_digest: P3YD66XPF2XBVUYV5LRXVCQMSUYAY44G
+response_sha256: d162277fc42dc5e584fff98514ff193cdb526d2f24138392518ce9ce6cc41b2f
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      どうして　must end with <b>んです</b>　instead of まです　form
+    html: どうして　must end with &lt;b&gt;んです&lt;/b&gt;　instead of まです　form
+    credits_raw: natsumi
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 785
+    position: 0
+    japanese: どうしてそんなことが起こったのか。[ doushite sonna koto ga okotta no ka. ]
+    body_text: "どうしてそんなことが起こったのか。[ doushite sonna koto ga okotta no ka. ] \n\nHow \n\t\tdid such a thing come about?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJどうしてそんなことが起こったのか。[ \">\n<strong>どうして</strong>そんなことが起こったのか。[ <strong>doushite </strong>sonna koto ga okotta no ka. ]</a> <br/>\n<strong>How </strong>\n\t\tdid such a thing come about?"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 786
+    position: 1
+    japanese: どうして来なかったのですか。[doushite konakatta no desu ka. ]
+    body_text: "どうして来なかったのですか。[doushite konakatta no desu ka. ] \n\nWhy \n\t\tdidn't you come?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJどうして来なかったのですか。[\">\n<strong>どうして</strong>来なかったのですか。[<strong>doushite </strong>konakatta no desu ka. ]</a> <br/>\n<strong>Why </strong>\n\t\tdidn't you come?"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4785
+    position: 2
+    japanese: どうしてこんなに暑いのですか。[doushite konna ni atsui no desu ka.]
+    body_text: "どうしてこんなに暑いのですか。[doushite konna ni atsui no desu ka.] \n\nWhy \n\t\tis it so hot?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJどうしてこんなに暑いのですか。[\">\n<strong>どうして</strong>こんなに暑いのですか。[<strong>doushite </strong>konna ni atsui no desu ka.]</a> <br/>\n<strong>Why </strong>\n\t\tis it so hot?"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4786
+    position: 3
+    japanese: どうしてそんなに怒っているの。[doushite sonna ni ikatte iru no.]
+    body_text: "どうしてそんなに怒っているの。[doushite sonna ni ikatte iru no.] \n\nWhy \n\t\tare you so angry?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJどうしてそんなに怒っているの。[\">\n<strong>どうして</strong>そんなに怒っているの。[<strong>doushite </strong>sonna ni ikatte iru no.]</a> <br/>\n<strong>Why </strong>\n\t\tare you so angry?"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Miki
+    text: "Japanese is awkward. \n\r\nどうして来ないのですか。\n\r\nWhy don't you come?\n\r\nどうして来るのですか。招待していなのに。\n\r\nWhy do you come?"
+    html: "Japanese is awkward. <br/>\r\nどうして来ないのですか。<br/>\r\nWhy don't you come?<br/>\r\nどうして来るのですか。招待していなのに。<br/>\r\nWhy do you come?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Miki
+    text: Do you know「来る」カ行変格活用?
+    html: Do you know「来る」カ行変格活用?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: "→Kuru's 'ka' line conjugation? ;-)\n\r\n-ve くる→こない"
+    html: "→Kuru's 'ka' line conjugation? ;-)<br/>\r\n-ve くる→こない"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Miki
+    text: "I don't know if it help you lean 来る conjugation. It is also said to be カ行の三段 in a dictionary but I leant as カ行変格活用 at school as a child.\n\r\n「こ・き・くる・くる・くれ・こい」\n\r\n来ない・来ます・来る。・来るとき・来れば・来い！"
+    html: "I don't know if it help you lean 来る conjugation. It is also said to be カ行の三段 in a dictionary but I leant as カ行変格活用 at school as a child.<br/>\r\n「こ・き・くる・くる・くれ・こい」<br/>\r\n来ない・来ます・来る。・来るとき・来れば・来い！"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bamboo4
+    text: See the meaning of どう at "ka dou ka."
+    html: See the meaning of どう at "ka dou ka."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: dc
+    text: which is here kadouka
+    html: |-
+      which is here <a href="http://jgram.org:80/pages/viewOne.php?tagE=kadouka">kadouka</a>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: bamboo4
+    text: "どうして来るのですか。招待していなのに。\n\r\nWhy do you come?\n\n\n\r\nThe above is rather ambiguous. The English translation should be \"Why do you want to come,even when not invited.\" \n\n\n\r\nBesides, the expression is pretty rude. Consider: どうしてお出でになりたいのですか、ご招待申しあげてもいませんのに."
+    html: "どうして来るのですか。招待していなのに。<br/>\r\nWhy do you come?<br/>\n<br/>\r\nThe above is rather ambiguous. The English translation should be \"Why do you want to come,even when not invited.\" <br/>\n<br/>\r\nBesides, the expression is pretty rude. Consider: どうしてお出でになりたいのですか、ご招待申しあげてもいませんのに."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: tigert
+    text: "bamboo\n\n\n\r\nI have never said \"why do you want to come, even when not invited\" in my entire life. (native English speaker)\n\n\n\r\nA natural translation would be \"Why are you coming? I didn`t invite you.\" \n\n\n\r\nEnglish is a little more direct than Japanese. translating a phrase word for word never sounds natural."
+    html: "bamboo<br/>\n<br/>\r\nI have never said \"why do you want to come, even when not invited\" in my entire life. (native English speaker)<br/>\n<br/>\r\nA natural translation would be \"Why are you coming? I didn`t invite you.\" <br/>\n<br/>\r\nEnglish is a little more direct than Japanese. translating a phrase word for word never sounds natural."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "どうして [どうして] (doushite)\n    Meaning: why?, what for? \n    Example: Why didn't you come?\n    JLPT Level: 4\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>どうして [どうして] (doushite)</span><br/>    <span><b>Meaning</b>: why?, what for? </span><br/>    <b>Example</b>: <i>Why didn't you come?</i><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215023108'

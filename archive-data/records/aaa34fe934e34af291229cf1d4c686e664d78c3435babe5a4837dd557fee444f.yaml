@@ -1,0 +1,81 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1415
+label: basicgram
+title_raw: (basicgram)
+title: (basicgram)
+reading: null
+romanized_label: basicgram
+category: lesson
+jlpt_level_original: '0'
+meaning: Basic Grammatical Structures
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=basicgram
+archive_url: https://web.archive.org/web/20200215022953id_/http://jgram.org:80/pages/viewOne.php?tagE=basicgram
+archive_timestamp: '20200215022953'
+retrieved_at: '2026-10-04T03:00:01+00:00'
+archive_digest: INQGR7B7VRQBDUQHMU4DHP65EDUUZC5A
+response_sha256: 22ec8e8d3b8034dbbc7f07c6d984cf6147dd1c3fb7ba676060212eb385d2aa84
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: khad
+    text: It appears none of the links on this page work anymore.
+    html: It appears none of the links on this page work anymore.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: dc
+    text: fixed. thanks for pointing out...
+    html: fixed. thanks for pointing out...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: han-na_bae
+    text: wow!!! this is so helpful!!!! i'll become fluent in Japanese sooner then i expect!! yay!!!
+    html: wow!!! this is so helpful!!!! i'll become fluent in Japanese sooner then i expect!! yay!!!
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(basicgram)\n    Meaning: Basic Grammatical Structures \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (basicgram)</span><br/>    <span><b>Meaning</b>: Basic Grammatical Structures </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: basicgram
+    id: 1415
+    title_raw: (basicgram)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=basicgram
+    response_sha256: 22ec8e8d3b8034dbbc7f07c6d984cf6147dd1c3fb7ba676060212eb385d2aa84
+    section: Tutorial
+    section_html_sha256: ba2d0758b620ffa25702248d5ce10caee77eee600665ef852161bc25eb9f72f6
+    section_text_sha256: ec3e19ef11eb4d90c874dce040745a9a733ec0c167c149409642f3abfb5ef34d
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8101
+    source_byte_length: 1883
+    section_bytes_sha256: 555a76a6b9c32dd92021d6e8734fb086b88b43d77d4b00210ab780f1798990a3
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215022953'

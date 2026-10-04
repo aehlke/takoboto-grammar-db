@@ -2,6 +2,7 @@ import argparse
 import hashlib
 import json
 import sys
+import tarfile
 import re
 from pathlib import Path
 from contextlib import ExitStack
@@ -113,6 +114,12 @@ def verified_feed_labels(current, archive_root):
 def run(resources):
     parser = argparse.ArgumentParser(description="Archive only Takoboto's public grammar dataset")
     commands = parser.add_subparsers(dest="command", required=True)
+    evidence_backup = commands.add_parser('evidence-backup', help='Private backup of raw source evidence for offline audits; do not publish')
+    evidence_backup.add_argument('--input', default='.', help='Repository root containing the three datasets')
+    evidence_backup.add_argument('--output', required=True, help='Fresh private .tar.gz filename outside dataset roots')
+    evidence_restore = commands.add_parser('evidence-restore', help='Restore hash-verified private evidence into a fresh directory')
+    evidence_restore.add_argument('--bundle', required=True)
+    evidence_restore.add_argument('--output', required=True)
     migrate = commands.add_parser('migrate-yaml', help='Offline lossless conversion of legacy JSON content records to YAML')
     migrate.add_argument('--input', action='append', help='Source dataset directory (repeatable; defaults to data)')
     check = commands.add_parser("audit", help="Offline comparison of every captured grammar page against extracted records")
@@ -178,6 +185,14 @@ def run(resources):
     readers.add_argument('--archive-snapshot', action='append', default=[], help='Additional audited dated backup directory (repeatable)')
     readers.add_argument('--output', default='markdown', help='Managed reader directory (default: markdown)')
     args = parser.parse_args()
+    if args.command in {'evidence-backup', 'evidence-restore'}:
+        from .evidence import backup_evidence, restore_evidence
+        try:
+            report = backup_evidence(args.input, args.output) if args.command == 'evidence-backup' else restore_evidence(args.bundle, args.output)
+        except (OSError, ValueError, KeyError, TypeError, tarfile.TarError) as exc:
+            parser.error(f'Cannot preserve evidence: {exc}')
+        print(json.dumps(report, indent=2))
+        return 0
     if args.command == 'migrate-yaml':
         try:
             report = migrate_records(args.input or ['data'])

@@ -1,0 +1,75 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1428
+label: certainty
+title_raw: (certainty)
+title: (certainty)
+reading: null
+romanized_label: certainty
+category: lesson
+jlpt_level_original: '0'
+meaning: Expressing various levels of certainty　（かもしれない、でしょう、だろう）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=certainty
+archive_url: https://web.archive.org/web/20150224230938id_/http://www.jgram.org/pages/viewOne.php?tagE=certainty
+archive_timestamp: '20150224230938'
+retrieved_at: '2026-10-03T16:04:17+00:00'
+archive_digest: UG65TAONIMHPDXD4VHYV7AZ3BJG25OJZ
+response_sha256: f056fc95a21190d1111cef893656047d7fba5809070505262af3d7816fd6d924
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments:
+  - position: 0
+    credits_raw: dc
+    text: "\x01 seems to be the most sure something will occur."
+    html: "<b><a href=\"http://www.jgram.org/pages/viewOne.php?tagE=\x01\">\x01</a></b> seems to be the most sure something will occur."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(certainty)\n    Meaning: Expressing various levels of certainty　（かもしれない、でしょう、だろう） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (certainty)</span><br/>    <span><b>Meaning</b>: Expressing various levels of certainty　（かもしれない、でしょう、だろう） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: certainty
+    id: 1428
+    title_raw: (certainty)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=certainty
+    response_sha256: f056fc95a21190d1111cef893656047d7fba5809070505262af3d7816fd6d924
+    section: Tutorial
+    section_html_sha256: 0e81e894bdce41ac4163d0183fc8851514c4378ec524af559298ca20f6cd54e0
+    section_text_sha256: a6467ffb358ecd43d5ef41a0fb227c6afae03667e3f03177abf11b7b6b874162
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8849
+    source_byte_length: 9256
+    section_bytes_sha256: 8a6f352d4fa130c5eb01e9bf6c04180a9ec571f37e48211eba538846ef2be073
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224230938'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 17436483
+  length: 7903
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 1bf277f498f81fa36103d0ec9409debc47eba9df996f61021ea5e013da140597

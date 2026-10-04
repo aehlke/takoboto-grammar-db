@@ -1,0 +1,265 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1583
+label: seide
+title_raw: せいで ([せいで] )(seide)
+title: せいで
+reading: せいで
+romanized_label: seide
+category: grammar
+jlpt_level_original: '2'
+meaning: because of, due to (indicates only negative meaning) he died because~, he lost his fortune because~,...
+meaning_example: Due to lack of sleep, I have a headache today
+credits_raw: ziaz
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=seide
+archive_url: https://web.archive.org/web/20200215022322id_/http://jgram.org:80/pages/viewOne.php?tagE=seide
+archive_timestamp: '20200215022322'
+retrieved_at: '2026-10-04T01:38:09+00:00'
+archive_digest: BDU4ZJN5SXKEDQHQ5GRYMTZI7LILHHKN
+response_sha256: 9e950784db12a5f07d0152ca61187fc2ff7a668bc70b638d29c05825655a98be
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: せいで;のせいだ;せいで;せいか
+    html: せいで;のせいだ;せいで;せいか
+    credits_raw: ziaz
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: "所為　(せい)\t(n) cause/ reason/ fault (from WWWJDIC) Using the Kanji in this grammatical construction is likely very rare, however."
+    html: "所為　(せい)\t(n) cause/ reason/ fault (from WWWJDIC) Using the Kanji in this grammatical construction is likely very rare, however."
+    credits_raw: leslie
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 5966
+    position: 0
+    japanese: 寝不足のせいで、今日は頭がぼんやりしている
+    body_text: "寝不足のせいで、今日は頭がぼんやりしている \n\nDue to \n\t\tlack of sleep, today I'm absent minded."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ寝不足のせいで、今日は頭がぼんやりしている\">\n\t\t\t\t寝不足の<strong>せいで</strong>、今日は頭がぼんやりしている<strong></strong></a> <br/>\n<strong>Due to </strong>\n\t\tlack of sleep, today I'm absent minded."
+    credits_raw: ziaz
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5990
+    position: 1
+    japanese: あいつのせいで、先生に叱られた。
+    body_text: "あいつのせいで、先生に叱られた。 \n\n\t\tBecause of him, I was scolded by my teacher."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあいつのせいで、先生に叱られた。\">\n\t\t\t\tあいつの<strong>せいで</strong>、先生に叱られた。<strong></strong></a> <br/>\n\t\tBecause of him, I was scolded by my teacher. \n\t\t<strong> </strong>"
+    credits_raw: motodrift
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6428
+    position: 2
+    japanese: 気のせいか、彼は今日は何となく元気がなく感じられた。
+    body_text: "気のせいか、彼は今日は何となく元気がなく感じられた。 \n\n\t\tIs it my impression? He \n\t\tseems to be \n\t\tnot feeling well."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ気のせいか、彼は今日は何となく元気がなく感じられた。\">\n気の<strong>せいか</strong>、彼は今日は何となく元気がなく感じられた。<strong></strong></a> <br/>\n\t\tIs it my impression? He \n\t\t<strong>seems to be </strong>\n\t\tnot feeling well."
+    credits_raw: hadv
+    verification_class:
+      - red-bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6429
+    position: 3
+    japanese: 私は失敗したのは、彼のせいだ。
+    body_text: "私は失敗したのは、彼のせいだ。 \n\nBecause of \n\t\t  him, I failed."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私は失敗したのは、彼のせい\">\n私は失敗したのは、彼の<strong>せい</strong><strong></strong>だ。</a> <br/>\n<strong>Because of </strong>\n\t\t  him, I failed."
+    credits_raw: hadv
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6430
+    position: 4
+    japanese: 電車が遅れたせいで、遅刻した。
+    body_text: "電車が遅れたせいで、遅刻した。 \n\n\t\tI was late \n\t\tbecause \n\t\tthe train was late."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ電車が遅れたせいで、遅刻した。\">\n電車が遅れた<strong>せいで</strong>、遅刻した。<strong></strong></a> <br/>\n\t\tI was late \n\t\t<strong>because </strong>\n\t\tthe train was late."
+    credits_raw: hadv
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6431
+    position: 5
+    japanese: 暑いせいか、食欲がない。
+    body_text: "暑いせいか、食欲がない。 \n\nSince \n\t\tit's hot, I have no appetite."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ暑いせいか、食欲がない。\">\n暑い<strong>せいか</strong>、食欲がない。<strong></strong></a> <br/>\n<strong>Since </strong>\n\t\tit's hot, I have no appetite."
+    credits_raw: hadv
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6953
+    position: 6
+    japanese: 台風のせいで、旅行にいけなかったんです。
+    body_text: "台風のせいで、旅行にいけなかったんです。 \n\n\t\tWe did not go on the trip \n\t\tbecause of \nthe typhoon."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ台風のせいで\">\n台風の<strong>せいで</strong><strong></strong>、旅行にいけなかったんです。</a> <br/>\n\t\tWe did not go on the trip \n\t\t<strong>because of </strong>\nthe typhoon."
+    credits_raw: 赤毛
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7096
+    position: 7
+    japanese: 天気のせいか、気分が悪い。
+    body_text: "天気のせいか、気分が悪い。\r \n\n\t\tIt's the weather's fault that I don't feel good."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ天気のせいか、気分が悪い。\">\n\t\t\t\t天気のせいか、気分が悪い。\r<strong></strong><strong></strong></a> <br/>\n\t\tIt's the weather's fault that I don't feel good. \n\t\t<strong> </strong>"
+    credits_raw: Izumi19
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7097
+    position: 8
+    japanese: 学生が上手にならないのは、教え方が下手なせいかもしれない。
+    body_text: "学生が上手にならないのは、教え方が下手なせいかもしれない。 \n\n\t\tMaybe the student is not becoming good because of the poor way of teaching."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ学生が上手にならないのは、教え方が下手なせいかもしれない。\">\n\t\t\t\t学生が上手にならないのは、教え方が下手なせいかもしれない。<strong></strong><strong></strong></a> <br/>\n\t\tMaybe the student is not becoming good because of the poor way of teaching. \n\t\t<strong> </strong>"
+    credits_raw: Izumi19
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 7154
+    position: 9
+    japanese: "熱がある\r\nせいで何を食べてもおいしくない。"
+    body_text: "熱がある\r\nせいで何を食べてもおいしくない。 \n\n\t\tThose food all not taste to me \n\t\tbecause of \n\t\ti feel fever."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ熱があるせいで何を食べてもおいしくない。\">\n\t\t\t\t熱がある\r\n<strong>せいで</strong>何を食べてもおいしくない。<strong></strong></a> <br/>\n\t\tThose food all not taste to me \n\t\t<strong>because of </strong>\n\t\ti feel fever."
+    credits_raw: sureshnihon
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8415
+    position: 10
+    japanese: 彼女がパーティーに来なかったのは病気のせいだ。
+    body_text: "彼女がパーティーに来なかったのは病気のせいだ。\r \n\n\t\tIt was because she was ill that she didn't come to the party."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女がパーティーに来なかったのは病気のせいだ。\">\n\t\t\t\t彼女がパーティーに来なかったのは病気のせいだ。\r<strong></strong><strong></strong></a> <br/>\n\t\tIt was because she was ill that she didn't come to the party. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8416
+    position: 11
+    japanese: 私が失敗したのは怠惰のせいだ。
+    body_text: "私が失敗したのは怠惰のせいだ。\r \n\n\t\tMy failure is due to the fact that I was lazy."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私が失敗したのは怠惰のせいだ。\">\n\t\t\t\t私が失敗したのは怠惰のせいだ。\r<strong></strong><strong></strong></a> <br/>\n\t\tMy failure is due to the fact that I was lazy. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8417
+    position: 12
+    japanese: 彼らの到着が遅れたのは雨のせいだった。
+    body_text: "彼らの到着が遅れたのは雨のせいだった。\r \n\n\t\tTheir late arrival was owing to the rain."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼らの到着が遅れたのは雨のせいだった。\">\n\t\t\t\t彼らの到着が遅れたのは雨のせいだった。\r<strong></strong><strong></strong></a> <br/>\n\t\tTheir late arrival was owing to the rain. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8418
+    position: 13
+    japanese: 彼女の美貌は年のせいで衰えた。
+    body_text: "彼女の美貌は年のせいで衰えた。\r \n\n\t\tHer beauty withered with age."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼女の美貌は年のせいで衰えた。\">\n\t\t\t\t彼女の美貌は年の<strong>せいで</strong>衰えた。\r<strong></strong></a> <br/>\n\t\tHer beauty withered with age. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: 'What happened to the English verisons of ex #6428,ex #6429,ex #6430 and ex #6431?'
+    html: |-
+      What happened to the English verisons of ex <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=seide#6428">#6428</a></b>,ex <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=seide#6429">#6429</a></b>,ex <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=seide#6430">#6430</a></b> and ex <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=seide#6431">#6431</a></b>?<br/>
+      <br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: gahoangdai
+    text: About the Ex 6430．。。The Translation should be...Because of the late train,So I came late!
+    html: About the Ex 6430．。。The Translation should be...Because of the late train,So I came late!
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: gahoangdai
+    text: Ex 6429 The translation should be..Because of him,I failed.
+    html: Ex 6429 The translation should be..Because of him,I failed.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Izumi19
+    text: What's with the か after せい、and how do you know when to use か、で, or nothing at all after the せい？
+    html: What's with the か after せい、and how do you know when to use か、で, or nothing at all after the せい？
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: lucinda lohmanoota
+    text: Ex. 6430 should be translated as "I was late because the train was late (or delayed).
+    html: Ex. 6430 should be translated as "I was late because the train was late (or delayed).
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Cyrus
+    text: I came to hear, that せいか can also have positive results. Can someone approve of that?
+    html: I came to hear, that せいか can also have positive results. Can someone approve of that?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: ichigo_venky
+    text: "@Cyrus: Yes seika is used whether the result is desirable/undesirable\n\r\nEx: Jp:Kanojo ga iru seika shigoto ga yoku dekiru.\n\r\n    Eng:I think it is because she is here that i can do a lot of work."
+    html: "@Cyrus: Yes seika is used whether the result is desirable/undesirable<br/>\r\nEx: Jp:Kanojo ga iru seika shigoto ga yoku dekiru.<br/>\r\n    Eng:I think it is because she is here that i can do a lot of work.<br/>\n<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: okagede
+    label: okagede
+    annotation_text: okagede [hadv]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=okagede">okagede</a> [<a href="http://jgram.org:80/pages/contributions.php?author=hadv">hadv</a>]
+    credits_raw: hadv
+  - position: 1
+    target_label: bakarini
+    label: bakarini
+    annotation_text: bakarini [hadv]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=bakarini">bakarini</a> [<a href="http://jgram.org:80/pages/contributions.php?author=hadv">hadv</a>]
+    credits_raw: hadv
+sections:
+  - kind: header
+    text: |-
+      せいで ([せいで] )(seide)
+          Meaning: because of, due to (indicates only negative meaning) he died because~, he lost his fortune because~,...
+          Example: Due to lack of sleep, I have a headache today
+          JLPT Level: 2
+          Category: grammar
+          Author: ziaz
+    html: |-
+      <span>せいで ([せいで] )(seide)</span><br/>    <span><b>Meaning</b>: because of, due to (indicates only negative meaning) he died because~, he lost his fortune because~,...</span><br/>    <b>Example</b>: <i>Due to lack of sleep, I have a headache today</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>ziaz</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215022322'

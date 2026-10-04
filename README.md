@@ -15,17 +15,24 @@ The complete Takoboto crawl contains **643 entries, 5,334 examples, 5,324
 translations, and 4,546 comments**, plus 150 additional meaning explanations.
 An independent offline audit accounts for the captured grammar content.
 
-The original ArchiveTeam JGram backup yielded **704 captured pages containing
-705 historical entry observations** from February 24–March 2, 2015: 844 notes,
-5,537 examples, 3,849 comments and 912 annotated references. It preserves
-**80 original entry IDs absent from current
-Takoboto**. Every one of the backup's 1,077 selected labels was processed:
-704 included pages, 310 verified exclusions and 63 tutorial pages held for review.
-The newer Wayback supplement contains **63 verified observations**, with 73
-notes, 446 examples, 248 comments and 68 references. Historical observations
-can overlap current records and each other; these are not unique-content totals.
-Five latest original grammar RSS feeds preserve four excerpts and publication
-dates. Capture dates and RSS events are separate from contribution dates.
+The original ArchiveTeam JGram backup yielded **766 page captures containing
+767 historical entry observations** from February 24–March 2, 2015: 846 notes,
+5,554 examples, 3,886 comments and 924 annotated references. It preserves
+**141 original IDs absent from current Takoboto**. All 1,077 selected backup
+labels are resolved: 766 included pages and 311 verified exclusions. The 63
+previous tutorial holds are recovered as explicitly partial observations.
+
+The latest-indexed Wayback set contains **890 verified pages / 893 entry
+observations**, with 944 notes, 6,085 examples, 4,356 comments and 1,007
+references. All 1,414 discovered labels were attempted: 512 are verified
+exclusions, 11 replays failed and one remains held for license evidence.
+A separate **March 27, 2014 revision of `sou-2`** recovers original ID 663,
+with two notes, six examples, two comments and five references. It is explicitly
+an earlier revision; the latest no-entry response remains preserved.
+Historical observations overlap current records and each other; these are not
+unique-content totals. Five original grammar RSS feeds preserve four excerpts
+and publication dates. Capture dates and RSS events are separate from
+contribution dates.
 
 See **[provenance and recovery](docs/provenance.md)** for backup discovery,
 source hashes, encoding repairs, scope decisions and unresolved cases. Per-record
@@ -42,11 +49,13 @@ Release assets include attribution, the complete data license, permission
 instructions, provenance, a recovery ledger, a build manifest and SHA-256 checksums. The database also embeds
 these notices in its `metadata` table and retains contributor credits.
 
-The release includes the complete captured Takoboto collection and a **partial
-JGram archive supplement**. The latest Wayback inventory still has 1,347
-unresolved labels, including aliases and non-grammar pages; the 2015 backup
-does not establish their final online content. See [remaining recovery work](docs/remaining-work.md)
-for the saved-attempt breakdown and priorities.
+The release includes the complete captured Takoboto collection and a
+**partial JGram historical supplement**. There are 12 unresolved latest labels,
+including corrupted aliases. Only current IDs 1795 (`~ageru`) and 1797 (`temade`)
+lack a recovered historical observation; both current records are preserved.
+See [remaining recovery work](docs/remaining-work.md). Separately copyrighted
+Tutorial cells are omitted from 84 latest pages and 63 backup pages, with exact
+source-bound omission metadata. No gap-free final historical database is claimed.
 
 To generate reader Markdown and SQLite locally from the committed records,
 without requesting either website:
@@ -85,6 +94,8 @@ archive-data/
   inventory.json                 complete paginated Wayback CDX discovery
   records/<label-hash>.yaml       separate historical source observations
   feeds/<name>.yaml               original RSS excerpts and publication dates
+  earlier-records/<hash>-<timestamp>.yaml   explicitly earlier indexed revisions
+  earlier-states/<hash>-<timestamp>.json    independent earlier-source verification
   states/<label-hash>.json        latest entry attempt and verified record hash
   feed-states/<path-hash>.json    latest RSS attempt and verified record hash
   cache/responses/<sha256>.bin    original archived bytes
@@ -95,7 +106,7 @@ archive-2015/
   inventory.json                 original ArchiveTeam index selection and hash
   records/<label-hash>.yaml       dated backup observations with WARC provenance
   states/<label-hash>.json        extraction, exclusion and review decisions
-  coverage-report.json           source checks and 63 held tutorial labels
+  coverage-report.json           source checks and explicit section omissions
   cache/                         local compressed index and scoped WARC members
 exports/
   grammar.sqlite
@@ -114,7 +125,7 @@ After an authorized crawl into the existing `data` and `archive-data`
 directories, review the canonical YAML diffs:
 
 ```sh
-git diff -- data/records archive-data/records archive-2015/records archive-data/feeds
+git diff -- data/records archive-data/records archive-data/earlier-records archive-2015/records archive-data/feeds
 git status --short
 ```
 
@@ -141,7 +152,7 @@ publish a new database artifact for each release.
 ## Run
 
 The implementation passed an initial [two-page live smoke test](recon/uv-smoke-test.json)
-and now passes **144 automated tests**.
+and now passes **166 automated tests**.
 GitHub checks both Python 3.11 and 3.14, including an offline build of all
 committed YAML records, with fingerprints for every normalized table and view.
 Run that preservation check locally with
@@ -234,12 +245,14 @@ preserve earlier files if replacement is interrupted. Failed temporary files
 are retained for inspection; they are excluded from record reads.
 
 The [recovery ledger](recon/archive-recovery.json) records the latest source QA:
-all 643 current records, 704 backup pages (705 entry observations), 63 newer observations and five
-RSS feeds pass their applicable checks. Source audits require local raw caches;
+all 643 current records, 766 backup pages (767 entry observations), 890 latest
+pages (893 entry observations), one earlier revision and five RSS feeds pass
+their applicable checks. Source audits require local raw caches;
 a fresh clone can reproduce SQLite and Markdown offline from committed records
 and verification states. Persistent states block export after unsuccessful
 refreshes. Same-digest older captures can establish equivalent latest content;
-older different revisions remain held. Historical scope reviews are recorded in
+older different revisions remain held unless separately recovered and verified
+as explicit earlier observations. Historical scope reviews are recorded in
 [grammar-membership.yaml](src/takoboto_grammar/grammar-membership.yaml).
 
 Individual failures and unfamiliar data blocks are reported. Review warnings

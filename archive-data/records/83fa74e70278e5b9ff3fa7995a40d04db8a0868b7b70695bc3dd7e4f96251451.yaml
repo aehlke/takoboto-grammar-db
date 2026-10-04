@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1420
+label: desire
+title_raw: (desire)
+title: (desire)
+reading: null
+romanized_label: desire
+category: lesson
+jlpt_level_original: '0'
+meaning: Desire and Suggestions
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=desire
+archive_url: https://web.archive.org/web/20200215024826id_/http://jgram.org:80/pages/viewOne.php?tagE=desire
+archive_timestamp: '20200215024826'
+retrieved_at: '2026-10-04T03:08:52+00:00'
+archive_digest: PNZD335XNNZOTMQ4HPKVPUMBGG3G26CS
+response_sha256: 1ccc76dde2d292f09950ced9506ada601c5199300c050a9075083ea9e290a626
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(desire)\n    Meaning: Desire and Suggestions \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (desire)</span><br/>    <span><b>Meaning</b>: Desire and Suggestions </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: desire
+    id: 1420
+    title_raw: (desire)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=desire
+    response_sha256: 1ccc76dde2d292f09950ced9506ada601c5199300c050a9075083ea9e290a626
+    section: Tutorial
+    section_html_sha256: 00c3e9c01282d913f8182ca2334852167fc7a6829db9bd371fa79af10fa1a852
+    section_text_sha256: 26c62e97e5930d8efc9e0f7bea239d85723e72031d406c6f577bfdb633e13141
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8092
+    source_byte_length: 17068
+    section_bytes_sha256: 91a032eae874633fac429688dd68b3d3b0d75fd8bfec4da86415cc5a4c075666
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215024826'

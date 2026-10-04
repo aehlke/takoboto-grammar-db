@@ -1,0 +1,92 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1114
+label: yomoya
+title_raw: よもや [よもや] (yomoya)
+title: よもや
+reading: よもや
+romanized_label: yomoya
+category: grammar
+jlpt_level_original: '2'
+meaning: surely not
+meaning_example: I never expected you would come
+credits_raw: bamboo4
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=yomoya
+archive_url: https://web.archive.org/web/20200215030137id_/http://jgram.org:80/pages/viewOne.php?tagE=yomoya
+archive_timestamp: '20200215030137'
+retrieved_at: '2026-10-04T02:17:28+00:00'
+archive_digest: NH3IV56INVJBIID6LQJJPNO3JU7HDAT7
+response_sha256: d07d4e8f65e58c25a3cce81711deab5b6245f7c3b24a0e68205199bef11e715b
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 3071
+    position: 0
+    japanese: よもやそんなことは有り得ない
+    body_text: "よもやそんなことは有り得ない \n\n\t\tThat \n\t\tcan't possbly \n\t\tbe true!"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJよもやそんなことは有り得ない\">\n<strong>よもや</strong>そんなことは有り得ない<strong></strong></a> <br/>\n\t\tThat \n\t\t<strong>can't possbly </strong>\n\t\tbe true!"
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 6484
+    position: 1
+    japanese: よもやそんなことはあるまい。
+    body_text: "よもやそんなことはあるまい。 \n\n\t\tIt is highly improbable."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJよもやそんなことはあるまい。\">\n<strong>よもや</strong>そんなことはあるまい。<strong></strong></a> <br/>\n\t\tIt is highly improbable. \n\t\t<strong> </strong>"
+    credits_raw: Nyssa
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8537
+    position: 2
+    japanese: 私はよもや彼女が有罪だとは思ってもみなかった。
+    body_text: "私はよもや彼女が有罪だとは思ってもみなかった。 \n\n\t\tI hadn`t the slightest suspicion of her guilt."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ私はよもや彼女が有罪だとは思ってもみなかった。\">\n\t\t\t\t私は<strong>よもや</strong>彼女が有罪だとは思ってもみなかった。<strong></strong></a> <br/>\n\t\tI hadn`t the slightest suspicion of her guilt. \n\t\t<strong> </strong>"
+    credits_raw: karekano
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: bamboo4
+    text: よもや and まさか are interchangeable, but よもや I think is more critical about incredulity than まさか.
+    html: |-
+      よもや and まさか are interchangeable, but よもや I think is more critical about incredulity than まさか.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: vigokrell
+    text: Can よもや be used as a stand alone word (i.e. "I can't believe it!") the same way まさか can?
+    html: Can よもや be used as a stand alone word (i.e. "I can't believe it!") the same way まさか can?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: masaka
+    label: masaka
+    annotation_text: masaka [bamboo4]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=masaka">masaka</a> [<a href="http://jgram.org:80/pages/contributions.php?author=bamboo4">bamboo4</a>]
+    credits_raw: bamboo4
+sections:
+  - kind: header
+    text: "よもや [よもや] (yomoya)\n    Meaning: surely not \n    Example: I never expected you would come\n    JLPT Level: 2\n    Category: grammar\n    Author: bamboo4"
+    html: |-
+      <span>よもや [よもや] (yomoya)</span><br/>    <span><b>Meaning</b>: surely not </span><br/>    <b>Example</b>: <i>I never expected you would come</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>bamboo4</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215030137'

@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1420
+label: DesireAndSuggestions
+title_raw: '- (DesireAndSuggestions)'
+title: '- (DesireAndSuggestions)'
+reading: null
+romanized_label: DesireAndSuggestions
+category: lesson
+jlpt_level_original: '0'
+meaning: '-'
+meaning_example: '-'
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=DesireAndSuggestions
+archive_url: https://web.archive.org/web/20051226023114id_/http://jgram.org:80/pages/viewOne.php?tagE=DesireAndSuggestions
+archive_timestamp: '20051226023114'
+retrieved_at: '2026-10-04T02:35:03+00:00'
+archive_digest: BZ2OKIT3LSW4ONQWLJGRGIS6OJHPM2IQ
+response_sha256: 7cf39e90a60986dd05a18654d0674d480fd383675f2bdb33ba491348a32eec78
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "- (DesireAndSuggestions)\n    Meaning: - \n    Example: -\n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>- (DesireAndSuggestions)</span><br/>    <span><b>Meaning</b>: - </span><br/>    <b>Example</b>: <i>-</i><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: DesireAndSuggestions
+    id: 1420
+    title_raw: '- (DesireAndSuggestions)'
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=DesireAndSuggestions
+    response_sha256: 7cf39e90a60986dd05a18654d0674d480fd383675f2bdb33ba491348a32eec78
+    section: Tutorial
+    section_html_sha256: a0255d2c97aa6f8e4c2d316a88994e044a8839d1bb507cc2c409726e61fee6ff
+    section_text_sha256: 5c623afa817c6fc1d5ff28931f72fd70085e2565a1923f6accb88fe6a229c91f
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8085
+    source_byte_length: 21266
+    section_bytes_sha256: b4bc4eb018d5074f04e883ebd11b2f80dad9eae24142d9dea5890e90502a8a3d
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20051226023114'

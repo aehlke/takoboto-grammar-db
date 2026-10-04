@@ -1,0 +1,89 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1758
+label: tekaratoiumono
+title_raw: てからというもの ([てからというもの] )(tekaratoiumono)
+title: てからというもの
+reading: てからというもの
+romanized_label: tekaratoiumono
+category: null
+jlpt_level_original: '1'
+meaning: Ever Since s.t. changed てから後はずっと
+meaning_example: Ever since the daughter returned, her aging father has really perked up
+credits_raw: LR
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=tekaratoiumono
+archive_url: https://web.archive.org/web/20200215024300id_/http://jgram.org:80/pages/viewOne.php?tagE=tekaratoiumono
+archive_timestamp: '20200215024300'
+retrieved_at: '2026-10-04T01:50:52+00:00'
+archive_digest: IRHNRM3PEISKWRKK7JB7TEXISIOLAVGP
+response_sha256: 7a27eeb28bb6473e12f6f5b272ddfc68479e331b858ac76845f0d4c845d8fec0
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: 'Ref # Kanzen Master Level 1 - p6 - no.8'
+    html: |-
+      <b>Ref <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=tekaratoiumono#">#</a></b></b> Kanzen Master Level 1 - p6 - no.8<br/>
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    text: |-
+      This expression means "ever since ~", and is appended to the V て form to indicate that a behavior, perception, or situation has undergone a major change as the result of a certain occurence. It conveys surprise, admiration, or similar feelings regarding the change.
+    html: |-
+      This expression means "ever since ~", and is appended to the V て form to indicate that a behavior, perception, or situation has undergone a major change as the result of a certain occurence. It conveys surprise, admiration, or similar feelings regarding the change.
+    credits_raw: LR
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 8033
+    position: 0
+    japanese: 娘が帰って来てからというもの、年老いた父親を見違えるほど元気になった
+    body_text: "娘が帰って来てからというもの、年老いた父親を見違えるほど元気になった\r \n\n\t\tEver since the daughter returned, her aging father has really perked up"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ娘が帰って来てからというもの、年老いた父親を見違えるほど元気になった\">\n\t\t\t\t娘が帰って来<strong>てからというもの</strong>、年老いた父親を見違えるほど元気になった\r<strong></strong></a> <br/>\n\t\tEver since the daughter returned, her aging father has really perked up \n\t\t<strong> </strong>"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8034
+    position: 1
+    japanese: 水泳を習い始めてからというもの、冬でも風邪を引かなかった。
+    body_text: "水泳を習い始めてからというもの、冬でも風邪を引かなかった。\r \n\n\t\tEver since I started learning how to swim, even in winter, I don't catch a cold."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ水泳を習い始めてからというもの、冬でも風邪を引かなかった。\">\n\t\t\t\t水泳を習い始め<strong>てからというもの</strong>、冬でも風邪を引かなかった。\r<strong></strong></a> <br/>\n\t\tEver since I started learning how to swim, even in winter, I don't catch a cold. \n\t\t<strong> </strong>"
+    credits_raw: LR
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: yuzuha
+    text: Grammar name missing an "a" letter.
+    html: Grammar name missing an "a" letter.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: |-
+      てからというもの ([てからというもの] )(tekaratoiumono)
+          Meaning: Ever Since s.t. changed てから後はずっと
+          Example: Ever since the daughter returned, her aging father has really perked up
+          JLPT Level: 1
+          Author: LR
+    html: |-
+      <span>てからというもの ([てからというもの] )(tekaratoiumono)</span><br/>    <span><b>Meaning</b>: Ever Since s.t. changed てから後はずっと</span><br/>    <b>Example</b>: <i>Ever since the daughter returned, her aging father has really perked up</i><br/>    <b>JLPT Level</b>: 1<br/>    <b>Author</b>: <i>LR</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215024300'

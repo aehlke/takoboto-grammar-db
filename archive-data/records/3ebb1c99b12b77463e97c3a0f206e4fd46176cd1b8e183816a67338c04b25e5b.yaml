@@ -1,0 +1,151 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 775
+label: ka
+title_raw: 〜か [〜か] (ka)
+title: 〜か
+reading: 〜か
+romanized_label: ka
+category: grammar
+jlpt_level_original: '4'
+meaning: '? (basic question particle)'
+meaning_example: Is this your book?
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=ka
+archive_url: https://web.archive.org/web/20200215021625id_/http://jgram.org:80/pages/viewOne.php?tagE=ka
+archive_timestamp: '20200215021625'
+retrieved_at: '2026-10-04T00:34:31+00:00'
+archive_digest: OREV3ZQLKA7SXXZSMDTDIQMPAFJDBGUD
+response_sha256: 8ed7d2b3dcf2f33be079f2ff45731b2d4da7b84a11b906e77bdb3135449ed01d
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "か has many uses but it can be used as a question mark, just like what we have in English:\n\n\n\r\nDid he eat dinner?\n\r\n彼は夕方ご飯を食べましたか。\n\n\n\r\nDid he go to Japan last year?\n\r\n来年彼は日本に行きましたか。"
+    html: "か has many uses but it can be used as a question mark, just like what we have in English:<br/>\n<br/>\r\nDid he eat dinner?<br/>\r\n彼は夕方ご飯を食べましたか。<br/>\n<br/>\r\nDid he go to Japan last year?<br/>\r\n来年彼は日本に行きましたか。"
+    credits_raw: Sakuratree
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 621
+    position: 0
+    japanese: これはあなたの本ですか。
+    body_text: "これはあなたの本ですか。 \n\n\t\tIs this your book \n\t\t?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこれはあなたの本ですか。\">\n\t\t\t\tこれはあなたの本です<strong>か。</strong><strong></strong></a> <br/>\n\t\tIs this your book \n\t\t<strong>? </strong>"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4829
+    position: 1
+    japanese: 家に帰りましょうか。
+    body_text: "家に帰りましょうか。 \n\n\t\tWhy don't we go home \n\t\t?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ家に帰りましょうか。\">\n\t\t\t\t家に帰りましょう<strong>か。</strong><strong></strong></a> <br/>\n\t\tWhy don't we go home \n\t\t<strong>? </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4830
+    position: 2
+    japanese: ひとつ質問をしてもいいですか。
+    body_text: "ひとつ質問をしてもいいですか。 \n\n\t\tMay I ask you a question \n\t\t?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJひとつ質問をしてもいいですか。\">\n\t\t\t\tひとつ質問をしてもいいです<strong>か。</strong><strong></strong></a> <br/>\n\t\tMay I ask you a question \n\t\t<strong>? </strong>"
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8628
+    position: 3
+    japanese: 今日は鶏肉を買いましたか。
+    body_text: "今日は鶏肉を買いましたか。 \n\n\t\tDid you buy chicken today \n\t\t?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ今日は鶏肉を買いましたか。\">\n\t\t\t\t今日は鶏肉を買いました<strong>か</strong>。<strong></strong></a> <br/>\n\t\tDid you buy chicken today \n\t\t<strong>? </strong>"
+    credits_raw: Sakuratree
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: N.B. Commonly name-san would be used in place of anata
+    html: |-
+      N.B. Commonly <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=name-san">name-san</a></b> would be used in place of <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=anata">anata</a></b>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "Placed on the end of a sentence. \n\n\n\r\nS = sentence"
+    html: "Placed on the end of a sentence. <br/>\n<br/>\r\nS = sentence"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Ramesh
+    text: I see question mark "?" after particle ka in several japanese writing on internet.
+    html: "<br/>\r\nI see question mark \"?\" after particle ka in several japanese writing on internet.<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: sandra
+    text: better to romanize as {kore WA anata no hon desu ka}, as in this case it is a postposition and is pronounced as wa...
+    html: better to romanize as {kore WA anata no hon desu ka}, as in this case it is a postposition and is pronounced as wa...
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Pete
+    text: "Notes has \"rainen\" (来年), maybe it should be \"sakunen\"? (昨年)\n\r\n[Did he go to Japan last year?]"
+    html: "Notes has \"rainen\" (来年), maybe it should be \"sakunen\"? (昨年)<br/>\r\n[Did he go to Japan last year?]"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: kke
+    label: kke
+    annotation_text: kke [dc]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=kke">kke</a> [<a href="http://jgram.org:80/pages/contributions.php?author=dc">dc</a>]
+    credits_raw: dc
+  - position: 1
+    target_label: dai
+    label: dai
+    annotation_text: dai    (か [e.g. with Vmます] (typical 'outgroup' question) だい [e.g. with Vru] casual question.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=dai">dai</a>    (か [e.g. with Vmます] (typical 'outgroup' question) だい [e.g. with Vru] casual question.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 2
+    target_label: kai
+    label: kai
+    annotation_text: kai    (か [e.g. with Vmます] (typical 'outgroup' question) かい [e.g. with Vru] casual question.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=kai">kai</a>    (か [e.g. with Vmます] (typical 'outgroup' question) かい [e.g. with Vru] casual question.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 3
+    target_label: no-3
+    label: no-3
+    annotation_text: no-3    (の is a question particle used in female speech.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=no-3">no-3</a>    (の is a question particle used in female speech.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+sections:
+  - kind: header
+    text: "〜か [〜か] (ka)\n    Meaning: ? (basic question particle) \n    Example: Is this your book?\n    JLPT Level: 4\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>〜か [〜か] (ka)</span><br/>    <span><b>Meaning</b>: ? (basic question particle) </span><br/>    <b>Example</b>: <i>Is this your book?</i><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215021625'

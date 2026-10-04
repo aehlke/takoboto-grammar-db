@@ -1,0 +1,77 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1440
+label: particles3
+title_raw: (particles3)
+title: (particles3)
+reading: null
+romanized_label: particles3
+category: lesson
+jlpt_level_original: '0'
+meaning: Noun-related Particles （と、や、とか、の）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=particles3
+archive_url: https://web.archive.org/web/20200215022247id_/http://jgram.org:80/pages/viewOne.php?tagE=particles3
+archive_timestamp: '20200215022247'
+retrieved_at: '2026-10-04T04:13:44+00:00'
+archive_digest: 4L5OWD4XJVFZPJ3RBHWZFDLJU6TTEDPE
+response_sha256: edd2f94b2ffb81576149424257143d9f97ca1b186a837e1b35150b13936c17a6
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 6003
+    position: 0
+    japanese: 彼は上海で住んでいたので、戦争は彼とは全く関係のないところで行われていた．
+    body_text: "彼は上海で住んでいたので、戦争は彼とは全く関係のないところで行われていた． \n\n\t\tBecause he was living in Shang-hai, the war was being fought (lit. performed) in places that did not have a connection \n\t\twith \n\t\thim at all."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ彼は上海で住んでいたので、戦争は彼とは全く関係のないところで行われていた．\">\n\t\t\t\t彼は上海で住んでいたので、戦争は彼<strong>と</strong>は全く関係のないところで行われていた．<strong></strong></a> <br/>\n\t\tBecause he was living in Shang-hai, the war was being fought (lit. performed) in places that did not have a connection \n\t\t<strong>with </strong>\n\t\thim at all."
+    credits_raw: nexalacer
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: nexalacer
+    text: How does [と] work with [へ] in a phrase such as [現在の管理社会へと至っています]?
+    html: How does [と] work with [へ] in a phrase such as [現在の管理社会へと至っています]?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "(particles3)\n    Meaning: Noun-related Particles （と、や、とか、の） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (particles3)</span><br/>    <span><b>Meaning</b>: Noun-related Particles （と、や、とか、の） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: particles3
+    id: 1440
+    title_raw: (particles3)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=particles3
+    response_sha256: edd2f94b2ffb81576149424257143d9f97ca1b186a837e1b35150b13936c17a6
+    section: Tutorial
+    section_html_sha256: ca4d2307f606d6b4b58b6c25f58305f5a24fe2e4845baac2317f81c06905ddcb
+    section_text_sha256: f6bd18389809a0f121d0d1dad9da067e8da12c97c35906960269e596a196abb0
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8077
+    source_byte_length: 21653
+    section_bytes_sha256: 5a560c6f980d823308324ded02ad97aef1692cd35bf9710786185af6691ce49f
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215022247'

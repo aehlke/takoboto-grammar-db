@@ -1,0 +1,75 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1439
+label: negverb
+title_raw: (negverb)
+title: (negverb)
+reading: null
+romanized_label: negverb
+category: lesson
+jlpt_level_original: '0'
+meaning: Negative Verbs
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=negverb
+archive_url: https://web.archive.org/web/20150224234428id_/http://www.jgram.org/pages/viewOne.php?tagE=negverb
+archive_timestamp: '20150224234428'
+retrieved_at: '2026-10-03T16:07:40+00:00'
+archive_digest: YGW6ZJWI5IGYW3PTWAS66FPJK6E5AEX5
+response_sha256: 4f46a416253ba0cdaf105a32612dcb4d31915309378d7b7825ae84dd03cbbf29
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries:
+  - position: 0
+    target_label: tieuacui
+    label: tieuacui
+    annotation_text: tieuacui [tieuacui]
+    annotation_html: |-
+      <a href="http://www.jgram.org/pages/viewOne.php?tagE=tieuacui">tieuacui</a> [<a href="http://www.jgram.org/pages/contributions.php?author=tieuacui">tieuacui</a>]
+    credits_raw: tieuacui
+sections:
+  - kind: header
+    text: "(negverb)\n    Meaning: Negative Verbs \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (negverb)</span><br/>    <span><b>Meaning</b>: Negative Verbs </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: negverb
+    id: 1439
+    title_raw: (negverb)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=negverb
+    response_sha256: 4f46a416253ba0cdaf105a32612dcb4d31915309378d7b7825ae84dd03cbbf29
+    section: Tutorial
+    section_html_sha256: 8f6ae570ba66bfb901e51df01ab5e041295343db4680a62b716a2a45ea539be1
+    section_text_sha256: c8e070dce62b9e83d651c6e0317c6a01f340bf8a840c2e81ee0aa18e44a0c6a4
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8757
+    source_byte_length: 12412
+    section_bytes_sha256: 816f8a17b33aab3fb523c67a7ba8fa70549d377c34b1dee86e19a6bff96cc7d9
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224234428'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 57602745
+  length: 7780
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 43f3c50a8a4349aa6a1a143cf33a86ac3ba48240a53f62a3ac4725886f0bdbbb

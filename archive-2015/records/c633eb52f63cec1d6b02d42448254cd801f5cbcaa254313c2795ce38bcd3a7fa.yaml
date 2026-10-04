@@ -1,0 +1,114 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1580
+label: casual
+title_raw: Casual Patterns and Slang (casual)
+title: Casual Patterns and Slang (casual)
+reading: null
+romanized_label: casual
+category: lesson
+jlpt_level_original: '3'
+meaning: Casual Patterns and Slang
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=casual
+archive_url: https://web.archive.org/web/20150224235810id_/http://www.jgram.org/pages/viewOne.php?tagE=casual
+archive_timestamp: '20150224235810'
+retrieved_at: '2026-10-03T16:08:26+00:00'
+archive_digest: KRFTOW7W33DLHMVKGLRUC3AOPN3ZTYFR
+response_sha256: a5faf56d79465a90b4203f1e7f1859ad1365964a7c88002088eecdf83af6010a
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: |-
+      The author of this essay seems to confuse contractions with slang.  Contractions make speaking easier and colloquial.  Contractions are not particularly basic level, either.  This entire entry should be deleted in favor of a clearer essay.
+    html: |-
+      The author of this essay seems to confuse contractions with slang.  Contractions make speaking easier and colloquial.  Contractions are not particularly basic level, either.  This entire entry should be deleted in favor of a clearer essay.
+    credits_raw: american57
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples: []
+comments:
+  - position: 0
+    credits_raw: Televangelist
+    text: Where is the rest of this entry?
+    html: Where is the rest of this entry?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: gazza_b
+    text: Who knows...wouldn`t mind reading it!
+    html: Who knows...wouldn`t mind reading it!
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: SonicQix
+    text: Yeah. Where did the rest go?
+    html: Yeah. Where did the rest go?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: nicemon
+    text: |-
+      If you were to compare it on ones from tae kim's, this is really messed up. Actually the last parts are from other topics.
+    html: |-
+      If you were to compare it on ones from tae kim's, this is really messed up. Actually the last parts are from other topics.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: jgram_trev
+    text: Isn't そばから and や否や 1kyu grammar??
+    html: Isn't そばから and や否や 1kyu grammar??
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries: []
+sections:
+  - kind: header
+    text: "Casual Patterns and Slang (casual)\n    Meaning: Casual Patterns and Slang \n    JLPT Level: 3\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span>Casual Patterns and Slang (casual)</span><br/>    <span><b>Meaning</b>: Casual Patterns and Slang </span><br/>    <b>JLPT Level</b>: 3<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: casual
+    id: 1580
+    title_raw: Casual Patterns and Slang (casual)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=casual
+    response_sha256: a5faf56d79465a90b4203f1e7f1859ad1365964a7c88002088eecdf83af6010a
+    section: Tutorial
+    section_html_sha256: 166536b69a2eeabd7473856ef939e53a05b943a98f0764c5bc658556a7f23d0d
+    section_text_sha256: b0051f9044a9ca32441780479d790baf654ec8cf6faaae5eb0b2c456ccb2eb4e
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 9142
+    source_byte_length: 9819
+    section_bytes_sha256: 26468ab4db6393e9de73ebbb212829d6c668b8c008210ea9ac074ccd24a48b4f
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224235810'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 66784488
+  length: 8847
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 749122aa15394ce1aff2a4bd384627d856700db2cb061e98a80e4ce092eae3c8

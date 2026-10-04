@@ -1,0 +1,238 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1145
+label: toiuto
+title_raw: と言うと [というと] (toiuto)
+title: と言うと
+reading: というと
+romanized_label: toiuto
+category: grammar
+jlpt_level_original: '2'
+meaning: when you talk of, speaking of, when you say
+meaning_example: talking of the french...
+credits_raw: dc
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=toiuto
+archive_url: https://web.archive.org/web/20200215022517id_/http://jgram.org:80/pages/viewOne.php?tagE=toiuto
+archive_timestamp: '20200215022517'
+retrieved_at: '2026-10-04T01:56:27+00:00'
+archive_digest: SMOZHIGH7MIE7JPAVPHDWV7N33N6LVR6
+response_sha256: 9d8b458e5693ba7efadf6802899f7bcbb13a2cd0ac5a59d7ed3ab8410a81846c
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples:
+  - source_id: 378
+    position: 0
+    japanese: スイスというと何をイメージしますか？
+    body_text: "スイスというと何をイメージしますか？ \n\nWhen you hear \n\t\t'Switzerland' what does it invoke in your mind?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJスイスというと何をイメージしますか？\">\nスイス<strong>というと</strong>何をイメージしますか？<strong></strong></a> <br/>\n<strong>When you hear </strong>\n\t\t'Switzerland' what does it invoke in your mind?"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3109
+    position: 1
+    japanese: なぜクビにならなかったかと言うと彼には超能力があり、彼の予知で数々の難事件が解決をみたからだ
+    body_text: "なぜクビにならなかったかと言うと彼には超能力があり、彼の予知で数々の難事件が解決をみたからだ \n\nTo say (the reason) \n\t\twhy he wasn't fired, having psychic powers, he solved many difficult cases with his foresight."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJなぜクビにならなかったかと言うと彼には超能力があり、彼の予知で数々の難事件が解決をみたからだ\">\nなぜクビにならなかったか<strong>と言うと</strong>彼には超能力があり、彼の予知で数々の難事件が解決をみたからだ<strong></strong></a> <br/>\n<strong>To say (the reason) </strong>\n\t\twhy he wasn't fired, having psychic powers, he solved many difficult cases with his foresight."
+    credits_raw: bi-ru
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3115
+    position: 2
+    japanese: 何かというとあいつはいつも口を出そうとする。
+    body_text: "何かというとあいつはいつも口を出そうとする。 \n\n\t\tWhatever \n\t\thappens, \n\t\tthat guy always tries to interject himself."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ何かというとあいつはいつも口を出そうとする。\">\n何かと<strong>いうと</strong>あいつはいつも口を出そうとする。<strong></strong></a> <br/>\n\t\tWhatever \n\t\t<strong>happens, </strong>\n\t\tthat guy always tries to interject himself."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5945
+    position: 3
+    japanese: 何故かといわれても、知りません
+    body_text: "何故かといわれても、知りません \n\nIf \n\t\tyou ask me why, I don't know."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ何故かといわれても、知りません\">\n\t\t\t\t何故か<strong>といわれても</strong>、知りません<strong></strong></a> <br/>\n<strong>If </strong>\n\t\tyou ask me why, I don't know."
+    credits_raw: swing39
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: Is that actually how you spell Switzerland I wonder? ^^v
+    html: Is that actually how you spell Switzerland I wonder? ^^v
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: bi-ru
+    text: |-
+      This is the best way I can interpret this example. It seems like a good one of toiuto, but maybe someone else can be more precise in its translation
+    html: |-
+      This is the best way I can interpret this example. It seems like a good one of toiuto, but maybe someone else can be more precise in its translation
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: dc
+    text: it looks like miki edited the example... in which case maybe we should turn it green rather than red = "edited"
+    html: it looks like miki edited the example... in which case maybe we should turn it green rather than red = "edited"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: bamboo4
+    text: Keep it in red for a while.
+    html: Keep it in red for a while.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: bi-ru
+    text: added the rest of the sentence to put it in a whole context
+    html: added the rest of the sentence to put it in a whole context
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Miki
+    text: I just added 「･･･。」 as the J-sentence seemed to be unfinished.　ばればれですね。:P Now it looks perfect.
+    html: I just added 「･･･。」 as the J-sentence seemed to be unfinished.　ばればれですね。:P Now it looks perfect.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: dc
+    text: I don't see a  「･･･。」 ? ex# 3109?
+    html: |-
+      I don't see a  「･･･。」 ? ex<b><a href="http://jgram.org:80/pages/viewOne.php?tagE=toiuto#">#</a></b> 3109?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: Miki
+    text: Yes it's ex# 3109. I added「･･･。」before bi-ru added the rest of the sentence which you can read now.
+    html: |-
+      Yes it's ex<b><a href="http://jgram.org:80/pages/viewOne.php?tagE=toiuto#">#</a></b> 3109. I added「･･･。」before bi-ru added the rest of the sentence which you can read now.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: dc
+    text: What is the difference with と言ったら？
+    html: What is the difference with と言ったら？
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: Miki
+    text: "I think と言ったら is almost the same as と言うと but makes a sentence more casual and colloquial. \n\r\nex#3115 というと is different from others. 何か というと should be used a set. 何か_と_いったら means different.\n\r\n何かといったら、犬に決まっているじゃないか。"
+    html: "I think と言ったら is almost the same as と言うと but makes a sentence more casual and colloquial. <br/>\r\nex<b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=toiuto#3115\">#3115</a></b> というと is different from others. 何か というと should be used a set. 何か_と_いったら means different.<br/>\r\n何かといったら、犬に決まっているじゃないか。"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: nhk9
+    text: "I don't really know what the meanings for both 何か というとnor the meaning for 何か_と_いったら.  However, I think there's a slight difference between toiuto and toittara.  Both means about \"speaking of...\" but the former is just stating something in a neutral sense, whereas the latter one is stating something more of surprise, or beauty.\n\n\n\r\nSo I think it's more common to say this \"沖縄といったら、文字でかけないほど美しい浜辺や海がたくさんあるようだね\"　with toittara than with toiuto.  I found this in the Kanzen Masuta textbook for level 2 grammar."
+    html: "I don't really know what the meanings for both 何か というとnor the meaning for 何か_と_いったら.  However, I think there's a slight difference between toiuto and toittara.  Both means about \"speaking of...\" but the former is just stating something in a neutral sense, whereas the latter one is stating something more of surprise, or beauty.<br/>\n<br/>\r\nSo I think it's more common to say this \"沖縄といったら、文字でかけないほど美しい浜辺や海がたくさんあるようだね\"　with toittara than with toiuto.  I found this in the Kanzen Masuta textbook for level 2 grammar."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: bamboo4
+    text: "といったら is used when making a conclusive or definitive statement, allowing nothing else, whereas というと is more generic and allows many alternatives.\n\r\nCompare 日本の山といったら富士山だ(when you say which is THE mountain in Japan, it would have to be Mt. Fuji) with the example #378 above."
+    html: "といったら is used when making a conclusive or definitive statement, allowing nothing else, whereas というと is more generic and allows many alternatives.<br/>\r\nCompare 日本の山といったら富士山だ(when you say which is THE mountain in Japan, it would have to be Mt. Fuji) with the example <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=toiuto#378\">#378</a></b> above."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: LittleFish
+    text: |-
+      I've heard "何故と言ったら" before in a few lectures. The speaker used "なぜと言ったら..." to push the lecture in a further direction, (seeing as there was no audience participation to tell him to keep going), to keep it flowing. Almost as if to say " "Why?" you may ask; well, blah blah blah."
+    html: |-
+      I've heard "何故と言ったら" before in a few lectures. The speaker used "なぜと言ったら..." to push the lecture in a further direction, (seeing as there was no audience participation to tell him to keep going), to keep it flowing. Almost as if to say " "Why?" you may ask; well, blah blah blah."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: KyleGoetz
+    text: |-
+      nhk9 is absolutely correct. かといったら contains within it a feeling, emotion, or surprise, while かというと does not. Straight from the ALC literature for ２級.
+    html: |-
+      nhk9 is absolutely correct. かといったら contains within it a feeling, emotion, or surprise, while かというと does not. Straight from the ALC literature for ２級.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: bamboo4
+    text: 'ex #5945: 「なぜかというと,しりません」is sort of weird. I think it should be 「何故かといわれても、知りません or 判りません」.'
+    html: |-
+      ex <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=toiuto#5945">#5945</a></b>: 「なぜかというと,しりません」is sort of weird. I think it should be 「何故かといわれても、知りません or 判りません」.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    credits_raw: bamboo4
+    text: 'Recommend chamging #5945 to that effect.'
+    html: |-
+      Recommend chamging <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=toiuto#5945">#5945</a></b> to that effect.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    credits_raw: kadoka66
+    text: "the rule for とconditional and たら conditional is exactly the same is it not. You can not use と for feelings, request sentences or to want something. ばconditional is the same I think.\n\n\n\r\nso 家に帰ると、電話して下さい。is wrong\n\n\n\r\n家に帰ったら、電話して下さい。"
+    html: "the rule for とconditional and たら conditional is exactly the same is it not. You can not use と for feelings, request sentences or to want something. ばconditional is the same I think.<br/>\n<br/>\r\nso 家に帰ると、電話して下さい。is wrong<br/>\n<br/>\r\n家に帰ったら、電話して下さい。<br/>\n<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    credits_raw: bamboo4
+    text: 'If you ae not going to change it, delete #5945.'
+    html: |-
+      If you ae not going to change it, delete <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=toiuto#5945">#5945</a></b>.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    credits_raw: dc
+    text: it looks like 5945 has been changed - but please feel free to edit the examples, wikipedia style.
+    html: it looks like 5945 has been changed - but please feel free to edit the examples, wikipedia style.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    credits_raw: tigert
+    text: "I was just wondering if this と言うと　isn`t really a single grammar point. と言う is often used to give an explanation of something. It basicly means \"to say\"\n\n\n\r\nIE　何と言う学校で勉強しますか？\n\r\n　What is the school you study at called?\n\n\n\r\nWith that as it is. the final と before the rest of the sentence is the sentence connective causative と that implies \"because of S1, Naturally S2 came to be\" \n\n\n\r\nso Ex 378 is really\n\r\nWhen (Someone `omitted は`) says \"Switzerland\", what image do you see (Naturally without the ablity to control it `と`)\n\n\n\n\n\r\nEx 3109 can be broken down to a rhetorical Question followed by the (natural and unchangable) answer.\n\n\n\r\nEx 3115 isn`t a very good translation. \"sorry bamboo\"\n\n\n\r\n何か　means something so 何かと言う means to say something so a better translation would be\n\n\n\r\nwhen ever (anyone　`omitted は`) says something, ( it is naturally unavoidable that `と`) that guy will open ( let it appear `出る`) his mouth."
+    html: "I was just wondering if this と言うと　isn`t really a single grammar point. と言う is often used to give an explanation of something. It basicly means \"to say\"<br/>\n<br/>\r\nIE　何と言う学校で勉強しますか？<br/>\r\n　What is the school you study at called?<br/>\n<br/>\r\nWith that as it is. the final と before the rest of the sentence is the sentence connective causative と that implies \"because of S1, Naturally S2 came to be\" <br/>\n<br/>\r\nso Ex 378 is really<br/>\r\nWhen (Someone `omitted は`) says \"Switzerland\", what image do you see (Naturally without the ablity to control it `と`)<br/>\n<br/>\n<br/>\r\nEx 3109 can be broken down to a rhetorical Question followed by the (natural and unchangable) answer.<br/>\n<br/>\r\nEx 3115 isn`t a very good translation. \"sorry bamboo\"<br/>\n<br/>\r\n何か　means something so 何かと言う means to say something so a better translation would be<br/>\n<br/>\r\nwhen ever (anyone　`omitted は`) says something, ( it is naturally unavoidable that `と`) that guy will open ( let it appear `出る`) his mouth. <br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: to
+    label: to
+    annotation_text: to [tigert]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=to">to</a> [<a href="http://jgram.org:80/pages/contributions.php?author=tigert">tigert</a>]
+    credits_raw: tigert
+sections:
+  - kind: header
+    text: "と言うと [というと] (toiuto)\n    Meaning: when you talk of, speaking of, when you say \n    Example: talking of the french...\n    JLPT Level: 2\n    Category: grammar\n    Author: dc"
+    html: |-
+      <span>と言うと [というと] (toiuto)</span><br/>    <span><b>Meaning</b>: when you talk of, speaking of, when you say </span><br/>    <b>Example</b>: <i>talking of the french...</i><br/>    <b>JLPT Level</b>: 2<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>dc</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215022517'

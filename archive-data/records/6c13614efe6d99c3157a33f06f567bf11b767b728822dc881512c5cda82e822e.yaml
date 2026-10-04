@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1444
+label: pastverb
+title_raw: (pastverb)
+title: (pastverb)
+reading: null
+romanized_label: pastverb
+category: lesson
+jlpt_level_original: '0'
+meaning: Past Tense
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=pastverb
+archive_url: https://web.archive.org/web/20200215024055id_/http://jgram.org:80/pages/viewOne.php?tagE=pastverb
+archive_timestamp: '20200215024055'
+retrieved_at: '2026-10-04T04:14:25+00:00'
+archive_digest: IOLTVIUQCONY4ZTRJSF6CQKENTA4AZLQ
+response_sha256: aa1eedb123a134154340e02252700c3d1837caf4b425109a751d94c27444e3db
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(pastverb)\n    Meaning: Past Tense \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (pastverb)</span><br/>    <span><b>Meaning</b>: Past Tense </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: pastverb
+    id: 1444
+    title_raw: (pastverb)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=pastverb
+    response_sha256: aa1eedb123a134154340e02252700c3d1837caf4b425109a751d94c27444e3db
+    section: Tutorial
+    section_html_sha256: 3fca14394d8006767887be512f42db3ec27822545a1b76e750fdf08857e70343
+    section_text_sha256: 51611cc7cfaea718782c319aabce99d68b5b25e32b35d4d4258bc01c542e6e27
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8020
+    source_byte_length: 8506
+    section_bytes_sha256: 98dfca651b9f4a1463e04e18c2d15147c9a2661ef8491327363082ba5e28c7fe
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215024055'

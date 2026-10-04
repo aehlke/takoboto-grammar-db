@@ -1,0 +1,68 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1448
+label: question
+title_raw: (question)
+title: (question)
+reading: null
+romanized_label: question
+category: lesson
+jlpt_level_original: '0'
+meaning: The Question Marker　（か）
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://www.jgram.org/pages/viewOne.php?tagE=question
+archive_url: https://web.archive.org/web/20150224234444id_/http://www.jgram.org/pages/viewOne.php?tagE=question
+archive_timestamp: '20150224234444'
+retrieved_at: '2026-10-03T16:07:40+00:00'
+archive_digest: XSHTRDG5IX6VAMZRIMJJ2OKK6TTWSQXN
+response_sha256: 5a6e7396d51f95803653ed6988e1fa5efe49e43f2fccd3aca3f6fd23a3b74b56
+encoding: shift-jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(question)\n    Meaning: The Question Marker　（か） \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (question)</span><br/>    <span><b>Meaning</b>: The Question Marker　（か） </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/><br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: question
+    id: 1448
+    title_raw: (question)
+    source_url: http://www.jgram.org/pages/viewOne.php?tagE=question
+    response_sha256: 5a6e7396d51f95803653ed6988e1fa5efe49e43f2fccd3aca3f6fd23a3b74b56
+    section: Tutorial
+    section_html_sha256: 238f71203d29bcbd898711eac38d574c4c441d87a0fee93d4ca927d8346151a7
+    section_text_sha256: 9dd981467c143b1ced43c4037e9abb087eb0d4f4db9338c5a241c054a6b98002
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8791
+    source_byte_length: 15503
+    section_bytes_sha256: 66ea5bfd654123d5c6dd33a794f33f99598eeff2593f86ca2c306f91c3eb06bf
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+snapshot: archivebot-2015-02
+latest_indexed_timestamp: '20150224234444'
+selection_attempts: []
+retrieval:
+  method: archive-item-warc-range
+  url: https://dn711100.ca.archive.org/0/items/archiveteam_archivebot_go_20150302130001/jgram.org-inf-20150224-175105-5bi1u-00000.warc.gz
+  offset: 57843145
+  length: 8901
+  index_sha256: 4fb4709e7d691ca2b3605e56bfefd7dde3fb7876154240e66311a8da267b9aed
+  member_sha256: 813597bc4d7a7364182c0f0297b84f2b23f1586fe741b316cc99f2e2166b3841

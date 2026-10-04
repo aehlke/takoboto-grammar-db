@@ -1,0 +1,401 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 568
+label: da
+title_raw: 〜だ [〜だ] (da)
+title: 〜だ
+reading: 〜だ
+romanized_label: da
+category: grammar
+jlpt_level_original: '4'
+meaning: 'The ''copula'' : expresses conditions. X is Y.'
+meaning_example: I'm English.
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=da
+archive_url: https://web.archive.org/web/20200215030503id_/http://jgram.org:80/pages/viewOne.php?tagE=da
+archive_timestamp: '20200215030503'
+retrieved_at: '2026-10-03T17:49:52+00:00'
+archive_digest: 2M5KI6XJNCNN6J3RLHERL2JPRXGVQQZG
+response_sha256: ff8ca39deb8c03d45520baec28c1ee0f5bbcf07e07948cbcef104108423af5af
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: da is just like desu but is the casual form and it is used by children.
+    html: da is just like desu but is the casual form and it is used by children.
+    credits_raw: Sakuratree
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 616
+    position: 0
+    japanese: 犬だ！[inu da!]
+    body_text: "犬だ！[inu da!] \n\nIt's \n\t\ta dog!"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ犬だ！[inu \">\n\t\t\t\t犬<strong>だ</strong>！[inu <strong>da</strong>!]</a> <br/>\n<strong>It's </strong>\n\t\ta dog!"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 618
+    position: 1
+    japanese: イギリス人です。[igirisujin desu]
+    body_text: "イギリス人です。[igirisujin desu] \n\n\t\tI \n\t\tam \n\t\tEnglish."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJイギリス人です。[igirisujin desu\">\nイギリス人<strong>です。[igirisujin </strong>desu<strong>]</strong></a> <br/>\n\t\tI \n\t\t<strong>am </strong>\n\t\tEnglish."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 622
+    position: 2
+    japanese: それはなんですか [sore WA nan DESU KA]
+    body_text: "それはなんですか [sore WA nan DESU KA] \n\n\t\tWhat \n\t\tis \n\t\tthat?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJそれはなんですか [sore WA nan DESU KA]\">\n\t\t\t\tそれはなん<strong>です</strong>か [sore WA nan DESU KA]<strong></strong></a> <br/>\n\t\tWhat \n\t\t<strong>is </strong>\n\t\tthat?"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 624
+    position: 3
+    japanese: あの人は誰でしたか。 [ ano hito WA dare deshita ka] deshita
+    body_text: "あの人は誰でしたか。 [ ano hito WA dare deshita ka] deshita  \n\n\t\tWho \n\t\twas \n\t\tthat person?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあの人は誰でしたか。 [ ano hito WA dare deshita ka] \">\n\t\t\t\tあの人は誰<strong>でした</strong>か。 [ ano hito WA dare deshita ka] <strong>deshita </strong></a> <br/>\n\t\tWho \n\t\t<strong>was </strong>\n\t\tthat person?"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 626
+    position: 4
+    japanese: 田中さんではありませんでした。[ tanakasan deha arimasen deshita]
+    body_text: "田中さんではありませんでした。[ tanakasan deha arimasen deshita] \n\n\t\t(That) \n\t\twasn't \n\t\tMr Tanaka."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ田中さんではありませんでした。[ tanakasan \">\n田中さん<strong>ではありませんでした</strong>。[ tanakasan <strong>deha arimasen deshita</strong>]</a> <br/>\n\t\t(That) \n\t\t<strong>wasn't </strong>\n\t\tMr Tanaka."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 628
+    position: 5
+    japanese: 猫だった。[ neko datta ]
+    body_text: "猫だった。[ neko datta ] \n\n\t\t(That) \n\t\twas \n\t\ta cat."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ猫だった。[ neko \">\n猫<strong>だった</strong>。[ neko <strong>datta </strong>]</a> <br/>\n\t\t(That) \n\t\t<strong>was </strong>\n\t\ta cat."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 629
+    position: 6
+    japanese: 犬じゃない。[ inu ja nai]
+    body_text: "犬じゃない。[ inu ja nai] \n\n\t\t(That) \n\t\tis not \n\t\ta dog."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ犬じゃない。[ inu \">\n犬<strong>じゃない。</strong>[ inu <strong>ja nai]</strong></a> <br/>\n\t\t(That) \n\t\t<strong>is not </strong>\n\t\ta dog."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 630
+    position: 7
+    japanese: きつねじゃなかった？[ kitsuneja nakatta?]
+    body_text: "きつねじゃなかった？[ kitsuneja nakatta?] \n\nWasn't it \n\t\ta fox?"
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJきつねじゃなかった？[ kitsune\">\n\t\t\t\tきつね<strong>じゃなかった</strong>？[ kitsune<strong>ja nakatta</strong>?]</a> <br/>\n<strong>Wasn't it </strong>\n\t\ta fox?"
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 764
+    position: 8
+    japanese: まだプロじゃないです。[ mada puro ja nai desu. ]
+    body_text: "まだプロじゃないです。[ mada puro ja nai desu. ] \n\n\t\tI'm \n\t\tnot \n\t\ta Pro yet."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJまだプロじゃないです。[ mada puro \">\n\t\t\t\tまだプロ<strong>じゃないです</strong>。[ mada puro <strong>ja nai desu</strong>. ]</a> <br/>\n\t\tI'm \n\t\t<strong>not </strong>\n\t\ta Pro yet."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 879
+    position: 9
+    japanese: イギリス人でロンドンに住んでます。[igirisujin de rondon ni sundemasu.]
+    body_text: "イギリス人でロンドンに住んでます。[igirisujin de rondon ni sundemasu.] \n\n\t\t(I'm) English \n\t\tand \n\t\tlive in London."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJイギリス人でロンドンに住んでます。[igirisujin \">\n\t\t\t\tイギリス人<strong>で</strong>ロンドンに住んでます。[igirisujin <strong>de </strong>rondon ni sundemasu.]</a> <br/>\n\t\t(I'm) English \n\t\t<strong>and </strong>\n\t\tlive in London."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 5524
+    position: 10
+    japanese: 田中さんがこの問題は難しすぎるだと言った。
+    body_text: "田中さんがこの問題は難しすぎるだと言った。 \n\n\t\tMr. Tanaka said, \"this problem \n\t\tis \n\t\ttoo difficult.\""
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ田中さんがこの問題は難しすぎるだと言った。\">\n田中さんがこの問題は難しすぎる<strong>だ</strong>と言った。<strong></strong></a> <br/>\n\t\tMr. Tanaka said, \"this problem \n\t\t<strong>is </strong>\n\t\ttoo difficult.\""
+    credits_raw: Nightroad
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8648
+    position: 11
+    japanese: この本は新しいだ。
+    body_text: "この本は新しいだ。 \n\n\t\tThis book is new."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJこの本は新しいだ。\">\n\t\t\t\tこの本は新しい<strong>だ</strong>。<strong></strong></a> <br/>\n\t\tThis book is new. \n\t\t<strong> </strong>"
+    credits_raw: Sakuratree
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: '''犬だ'' is something a young kid might say on seeing a dog.'
+    html: '''犬だ'' is something a young kid might say on seeing a dog.'
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Amatuka
+    text: "Note the particle は is _said_ 'wa' but (depending on romaji system used) may be written 'ha'.\n\r\nThe kana わ on the other hand is always said and written 'wa'."
+    html: "Note the <b>particle</b> は is _said_ 'wa' but (depending on romaji system used) may be written 'ha'.<br/>\r\nThe <b>kana</b> わ on the other hand is always said <b>and</b> written 'wa'."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Amatuka
+    text: Note that the Xは of XはYです is very often omitted if it is known from context.
+    html: |-
+      Note that the <b>Xは</b> of <b>XはYです</b> is very often omitted if it is known from context.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: Amatuka
+    text: |-
+      An interesting Japanese page on です can be found 
+
+      here.
+    html: |-
+      An interesting Japanese page on です can be found <br/>
+      <a href="http://homepage3.nifty.com/i-yasu/Lesson.htm">here</a>.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: Miki
+    text: 寒いでした is awkward for me. Is it because I am not young enough? :( 寒かったでした。is more natural.
+    html: 寒いでした is awkward for me. Is it because I am not young enough? :( 寒かったでした。is more natural.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: Eeker
+    text: |-
+      I would recommend asking around among Japanese.  寒いでした is not used by native speakers - even young ones, though しないです is.
+    html: |-
+      I would recommend asking around among Japanese.  寒いでした is not used by native speakers - even young ones, though しないです is.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: bamboo4
+    text: |-
+      寒かったでした is awkward becase 寒かった already talks about past and adding でした which also indicate something of past is redundant. 寒かったです would be proper.
+    html: |-
+      寒かったでした is awkward becase 寒かった already talks about past and adding でした which also indicate something of past is redundant. 寒かったです would be proper.<br/>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: anon
+    text: bamboo4 you are right. 寒かったです。is proper.
+    html: bamboo4 you are right. 寒かったです。is proper.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 8
+    credits_raw: Eeker
+    text: |-
+      Right - 寒かったでした is not used by native speakers, but not just because of a redundancy in the expression of the past tense.  It is because when you have an い-adjective, you do not conjugate the past tense into the です, you conjugate it into the adjective.  Note that I was referring to 寒いでした (the example the author wrote in to this page), not 寒かったでした, but because of what I stated, both are non-native utterances ("wrong").
+    html: |-
+      Right - 寒かったでした is not used by native speakers, but not just because of a redundancy in the expression of the past tense.  It is because when you have an い-adjective, you do not conjugate the past tense into the です, you conjugate it into the adjective.  Note that I was referring to 寒いでした (the example the author wrote in to this page), not 寒かったでした, but because of what I stated, both are non-native utterances ("wrong").
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 9
+    credits_raw: anon
+    text: sorry, I am a native speaker.^^;
+    html: sorry, I am a native speaker.^^;
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 10
+    credits_raw: bamboo4
+    text: Sorry, I am also a native speaker.
+    html: Sorry, I am also a native speaker.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 11
+    credits_raw: Mitokomun
+    text: So we know that は　should be read wa, but somehow no one changes this page to reflect this. I wonder why.
+    html: So we know that は　should be read wa, but somehow no one changes this page to reflect this. I wonder why.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 12
+    credits_raw: dc
+    text: "I always found this \"tense\" for adjectives confusing. guess we dont have a past tense of \"cold\" in english. colded?\n\n\n\r\nNG:　寒い　でした : cold , it was \n\r\nOK:　寒かった　です: colded , it is"
+    html: "I always found this \"tense\" for adjectives confusing. guess we dont have a past tense of \"cold\" in english. colded?<br/>\n<br/>\r\nNG:　寒い　でした : cold , it was <br/>\r\nOK:　寒かった　です: colded , it is<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 13
+    credits_raw: dc
+    text: "Mitokomun > romanized japanese textbooks that I have seen always write は as \"ha\" even when they know it should be pronounced \"wa\". \n\r\nTo make it even more confusing, there are occasions where it is pronounced \"wa\" too...\n\r\nMaybe someone else can explain why this is, but we are sticking to the standard romanization method. I guess I got used to it but it really threw me at first.\n\r\ncheck the ha page for more."
+    html: "Mitokomun &gt; romanized japanese textbooks that I have seen always write は as \"ha\" even when they know it should be pronounced \"wa\". <br/>\r\nTo make it even more confusing, there are occasions where it is pronounced \"wa\" too...<br/>\r\nMaybe someone else can explain why this is, but we are sticking to the standard romanization method. I guess I got used to it but it really threw me at first.<br/>\r\ncheck the <b><a href=\"http://jgram.org:80/pages/viewOne.php?tagE=ha\">ha</a></b> page for more."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 14
+    credits_raw: Unnamed
+    text: "寒い　でした is incorrect. \n\r\n寒かった is ok.\n\r\n寒かった　です is politer because of the word です which expresses the standard polite form.\n\n\n\r\n犬だ is ok, all Japs say that. And if you change だ into です, it shows your politeness"
+    html: "寒い　でした is incorrect. <br/>\r\n寒かった is ok.<br/>\r\n寒かった　です is politer because of the word です which expresses the standard polite form.<br/>\n<br/>\r\n犬だ is ok, all Japs say that. And if you change だ into です, it shows your politeness"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 15
+    credits_raw: Max
+    text: "For understanding the logic behind the copula transformations across tenses, affirmative/negative form etc... it helps to fall back to a vision of だ as the contraction of the canonic (formal) form である.\n\n\n\r\ncanonic         contraction\n\r\nである　　　　　だ\n\r\nであります　　　です\n\r\nであった　　　　だった\n\r\nでありました　　でした\n\r\nであろう　　　　だろう\n\r\nでありましょう　でしょう\n\n\n\r\nYou can then mostly rebuild the whole conjugation table by combining that with the following:\n\r\n- は is (generally) appended to で for the negative form: では,  contracted to じゃ in less formal situations\n\r\n- conjugation of ある: negative plain form of 5段 verb ある is い-adjective ない,  polite form of 5段 verb ある is irregular verb ござる\n\r\n- standard understanding of 5段 verb and い-adjective conjugations"
+    html: "For understanding the logic behind the copula transformations across tenses, affirmative/negative form etc... it helps to fall back to a vision of だ as the contraction of the canonic (formal) form である.<br/>\n<br/>\r\ncanonic         contraction<br/>\r\nである　　　　　だ<br/>\r\nであります　　　です<br/>\r\nであった　　　　だった<br/>\r\nでありました　　でした<br/>\r\nであろう　　　　だろう<br/>\r\nでありましょう　でしょう<br/>\n<br/>\r\nYou can then mostly rebuild the whole conjugation table by combining that with the following:<br/>\r\n- は is (generally) appended to で for the negative form: では,  contracted to じゃ in less formal situations<br/>\r\n- conjugation of ある: negative plain form of 5段 verb ある is い-adjective ない,  polite form of 5段 verb ある is irregular verb ござる<br/>\r\n- standard understanding of 5段 verb and い-adjective conjugations"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 16
+    credits_raw: balrog-kun
+    text: |-
+      In the example #879 the romanized イギリス人 should be igirisujin. Also, if 住んで is the -te form of sumu, what does the form 住んでます do? I always see 住んでいます.
+    html: |-
+      In the example <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=da#879">#879</a></b> the romanized イギリス人 should be igirisujin. Also, if 住んで is the -te form of sumu, what does the form 住んでます do? I always see 住んでいます.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 17
+    credits_raw: フリザ
+    text: 'そのex #5524 はちゃう。「田中さんがこの問題は難しすぎるだと言った。」ってゆうより「田中さんがこの問題は難しすぎるって言った」ってゆった方がええやろ。'
+    html: |-
+      そのex <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=da#5524">#5524</a></b> はちゃう。「田中さんがこの問題は難しすぎるだと言った。」ってゆうより「田中さんがこの問題は難しすぎるって言った」ってゆった方がええやろ。
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 18
+    credits_raw: karamu san
+    text: |-
+      So, all conjugations of the copula are derived from contractions of である and ではある (for negative tenses). In the negative present and past possible tenses, the conjugations are ないでしょう and なかったでしょう. Why can't they also become ではないでしょう and ではなかったでしょう? Also, why can't the plain past and negative possible tenses be contracted from ではないだろう and ではなかっただろう to じゃないだろう and じゃなかっただろう?
+    html: |-
+      So, all conjugations of the copula are derived from contractions of である and ではある (for negative tenses). In the negative present and past possible tenses, the conjugations are ないでしょう and なかったでしょう. Why can't they also become ではないでしょう and ではなかったでしょう? Also, why can't the plain past and negative possible tenses be contracted from ではないだろう and ではなかっただろう to じゃないだろう and じゃなかっただろう?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 19
+    credits_raw: Sumofan
+    text: "Re Mitokomun and dc's comments on は/wa/ha: \n\r\nI just checked about 20 text books/dictionaries. Without exception they all romanize the particle は as \"wa\". The only place I have ever come across the particle は written \"ha\" is on the Internet. I presume this is due to cases where computers have done automatic transcriptions of hiragana to romaji without regard for the grammatical context."
+    html: "Re Mitokomun and dc's comments on は/wa/ha: <br/>\r\nI just checked about 20 text books/dictionaries. Without exception they all romanize the particle は as \"wa\". The only place I have ever come across the particle は written \"ha\" is on the Internet. I presume this is due to cases where computers have done automatic transcriptions of hiragana to romaji without regard for the grammatical context."
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 20
+    credits_raw: lstep
+    text: 'balrog-kun is right about example #879. イギリス人 should be romanized as igirisujin and not igirujin.'
+    html: |-
+      balrog-kun is right about example <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=da#879">#879</a></b>. イギリス人 should be romanized as igirisujin and not igirujin.
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 21
+    credits_raw: IMABI
+    text: The copula verb is fun. I can help about when to use da as I teach Japanese at www.freewebs.com/kanjiwebs/
+    html: The copula verb is fun. I can help about when to use da as I teach Japanese at www.freewebs.com/kanjiwebs/
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 22
+    credits_raw: larainda
+    text: In example 626, can you/should you write 田中さんはいませんでした。since we are referring to an animate subject?
+    html: In example 626, can you/should you write 田中さんはいませんでした。since we are referring to an animate subject?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: iru
+    label: iru
+    annotation_text: iru    (だ and いる can both indicate the presense of something living - used in different ways.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=iru">iru</a>    (だ and いる can both indicate the presense of something living - used in different ways.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: aru
+    label: aru
+    annotation_text: aru    (だ and ある can both indicate the presense of something inanimate - used in different ways.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=aru">aru</a>    (だ and ある can both indicate the presense of something inanimate - used in different ways.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 2
+    target_label: ha
+    label: ha
+    annotation_text: ha    (X ha Y da (X は Y だ) and its variants are the most basic of Japanese sentence structures.) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=ha">ha</a>    (X ha Y da (X は Y だ) and its variants are the most basic of Japanese sentence structures.) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 3
+    target_label: dearu
+    label: dearu
+    annotation_text: dearu    (である is the formal, written equivalent of だ) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=dearu">dearu</a>    (である is the formal, written equivalent of だ) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 4
+    target_label: is, am, are
+    label: is, am, are
+    annotation_text: is, am, are [bi-ru]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=is, am, are">is, am, are</a> [<a href="http://jgram.org:80/pages/contributions.php?author=bi-ru">bi-ru</a>]
+    credits_raw: bi-ru
+sections:
+  - kind: header
+    text: "〜だ [〜だ] (da)\n    Meaning: The 'copula' : expresses conditions. X is Y. \n    Example: I'm English.\n    JLPT Level: 4\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>〜だ [〜だ] (da)</span><br/>    <span><b>Meaning</b>: The 'copula' : expresses conditions. X is Y. </span><br/>    <b>Example</b>: <i>I'm English.</i><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: da
+    id: 568
+    title_raw: 〜だ [〜だ] (da)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=da
+    response_sha256: ff8ca39deb8c03d45520baec28c1ee0f5bbcf07e07948cbcef104108423af5af
+    section: Tutorial
+    section_html_sha256: fdd82abe28f52e94e6ca636ff0b24ea7ddc52930e6bcdfd14490f40fa9f8f7d4
+    section_text_sha256: c788c1479f9c6af8d4069e47007c1a46364563273f44654634c0644fb54a3ca1
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8274
+    source_byte_length: 2687
+    section_bytes_sha256: 42f96cf744737125ab162cfc4d55a7d4112cde12dd37ee7503eafb363e919cb0
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215030503'

@@ -1,0 +1,60 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1417
+label: compound
+title_raw: (compound)
+title: (compound)
+reading: null
+romanized_label: compound
+category: lesson
+jlpt_level_original: '0'
+meaning: Compound Sentences
+meaning_example: null
+credits_raw: TaeKim
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=compound
+archive_url: https://web.archive.org/web/20200215024735id_/http://jgram.org:80/pages/viewOne.php?tagE=compound
+archive_timestamp: '20200215024735'
+retrieved_at: '2026-10-04T03:03:59+00:00'
+archive_digest: KKMOFR26HKSBCV42PVANBT2DAAIFHPIW
+response_sha256: 286b0372039fa8d29240e06903fe62ed57f24a37eef1f4b34615497520c0809c
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes: []
+examples: []
+comments: []
+related_entries: []
+sections:
+  - kind: header
+    text: "(compound)\n    Meaning: Compound Sentences \n    JLPT Level: 0\n    Category: lesson\n    Author: TaeKim"
+    html: |-
+      <span> (compound)</span><br/>    <span><b>Meaning</b>: Compound Sentences </span><br/>    <b>JLPT Level</b>: 0<br/>    <b>Category</b>: <i>lesson</i><br/>    <b>Author</b>: <i>TaeKim</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+source_sections_complete: false
+omitted_sections:
+  - label: compound
+    id: 1417
+    title_raw: (compound)
+    source_url: http://jgram.org:80/pages/viewOne.php?tagE=compound
+    response_sha256: 286b0372039fa8d29240e06903fe62ed57f24a37eef1f4b34615497520c0809c
+    section: Tutorial
+    section_html_sha256: 12b2083444e23064eff956fe621650786569b8130443a8c9677369b73acf40cf
+    section_text_sha256: 3a95f36bd08bb98af0651da3640307c0932feb23c8359b93511790ded182e4eb
+    credits_raw: Tae Kim
+    decision: omit-from-CC-BY-SA-2.0-export
+    basis: |-
+      Separate Tae Kim copyright notice within a distinct tutorial cell; inspected newer Tae Kim material has CC BY-NC-SA 2.0. Only the independently marked JGram collection material outside this cell is included.
+    review_provenance: docs/section-review.md
+    source_byte_offset: 8038
+    source_byte_length: 28428
+    section_bytes_sha256: 3a0d95aa19f2f3af4b797de9eca35fc4309990656d646974fd12188b0e1149e7
+    byte_range_definition: Source td opening through closing markup before the next element outside this cell.
+omitted_source_decoding_segment_count: 0
+selection_attempts: []
+latest_indexed_timestamp: '20200215024735'

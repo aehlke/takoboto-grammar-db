@@ -1,0 +1,175 @@
+archive_schema_version: 1
+source: jgram-wayback
+id: 1216
+label: kara
+title_raw: から [から] (kara)
+title: から
+reading: から
+romanized_label: kara
+category: grammar
+jlpt_level_original: '4'
+meaning: because
+meaning_example: null
+credits_raw: Amatuka
+source_url: http://jgram.org:80/pages/viewOne.php?tagE=kara
+archive_url: https://web.archive.org/web/20200215023454id_/http://jgram.org:80/pages/viewOne.php?tagE=kara
+archive_timestamp: '20200215023454'
+retrieved_at: '2026-10-04T00:39:58+00:00'
+archive_digest: N3OKEL3ZF2XE5764B62VNVDNWKC2BJLX
+response_sha256: 3d137ddb3731adcbc3fad4c3ebce79325ec75c7c5b0eb13f9743fdbeb56d5c26
+encoding: shift_jis
+license:
+  id: CC-BY-SA-2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0/
+license_links:
+  - http://creativecommons.org/licenses/by-sa/2.0/
+  - http://creativecommons.org/licenses/by-sa/2.0/
+notes:
+  - position: 0
+    text: "A1 (plain form) + からです \n\r\nA2 (root) + だから \n\r\nN + だから"
+    html: "A1 (plain form) + からです <br/>\r\nA2 (root) + だから <br/>\r\nN + だから"
+    credits_raw: yookoso
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+examples:
+  - source_id: 471
+    position: 0
+    japanese: 面接に行くからはげましてください
+    body_text: "面接に行くからはげましてください \n\n\t\tI'm going to an interview \n\t\tso \n\t\tplease encourage me."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ面接に行くからはげましてください\">\n\t\t\t\t面接に行く<strong>から</strong>はげましてください<strong></strong></a> <br/>\n\t\tI'm going to an interview \n\t\t<strong>so </strong>\n\t\tplease encourage me."
+    credits_raw: Amatuka
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 3051
+    position: 1
+    japanese: 必要から発明が生まれる。
+    body_text: "必要から発明が生まれる。 \n\n\t\tInventions are made \n\t\tas dictated by \n\t\tnecessity."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ必要から発明が生まれる。\">\n必要<strong>から</strong>発明が生まれる。<strong></strong></a> <br/>\n\t\tInventions are made \n\t\t<strong>as dictated by </strong>\n\t\tnecessity."
+    credits_raw: bamboo4
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4831
+    position: 2
+    japanese: あの日帰ったのは体調が悪かったからです。
+    body_text: "あの日帰ったのは体調が悪かったからです。 \n\n\t\tIt is \n\t\tbecause \n\t\tthe physical condition was bad that I returned that day."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJあの日帰ったのは体調が悪かったからです。\">\n\t\t\t\tあの日帰ったのは体調が悪かった<strong>から</strong>です。<strong></strong></a> <br/>\n\t\tIt is \n\t\t<strong>because </strong>\n\t\tthe physical condition was bad that I returned that day."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 4832
+    position: 3
+    japanese: ああ、ゆっくりやって下さい。急ぎませんから。
+    body_text: "ああ、ゆっくりやって下さい。急ぎませんから。 \n\n\t\tOh, take your time. \n\t\t(Because) \n\t\tI'm in no hurry."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJああ、ゆっくりやって下さい。急ぎませんから。\">\n\t\t\t\tああ、ゆっくりやって下さい。急ぎません<strong>から。</strong><strong></strong></a> <br/>\n\t\tOh, take your time. \n\t\t<strong>(Because) </strong>\n\t\tI'm in no hurry."
+    credits_raw: Miki
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+  - source_id: 8667
+    position: 4
+    japanese: 昨夜病気だから、眠れなかった。
+    body_text: "昨夜病気だから、眠れなかった。 \n\nBecause \n\t\t  I was sick, I couldn't sleep last night."
+    body_html: "<a href=\"http://nihongo.monash.edu/cgi-bin/wwwjdic?9MHJ昨夜病気だから、眠れなかった。\">\n\t\t\t\t昨夜病気だ<strong>から</strong>、眠れなかった。<strong></strong></a> <br/>\n<strong>Because </strong>\n\t\t  I was sick, I couldn't sleep last night."
+    credits_raw: 反戦
+    verification_class:
+      - bottom
+    original_created_at: null
+    original_updated_at: null
+comments:
+  - position: 0
+    credits_raw: Amatuka
+    text: See also 'kara-2' (from)
+    html: See also 'kara-2' (from)
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 1
+    credits_raw: Miki
+    text: See also node
+    html: |-
+      See also <b><a href="http://jgram.org:80/pages/viewOne.php?tagE=node">node</a></b>
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 2
+    credits_raw: Crystal
+    text: what if kara comes at the end of a sentence? Are there any more examples of this?
+    html: what if kara comes at the end of a sentence? Are there any more examples of this?
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 3
+    credits_raw: dc
+    text: "kara at the end of a sentence seems like an answer to a question:\n\r\nsore ha takai kara / okane ga nai node\n\r\nbecause its expensive / because i dont have any money\n\r\n(when you have just been asked why you didnt buy something)\n\n\n\r\ndakara also isused at the end in the same way.\n\r\nhiroko no koto dakara ...\n\r\nbecause its hiroko..."
+    html: "kara at the end of a sentence seems like an answer to a question:<br/>\r\nsore ha takai kara / okane ga nai node<br/>\r\nbecause its expensive / because i dont have any money<br/>\r\n(when you have just been asked why you didnt buy something)<br/>\n<br/>\r\ndakara also isused at the end in the same way.<br/>\r\nhiroko no koto dakara ...<br/>\r\nbecause its hiroko...<br/>\n<br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 4
+    credits_raw: yookoso
+    text: "I saw the following explanation of the difference between kara and node on a mailing list today: \n\n\n\r\nThe conjunction \"kara\" and \"node\" both express reason or cause. While \"kara\" is used for reason or cause of a speaker's volition, opinion and so on, \"node\" is for existing (existed) action or situation.\n\r\n- Kino wa samukatta node uchi ni imashita. Since it was cold, I stayed home.\n\r\n- Atama ga itakatta node gakkou o yasunda. Since I had a headache, I didn't go to school. \n\r\n- Totemo shizukadatta node yoku nemuremashita. Since it was very quiet, I could sleep well.\n\r\n- Yoku benkyou shita node shiken ni goukaku shita. Since I studied hard, I passed the examination.\n\n\n\r\nThe sentences expressing personal judgment such as speculation, suggestion, intention, request, opinion, volition, invitation, and so forth must take \"kara.\"\n\r\n- Kono kawa wa kitanai kara tabun sakana wa inai deshou. Since this river is polluted, there is probably no fish. \n\r\n- Mou osoi kara hayaku nenasai. Go to bed, since it is getting late.\n\r\n- Kono hon wa totemo omoshiroi kara yonda hou ga ii. This book is very interesting, so you'd better to read it.\n\r\n- Kono kuruma wa furui kara atarashi kuruma ga hoshii desu. This car is old, so I want a new car.\n\n\n\r\nWhile \"kara\" focuses more on the reason, \"node\" focuses more on the resulting effect. This is why the \"kara\" clause is used independently more often than \"node\".\n\r\n- Doushite okureta no. Why were you late?\n\r\n- Densha ni nori okureta kara. Because I missed the train.\n\n\n\r\n\"Kara\" can be immediately followed by \"~ desu.\"\n\r\n- Atama ga itakatta kara desu. Because I had a headache. (OK)\n\r\n- Atama ga itakatta node desu. Because I had a headache. (Not OK = Wrong)\n\n\n\r\nAny comments, corrections?"
+    html: "I saw the following explanation of the difference between kara and node on a mailing list today: <br/>\n<br/>\r\nThe conjunction \"kara\" and \"node\" both express reason or cause. While \"kara\" is used for reason or cause of a speaker's volition, opinion and so on, \"node\" is for existing (existed) action or situation.<br/>\r\n- Kino wa samukatta node uchi ni imashita. Since it was cold, I stayed home.<br/>\r\n- Atama ga itakatta node gakkou o yasunda. Since I had a headache, I didn't go to school. <br/>\r\n- Totemo shizukadatta node yoku nemuremashita. Since it was very quiet, I could sleep well.<br/>\r\n- Yoku benkyou shita node shiken ni goukaku shita. Since I studied hard, I passed the examination.<br/>\n<br/>\r\nThe sentences expressing personal judgment such as speculation, suggestion, intention, request, opinion, volition, invitation, and so forth must take \"kara.\"<br/>\r\n- Kono kawa wa kitanai kara tabun sakana wa inai deshou. Since this river is polluted, there is probably no fish. <br/>\r\n- Mou osoi kara hayaku nenasai. Go to bed, since it is getting late.<br/>\r\n- Kono hon wa totemo omoshiroi kara yonda hou ga ii. This book is very interesting, so you'd better to read it.<br/>\r\n- Kono kuruma wa furui kara atarashi kuruma ga hoshii desu. This car is old, so I want a new car.<br/>\n<br/>\r\nWhile \"kara\" focuses more on the reason, \"node\" focuses more on the resulting effect. This is why the \"kara\" clause is used independently more often than \"node\".<br/>\r\n- Doushite okureta no. Why were you late?<br/>\r\n- Densha ni nori okureta kara. Because I missed the train.<br/>\n<br/>\r\n\"Kara\" can be immediately followed by \"~ desu.\"<br/>\r\n- Atama ga itakatta kara desu. Because I had a headache. (OK)<br/>\r\n- Atama ga itakatta node desu. Because I had a headache. (Not OK = Wrong)<br/>\n<br/>\r\nAny comments, corrections?"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 5
+    credits_raw: jokuah
+    text: "Pls help as I am NOT able to click into the lines to flash out the glossary. It stated \"no space\" - why and how to rectify?\n\r\nOnegai shimasu\n\n\n\nkuahjoanne@yahoo.com.sg"
+    html: "Pls help as I am NOT able to click into the lines to flash out the glossary. It stated \"no space\" - why and how to rectify?<br/>\r\nOnegai shimasu<br/>\n<br/>\n<a>kuahjoanne@yahoo.com.sg</a>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 6
+    credits_raw: parodia
+    text: "It's the first time that I read an understandable explanation.\n\r\nThank you so much for it."
+    html: "It's the first time that I read an understandable explanation.<br/>\r\nThank you so much for it. <br/>"
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+  - position: 7
+    credits_raw: feru
+    text: that's awesome guys! arigatou gozaimasu :D
+    html: that's awesome guys! arigatou gozaimasu :D
+    source_id: null
+    original_created_at: null
+    original_updated_at: null
+related_entries:
+  - position: 0
+    target_label: kara-2
+    label: kara-2
+    annotation_text: kara-2    (Several different から usages) [Amatuka]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=kara-2">kara-2</a>    (Several different から usages) [<a href="http://jgram.org:80/pages/contributions.php?author=Amatuka">Amatuka</a>]
+    credits_raw: Amatuka
+  - position: 1
+    target_label: node
+    label: node
+    annotation_text: node [bamboo4]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=node">node</a> [<a href="http://jgram.org:80/pages/contributions.php?author=bamboo4">bamboo4</a>]
+    credits_raw: bamboo4
+  - position: 2
+    target_label: karashite- 2
+    label: karashite- 2
+    annotation_text: karashite- 2 [leonardo.stylish]
+    annotation_html: |-
+      <a href="http://jgram.org:80/pages/viewOne.php?tagE=karashite- 2">karashite- 2</a> [<a href="http://jgram.org:80/pages/contributions.php?author=leonardo.stylish">leonardo.stylish</a>]
+    credits_raw: leonardo.stylish
+sections:
+  - kind: header
+    text: "から [から] (kara)\n    Meaning: because \n    JLPT Level: 4\n    Category: grammar\n    Author: Amatuka"
+    html: |-
+      <span>から [から] (kara)</span><br/>    <span><b>Meaning</b>: because </span><br/>    <b>JLPT Level</b>: 4<br/>    <b>Category</b>: <i>grammar</i><br/>    <b>Author</b>: <i>Amatuka</i><br/><br/>   <br/>
+original_created_at: null
+original_updated_at: null
+warnings: []
+selection_attempts: []
+latest_indexed_timestamp: '20200215023454'
