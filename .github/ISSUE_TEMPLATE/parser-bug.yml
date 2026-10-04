@@ -1,0 +1,32 @@
+name: Extraction or export problem
+description: Report missing fields, incorrect parsing, broken exports, or CLI errors.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer a reproduction using committed YAML or a small eligible offline fixture. The [contribution guide](https://github.com/aehlke/takoboto-grammar-db/blob/main/CONTRIBUTING.md) explains source evidence and verification. For an unavailable historical source, use a recovery issue instead.
+  - type: input
+    id: version
+    attributes:
+      label: Repository commit or release and environment
+      description: Include Python/uv versions and operating system when relevant.
+  - type: textarea
+    id: identity
+    attributes:
+      label: Affected record or source
+      description: Give a canonical YAML path, original ID, exact archived label, or release asset. Link source evidence for a missing or incorrect field.
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Include the command, input and concise error/output. A fresh export path helps reproduce export problems; no live crawl is required to report a bug.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+      description: Explain what should be retained or generated and what actually happened. Preserve source facts separately from suggested editorial corrections.
+    validations:
+      required: true

@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Existing source recovery issues
+    url: https://github.com/aehlke/takoboto-grammar-db/issues/1
+    about: Find the remaining source gaps and evidence already checked.
+  - name: Download the SQLite dataset
+    url: https://github.com/aehlke/takoboto-grammar-db/releases/latest
+    about: Use the published dataset or build offline from the committed YAML.
+  - name: Scraping permission and source scope
+    url: https://github.com/aehlke/takoboto-grammar-db/blob/main/PERMISSION.md
+    about: Contact Takoboto before running a live crawl and follow Archive.org restrictions.

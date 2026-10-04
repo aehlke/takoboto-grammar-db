@@ -1,0 +1,45 @@
+name: Source or license evidence
+description: Share a surviving JGram source, encoding match, or license notice.
+labels: [source-recovery]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the [recovery backlog](https://github.com/aehlke/takoboto-grammar-db/issues/1) first. Add evidence to an existing issue when it covers the same source; otherwise use this form.
+
+        Share public links and provenance. Keep raw held tutorial bodies and private database/account fields out of the issue. Before a live Takoboto crawl, obtain your own permission; Archive.org requests must follow robots rules, pacing and backoff. See [permission](https://github.com/aehlke/takoboto-grammar-db/blob/main/PERMISSION.md) and [archive handling](https://github.com/aehlke/takoboto-grammar-db/blob/main/docs/archive.md).
+  - type: input
+    id: identity
+    attributes:
+      label: Grammar ID, exact label, or related issue
+      description: Include original IDs or percent-encoded URLs when known. Do not guess a corrupted label's intended spelling.
+      placeholder: 'ID 1797 / temade / #3'
+  - type: textarea
+    id: source
+    attributes:
+      label: Source location and provenance
+      description: Give the public URL or describe the surviving copy, its origin and acquisition method. If a copy is private, describe it without publishing its contents.
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Source version or observation date
+      description: State whether this is a database version, archive capture, retrieval time or displayed contribution date. Unknown is fine.
+  - type: textarea
+    id: finding
+    attributes:
+      label: What does this evidence establish?
+      description: Describe the recovered fields, original IDs, alias match or license evidence. Distinguish confirmed facts from hypotheses and explain how it relates to the current records.
+    validations:
+      required: true
+  - type: textarea
+    id: license
+    attributes:
+      label: License and attribution evidence
+      description: Link the exact notice and its source/date if known. Include displayed contributor credits and separate notices. Leave this unknown rather than inferring a license from another revision.
+  - type: textarea
+    id: verification
+    attributes:
+      label: Checks already performed
+      description: Include relevant SHA-256 hashes, indexed capture timestamps, original URL bytes, schema/table names or bounded probes. A summary export is not proof that complete notes and comments survived.

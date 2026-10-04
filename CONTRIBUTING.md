@@ -6,6 +6,12 @@ and describe the source evidence. Keep displayed contributor credits intact.
 
 For source research, start with the [public recovery backlog](docs/remaining-work.md#public-recovery-backlog).
 Each issue records the evidence already checked and what would resolve the gap.
+The [new-issue forms](https://github.com/aehlke/takoboto-grammar-db/issues/new/choose)
+help report source/license evidence or extraction/export problems. Add evidence
+to an existing recovery issue when it covers the same observation. Cite exact
+source URLs, original IDs, dates and hashes when available; unknown facts should
+remain explicit. A private surviving copy can be described without publishing
+its raw contents in an issue.
 
 Before running any live Takoboto crawl, contact Takoboto and obtain your own
 permission, as explained in [PERMISSION.md](PERMISSION.md). The project author's
