@@ -4,6 +4,9 @@ Use issues or pull requests to report parser defects, missing source fields or
 improvements to the exports. Include the relevant grammar ID or archived label
 and describe the source evidence. Keep displayed contributor credits intact.
 
+For source research, start with the [public recovery backlog](docs/remaining-work.md#public-recovery-backlog).
+Each issue records the evidence already checked and what would resolve the gap.
+
 Before running any live Takoboto crawl, contact Takoboto and obtain your own
 permission, as explained in [PERMISSION.md](PERMISSION.md). The project author's
 permission does not cover other operators. Prefer the committed records and

@@ -7,6 +7,38 @@ exclusions, 11 failed replays and one license hold. The dated backup resolves
 all 1,077 selected labels: 766 included pages and 311 exclusions. It contains
 767 entry observations. Full source audits pass for exported material.
 
+## Public recovery backlog
+
+Each remaining recovery gap has a GitHub issue with pinned evidence links,
+previous attempts, suggested next steps and resolution criteria. Issues carry
+the `source-recovery` and `help wanted` labels. Claims of completeness still
+require source evidence; an issue's existence does not prove missing unique
+grammar content.
+
+| Gap | Issue |
+| --- | --- |
+| Final original JGram database, including the Yookoso lead | [#1](https://github.com/aehlke/takoboto-grammar-db/issues/1) |
+| Historical observation for 1795, `~ageru` | [#2](https://github.com/aehlke/takoboto-grammar-db/issues/2) |
+| Historical observation for 1797, `temade` | [#3](https://github.com/aehlke/takoboto-grammar-db/issues/3) |
+| Source-specific license evidence for 2005 `-oku` | [#4](https://github.com/aehlke/takoboto-grammar-db/issues/4) |
+| Failed corrupted alias, state key `2ca1ac89…` | [#5](https://github.com/aehlke/takoboto-grammar-db/issues/5) |
+| Failed corrupted alias, state key `498d75a4…` | [#6](https://github.com/aehlke/takoboto-grammar-db/issues/6) |
+| Failed mashite/hazuganai alias, state key `4e7b420d…` | [#7](https://github.com/aehlke/takoboto-grammar-db/issues/7) |
+| Failed `over` replay | [#8](https://github.com/aehlke/takoboto-grammar-db/issues/8) |
+| Failed “Try to” alias, state key `6f569082…` | [#9](https://github.com/aehlke/takoboto-grammar-db/issues/9) |
+| Failed greetings alias, state key `71aaa8c0…` | [#10](https://github.com/aehlke/takoboto-grammar-db/issues/10) |
+| Failed corrupted alias, state key `97ef91af…` | [#11](https://github.com/aehlke/takoboto-grammar-db/issues/11) |
+| Failed corrupted alias, state key `b037fb94…` | [#12](https://github.com/aehlke/takoboto-grammar-db/issues/12) |
+| Error-page alias, state key `c22917d1…` | [#13](https://github.com/aehlke/takoboto-grammar-db/issues/13) |
+| Error-page “How to write a Japanese letter” alias, state key `d7dd4c17…` | [#14](https://github.com/aehlke/takoboto-grammar-db/issues/14) |
+| Failed corrupted alias, state key `d9de0dac…` | [#15](https://github.com/aehlke/takoboto-grammar-db/issues/15) |
+
+Readable alias wording is only a locator. The issues preserve the exact escaped
+labels and original percent-encoded replay URLs; do not reconstruct source URLs
+from replacement characters. Separately licensed tutorial omissions are
+intentional scope limits, not filed as parser bugs. The Yookoso draft remains
+unsent; the source-recovery issue records that lead for later follow-up.
+
 ## Original sources still unavailable or uncertain
 
 - **1795 (`~ageru`) and 1797 (`temade`)** have no recovered historical detail
