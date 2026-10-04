@@ -23,12 +23,5 @@ No message has been sent on his behalf.
 > labels and displayed dates. Please exclude private account information,
 > emails, password hashes, sessions and other unrelated tables.
 >
-> If available, could you also provide the copy’s date, source and any license
-> or attribution notices? I would preserve separately licensed material as
-> such and verify the contents before redistribution.
->
-> The remaining current IDs without a historical detail observation are 1795
-> (~上げる / ~ageru) and 1797 (〜てまで / temade).
->
 > Thanks,
 > Alex Ehlke
