@@ -5,6 +5,11 @@ collection. It does not combine differently dated pages into an invented final
 version. Contributor labels and source order are retained; archive dates are
 capture dates, not contribution dates.
 
+The [October 4 verification refinement](verification-refinement-2026-10-04.md) documents stricter
+earlier-revision checks, migration ordering and private evidence handling. Its
+offline source audits and unchanged v0.6.0 fingerprints confirm that this code
+update changes no included grammar data.
+
 ## Sources
 
 | Source | Observation dates | Evidence in the repository |

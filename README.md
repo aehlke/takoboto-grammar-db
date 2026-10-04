@@ -39,6 +39,8 @@ source hashes, encoding repairs, scope decisions and unresolved cases. Per-recor
 WARC offsets and hashes support independent verification.
 The [deep reevaluation](docs/reevaluation.md) recovered a second original ID
 inside the `katawara` capture and explains the corrected entry boundaries.
+The [verification refinement](docs/verification-refinement-2026-10-04.md) records subsequent
+audit and private evidence fixes, with unchanged dataset fingerprints.
 
 Start with [the reconnaissance](docs/reconnaissance.md),
 [the schema](docs/schema.md) or [Archive.org handling](docs/archive.md).

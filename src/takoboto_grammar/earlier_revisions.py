@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 
 from .archive_parser import indexed_payload_mismatch, parse_archive
+from .section_reviews import verify_credit_references
 from .storage import load_record, record_paths, record_digest, require_exportable, annotate_archive_record
 
 KIND = 'earlier-indexed-revision'
@@ -40,8 +41,9 @@ def read_earlier_records(directory, for_export=True):
         matches = [c for c in item['captures'] + item.get('alternate_captures', []) if
                    c['timestamp'] == timestamp and c['original'] == record['source_url'] and
                    c['archive_url'] == record['archive_url'] and c.get('digest') == record['archive_digest']]
-        if not matches or not record.get('selection_reason'):
-            raise ValueError('Earlier revision lacks indexed source or selection reason')
+        if not matches or any(not isinstance(record.get(field), str) or not record[field].strip()
+                              for field in ('selection_reason', 'selection_provenance')):
+            raise ValueError('Earlier revision lacks indexed source or selection provenance')
         state_path = root / 'earlier-states' / (key + '.json')
         if state_path.is_symlink() or not state_path.resolve().is_relative_to(root):
             raise ValueError('Earlier state path escapes dataset')
@@ -81,6 +83,8 @@ def audit_earlier_records(root, eligible_ids):
                 'selection_reason', 'selection_provenance')})
             if expected != record:
                 raise ValueError('Earlier extraction differs from retained source')
+            verify_credit_references(record.get('omitted_sections', []),
+                                     lambda digest: cached_body(root.parent / 'archive-2015', digest))
         report['source_verified'] = True
     except (OSError, ValueError, KeyError, TypeError) as exc:
         report['errors'].append(str(exc))

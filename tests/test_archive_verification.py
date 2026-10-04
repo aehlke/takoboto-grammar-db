@@ -127,6 +127,25 @@ class VerificationTests(unittest.TestCase):
         self.assertEqual(report['verification_states_written']['entries'], 0)
         self.assertFalse((root / 'states').exists())
 
+    def test_invalid_earlier_revision_aborts_entry_and_feed_migration(self):
+        root, current = self.root(), self.root()
+        self.legacy(root)
+        self.current(current, 123, 'madashimo')
+        raw = (FIXTURES / 'archive-jlpt1.xml').read_bytes()
+        capture = {'original': 'http://jgram.org/rss/jlpt1.xml', 'timestamp': '20200713231337',
+                   'archive_url': 'https://web.archive.org/web/20200713231337id_/http://jgram.org/rss/jlpt1.xml'}
+        feed = parse_feed(raw, capture, {'retrieved_at': 'test'}, {'madashimo': 123})
+        write_json(root, 'feeds/jlpt1.json', feed)
+        cache_response(root, f"cache/responses/{feed['response_sha256']}.bin", raw)
+        self.url_metadata(root, capture['archive_url'], feed['response_sha256'])
+        write_json(root, 'earlier-records/invalid.json', {'label': 'ageku', 'archive_timestamp': 'bad'})
+        report = audit_archive(root, takoboto=current, record_verification=True)
+        self.assertFalse(report['export_ready'])
+        self.assertTrue(report['earlier_revisions']['errors'])
+        self.assertEqual(report['verification_states_written'], {'entries': 0, 'feeds': 0})
+        self.assertFalse((root / 'states').exists())
+        self.assertFalse((root / 'feed-states').exists())
+
     def test_legacy_feed_cannot_export_or_verify_its_own_label(self):
         root = self.root()
         self.legacy(root)

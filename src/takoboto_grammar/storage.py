@@ -174,7 +174,8 @@ def require_exportable(record):
     for additional in record.get('additional_entries', []):
         require_exportable(additional)
         for field in ('label', 'source_url', 'archive_url', 'archive_timestamp', 'archive_digest', 'response_sha256',
-                      'retrieved_at', 'snapshot', 'retrieval', 'latest_indexed_timestamp', 'selection_attempts'):
+                      'retrieved_at', 'snapshot', 'retrieval', 'latest_indexed_timestamp', 'selection_attempts',
+                      'observation_kind', 'selected_indexed_timestamp', 'selection_reason', 'selection_provenance'):
             if additional.get(field) != record.get(field):
                 raise ValueError(f'Additional entry differs from its shared capture provenance: {field}')
 

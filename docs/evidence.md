@@ -15,9 +15,11 @@ uv run --locked --offline takoboto-grammar evidence-backup --input . \
 
 The command records every file's SHA-256 and size, validates content-addressed
 response/member/index caches and refuses source symlinks or existing output
-files. Bundles use mode 0600 and restored roots use mode 0700. It includes inventories, canonical records, states, response metadata,
+files. Bundles are created with mode 0600 and restored roots with mode 0700,
+before any source bytes are written. It includes inventories, canonical records, states, response metadata,
 raw caches and held review evidence from the three dataset directories. It
-checks that source bytes did not change during backup. A failed bundle remains
+checks that the file inventory and source bytes did not change during backup.
+Added or removed files, changed bytes and new symlinks fail verification. A failed bundle remains
 available for inspection and must not be treated as a verified backup.
 
 **Keep this bundle private:** it includes unreleased third-party tutorial bodies

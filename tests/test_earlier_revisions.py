@@ -8,8 +8,13 @@ import tempfile
 import unittest
 from contextlib import closing
 from pathlib import Path
+from unittest.mock import patch
 
-from takoboto_grammar.archive_parser import parse_archive
+from bs4 import BeautifulSoup
+
+from takoboto_grammar import section_reviews
+from takoboto_grammar.archive_parser import parse_archive, source_soup
+from takoboto_grammar.parser import text
 from takoboto_grammar.earlier_revisions import read_earlier_records, audit_earlier_records
 from takoboto_grammar.storage import (write_record, write_json, cache_response, record_digest,
     annotate_archive_record, read_archive_records, build_sqlite, export_markdown)
@@ -18,8 +23,12 @@ from test_archive import CAPTURE, FIXTURE
 
 class EarlierRevisionTests(unittest.TestCase):
     def setUp(self):
-        self.root = Path(tempfile.mkdtemp(prefix='jgram-earlier-test-')).resolve()
-        self.body = FIXTURE.read_bytes()
+        self.root = Path(tempfile.mkdtemp(prefix='jgram-earlier-test-')).resolve() / 'archive-data'
+        self.root.mkdir()
+        self.retain_source(FIXTURE.read_bytes())
+
+    def retain_source(self, body):
+        self.body = body
         digest = base64.b32encode(hashlib.sha1(self.body).digest()).decode()
         self.capture = dict(CAPTURE, timestamp='20140327015231', digest=digest,
                             archive_url=CAPTURE['archive_url'].replace('20200215021200', '20140327015231'))
@@ -69,6 +78,19 @@ class EarlierRevisionTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'verification state'):
             read_archive_records(self.root)
 
+    def test_verified_hash_cannot_replace_required_selection_provenance(self):
+        for field in ('selection_reason', 'selection_provenance'):
+            original = self.record[field]
+            for value in (None, '', '   ', {'unsupported': 'structure'}):
+                with self.subTest(field=field, value=value):
+                    self.record[field] = value
+                    self.state['record_sha256'] = record_digest(self.record)
+                    write_record(self.root, f'earlier-records/{self.key}.yaml', self.record)
+                    write_json(self.root, f'earlier-states/{self.key}.json', self.state)
+                    with self.assertRaisesRegex(ValueError, 'selection provenance'):
+                        read_earlier_records(self.root)
+            self.record[field] = original
+
     def test_latest_timestamp_cannot_be_impersonated_by_earlier_record(self):
         self.record['latest_indexed_timestamp'] = self.capture['timestamp']
         write_record(self.root, f'earlier-records/{self.key}.yaml', self.record)
@@ -81,3 +103,40 @@ class EarlierRevisionTests(unittest.TestCase):
         report = audit_earlier_records(self.root, [])
         self.assertFalse(report['source_verified'])
         self.assertIn('hash mismatch', report['errors'][0])
+
+    def test_earlier_omissions_require_retained_attribution_reference(self):
+        soup, _ = source_soup(FIXTURE.read_bytes())
+        soup.body.append(BeautifulSoup('<table><tr><td><span class="titleSection">Tutorial:</span>'
+            '<p>Shared tutorial passage. Copyright Tae Kim</p></td></tr></table>', 'html.parser').table)
+        body = soup.encode('shift_jis')
+        parsed, _ = source_soup(body)
+        scope = parsed.select('.titleSection')[-1].parent
+        start = body.index(b'<td><span class="titleSection">Tutorial:')
+        length = body.index(b'</td>', start) + len(b'</td>') - start
+        reference = b'<meta charset="utf-8"><td><span class="titleSection">Tutorial:</span><p>Shared tutorial passage. Copyright Tae Kim</p></td>'
+        reference_soup, _ = source_soup(reference)
+        normalized = text(reference_soup.td)
+        digest = hashlib.sha256(reference).hexdigest()
+        review = {'label': CAPTURE['label'], 'id': 978, 'title_raw': text(parsed.select_one('.viewOnetitle')),
+            'source_url': CAPTURE['original'], 'response_sha256': hashlib.sha256(body).hexdigest(),
+            'section': 'Tutorial', 'section_html_sha256': section_reviews.section_hash(scope),
+            'section_text_sha256': hashlib.sha256(text(scope).encode()).hexdigest(),
+            'source_byte_offset': start, 'source_byte_length': length,
+            'section_bytes_sha256': hashlib.sha256(body[start:start + length]).hexdigest(),
+            'credits_raw': 'Tae Kim', 'decision': 'omit-from-CC-BY-SA-2.0-export', 'basis': 'Fixture review',
+            'credit_evidence': {'reference_response_sha256': digest,
+                'reference_section_html_sha256': section_reviews.section_hash(reference_soup.td),
+                'matching_passages': [{'reference_text_offset': 0, 'text_length': len(normalized),
+                                      'text_sha256': hashlib.sha256(normalized.encode()).hexdigest()}]}}
+        with patch.object(section_reviews, 'REVIEWS', [review]):
+            self.retain_source(body)
+            report = audit_earlier_records(self.root, [])
+            self.assertFalse(report['source_verified'], 'Missing attribution source must fail audit')
+            backup = self.root.parent / 'archive-2015'
+            backup.mkdir()
+            cache_response(backup, f'cache/responses/{digest}.bin', reference)
+            self.assertTrue(audit_earlier_records(self.root, [])['source_verified'])
+            (backup / f'cache/responses/{digest}.bin').write_bytes(reference + b'changed')
+            report = audit_earlier_records(self.root, [])
+            self.assertFalse(report['source_verified'])
+            self.assertIn('hash mismatch', report['errors'][0])

@@ -322,7 +322,9 @@ def audit_archive(directory, takoboto=None, record_verification=False):
     source_verified = ((not records or report['parsed_records_verified']) and
                        (not feeds or report['rss']['captured_records_verified']) and
                        bool(records or feeds) and not report['errors'])
-    if record_verification and source_verified:
+    from .earlier_revisions import audit_earlier_records
+    report['earlier_revisions'] = audit_earlier_records(root, eligible_ids)
+    if record_verification and source_verified and report['earlier_revisions']['source_verified']:
         # Validate the whole batch before writing any state; never lift existing holds.
         for label, state in entry_states:
             state.pop('eligible_ids', None)
@@ -335,8 +337,6 @@ def audit_archive(directory, takoboto=None, record_verification=False):
             report['verification_states_written']['feeds'] += 1
         report['unverified_records'] = []
         report['rss']['unverified_feeds'] = []
-    from .earlier_revisions import audit_earlier_records
-    report['earlier_revisions'] = audit_earlier_records(root, eligible_ids)
     report['export_ready'] = (source_verified and report['earlier_revisions']['source_verified'] and
                               not (report['unverified_records'] or report['rss']['unverified_feeds']))
     write_json(root, 'coverage-report.json', report)

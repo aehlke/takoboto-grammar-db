@@ -242,6 +242,24 @@ class PreservationTests(unittest.TestCase):
             build_sqlite([], self.root / 'multiple.sqlite', [record])
         self.assertFalse((self.root / 'multiple.sqlite').exists())
 
+    def test_secondary_entry_must_share_earlier_revision_selection(self):
+        record = parse_archive(self.multiple_entry_body(), CAPTURE, 'test')
+        fields = dict(observation_kind='earlier-indexed-revision',
+                      selected_indexed_timestamp=CAPTURE['timestamp'],
+                      selection_reason='Recover earlier content', selection_provenance='fixture')
+        annotate_archive_record(record, **fields)
+        for field in fields:
+            with self.subTest(field=field):
+                additional = record['additional_entries'][0]
+                original = additional.pop(field)
+                try:
+                    destination = self.root / f'{field}.sqlite'
+                    with self.assertRaisesRegex(ValueError, 'shared capture provenance'):
+                        build_sqlite([], destination, [record])
+                    self.assertFalse(destination.exists())
+                finally:
+                    additional[field] = original
+
     def test_latest_replay_payload_digest_mismatch_requires_review(self):
         capture = dict(CAPTURE, digest='A' * 32)
         record = parse_archive(FIXTURE.read_bytes(), capture, 'test')

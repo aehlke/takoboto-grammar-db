@@ -15,7 +15,7 @@ uv run --locked python -m unittest discover -s tests -v
 uv run --locked --offline python scripts/verify_dataset.py
 uv run --locked takoboto-grammar update-markdown --input data \
   --archive archive-data --archive-snapshot archive-2015 --output markdown
-git diff -- data/records archive-data/records archive-2015/records archive-data/feeds
+git diff -- data/records archive-data/records archive-data/earlier-records archive-2015/records archive-data/feeds
 uv run --locked takoboto-grammar build --input data --archive archive-data --archive-snapshot archive-2015 \
   --sqlite exports/dev/grammar.sqlite --markdown exports/dev/markdown
 ```

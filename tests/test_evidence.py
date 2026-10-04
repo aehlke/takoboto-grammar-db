@@ -7,6 +7,7 @@ import tarfile
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 from takoboto_grammar.evidence import backup_evidence, restore_evidence
 
 
@@ -39,6 +40,39 @@ class EvidenceTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'cache filename hash'):
             backup_evidence(self.root, self.root / 'corrupt.tar.gz')
         self.assertFalse((self.root / 'corrupt.tar.gz').exists())
+
+    def test_backup_rejects_source_inventory_changes_during_compression(self):
+        for change in ('added', 'removed', 'changed', 'symlink'):
+            with self.subTest(change=change):
+                target = self.root / 'data/inventory.json'
+                added = self.root / 'data/crawl-report.json'
+                saved = target.read_bytes()
+                original_addfile = tarfile.TarFile.addfile
+                modified = False
+                def addfile(archive, *args, **kwargs):
+                    nonlocal modified
+                    if not modified:
+                        modified = True
+                        if change == 'added':
+                            added.write_text('{}')
+                        elif change == 'removed':
+                            target.rename(self.root / 'saved-inventory.json')
+                        elif change == 'changed':
+                            target.write_text('{"changed": true}')
+                        else:
+                            added.symlink_to(target)
+                    return original_addfile(archive, *args, **kwargs)
+                try:
+                    with patch.object(tarfile.TarFile, 'addfile', addfile):
+                        with self.assertRaisesRegex(ValueError, 'changed while backing up|symlink'):
+                            backup_evidence(self.root, self.root / f'{change}.tar.gz')
+                finally:
+                    if added.exists() or added.is_symlink():
+                        added.rename(self.root / f'{change}-saved-report')
+                    if change == 'removed':
+                        (self.root / 'saved-inventory.json').rename(target)
+                    elif change == 'changed':
+                        target.write_bytes(saved)
 
     def test_archive_traversal_and_symlink_are_rejected_before_destination_creation(self):
         for number, member in enumerate([tarfile.TarInfo('../escape'), tarfile.TarInfo('data/cache/link')]):
